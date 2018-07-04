@@ -1,0 +1,9 @@
+	{
+		'name': 'SRADE',
+		'latitude': '46-39-29.38 N',
+		'longitude': '84-56-42.97 W',
+		'state': 'MICHIGAN',
+		'artcc': 'ZYZ',
+		'type': 'RP',
+		'updated': '    SSM*VOR/DME*304.00/30.00',
+	},
