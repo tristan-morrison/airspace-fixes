@@ -1,9 +1,0 @@
-	{
-		'name': 'FINGL',
-		'latitude': '42-45-23.74 N',
-		'longitude': '81-19-22 W',
-		'state': '',
-		'artcc': 'ZYZ',
-		'type': 'RNAV',
-		'updated': '04/17/2018',
-	},

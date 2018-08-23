@@ -1,9 +1,0 @@
-	{
-		'name': 'OMRAK',
-		'latitude': '43-16-15.45 N',
-		'longitude': '82-15-52.31 W',
-		'state': '',
-		'artcc': 'ZYZ',
-		'type': 'RNAV',
-		'updated': '02/24/2017',
-	},

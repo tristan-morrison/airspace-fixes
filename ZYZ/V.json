@@ -1,0 +1,18 @@
+	{
+		'name': 'VIGLO',
+		'latitude': '45-23-48 N',
+		'longitude': '82-25-11 W',
+		'state': '',
+		'artcc': 'ZYZ',
+		'type': 'RNAV',
+		'updated': '02/24/2017',
+	},
+	{
+		'name': 'VUNPY',
+		'latitude': '46-3-25.74 N',
+		'longitude': '83-31-46.66 W',
+		'state': 'MICHIGAN',
+		'artcc': 'ZYZ',
+		'type': 'RNAV',
+		'updated': '09/01/2010',
+	},

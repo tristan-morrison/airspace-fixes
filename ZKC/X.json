@@ -1,0 +1,18 @@
+	{
+		'name': 'XEYRU',
+		'latitude': '36-26-55.74 N',
+		'longitude': '101-19-53.43 W',
+		'state': 'TEXAS',
+		'artcc': 'ZKC',
+		'type': 'RNAV',
+		'updated': '11/04/2011',
+	},
+	{
+		'name': 'XUHAS',
+		'latitude': '39-1-34.08 N',
+		'longitude': '89-22-39.28 W',
+		'state': 'ILLINOIS',
+		'artcc': 'ZKC',
+		'type': 'RNAV',
+		'updated': '05/04/2016',
+	},

@@ -1,9 +1,0 @@
-	{
-		'name': 'BEPUP',
-		'latitude': '46-42-0.86 N',
-		'longitude': '82-33-22.31 W',
-		'state': '',
-		'artcc': 'ZYZ',
-		'type': 'RP',
-		'updated': '    SSM*VOR/DME*080.00',
-	},
