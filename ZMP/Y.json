@@ -1,3 +1,4 @@
+[
 	{
 		"name": "YABFE",
 		"latitude": "45-4-13.4 N",
@@ -5,7 +6,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/27/2017",
+		"updated": "03/27/2017"
 	},
 	{
 		"name": "YABUR",
@@ -14,7 +15,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/04/2009",
+		"updated": "01/04/2009"
 	},
 	{
 		"name": "YABUT",
@@ -23,7 +24,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/06/2013",
+		"updated": "09/06/2013"
 	},
 	{
 		"name": "YACUB",
@@ -32,7 +33,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2012",
+		"updated": "06/28/2012"
 	},
 	{
 		"name": "YACYU",
@@ -41,7 +42,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/17/2009",
+		"updated": "04/17/2009"
 	},
 	{
 		"name": "YADBU",
@@ -50,7 +51,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/26/2011",
+		"updated": "05/26/2011"
 	},
 	{
 		"name": "YAFDY",
@@ -59,7 +60,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/02/2010",
+		"updated": "04/02/2010"
 	},
 	{
 		"name": "YAITS",
@@ -68,7 +69,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIS*VOR/DME*159.34/40.00",
+		"updated": "BIS*VOR/DME*159.34/40.00"
 	},
 	{
 		"name": "YAJJU",
@@ -77,7 +78,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "YANUN",
@@ -86,7 +87,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/14/2016",
+		"updated": "11/14/2016"
 	},
 	{
 		"name": "YANUT",
@@ -95,7 +96,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "AUW*VORTAC*004.55/30.14",
+		"updated": "AUW*VORTAC*004.55/30.14"
 	},
 	{
 		"name": "YANUY",
@@ -104,7 +105,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/24/2017",
+		"updated": "04/24/2017"
 	},
 	{
 		"name": "YANWU",
@@ -113,7 +114,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/17/2008",
+		"updated": "01/17/2008"
 	},
 	{
 		"name": "YAPUC",
@@ -122,7 +123,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "YKN*VOR/DME*238.44/12.10",
+		"updated": "YKN*VOR/DME*238.44/12.10"
 	},
 	{
 		"name": "YAPUL",
@@ -131,7 +132,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/31/2012",
+		"updated": "12/31/2012"
 	},
 	{
 		"name": "YARGR",
@@ -140,7 +141,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/17/2015",
+		"updated": "07/17/2015"
 	},
 	{
 		"name": "YARGU",
@@ -149,7 +150,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "EAU*LD*223.96/2.47",
+		"updated": "EAU*LD*223.96/2.47"
 	},
 	{
 		"name": "YARLU",
@@ -158,7 +159,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "APN*VORTAC*/13.32",
+		"updated": "APN*VORTAC*/13.32"
 	},
 	{
 		"name": "YARUD",
@@ -167,7 +168,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ESC*LD*093.90/1.85",
+		"updated": "ESC*LD*093.90/1.85"
 	},
 	{
 		"name": "YATDO",
@@ -176,7 +177,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "YATOJ",
@@ -185,7 +186,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/16/2009",
+		"updated": "03/16/2009"
 	},
 	{
 		"name": "YATUC",
@@ -194,7 +195,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/06/2013",
+		"updated": "06/06/2013"
 	},
 	{
 		"name": "YAVUK",
@@ -203,7 +204,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/13/2010",
+		"updated": "08/13/2010"
 	},
 	{
 		"name": "YAYDU",
@@ -212,7 +213,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SPW*VOR/DME*301.77/14.00",
+		"updated": "SPW*VOR/DME*301.77/14.00"
 	},
 	{
 		"name": "YAZKY",
@@ -221,7 +222,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/23/2016",
+		"updated": "12/23/2016"
 	},
 	{
 		"name": "YAZMA",
@@ -230,7 +231,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "STC*VOR/DME*151.54",
+		"updated": "STC*VOR/DME*151.54"
 	},
 	{
 		"name": "YEBUG",
@@ -239,7 +240,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/24/2009",
+		"updated": "03/24/2009"
 	},
 	{
 		"name": "YEBUY",
@@ -248,7 +249,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/21/2013",
+		"updated": "03/21/2013"
 	},
 	{
 		"name": "YECBO",
@@ -257,7 +258,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/19/2009",
+		"updated": "12/19/2009"
 	},
 	{
 		"name": "YEDUN",
@@ -266,7 +267,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/20/2012",
+		"updated": "03/20/2012"
 	},
 	{
 		"name": "YEDUR",
@@ -275,7 +276,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/01/2010",
+		"updated": "12/01/2010"
 	},
 	{
 		"name": "YEDUT",
@@ -284,7 +285,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/03/2011",
+		"updated": "10/03/2011"
 	},
 	{
 		"name": "YEFBE",
@@ -293,7 +294,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/04/2000",
+		"updated": "12/04/2000"
 	},
 	{
 		"name": "YEFZI",
@@ -302,7 +303,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SAW*VOR/DME*188.98/11.00",
+		"updated": "SAW*VOR/DME*188.98/11.00"
 	},
 	{
 		"name": "YEGUB",
@@ -311,7 +312,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/15/2011",
+		"updated": "12/15/2011"
 	},
 	{
 		"name": "YEGUC",
@@ -320,7 +321,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "YEKZU",
@@ -329,7 +330,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/17/2008",
+		"updated": "01/17/2008"
 	},
 	{
 		"name": "YELUD",
@@ -338,7 +339,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/20/2012",
+		"updated": "03/20/2012"
 	},
 	{
 		"name": "YELUV",
@@ -347,7 +348,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/23/2009",
+		"updated": "03/23/2009"
 	},
 	{
 		"name": "YENUN",
@@ -356,7 +357,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "LNK*VORTAC*359.93/10.60",
+		"updated": "LNK*VORTAC*359.93/10.60"
 	},
 	{
 		"name": "YEPSU",
@@ -365,7 +366,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "XCR*NDB*064.84",
+		"updated": "XCR*NDB*064.84"
 	},
 	{
 		"name": "YEPUL",
@@ -374,7 +375,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/19/2012",
+		"updated": "04/19/2012"
 	},
 	{
 		"name": "YERUC",
@@ -383,7 +384,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/11/2012",
+		"updated": "07/11/2012"
 	},
 	{
 		"name": "YESUL",
@@ -392,7 +393,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/13/2015",
+		"updated": "03/13/2015"
 	},
 	{
 		"name": "YESUR",
@@ -401,7 +402,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RST*VOR/DME*168.19/13.00",
+		"updated": "RST*VOR/DME*168.19/13.00"
 	},
 	{
 		"name": "YETER",
@@ -410,7 +411,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FOD*VORTAC*120.33/11.00",
+		"updated": "FOD*VORTAC*120.33/11.00"
 	},
 	{
 		"name": "YETJA",
@@ -419,7 +420,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*356.05",
+		"updated": "OVR*VORTAC*356.05"
 	},
 	{
 		"name": "YETPU",
@@ -428,7 +429,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "YEWSS",
@@ -437,7 +438,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "YEXJO",
@@ -446,7 +447,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SAW*VOR/DME*095.29/5.40",
+		"updated": "SAW*VOR/DME*095.29/5.40"
 	},
 	{
 		"name": "YEYUT",
@@ -455,7 +456,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/03/2010",
+		"updated": "09/03/2010"
 	},
 	{
 		"name": "YEZCO",
@@ -464,7 +465,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/30/2009",
+		"updated": "12/30/2009"
 	},
 	{
 		"name": "YIBUG",
@@ -473,7 +474,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/14/2013",
+		"updated": "02/14/2013"
 	},
 	{
 		"name": "YICRU",
@@ -482,7 +483,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "APN*VORTAC*355.00/15.00",
+		"updated": "APN*VORTAC*355.00/15.00"
 	},
 	{
 		"name": "YICUK",
@@ -491,7 +492,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/13/2010",
+		"updated": "08/13/2010"
 	},
 	{
 		"name": "YIDUK",
@@ -500,7 +501,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "YIKVU",
@@ -509,7 +510,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/24/2014",
+		"updated": "10/24/2014"
 	},
 	{
 		"name": "YILUV",
@@ -518,7 +519,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FAR*VOR/DME*101.00/25.00",
+		"updated": "FAR*VOR/DME*101.00/25.00"
 	},
 	{
 		"name": "YIMCU",
@@ -527,7 +528,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/23/2008",
+		"updated": "06/23/2008"
 	},
 	{
 		"name": "YINGU",
@@ -536,7 +537,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/16/2018",
+		"updated": "02/16/2018"
 	},
 	{
 		"name": "YINUR",
@@ -545,7 +546,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/25/2013",
+		"updated": "06/25/2013"
 	},
 	{
 		"name": "YIPUD",
@@ -554,7 +555,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/24/2004",
+		"updated": "05/24/2004"
 	},
 	{
 		"name": "YIRNU",
@@ -563,7 +564,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIS*VOR/DME*055.11/16.00",
+		"updated": "BIS*VOR/DME*055.11/16.00"
 	},
 	{
 		"name": "YIRRU",
@@ -572,7 +573,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SUX*VORTAC*004.00/26.25",
+		"updated": "SUX*VORTAC*004.00/26.25"
 	},
 	{
 		"name": "YIRUC",
@@ -581,7 +582,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/14/2011",
+		"updated": "06/14/2011"
 	},
 	{
 		"name": "YIRUT",
@@ -590,7 +591,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "YISES",
@@ -599,7 +600,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/14/2010",
+		"updated": "09/14/2010"
 	},
 	{
 		"name": "YISRU",
@@ -608,7 +609,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/09/2011",
+		"updated": "05/09/2011"
 	},
 	{
 		"name": "YISTU",
@@ -617,7 +618,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/14/2012",
+		"updated": "11/14/2012"
 	},
 	{
 		"name": "YISUD",
@@ -626,7 +627,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "APN*VORTAC*194.00/10.00",
+		"updated": "APN*VORTAC*194.00/10.00"
 	},
 	{
 		"name": "YISUR",
@@ -635,7 +636,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/17/2013",
+		"updated": "12/17/2013"
 	},
 	{
 		"name": "YISYU",
@@ -644,7 +645,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/09/2011",
+		"updated": "09/09/2011"
 	},
 	{
 		"name": "YITAY",
@@ -653,7 +654,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/26/2013",
+		"updated": "06/26/2013"
 	},
 	{
 		"name": "YITUB",
@@ -662,7 +663,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "YITUG",
@@ -671,7 +672,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/07/2017",
+		"updated": "11/07/2017"
 	},
 	{
 		"name": "YIYNO",
@@ -680,7 +681,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/18/2012",
+		"updated": "09/18/2012"
 	},
 	{
 		"name": "YIZMO",
@@ -689,7 +690,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/01/2013",
+		"updated": "05/01/2013"
 	},
 	{
 		"name": "YOBRI",
@@ -698,7 +699,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GPZ*VOR/DME*286.17/17.99",
+		"updated": "GPZ*VOR/DME*286.17/17.99"
 	},
 	{
 		"name": "YOCUV",
@@ -707,7 +708,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/02/2013",
+		"updated": "01/02/2013"
 	},
 	{
 		"name": "YODUC",
@@ -716,7 +717,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/21/2014",
+		"updated": "02/21/2014"
 	},
 	{
 		"name": "YODUG",
@@ -725,7 +726,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "YOGUN",
@@ -734,7 +735,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/19/2009",
+		"updated": "06/19/2009"
 	},
 	{
 		"name": "YOKLU",
@@ -743,7 +744,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/11/2011",
+		"updated": "10/11/2011"
 	},
 	{
 		"name": "YONUR",
@@ -752,7 +753,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/17/2011",
+		"updated": "10/17/2011"
 	},
 	{
 		"name": "YONUY",
@@ -761,7 +762,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/05/2012",
+		"updated": "04/05/2012"
 	},
 	{
 		"name": "YOPBU",
@@ -770,7 +771,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OTG*VOR/DME*056.02/30.00",
+		"updated": "OTG*VOR/DME*056.02/30.00"
 	},
 	{
 		"name": "YOPCU",
@@ -779,7 +780,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/29/2013",
+		"updated": "04/29/2013"
 	},
 	{
 		"name": "YOPUB",
@@ -788,7 +789,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/03/2011",
+		"updated": "05/03/2011"
 	},
 	{
 		"name": "YOTSU",
@@ -797,7 +798,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/15/2008",
+		"updated": "05/15/2008"
 	},
 	{
 		"name": "YOTUS",
@@ -806,7 +807,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/19/2006",
+		"updated": "07/19/2006"
 	},
 	{
 		"name": "YOVUG",
@@ -815,7 +816,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "YOVUP",
@@ -824,7 +825,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "YOWQO",
@@ -833,7 +834,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/02/2013",
+		"updated": "07/02/2013"
 	},
 	{
 		"name": "YOXED",
@@ -842,7 +843,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "YOYPY",
@@ -851,7 +852,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "12/11/1995",
+		"updated": "12/11/1995"
 	},
 	{
 		"name": "YOYUC",
@@ -860,7 +861,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MOT*VORTAC*329.17/14.00",
+		"updated": "MOT*VORTAC*329.17/14.00"
 	},
 	{
 		"name": "YUBPU",
@@ -869,7 +870,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "YUBUR",
@@ -878,7 +879,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/10/2014",
+		"updated": "03/10/2014"
 	},
 	{
 		"name": "YUBUV",
@@ -887,7 +888,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/26/2017",
+		"updated": "10/26/2017"
 	},
 	{
 		"name": "YUCNU",
@@ -896,7 +897,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "YUFJE",
@@ -905,7 +906,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/02/2013",
+		"updated": "08/02/2013"
 	},
 	{
 		"name": "YUFZU",
@@ -914,7 +915,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/09/2014",
+		"updated": "09/09/2014"
 	},
 	{
 		"name": "YUGUL",
@@ -923,7 +924,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MHE*VOR/DME*090.53/15.23",
+		"updated": "MHE*VOR/DME*090.53/15.23"
 	},
 	{
 		"name": "YUGUP",
@@ -932,7 +933,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/16/2016",
+		"updated": "09/16/2016"
 	},
 	{
 		"name": "YUGVU",
@@ -941,7 +942,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/12/2012",
+		"updated": "09/12/2012"
 	},
 	{
 		"name": "YUGYY",
@@ -950,7 +951,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "YUKTU",
@@ -959,7 +960,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/19/2007",
+		"updated": "07/19/2007"
 	},
 	{
 		"name": "YUKUP",
@@ -968,7 +969,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ASP*VOR/DME*195.42/5.80",
+		"updated": "ASP*VOR/DME*195.42/5.80"
 	},
 	{
 		"name": "YULNU",
@@ -977,7 +978,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MBL*VOR/DME*251.45",
+		"updated": "MBL*VOR/DME*251.45"
 	},
 	{
 		"name": "YULUK",
@@ -986,7 +987,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/20/2012",
+		"updated": "03/20/2012"
 	},
 	{
 		"name": "YULYU",
@@ -995,7 +996,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/22/2007",
+		"updated": "08/22/2007"
 	},
 	{
 		"name": "YUPER",
@@ -1004,7 +1005,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/16/2016",
+		"updated": "09/16/2016"
 	},
 	{
 		"name": "YUPNU",
@@ -1013,7 +1014,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "INL*VOR/DME*071.22/12.00",
+		"updated": "INL*VOR/DME*071.22/12.00"
 	},
 	{
 		"name": "YUPUG",
@@ -1022,7 +1023,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "YUQZU",
@@ -1031,7 +1032,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/22/2007",
+		"updated": "08/22/2007"
 	},
 	{
 		"name": "YURUY",
@@ -1040,7 +1041,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/19/2017",
+		"updated": "12/19/2017"
 	},
 	{
 		"name": "YUSUG",
@@ -1049,7 +1050,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MNM*VOR/DME*353.69/12.00",
+		"updated": "MNM*VOR/DME*353.69/12.00"
 	},
 	{
 		"name": "YUTAN",
@@ -1058,7 +1059,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*257.48/35.94",
+		"updated": "OVR*VORTAC*257.48/35.94"
 	},
 	{
 		"name": "YUTUD",
@@ -1067,7 +1068,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/11/2013",
+		"updated": "03/11/2013"
 	},
 	{
 		"name": "YUTUN",
@@ -1076,7 +1077,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/18/2012",
+		"updated": "05/18/2012"
 	},
 	{
 		"name": "YUVED",
@@ -1085,7 +1086,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/09/2011",
+		"updated": "05/09/2011"
 	},
 	{
 		"name": "YUWRE",
@@ -1094,5 +1095,6 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/06/2000",
-	},
+		"updated": "10/06/2000"
+	}
+]

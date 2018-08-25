@@ -1,3 +1,4 @@
+[
 	{
 		"name": "LAAAK",
 		"latitude": "40-1-42.87 N",
@@ -5,7 +6,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "LACID",
@@ -14,7 +15,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/20/2010",
+		"updated": "09/20/2010"
 	},
 	{
 		"name": "LADDA",
@@ -23,7 +24,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/23/2012",
+		"updated": "09/23/2012"
 	},
 	{
 		"name": "LAGIY",
@@ -32,7 +33,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/23/2011",
+		"updated": "05/23/2011"
 	},
 	{
 		"name": "LAGOZ",
@@ -41,7 +42,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/17/2011",
+		"updated": "10/17/2011"
 	},
 	{
 		"name": "LAGPE",
@@ -50,7 +51,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "02/09/2012",
+		"updated": "02/09/2012"
 	},
 	{
 		"name": "LAMAR",
@@ -59,7 +60,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAA*VOR/DME*292.00/40.00",
+		"updated": "LAA*VOR/DME*292.00/40.00"
 	},
 	{
 		"name": "LAMZY",
@@ -68,7 +69,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/16/2006",
+		"updated": "02/16/2006"
 	},
 	{
 		"name": "LANDR",
@@ -77,7 +78,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DVV*VORTAC*037.66/39.85",
+		"updated": "DVV*VORTAC*037.66/39.85"
 	},
 	{
 		"name": "LARKS",
@@ -86,7 +87,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BRK*VOR/DME*293.08",
+		"updated": "BRK*VOR/DME*293.08"
 	},
 	{
 		"name": "LARVE",
@@ -95,7 +96,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/06/2002",
+		"updated": "11/06/2002"
 	},
 	{
 		"name": "LASCH",
@@ -104,7 +105,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "LASEC",
@@ -113,7 +114,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "LASGE",
@@ -122,7 +123,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/04/2005",
+		"updated": "04/04/2005"
 	},
 	{
 		"name": "LASSS",
@@ -131,7 +132,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "LASTE",
@@ -140,7 +141,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "BKF*TACAN*147.97/4.00",
+		"updated": "BKF*TACAN*147.97/4.00"
 	},
 	{
 		"name": "LASXE",
@@ -149,7 +150,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/20/2009",
+		"updated": "03/20/2009"
 	},
 	{
 		"name": "LAWNG",
@@ -158,7 +159,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/08/2014",
+		"updated": "10/08/2014"
 	},
 	{
 		"name": "LAWSN",
@@ -167,7 +168,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*064.27/20.00",
+		"updated": "DBL*VOR/DME*064.27/20.00"
 	},
 	{
 		"name": "LAXLY",
@@ -176,7 +177,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/01/2016",
+		"updated": "04/01/2016"
 	},
 	{
 		"name": "LAYCE",
@@ -185,7 +186,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/09/2015",
+		"updated": "11/09/2015"
 	},
 	{
 		"name": "LAYLA",
@@ -194,7 +195,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/23/2012",
+		"updated": "09/23/2012"
 	},
 	{
 		"name": "LAZON",
@@ -203,7 +204,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HBU*VOR/DME*190.00/25.00",
+		"updated": "HBU*VOR/DME*190.00/25.00"
 	},
 	{
 		"name": "LBASN",
@@ -212,7 +213,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "LDORA",
@@ -221,7 +222,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "LEARR",
@@ -230,7 +231,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "LEBME",
@@ -239,7 +240,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/31/2003",
+		"updated": "07/31/2003"
 	},
 	{
 		"name": "LECET",
@@ -248,7 +249,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "APA*LD*169.95/4.31",
+		"updated": "APA*LD*169.95/4.31"
 	},
 	{
 		"name": "LEDSE",
@@ -257,7 +258,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RMT*LD*NW CRS/12.79",
+		"updated": "RMT*LD*NW CRS/12.79"
 	},
 	{
 		"name": "LEDVE",
@@ -266,7 +267,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CEZ*VOR/DME*293.00/7.00",
+		"updated": "CEZ*VOR/DME*293.00/7.00"
 	},
 	{
 		"name": "LEERI",
@@ -275,7 +276,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/05/2005",
+		"updated": "01/05/2005"
 	},
 	{
 		"name": "LEETS",
@@ -284,7 +285,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LTT*LD*352.51/4.82",
+		"updated": "LTT*LD*352.51/4.82"
 	},
 	{
 		"name": "LEGIC",
@@ -293,7 +294,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "LENNN",
@@ -302,7 +303,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "LESIY",
@@ -311,7 +312,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "LEWOY",
@@ -320,7 +321,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/13/2012",
+		"updated": "04/13/2012"
 	},
 	{
 		"name": "LIBEL",
@@ -329,7 +330,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*258.34/25.17",
+		"updated": "GLL*VOR/DME*258.34/25.17"
 	},
 	{
 		"name": "LIBIE",
@@ -338,7 +339,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BFF*VORTAC*173.34/78.00",
+		"updated": "BFF*VORTAC*173.34/78.00"
 	},
 	{
 		"name": "LIBNE",
@@ -347,7 +348,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/08/2006",
+		"updated": "06/08/2006"
 	},
 	{
 		"name": "LIDIC",
@@ -356,7 +357,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "MCK*VOR/DME*064.00/23.05",
+		"updated": "MCK*VOR/DME*064.00/23.05"
 	},
 	{
 		"name": "LIFTT",
@@ -365,7 +366,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*269.82/4.00",
+		"updated": "DBL*VOR/DME*269.82/4.00"
 	},
 	{
 		"name": "LILXO",
@@ -374,7 +375,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SXW*VOR/DME*196.28/6.22",
+		"updated": "SXW*VOR/DME*196.28/6.22"
 	},
 	{
 		"name": "LIMEX",
@@ -383,7 +384,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*136.22/56.24",
+		"updated": "GLL*VOR/DME*136.22/56.24"
 	},
 	{
 		"name": "LIMGE",
@@ -392,7 +393,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "LINDZ",
@@ -401,7 +402,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SXW*VOR/DME*196.28",
+		"updated": "SXW*VOR/DME*196.28"
 	},
 	{
 		"name": "LINGR",
@@ -410,7 +411,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/20/2013",
+		"updated": "06/20/2013"
 	},
 	{
 		"name": "LINTE",
@@ -419,7 +420,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "LIPKE",
@@ -428,7 +429,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "LIPPS",
@@ -437,7 +438,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "FQF*VORTAC*292.95",
+		"updated": "FQF*VORTAC*292.95"
 	},
 	{
 		"name": "LIRCI",
@@ -446,7 +447,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "LITER",
@@ -455,7 +456,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SNY*VOR/DME*278.00",
+		"updated": "SNY*VOR/DME*278.00"
 	},
 	{
 		"name": "LLADN",
@@ -464,7 +465,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/12/2014",
+		"updated": "02/12/2014"
 	},
 	{
 		"name": "LNCER",
@@ -473,7 +474,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/17/2015",
+		"updated": "07/17/2015"
 	},
 	{
 		"name": "LOADD",
@@ -482,7 +483,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "LOCAT",
@@ -491,7 +492,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RIL*LD*E CRS/9.30",
+		"updated": "RIL*LD*E CRS/9.30"
 	},
 	{
 		"name": "LOCKD",
@@ -500,7 +501,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "LODHY",
@@ -509,7 +510,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/04/2012",
+		"updated": "04/04/2012"
 	},
 	{
 		"name": "LODOE",
@@ -518,7 +519,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "LOGBY",
@@ -527,7 +528,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/31/2017",
+		"updated": "07/31/2017"
 	},
 	{
 		"name": "LOGIY",
@@ -536,7 +537,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/21/2008",
+		"updated": "07/21/2008"
 	},
 	{
 		"name": "LOHII",
@@ -545,7 +546,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/20/2013",
+		"updated": "06/20/2013"
 	},
 	{
 		"name": "LOLME",
@@ -554,7 +555,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/22/2003",
+		"updated": "04/22/2003"
 	},
 	{
 		"name": "LOMMA",
@@ -563,7 +564,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "JNC*VOR/DME*341.25/13.29",
+		"updated": "JNC*VOR/DME*341.25/13.29"
 	},
 	{
 		"name": "LONGS",
@@ -572,7 +573,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "LOOLU",
@@ -581,7 +582,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "LOOOK",
@@ -590,7 +591,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "LOOVE",
@@ -599,7 +600,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/11/2017",
+		"updated": "12/11/2017"
 	},
 	{
 		"name": "LOPEC",
@@ -608,7 +609,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RSK*VORTAC*021.96/100.00",
+		"updated": "RSK*VORTAC*021.96/100.00"
 	},
 	{
 		"name": "LORIN",
@@ -617,7 +618,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*075.55/10.00",
+		"updated": "CHE*VOR/DME*075.55/10.00"
 	},
 	{
 		"name": "LORYI",
@@ -626,7 +627,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/17/2018",
+		"updated": "04/17/2018"
 	},
 	{
 		"name": "LOVIY",
@@ -635,7 +636,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/16/2006",
+		"updated": "02/16/2006"
 	},
 	{
 		"name": "LOWRE",
@@ -644,7 +645,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/23/2012",
+		"updated": "09/23/2012"
 	},
 	{
 		"name": "LOYYD",
@@ -653,7 +654,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/29/2016",
+		"updated": "08/29/2016"
 	},
 	{
 		"name": "LOZUL",
@@ -662,7 +663,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HBU*VOR/DME*050.00/48.82",
+		"updated": "HBU*VOR/DME*050.00/48.82"
 	},
 	{
 		"name": "LPORT",
@@ -671,7 +672,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*271.57",
+		"updated": "GLL*VOR/DME*271.57"
 	},
 	{
 		"name": "LRAIN",
@@ -680,7 +681,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "TBC*VORTAC*039.14/40.75",
+		"updated": "TBC*VORTAC*039.14/40.75"
 	},
 	{
 		"name": "LSKMO",
@@ -689,7 +690,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/11/2017",
+		"updated": "12/11/2017"
 	},
 	{
 		"name": "LUCII",
@@ -698,7 +699,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/21/2018",
+		"updated": "02/21/2018"
 	},
 	{
 		"name": "LUDYE",
@@ -707,7 +708,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*105.27/17.00",
+		"updated": "CHE*VOR/DME*105.27/17.00"
 	},
 	{
 		"name": "LUFSE",
@@ -716,7 +717,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*354.19/55.16",
+		"updated": "PUB*VORTAC*354.19/55.16"
 	},
 	{
 		"name": "LUISS",
@@ -725,7 +726,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*326.00/55.93",
+		"updated": "ALS*VORTAC*326.00/55.93"
 	},
 	{
 		"name": "LUNTT",
@@ -734,7 +735,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/26/2017",
+		"updated": "07/26/2017"
 	},
 	{
 		"name": "LUPTN",
@@ -743,7 +744,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "LURIY",
@@ -752,7 +753,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/27/2006",
+		"updated": "11/27/2006"
 	},
 	{
 		"name": "LUWEE",
@@ -761,7 +762,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LTT*LD*352.51/1.13",
+		"updated": "LTT*LD*352.51/1.13"
 	},
 	{
 		"name": "LUXXE",
@@ -770,7 +771,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "LUYEL",
@@ -779,7 +780,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/07/2006",
+		"updated": "06/07/2006"
 	},
 	{
 		"name": "LYMPS",
@@ -788,7 +789,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAR*VOR/DME*273.26/16.00",
+		"updated": "LAR*VOR/DME*273.26/16.00"
 	},
 	{
 		"name": "LYNKN",
@@ -797,7 +798,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/26/2012",
+		"updated": "09/26/2012"
 	},
 	{
 		"name": "LYSSA",
@@ -806,7 +807,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*172.65/14.02",
+		"updated": "ALS*VORTAC*172.65/14.02"
 	},
 	{
 		"name": "LYZZA",
@@ -815,7 +816,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "MTJ*VOR/DME*173.22/7.00",
+		"updated": "MTJ*VOR/DME*173.22/7.00"
 	},
 	{
 		"name": "LYZZY",
@@ -824,5 +825,6 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "BKF*TACAN*/4.01",
-	},
+		"updated": "BKF*TACAN*/4.01"
+	}
+]

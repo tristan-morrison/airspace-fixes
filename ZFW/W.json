@@ -1,3 +1,4 @@
+[
 	{
 		"name": "WABIG",
 		"latitude": "34-55-22.26 N",
@@ -5,7 +6,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MW",
-		"updated": "06/02/2008",
+		"updated": "06/02/2008"
 	},
 	{
 		"name": "WABUT",
@@ -14,7 +15,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/28/2014",
+		"updated": "05/28/2014"
 	},
 	{
 		"name": "WABVI",
@@ -23,7 +24,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ABI*VORTAC*295.89/55.92",
+		"updated": "ABI*VORTAC*295.89/55.92"
 	},
 	{
 		"name": "WADEM",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "JEN*VORTAC*275.47/3.50",
+		"updated": "JEN*VORTAC*275.47/3.50"
 	},
 	{
 		"name": "WADES",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TTT*VOR/DME*355.42",
+		"updated": "TTT*VOR/DME*355.42"
 	},
 	{
 		"name": "WAFER",
@@ -50,7 +51,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "EIC*VORTAC*172.69",
+		"updated": "EIC*VORTAC*172.69"
 	},
 	{
 		"name": "WAGAS",
@@ -59,7 +60,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/06/2003",
+		"updated": "03/06/2003"
 	},
 	{
 		"name": "WAGBU",
@@ -68,7 +69,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/13/2014",
+		"updated": "07/13/2014"
 	},
 	{
 		"name": "WAGEG",
@@ -77,7 +78,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/17/2016",
+		"updated": "11/17/2016"
 	},
 	{
 		"name": "WAGMU",
@@ -86,7 +87,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/20/2009",
+		"updated": "03/20/2009"
 	},
 	{
 		"name": "WAGRI",
@@ -95,7 +96,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "TIK*TACAN*/6.33",
+		"updated": "TIK*TACAN*/6.33"
 	},
 	{
 		"name": "WAGTA",
@@ -104,7 +105,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/08/2006",
+		"updated": "06/08/2006"
 	},
 	{
 		"name": "WAGUN",
@@ -113,7 +114,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LBB*VORTAC*094.00/73.08",
+		"updated": "LBB*VORTAC*094.00/73.08"
 	},
 	{
 		"name": "WAGVO",
@@ -122,7 +123,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/16/2010",
+		"updated": "05/16/2010"
 	},
 	{
 		"name": "WAITT",
@@ -131,7 +132,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/13/2016",
+		"updated": "09/13/2016"
 	},
 	{
 		"name": "WAKDA",
@@ -140,7 +141,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/28/2011",
+		"updated": "01/28/2011"
 	},
 	{
 		"name": "WAKMO",
@@ -149,7 +150,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ACT*VORTAC*271.00/10.00",
+		"updated": "ACT*VORTAC*271.00/10.00"
 	},
 	{
 		"name": "WALIT",
@@ -158,7 +159,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/10/2016",
+		"updated": "08/10/2016"
 	},
 	{
 		"name": "WALKI",
@@ -167,7 +168,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/31/2016",
+		"updated": "10/31/2016"
 	},
 	{
 		"name": "WALLS",
@@ -176,7 +177,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/28/2014",
+		"updated": "05/28/2014"
 	},
 	{
 		"name": "WALON",
@@ -185,7 +186,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/31/2016",
+		"updated": "10/31/2016"
 	},
 	{
 		"name": "WALST",
@@ -194,7 +195,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "WALTO",
@@ -203,7 +204,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "SPS*VORTAC*018.00/25.18",
+		"updated": "SPS*VORTAC*018.00/25.18"
 	},
 	{
 		"name": "WALTS",
@@ -212,7 +213,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/19/2008",
+		"updated": "09/19/2008"
 	},
 	{
 		"name": "WAMAM",
@@ -221,7 +222,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/07/2010",
+		"updated": "04/07/2010"
 	},
 	{
 		"name": "WAMGE",
@@ -230,7 +231,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "WAMGI",
@@ -239,7 +240,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/11/2014",
+		"updated": "09/11/2014"
 	},
 	{
 		"name": "WANIL",
@@ -248,7 +249,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/30/2004",
+		"updated": "03/30/2004"
 	},
 	{
 		"name": "WANON",
@@ -257,7 +258,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/04/2012",
+		"updated": "04/04/2012"
 	},
 	{
 		"name": "WAPEV",
@@ -266,7 +267,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ABI*VORTAC*070.69/45.00",
+		"updated": "ABI*VORTAC*070.69/45.00"
 	},
 	{
 		"name": "WARDN",
@@ -275,7 +276,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "IFI*VORTAC*171.06/25.50",
+		"updated": "IFI*VORTAC*171.06/25.50"
 	},
 	{
 		"name": "WARDZ",
@@ -284,7 +285,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CVE*VOR/DME*146.57/15.65",
+		"updated": "CVE*VOR/DME*146.57/15.65"
 	},
 	{
 		"name": "WARER",
@@ -293,7 +294,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/20/2018",
+		"updated": "02/20/2018"
 	},
 	{
 		"name": "WARLO",
@@ -302,7 +303,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXK*VORTAC*080.95/51.35",
+		"updated": "TXK*VORTAC*080.95/51.35"
 	},
 	{
 		"name": "WAROP",
@@ -311,7 +312,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/15/2011",
+		"updated": "06/15/2011"
 	},
 	{
 		"name": "WASHO",
@@ -320,7 +321,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXK*VORTAC*045.00/26.52",
+		"updated": "TXK*VORTAC*045.00/26.52"
 	},
 	{
 		"name": "WASOL",
@@ -329,7 +330,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/15/2011",
+		"updated": "06/15/2011"
 	},
 	{
 		"name": "WATEN",
@@ -338,7 +339,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/01/2016",
+		"updated": "11/01/2016"
 	},
 	{
 		"name": "WATGA",
@@ -347,7 +348,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "LTS*VORTAC*/9.00",
+		"updated": "LTS*VORTAC*/9.00"
 	},
 	{
 		"name": "WATIT",
@@ -356,7 +357,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "TQA*VOR/DME*340.31/9.60",
+		"updated": "TQA*VOR/DME*340.31/9.60"
 	},
 	{
 		"name": "WATLE",
@@ -365,7 +366,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/08/2006",
+		"updated": "06/08/2006"
 	},
 	{
 		"name": "WATOM",
@@ -374,7 +375,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/23/2014",
+		"updated": "04/23/2014"
 	},
 	{
 		"name": "WATOR",
@@ -383,7 +384,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TQA*VOR/DME*221.64",
+		"updated": "TQA*VOR/DME*221.64"
 	},
 	{
 		"name": "WATUS",
@@ -392,7 +393,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/17/2016",
+		"updated": "11/17/2016"
 	},
 	{
 		"name": "WATUV",
@@ -401,7 +402,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/02/2011",
+		"updated": "09/02/2011"
 	},
 	{
 		"name": "WAVOK",
@@ -410,7 +411,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/23/2011",
+		"updated": "06/23/2011"
 	},
 	{
 		"name": "WAWLS",
@@ -419,7 +420,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/01/2016",
+		"updated": "11/01/2016"
 	},
 	{
 		"name": "WAXEY",
@@ -428,7 +429,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "IRW*VORTAC*277.00/58.88",
+		"updated": "IRW*VORTAC*277.00/58.88"
 	},
 	{
 		"name": "WAXUX",
@@ -437,7 +438,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/14/2012",
+		"updated": "06/14/2012"
 	},
 	{
 		"name": "WAYMN",
@@ -446,7 +447,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/28/2014",
+		"updated": "05/28/2014"
 	},
 	{
 		"name": "WEANS",
@@ -455,7 +456,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/13/2014",
+		"updated": "07/13/2014"
 	},
 	{
 		"name": "WEBAX",
@@ -464,7 +465,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "TQA*VOR/DME*340.04/17.00",
+		"updated": "TQA*VOR/DME*340.04/17.00"
 	},
 	{
 		"name": "WEBBY",
@@ -473,7 +474,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "EMG*VORTAC*042.03",
+		"updated": "EMG*VORTAC*042.03"
 	},
 	{
 		"name": "WEBIS",
@@ -482,7 +483,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXK*VORTAC*052.05/21.87",
+		"updated": "TXK*VORTAC*052.05/21.87"
 	},
 	{
 		"name": "WEDAT",
@@ -491,7 +492,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "WEDGA",
@@ -500,7 +501,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "WEDNI",
@@ -509,7 +510,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "LTS*VORTAC*351.00/9.00",
+		"updated": "LTS*VORTAC*351.00/9.00"
 	},
 	{
 		"name": "WEDRO",
@@ -518,7 +519,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/03/2010",
+		"updated": "09/03/2010"
 	},
 	{
 		"name": "WEDUT",
@@ -527,7 +528,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "HOB*VORTAC*290.90/30.00",
+		"updated": "HOB*VORTAC*290.90/30.00"
 	},
 	{
 		"name": "WEEBR",
@@ -536,7 +537,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXK*VORTAC*080.95/18.76",
+		"updated": "TXK*VORTAC*080.95/18.76"
 	},
 	{
 		"name": "WEEPE",
@@ -545,7 +546,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "BGS*VORTAC*074.58/22.00",
+		"updated": "BGS*VORTAC*074.58/22.00"
 	},
 	{
 		"name": "WEERD",
@@ -554,7 +555,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "FUZ*VORTAC*284.66/14.02",
+		"updated": "FUZ*VORTAC*284.66/14.02"
 	},
 	{
 		"name": "WEGEV",
@@ -563,7 +564,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "WEGON",
@@ -572,7 +573,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/09/2017",
+		"updated": "05/09/2017"
 	},
 	{
 		"name": "WEGTE",
@@ -581,7 +582,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/24/2017",
+		"updated": "05/24/2017"
 	},
 	{
 		"name": "WEGTO",
@@ -590,7 +591,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MW",
-		"updated": "08/07/2014",
+		"updated": "08/07/2014"
 	},
 	{
 		"name": "WEIRS",
@@ -599,7 +600,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CQY*VORTAC*128.00/29.00",
+		"updated": "CQY*VORTAC*128.00/29.00"
 	},
 	{
 		"name": "WEKDI",
@@ -608,7 +609,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "GGG*VORTAC*330.00/10.00",
+		"updated": "GGG*VORTAC*330.00/10.00"
 	},
 	{
 		"name": "WELCH",
@@ -617,7 +618,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "HOB*VORTAC*062.00",
+		"updated": "HOB*VORTAC*062.00"
 	},
 	{
 		"name": "WELED",
@@ -626,7 +627,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/27/2006",
+		"updated": "07/27/2006"
 	},
 	{
 		"name": "WENDE",
@@ -635,7 +636,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/16/2010",
+		"updated": "05/16/2010"
 	},
 	{
 		"name": "WENED",
@@ -644,7 +645,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/14/2008",
+		"updated": "10/14/2008"
 	},
 	{
 		"name": "WENIK",
@@ -653,7 +654,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "GGG*VORTAC*294.58/24.00",
+		"updated": "GGG*VORTAC*294.58/24.00"
 	},
 	{
 		"name": "WENOP",
@@ -662,7 +663,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/13/2014",
+		"updated": "07/13/2014"
 	},
 	{
 		"name": "WENVO",
@@ -671,7 +672,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LBB*VORTAC*067.00/21.00",
+		"updated": "LBB*VORTAC*067.00/21.00"
 	},
 	{
 		"name": "WEPUS",
@@ -680,7 +681,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/17/2005",
+		"updated": "10/17/2005"
 	},
 	{
 		"name": "WERMO",
@@ -689,7 +690,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/09/2014",
+		"updated": "07/09/2014"
 	},
 	{
 		"name": "WEROS",
@@ -698,7 +699,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "BFV*VORTAC*036.00/19.00",
+		"updated": "BFV*VORTAC*036.00/19.00"
 	},
 	{
 		"name": "WESAT",
@@ -707,7 +708,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/13/2014",
+		"updated": "07/13/2014"
 	},
 	{
 		"name": "WESBI",
@@ -716,7 +717,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/20/2005",
+		"updated": "10/20/2005"
 	},
 	{
 		"name": "WESLI",
@@ -725,7 +726,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "JEN*VORTAC*108.26",
+		"updated": "JEN*VORTAC*108.26"
 	},
 	{
 		"name": "WETER",
@@ -734,7 +735,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ELD*VOR/DME*149.00",
+		"updated": "ELD*VOR/DME*149.00"
 	},
 	{
 		"name": "WETIX",
@@ -743,7 +744,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "IRW*VORTAC*155.28/22.35",
+		"updated": "IRW*VORTAC*155.28/22.35"
 	},
 	{
 		"name": "WETUR",
@@ -752,7 +753,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/09/2014",
+		"updated": "07/09/2014"
 	},
 	{
 		"name": "WEVAV",
@@ -761,7 +762,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "IRW*VORTAC*075.00/25.00",
+		"updated": "IRW*VORTAC*075.00/25.00"
 	},
 	{
 		"name": "WEXAV",
@@ -770,7 +771,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "WHAMM",
@@ -779,7 +780,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MLU*VORTAC*055.98/5.00",
+		"updated": "MLU*VORTAC*055.98/5.00"
 	},
 	{
 		"name": "WHIMS",
@@ -788,7 +789,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/20/2014",
+		"updated": "05/20/2014"
 	},
 	{
 		"name": "WHINY",
@@ -797,7 +798,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/13/2014",
+		"updated": "07/13/2014"
 	},
 	{
 		"name": "WHOOT",
@@ -806,7 +807,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/13/2014",
+		"updated": "07/13/2014"
 	},
 	{
 		"name": "WHOSE",
@@ -815,7 +816,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TYR*VOR/DME*124.99/11.34",
+		"updated": "TYR*VOR/DME*124.99/11.34"
 	},
 	{
 		"name": "WIBAN",
@@ -824,7 +825,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/12/2005",
+		"updated": "08/12/2005"
 	},
 	{
 		"name": "WIBEL",
@@ -833,7 +834,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/02/2007",
+		"updated": "04/02/2007"
 	},
 	{
 		"name": "WIBIS",
@@ -842,7 +843,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/16/2010",
+		"updated": "05/16/2010"
 	},
 	{
 		"name": "WIBUG",
@@ -851,7 +852,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "WICKS",
@@ -860,7 +861,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/28/2014",
+		"updated": "05/28/2014"
 	},
 	{
 		"name": "WIGIS",
@@ -869,7 +870,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/09/2014",
+		"updated": "07/09/2014"
 	},
 	{
 		"name": "WIGOK",
@@ -878,7 +879,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/03/2015",
+		"updated": "08/03/2015"
 	},
 	{
 		"name": "WIGUG",
@@ -887,7 +888,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/11/2011",
+		"updated": "05/11/2011"
 	},
 	{
 		"name": "WIGZU",
@@ -896,7 +897,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "UPE*LD*346.21/6.99",
+		"updated": "UPE*LD*346.21/6.99"
 	},
 	{
 		"name": "WIKEB",
@@ -905,7 +906,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "GKY*LD*162.02/16.39",
+		"updated": "GKY*LD*162.02/16.39"
 	},
 	{
 		"name": "WIKEK",
@@ -914,7 +915,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SHP*TACAN*151.00/9.00",
+		"updated": "SHP*TACAN*151.00/9.00"
 	},
 	{
 		"name": "WIKUS",
@@ -923,7 +924,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/14/2005",
+		"updated": "12/14/2005"
 	},
 	{
 		"name": "WIKVO",
@@ -932,7 +933,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/23/2011",
+		"updated": "02/23/2011"
 	},
 	{
 		"name": "WILBR",
@@ -941,7 +942,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "BYP*VORTAC*196.40/7.35",
+		"updated": "BYP*VORTAC*196.40/7.35"
 	},
 	{
 		"name": "WILOM",
@@ -950,7 +951,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "BYP*VORTAC*213.75/27.54",
+		"updated": "BYP*VORTAC*213.75/27.54"
 	},
 	{
 		"name": "WIMER",
@@ -959,7 +960,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/14/2017",
+		"updated": "12/14/2017"
 	},
 	{
 		"name": "WINAD",
@@ -968,7 +969,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/06/2012",
+		"updated": "07/06/2012"
 	},
 	{
 		"name": "WINDU",
@@ -977,7 +978,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ACT*VORTAC*120.49/12.39",
+		"updated": "ACT*VORTAC*120.49/12.39"
 	},
 	{
 		"name": "WINEY",
@@ -986,7 +987,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LBB*VORTAC*153.52/24.00",
+		"updated": "LBB*VORTAC*153.52/24.00"
 	},
 	{
 		"name": "WINIT",
@@ -995,7 +996,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/23/2005",
+		"updated": "08/23/2005"
 	},
 	{
 		"name": "WINNS",
@@ -1004,7 +1005,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "HOB*VORTAC*011.00/61.54",
+		"updated": "HOB*VORTAC*011.00/61.54"
 	},
 	{
 		"name": "WIPAN",
@@ -1013,7 +1014,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/07/2011",
+		"updated": "03/07/2011"
 	},
 	{
 		"name": "WIPLU",
@@ -1022,7 +1023,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ACT*VORTAC*073.16",
+		"updated": "ACT*VORTAC*073.16"
 	},
 	{
 		"name": "WIPOD",
@@ -1031,7 +1032,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ACT*VORTAC*141.09/6.00",
+		"updated": "ACT*VORTAC*141.09/6.00"
 	},
 	{
 		"name": "WIPSU",
@@ -1040,7 +1041,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/03/2010",
+		"updated": "09/03/2010"
 	},
 	{
 		"name": "WIRED",
@@ -1049,7 +1050,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/30/2004",
+		"updated": "03/30/2004"
 	},
 	{
 		"name": "WISIX",
@@ -1058,7 +1059,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "UIM*VOR/DME*202.86/9.00",
+		"updated": "UIM*VOR/DME*202.86/9.00"
 	},
 	{
 		"name": "WISLO",
@@ -1067,7 +1068,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/24/2009",
+		"updated": "11/24/2009"
 	},
 	{
 		"name": "WISOR",
@@ -1076,7 +1077,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/31/2008",
+		"updated": "03/31/2008"
 	},
 	{
 		"name": "WISOT",
@@ -1085,7 +1086,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TYR*VOR/DME*211.86/0.79",
+		"updated": "TYR*VOR/DME*211.86/0.79"
 	},
 	{
 		"name": "WISUT",
@@ -1094,7 +1095,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/29/2012",
+		"updated": "03/29/2012"
 	},
 	{
 		"name": "WITSI",
@@ -1103,7 +1104,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/29/2013",
+		"updated": "07/29/2013"
 	},
 	{
 		"name": "WIVAP",
@@ -1112,7 +1113,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/15/2012",
+		"updated": "02/15/2012"
 	},
 	{
 		"name": "WIVBI",
@@ -1121,7 +1122,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "WIVDU",
@@ -1130,7 +1131,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CQY*VORTAC*284.92/24.06",
+		"updated": "CQY*VORTAC*284.92/24.06"
 	},
 	{
 		"name": "WIVIN",
@@ -1139,7 +1140,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/20/2011",
+		"updated": "06/20/2011"
 	},
 	{
 		"name": "WIXIP",
@@ -1148,7 +1149,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/02/2017",
+		"updated": "03/02/2017"
 	},
 	{
 		"name": "WIXOK",
@@ -1157,7 +1158,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/05/2013",
+		"updated": "02/05/2013"
 	},
 	{
 		"name": "WLLTR",
@@ -1166,7 +1167,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/13/2016",
+		"updated": "09/13/2016"
 	},
 	{
 		"name": "WNSTR",
@@ -1175,7 +1176,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/11/2015",
+		"updated": "05/11/2015"
 	},
 	{
 		"name": "WOBAM",
@@ -1184,7 +1185,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/14/2005",
+		"updated": "01/14/2005"
 	},
 	{
 		"name": "WOBOS",
@@ -1193,7 +1194,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/30/2010",
+		"updated": "12/30/2010"
 	},
 	{
 		"name": "WODAL",
@@ -1202,7 +1203,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/22/2017",
+		"updated": "02/22/2017"
 	},
 	{
 		"name": "WODIE",
@@ -1211,7 +1212,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CQY*VORTAC*284.92/19.00",
+		"updated": "CQY*VORTAC*284.92/19.00"
 	},
 	{
 		"name": "WODOK",
@@ -1220,7 +1221,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LBB*VORTAC*101.80/6.41",
+		"updated": "LBB*VORTAC*101.80/6.41"
 	},
 	{
 		"name": "WOGAN",
@@ -1229,7 +1230,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/23/2005",
+		"updated": "08/23/2005"
 	},
 	{
 		"name": "WOGFE",
@@ -1238,7 +1239,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/13/2018",
+		"updated": "02/13/2018"
 	},
 	{
 		"name": "WOGUG",
@@ -1247,7 +1248,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/02/2011",
+		"updated": "09/02/2011"
 	},
 	{
 		"name": "WOKAM",
@@ -1256,7 +1257,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "HOB*VORTAC*275.90/13.00",
+		"updated": "HOB*VORTAC*275.90/13.00"
 	},
 	{
 		"name": "WOKIT",
@@ -1265,7 +1266,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/22/2014",
+		"updated": "10/22/2014"
 	},
 	{
 		"name": "WOKIX",
@@ -1274,7 +1275,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "WOKPO",
@@ -1283,7 +1284,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CVE*VOR/DME*165.00/12.39",
+		"updated": "CVE*VOR/DME*165.00/12.39"
 	},
 	{
 		"name": "WOLFI",
@@ -1292,7 +1293,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "MJF*TACAN*347.00/15.00",
+		"updated": "MJF*TACAN*347.00/15.00"
 	},
 	{
 		"name": "WOLKA",
@@ -1301,7 +1302,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/26/2013",
+		"updated": "03/26/2013"
 	},
 	{
 		"name": "WOLUR",
@@ -1310,7 +1311,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MLC*VORTAC*188.10/30.00",
+		"updated": "MLC*VORTAC*188.10/30.00"
 	},
 	{
 		"name": "WOMDI",
@@ -1319,7 +1320,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "MJF*TACAN*347.00/6.00",
+		"updated": "MJF*TACAN*347.00/6.00"
 	},
 	{
 		"name": "WONLI",
@@ -1328,7 +1329,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/14/2017",
+		"updated": "12/14/2017"
 	},
 	{
 		"name": "WOOLE",
@@ -1337,7 +1338,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "SJT*LD*214.00/6.88",
+		"updated": "SJT*LD*214.00/6.88"
 	},
 	{
 		"name": "WOPEG",
@@ -1346,7 +1347,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/04/2008",
+		"updated": "02/04/2008"
 	},
 	{
 		"name": "WOREN",
@@ -1355,7 +1356,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/22/2017",
+		"updated": "02/22/2017"
 	},
 	{
 		"name": "WORKS",
@@ -1364,7 +1365,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXK*VORTAC*186.00",
+		"updated": "TXK*VORTAC*186.00"
 	},
 	{
 		"name": "WOROD",
@@ -1373,7 +1374,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/20/2009",
+		"updated": "03/20/2009"
 	},
 	{
 		"name": "WOROV",
@@ -1382,7 +1383,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/12/2014",
+		"updated": "06/12/2014"
 	},
 	{
 		"name": "WORPA",
@@ -1391,7 +1392,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXK*VORTAC*060.15/14.32",
+		"updated": "TXK*VORTAC*060.15/14.32"
 	},
 	{
 		"name": "WOSAT",
@@ -1400,7 +1401,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/30/2004",
+		"updated": "03/30/2004"
 	},
 	{
 		"name": "WOSDO",
@@ -1409,7 +1410,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/01/2005",
+		"updated": "12/01/2005"
 	},
 	{
 		"name": "WOSUL",
@@ -1418,7 +1419,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "WOTSI",
@@ -1427,7 +1428,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "LTS*VORTAC*/9.00",
+		"updated": "LTS*VORTAC*/9.00"
 	},
 	{
 		"name": "WOVAM",
@@ -1436,7 +1437,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/16/2010",
+		"updated": "05/16/2010"
 	},
 	{
 		"name": "WOVAS",
@@ -1445,7 +1446,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MLU*VORTAC*089.37/12.00",
+		"updated": "MLU*VORTAC*089.37/12.00"
 	},
 	{
 		"name": "WOVEL",
@@ -1454,7 +1455,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "WOVPI",
@@ -1463,7 +1464,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/04/2012",
+		"updated": "04/04/2012"
 	},
 	{
 		"name": "WOXAD",
@@ -1472,7 +1473,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/16/2013",
+		"updated": "05/16/2013"
 	},
 	{
 		"name": "WOXAT",
@@ -1481,7 +1482,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MWP*LE*238.90/2.44",
+		"updated": "MWP*LE*238.90/2.44"
 	},
 	{
 		"name": "WOXIL",
@@ -1490,7 +1491,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/06/2012",
+		"updated": "07/06/2012"
 	},
 	{
 		"name": "WSKEY",
@@ -1499,7 +1500,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "WSTEX",
@@ -1508,7 +1509,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/09/2014",
+		"updated": "07/09/2014"
 	},
 	{
 		"name": "WTCHH",
@@ -1517,7 +1518,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/13/2012",
+		"updated": "12/13/2012"
 	},
 	{
 		"name": "WTSON",
@@ -1526,7 +1527,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/13/2016",
+		"updated": "09/13/2016"
 	},
 	{
 		"name": "WUDBU",
@@ -1535,7 +1536,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/26/2013",
+		"updated": "03/26/2013"
 	},
 	{
 		"name": "WUDRU",
@@ -1544,7 +1545,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "HOB*VORTAC*234.06/25.00",
+		"updated": "HOB*VORTAC*234.06/25.00"
 	},
 	{
 		"name": "WUDUR",
@@ -1553,7 +1554,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/14/2017",
+		"updated": "12/14/2017"
 	},
 	{
 		"name": "WUGUN",
@@ -1562,7 +1563,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/25/2005",
+		"updated": "11/25/2005"
 	},
 	{
 		"name": "WULED",
@@ -1571,7 +1572,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/10/2011",
+		"updated": "03/10/2011"
 	},
 	{
 		"name": "WUMAR",
@@ -1580,7 +1581,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "BYP*VORTAC*290.00/24.00",
+		"updated": "BYP*VORTAC*290.00/24.00"
 	},
 	{
 		"name": "WUMBA",
@@ -1589,7 +1590,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "WUMDU",
@@ -1598,7 +1599,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "DTN*LE*316.89/1.07",
+		"updated": "DTN*LE*316.89/1.07"
 	},
 	{
 		"name": "WUMKU",
@@ -1607,7 +1608,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/28/2013",
+		"updated": "10/28/2013"
 	},
 	{
 		"name": "WUNIL",
@@ -1616,7 +1617,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "WUNIN",
@@ -1625,7 +1626,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/13/2018",
+		"updated": "02/13/2018"
 	},
 	{
 		"name": "WUPAG",
@@ -1634,7 +1635,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/13/2014",
+		"updated": "07/13/2014"
 	},
 	{
 		"name": "WUPVO",
@@ -1643,7 +1644,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "BAD*TACAN*053.00/17.00",
+		"updated": "BAD*TACAN*053.00/17.00"
 	},
 	{
 		"name": "WURDZ",
@@ -1652,7 +1653,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/13/2016",
+		"updated": "09/13/2016"
 	},
 	{
 		"name": "WUREM",
@@ -1661,7 +1662,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/13/2014",
+		"updated": "07/13/2014"
 	},
 	{
 		"name": "WURLO",
@@ -1670,7 +1671,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/30/2012",
+		"updated": "07/30/2012"
 	},
 	{
 		"name": "WUROD",
@@ -1679,7 +1680,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/06/2004",
+		"updated": "08/06/2004"
 	},
 	{
 		"name": "WUSEN",
@@ -1688,7 +1689,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/04/2008",
+		"updated": "02/04/2008"
 	},
 	{
 		"name": "WUSIN",
@@ -1697,7 +1698,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/29/2013",
+		"updated": "07/29/2013"
 	},
 	{
 		"name": "WUSNU",
@@ -1706,7 +1707,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "WUTOL",
@@ -1715,7 +1716,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/22/2009",
+		"updated": "05/22/2009"
 	},
 	{
 		"name": "WUUKY",
@@ -1724,7 +1725,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/13/2016",
+		"updated": "09/13/2016"
 	},
 	{
 		"name": "WUVNI",
@@ -1733,7 +1734,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/15/2011",
+		"updated": "12/15/2011"
 	},
 	{
 		"name": "WUVUR",
@@ -1742,7 +1743,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/02/2016",
+		"updated": "02/02/2016"
 	},
 	{
 		"name": "WUVUV",
@@ -1751,7 +1752,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/06/2012",
+		"updated": "07/06/2012"
 	},
 	{
 		"name": "WWILL",
@@ -1760,7 +1761,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/28/2014",
+		"updated": "05/28/2014"
 	},
 	{
 		"name": "WYATE",
@@ -1769,5 +1770,6 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "GGG*VORTAC*304.88/10.00",
-	},
+		"updated": "GGG*VORTAC*304.88/10.00"
+	}
+]

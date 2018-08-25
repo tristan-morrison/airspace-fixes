@@ -1,3 +1,4 @@
+[
 	{
 		"name": "KACIQ",
 		"latitude": "62-58-46.33 N",
@@ -5,7 +6,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/03/2007",
+		"updated": "05/03/2007"
 	},
 	{
 		"name": "KACLE",
@@ -14,7 +15,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/12/2005",
+		"updated": "07/12/2005"
 	},
 	{
 		"name": "KACPO",
@@ -23,7 +24,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/07/2009",
+		"updated": "07/07/2009"
 	},
 	{
 		"name": "KADBE",
@@ -32,7 +33,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HPB*VOR/DME*132.88/4.60",
+		"updated": "HPB*VOR/DME*132.88/4.60"
 	},
 	{
 		"name": "KAGEC",
@@ -41,7 +42,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "GKN*VOR/DME*333.38/25.00",
+		"updated": "GKN*VOR/DME*333.38/25.00"
 	},
 	{
 		"name": "KAHTO",
@@ -50,7 +51,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/20/2015",
+		"updated": "04/20/2015"
 	},
 	{
 		"name": "KAJBU",
@@ -59,7 +60,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/04/2014",
+		"updated": "11/04/2014"
 	},
 	{
 		"name": "KAKGE",
@@ -68,7 +69,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/27/2012",
+		"updated": "02/27/2012"
 	},
 	{
 		"name": "KALIX",
@@ -77,7 +78,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/24/2014",
+		"updated": "11/24/2014"
 	},
 	{
 		"name": "KALKE",
@@ -86,7 +87,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/23/2016",
+		"updated": "11/23/2016"
 	},
 	{
 		"name": "KANSY",
@@ -95,7 +96,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BSC*LD*328.88/6.15",
+		"updated": "BSC*LD*328.88/6.15"
 	},
 	{
 		"name": "KANUT",
@@ -104,7 +105,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BTT*VOR/DME*135.24/25.00",
+		"updated": "BTT*VOR/DME*135.24/25.00"
 	},
 	{
 		"name": "KARLL",
@@ -113,7 +114,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/26/2017",
+		"updated": "10/26/2017"
 	},
 	{
 		"name": "KASAN",
@@ -122,7 +123,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/01/2014",
+		"updated": "05/01/2014"
 	},
 	{
 		"name": "KASIA",
@@ -131,7 +132,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/04/2014",
+		"updated": "11/04/2014"
 	},
 	{
 		"name": "KASSI",
@@ -140,7 +141,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENA*VOR/DME*169.30/20.00",
+		"updated": "ENA*VOR/DME*169.30/20.00"
 	},
 	{
 		"name": "KASWI",
@@ -149,7 +150,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/04/2014",
+		"updated": "11/04/2014"
 	},
 	{
 		"name": "KATAT",
@@ -158,7 +159,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "JOH*VOR/DME*084.54/58.00",
+		"updated": "JOH*VOR/DME*084.54/58.00"
 	},
 	{
 		"name": "KATCH",
@@ -167,7 +168,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "10/24/1990",
+		"updated": "10/24/1990"
 	},
 	{
 		"name": "KATEL",
@@ -176,7 +177,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "GAL*VOR/DME*297.86/68.00",
+		"updated": "GAL*VOR/DME*297.86/68.00"
 	},
 	{
 		"name": "KAVWI",
@@ -185,7 +186,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/03/2007",
+		"updated": "05/03/2007"
 	},
 	{
 		"name": "KAYEC",
@@ -194,7 +195,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OTZ*LD*W CRS/5.16",
+		"updated": "OTZ*LD*W CRS/5.16"
 	},
 	{
 		"name": "KAYEF",
@@ -203,7 +204,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "12/10/2013",
+		"updated": "12/10/2013"
 	},
 	{
 		"name": "KAYSE",
@@ -212,7 +213,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BET*LD*012.47/6.45",
+		"updated": "BET*LD*012.47/6.45"
 	},
 	{
 		"name": "KAYTI",
@@ -221,7 +222,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "TED*VOR/DME*273.00/25.00",
+		"updated": "TED*VOR/DME*273.00/25.00"
 	},
 	{
 		"name": "KAYVE",
@@ -230,7 +231,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/13/2005",
+		"updated": "10/13/2005"
 	},
 	{
 		"name": "KEBAB",
@@ -239,7 +240,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "JOH*VOR/DME*253.00/25.34",
+		"updated": "JOH*VOR/DME*253.00/25.34"
 	},
 	{
 		"name": "KEBGE",
@@ -248,7 +249,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ORT*VORTAC*221.63/10.00",
+		"updated": "ORT*VORTAC*221.63/10.00"
 	},
 	{
 		"name": "KECEY",
@@ -257,7 +258,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/11/2005",
+		"updated": "07/11/2005"
 	},
 	{
 		"name": "KECKI",
@@ -266,7 +267,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HOM*VOR/DME*054.78/11.00",
+		"updated": "HOM*VOR/DME*054.78/11.00"
 	},
 	{
 		"name": "KECTE",
@@ -275,7 +276,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "MCG*VORTAC*275.74/14.00",
+		"updated": "MCG*VORTAC*275.74/14.00"
 	},
 	{
 		"name": "KEGEY",
@@ -284,7 +285,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENM*VOR/DME*041.35/35.61",
+		"updated": "ENM*VOR/DME*041.35/35.61"
 	},
 	{
 		"name": "KENYY",
@@ -293,7 +294,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/01/2014",
+		"updated": "08/01/2014"
 	},
 	{
 		"name": "KENZE",
@@ -302,7 +303,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "10/03/1995",
+		"updated": "10/03/1995"
 	},
 	{
 		"name": "KEPTE",
@@ -311,7 +312,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OTZ*VOR/DME*263.73/4.59",
+		"updated": "OTZ*VOR/DME*263.73/4.59"
 	},
 	{
 		"name": "KEREC",
@@ -320,7 +321,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SPY*NDB/DME*036.57/11.00",
+		"updated": "SPY*NDB/DME*036.57/11.00"
 	},
 	{
 		"name": "KESKE",
@@ -329,7 +330,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/27/2005",
+		"updated": "12/27/2005"
 	},
 	{
 		"name": "KIANA",
@@ -338,7 +339,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/04/2014",
+		"updated": "04/04/2014"
 	},
 	{
 		"name": "KIBMY",
@@ -347,7 +348,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/05/2009",
+		"updated": "05/05/2009"
 	},
 	{
 		"name": "KIBNE",
@@ -356,7 +357,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/01/2017",
+		"updated": "09/01/2017"
 	},
 	{
 		"name": "KIBRE",
@@ -365,7 +366,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/11/2005",
+		"updated": "07/11/2005"
 	},
 	{
 		"name": "KICEB",
@@ -374,7 +375,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "MCG*VORTAC*038.57/14.00",
+		"updated": "MCG*VORTAC*038.57/14.00"
 	},
 	{
 		"name": "KICEN",
@@ -383,7 +384,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/01/2005",
+		"updated": "09/01/2005"
 	},
 	{
 		"name": "KICEP",
@@ -392,7 +393,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "TAL*VOR/DME*257.93/8.00",
+		"updated": "TAL*VOR/DME*257.93/8.00"
 	},
 	{
 		"name": "KIDRE",
@@ -401,7 +402,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/17/2006",
+		"updated": "04/17/2006"
 	},
 	{
 		"name": "KIHYO",
@@ -410,7 +411,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/30/2015",
+		"updated": "08/30/2015"
 	},
 	{
 		"name": "KINGE",
@@ -419,7 +420,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*LD*NW CRS/6.56",
+		"updated": "AKN*LD*NW CRS/6.56"
 	},
 	{
 		"name": "KIPTE",
@@ -428,7 +429,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "KISLE",
@@ -437,7 +438,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/22/2005",
+		"updated": "12/22/2005"
 	},
 	{
 		"name": "KIVAK",
@@ -446,7 +447,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/16/2009",
+		"updated": "04/16/2009"
 	},
 	{
 		"name": "KIYAV",
@@ -455,7 +456,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/03/2008",
+		"updated": "03/03/2008"
 	},
 	{
 		"name": "KIYEP",
@@ -464,7 +465,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/16/2018",
+		"updated": "03/16/2018"
 	},
 	{
 		"name": "KIYGE",
@@ -473,7 +474,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/08/2011",
+		"updated": "07/08/2011"
 	},
 	{
 		"name": "KKABN",
@@ -482,7 +483,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/20/2015",
+		"updated": "04/20/2015"
 	},
 	{
 		"name": "KKYLE",
@@ -491,7 +492,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/11/2011",
+		"updated": "12/11/2011"
 	},
 	{
 		"name": "KLOUT",
@@ -500,7 +501,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/19/2016",
+		"updated": "02/19/2016"
 	},
 	{
 		"name": "KLUNG",
@@ -509,7 +510,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "GKN*VOR/DME*175.82/25.00",
+		"updated": "GKN*VOR/DME*175.82/25.00"
 	},
 	{
 		"name": "KNARS",
@@ -518,7 +519,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/29/2016",
+		"updated": "09/29/2016"
 	},
 	{
 		"name": "KNOBE",
@@ -527,7 +528,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EDF*TACAN*242.03/15.50",
+		"updated": "EDF*TACAN*242.03/15.50"
 	},
 	{
 		"name": "KOBBS",
@@ -536,7 +537,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/19/2012",
+		"updated": "03/19/2012"
 	},
 	{
 		"name": "KOBEY",
@@ -545,7 +546,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/31/2004",
+		"updated": "08/31/2004"
 	},
 	{
 		"name": "KOCCE",
@@ -554,7 +555,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "CDB*VORTAC*/2.38",
+		"updated": "CDB*VORTAC*/2.38"
 	},
 	{
 		"name": "KODEC",
@@ -563,7 +564,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/31/2004",
+		"updated": "08/31/2004"
 	},
 	{
 		"name": "KODNE",
@@ -572,7 +573,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ODK*VOR/DME*004.62/40.03",
+		"updated": "ODK*VOR/DME*004.62/40.03"
 	},
 	{
 		"name": "KOKBE",
@@ -581,7 +582,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/29/2016",
+		"updated": "09/29/2016"
 	},
 	{
 		"name": "KOKCE",
@@ -590,7 +591,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/26/2008",
+		"updated": "08/26/2008"
 	},
 	{
 		"name": "KOKDE",
@@ -599,7 +600,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/14/2006",
+		"updated": "11/14/2006"
 	},
 	{
 		"name": "KOKES",
@@ -608,7 +609,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/03/2017",
+		"updated": "07/03/2017"
 	},
 	{
 		"name": "KOKOZ",
@@ -617,7 +618,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*VORTAC*094.32/35.00",
+		"updated": "AKN*VORTAC*094.32/35.00"
 	},
 	{
 		"name": "KOLEC",
@@ -626,7 +627,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/04/2007",
+		"updated": "05/04/2007"
 	},
 	{
 		"name": "KOLPY",
@@ -635,7 +636,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/17/2013",
+		"updated": "05/17/2013"
 	},
 	{
 		"name": "KOMNA",
@@ -644,7 +645,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HOM*VOR/DME*178.73/19.50",
+		"updated": "HOM*VOR/DME*178.73/19.50"
 	},
 	{
 		"name": "KONIC",
@@ -653,7 +654,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*VORTAC*071.13/38.00",
+		"updated": "AKN*VORTAC*071.13/38.00"
 	},
 	{
 		"name": "KONKS",
@@ -662,7 +663,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "MDO*VOR/DME*064.84/72.25",
+		"updated": "MDO*VOR/DME*064.84/72.25"
 	},
 	{
 		"name": "KOPEC",
@@ -671,7 +672,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "CDB*VORTAC*143.99/25.00",
+		"updated": "CDB*VORTAC*143.99/25.00"
 	},
 	{
 		"name": "KOPGE",
@@ -680,7 +681,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/21/2007",
+		"updated": "09/21/2007"
 	},
 	{
 		"name": "KORKY",
@@ -689,7 +690,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/09/2005",
+		"updated": "06/09/2005"
 	},
 	{
 		"name": "KORRL",
@@ -698,7 +699,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/06/2015",
+		"updated": "11/06/2015"
 	},
 	{
 		"name": "KOSBE",
@@ -707,7 +708,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KOTEC",
@@ -716,7 +717,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/05/2014",
+		"updated": "12/05/2014"
 	},
 	{
 		"name": "KOTGE",
@@ -725,7 +726,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SSR*VORTAC*166.93/5.00",
+		"updated": "SSR*VORTAC*166.93/5.00"
 	},
 	{
 		"name": "KOTIZ",
@@ -734,7 +735,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "CDB*VORTAC*064.19/10.00",
+		"updated": "CDB*VORTAC*064.19/10.00"
 	},
 	{
 		"name": "KOTKE",
@@ -743,7 +744,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/03/2006",
+		"updated": "11/03/2006"
 	},
 	{
 		"name": "KOTRE",
@@ -752,7 +753,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/03/2006",
+		"updated": "08/03/2006"
 	},
 	{
 		"name": "KOWOK",
@@ -761,7 +762,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*VORTAC*295.01/44.78",
+		"updated": "AKN*VORTAC*295.01/44.78"
 	},
 	{
 		"name": "KOWWY",
@@ -770,7 +771,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/09/2009",
+		"updated": "09/09/2009"
 	},
 	{
 		"name": "KOYEG",
@@ -779,7 +780,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BKA*VORTAC*303.00/15.00",
+		"updated": "BKA*VORTAC*303.00/15.00"
 	},
 	{
 		"name": "KOZAK",
@@ -788,7 +789,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/10/2010",
+		"updated": "05/10/2010"
 	},
 	{
 		"name": "KOZMO",
@@ -797,7 +798,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EIL*TACAN*140.00/6.60",
+		"updated": "EIL*TACAN*140.00/6.60"
 	},
 	{
 		"name": "KOZOC",
@@ -806,7 +807,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENM*VOR/DME*041.37/23.84",
+		"updated": "ENM*VOR/DME*041.37/23.84"
 	},
 	{
 		"name": "KRAIT",
@@ -815,7 +816,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/14/2016",
+		"updated": "03/14/2016"
 	},
 	{
 		"name": "KRIIS",
@@ -824,7 +825,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/08/2012",
+		"updated": "08/08/2012"
 	},
 	{
 		"name": "KRNKL",
@@ -833,7 +834,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "FAI*VORTAC*106.67/13.00",
+		"updated": "FAI*VORTAC*106.67/13.00"
 	},
 	{
 		"name": "KROTO",
@@ -842,7 +843,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/01/2010",
+		"updated": "06/01/2010"
 	},
 	{
 		"name": "KRSSS",
@@ -851,7 +852,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "11/17/2015",
+		"updated": "11/17/2015"
 	},
 	{
 		"name": "KRUZO",
@@ -860,7 +861,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "02/26/1998",
+		"updated": "02/26/1998"
 	},
 	{
 		"name": "KRYYS",
@@ -869,7 +870,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/19/2012",
+		"updated": "03/19/2012"
 	},
 	{
 		"name": "KUBNE",
@@ -878,7 +879,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/05/2005",
+		"updated": "05/05/2005"
 	},
 	{
 		"name": "KUCET",
@@ -887,7 +888,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "JOH*VOR/DME*322.00/40.00",
+		"updated": "JOH*VOR/DME*322.00/40.00"
 	},
 	{
 		"name": "KUCYE",
@@ -896,7 +897,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/07/2009",
+		"updated": "07/07/2009"
 	},
 	{
 		"name": "KUDBY",
@@ -905,7 +906,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/22/2016",
+		"updated": "06/22/2016"
 	},
 	{
 		"name": "KUHQY",
@@ -914,7 +915,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/06/2008",
+		"updated": "08/06/2008"
 	},
 	{
 		"name": "KUHZE",
@@ -923,7 +924,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HSL*VOR/DME*151.84",
+		"updated": "HSL*VOR/DME*151.84"
 	},
 	{
 		"name": "KUKLE",
@@ -932,7 +933,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ADQ*LD*078.03/2.61",
+		"updated": "ADQ*LD*078.03/2.61"
 	},
 	{
 		"name": "KUKYE",
@@ -941,7 +942,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OME*VOR/DME*276.60/13.96",
+		"updated": "OME*VOR/DME*276.60/13.96"
 	},
 	{
 		"name": "KULBE",
@@ -950,7 +951,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/28/2004",
+		"updated": "12/28/2004"
 	},
 	{
 		"name": "KUNAD",
@@ -959,7 +960,7 @@
 		"state": "",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/23/2012",
+		"updated": "02/23/2012"
 	},
 	{
 		"name": "KUNNA",
@@ -968,7 +969,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/08/2010",
+		"updated": "10/08/2010"
 	},
 	{
 		"name": "KUNNE",
@@ -977,7 +978,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/20/2005",
+		"updated": "12/20/2005"
 	},
 	{
 		"name": "KUPGE",
@@ -986,7 +987,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/10/2012",
+		"updated": "08/10/2012"
 	},
 	{
 		"name": "KURCE",
@@ -995,7 +996,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/07/2005",
+		"updated": "07/07/2005"
 	},
 	{
 		"name": "KUREY",
@@ -1004,7 +1005,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/28/2004",
+		"updated": "12/28/2004"
 	},
 	{
 		"name": "KURLL",
@@ -1013,7 +1014,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/03/2014",
+		"updated": "11/03/2014"
 	},
 	{
 		"name": "KUSEY",
@@ -1022,7 +1023,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/17/2005",
+		"updated": "10/17/2005"
 	},
 	{
 		"name": "KUSKM",
@@ -1031,7 +1032,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/17/2017",
+		"updated": "05/17/2017"
 	},
 	{
 		"name": "KUTAL",
@@ -1040,7 +1041,7 @@
 		"state": "",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/03/2017",
+		"updated": "07/03/2017"
 	},
 	{
 		"name": "KUTDE",
@@ -1049,7 +1050,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/09/2005",
+		"updated": "06/09/2005"
 	},
 	{
 		"name": "KUTTE",
@@ -1058,7 +1059,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/01/2005",
+		"updated": "09/01/2005"
 	},
 	{
 		"name": "KUWOZ",
@@ -1067,7 +1068,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OME*VOR/DME*157.34/10.00",
+		"updated": "OME*VOR/DME*157.34/10.00"
 	},
 	{
 		"name": "KUYEC",
@@ -1076,7 +1077,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/26/2008",
+		"updated": "08/26/2008"
 	},
 	{
 		"name": "KUYNE",
@@ -1085,5 +1086,6 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/18/2008",
-	},
+		"updated": "07/18/2008"
+	}
+]

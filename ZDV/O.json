@@ -1,3 +1,4 @@
+[
 	{
 		"name": "OATHE",
 		"latitude": "38-50-59.03 N",
@@ -5,7 +6,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HYS*VORTAC*260.85/118.00",
+		"updated": "HYS*VORTAC*260.85/118.00"
 	},
 	{
 		"name": "OBARS",
@@ -14,7 +15,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "OBOZU",
@@ -23,7 +24,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/17/2010",
+		"updated": "09/17/2010"
 	},
 	{
 		"name": "OBTUE",
@@ -32,7 +33,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/14/2008",
+		"updated": "08/14/2008"
 	},
 	{
 		"name": "OBURE",
@@ -41,7 +42,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/12/2005",
+		"updated": "07/12/2005"
 	},
 	{
 		"name": "OCEGA",
@@ -50,7 +51,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/12/2014",
+		"updated": "02/12/2014"
 	},
 	{
 		"name": "OCETE",
@@ -59,7 +60,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAR*VOR/DME*161.60/10.00",
+		"updated": "LAR*VOR/DME*161.60/10.00"
 	},
 	{
 		"name": "OCSAF",
@@ -68,7 +69,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "ODAME",
@@ -77,7 +78,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/19/2012",
+		"updated": "03/19/2012"
 	},
 	{
 		"name": "ODDLL",
@@ -86,7 +87,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/26/2017",
+		"updated": "07/26/2017"
 	},
 	{
 		"name": "ODECA",
@@ -95,7 +96,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GCC*VOR/DME*341.00/14.46",
+		"updated": "GCC*VOR/DME*341.00/14.46"
 	},
 	{
 		"name": "ODLAE",
@@ -104,7 +105,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/07/2009",
+		"updated": "07/07/2009"
 	},
 	{
 		"name": "ODROE",
@@ -113,7 +114,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CEZ*VOR/DME*200.42/17.00",
+		"updated": "CEZ*VOR/DME*200.42/17.00"
 	},
 	{
 		"name": "ODURE",
@@ -122,7 +123,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/14/2003",
+		"updated": "08/14/2003"
 	},
 	{
 		"name": "OFNIP",
@@ -131,7 +132,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "OFOCI",
@@ -140,7 +141,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BFF*VORTAC*141.64/7.00",
+		"updated": "BFF*VORTAC*141.64/7.00"
 	},
 	{
 		"name": "OFOWY",
@@ -149,7 +150,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BFF*VORTAC*357.70/7.00",
+		"updated": "BFF*VORTAC*357.70/7.00"
 	},
 	{
 		"name": "OFVEX",
@@ -158,7 +159,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/21/2008",
+		"updated": "07/21/2008"
 	},
 	{
 		"name": "OGEZO",
@@ -167,7 +168,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LBF*VOR/DME*035.65/7.00",
+		"updated": "LBF*VOR/DME*035.65/7.00"
 	},
 	{
 		"name": "OGFAJ",
@@ -176,7 +177,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LBF*VOR/DME*282.25/7.00",
+		"updated": "LBF*VOR/DME*282.25/7.00"
 	},
 	{
 		"name": "OGHAL",
@@ -185,7 +186,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "OGJUN",
@@ -194,7 +195,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SNY*VOR/DME*201.81/11.00",
+		"updated": "SNY*VOR/DME*201.81/11.00"
 	},
 	{
 		"name": "OGLIE",
@@ -203,7 +204,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "AKO*VOR/DME*066.47/40.00",
+		"updated": "AKO*VOR/DME*066.47/40.00"
 	},
 	{
 		"name": "OGUTE",
@@ -212,7 +213,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/04/2017",
+		"updated": "08/04/2017"
 	},
 	{
 		"name": "OHAGY",
@@ -221,7 +222,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "OHAYY",
@@ -230,7 +231,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "OHWEL",
@@ -239,7 +240,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/25/2012",
+		"updated": "03/25/2012"
 	},
 	{
 		"name": "OILLY",
@@ -248,7 +249,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BOY*VOR/DME*106.00",
+		"updated": "BOY*VOR/DME*106.00"
 	},
 	{
 		"name": "OJIGU",
@@ -257,7 +258,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "OKALE",
@@ -266,7 +267,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/27/2006",
+		"updated": "09/27/2006"
 	},
 	{
 		"name": "OKDEE",
@@ -275,7 +276,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*258.63/10.64",
+		"updated": "PUB*VORTAC*258.63/10.64"
 	},
 	{
 		"name": "OKEFA",
@@ -284,7 +285,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/01/2016",
+		"updated": "04/01/2016"
 	},
 	{
 		"name": "OLAPE",
@@ -293,7 +294,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/18/2014",
+		"updated": "04/18/2014"
 	},
 	{
 		"name": "OLDDD",
@@ -302,7 +303,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "OLDIF",
@@ -311,7 +312,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/20/2009",
+		"updated": "03/20/2009"
 	},
 	{
 		"name": "OLGOE",
@@ -320,7 +321,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/04/2011",
+		"updated": "01/04/2011"
 	},
 	{
 		"name": "OLILE",
@@ -329,7 +330,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "OLOBE",
@@ -338,7 +339,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "OLOWI",
@@ -347,7 +348,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/21/2008",
+		"updated": "02/21/2008"
 	},
 	{
 		"name": "OMAGE",
@@ -356,7 +357,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SNY*VOR/DME*112.73/0.29",
+		"updated": "SNY*VOR/DME*112.73/0.29"
 	},
 	{
 		"name": "OMBIE",
@@ -365,7 +366,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SNY*VOR/DME*278.00/48.10",
+		"updated": "SNY*VOR/DME*278.00/48.10"
 	},
 	{
 		"name": "OMESE",
@@ -374,7 +375,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LBF*VOR/DME*095.71/17.00",
+		"updated": "LBF*VOR/DME*095.71/17.00"
 	},
 	{
 		"name": "OMJIY",
@@ -383,7 +384,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/08/2010",
+		"updated": "11/08/2010"
 	},
 	{
 		"name": "OMPOE",
@@ -392,7 +393,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/26/2013",
+		"updated": "08/26/2013"
 	},
 	{
 		"name": "ONCAP",
@@ -401,7 +402,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/04/2012",
+		"updated": "08/04/2012"
 	},
 	{
 		"name": "ONECI",
@@ -410,7 +411,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CZI*VOR/DME*334.00/12.62",
+		"updated": "CZI*VOR/DME*334.00/12.62"
 	},
 	{
 		"name": "ONGIE",
@@ -419,7 +420,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/27/2002",
+		"updated": "06/27/2002"
 	},
 	{
 		"name": "ONIYU",
@@ -428,7 +429,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HBU*VOR/DME*269.72",
+		"updated": "HBU*VOR/DME*269.72"
 	},
 	{
 		"name": "ONKEE",
@@ -437,7 +438,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "IIP*VOR/DME*304.88/6.30",
+		"updated": "IIP*VOR/DME*304.88/6.30"
 	},
 	{
 		"name": "ONKIE",
@@ -446,7 +447,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/01/2016",
+		"updated": "04/01/2016"
 	},
 	{
 		"name": "ONLOE",
@@ -455,7 +456,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/08/2006",
+		"updated": "06/08/2006"
 	},
 	{
 		"name": "ONNNN",
@@ -464,7 +465,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "OPNEE",
@@ -473,7 +474,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DDY*VOR/DME*203.45/7.96",
+		"updated": "DDY*VOR/DME*203.45/7.96"
 	},
 	{
 		"name": "OPOGE",
@@ -482,7 +483,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "RCA*TACAN*/1.30",
+		"updated": "RCA*TACAN*/1.30"
 	},
 	{
 		"name": "OPPEE",
@@ -491,7 +492,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "OPREE",
@@ -500,7 +501,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "OPSHN",
@@ -509,7 +510,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*221.75/13.75",
+		"updated": "PUB*VORTAC*221.75/13.75"
 	},
 	{
 		"name": "OPUXE",
@@ -518,7 +519,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/12/2005",
+		"updated": "07/12/2005"
 	},
 	{
 		"name": "OQTUM",
@@ -527,7 +528,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/28/2008",
+		"updated": "07/28/2008"
 	},
 	{
 		"name": "OQWIK",
@@ -536,7 +537,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/11/2013",
+		"updated": "02/11/2013"
 	},
 	{
 		"name": "OREME",
@@ -545,7 +546,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/22/2010",
+		"updated": "07/22/2010"
 	},
 	{
 		"name": "ORION",
@@ -554,7 +555,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLD*VORTAC*102.10/49.29",
+		"updated": "GLD*VORTAC*102.10/49.29"
 	},
 	{
 		"name": "ORNTH",
@@ -563,7 +564,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SXW*VOR/DME*000.72/11.81",
+		"updated": "SXW*VOR/DME*000.72/11.81"
 	},
 	{
 		"name": "ORWAY",
@@ -572,7 +573,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*085.51/17.70",
+		"updated": "PUB*VORTAC*085.51/17.70"
 	},
 	{
 		"name": "OSBIE",
@@ -581,7 +582,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/04/2006",
+		"updated": "08/04/2006"
 	},
 	{
 		"name": "OSDUE",
@@ -590,7 +591,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HBU*VOR/DME*300.66",
+		"updated": "HBU*VOR/DME*300.66"
 	},
 	{
 		"name": "OSKAE",
@@ -599,7 +600,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/30/2008",
+		"updated": "01/30/2008"
 	},
 	{
 		"name": "OSLEE",
@@ -608,7 +609,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/03/2008",
+		"updated": "09/03/2008"
 	},
 	{
 		"name": "OSLUW",
@@ -617,7 +618,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/04/2012",
+		"updated": "04/04/2012"
 	},
 	{
 		"name": "OTASE",
@@ -626,7 +627,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/16/2017",
+		"updated": "05/16/2017"
 	},
 	{
 		"name": "OTINS",
@@ -635,7 +636,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RSK*VORTAC*114.00/16.00",
+		"updated": "RSK*VORTAC*114.00/16.00"
 	},
 	{
 		"name": "OTIYO",
@@ -644,7 +645,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/08/2010",
+		"updated": "11/08/2010"
 	},
 	{
 		"name": "OTUYE",
@@ -653,7 +654,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "09/20/2010",
+		"updated": "09/20/2010"
 	},
 	{
 		"name": "OUNCE",
@@ -662,7 +663,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/19/2018",
+		"updated": "03/19/2018"
 	},
 	{
 		"name": "OURAY",
@@ -671,7 +672,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/16/2014",
+		"updated": "07/16/2014"
 	},
 	{
 		"name": "OUUTT",
@@ -680,7 +681,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/05/2014",
+		"updated": "03/05/2014"
 	},
 	{
 		"name": "OVOWY",
@@ -689,7 +690,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/17/2006",
+		"updated": "02/17/2006"
 	},
 	{
 		"name": "OVPUE",
@@ -698,7 +699,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/04/2005",
+		"updated": "04/04/2005"
 	},
 	{
 		"name": "OVVAL",
@@ -707,7 +708,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/26/2012",
+		"updated": "03/26/2012"
 	},
 	{
 		"name": "OWEBY",
@@ -716,7 +717,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/18/2017",
+		"updated": "01/18/2017"
 	},
 	{
 		"name": "OWKUR",
@@ -725,7 +726,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/06/2017",
+		"updated": "12/06/2017"
 	},
 	{
 		"name": "OWNER",
@@ -734,7 +735,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "FQF*VORTAC*317.53",
+		"updated": "FQF*VORTAC*317.53"
 	},
 	{
 		"name": "OXGUD",
@@ -743,7 +744,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "OYALI",
@@ -752,7 +753,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "09/20/2010",
+		"updated": "09/20/2010"
 	},
 	{
 		"name": "OYOGO",
@@ -761,7 +762,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/29/2013",
+		"updated": "10/29/2013"
 	},
 	{
 		"name": "OYUSE",
@@ -770,7 +771,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/20/2012",
+		"updated": "11/20/2012"
 	},
 	{
 		"name": "OYYER",
@@ -779,7 +780,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RIL*VOR/DME*065.18/20.14",
+		"updated": "RIL*VOR/DME*065.18/20.14"
 	},
 	{
 		"name": "OZWEQ",
@@ -788,7 +789,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/01/2014",
+		"updated": "04/01/2014"
 	},
 	{
 		"name": "OZZZY",
@@ -797,5 +798,6 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/06/2012",
-	},
+		"updated": "09/06/2012"
+	}
+]

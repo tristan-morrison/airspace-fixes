@@ -1,3 +1,4 @@
+[
 	{
 		"name": "LANEO",
 		"latitude": "21-14-55.96 N",
@@ -5,7 +6,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "IUM*LD*222.01/8.10",
+		"updated": "IUM*LD*222.01/8.10"
 	},
 	{
 		"name": "LARYN",
@@ -14,7 +15,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "MKK*VORTAC*347.00/47.60",
+		"updated": "MKK*VORTAC*347.00/47.60"
 	},
 	{
 		"name": "LAVAS",
@@ -23,7 +24,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "OGG*VORTAC*168.78/24.86",
+		"updated": "OGG*VORTAC*168.78/24.86"
 	},
 	{
 		"name": "LAYIG",
@@ -32,7 +33,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "LEANE",
@@ -41,7 +42,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "SOK*VORTAC*184.00",
+		"updated": "SOK*VORTAC*184.00"
 	},
 	{
 		"name": "LEHUA",
@@ -50,7 +51,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "CKH*VORTAC*220.50",
+		"updated": "CKH*VORTAC*220.50"
 	},
 	{
 		"name": "LELEO",
@@ -59,7 +60,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "LIH*VORTAC*011.02/1.90",
+		"updated": "LIH*VORTAC*011.02/1.90"
 	},
 	{
 		"name": "LETTR",
@@ -68,7 +69,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "MR",
-		"updated": "NGF*TACAN*011.65/3.60",
+		"updated": "NGF*TACAN*011.65/3.60"
 	},
 	{
 		"name": "LICEP",
@@ -77,7 +78,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "LILIA",
@@ -86,7 +87,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "SOK*VORTAC*277.00/120.00",
+		"updated": "SOK*VORTAC*277.00/120.00"
 	},
 	{
 		"name": "LIMPE",
@@ -95,7 +96,7 @@
 		"state": "",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "TUT*VORTAC*280.00/18.00",
+		"updated": "TUT*VORTAC*280.00/18.00"
 	},
 	{
 		"name": "LNBRG",
@@ -104,7 +105,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "UPP*VORTAC*338.00/26.68",
+		"updated": "UPP*VORTAC*338.00/26.68"
 	},
 	{
 		"name": "LNDHY",
@@ -113,7 +114,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "05/26/2011",
+		"updated": "05/26/2011"
 	},
 	{
 		"name": "LOKIE",
@@ -122,7 +123,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "LNY*VORTAC*304.56",
+		"updated": "LNY*VORTAC*304.56"
 	},
 	{
 		"name": "LORET",
@@ -131,7 +132,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "LNY*VORTAC*038.00",
+		"updated": "LNY*VORTAC*038.00"
 	},
 	{
 		"name": "LUANA",
@@ -140,7 +141,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/10/2003",
+		"updated": "07/10/2003"
 	},
 	{
 		"name": "LUYEV",
@@ -149,7 +150,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "05/21/2007",
+		"updated": "05/21/2007"
 	},
 	{
 		"name": "LYDAT",
@@ -158,5 +159,6 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "SOK*VORTAC*086.62",
-	},
+		"updated": "SOK*VORTAC*086.62"
+	}
+]

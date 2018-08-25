@@ -1,3 +1,4 @@
+[
 	{
 		"name": "YACKK",
 		"latitude": "38-54-28.8 N",
@@ -5,7 +6,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/30/2015",
+		"updated": "06/30/2015"
 	},
 	{
 		"name": "YACNE",
@@ -14,7 +15,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/10/2017",
+		"updated": "02/10/2017"
 	},
 	{
 		"name": "YAEGR",
@@ -23,7 +24,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "YAGNU",
@@ -32,7 +33,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/20/2014",
+		"updated": "02/20/2014"
 	},
 	{
 		"name": "YAKLU",
@@ -41,7 +42,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/20/2014",
+		"updated": "02/20/2014"
 	},
 	{
 		"name": "YALUS",
@@ -50,7 +51,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/17/2011",
+		"updated": "11/17/2011"
 	},
 	{
 		"name": "YANCE",
@@ -59,7 +60,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "DAN*VOR*202.91",
+		"updated": "DAN*VOR*202.91"
 	},
 	{
 		"name": "YANNI",
@@ -68,7 +69,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BAL*VORTAC*311.00/16.84",
+		"updated": "BAL*VORTAC*311.00/16.84"
 	},
 	{
 		"name": "YANUL",
@@ -77,7 +78,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ESL*VOR/DME*278.00/21.02",
+		"updated": "ESL*VOR/DME*278.00/21.02"
 	},
 	{
 		"name": "YASKO",
@@ -86,7 +87,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/01/2011",
+		"updated": "08/01/2011"
 	},
 	{
 		"name": "YASUT",
@@ -95,7 +96,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/27/2013",
+		"updated": "09/27/2013"
 	},
 	{
 		"name": "YATUV",
@@ -104,7 +105,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/07/2013",
+		"updated": "03/07/2013"
 	},
 	{
 		"name": "YAUNS",
@@ -113,7 +114,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "09/29/2017",
+		"updated": "09/29/2017"
 	},
 	{
 		"name": "YAYTU",
@@ -122,7 +123,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/18/2012",
+		"updated": "04/18/2012"
 	},
 	{
 		"name": "YAZUU",
@@ -131,7 +132,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HTO*VORTAC*234.44/119.48",
+		"updated": "HTO*VORTAC*234.44/119.48"
 	},
 	{
 		"name": "YEHJU",
@@ -140,7 +141,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/25/2017",
+		"updated": "08/25/2017"
 	},
 	{
 		"name": "YEKUB",
@@ -149,7 +150,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/10/2014",
+		"updated": "11/10/2014"
 	},
 	{
 		"name": "YEKUC",
@@ -158,7 +159,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/24/2017",
+		"updated": "02/24/2017"
 	},
 	{
 		"name": "YELUS",
@@ -167,7 +168,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/01/2017",
+		"updated": "05/01/2017"
 	},
 	{
 		"name": "YENUB",
@@ -176,7 +177,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/19/2011",
+		"updated": "07/19/2011"
 	},
 	{
 		"name": "YEPUG",
@@ -185,7 +186,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "YETUB",
@@ -194,7 +195,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HPW*VORTAC*251.69/18.32",
+		"updated": "HPW*VORTAC*251.69/18.32"
 	},
 	{
 		"name": "YETVU",
@@ -203,7 +204,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/29/2015",
+		"updated": "01/29/2015"
 	},
 	{
 		"name": "YEVJE",
@@ -212,7 +213,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/30/2001",
+		"updated": "01/30/2001"
 	},
 	{
 		"name": "YEVUS",
@@ -221,7 +222,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/11/2014",
+		"updated": "06/11/2014"
 	},
 	{
 		"name": "YEVUV",
@@ -230,7 +231,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/29/2014",
+		"updated": "12/29/2014"
 	},
 	{
 		"name": "YEXWO",
@@ -239,7 +240,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/24/2011",
+		"updated": "06/24/2011"
 	},
 	{
 		"name": "YIBKU",
@@ -248,7 +249,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/02/2010",
+		"updated": "08/02/2010"
 	},
 	{
 		"name": "YIBZI",
@@ -257,7 +258,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/10/2004",
+		"updated": "08/10/2004"
 	},
 	{
 		"name": "YIDUB",
@@ -266,7 +267,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "LDN*VORTAC*237.26/17.00",
+		"updated": "LDN*VORTAC*237.26/17.00"
 	},
 	{
 		"name": "YIDUT",
@@ -275,7 +276,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/14/2011",
+		"updated": "06/14/2011"
 	},
 	{
 		"name": "YIKRU",
@@ -284,7 +285,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/08/2013",
+		"updated": "08/08/2013"
 	},
 	{
 		"name": "YINDU",
@@ -293,7 +294,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/09/2011",
+		"updated": "06/09/2011"
 	},
 	{
 		"name": "YINGS",
@@ -302,7 +303,7 @@
 		"state": "DIST. OF COLUMBIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "DCA*VOR/DME*074.01/3.40",
+		"updated": "DCA*VOR/DME*074.01/3.40"
 	},
 	{
 		"name": "YINON",
@@ -311,7 +312,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "YISBU",
@@ -320,7 +321,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "GRA*LD*218.18/3.02",
+		"updated": "GRA*LD*218.18/3.02"
 	},
 	{
 		"name": "YISUT",
@@ -329,7 +330,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/11/2011",
+		"updated": "03/11/2011"
 	},
 	{
 		"name": "YITUP",
@@ -338,7 +339,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "RDU*VORTAC*020.00/26.51",
+		"updated": "RDU*VORTAC*020.00/26.51"
 	},
 	{
 		"name": "YIYPE",
@@ -347,7 +348,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/30/2001",
+		"updated": "01/30/2001"
 	},
 	{
 		"name": "YIYUN",
@@ -356,7 +357,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/18/2013",
+		"updated": "07/18/2013"
 	},
 	{
 		"name": "YOAST",
@@ -365,7 +366,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ILM*VORTAC*314.76/20.07",
+		"updated": "ILM*VORTAC*314.76/20.07"
 	},
 	{
 		"name": "YOFMA",
@@ -374,7 +375,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/24/2001",
+		"updated": "08/24/2001"
 	},
 	{
 		"name": "YOKUM",
@@ -383,7 +384,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BAL*VORTAC*258.00/4.81",
+		"updated": "BAL*VORTAC*258.00/4.81"
 	},
 	{
 		"name": "YOLUY",
@@ -392,7 +393,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/03/2009",
+		"updated": "11/03/2009"
 	},
 	{
 		"name": "YONUV",
@@ -401,7 +402,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ISO*VORTAC*299.22",
+		"updated": "ISO*VORTAC*299.22"
 	},
 	{
 		"name": "YOSKY",
@@ -410,7 +411,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/21/2011",
+		"updated": "07/21/2011"
 	},
 	{
 		"name": "YOSUG",
@@ -419,7 +420,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/17/2011",
+		"updated": "11/17/2011"
 	},
 	{
 		"name": "YOTFY",
@@ -428,7 +429,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/06/2000",
+		"updated": "07/06/2000"
 	},
 	{
 		"name": "YOTUR",
@@ -437,7 +438,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/07/2012",
+		"updated": "04/07/2012"
 	},
 	{
 		"name": "YOYUS",
@@ -446,7 +447,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "CN",
-		"updated": "07/14/2011",
+		"updated": "07/14/2011"
 	},
 	{
 		"name": "YUCKK",
@@ -455,7 +456,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/08/2015",
+		"updated": "01/08/2015"
 	},
 	{
 		"name": "YUDUG",
@@ -464,7 +465,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "SBV*VORTAC*063.13/36.73",
+		"updated": "SBV*VORTAC*063.13/36.73"
 	},
 	{
 		"name": "YUKNE",
@@ -473,7 +474,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/03/2009",
+		"updated": "11/03/2009"
 	},
 	{
 		"name": "YUTUP",
@@ -482,7 +483,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/18/2011",
+		"updated": "01/18/2011"
 	},
 	{
 		"name": "YUXSI",
@@ -491,7 +492,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/10/2011",
+		"updated": "07/10/2011"
 	},
 	{
 		"name": "YYANG",
@@ -500,5 +501,6 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/30/2015",
-	},
+		"updated": "06/30/2015"
+	}
+]

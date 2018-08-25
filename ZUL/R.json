@@ -1,3 +1,4 @@
+[
 	{
 		"name": "RABIK",
 		"latitude": "45-17-56 N",
@@ -5,7 +6,7 @@
 		"state": "",
 		"artcc": "ZUL",
 		"type": "RNAV",
-		"updated": "09/23/2014",
+		"updated": "09/23/2014"
 	},
 	{
 		"name": "REEDO",
@@ -14,5 +15,6 @@
 		"state": "",
 		"artcc": "ZUL",
 		"type": "RP",
-		"updated": "YOW*VORTAC*198.68/44.45",
-	},
+		"updated": "YOW*VORTAC*198.68/44.45"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "JABAB",
 		"latitude": "32-39-37.1 N",
@@ -5,7 +6,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "MQP*VORTAC*088.84",
+		"updated": "MQP*VORTAC*088.84"
 	},
 	{
 		"name": "JABEV",
@@ -14,7 +15,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/08/2003",
+		"updated": "01/08/2003"
 	},
 	{
 		"name": "JABVA",
@@ -23,7 +24,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/27/2008",
+		"updated": "03/27/2008"
 	},
 	{
 		"name": "JADBO",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/17/2005",
+		"updated": "10/17/2005"
 	},
 	{
 		"name": "JAGID",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2014",
+		"updated": "07/08/2014"
 	},
 	{
 		"name": "JAGUG",
@@ -50,7 +51,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "LTS*VORTAC*/3.00",
+		"updated": "LTS*VORTAC*/3.00"
 	},
 	{
 		"name": "JAIMS",
@@ -59,7 +60,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "HOB*VORTAC*/10.13",
+		"updated": "HOB*VORTAC*/10.13"
 	},
 	{
 		"name": "JAKCY",
@@ -68,7 +69,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/07/2015",
+		"updated": "05/07/2015"
 	},
 	{
 		"name": "JAKID",
@@ -77,7 +78,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LVF*LD*132.63/4.93",
+		"updated": "LVF*LD*132.63/4.93"
 	},
 	{
 		"name": "JALIM",
@@ -86,7 +87,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/08/2016",
+		"updated": "02/08/2016"
 	},
 	{
 		"name": "JALOM",
@@ -95,7 +96,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/20/2005",
+		"updated": "10/20/2005"
 	},
 	{
 		"name": "JAMAK",
@@ -104,7 +105,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MW",
-		"updated": "08/07/2014",
+		"updated": "08/07/2014"
 	},
 	{
 		"name": "JAMGU",
@@ -113,7 +114,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/20/2009",
+		"updated": "12/20/2009"
 	},
 	{
 		"name": "JAMKU",
@@ -122,7 +123,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/01/2010",
+		"updated": "02/01/2010"
 	},
 	{
 		"name": "JAMMZ",
@@ -131,7 +132,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CDS*VORTAC*053.50/30.00",
+		"updated": "CDS*VORTAC*053.50/30.00"
 	},
 	{
 		"name": "JANOR",
@@ -140,7 +141,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MW",
-		"updated": "02/26/2010",
+		"updated": "02/26/2010"
 	},
 	{
 		"name": "JANUX",
@@ -149,7 +150,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "JAPEP",
@@ -158,7 +159,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/20/2009",
+		"updated": "12/20/2009"
 	},
 	{
 		"name": "JAPUX",
@@ -167,7 +168,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CDS*VORTAC*053.50/15.00",
+		"updated": "CDS*VORTAC*053.50/15.00"
 	},
 	{
 		"name": "JARTA",
@@ -176,7 +177,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/02/2016",
+		"updated": "04/02/2016"
 	},
 	{
 		"name": "JASGU",
@@ -185,7 +186,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/13/2018",
+		"updated": "02/13/2018"
 	},
 	{
 		"name": "JASIK",
@@ -194,7 +195,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/22/2009",
+		"updated": "05/22/2009"
 	},
 	{
 		"name": "JASPA",
@@ -203,7 +204,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "JEN*VORTAC*073.56",
+		"updated": "JEN*VORTAC*073.56"
 	},
 	{
 		"name": "JASUB",
@@ -212,7 +213,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/07/2016",
+		"updated": "11/07/2016"
 	},
 	{
 		"name": "JATMI",
@@ -221,7 +222,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/26/2013",
+		"updated": "03/26/2013"
 	},
 	{
 		"name": "JATTU",
@@ -230,7 +231,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "LTS*VORTAC*035.00/12.00",
+		"updated": "LTS*VORTAC*035.00/12.00"
 	},
 	{
 		"name": "JAVAB",
@@ -239,7 +240,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/16/2012",
+		"updated": "03/16/2012"
 	},
 	{
 		"name": "JAVEE",
@@ -248,7 +249,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "EIC*VORTAC*185.43",
+		"updated": "EIC*VORTAC*185.43"
 	},
 	{
 		"name": "JAVMU",
@@ -257,7 +258,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/21/2006",
+		"updated": "09/21/2006"
 	},
 	{
 		"name": "JAVOT",
@@ -266,7 +267,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/28/2008",
+		"updated": "11/28/2008"
 	},
 	{
 		"name": "JAVXE",
@@ -275,7 +276,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "IRW*VORTAC*168.01/11.58",
+		"updated": "IRW*VORTAC*168.01/11.58"
 	},
 	{
 		"name": "JAXAB",
@@ -284,7 +285,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "SLR*VOR/DME*067.22",
+		"updated": "SLR*VOR/DME*067.22"
 	},
 	{
 		"name": "JAXEB",
@@ -293,7 +294,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "JAYXX",
@@ -302,7 +303,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2014",
+		"updated": "07/08/2014"
 	},
 	{
 		"name": "JAZDE",
@@ -311,7 +312,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LBB*VORTAC*034.91/5.00",
+		"updated": "LBB*VORTAC*034.91/5.00"
 	},
 	{
 		"name": "JEBGO",
@@ -320,7 +321,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "JEBOM",
@@ -329,7 +330,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXK*VORTAC*051.76/26.24",
+		"updated": "TXK*VORTAC*051.76/26.24"
 	},
 	{
 		"name": "JEDMO",
@@ -338,7 +339,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/29/2012",
+		"updated": "11/29/2012"
 	},
 	{
 		"name": "JEDSI",
@@ -347,7 +348,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/02/2014",
+		"updated": "12/02/2014"
 	},
 	{
 		"name": "JEDUB",
@@ -356,7 +357,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/31/2009",
+		"updated": "12/31/2009"
 	},
 	{
 		"name": "JEGAK",
@@ -365,7 +366,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TTT*VOR/DME*185.00/13.05",
+		"updated": "TTT*VOR/DME*185.00/13.05"
 	},
 	{
 		"name": "JEGIN",
@@ -374,7 +375,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/19/2010",
+		"updated": "09/19/2010"
 	},
 	{
 		"name": "JEGLU",
@@ -383,7 +384,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SHP*TACAN*317.00/13.00",
+		"updated": "SHP*TACAN*317.00/13.00"
 	},
 	{
 		"name": "JEKAL",
@@ -392,7 +393,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/20/2014",
+		"updated": "05/20/2014"
 	},
 	{
 		"name": "JEKIL",
@@ -401,7 +402,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/07/2015",
+		"updated": "05/07/2015"
 	},
 	{
 		"name": "JEKOX",
@@ -410,7 +411,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "SLR*VOR/DME*280.00/13.00",
+		"updated": "SLR*VOR/DME*280.00/13.00"
 	},
 	{
 		"name": "JEKUT",
@@ -419,7 +420,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/27/2006",
+		"updated": "07/27/2006"
 	},
 	{
 		"name": "JELFE",
@@ -428,7 +429,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "WP",
-		"updated": "MAF*VORTAC*183.48/3.09",
+		"updated": "MAF*VORTAC*183.48/3.09"
 	},
 	{
 		"name": "JELGA",
@@ -437,7 +438,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/08/2006",
+		"updated": "06/08/2006"
 	},
 	{
 		"name": "JELUV",
@@ -446,7 +447,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/30/2010",
+		"updated": "12/30/2010"
 	},
 	{
 		"name": "JEMAV",
@@ -455,7 +456,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/03/2010",
+		"updated": "09/03/2010"
 	},
 	{
 		"name": "JEMBI",
@@ -464,7 +465,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/16/2010",
+		"updated": "05/16/2010"
 	},
 	{
 		"name": "JEMEM",
@@ -473,7 +474,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "PWA*VOR/DME*110.08/20.00",
+		"updated": "PWA*VOR/DME*110.08/20.00"
 	},
 	{
 		"name": "JEMEX",
@@ -482,7 +483,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/16/2014",
+		"updated": "06/16/2014"
 	},
 	{
 		"name": "JEMMO",
@@ -491,7 +492,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/27/2012",
+		"updated": "07/27/2012"
 	},
 	{
 		"name": "JEMTA",
@@ -500,7 +501,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/12/2005",
+		"updated": "08/12/2005"
 	},
 	{
 		"name": "JENNA",
@@ -509,7 +510,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "EMG*VORTAC*077.55/15.74",
+		"updated": "EMG*VORTAC*077.55/15.74"
 	},
 	{
 		"name": "JENUM",
@@ -518,7 +519,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/15/2011",
+		"updated": "06/15/2011"
 	},
 	{
 		"name": "JEPIN",
@@ -527,7 +528,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "GGG*VORTAC*125.74/6.00",
+		"updated": "GGG*VORTAC*125.74/6.00"
 	},
 	{
 		"name": "JEPKI",
@@ -536,7 +537,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "LTS*VORTAC*357.71/11.98",
+		"updated": "LTS*VORTAC*357.71/11.98"
 	},
 	{
 		"name": "JERBL",
@@ -545,7 +546,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/27/2016",
+		"updated": "09/27/2016"
 	},
 	{
 		"name": "JERGO",
@@ -554,7 +555,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/02/2009",
+		"updated": "06/02/2009"
 	},
 	{
 		"name": "JERIG",
@@ -563,7 +564,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/23/2004",
+		"updated": "11/23/2004"
 	},
 	{
 		"name": "JERIT",
@@ -572,7 +573,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TTT*VOR/DME*034.59",
+		"updated": "TTT*VOR/DME*034.59"
 	},
 	{
 		"name": "JERJI",
@@ -581,7 +582,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "SJT*VORTAC*060.00/15.00",
+		"updated": "SJT*VORTAC*060.00/15.00"
 	},
 	{
 		"name": "JESAB",
@@ -590,7 +591,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/24/2017",
+		"updated": "05/24/2017"
 	},
 	{
 		"name": "JESKE",
@@ -599,7 +600,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "IRW*VORTAC*263.10/11.98",
+		"updated": "IRW*VORTAC*263.10/11.98"
 	},
 	{
 		"name": "JESSA",
@@ -608,7 +609,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "ABI*VORTAC*162.00/30.00",
+		"updated": "ABI*VORTAC*162.00/30.00"
 	},
 	{
 		"name": "JETBI",
@@ -617,7 +618,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/16/2010",
+		"updated": "05/16/2010"
 	},
 	{
 		"name": "JETDE",
@@ -626,7 +627,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SJT*VORTAC*224.77/25.00",
+		"updated": "SJT*VORTAC*224.77/25.00"
 	},
 	{
 		"name": "JETOT",
@@ -635,7 +636,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "LTS*VORTAC*351.00/3.00",
+		"updated": "LTS*VORTAC*351.00/3.00"
 	},
 	{
 		"name": "JETPO",
@@ -644,7 +645,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2003",
+		"updated": "07/08/2003"
 	},
 	{
 		"name": "JETTT",
@@ -653,7 +654,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/27/2016",
+		"updated": "09/27/2016"
 	},
 	{
 		"name": "JETVE",
@@ -662,7 +663,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/02/2017",
+		"updated": "03/02/2017"
 	},
 	{
 		"name": "JEVAL",
@@ -671,7 +672,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "BYP*VORTAC*021.82/5.58",
+		"updated": "BYP*VORTAC*021.82/5.58"
 	},
 	{
 		"name": "JEVBA",
@@ -680,7 +681,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/20/2012",
+		"updated": "04/20/2012"
 	},
 	{
 		"name": "JEVOT",
@@ -689,7 +690,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "DYS*TACAN*158.00/5.00",
+		"updated": "DYS*TACAN*158.00/5.00"
 	},
 	{
 		"name": "JEVRA",
@@ -698,7 +699,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "JEYAR",
@@ -707,7 +708,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2014",
+		"updated": "07/08/2014"
 	},
 	{
 		"name": "JEYYE",
@@ -716,7 +717,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TYR*VOR/DME*/1.80",
+		"updated": "TYR*VOR/DME*/1.80"
 	},
 	{
 		"name": "JFRYE",
@@ -725,7 +726,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2014",
+		"updated": "07/08/2014"
 	},
 	{
 		"name": "JGIRL",
@@ -734,7 +735,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/27/2004",
+		"updated": "07/27/2004"
 	},
 	{
 		"name": "JIBEM",
@@ -743,7 +744,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/23/2011",
+		"updated": "06/23/2011"
 	},
 	{
 		"name": "JIDGU",
@@ -752,7 +753,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MW",
-		"updated": "05/06/2014",
+		"updated": "05/06/2014"
 	},
 	{
 		"name": "JIDIV",
@@ -761,7 +762,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "BAD*TACAN*145.79/17.00",
+		"updated": "BAD*TACAN*145.79/17.00"
 	},
 	{
 		"name": "JIDOS",
@@ -770,7 +771,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/30/2010",
+		"updated": "12/30/2010"
 	},
 	{
 		"name": "JIDRI",
@@ -779,7 +780,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SHP*TACAN*/1.20",
+		"updated": "SHP*TACAN*/1.20"
 	},
 	{
 		"name": "JIDSA",
@@ -788,7 +789,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/30/2014",
+		"updated": "09/30/2014"
 	},
 	{
 		"name": "JIFFY",
@@ -797,7 +798,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CVE*VOR/DME*311.96",
+		"updated": "CVE*VOR/DME*311.96"
 	},
 	{
 		"name": "JIGAM",
@@ -806,7 +807,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/07/2015",
+		"updated": "05/07/2015"
 	},
 	{
 		"name": "JIGAR",
@@ -815,7 +816,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/29/2008",
+		"updated": "05/29/2008"
 	},
 	{
 		"name": "JIGEM",
@@ -824,7 +825,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "SJT*VORTAC*309.29/15.00",
+		"updated": "SJT*VORTAC*309.29/15.00"
 	},
 	{
 		"name": "JIJHO",
@@ -833,7 +834,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ACT*VORTAC*122.89/23.00",
+		"updated": "ACT*VORTAC*122.89/23.00"
 	},
 	{
 		"name": "JILDI",
@@ -842,7 +843,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/06/2011",
+		"updated": "07/06/2011"
 	},
 	{
 		"name": "JILIB",
@@ -851,7 +852,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/20/2005",
+		"updated": "10/20/2005"
 	},
 	{
 		"name": "JILKA",
@@ -860,7 +861,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/03/2010",
+		"updated": "09/03/2010"
 	},
 	{
 		"name": "JILTT",
@@ -869,7 +870,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "JEN*VORTAC*023.88/23.00",
+		"updated": "JEN*VORTAC*023.88/23.00"
 	},
 	{
 		"name": "JIMAM",
@@ -878,7 +879,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/28/2008",
+		"updated": "10/28/2008"
 	},
 	{
 		"name": "JIMEP",
@@ -887,7 +888,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/05/2013",
+		"updated": "02/05/2013"
 	},
 	{
 		"name": "JIMIB",
@@ -896,7 +897,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "JIMMZ",
@@ -905,7 +906,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "EIC*VORTAC*099.02/22.00",
+		"updated": "EIC*VORTAC*099.02/22.00"
 	},
 	{
 		"name": "JINAL",
@@ -914,7 +915,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "SLR*VOR/DME*280.00/18.59",
+		"updated": "SLR*VOR/DME*280.00/18.59"
 	},
 	{
 		"name": "JINEK",
@@ -923,7 +924,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/11/2011",
+		"updated": "05/11/2011"
 	},
 	{
 		"name": "JINRA",
@@ -932,7 +933,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SHP*TACAN*195.00/13.00",
+		"updated": "SHP*TACAN*195.00/13.00"
 	},
 	{
 		"name": "JINTA",
@@ -941,7 +942,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/16/2014",
+		"updated": "06/16/2014"
 	},
 	{
 		"name": "JIPBI",
@@ -950,7 +951,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/12/2003",
+		"updated": "05/12/2003"
 	},
 	{
 		"name": "JIPED",
@@ -959,7 +960,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TTT*VOR/DME*175.67/12.40",
+		"updated": "TTT*VOR/DME*175.67/12.40"
 	},
 	{
 		"name": "JIPIT",
@@ -968,7 +969,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/06/2003",
+		"updated": "03/06/2003"
 	},
 	{
 		"name": "JIPOG",
@@ -977,7 +978,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/06/2008",
+		"updated": "02/06/2008"
 	},
 	{
 		"name": "JIPPU",
@@ -986,7 +987,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/19/2011",
+		"updated": "12/19/2011"
 	},
 	{
 		"name": "JIPRI",
@@ -995,7 +996,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LFK*VORTAC*020.43/51.05",
+		"updated": "LFK*VORTAC*020.43/51.05"
 	},
 	{
 		"name": "JIPUN",
@@ -1004,7 +1005,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "PKQ*LD*S CRS/4.41",
+		"updated": "PKQ*LD*S CRS/4.41"
 	},
 	{
 		"name": "JIRSO",
@@ -1013,7 +1014,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/04/2009",
+		"updated": "01/04/2009"
 	},
 	{
 		"name": "JIRVI",
@@ -1022,7 +1023,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/11/2011",
+		"updated": "05/11/2011"
 	},
 	{
 		"name": "JISKY",
@@ -1031,7 +1032,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/11/2014",
+		"updated": "09/11/2014"
 	},
 	{
 		"name": "JISOD",
@@ -1040,7 +1041,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/18/2010",
+		"updated": "06/18/2010"
 	},
 	{
 		"name": "JITIN",
@@ -1049,7 +1050,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/03/2010",
+		"updated": "09/03/2010"
 	},
 	{
 		"name": "JIVDU",
@@ -1058,7 +1059,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/16/2010",
+		"updated": "05/16/2010"
 	},
 	{
 		"name": "JIVIT",
@@ -1067,7 +1068,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SHP*TACAN*155.00/9.00",
+		"updated": "SHP*TACAN*155.00/9.00"
 	},
 	{
 		"name": "JIVSU",
@@ -1076,7 +1077,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "EMG*VORTAC*323.51/5.41",
+		"updated": "EMG*VORTAC*323.51/5.41"
 	},
 	{
 		"name": "JIVUG",
@@ -1085,7 +1086,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "JIXIM",
@@ -1094,7 +1095,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/10/2011",
+		"updated": "03/10/2011"
 	},
 	{
 		"name": "JIXPU",
@@ -1103,7 +1104,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "IRW*VORTAC*114.66",
+		"updated": "IRW*VORTAC*114.66"
 	},
 	{
 		"name": "JJANE",
@@ -1112,7 +1113,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2014",
+		"updated": "07/08/2014"
 	},
 	{
 		"name": "JJEEP",
@@ -1121,7 +1122,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "JKIID",
@@ -1130,7 +1131,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/14/2012",
+		"updated": "05/14/2012"
 	},
 	{
 		"name": "JOBBS",
@@ -1139,7 +1140,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CVE*VOR/DME*223.35",
+		"updated": "CVE*VOR/DME*223.35"
 	},
 	{
 		"name": "JOBIG",
@@ -1148,7 +1149,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SHP*TACAN*334.00/9.00",
+		"updated": "SHP*TACAN*334.00/9.00"
 	},
 	{
 		"name": "JOBSU",
@@ -1157,7 +1158,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/20/2011",
+		"updated": "06/20/2011"
 	},
 	{
 		"name": "JODDY",
@@ -1166,7 +1167,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "BAD*TACAN*338.00/6.60",
+		"updated": "BAD*TACAN*338.00/6.60"
 	},
 	{
 		"name": "JOGAB",
@@ -1175,7 +1176,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "BAD*TACAN*/1.80",
+		"updated": "BAD*TACAN*/1.80"
 	},
 	{
 		"name": "JOJOS",
@@ -1184,7 +1185,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/28/2008",
+		"updated": "10/28/2008"
 	},
 	{
 		"name": "JOKES",
@@ -1193,7 +1194,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MAF*VORTAC*101.69/18.93",
+		"updated": "MAF*VORTAC*101.69/18.93"
 	},
 	{
 		"name": "JOKOX",
@@ -1202,7 +1203,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MLU*VORTAC*055.98/12.00",
+		"updated": "MLU*VORTAC*055.98/12.00"
 	},
 	{
 		"name": "JOKPI",
@@ -1211,7 +1212,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/20/2008",
+		"updated": "11/20/2008"
 	},
 	{
 		"name": "JOLEN",
@@ -1220,7 +1221,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/09/2005",
+		"updated": "05/09/2005"
 	},
 	{
 		"name": "JOLLY",
@@ -1229,7 +1230,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "FZT*VOR/DME*201.67/14.00",
+		"updated": "FZT*VOR/DME*201.67/14.00"
 	},
 	{
 		"name": "JONAA",
@@ -1238,7 +1239,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/13/2016",
+		"updated": "01/13/2016"
 	},
 	{
 		"name": "JONEZ",
@@ -1247,7 +1248,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/30/2014",
+		"updated": "09/30/2014"
 	},
 	{
 		"name": "JONKA",
@@ -1256,7 +1257,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SHP*TACAN*/5.35",
+		"updated": "SHP*TACAN*/5.35"
 	},
 	{
 		"name": "JONON",
@@ -1265,7 +1266,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/17/2016",
+		"updated": "11/17/2016"
 	},
 	{
 		"name": "JOPSA",
@@ -1274,7 +1275,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/02/2016",
+		"updated": "04/02/2016"
 	},
 	{
 		"name": "JOSDU",
@@ -1283,7 +1284,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "JOSGA",
@@ -1292,7 +1293,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "LTS*VORTAC*014.00/3.20",
+		"updated": "LTS*VORTAC*014.00/3.20"
 	},
 	{
 		"name": "JOSIL",
@@ -1301,7 +1302,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "JOSOT",
@@ -1310,7 +1311,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/22/2017",
+		"updated": "02/22/2017"
 	},
 	{
 		"name": "JOTRA",
@@ -1319,7 +1320,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/01/2011",
+		"updated": "09/01/2011"
 	},
 	{
 		"name": "JOVEM",
@@ -1328,7 +1329,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TTT*VOR/DME*309.66/34.34",
+		"updated": "TTT*VOR/DME*309.66/34.34"
 	},
 	{
 		"name": "JOVOG",
@@ -1337,7 +1338,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/07/2011",
+		"updated": "03/07/2011"
 	},
 	{
 		"name": "JOXUL",
@@ -1346,7 +1347,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LBB*VORTAC*216.27/17.00",
+		"updated": "LBB*VORTAC*216.27/17.00"
 	},
 	{
 		"name": "JRHED",
@@ -1355,7 +1356,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/13/2016",
+		"updated": "09/13/2016"
 	},
 	{
 		"name": "JROAM",
@@ -1364,7 +1365,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "JTROE",
@@ -1373,7 +1374,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2014",
+		"updated": "07/08/2014"
 	},
 	{
 		"name": "JUBDO",
@@ -1382,7 +1383,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MW",
-		"updated": "08/07/2014",
+		"updated": "08/07/2014"
 	},
 	{
 		"name": "JUDKU",
@@ -1391,7 +1392,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "JUDOE",
@@ -1400,7 +1401,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/13/2016",
+		"updated": "01/13/2016"
 	},
 	{
 		"name": "JUGEB",
@@ -1409,7 +1410,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/04/2009",
+		"updated": "01/04/2009"
 	},
 	{
 		"name": "JUGEL",
@@ -1418,7 +1419,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2014",
+		"updated": "07/08/2014"
 	},
 	{
 		"name": "JUGIR",
@@ -1427,7 +1428,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MW",
-		"updated": "02/26/2010",
+		"updated": "02/26/2010"
 	},
 	{
 		"name": "JUGIS",
@@ -1436,7 +1437,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TIK*TACAN*155.00/15.00",
+		"updated": "TIK*TACAN*155.00/15.00"
 	},
 	{
 		"name": "JUGUD",
@@ -1445,7 +1446,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "INK*VORTAC*055.00/12.00",
+		"updated": "INK*VORTAC*055.00/12.00"
 	},
 	{
 		"name": "JUHWO",
@@ -1454,7 +1455,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/21/2006",
+		"updated": "07/21/2006"
 	},
 	{
 		"name": "JULKU",
@@ -1463,7 +1464,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ADM*VORTAC*029.52/14.93",
+		"updated": "ADM*VORTAC*029.52/14.93"
 	},
 	{
 		"name": "JULMO",
@@ -1472,7 +1473,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/20/2005",
+		"updated": "10/20/2005"
 	},
 	{
 		"name": "JULUV",
@@ -1481,7 +1482,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SHP*TACAN*329.00/9.00",
+		"updated": "SHP*TACAN*329.00/9.00"
 	},
 	{
 		"name": "JUMBO",
@@ -1490,7 +1491,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "JEN*VORTAC*196.58/40.40",
+		"updated": "JEN*VORTAC*196.58/40.40"
 	},
 	{
 		"name": "JUMEK",
@@ -1499,7 +1500,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "HBR*VORTAC*234.20/25.56",
+		"updated": "HBR*VORTAC*234.20/25.56"
 	},
 	{
 		"name": "JUMOS",
@@ -1508,7 +1509,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/12/2002",
+		"updated": "06/12/2002"
 	},
 	{
 		"name": "JUNGO",
@@ -1517,7 +1518,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/14/2017",
+		"updated": "12/14/2017"
 	},
 	{
 		"name": "JUNVA",
@@ -1526,7 +1527,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LBB*VORTAC*176.91/21.20",
+		"updated": "LBB*VORTAC*176.91/21.20"
 	},
 	{
 		"name": "JUPAT",
@@ -1535,7 +1536,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/30/2008",
+		"updated": "07/30/2008"
 	},
 	{
 		"name": "JUPOX",
@@ -1544,7 +1545,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "BFV*VORTAC*356.81/19.00",
+		"updated": "BFV*VORTAC*356.81/19.00"
 	},
 	{
 		"name": "JURAV",
@@ -1553,7 +1554,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/30/2011",
+		"updated": "11/30/2011"
 	},
 	{
 		"name": "JUSST",
@@ -1562,7 +1563,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/14/2014",
+		"updated": "07/14/2014"
 	},
 	{
 		"name": "JUSUB",
@@ -1571,7 +1572,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/17/2008",
+		"updated": "07/17/2008"
 	},
 	{
 		"name": "JUSUG",
@@ -1580,7 +1581,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "LTS*VORTAC*148.00/5.00",
+		"updated": "LTS*VORTAC*148.00/5.00"
 	},
 	{
 		"name": "JUTON",
@@ -1589,7 +1590,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/04/2010",
+		"updated": "10/04/2010"
 	},
 	{
 		"name": "JUVAL",
@@ -1598,7 +1599,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "JUVES",
@@ -1607,7 +1608,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/30/2005",
+		"updated": "12/30/2005"
 	},
 	{
 		"name": "JUVOT",
@@ -1616,7 +1617,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/15/2012",
+		"updated": "02/15/2012"
 	},
 	{
 		"name": "JYMME",
@@ -1625,5 +1626,6 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2014",
-	},
+		"updated": "07/08/2014"
+	}
+]

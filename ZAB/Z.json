@@ -1,3 +1,4 @@
+[
 	{
 		"name": "ZABCO",
 		"latitude": "35-5-51.11 N",
@@ -5,7 +6,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/30/2012",
+		"updated": "10/30/2012"
 	},
 	{
 		"name": "ZABUS",
@@ -14,7 +15,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/12/2008",
+		"updated": "02/12/2008"
 	},
 	{
 		"name": "ZADGI",
@@ -23,7 +24,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "MRF*VOR/DME*312.87/3.61",
+		"updated": "MRF*VOR/DME*312.87/3.61"
 	},
 	{
 		"name": "ZAGPI",
@@ -32,7 +33,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/19/2012",
+		"updated": "06/19/2012"
 	},
 	{
 		"name": "ZAGUB",
@@ -41,7 +42,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DUG*VORTAC*320.00/1.92",
+		"updated": "DUG*VORTAC*320.00/1.92"
 	},
 	{
 		"name": "ZAKEP",
@@ -50,7 +51,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DHT*VORTAC*169.03/17.00",
+		"updated": "DHT*VORTAC*169.03/17.00"
 	},
 	{
 		"name": "ZAKUM",
@@ -59,7 +60,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "LUF*TACAN*025.00/6.00",
+		"updated": "LUF*TACAN*025.00/6.00"
 	},
 	{
 		"name": "ZAMAB",
@@ -68,7 +69,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "INW*VORTAC*283.64/35.65",
+		"updated": "INW*VORTAC*283.64/35.65"
 	},
 	{
 		"name": "ZAMEX",
@@ -77,7 +78,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/28/2011",
+		"updated": "10/28/2011"
 	},
 	{
 		"name": "ZANXI",
@@ -86,7 +87,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TFD*VORTAC*321.74",
+		"updated": "TFD*VORTAC*321.74"
 	},
 	{
 		"name": "ZAPAX",
@@ -95,7 +96,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/28/2013",
+		"updated": "10/28/2013"
 	},
 	{
 		"name": "ZASIG",
@@ -104,7 +105,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "FLG*VOR/DME*056.00/6.00",
+		"updated": "FLG*VOR/DME*056.00/6.00"
 	},
 	{
 		"name": "ZATOX",
@@ -113,7 +114,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/25/2012",
+		"updated": "11/25/2012"
 	},
 	{
 		"name": "ZATRO",
@@ -122,7 +123,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/13/2015",
+		"updated": "05/13/2015"
 	},
 	{
 		"name": "ZATSA",
@@ -131,7 +132,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/06/2011",
+		"updated": "12/06/2011"
 	},
 	{
 		"name": "ZATVO",
@@ -140,7 +141,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*093.00/6.00",
+		"updated": "HMN*TACAN*093.00/6.00"
 	},
 	{
 		"name": "ZAXIN",
@@ -149,7 +150,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/19/2011",
+		"updated": "07/19/2011"
 	},
 	{
 		"name": "ZAXOX",
@@ -158,7 +159,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DMN*VORTAC*093.57/26.34",
+		"updated": "DMN*VORTAC*093.57/26.34"
 	},
 	{
 		"name": "ZAZPY",
@@ -167,7 +168,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TXO*VORTAC*/25.00",
+		"updated": "TXO*VORTAC*/25.00"
 	},
 	{
 		"name": "ZCARR",
@@ -176,7 +177,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*358.84/39.00",
+		"updated": "PXR*VORTAC*358.84/39.00"
 	},
 	{
 		"name": "ZEBEG",
@@ -185,7 +186,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "03/21/2017",
+		"updated": "03/21/2017"
 	},
 	{
 		"name": "ZEBIT",
@@ -194,7 +195,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/26/2016",
+		"updated": "10/26/2016"
 	},
 	{
 		"name": "ZEBOL",
@@ -203,7 +204,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/03/2005",
+		"updated": "10/03/2005"
 	},
 	{
 		"name": "ZEBUP",
@@ -212,7 +213,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/14/2011",
+		"updated": "04/14/2011"
 	},
 	{
 		"name": "ZEDAN",
@@ -221,7 +222,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SAF*VORTAC*353.83/30.00",
+		"updated": "SAF*VORTAC*353.83/30.00"
 	},
 	{
 		"name": "ZEEBE",
@@ -230,7 +231,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/23/2008",
+		"updated": "12/23/2008"
 	},
 	{
 		"name": "ZEKPI",
@@ -239,7 +240,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/16/2012",
+		"updated": "07/16/2012"
 	},
 	{
 		"name": "ZEMAG",
@@ -248,7 +249,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/16/2010",
+		"updated": "08/16/2010"
 	},
 	{
 		"name": "ZEMBI",
@@ -257,7 +258,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/19/2011",
+		"updated": "07/19/2011"
 	},
 	{
 		"name": "ZEMGO",
@@ -266,7 +267,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/28/2008",
+		"updated": "10/28/2008"
 	},
 	{
 		"name": "ZEMIB",
@@ -275,7 +276,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/11/2013",
+		"updated": "07/11/2013"
 	},
 	{
 		"name": "ZEMOS",
@@ -284,7 +285,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CWJ*LD*E CRS/18.26",
+		"updated": "CWJ*LD*E CRS/18.26"
 	},
 	{
 		"name": "ZENAM",
@@ -293,7 +294,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/19/2011",
+		"updated": "10/19/2011"
 	},
 	{
 		"name": "ZEPER",
@@ -302,7 +303,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*321.00/40.00",
+		"updated": "PXR*VORTAC*321.00/40.00"
 	},
 	{
 		"name": "ZERAR",
@@ -311,7 +312,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/26/2013",
+		"updated": "03/26/2013"
 	},
 	{
 		"name": "ZERIG",
@@ -320,7 +321,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/19/2011",
+		"updated": "07/19/2011"
 	},
 	{
 		"name": "ZERLO",
@@ -329,7 +330,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*054.40/24.16",
+		"updated": "PXR*VORTAC*054.40/24.16"
 	},
 	{
 		"name": "ZESUP",
@@ -338,7 +339,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "FLG*VOR/DME*056.00/1.00",
+		"updated": "FLG*VOR/DME*056.00/1.00"
 	},
 	{
 		"name": "ZETIB",
@@ -347,7 +348,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DHT*VORTAC*094.40/34.14",
+		"updated": "DHT*VORTAC*094.40/34.14"
 	},
 	{
 		"name": "ZETVO",
@@ -356,7 +357,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/27/2013",
+		"updated": "06/27/2013"
 	},
 	{
 		"name": "ZFLEX",
@@ -365,7 +366,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/05/2005",
+		"updated": "08/05/2005"
 	},
 	{
 		"name": "ZIASE",
@@ -374,7 +375,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ABQ*VORTAC*006.00/30.41",
+		"updated": "ABQ*VORTAC*006.00/30.41"
 	},
 	{
 		"name": "ZIBAR",
@@ -383,7 +384,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/19/2011",
+		"updated": "07/19/2011"
 	},
 	{
 		"name": "ZIDOG",
@@ -392,7 +393,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/22/2018",
+		"updated": "02/22/2018"
 	},
 	{
 		"name": "ZIDOL",
@@ -401,7 +402,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "LUF*TACAN*033.00/1.30",
+		"updated": "LUF*TACAN*033.00/1.30"
 	},
 	{
 		"name": "ZILEK",
@@ -410,7 +411,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/14/2014",
+		"updated": "02/14/2014"
 	},
 	{
 		"name": "ZILEM",
@@ -419,7 +420,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CVS*TACAN*/12.00",
+		"updated": "CVS*TACAN*/12.00"
 	},
 	{
 		"name": "ZILIG",
@@ -428,7 +429,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/04/2010",
+		"updated": "05/04/2010"
 	},
 	{
 		"name": "ZILLA",
@@ -437,7 +438,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/04/2001",
+		"updated": "09/04/2001"
 	},
 	{
 		"name": "ZILUB",
@@ -446,7 +447,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "ZIMSA",
@@ -455,7 +456,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/19/2010",
+		"updated": "11/19/2010"
 	},
 	{
 		"name": "ZINGA",
@@ -464,7 +465,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PHX*LD*258.04/6.43",
+		"updated": "PHX*LD*258.04/6.43"
 	},
 	{
 		"name": "ZIPAK",
@@ -473,7 +474,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/19/2014",
+		"updated": "02/19/2014"
 	},
 	{
 		"name": "ZIPER",
@@ -482,7 +483,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CME*VORTAC*218.00/56.00",
+		"updated": "CME*VORTAC*218.00/56.00"
 	},
 	{
 		"name": "ZIPKI",
@@ -491,7 +492,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/16/2010",
+		"updated": "08/16/2010"
 	},
 	{
 		"name": "ZIPPI",
@@ -500,7 +501,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/06/2011",
+		"updated": "12/06/2011"
 	},
 	{
 		"name": "ZIRHI",
@@ -509,7 +510,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/20/2013",
+		"updated": "06/20/2013"
 	},
 	{
 		"name": "ZIRIK",
@@ -518,7 +519,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/24/2012",
+		"updated": "02/24/2012"
 	},
 	{
 		"name": "ZIRUK",
@@ -527,7 +528,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "LUF*TACAN*175.00/37.54",
+		"updated": "LUF*TACAN*175.00/37.54"
 	},
 	{
 		"name": "ZIRUS",
@@ -536,7 +537,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/06/2001",
+		"updated": "04/06/2001"
 	},
 	{
 		"name": "ZIVET",
@@ -545,7 +546,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "BGD*VORTAC*354.56/10.00",
+		"updated": "BGD*VORTAC*354.56/10.00"
 	},
 	{
 		"name": "ZIVIP",
@@ -554,7 +555,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/10/2016",
+		"updated": "08/10/2016"
 	},
 	{
 		"name": "ZOBEG",
@@ -563,7 +564,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "LUF*TACAN*030.00/4.00",
+		"updated": "LUF*TACAN*030.00/4.00"
 	},
 	{
 		"name": "ZOBTU",
@@ -572,7 +573,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/01/2012",
+		"updated": "04/01/2012"
 	},
 	{
 		"name": "ZODES",
@@ -581,7 +582,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/25/2005",
+		"updated": "02/25/2005"
 	},
 	{
 		"name": "ZOGIR",
@@ -590,7 +591,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/18/2014",
+		"updated": "04/18/2014"
 	},
 	{
 		"name": "ZOLUP",
@@ -599,7 +600,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/22/2018",
+		"updated": "02/22/2018"
 	},
 	{
 		"name": "ZOMAP",
@@ -608,7 +609,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/30/2005",
+		"updated": "12/30/2005"
 	},
 	{
 		"name": "ZONNA",
@@ -617,7 +618,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/12/2007",
+		"updated": "07/12/2007"
 	},
 	{
 		"name": "ZORUB",
@@ -626,7 +627,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CVS*TACAN*032.00/1.20",
+		"updated": "CVS*TACAN*032.00/1.20"
 	},
 	{
 		"name": "ZORVA",
@@ -635,7 +636,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/02/2012",
+		"updated": "04/02/2012"
 	},
 	{
 		"name": "ZOSDU",
@@ -644,7 +645,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/19/2010",
+		"updated": "11/19/2010"
 	},
 	{
 		"name": "ZOSWO",
@@ -653,7 +654,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/14/2000",
+		"updated": "02/14/2000"
 	},
 	{
 		"name": "ZOTEN",
@@ -662,7 +663,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/01/2010",
+		"updated": "12/01/2010"
 	},
 	{
 		"name": "ZOTLU",
@@ -671,7 +672,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TXO*VORTAC*241.62/7.30",
+		"updated": "TXO*VORTAC*241.62/7.30"
 	},
 	{
 		"name": "ZOVEK",
@@ -680,7 +681,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/24/2007",
+		"updated": "01/24/2007"
 	},
 	{
 		"name": "ZOVOS",
@@ -689,7 +690,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*002.00/22.00",
+		"updated": "HMN*TACAN*002.00/22.00"
 	},
 	{
 		"name": "ZUBOD",
@@ -698,7 +699,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "GUP*VORTAC*305.00/14.07",
+		"updated": "GUP*VORTAC*305.00/14.07"
 	},
 	{
 		"name": "ZUKTA",
@@ -707,7 +708,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/01/2010",
+		"updated": "12/01/2010"
 	},
 	{
 		"name": "ZULAK",
@@ -716,7 +717,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TXO*VORTAC*040.47/10.00",
+		"updated": "TXO*VORTAC*040.47/10.00"
 	},
 	{
 		"name": "ZULOM",
@@ -725,7 +726,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/05/2010",
+		"updated": "05/05/2010"
 	},
 	{
 		"name": "ZUMEX",
@@ -734,7 +735,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/30/2012",
+		"updated": "10/30/2012"
 	},
 	{
 		"name": "ZUMMO",
@@ -743,7 +744,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/05/2010",
+		"updated": "05/05/2010"
 	},
 	{
 		"name": "ZUMTA",
@@ -752,7 +753,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/30/2009",
+		"updated": "12/30/2009"
 	},
 	{
 		"name": "ZUNEN",
@@ -761,7 +762,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MW",
-		"updated": "02/14/2010",
+		"updated": "02/14/2010"
 	},
 	{
 		"name": "ZUPRA",
@@ -770,7 +771,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/13/2006",
+		"updated": "02/13/2006"
 	},
 	{
 		"name": "ZUROS",
@@ -779,7 +780,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/13/2004",
+		"updated": "01/13/2004"
 	},
 	{
 		"name": "ZUSAL",
@@ -788,7 +789,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CME*VORTAC*097.55/4.19",
+		"updated": "CME*VORTAC*097.55/4.19"
 	},
 	{
 		"name": "ZUSTI",
@@ -797,7 +798,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "DMA*TACAN*119.00/1.20",
+		"updated": "DMA*TACAN*119.00/1.20"
 	},
 	{
 		"name": "ZUTBI",
@@ -806,7 +807,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "ARH*TACAN*261.48/3.95",
+		"updated": "ARH*TACAN*261.48/3.95"
 	},
 	{
 		"name": "ZUTLO",
@@ -815,7 +816,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/10/2015",
+		"updated": "05/10/2015"
 	},
 	{
 		"name": "ZUTPA",
@@ -824,7 +825,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/05/2012",
+		"updated": "04/05/2012"
 	},
 	{
 		"name": "ZUTRI",
@@ -833,7 +834,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TAS*VORTAC*115.51/14.32",
+		"updated": "TAS*VORTAC*115.51/14.32"
 	},
 	{
 		"name": "ZUVPA",
@@ -842,7 +843,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CME*VORTAC*020.00/16.00",
+		"updated": "CME*VORTAC*020.00/16.00"
 	},
 	{
 		"name": "ZUZXE",
@@ -851,5 +852,6 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/27/2001",
-	},
+		"updated": "08/27/2001"
+	}
+]

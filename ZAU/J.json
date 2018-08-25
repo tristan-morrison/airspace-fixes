@@ -1,3 +1,4 @@
+[
 	{
 		"name": "JABAS",
 		"latitude": "41-22-27.94 N",
@@ -5,7 +6,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2015",
+		"updated": "11/18/2015"
 	},
 	{
 		"name": "JABDA",
@@ -14,7 +15,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/29/2017",
+		"updated": "06/29/2017"
 	},
 	{
 		"name": "JABOL",
@@ -23,7 +24,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "10/17/2007",
+		"updated": "10/17/2007"
 	},
 	{
 		"name": "JABRI",
@@ -32,7 +33,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/25/2002",
+		"updated": "09/25/2002"
 	},
 	{
 		"name": "JADIS",
@@ -41,7 +42,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/26/2003",
+		"updated": "09/26/2003"
 	},
 	{
 		"name": "JADLI",
@@ -50,7 +51,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/21/2009",
+		"updated": "08/21/2009"
 	},
 	{
 		"name": "JADNI",
@@ -59,7 +60,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/04/2009",
+		"updated": "11/04/2009"
 	},
 	{
 		"name": "JADUX",
@@ -68,7 +69,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/09/2012",
+		"updated": "07/09/2012"
 	},
 	{
 		"name": "JAGEP",
@@ -77,7 +78,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "JAKES",
@@ -86,7 +87,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VIO*VOR/DME*287.68/14.81",
+		"updated": "VIO*VOR/DME*287.68/14.81"
 	},
 	{
 		"name": "JAKKS",
@@ -95,7 +96,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "TTH*VORTAC*021.00",
+		"updated": "TTH*VORTAC*021.00"
 	},
 	{
 		"name": "JAKSA",
@@ -104,7 +105,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "JALAN",
@@ -113,7 +114,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/09/2012",
+		"updated": "07/09/2012"
 	},
 	{
 		"name": "JALIR",
@@ -122,7 +123,7 @@
 		"state": "INDIANA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/30/2001",
+		"updated": "10/30/2001"
 	},
 	{
 		"name": "JALOX",
@@ -131,7 +132,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/13/2005",
+		"updated": "10/13/2005"
 	},
 	{
 		"name": "JALTA",
@@ -140,7 +141,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/15/2004",
+		"updated": "01/15/2004"
 	},
 	{
 		"name": "JALUG",
@@ -149,7 +150,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/28/2009",
+		"updated": "06/28/2009"
 	},
 	{
 		"name": "JAMEK",
@@ -158,7 +159,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/25/2012",
+		"updated": "10/25/2012"
 	},
 	{
 		"name": "JAMIS",
@@ -167,7 +168,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DSM*VORTAC*145.52/17.00",
+		"updated": "DSM*VORTAC*145.52/17.00"
 	},
 	{
 		"name": "JAMMS",
@@ -176,7 +177,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CID*VOR/DME*099.44/24.00",
+		"updated": "CID*VOR/DME*099.44/24.00"
 	},
 	{
 		"name": "JAMTI",
@@ -185,7 +186,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2011",
+		"updated": "05/24/2011"
 	},
 	{
 		"name": "JANGA",
@@ -194,7 +195,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/09/2013",
+		"updated": "07/09/2013"
 	},
 	{
 		"name": "JANKO",
@@ -203,7 +204,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/19/2007",
+		"updated": "07/19/2007"
 	},
 	{
 		"name": "JANSI",
@@ -212,7 +213,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "JANUG",
@@ -221,7 +222,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/27/2008",
+		"updated": "03/27/2008"
 	},
 	{
 		"name": "JANUN",
@@ -230,7 +231,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/09/2012",
+		"updated": "07/09/2012"
 	},
 	{
 		"name": "JAPRO",
@@ -239,7 +240,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/13/2012",
+		"updated": "06/13/2012"
 	},
 	{
 		"name": "JAREB",
@@ -248,7 +249,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/19/2003",
+		"updated": "03/19/2003"
 	},
 	{
 		"name": "JARKE",
@@ -257,7 +258,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RBS*VOR/DME*197.94/32.00",
+		"updated": "RBS*VOR/DME*197.94/32.00"
 	},
 	{
 		"name": "JAROS",
@@ -266,7 +267,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/09/2012",
+		"updated": "07/09/2012"
 	},
 	{
 		"name": "JAROT",
@@ -275,7 +276,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*VORTAC*244.92/14.73",
+		"updated": "FWA*VORTAC*244.92/14.73"
 	},
 	{
 		"name": "JASOL",
@@ -284,7 +285,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "JASOT",
@@ -293,7 +294,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/20/2009",
+		"updated": "01/20/2009"
 	},
 	{
 		"name": "JATEX",
@@ -302,7 +303,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "11/21/2000",
+		"updated": "11/21/2000"
 	},
 	{
 		"name": "JAVAS",
@@ -311,7 +312,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "LMN*VOR/DME*072.00/55.00",
+		"updated": "LMN*VOR/DME*072.00/55.00"
 	},
 	{
 		"name": "JAVMO",
@@ -320,7 +321,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/22/2016",
+		"updated": "02/22/2016"
 	},
 	{
 		"name": "JAVNI",
@@ -329,7 +330,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/14/2009",
+		"updated": "04/14/2009"
 	},
 	{
 		"name": "JAVON",
@@ -338,7 +339,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VQX*LD*093.88/20.18",
+		"updated": "VQX*LD*093.88/20.18"
 	},
 	{
 		"name": "JAVPO",
@@ -347,7 +348,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MKG*VORTAC*159.26",
+		"updated": "MKG*VORTAC*159.26"
 	},
 	{
 		"name": "JAYAR",
@@ -356,7 +357,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PNT*VOR/DME*003.43/32.08",
+		"updated": "PNT*VOR/DME*003.43/32.08"
 	},
 	{
 		"name": "JAYBE",
@@ -365,7 +366,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*207.00/32.37",
+		"updated": "BAE*VOR/DME*207.00/32.37"
 	},
 	{
 		"name": "JAYEX",
@@ -374,7 +375,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/28/2014",
+		"updated": "01/28/2014"
 	},
 	{
 		"name": "JAYMR",
@@ -383,7 +384,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OXI*VOR/DME*332.09",
+		"updated": "OXI*VOR/DME*332.09"
 	},
 	{
 		"name": "JBAGS",
@@ -392,7 +393,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "JCUBS",
@@ -401,7 +402,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VIO*VOR/DME*142.43/7.40",
+		"updated": "VIO*VOR/DME*142.43/7.40"
 	},
 	{
 		"name": "JEAAN",
@@ -410,7 +411,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "JEBIS",
@@ -419,7 +420,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/07/2009",
+		"updated": "04/07/2009"
 	},
 	{
 		"name": "JEDAG",
@@ -428,7 +429,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/05/2012",
+		"updated": "01/05/2012"
 	},
 	{
 		"name": "JEDEM",
@@ -437,7 +438,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/14/2010",
+		"updated": "02/14/2010"
 	},
 	{
 		"name": "JEGIM",
@@ -446,7 +447,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/21/2006",
+		"updated": "08/21/2006"
 	},
 	{
 		"name": "JEGPU",
@@ -455,7 +456,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*LD*140.76/17.26",
+		"updated": "FWA*LD*140.76/17.26"
 	},
 	{
 		"name": "JEKUM",
@@ -464,7 +465,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/26/2012",
+		"updated": "07/26/2012"
 	},
 	{
 		"name": "JELAL",
@@ -473,7 +474,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/07/2012",
+		"updated": "08/07/2012"
 	},
 	{
 		"name": "JELEL",
@@ -482,7 +483,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/22/2016",
+		"updated": "02/22/2016"
 	},
 	{
 		"name": "JELLS",
@@ -491,7 +492,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "TTH*VORTAC*039.00",
+		"updated": "TTH*VORTAC*039.00"
 	},
 	{
 		"name": "JELMO",
@@ -500,7 +501,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/21/2009",
+		"updated": "05/21/2009"
 	},
 	{
 		"name": "JEMOB",
@@ -509,7 +510,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "MR",
-		"updated": "GUS*VORTAC*232.00",
+		"updated": "GUS*VORTAC*232.00"
 	},
 	{
 		"name": "JEMUD",
@@ -518,7 +519,7 @@
 		"state": "HAWAII",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/23/2017",
+		"updated": "02/23/2017"
 	},
 	{
 		"name": "JEMUT",
@@ -527,7 +528,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/10/2012",
+		"updated": "09/10/2012"
 	},
 	{
 		"name": "JENFO",
@@ -536,7 +537,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "JENLI",
@@ -545,7 +546,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/16/2004",
+		"updated": "08/16/2004"
 	},
 	{
 		"name": "JENTI",
@@ -554,7 +555,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "JEPFE",
@@ -563,7 +564,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/23/2007",
+		"updated": "02/23/2007"
 	},
 	{
 		"name": "JEPSA",
@@ -572,7 +573,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/06/2003",
+		"updated": "08/06/2003"
 	},
 	{
 		"name": "JEREX",
@@ -581,7 +582,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VHP*VORTAC*022.48/31.59",
+		"updated": "VHP*VORTAC*022.48/31.59"
 	},
 	{
 		"name": "JERKO",
@@ -590,7 +591,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/16/2011",
+		"updated": "02/16/2011"
 	},
 	{
 		"name": "JERKY",
@@ -599,7 +600,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/22/2013",
+		"updated": "08/22/2013"
 	},
 	{
 		"name": "JERNU",
@@ -608,7 +609,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/25/2002",
+		"updated": "09/25/2002"
 	},
 	{
 		"name": "JERRY",
@@ -617,7 +618,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "JESDI",
@@ -626,7 +627,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/11/2010",
+		"updated": "08/11/2010"
 	},
 	{
 		"name": "JESIB",
@@ -635,7 +636,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/14/2010",
+		"updated": "02/14/2010"
 	},
 	{
 		"name": "JESIM",
@@ -644,7 +645,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/05/2016",
+		"updated": "05/05/2016"
 	},
 	{
 		"name": "JESKO",
@@ -653,7 +654,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/06/2010",
+		"updated": "04/06/2010"
 	},
 	{
 		"name": "JESOG",
@@ -662,7 +663,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RBS*VOR/DME*005.91/53.20",
+		"updated": "RBS*VOR/DME*005.91/53.20"
 	},
 	{
 		"name": "JESTU",
@@ -671,7 +672,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/09/2012",
+		"updated": "07/09/2012"
 	},
 	{
 		"name": "JESUB",
@@ -680,7 +681,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/27/2010",
+		"updated": "04/27/2010"
 	},
 	{
 		"name": "JETBO",
@@ -689,7 +690,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2016",
+		"updated": "11/18/2016"
 	},
 	{
 		"name": "JETIB",
@@ -698,7 +699,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/22/2013",
+		"updated": "03/22/2013"
 	},
 	{
 		"name": "JETKI",
@@ -707,7 +708,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/24/2009",
+		"updated": "09/24/2009"
 	},
 	{
 		"name": "JETRU",
@@ -716,7 +717,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/31/2005",
+		"updated": "05/31/2005"
 	},
 	{
 		"name": "JETTR",
@@ -725,7 +726,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "JEVOP",
@@ -734,7 +735,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OTM*VOR/DME*304.03/7.67",
+		"updated": "OTM*VOR/DME*304.03/7.67"
 	},
 	{
 		"name": "JEXLO",
@@ -743,7 +744,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2016",
+		"updated": "11/18/2016"
 	},
 	{
 		"name": "JHONN",
@@ -752,7 +753,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "SAJ*LD*272.99/26.04",
+		"updated": "SAJ*LD*272.99/26.04"
 	},
 	{
 		"name": "JIBBB",
@@ -761,7 +762,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/13/2014",
+		"updated": "06/13/2014"
 	},
 	{
 		"name": "JIBOR",
@@ -770,7 +771,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DBQ*VORTAC*041.88",
+		"updated": "DBQ*VORTAC*041.88"
 	},
 	{
 		"name": "JIBUL",
@@ -779,7 +780,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/20/2009",
+		"updated": "07/20/2009"
 	},
 	{
 		"name": "JIDIP",
@@ -788,7 +789,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2016",
+		"updated": "11/18/2016"
 	},
 	{
 		"name": "JIDNA",
@@ -797,7 +798,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/13/2010",
+		"updated": "08/13/2010"
 	},
 	{
 		"name": "JIGRO",
@@ -806,7 +807,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/10/2008",
+		"updated": "10/10/2008"
 	},
 	{
 		"name": "JIGTA",
@@ -815,7 +816,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/01/2013",
+		"updated": "08/01/2013"
 	},
 	{
 		"name": "JIJLU",
@@ -824,7 +825,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DBQ*VORTAC*049.15/20.00",
+		"updated": "DBQ*VORTAC*049.15/20.00"
 	},
 	{
 		"name": "JILLY",
@@ -833,7 +834,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "EON*VORTAC*223.80/46.17",
+		"updated": "EON*VORTAC*223.80/46.17"
 	},
 	{
 		"name": "JILLZ",
@@ -842,7 +843,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "JILYN",
@@ -851,7 +852,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "JIMIR",
@@ -860,7 +861,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/10/2013",
+		"updated": "09/10/2013"
 	},
 	{
 		"name": "JIMMO",
@@ -869,7 +870,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JOT*VOR/DME*098.43",
+		"updated": "JOT*VOR/DME*098.43"
 	},
 	{
 		"name": "JINUB",
@@ -878,7 +879,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/22/2007",
+		"updated": "02/22/2007"
 	},
 	{
 		"name": "JINUL",
@@ -887,7 +888,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RNX*LD*NE CRS/3.12",
+		"updated": "RNX*LD*NE CRS/3.12"
 	},
 	{
 		"name": "JINYO",
@@ -896,7 +897,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DJK*LD*S CRS/6.68",
+		"updated": "DJK*LD*S CRS/6.68"
 	},
 	{
 		"name": "JIPDA",
@@ -905,7 +906,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "JIPID",
@@ -914,7 +915,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/28/2011",
+		"updated": "03/28/2011"
 	},
 	{
 		"name": "JIPTI",
@@ -923,7 +924,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/25/2014",
+		"updated": "08/25/2014"
 	},
 	{
 		"name": "JIPUS",
@@ -932,7 +933,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/05/2016",
+		"updated": "10/05/2016"
 	},
 	{
 		"name": "JIQKU",
@@ -941,7 +942,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/13/2001",
+		"updated": "12/13/2001"
 	},
 	{
 		"name": "JIRKA",
@@ -950,7 +951,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/20/2006",
+		"updated": "11/20/2006"
 	},
 	{
 		"name": "JISIS",
@@ -959,7 +960,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "GBG*VOR/DME*/6.32",
+		"updated": "GBG*VOR/DME*/6.32"
 	},
 	{
 		"name": "JISUD",
@@ -968,7 +969,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/17/2010",
+		"updated": "11/17/2010"
 	},
 	{
 		"name": "JITID",
@@ -977,7 +978,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/09/2013",
+		"updated": "01/09/2013"
 	},
 	{
 		"name": "JITNU",
@@ -986,7 +987,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "JITOK",
@@ -995,7 +996,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JOT*VOR/DME*041.42/12.16",
+		"updated": "JOT*VOR/DME*041.42/12.16"
 	},
 	{
 		"name": "JITSA",
@@ -1004,7 +1005,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/19/2006",
+		"updated": "01/19/2006"
 	},
 	{
 		"name": "JITUV",
@@ -1013,7 +1014,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "JITVI",
@@ -1022,7 +1023,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "JIVBU",
@@ -1031,7 +1032,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*VORTAC*/16.00",
+		"updated": "FWA*VORTAC*/16.00"
 	},
 	{
 		"name": "JIYUB",
@@ -1040,7 +1041,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/26/2001",
+		"updated": "02/26/2001"
 	},
 	{
 		"name": "JJANN",
@@ -1049,7 +1050,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ELX*VOR/DME*148.63/11.91",
+		"updated": "ELX*VOR/DME*148.63/11.91"
 	},
 	{
 		"name": "JJUDD",
@@ -1058,7 +1059,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VIO*VOR/DME*175.65/6.40",
+		"updated": "VIO*VOR/DME*175.65/6.40"
 	},
 	{
 		"name": "JODER",
@@ -1067,7 +1068,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RFD*VOR/DME*028.65",
+		"updated": "RFD*VOR/DME*028.65"
 	},
 	{
 		"name": "JODET",
@@ -1076,7 +1077,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/27/2009",
+		"updated": "07/27/2009"
 	},
 	{
 		"name": "JODUN",
@@ -1085,7 +1086,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/01/2006",
+		"updated": "06/01/2006"
 	},
 	{
 		"name": "JODYS",
@@ -1094,7 +1095,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BDF*VORTAC*072.90",
+		"updated": "BDF*VORTAC*072.90"
 	},
 	{
 		"name": "JOEBB",
@@ -1103,7 +1104,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/04/2010",
+		"updated": "03/04/2010"
 	},
 	{
 		"name": "JOEBO",
@@ -1112,7 +1113,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "IAC*LD*093.00/23.02",
+		"updated": "IAC*LD*093.00/23.02"
 	},
 	{
 		"name": "JOGBA",
@@ -1121,7 +1122,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/21/2006",
+		"updated": "07/21/2006"
 	},
 	{
 		"name": "JOGBO",
@@ -1130,7 +1131,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "JOGIV",
@@ -1139,7 +1140,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/12/2006",
+		"updated": "01/12/2006"
 	},
 	{
 		"name": "JOGRI",
@@ -1148,7 +1149,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DSZ*LD*004.94",
+		"updated": "DSZ*LD*004.94"
 	},
 	{
 		"name": "JOHUJ",
@@ -1157,7 +1158,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/18/2010",
+		"updated": "02/18/2010"
 	},
 	{
 		"name": "JOKBI",
@@ -1166,7 +1167,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/29/2013",
+		"updated": "07/29/2013"
 	},
 	{
 		"name": "JOKKR",
@@ -1175,7 +1176,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ABU*LD*093.01/24.99",
+		"updated": "ABU*LD*093.01/24.99"
 	},
 	{
 		"name": "JOKOP",
@@ -1184,7 +1185,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CMI*VORTAC*027.00/2.80",
+		"updated": "CMI*VORTAC*027.00/2.80"
 	},
 	{
 		"name": "JOLAT",
@@ -1193,7 +1194,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/30/2011",
+		"updated": "01/30/2011"
 	},
 	{
 		"name": "JOLIX",
@@ -1202,7 +1203,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MZV*VOR/DME*282.66",
+		"updated": "MZV*VOR/DME*282.66"
 	},
 	{
 		"name": "JOLNI",
@@ -1211,7 +1212,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/25/2012",
+		"updated": "04/25/2012"
 	},
 	{
 		"name": "JOLON",
@@ -1220,7 +1221,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/09/2013",
+		"updated": "01/09/2013"
 	},
 	{
 		"name": "JOMEX",
@@ -1229,7 +1230,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "11/21/2000",
+		"updated": "11/21/2000"
 	},
 	{
 		"name": "JOMOR",
@@ -1238,7 +1239,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/15/2011",
+		"updated": "03/15/2011"
 	},
 	{
 		"name": "JONES",
@@ -1247,7 +1248,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "LFD*VOR/DME*261.30/31.68",
+		"updated": "LFD*VOR/DME*261.30/31.68"
 	},
 	{
 		"name": "JONSN",
@@ -1256,7 +1257,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PMM*VOR/DME*010.21/70.00",
+		"updated": "PMM*VOR/DME*010.21/70.00"
 	},
 	{
 		"name": "JOPUX",
@@ -1265,7 +1266,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "JORJO",
@@ -1274,7 +1275,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "JORMO",
@@ -1283,7 +1284,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/16/2010",
+		"updated": "11/16/2010"
 	},
 	{
 		"name": "JOSKO",
@@ -1292,7 +1293,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MZZ*VOR/DME*/7.12",
+		"updated": "MZZ*VOR/DME*/7.12"
 	},
 	{
 		"name": "JOTIM",
@@ -1301,7 +1302,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/12/2012",
+		"updated": "03/12/2012"
 	},
 	{
 		"name": "JOTOM",
@@ -1310,7 +1311,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/27/2009",
+		"updated": "07/27/2009"
 	},
 	{
 		"name": "JOTRO",
@@ -1319,7 +1320,7 @@
 		"state": "INDIANA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/31/2013",
+		"updated": "07/31/2013"
 	},
 	{
 		"name": "JOTUR",
@@ -1328,7 +1329,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/09/2012",
+		"updated": "07/09/2012"
 	},
 	{
 		"name": "JOVEB",
@@ -1337,7 +1338,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DLL*LE*189.76/4.09",
+		"updated": "DLL*LE*189.76/4.09"
 	},
 	{
 		"name": "JOVEV",
@@ -1346,7 +1347,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/22/2006",
+		"updated": "03/22/2006"
 	},
 	{
 		"name": "JOVIV",
@@ -1355,7 +1356,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "JOVON",
@@ -1364,7 +1365,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/28/2007",
+		"updated": "08/28/2007"
 	},
 	{
 		"name": "JOVOS",
@@ -1373,7 +1374,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/25/2005",
+		"updated": "01/25/2005"
 	},
 	{
 		"name": "JOVQU",
@@ -1382,7 +1383,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/17/2018",
+		"updated": "04/17/2018"
 	},
 	{
 		"name": "JOXIV",
@@ -1391,7 +1392,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CMI*VORTAC*321.80/0.89",
+		"updated": "CMI*VORTAC*321.80/0.89"
 	},
 	{
 		"name": "JOXUD",
@@ -1400,7 +1401,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "JPAUL",
@@ -1409,7 +1410,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CVA*VORTAC*148.88/30.81",
+		"updated": "CVA*VORTAC*148.88/30.81"
 	},
 	{
 		"name": "JUBAD",
@@ -1418,7 +1419,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/07/2009",
+		"updated": "04/07/2009"
 	},
 	{
 		"name": "JUBDI",
@@ -1427,7 +1428,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/30/2013",
+		"updated": "07/30/2013"
 	},
 	{
 		"name": "JUBLA",
@@ -1436,7 +1437,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/05/2010",
+		"updated": "06/05/2010"
 	},
 	{
 		"name": "JUDUS",
@@ -1445,7 +1446,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PNT*VOR/DME*037.38/10.00",
+		"updated": "PNT*VOR/DME*037.38/10.00"
 	},
 	{
 		"name": "JUDVI",
@@ -1454,7 +1455,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "JUGER",
@@ -1463,7 +1464,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/15/2003",
+		"updated": "05/15/2003"
 	},
 	{
 		"name": "JUGIG",
@@ -1472,7 +1473,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/16/2006",
+		"updated": "08/16/2006"
 	},
 	{
 		"name": "JUGIT",
@@ -1481,7 +1482,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "JUGUG",
@@ -1490,7 +1491,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/16/2010",
+		"updated": "11/16/2010"
 	},
 	{
 		"name": "JUHCI",
@@ -1499,7 +1500,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/11/2010",
+		"updated": "08/11/2010"
 	},
 	{
 		"name": "JUKAX",
@@ -1508,7 +1509,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/29/2008",
+		"updated": "07/29/2008"
 	},
 	{
 		"name": "JUKIC",
@@ -1517,7 +1518,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "JUKIM",
@@ -1526,7 +1527,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/27/2009",
+		"updated": "07/27/2009"
 	},
 	{
 		"name": "JUKLO",
@@ -1535,7 +1536,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/07/2008",
+		"updated": "11/07/2008"
 	},
 	{
 		"name": "JULEL",
@@ -1544,7 +1545,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/22/2008",
+		"updated": "12/22/2008"
 	},
 	{
 		"name": "JULIP",
@@ -1553,7 +1554,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DNV*VORTAC*099.50",
+		"updated": "DNV*VORTAC*099.50"
 	},
 	{
 		"name": "JULOX",
@@ -1562,7 +1563,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RFD*VOR/DME*100.05",
+		"updated": "RFD*VOR/DME*100.05"
 	},
 	{
 		"name": "JUMIV",
@@ -1571,7 +1572,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*349.51/15.15",
+		"updated": "DPA*VOR/DME*349.51/15.15"
 	},
 	{
 		"name": "JUMLO",
@@ -1580,7 +1581,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/27/2009",
+		"updated": "07/27/2009"
 	},
 	{
 		"name": "JUMPN",
@@ -1589,7 +1590,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "JUMVI",
@@ -1598,7 +1599,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/18/2011",
+		"updated": "02/18/2011"
 	},
 	{
 		"name": "JUMVO",
@@ -1607,7 +1608,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "JUNAN",
@@ -1616,7 +1617,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "MR",
-		"updated": "GUS*VORTAC*041.00",
+		"updated": "GUS*VORTAC*041.00"
 	},
 	{
 		"name": "JUNCO",
@@ -1625,7 +1626,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CVA*VORTAC*214.90/18.78",
+		"updated": "CVA*VORTAC*214.90/18.78"
 	},
 	{
 		"name": "JUNDA",
@@ -1634,7 +1635,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "11/21/2000",
+		"updated": "11/21/2000"
 	},
 	{
 		"name": "JUNED",
@@ -1643,7 +1644,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/12/2014",
+		"updated": "03/12/2014"
 	},
 	{
 		"name": "JUNKS",
@@ -1652,7 +1653,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OXI*VOR/DME*345.80/8.00",
+		"updated": "OXI*VOR/DME*345.80/8.00"
 	},
 	{
 		"name": "JUNRI",
@@ -1661,7 +1662,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/30/2011",
+		"updated": "01/30/2011"
 	},
 	{
 		"name": "JUNUP",
@@ -1670,7 +1671,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/16/2010",
+		"updated": "11/16/2010"
 	},
 	{
 		"name": "JUPAV",
@@ -1679,7 +1680,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*VORTAC*022.00/19.00",
+		"updated": "FWA*VORTAC*022.00/19.00"
 	},
 	{
 		"name": "JUPER",
@@ -1688,7 +1689,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JVL*VOR/DME*275.84/17.00",
+		"updated": "JVL*VOR/DME*275.84/17.00"
 	},
 	{
 		"name": "JUPIR",
@@ -1697,7 +1698,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/16/2013",
+		"updated": "05/16/2013"
 	},
 	{
 		"name": "JUPKU",
@@ -1706,7 +1707,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/25/2008",
+		"updated": "11/25/2008"
 	},
 	{
 		"name": "JURIS",
@@ -1715,7 +1716,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DBQ*LD*310.93",
+		"updated": "DBQ*LD*310.93"
 	},
 	{
 		"name": "JURIT",
@@ -1724,7 +1725,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/16/2010",
+		"updated": "06/16/2010"
 	},
 	{
 		"name": "JURSI",
@@ -1733,7 +1734,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JWJ*VOR/DME*299.70/2.40",
+		"updated": "JWJ*VOR/DME*299.70/2.40"
 	},
 	{
 		"name": "JURUV",
@@ -1742,7 +1743,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2016",
+		"updated": "11/18/2016"
 	},
 	{
 		"name": "JUSAS",
@@ -1751,7 +1752,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/19/2010",
+		"updated": "05/19/2010"
 	},
 	{
 		"name": "JUSBI",
@@ -1760,7 +1761,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/24/2018",
+		"updated": "04/24/2018"
 	},
 	{
 		"name": "JUSRO",
@@ -1769,7 +1770,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/01/2011",
+		"updated": "03/01/2011"
 	},
 	{
 		"name": "JUTAX",
@@ -1778,7 +1779,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/27/2009",
+		"updated": "10/27/2009"
 	},
 	{
 		"name": "JUTGI",
@@ -1787,7 +1788,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/20/2009",
+		"updated": "01/20/2009"
 	},
 	{
 		"name": "JUTSI",
@@ -1796,7 +1797,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/09/2013",
+		"updated": "01/09/2013"
 	},
 	{
 		"name": "JUTUS",
@@ -1805,7 +1806,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/14/2007",
+		"updated": "03/14/2007"
 	},
 	{
 		"name": "JUVMI",
@@ -1814,7 +1815,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*128.79",
+		"updated": "BAE*VOR/DME*128.79"
 	},
 	{
 		"name": "JUVOD",
@@ -1823,7 +1824,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/30/2011",
+		"updated": "01/30/2011"
 	},
 	{
 		"name": "JUVSU",
@@ -1832,7 +1833,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/30/2013",
+		"updated": "07/30/2013"
 	},
 	{
 		"name": "JYBEE",
@@ -1841,5 +1842,6 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MKG*VORTAC*209.31/52.00",
-	},
+		"updated": "MKG*VORTAC*209.31/52.00"
+	}
+]

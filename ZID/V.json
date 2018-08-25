@@ -1,3 +1,4 @@
+[
 	{
 		"name": "VACUB",
 		"latitude": "39-5-37.24 N",
@@ -5,7 +6,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "VAC*LD*006.17/1.20",
+		"updated": "VAC*LD*006.17/1.20"
 	},
 	{
 		"name": "VADUY",
@@ -14,7 +15,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "APE*VORTAC*189.00/15.61",
+		"updated": "APE*VORTAC*189.00/15.61"
 	},
 	{
 		"name": "VANJI",
@@ -23,7 +24,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "TTH*VORTAC*005.32/12.50",
+		"updated": "TTH*VORTAC*005.32/12.50"
 	},
 	{
 		"name": "VARNY",
@@ -32,7 +33,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/13/2012",
+		"updated": "12/13/2012"
 	},
 	{
 		"name": "VARUY",
@@ -41,7 +42,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "VASUY",
@@ -50,7 +51,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/31/2011",
+		"updated": "05/31/2011"
 	},
 	{
 		"name": "VEALS",
@@ -59,7 +60,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "CMI*VORTAC*130.46/5.95",
+		"updated": "CMI*VORTAC*130.46/5.95"
 	},
 	{
 		"name": "VECON",
@@ -68,7 +69,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/11/2007",
+		"updated": "05/11/2007"
 	},
 	{
 		"name": "VERSI",
@@ -77,7 +78,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "JPU*VOR/DME*207.25/12.33",
+		"updated": "JPU*VOR/DME*207.25/12.33"
 	},
 	{
 		"name": "VERYU",
@@ -86,7 +87,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/17/2008",
+		"updated": "06/17/2008"
 	},
 	{
 		"name": "VIBCO",
@@ -95,7 +96,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/10/2016",
+		"updated": "11/10/2016"
 	},
 	{
 		"name": "VICGO",
@@ -104,7 +105,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/08/2006",
+		"updated": "08/08/2006"
 	},
 	{
 		"name": "VIDEO",
@@ -113,7 +114,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "AID*LS*SE CRS",
+		"updated": "AID*LS*SE CRS"
 	},
 	{
 		"name": "VIKOR",
@@ -122,7 +123,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "VILLL",
@@ -131,7 +132,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/09/2016",
+		"updated": "05/09/2016"
 	},
 	{
 		"name": "VIPPR",
@@ -140,7 +141,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "MR",
-		"updated": "FFO*TACAN*/15.00",
+		"updated": "FFO*TACAN*/15.00"
 	},
 	{
 		"name": "VITAE",
@@ -149,7 +150,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/21/2016",
+		"updated": "01/21/2016"
 	},
 	{
 		"name": "VIYUT",
@@ -158,7 +159,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/26/2014",
+		"updated": "09/26/2014"
 	},
 	{
 		"name": "VLADY",
@@ -167,7 +168,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "BKW*VOR/DME*349.55/100.84",
+		"updated": "BKW*VOR/DME*349.55/100.84"
 	},
 	{
 		"name": "VOBCU",
@@ -176,7 +177,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "VOCCA",
@@ -185,7 +186,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "RID*VORTAC*264.18/13.07",
+		"updated": "RID*VORTAC*264.18/13.07"
 	},
 	{
 		"name": "VOCUG",
@@ -194,7 +195,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/31/2009",
+		"updated": "12/31/2009"
 	},
 	{
 		"name": "VOCUK",
@@ -203,7 +204,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "BKW*VOR/DME*/7.16",
+		"updated": "BKW*VOR/DME*/7.16"
 	},
 	{
 		"name": "VOCUT",
@@ -212,7 +213,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/22/2012",
+		"updated": "05/22/2012"
 	},
 	{
 		"name": "VOSTK",
@@ -221,7 +222,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/26/2007",
+		"updated": "11/26/2007"
 	},
 	{
 		"name": "VOYUK",
@@ -230,7 +231,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "SNU*LD*350.40/4.51",
+		"updated": "SNU*LD*350.40/4.51"
 	},
 	{
 		"name": "VOYUV",
@@ -239,7 +240,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/02/2012",
+		"updated": "08/02/2012"
 	},
 	{
 		"name": "VPEST",
@@ -248,7 +249,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "VFR",
-		"updated": "06/05/2015",
+		"updated": "06/05/2015"
 	},
 	{
 		"name": "VPMFE",
@@ -257,7 +258,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "VFR",
-		"updated": "06/05/2015",
+		"updated": "06/05/2015"
 	},
 	{
 		"name": "VPMFW",
@@ -266,7 +267,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "VFR",
-		"updated": "06/05/2015",
+		"updated": "06/05/2015"
 	},
 	{
 		"name": "VPWST",
@@ -275,7 +276,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "VFR",
-		"updated": "06/05/2015",
+		"updated": "06/05/2015"
 	},
 	{
 		"name": "VROWS",
@@ -284,7 +285,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/01/2016",
+		"updated": "07/01/2016"
 	},
 	{
 		"name": "VUDUY",
@@ -293,7 +294,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "SHB*VOR/DME*022.90",
+		"updated": "SHB*VOR/DME*022.90"
 	},
 	{
 		"name": "VUNJU",
@@ -302,7 +303,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "WP",
-		"updated": "06/15/2011",
+		"updated": "06/15/2011"
 	},
 	{
 		"name": "VUPUC",
@@ -311,7 +312,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "BLF*VOR/DME*353.60",
+		"updated": "BLF*VOR/DME*353.60"
 	},
 	{
 		"name": "VUSWO",
@@ -320,7 +321,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/25/2012",
+		"updated": "04/25/2012"
 	},
 	{
 		"name": "VUTUY",
@@ -329,7 +330,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/04/2008",
+		"updated": "12/04/2008"
 	},
 	{
 		"name": "VUYUG",
@@ -338,5 +339,6 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "FTK*VOR/DME*169.33/2.30",
-	},
+		"updated": "FTK*VOR/DME*169.33/2.30"
+	}
+]

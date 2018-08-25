@@ -1,3 +1,4 @@
+[
 	{
 		"name": "WAGGO",
 		"latitude": "46-54-4.78 N",
@@ -5,7 +6,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZYZ",
 		"type": "RP",
-		"updated": "ERY*VOR/DME*033.94",
+		"updated": "ERY*VOR/DME*033.94"
 	},
 	{
 		"name": "WALAC",
@@ -14,5 +15,6 @@
 		"state": "",
 		"artcc": "ZYZ",
 		"type": "RP",
-		"updated": "SSM*VOR/DME*115.00",
-	},
+		"updated": "SSM*VOR/DME*115.00"
+	}
+]

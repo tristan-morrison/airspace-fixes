@@ -1,3 +1,4 @@
+[
 	{
 		"name": "RABOY",
 		"latitude": "34-29-40.06 N",
@@ -5,7 +6,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SJN*VORTAC*283.00/10.00",
+		"updated": "SJN*VORTAC*283.00/10.00"
 	},
 	{
 		"name": "RACKS",
@@ -14,7 +15,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CME*VORTAC*196.40",
+		"updated": "CME*VORTAC*196.40"
 	},
 	{
 		"name": "RADNY",
@@ -23,7 +24,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/29/2009",
+		"updated": "12/29/2009"
 	},
 	{
 		"name": "RADOM",
@@ -32,7 +33,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*358.84/34.42",
+		"updated": "PXR*VORTAC*358.84/34.42"
 	},
 	{
 		"name": "RAMSY",
@@ -41,7 +42,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "IGM*VOR/DME*104.21/45.00",
+		"updated": "IGM*VOR/DME*104.21/45.00"
 	},
 	{
 		"name": "RANAE",
@@ -50,7 +51,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/06/2001",
+		"updated": "04/06/2001"
 	},
 	{
 		"name": "RANOY",
@@ -59,7 +60,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "GUP*VORTAC*305.00/9.00",
+		"updated": "GUP*VORTAC*305.00/9.00"
 	},
 	{
 		"name": "RAPKE",
@@ -68,7 +69,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CVS*TACAN*/12.00",
+		"updated": "CVS*TACAN*/12.00"
 	},
 	{
 		"name": "RARKE",
@@ -77,7 +78,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "RAVEE",
@@ -86,7 +87,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/05/2005",
+		"updated": "08/05/2005"
 	},
 	{
 		"name": "RAXIE",
@@ -95,7 +96,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/01/2010",
+		"updated": "12/01/2010"
 	},
 	{
 		"name": "RAYCO",
@@ -104,7 +105,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "TUS*VORTAC*245.00/8.00",
+		"updated": "TUS*VORTAC*245.00/8.00"
 	},
 	{
 		"name": "RDRNR",
@@ -113,7 +114,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "REBDE",
@@ -122,7 +123,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/02/2006",
+		"updated": "06/02/2006"
 	},
 	{
 		"name": "RECKN",
@@ -131,7 +132,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/25/2012",
+		"updated": "11/25/2012"
 	},
 	{
 		"name": "RECOK",
@@ -140,7 +141,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/23/2007",
+		"updated": "08/23/2007"
 	},
 	{
 		"name": "REDDY",
@@ -149,7 +150,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*VORTAC*038.00/22.00",
+		"updated": "TUS*VORTAC*038.00/22.00"
 	},
 	{
 		"name": "REDON",
@@ -158,7 +159,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ABQ*VORTAC*006.00/47.00",
+		"updated": "ABQ*VORTAC*006.00/47.00"
 	},
 	{
 		"name": "RENCO",
@@ -167,7 +168,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "FTI*VORTAC*233.46/34.70",
+		"updated": "FTI*VORTAC*233.46/34.70"
 	},
 	{
 		"name": "REPGE",
@@ -176,7 +177,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/14/2011",
+		"updated": "04/14/2011"
 	},
 	{
 		"name": "REPPA",
@@ -185,7 +186,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DHT*VORTAC*070.55/54.41",
+		"updated": "DHT*VORTAC*070.55/54.41"
 	},
 	{
 		"name": "RESOY",
@@ -194,7 +195,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TAS*VORTAC*115.51/8.00",
+		"updated": "TAS*VORTAC*115.51/8.00"
 	},
 	{
 		"name": "RESRV",
@@ -203,7 +204,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MW",
-		"updated": "SSO*VORTAC*015.00/80.00",
+		"updated": "SSO*VORTAC*015.00/80.00"
 	},
 	{
 		"name": "REVIE",
@@ -212,7 +213,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "REYOK",
@@ -221,7 +222,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CME*VORTAC*307.72/23.30",
+		"updated": "CME*VORTAC*307.72/23.30"
 	},
 	{
 		"name": "REYON",
@@ -230,7 +231,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "RICSY",
@@ -239,7 +240,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ABQ*VORTAC*125.08",
+		"updated": "ABQ*VORTAC*125.08"
 	},
 	{
 		"name": "RIDSE",
@@ -248,7 +249,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/19/2016",
+		"updated": "04/19/2016"
 	},
 	{
 		"name": "RIGGO",
@@ -257,7 +258,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/05/2010",
+		"updated": "05/05/2010"
 	},
 	{
 		"name": "RIICH",
@@ -266,7 +267,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "RIICK",
@@ -275,7 +276,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/06/2011",
+		"updated": "12/06/2011"
 	},
 	{
 		"name": "RIMKE",
@@ -284,7 +285,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/21/2015",
+		"updated": "08/21/2015"
 	},
 	{
 		"name": "RIOWE",
@@ -293,7 +294,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "EWM*VORTAC*111.48",
+		"updated": "EWM*VORTAC*111.48"
 	},
 	{
 		"name": "RIPUW",
@@ -302,7 +303,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/07/2008",
+		"updated": "02/07/2008"
 	},
 	{
 		"name": "RISDY",
@@ -311,7 +312,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/16/2012",
+		"updated": "07/16/2012"
 	},
 	{
 		"name": "RISGE",
@@ -320,7 +321,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ELP*VORTAC*081.48/7.00",
+		"updated": "ELP*VORTAC*081.48/7.00"
 	},
 	{
 		"name": "RIVIL",
@@ -329,7 +330,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*VORTAC*303.04/7.31",
+		"updated": "TUS*VORTAC*303.04/7.31"
 	},
 	{
 		"name": "RIYCO",
@@ -338,7 +339,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*143.44/26.23",
+		"updated": "PXR*VORTAC*143.44/26.23"
 	},
 	{
 		"name": "RKART",
@@ -347,7 +348,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/10/2018",
+		"updated": "04/10/2018"
 	},
 	{
 		"name": "RKDAM",
@@ -356,7 +357,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/01/2010",
+		"updated": "12/01/2010"
 	},
 	{
 		"name": "RMERO",
@@ -365,7 +366,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/13/2014",
+		"updated": "03/13/2014"
 	},
 	{
 		"name": "ROCLO",
@@ -374,7 +375,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/15/2003",
+		"updated": "05/15/2003"
 	},
 	{
 		"name": "ROCQO",
@@ -383,7 +384,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "ROGSE",
@@ -392,7 +393,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "ABQ*VORTAC*/3.62",
+		"updated": "ABQ*VORTAC*/3.62"
 	},
 	{
 		"name": "ROHYO",
@@ -401,7 +402,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CNM*VORTAC*330.95/14.32",
+		"updated": "CNM*VORTAC*330.95/14.32"
 	},
 	{
 		"name": "ROJJO",
@@ -410,7 +411,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/23/2015",
+		"updated": "08/23/2015"
 	},
 	{
 		"name": "RONDE",
@@ -419,7 +420,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CME*VORTAC*278.00/10.00",
+		"updated": "CME*VORTAC*278.00/10.00"
 	},
 	{
 		"name": "ROSEE",
@@ -428,7 +429,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/10/2012",
+		"updated": "04/10/2012"
 	},
 	{
 		"name": "ROSEI",
@@ -437,7 +438,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/25/2012",
+		"updated": "11/25/2012"
 	},
 	{
 		"name": "ROSKR",
@@ -446,7 +447,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "GBN*VORTAC*108.99/73.54",
+		"updated": "GBN*VORTAC*108.99/73.54"
 	},
 	{
 		"name": "ROTBE",
@@ -455,7 +456,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MW",
-		"updated": "02/14/2010",
+		"updated": "02/14/2010"
 	},
 	{
 		"name": "ROTGY",
@@ -464,7 +465,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/01/2010",
+		"updated": "12/01/2010"
 	},
 	{
 		"name": "ROUTE",
@@ -473,7 +474,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/18/2017",
+		"updated": "08/18/2017"
 	},
 	{
 		"name": "ROVSE",
@@ -482,7 +483,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/21/2004",
+		"updated": "07/21/2004"
 	},
 	{
 		"name": "ROWHO",
@@ -491,7 +492,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "ROXIE",
@@ -500,7 +501,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TFD*VORTAC*/2.54",
+		"updated": "TFD*VORTAC*/2.54"
 	},
 	{
 		"name": "ROYSO",
@@ -509,7 +510,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/31/2016",
+		"updated": "10/31/2016"
 	},
 	{
 		"name": "RUCOK",
@@ -518,7 +519,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "BGD*VORTAC*173.48/9.47",
+		"updated": "BGD*VORTAC*173.48/9.47"
 	},
 	{
 		"name": "RUGEE",
@@ -527,7 +528,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "07/19/2011",
+		"updated": "07/19/2011"
 	},
 	{
 		"name": "RUINS",
@@ -536,7 +537,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ACH*VORTAC*237.00/43.00",
+		"updated": "ACH*VORTAC*237.00/43.00"
 	},
 	{
 		"name": "RUPOY",
@@ -545,7 +546,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/28/2016",
+		"updated": "04/28/2016"
 	},
 	{
 		"name": "RUSLE",
@@ -554,7 +555,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "MW",
-		"updated": "07/26/2011",
+		"updated": "07/26/2011"
 	},
 	{
 		"name": "RUTER",
@@ -563,7 +564,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TCS*VORTAC*149.00/62.85",
+		"updated": "TCS*VORTAC*149.00/62.85"
 	},
 	{
 		"name": "RUTHH",
@@ -572,7 +573,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/14/2009",
+		"updated": "05/14/2009"
 	},
 	{
 		"name": "RUVIE",
@@ -581,7 +582,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/06/2001",
+		"updated": "04/06/2001"
 	},
 	{
 		"name": "RUWEL",
@@ -590,7 +591,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/27/2017",
+		"updated": "12/27/2017"
 	},
 	{
 		"name": "RVANN",
@@ -599,7 +600,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "RYAN",
@@ -608,7 +609,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*VORTAC*270.00/12.83",
+		"updated": "TUS*VORTAC*270.00/12.83"
 	},
 	{
 		"name": "RYYNN",
@@ -617,5 +618,6 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/09/2007",
-	},
+		"updated": "07/09/2007"
+	}
+]

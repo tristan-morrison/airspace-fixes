@@ -1,3 +1,4 @@
+[
 	{
 		"name": "ZABDU",
 		"latitude": "41-12-0.44 N",
@@ -5,7 +6,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/15/2010",
+		"updated": "11/15/2010"
 	},
 	{
 		"name": "ZABER",
@@ -14,7 +15,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MFD*VORTAC*047.98/7.28",
+		"updated": "MFD*VORTAC*047.98/7.28"
 	},
 	{
 		"name": "ZABOK",
@@ -23,7 +24,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/18/2015",
+		"updated": "03/18/2015"
 	},
 	{
 		"name": "ZABSO",
@@ -32,7 +33,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/23/2014",
+		"updated": "10/23/2014"
 	},
 	{
 		"name": "ZABVU",
@@ -41,7 +42,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/13/2013",
+		"updated": "08/13/2013"
 	},
 	{
 		"name": "ZADBO",
@@ -50,7 +51,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/25/2013",
+		"updated": "03/25/2013"
 	},
 	{
 		"name": "ZADEW",
@@ -59,7 +60,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/28/2014",
+		"updated": "07/28/2014"
 	},
 	{
 		"name": "ZADUM",
@@ -68,7 +69,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/25/2014",
+		"updated": "07/25/2014"
 	},
 	{
 		"name": "ZAGOX",
@@ -77,7 +78,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/13/2015",
+		"updated": "05/13/2015"
 	},
 	{
 		"name": "ZAHFY",
@@ -86,7 +87,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "ZAIKO",
@@ -95,7 +96,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "AGC*VOR/DME*355.10",
+		"updated": "AGC*VOR/DME*355.10"
 	},
 	{
 		"name": "ZAJRO",
@@ -104,7 +105,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "ZAKFE",
@@ -113,7 +114,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/08/2017",
+		"updated": "08/08/2017"
 	},
 	{
 		"name": "ZAKKC",
@@ -122,7 +123,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/06/2018",
+		"updated": "03/06/2018"
 	},
 	{
 		"name": "ZAKUR",
@@ -131,7 +132,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/02/2014",
+		"updated": "10/02/2014"
 	},
 	{
 		"name": "ZALMA",
@@ -140,7 +141,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "ZALUK",
@@ -149,7 +150,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "ZAMDO",
@@ -158,7 +159,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "ZAMGI",
@@ -167,7 +168,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/22/2008",
+		"updated": "02/22/2008"
 	},
 	{
 		"name": "ZAMIK",
@@ -176,7 +177,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/05/2016",
+		"updated": "05/05/2016"
 	},
 	{
 		"name": "ZANDR",
@@ -185,7 +186,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "AIR*VOR/DME*276.00/33.00",
+		"updated": "AIR*VOR/DME*276.00/33.00"
 	},
 	{
 		"name": "ZANFY",
@@ -194,7 +195,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/13/2015",
+		"updated": "04/13/2015"
 	},
 	{
 		"name": "ZANPO",
@@ -203,7 +204,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/10/2016",
+		"updated": "11/10/2016"
 	},
 	{
 		"name": "ZANTA",
@@ -212,7 +213,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "TQW*LD*145.40/3.39",
+		"updated": "TQW*LD*145.40/3.39"
 	},
 	{
 		"name": "ZAPAM",
@@ -221,7 +222,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "ZAPAN",
@@ -230,7 +231,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/11/2011",
+		"updated": "03/11/2011"
 	},
 	{
 		"name": "ZAPAS",
@@ -239,7 +240,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/30/2001",
+		"updated": "10/30/2001"
 	},
 	{
 		"name": "ZAREG",
@@ -248,7 +249,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/22/2006",
+		"updated": "12/22/2006"
 	},
 	{
 		"name": "ZAREM",
@@ -257,7 +258,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "ZARIM",
@@ -266,7 +267,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "PSI*VORTAC*123.95/7.68",
+		"updated": "PSI*VORTAC*123.95/7.68"
 	},
 	{
 		"name": "ZARIP",
@@ -275,7 +276,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "TOL*TACAN*080.00/2.50",
+		"updated": "TOL*TACAN*080.00/2.50"
 	},
 	{
 		"name": "ZARTO",
@@ -284,7 +285,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/24/2007",
+		"updated": "08/24/2007"
 	},
 	{
 		"name": "ZASUR",
@@ -293,7 +294,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MFD*VORTAC*309.73/6.00",
+		"updated": "MFD*VORTAC*309.73/6.00"
 	},
 	{
 		"name": "ZATIX",
@@ -302,7 +303,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/30/2017",
+		"updated": "11/30/2017"
 	},
 	{
 		"name": "ZATKU",
@@ -311,7 +312,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/29/2015",
+		"updated": "01/29/2015"
 	},
 	{
 		"name": "ZATLA",
@@ -320,7 +321,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/24/2006",
+		"updated": "08/24/2006"
 	},
 	{
 		"name": "ZATNO",
@@ -329,7 +330,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/09/2016",
+		"updated": "06/09/2016"
 	},
 	{
 		"name": "ZAVCO",
@@ -338,7 +339,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "ZAVED",
@@ -347,7 +348,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/20/2009",
+		"updated": "08/20/2009"
 	},
 	{
 		"name": "ZAVEX",
@@ -356,7 +357,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DXO*VOR/DME*257.18/14.67",
+		"updated": "DXO*VOR/DME*257.18/14.67"
 	},
 	{
 		"name": "ZAVIB",
@@ -365,7 +366,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/28/2008",
+		"updated": "02/28/2008"
 	},
 	{
 		"name": "ZAVMA",
@@ -374,7 +375,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/23/2012",
+		"updated": "08/23/2012"
 	},
 	{
 		"name": "ZAVOK",
@@ -383,7 +384,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/29/2015",
+		"updated": "01/29/2015"
 	},
 	{
 		"name": "ZAVRI",
@@ -392,7 +393,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "ZAXAB",
@@ -401,7 +402,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/15/2017",
+		"updated": "12/15/2017"
 	},
 	{
 		"name": "ZAXID",
@@ -410,7 +411,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/24/2006",
+		"updated": "08/24/2006"
 	},
 	{
 		"name": "ZEBIR",
@@ -419,7 +420,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "ZEBOR",
@@ -428,7 +429,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/14/2013",
+		"updated": "05/14/2013"
 	},
 	{
 		"name": "ZEDOT",
@@ -437,7 +438,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/15/2013",
+		"updated": "08/15/2013"
 	},
 	{
 		"name": "ZEGDO",
@@ -446,7 +447,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/25/2002",
+		"updated": "01/25/2002"
 	},
 	{
 		"name": "ZEGUG",
@@ -455,7 +456,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/25/2013",
+		"updated": "03/25/2013"
 	},
 	{
 		"name": "ZEJCU",
@@ -464,7 +465,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/24/2001",
+		"updated": "08/24/2001"
 	},
 	{
 		"name": "ZEKAR",
@@ -473,7 +474,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/08/2015",
+		"updated": "10/08/2015"
 	},
 	{
 		"name": "ZEKBA",
@@ -482,7 +483,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "ZELHY",
@@ -491,7 +492,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/06/2018",
+		"updated": "02/06/2018"
 	},
 	{
 		"name": "ZELTU",
@@ -500,7 +501,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/24/2013",
+		"updated": "09/24/2013"
 	},
 	{
 		"name": "ZELVI",
@@ -509,7 +510,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "ZEMDU",
@@ -518,7 +519,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "ZEMIS",
@@ -527,7 +528,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "01/17/2008",
+		"updated": "01/17/2008"
 	},
 	{
 		"name": "ZEMPU",
@@ -536,7 +537,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/13/2015",
+		"updated": "05/13/2015"
 	},
 	{
 		"name": "ZENVA",
@@ -545,7 +546,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/24/2015",
+		"updated": "03/24/2015"
 	},
 	{
 		"name": "ZEPDO",
@@ -554,7 +555,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "ZEROG",
@@ -563,7 +564,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "MR",
-		"updated": "MTC*TACAN*020.00/53.00",
+		"updated": "MTC*TACAN*020.00/53.00"
 	},
 	{
 		"name": "ZESAK",
@@ -572,7 +573,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/28/2013",
+		"updated": "08/28/2013"
 	},
 	{
 		"name": "ZESAT",
@@ -581,7 +582,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "ZESEV",
@@ -590,7 +591,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/15/2017",
+		"updated": "12/15/2017"
 	},
 	{
 		"name": "ZESRU",
@@ -599,7 +600,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "AIR*VOR/DME*229.46/17.20",
+		"updated": "AIR*VOR/DME*229.46/17.20"
 	},
 	{
 		"name": "ZETBI",
@@ -608,7 +609,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MBS*VOR/DME*311.02/1.91",
+		"updated": "MBS*VOR/DME*311.02/1.91"
 	},
 	{
 		"name": "ZETEM",
@@ -617,7 +618,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/23/2014",
+		"updated": "10/23/2014"
 	},
 	{
 		"name": "ZETEX",
@@ -626,7 +627,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/23/2007",
+		"updated": "03/23/2007"
 	},
 	{
 		"name": "ZETGA",
@@ -635,7 +636,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MGW*VORTAC*015.00/17.01",
+		"updated": "MGW*VORTAC*015.00/17.01"
 	},
 	{
 		"name": "ZETMU",
@@ -644,7 +645,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/30/2018",
+		"updated": "03/30/2018"
 	},
 	{
 		"name": "ZEVLO",
@@ -653,7 +654,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "BSV*VOR/DME*/12.26",
+		"updated": "BSV*VOR/DME*/12.26"
 	},
 	{
 		"name": "ZEXOD",
@@ -662,7 +663,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/20/2012",
+		"updated": "11/20/2012"
 	},
 	{
 		"name": "ZEYDU",
@@ -671,7 +672,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/15/2002",
+		"updated": "05/15/2002"
 	},
 	{
 		"name": "ZIBOM",
@@ -680,7 +681,7 @@
 		"state": "INDIANA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "ZIDIR",
@@ -689,7 +690,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "ZIDJO",
@@ -698,7 +699,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "ZIDUP",
@@ -707,7 +708,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "ZIFEG",
@@ -716,7 +717,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/05/2001",
+		"updated": "10/05/2001"
 	},
 	{
 		"name": "ZIFWY",
@@ -725,7 +726,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/02/2001",
+		"updated": "10/02/2001"
 	},
 	{
 		"name": "ZIGIT",
@@ -734,7 +735,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/19/2008",
+		"updated": "08/19/2008"
 	},
 	{
 		"name": "ZIGJO",
@@ -743,7 +744,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/10/2002",
+		"updated": "05/10/2002"
 	},
 	{
 		"name": "ZIGMI",
@@ -752,7 +753,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/20/2011",
+		"updated": "04/20/2011"
 	},
 	{
 		"name": "ZIKBI",
@@ -761,7 +762,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/03/2013",
+		"updated": "09/03/2013"
 	},
 	{
 		"name": "ZIKED",
@@ -770,7 +771,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/18/2008",
+		"updated": "06/18/2008"
 	},
 	{
 		"name": "ZIKEM",
@@ -779,7 +780,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/18/2008",
+		"updated": "06/18/2008"
 	},
 	{
 		"name": "ZIKSO",
@@ -788,7 +789,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "GEE*VOR/DME*025.85",
+		"updated": "GEE*VOR/DME*025.85"
 	},
 	{
 		"name": "ZILET",
@@ -797,7 +798,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/05/2011",
+		"updated": "05/05/2011"
 	},
 	{
 		"name": "ZIMBO",
@@ -806,7 +807,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/15/2010",
+		"updated": "11/15/2010"
 	},
 	{
 		"name": "ZIMKA",
@@ -815,7 +816,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "ZINTA",
@@ -824,7 +825,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "JST*VOR/DME*286.65",
+		"updated": "JST*VOR/DME*286.65"
 	},
 	{
 		"name": "ZISKI",
@@ -833,7 +834,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MFD*VORTAC*278.98/10.00",
+		"updated": "MFD*VORTAC*278.98/10.00"
 	},
 	{
 		"name": "ZITER",
@@ -842,7 +843,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/30/2018",
+		"updated": "03/30/2018"
 	},
 	{
 		"name": "ZITKA",
@@ -851,7 +852,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "EJR*LD*035.72/4.05",
+		"updated": "EJR*LD*035.72/4.05"
 	},
 	{
 		"name": "ZIVID",
@@ -860,7 +861,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/06/2010",
+		"updated": "12/06/2010"
 	},
 	{
 		"name": "ZIWLE",
@@ -869,7 +870,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "ZIWLO",
@@ -878,7 +879,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "ZIXAX",
@@ -887,7 +888,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MFD*VORTAC*133.91/6.02",
+		"updated": "MFD*VORTAC*133.91/6.02"
 	},
 	{
 		"name": "ZIXEL",
@@ -896,7 +897,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/02/2012",
+		"updated": "10/02/2012"
 	},
 	{
 		"name": "ZIZKO",
@@ -905,7 +906,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/20/2011",
+		"updated": "12/20/2011"
 	},
 	{
 		"name": "ZLASH",
@@ -914,7 +915,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "ZOBMI",
@@ -923,7 +924,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/24/2009",
+		"updated": "02/24/2009"
 	},
 	{
 		"name": "ZOBOB",
@@ -932,7 +933,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/15/2011",
+		"updated": "07/15/2011"
 	},
 	{
 		"name": "ZOBRI",
@@ -941,7 +942,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/29/2015",
+		"updated": "01/29/2015"
 	},
 	{
 		"name": "ZOBSO",
@@ -950,7 +951,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "JHW*VOR/DME*017.18",
+		"updated": "JHW*VOR/DME*017.18"
 	},
 	{
 		"name": "ZODIV",
@@ -959,7 +960,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "ZODPA",
@@ -968,7 +969,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/14/2016",
+		"updated": "11/14/2016"
 	},
 	{
 		"name": "ZOFEB",
@@ -977,7 +978,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/26/2014",
+		"updated": "03/26/2014"
 	},
 	{
 		"name": "ZOGOB",
@@ -986,7 +987,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/27/2014",
+		"updated": "03/27/2014"
 	},
 	{
 		"name": "ZOKEL",
@@ -995,7 +996,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "ZOKIG",
@@ -1004,7 +1005,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/05/2001",
+		"updated": "10/05/2001"
 	},
 	{
 		"name": "ZOLDI",
@@ -1013,7 +1014,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/23/2012",
+		"updated": "07/23/2012"
 	},
 	{
 		"name": "ZOLEL",
@@ -1022,7 +1023,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/04/2017",
+		"updated": "04/04/2017"
 	},
 	{
 		"name": "ZOLEP",
@@ -1031,7 +1032,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/03/2013",
+		"updated": "09/03/2013"
 	},
 	{
 		"name": "ZOMKI",
@@ -1040,7 +1041,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/16/2017",
+		"updated": "03/16/2017"
 	},
 	{
 		"name": "ZOMUM",
@@ -1049,7 +1050,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/27/2014",
+		"updated": "03/27/2014"
 	},
 	{
 		"name": "ZONIA",
@@ -1058,7 +1059,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "CGF*LD*237.47/9.99",
+		"updated": "CGF*LD*237.47/9.99"
 	},
 	{
 		"name": "ZOPKI",
@@ -1067,7 +1068,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/30/2018",
+		"updated": "03/30/2018"
 	},
 	{
 		"name": "ZORAB",
@@ -1076,7 +1077,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/23/2014",
+		"updated": "10/23/2014"
 	},
 	{
 		"name": "ZORBO",
@@ -1085,7 +1086,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "SLT*VORTAC*287.25/56.38",
+		"updated": "SLT*VORTAC*287.25/56.38"
 	},
 	{
 		"name": "ZOREX",
@@ -1094,7 +1095,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "WP",
-		"updated": "03/07/2005",
+		"updated": "03/07/2005"
 	},
 	{
 		"name": "ZORGA",
@@ -1103,7 +1104,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/17/2011",
+		"updated": "08/17/2011"
 	},
 	{
 		"name": "ZORIX",
@@ -1112,7 +1113,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "ZORPI",
@@ -1121,7 +1122,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/20/2012",
+		"updated": "07/20/2012"
 	},
 	{
 		"name": "ZOTBA",
@@ -1130,7 +1131,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/09/2014",
+		"updated": "04/09/2014"
 	},
 	{
 		"name": "ZOTBI",
@@ -1139,7 +1140,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "JST*VOR/DME*096.04/11.70",
+		"updated": "JST*VOR/DME*096.04/11.70"
 	},
 	{
 		"name": "ZOTKU",
@@ -1148,7 +1149,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/13/2015",
+		"updated": "05/13/2015"
 	},
 	{
 		"name": "ZOXUK",
@@ -1157,7 +1158,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "ZUBBY",
@@ -1166,7 +1167,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "ZUDAT",
@@ -1175,7 +1176,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/25/2014",
+		"updated": "07/25/2014"
 	},
 	{
 		"name": "ZUDEV",
@@ -1184,7 +1185,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/03/2013",
+		"updated": "09/03/2013"
 	},
 	{
 		"name": "ZUDIK",
@@ -1193,7 +1194,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "ZUDLO",
@@ -1202,7 +1203,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "EWC*VOR/DME*256.01/4.50",
+		"updated": "EWC*VOR/DME*256.01/4.50"
 	},
 	{
 		"name": "ZUDUT",
@@ -1211,7 +1212,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "GEE*VOR/DME*085.00/18.48",
+		"updated": "GEE*VOR/DME*085.00/18.48"
 	},
 	{
 		"name": "ZUFIL",
@@ -1220,7 +1221,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/06/2011",
+		"updated": "06/06/2011"
 	},
 	{
 		"name": "ZUGIG",
@@ -1229,7 +1230,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "ZUGOP",
@@ -1238,7 +1239,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "EWC*VOR/DME*134.36/7.91",
+		"updated": "EWC*VOR/DME*134.36/7.91"
 	},
 	{
 		"name": "ZUKDU",
@@ -1247,7 +1248,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/21/2013",
+		"updated": "08/21/2013"
 	},
 	{
 		"name": "ZULAX",
@@ -1256,7 +1257,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/24/2007",
+		"updated": "08/24/2007"
 	},
 	{
 		"name": "ZULGA",
@@ -1265,7 +1266,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "ZUNEL",
@@ -1274,7 +1275,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/14/2004",
+		"updated": "04/14/2004"
 	},
 	{
 		"name": "ZUNKO",
@@ -1283,7 +1284,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/15/2008",
+		"updated": "04/15/2008"
 	},
 	{
 		"name": "ZUNOX",
@@ -1292,7 +1293,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2012",
+		"updated": "03/29/2012"
 	},
 	{
 		"name": "ZUPAD",
@@ -1301,7 +1302,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/08/2015",
+		"updated": "10/08/2015"
 	},
 	{
 		"name": "ZUPAG",
@@ -1310,7 +1311,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "PSI*VORTAC*247.27",
+		"updated": "PSI*VORTAC*247.27"
 	},
 	{
 		"name": "ZUPEN",
@@ -1319,7 +1320,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/24/2013",
+		"updated": "09/24/2013"
 	},
 	{
 		"name": "ZUPIP",
@@ -1328,7 +1329,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/15/2013",
+		"updated": "08/15/2013"
 	},
 	{
 		"name": "ZUPKO",
@@ -1337,7 +1338,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/30/2012",
+		"updated": "05/30/2012"
 	},
 	{
 		"name": "ZUPSU",
@@ -1346,7 +1347,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "WP",
-		"updated": "07/20/2007",
+		"updated": "07/20/2007"
 	},
 	{
 		"name": "ZUPUV",
@@ -1355,7 +1356,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/20/2012",
+		"updated": "11/20/2012"
 	},
 	{
 		"name": "ZUPWY",
@@ -1364,7 +1365,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/28/2000",
+		"updated": "02/28/2000"
 	},
 	{
 		"name": "ZURTO",
@@ -1373,7 +1374,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/23/2012",
+		"updated": "07/23/2012"
 	},
 	{
 		"name": "ZURUS",
@@ -1382,7 +1383,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/25/2014",
+		"updated": "07/25/2014"
 	},
 	{
 		"name": "ZUSDI",
@@ -1391,7 +1392,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/03/2013",
+		"updated": "09/03/2013"
 	},
 	{
 		"name": "ZUTBU",
@@ -1400,7 +1401,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "ZUTER",
@@ -1409,7 +1410,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "ZUTIV",
@@ -1418,7 +1419,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "CTW*VOR/DME*045.16/53.08",
+		"updated": "CTW*VOR/DME*045.16/53.08"
 	},
 	{
 		"name": "ZUXIX",
@@ -1427,7 +1428,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/14/2004",
+		"updated": "04/14/2004"
 	},
 	{
 		"name": "ZZBEE",
@@ -1436,7 +1437,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/30/2018",
+		"updated": "03/30/2018"
 	},
 	{
 		"name": "ZZIPS",
@@ -1445,5 +1446,6 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/06/2018",
-	},
+		"updated": "03/06/2018"
+	}
+]

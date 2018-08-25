@@ -1,3 +1,4 @@
+[
 	{
 		"name": "HABEK",
 		"latitude": "34-6-3.23 N",
@@ -5,7 +6,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SPS*VORTAC*060.00/20.00",
+		"updated": "SPS*VORTAC*060.00/20.00"
 	},
 	{
 		"name": "HABUN",
@@ -14,7 +15,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MW",
-		"updated": "02/26/2010",
+		"updated": "02/26/2010"
 	},
 	{
 		"name": "HADMA",
@@ -23,7 +24,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/27/2008",
+		"updated": "03/27/2008"
 	},
 	{
 		"name": "HAFLU",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "UIM*VOR/DME*235.72/7.09",
+		"updated": "UIM*VOR/DME*235.72/7.09"
 	},
 	{
 		"name": "HAGRE",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "UIM*VOR/DME*210.00/6.00",
+		"updated": "UIM*VOR/DME*210.00/6.00"
 	},
 	{
 		"name": "HAKAR",
@@ -50,7 +51,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/23/2002",
+		"updated": "09/23/2002"
 	},
 	{
 		"name": "HAKIN",
@@ -59,7 +60,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "PRX*VOR/DME*313.50",
+		"updated": "PRX*VOR/DME*313.50"
 	},
 	{
 		"name": "HALAN",
@@ -68,7 +69,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/16/2008",
+		"updated": "07/16/2008"
 	},
 	{
 		"name": "HALIV",
@@ -77,7 +78,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/07/2016",
+		"updated": "11/07/2016"
 	},
 	{
 		"name": "HALTI",
@@ -86,7 +87,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "MJF*TACAN*186.34/1.08",
+		"updated": "MJF*TACAN*186.34/1.08"
 	},
 	{
 		"name": "HALTO",
@@ -95,7 +96,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/27/2014",
+		"updated": "05/27/2014"
 	},
 	{
 		"name": "HALUD",
@@ -104,7 +105,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/17/2005",
+		"updated": "10/17/2005"
 	},
 	{
 		"name": "HAMDO",
@@ -113,7 +114,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/16/2014",
+		"updated": "06/16/2014"
 	},
 	{
 		"name": "HAMLO",
@@ -122,7 +123,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MW",
-		"updated": "02/26/2010",
+		"updated": "02/26/2010"
 	},
 	{
 		"name": "HANAS",
@@ -131,7 +132,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/17/2015",
+		"updated": "08/17/2015"
 	},
 	{
 		"name": "HANGS",
@@ -140,7 +141,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "PWA*VOR/DME*122.78",
+		"updated": "PWA*VOR/DME*122.78"
 	},
 	{
 		"name": "HANIG",
@@ -149,7 +150,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "OKM*VOR/DME*094.70/38.83",
+		"updated": "OKM*VOR/DME*094.70/38.83"
 	},
 	{
 		"name": "HANOF",
@@ -158,7 +159,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/07/2011",
+		"updated": "03/07/2011"
 	},
 	{
 		"name": "HANOM",
@@ -167,7 +168,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "URH*VOR/DME*184.16/10.00",
+		"updated": "URH*VOR/DME*184.16/10.00"
 	},
 	{
 		"name": "HANUH",
@@ -176,7 +177,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2014",
+		"updated": "07/08/2014"
 	},
 	{
 		"name": "HAPNS",
@@ -185,7 +186,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "HAPUN",
@@ -194,7 +195,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ELD*VOR/DME*351.00/11.00",
+		"updated": "ELD*VOR/DME*351.00/11.00"
 	},
 	{
 		"name": "HARAT",
@@ -203,7 +204,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "HAREB",
@@ -212,7 +213,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "06/02/2017",
+		"updated": "06/02/2017"
 	},
 	{
 		"name": "HASLT",
@@ -221,7 +222,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "UPE*LD*N CRS/6.82",
+		"updated": "UPE*LD*N CRS/6.82"
 	},
 	{
 		"name": "HASNA",
@@ -230,7 +231,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SPS*VORTAC*080.00/24.00",
+		"updated": "SPS*VORTAC*080.00/24.00"
 	},
 	{
 		"name": "HASTY",
@@ -239,7 +240,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CIX*LD*356.25/4.97",
+		"updated": "CIX*LD*356.25/4.97"
 	},
 	{
 		"name": "HATUB",
@@ -248,7 +249,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "IRW*VORTAC*222.28/23.38",
+		"updated": "IRW*VORTAC*222.28/23.38"
 	},
 	{
 		"name": "HAVAK",
@@ -257,7 +258,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "IRW*VORTAC*155.28/11.36",
+		"updated": "IRW*VORTAC*155.28/11.36"
 	},
 	{
 		"name": "HAVEB",
@@ -266,7 +267,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/20/2002",
+		"updated": "09/20/2002"
 	},
 	{
 		"name": "HAVPU",
@@ -275,7 +276,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/01/2010",
+		"updated": "02/01/2010"
 	},
 	{
 		"name": "HAVUS",
@@ -284,7 +285,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/22/2005",
+		"updated": "08/22/2005"
 	},
 	{
 		"name": "HAWES",
@@ -293,7 +294,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/02/2016",
+		"updated": "09/02/2016"
 	},
 	{
 		"name": "HAXEB",
@@ -302,7 +303,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/17/2016",
+		"updated": "11/17/2016"
 	},
 	{
 		"name": "HAXIV",
@@ -311,7 +312,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "LTS*VORTAC*/4.97",
+		"updated": "LTS*VORTAC*/4.97"
 	},
 	{
 		"name": "HAXOG",
@@ -320,7 +321,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "BAD*TACAN*338.00/1.40",
+		"updated": "BAD*TACAN*338.00/1.40"
 	},
 	{
 		"name": "HAXOS",
@@ -329,7 +330,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/17/2008",
+		"updated": "07/17/2008"
 	},
 	{
 		"name": "HAYZZ",
@@ -338,7 +339,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2014",
+		"updated": "07/08/2014"
 	},
 	{
 		"name": "HAZKL",
@@ -347,7 +348,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/27/2004",
+		"updated": "07/27/2004"
 	},
 	{
 		"name": "HAZLE",
@@ -356,7 +357,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/16/2010",
+		"updated": "05/16/2010"
 	},
 	{
 		"name": "HEART",
@@ -365,7 +366,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ACT*VORTAC*141.09/15.00",
+		"updated": "ACT*VORTAC*141.09/15.00"
 	},
 	{
 		"name": "HEAST",
@@ -374,7 +375,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/03/2016",
+		"updated": "10/03/2016"
 	},
 	{
 		"name": "HEATR",
@@ -383,7 +384,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CDS*VORTAC*028.49",
+		"updated": "CDS*VORTAC*028.49"
 	},
 	{
 		"name": "HEBAB",
@@ -392,7 +393,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/27/2004",
+		"updated": "09/27/2004"
 	},
 	{
 		"name": "HEBIP",
@@ -401,7 +402,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "SLR*VOR/DME*093.71",
+		"updated": "SLR*VOR/DME*093.71"
 	},
 	{
 		"name": "HEBIX",
@@ -410,7 +411,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "HOB*VORTAC*275.90/17.00",
+		"updated": "HOB*VORTAC*275.90/17.00"
 	},
 	{
 		"name": "HEBOG",
@@ -419,7 +420,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/04/2008",
+		"updated": "02/04/2008"
 	},
 	{
 		"name": "HEBOM",
@@ -428,7 +429,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/03/2010",
+		"updated": "12/03/2010"
 	},
 	{
 		"name": "HEBOP",
@@ -437,7 +438,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/20/2005",
+		"updated": "10/20/2005"
 	},
 	{
 		"name": "HEDEK",
@@ -446,7 +447,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "HEDIP",
@@ -455,7 +456,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/20/2014",
+		"updated": "05/20/2014"
 	},
 	{
 		"name": "HEDMN",
@@ -464,7 +465,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/07/2015",
+		"updated": "05/07/2015"
 	},
 	{
 		"name": "HEERE",
@@ -473,7 +474,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/07/2015",
+		"updated": "05/07/2015"
 	},
 	{
 		"name": "HEGTA",
@@ -482,7 +483,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LBB*VORTAC*216.27/31.85",
+		"updated": "LBB*VORTAC*216.27/31.85"
 	},
 	{
 		"name": "HEKBA",
@@ -491,7 +492,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/20/2005",
+		"updated": "10/20/2005"
 	},
 	{
 		"name": "HEKET",
@@ -500,7 +501,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/07/2009",
+		"updated": "08/07/2009"
 	},
 	{
 		"name": "HEKEV",
@@ -509,7 +510,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/07/2010",
+		"updated": "04/07/2010"
 	},
 	{
 		"name": "HEKMA",
@@ -518,7 +519,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "FUZ*VORTAC*246.95/13.85",
+		"updated": "FUZ*VORTAC*246.95/13.85"
 	},
 	{
 		"name": "HELAV",
@@ -527,7 +528,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "RRA*LD*SE CRS/11.00",
+		"updated": "RRA*LD*SE CRS/11.00"
 	},
 	{
 		"name": "HELBI",
@@ -536,7 +537,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/20/2011",
+		"updated": "09/20/2011"
 	},
 	{
 		"name": "HELKU",
@@ -545,7 +546,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/24/2017",
+		"updated": "05/24/2017"
 	},
 	{
 		"name": "HELRA",
@@ -554,7 +555,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/16/2010",
+		"updated": "05/16/2010"
 	},
 	{
 		"name": "HELUS",
@@ -563,7 +564,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXO*VORTAC*140.96/18.50",
+		"updated": "TXO*VORTAC*140.96/18.50"
 	},
 	{
 		"name": "HEMDU",
@@ -572,7 +573,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/15/2003",
+		"updated": "05/15/2003"
 	},
 	{
 		"name": "HEMLA",
@@ -581,7 +582,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "HEMON",
@@ -590,7 +591,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/29/2010",
+		"updated": "03/29/2010"
 	},
 	{
 		"name": "HENAK",
@@ -599,7 +600,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SHP*TACAN*154.00/4.60",
+		"updated": "SHP*TACAN*154.00/4.60"
 	},
 	{
 		"name": "HENBI",
@@ -608,7 +609,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "HEPEK",
@@ -617,7 +618,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SHP*TACAN*265.99/13.00",
+		"updated": "SHP*TACAN*265.99/13.00"
 	},
 	{
 		"name": "HEPEM",
@@ -626,7 +627,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "DYS*TACAN*/1.50",
+		"updated": "DYS*TACAN*/1.50"
 	},
 	{
 		"name": "HEPER",
@@ -635,7 +636,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/06/2003",
+		"updated": "03/06/2003"
 	},
 	{
 		"name": "HEPEX",
@@ -644,7 +645,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/21/2004",
+		"updated": "07/21/2004"
 	},
 	{
 		"name": "HEPLO",
@@ -653,7 +654,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/24/2012",
+		"updated": "05/24/2012"
 	},
 	{
 		"name": "HEPTA",
@@ -662,7 +663,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/02/2016",
+		"updated": "04/02/2016"
 	},
 	{
 		"name": "HERAM",
@@ -671,7 +672,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/04/2009",
+		"updated": "01/04/2009"
 	},
 	{
 		"name": "HERMR",
@@ -680,7 +681,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "EIC*VORTAC*222.30/12.55",
+		"updated": "EIC*VORTAC*222.30/12.55"
 	},
 	{
 		"name": "HERNO",
@@ -689,7 +690,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/10/2009",
+		"updated": "07/10/2009"
 	},
 	{
 		"name": "HERRI",
@@ -698,7 +699,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "GGG*VORTAC*199.02",
+		"updated": "GGG*VORTAC*199.02"
 	},
 	{
 		"name": "HERUX",
@@ -707,7 +708,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/14/2005",
+		"updated": "01/14/2005"
 	},
 	{
 		"name": "HESEM",
@@ -716,7 +717,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "DYS*TACAN*158.00/1.50",
+		"updated": "DYS*TACAN*158.00/1.50"
 	},
 	{
 		"name": "HESSS",
@@ -725,7 +726,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "LTS*VORTAC*180.00/12.00",
+		"updated": "LTS*VORTAC*180.00/12.00"
 	},
 	{
 		"name": "HESVA",
@@ -734,7 +735,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/14/2009",
+		"updated": "10/14/2009"
 	},
 	{
 		"name": "HETBI",
@@ -743,7 +744,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "HETIK",
@@ -752,7 +753,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/26/2002",
+		"updated": "08/26/2002"
 	},
 	{
 		"name": "HETKI",
@@ -761,7 +762,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/17/2005",
+		"updated": "10/17/2005"
 	},
 	{
 		"name": "HEXAS",
@@ -770,7 +771,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "FZT*VOR/DME*274.94/8.00",
+		"updated": "FZT*VOR/DME*274.94/8.00"
 	},
 	{
 		"name": "HEXOV",
@@ -779,7 +780,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/13/2014",
+		"updated": "07/13/2014"
 	},
 	{
 		"name": "HEXPE",
@@ -788,7 +789,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/12/2005",
+		"updated": "07/12/2005"
 	},
 	{
 		"name": "HHULL",
@@ -797,7 +798,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "HIBED",
@@ -806,7 +807,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "PKQ*LD*S CRS/14.89",
+		"updated": "PKQ*LD*S CRS/14.89"
 	},
 	{
 		"name": "HIBEM",
@@ -815,7 +816,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SHP*TACAN*154.00/13.00",
+		"updated": "SHP*TACAN*154.00/13.00"
 	},
 	{
 		"name": "HIBIL",
@@ -824,7 +825,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2014",
+		"updated": "07/08/2014"
 	},
 	{
 		"name": "HIBIS",
@@ -833,7 +834,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MQP*VORTAC*340.22",
+		"updated": "MQP*VORTAC*340.22"
 	},
 	{
 		"name": "HIBIX",
@@ -842,7 +843,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/21/2004",
+		"updated": "07/21/2004"
 	},
 	{
 		"name": "HIBMA",
@@ -851,7 +852,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/01/2012",
+		"updated": "06/01/2012"
 	},
 	{
 		"name": "HIBOS",
@@ -860,7 +861,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/28/2008",
+		"updated": "11/28/2008"
 	},
 	{
 		"name": "HICNY",
@@ -869,7 +870,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MLU*VORTAC*267.00/23.00",
+		"updated": "MLU*VORTAC*267.00/23.00"
 	},
 	{
 		"name": "HICOE",
@@ -878,7 +879,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ACT*VORTAC*282.00/46.00",
+		"updated": "ACT*VORTAC*282.00/46.00"
 	},
 	{
 		"name": "HIDOB",
@@ -887,7 +888,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/30/2012",
+		"updated": "07/30/2012"
 	},
 	{
 		"name": "HIDUM",
@@ -896,7 +897,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "DYS*TACAN*/15.00",
+		"updated": "DYS*TACAN*/15.00"
 	},
 	{
 		"name": "HIDUX",
@@ -905,7 +906,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "NFW*TACAN*180.00/1.60",
+		"updated": "NFW*TACAN*180.00/1.60"
 	},
 	{
 		"name": "HIGER",
@@ -914,7 +915,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/16/2013",
+		"updated": "07/16/2013"
 	},
 	{
 		"name": "HIGIR",
@@ -923,7 +924,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/09/2012",
+		"updated": "04/09/2012"
 	},
 	{
 		"name": "HIGIT",
@@ -932,7 +933,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/07/2010",
+		"updated": "04/07/2010"
 	},
 	{
 		"name": "HIKAY",
@@ -941,7 +942,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TTT*VOR/DME*309.66/27.35",
+		"updated": "TTT*VOR/DME*309.66/27.35"
 	},
 	{
 		"name": "HIKDI",
@@ -950,7 +951,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "NFW*TACAN*352.00/1.40",
+		"updated": "NFW*TACAN*352.00/1.40"
 	},
 	{
 		"name": "HIKOT",
@@ -959,7 +960,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/06/2008",
+		"updated": "02/06/2008"
 	},
 	{
 		"name": "HIKTU",
@@ -968,7 +969,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/29/2012",
+		"updated": "10/29/2012"
 	},
 	{
 		"name": "HIKUG",
@@ -977,7 +978,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "HIMRY",
@@ -986,7 +987,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/01/2017",
+		"updated": "03/01/2017"
 	},
 	{
 		"name": "HINAM",
@@ -995,7 +996,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/17/2005",
+		"updated": "10/17/2005"
 	},
 	{
 		"name": "HINEL",
@@ -1004,7 +1005,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SHP*TACAN*334.00/13.00",
+		"updated": "SHP*TACAN*334.00/13.00"
 	},
 	{
 		"name": "HINTA",
@@ -1013,7 +1014,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/02/2009",
+		"updated": "12/02/2009"
 	},
 	{
 		"name": "HINZE",
@@ -1022,7 +1023,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "HIPAN",
@@ -1031,7 +1032,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "BYP*VORTAC*290.00/20.00",
+		"updated": "BYP*VORTAC*290.00/20.00"
 	},
 	{
 		"name": "HIPIM",
@@ -1040,7 +1041,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "HQZ*LD*357.88/0.49",
+		"updated": "HQZ*LD*357.88/0.49"
 	},
 	{
 		"name": "HIPKI",
@@ -1049,7 +1050,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SHP*TACAN*/9.00",
+		"updated": "SHP*TACAN*/9.00"
 	},
 	{
 		"name": "HIPKO",
@@ -1058,7 +1059,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/02/2011",
+		"updated": "11/02/2011"
 	},
 	{
 		"name": "HIPLA",
@@ -1067,7 +1068,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/20/2009",
+		"updated": "12/20/2009"
 	},
 	{
 		"name": "HIPOC",
@@ -1076,7 +1077,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "HIPOL",
@@ -1085,7 +1086,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "FUZ*VORTAC*276.67/18.25",
+		"updated": "FUZ*VORTAC*276.67/18.25"
 	},
 	{
 		"name": "HIRBE",
@@ -1094,7 +1095,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "HIRGO",
@@ -1103,7 +1104,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/31/2008",
+		"updated": "03/31/2008"
 	},
 	{
 		"name": "HISLA",
@@ -1112,7 +1113,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "IRW*VORTAC*277.00",
+		"updated": "IRW*VORTAC*277.00"
 	},
 	{
 		"name": "HISNI",
@@ -1121,7 +1122,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/27/2012",
+		"updated": "12/27/2012"
 	},
 	{
 		"name": "HISPI",
@@ -1130,7 +1131,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/18/2006",
+		"updated": "09/18/2006"
 	},
 	{
 		"name": "HITIB",
@@ -1139,7 +1140,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/30/2009",
+		"updated": "01/30/2009"
 	},
 	{
 		"name": "HITUG",
@@ -1148,7 +1149,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/27/2016",
+		"updated": "09/27/2016"
 	},
 	{
 		"name": "HIXEL",
@@ -1157,7 +1158,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/08/2003",
+		"updated": "01/08/2003"
 	},
 	{
 		"name": "HIXOP",
@@ -1166,7 +1167,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SHP*TACAN*158.00/4.70",
+		"updated": "SHP*TACAN*158.00/4.70"
 	},
 	{
 		"name": "HIYZE",
@@ -1175,7 +1176,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TTT*VOR/DME*175.67/14.92",
+		"updated": "TTT*VOR/DME*175.67/14.92"
 	},
 	{
 		"name": "HIZSU",
@@ -1184,7 +1185,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/10/2010",
+		"updated": "02/10/2010"
 	},
 	{
 		"name": "HLLZZ",
@@ -1193,7 +1194,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/07/2015",
+		"updated": "05/07/2015"
 	},
 	{
 		"name": "HNKER",
@@ -1202,7 +1203,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2014",
+		"updated": "07/08/2014"
 	},
 	{
 		"name": "HOBDO",
@@ -1211,7 +1212,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "HOB*LD*218.10/4.61",
+		"updated": "HOB*LD*218.10/4.61"
 	},
 	{
 		"name": "HOBKU",
@@ -1220,7 +1221,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/01/2011",
+		"updated": "09/01/2011"
 	},
 	{
 		"name": "HOBMI",
@@ -1229,7 +1230,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/22/2005",
+		"updated": "12/22/2005"
 	},
 	{
 		"name": "HODAX",
@@ -1238,7 +1239,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LWN*LD*315.04/6.88",
+		"updated": "LWN*LD*315.04/6.88"
 	},
 	{
 		"name": "HODGA",
@@ -1247,7 +1248,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "LTS*VORTAC*/5.76",
+		"updated": "LTS*VORTAC*/5.76"
 	},
 	{
 		"name": "HODUK",
@@ -1256,7 +1257,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXK*VORTAC*051.76/29.38",
+		"updated": "TXK*VORTAC*051.76/29.38"
 	},
 	{
 		"name": "HOFFE",
@@ -1265,7 +1266,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "OKM*VOR/DME*167.33/14.89",
+		"updated": "OKM*VOR/DME*167.33/14.89"
 	},
 	{
 		"name": "HOFFF",
@@ -1274,7 +1275,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/11/2015",
+		"updated": "05/11/2015"
 	},
 	{
 		"name": "HOFOB",
@@ -1283,7 +1284,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "HOGES",
@@ -1292,7 +1293,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "DYS*TACAN*344.41/20.00",
+		"updated": "DYS*TACAN*344.41/20.00"
 	},
 	{
 		"name": "HOGIX",
@@ -1301,7 +1302,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/21/2013",
+		"updated": "05/21/2013"
 	},
 	{
 		"name": "HOGRU",
@@ -1310,7 +1311,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MW",
-		"updated": "01/13/2016",
+		"updated": "01/13/2016"
 	},
 	{
 		"name": "HOKAG",
@@ -1319,7 +1320,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "NFW*TACAN*177.07/12.00",
+		"updated": "NFW*TACAN*177.07/12.00"
 	},
 	{
 		"name": "HOLDR",
@@ -1328,7 +1329,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SPS*VORTAC*080.00/18.00",
+		"updated": "SPS*VORTAC*080.00/18.00"
 	},
 	{
 		"name": "HOLEK",
@@ -1337,7 +1338,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/02/2016",
+		"updated": "04/02/2016"
 	},
 	{
 		"name": "HOLEV",
@@ -1346,7 +1347,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/22/2014",
+		"updated": "10/22/2014"
 	},
 	{
 		"name": "HOLIW",
@@ -1355,7 +1356,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/30/2010",
+		"updated": "12/30/2010"
 	},
 	{
 		"name": "HOLLE",
@@ -1364,7 +1365,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "OKM*VOR/DME*208.28",
+		"updated": "OKM*VOR/DME*208.28"
 	},
 	{
 		"name": "HOLOB",
@@ -1373,7 +1374,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/18/2006",
+		"updated": "09/18/2006"
 	},
 	{
 		"name": "HOMET",
@@ -1382,7 +1383,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/12/2005",
+		"updated": "08/12/2005"
 	},
 	{
 		"name": "HOMEX",
@@ -1391,7 +1392,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CNM*VORTAC*052.55/20.00",
+		"updated": "CNM*VORTAC*052.55/20.00"
 	},
 	{
 		"name": "HOMOM",
@@ -1400,7 +1401,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/29/2013",
+		"updated": "07/29/2013"
 	},
 	{
 		"name": "HONEN",
@@ -1409,7 +1410,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SHP*TACAN*329.00/6.80",
+		"updated": "SHP*TACAN*329.00/6.80"
 	},
 	{
 		"name": "HONOB",
@@ -1418,7 +1419,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/07/2006",
+		"updated": "08/07/2006"
 	},
 	{
 		"name": "HONUN",
@@ -1427,7 +1428,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TQA*VOR/DME*012.47",
+		"updated": "TQA*VOR/DME*012.47"
 	},
 	{
 		"name": "HOOFS",
@@ -1436,7 +1437,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/02/2016",
+		"updated": "04/02/2016"
 	},
 	{
 		"name": "HOOTZ",
@@ -1445,7 +1446,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TNV*VOR/DME*334.40/65.00",
+		"updated": "TNV*VOR/DME*334.40/65.00"
 	},
 	{
 		"name": "HOPIV",
@@ -1454,7 +1455,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/16/2013",
+		"updated": "10/16/2013"
 	},
 	{
 		"name": "HOPOS",
@@ -1463,7 +1464,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/01/2011",
+		"updated": "09/01/2011"
 	},
 	{
 		"name": "HORDA",
@@ -1472,7 +1473,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/17/2015",
+		"updated": "08/17/2015"
 	},
 	{
 		"name": "HORKO",
@@ -1481,7 +1482,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "HORNS",
@@ -1490,7 +1491,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LOA*VORTAC*014.00/23.00",
+		"updated": "LOA*VORTAC*014.00/23.00"
 	},
 	{
 		"name": "HORNZ",
@@ -1499,7 +1500,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/27/2003",
+		"updated": "10/27/2003"
 	},
 	{
 		"name": "HOSDO",
@@ -1508,7 +1509,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "LTS*VORTAC*148.00/1.30",
+		"updated": "LTS*VORTAC*148.00/1.30"
 	},
 	{
 		"name": "HOSES",
@@ -1517,7 +1518,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXK*VORTAC*060.15/21.34",
+		"updated": "TXK*VORTAC*060.15/21.34"
 	},
 	{
 		"name": "HOTEX",
@@ -1526,7 +1527,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "HOVAS",
@@ -1535,7 +1536,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/01/2015",
+		"updated": "07/01/2015"
 	},
 	{
 		"name": "HOVIR",
@@ -1544,7 +1545,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/22/2005",
+		"updated": "08/22/2005"
 	},
 	{
 		"name": "HOVUX",
@@ -1553,7 +1554,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "BAD*TACAN*143.00/1.80",
+		"updated": "BAD*TACAN*143.00/1.80"
 	},
 	{
 		"name": "HOWDY",
@@ -1562,7 +1563,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ACT*VORTAC*034.94",
+		"updated": "ACT*VORTAC*034.94"
 	},
 	{
 		"name": "HOWFA",
@@ -1571,7 +1572,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "HOXCE",
@@ -1580,7 +1581,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "HOXDE",
@@ -1589,7 +1590,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CQY*VORTAC*162.54/14.09",
+		"updated": "CQY*VORTAC*162.54/14.09"
 	},
 	{
 		"name": "HOXUT",
@@ -1598,7 +1599,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SPS*VORTAC*040.00/24.00",
+		"updated": "SPS*VORTAC*040.00/24.00"
 	},
 	{
 		"name": "HOZGI",
@@ -1607,7 +1608,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/11/2010",
+		"updated": "06/11/2010"
 	},
 	{
 		"name": "HOZKI",
@@ -1616,7 +1617,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "HRLIP",
@@ -1625,7 +1626,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "HRPER",
@@ -1634,7 +1635,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2014",
+		"updated": "07/08/2014"
 	},
 	{
 		"name": "HUBMI",
@@ -1643,7 +1644,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "EIC*VORTAC*099.02/26.98",
+		"updated": "EIC*VORTAC*099.02/26.98"
 	},
 	{
 		"name": "HUDAD",
@@ -1652,7 +1653,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2014",
+		"updated": "07/08/2014"
 	},
 	{
 		"name": "HUDEL",
@@ -1661,7 +1662,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/16/2014",
+		"updated": "06/16/2014"
 	},
 	{
 		"name": "HUDIL",
@@ -1670,7 +1671,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/27/2006",
+		"updated": "07/27/2006"
 	},
 	{
 		"name": "HUDIN",
@@ -1679,7 +1680,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "SPS*VORTAC*080.01/12.00",
+		"updated": "SPS*VORTAC*080.01/12.00"
 	},
 	{
 		"name": "HUDUP",
@@ -1688,7 +1689,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/16/2010",
+		"updated": "05/16/2010"
 	},
 	{
 		"name": "HUGBI",
@@ -1697,7 +1698,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/07/2010",
+		"updated": "04/07/2010"
 	},
 	{
 		"name": "HUGOE",
@@ -1706,7 +1707,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "DYS*TACAN*158.00/15.00",
+		"updated": "DYS*TACAN*158.00/15.00"
 	},
 	{
 		"name": "HUGUX",
@@ -1715,7 +1716,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/01/2013",
+		"updated": "03/01/2013"
 	},
 	{
 		"name": "HUGZO",
@@ -1724,7 +1725,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "HUKIT",
@@ -1733,7 +1734,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/05/2016",
+		"updated": "10/05/2016"
 	},
 	{
 		"name": "HULZE",
@@ -1742,7 +1743,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/07/2015",
+		"updated": "05/07/2015"
 	},
 	{
 		"name": "HUMEX",
@@ -1751,7 +1752,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "DYS*TACAN*/5.68",
+		"updated": "DYS*TACAN*/5.68"
 	},
 	{
 		"name": "HUMUG",
@@ -1760,7 +1761,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/07/2006",
+		"updated": "08/07/2006"
 	},
 	{
 		"name": "HUNBI",
@@ -1769,7 +1770,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "HUNEP",
@@ -1778,7 +1779,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SPS*VORTAC*120.00/8.00",
+		"updated": "SPS*VORTAC*120.00/8.00"
 	},
 	{
 		"name": "HUNKI",
@@ -1787,7 +1788,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "SPS*VORTAC*114.78/22.00",
+		"updated": "SPS*VORTAC*114.78/22.00"
 	},
 	{
 		"name": "HUNKS",
@@ -1796,7 +1797,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/22/2017",
+		"updated": "02/22/2017"
 	},
 	{
 		"name": "HUNNT",
@@ -1805,7 +1806,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/11/2015",
+		"updated": "12/11/2015"
 	},
 	{
 		"name": "HUPHA",
@@ -1814,7 +1815,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/16/2010",
+		"updated": "05/16/2010"
 	},
 	{
 		"name": "HUPIN",
@@ -1823,7 +1824,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/22/2014",
+		"updated": "10/22/2014"
 	},
 	{
 		"name": "HUPMO",
@@ -1832,7 +1833,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "03/01/2018",
+		"updated": "03/01/2018"
 	},
 	{
 		"name": "HURBS",
@@ -1841,7 +1842,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "FUZ*VORTAC*064.00/9.30",
+		"updated": "FUZ*VORTAC*064.00/9.30"
 	},
 	{
 		"name": "HUREL",
@@ -1850,7 +1851,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/03/2010",
+		"updated": "09/03/2010"
 	},
 	{
 		"name": "HURIK",
@@ -1859,7 +1860,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "PVW*VOR/DME*284.44/15.00",
+		"updated": "PVW*VOR/DME*284.44/15.00"
 	},
 	{
 		"name": "HURMO",
@@ -1868,7 +1869,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "HUSDO",
@@ -1877,7 +1878,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/01/2011",
+		"updated": "09/01/2011"
 	},
 	{
 		"name": "HUSEN",
@@ -1886,7 +1887,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2003",
+		"updated": "07/08/2003"
 	},
 	{
 		"name": "HUSIG",
@@ -1895,7 +1896,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "IRW*VORTAC*100.00/25.00",
+		"updated": "IRW*VORTAC*100.00/25.00"
 	},
 	{
 		"name": "HUSIP",
@@ -1904,7 +1905,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/12/2011",
+		"updated": "05/12/2011"
 	},
 	{
 		"name": "HUSLA",
@@ -1913,7 +1914,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "LTS*VORTAC*351.00/1.70",
+		"updated": "LTS*VORTAC*351.00/1.70"
 	},
 	{
 		"name": "HUSNI",
@@ -1922,7 +1923,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/24/2012",
+		"updated": "05/24/2012"
 	},
 	{
 		"name": "HUSOK",
@@ -1931,7 +1932,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/16/2010",
+		"updated": "05/16/2010"
 	},
 	{
 		"name": "HUSPA",
@@ -1940,7 +1941,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/03/2010",
+		"updated": "09/03/2010"
 	},
 	{
 		"name": "HUTEN",
@@ -1949,7 +1950,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "BXN*LD*176.25/13.79",
+		"updated": "BXN*LD*176.25/13.79"
 	},
 	{
 		"name": "HUTOM",
@@ -1958,7 +1959,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/26/2013",
+		"updated": "03/26/2013"
 	},
 	{
 		"name": "HUVIL",
@@ -1967,7 +1968,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "HUVIV",
@@ -1976,7 +1977,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/15/2011",
+		"updated": "06/15/2011"
 	},
 	{
 		"name": "HUVOP",
@@ -1985,7 +1986,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "HUWHA",
@@ -1994,7 +1995,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/02/2017",
+		"updated": "03/02/2017"
 	},
 	{
 		"name": "HUXZE",
@@ -2003,7 +2004,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/20/2016",
+		"updated": "02/20/2016"
 	},
 	{
 		"name": "HWSER",
@@ -2012,7 +2013,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/02/2009",
+		"updated": "06/02/2009"
 	},
 	{
 		"name": "HYDES",
@@ -2021,7 +2022,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CVE*VOR/DME*314.00/116.00",
+		"updated": "CVE*VOR/DME*314.00/116.00"
 	},
 	{
 		"name": "HYDRO",
@@ -2030,7 +2031,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LBB*VORTAC*113.77/14.20",
+		"updated": "LBB*VORTAC*113.77/14.20"
 	},
 	{
 		"name": "HYMAN",
@@ -2039,5 +2040,6 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MAF*VORTAC*071.97/50.88",
-	},
+		"updated": "MAF*VORTAC*071.97/50.88"
+	}
+]

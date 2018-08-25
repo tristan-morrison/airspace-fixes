@@ -1,3 +1,4 @@
+[
 	{
 		"name": "NOVON",
 		"latitude": "43-52-36.07 N",
@@ -5,5 +6,6 @@
 		"state": "NEW YORK",
 		"artcc": "ZYZ",
 		"type": "RNAV",
-		"updated": "11/08/2016",
-	},
+		"updated": "11/08/2016"
+	}
+]

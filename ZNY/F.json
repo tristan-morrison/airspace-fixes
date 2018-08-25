@@ -1,3 +1,4 @@
+[
 	{
 		"name": "FAAIR",
 		"latitude": "40-57-22.53 N",
@@ -5,7 +6,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SAX*VORTAC*125.67/15.93",
+		"updated": "SAX*VORTAC*125.67/15.93"
 	},
 	{
 		"name": "FAAYE",
@@ -14,7 +15,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/26/2010",
+		"updated": "02/26/2010"
 	},
 	{
 		"name": "FABDI",
@@ -23,7 +24,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/18/2017",
+		"updated": "04/18/2017"
 	},
 	{
 		"name": "FABDU",
@@ -32,7 +33,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/16/2015",
+		"updated": "12/16/2015"
 	},
 	{
 		"name": "FABOK",
@@ -41,7 +42,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MR",
-		"updated": "GXU*VORTAC*201.00/6.00",
+		"updated": "GXU*VORTAC*201.00/6.00"
 	},
 	{
 		"name": "FABRY",
@@ -50,7 +51,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CRI*VOR/DME*052.07",
+		"updated": "CRI*VOR/DME*052.07"
 	},
 	{
 		"name": "FAGHU",
@@ -59,7 +60,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "FAINT",
@@ -68,7 +69,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "FALAS",
@@ -77,7 +78,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "MW",
-		"updated": "08/30/2007",
+		"updated": "08/30/2007"
 	},
 	{
 		"name": "FALLZ",
@@ -86,7 +87,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HUO*VOR/DME*144.69/29.28",
+		"updated": "HUO*VOR/DME*144.69/29.28"
 	},
 	{
 		"name": "FALNA",
@@ -95,7 +96,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/17/2006",
+		"updated": "08/17/2006"
 	},
 	{
 		"name": "FALON",
@@ -104,7 +105,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CYN*VORTAC*100.01/14.85",
+		"updated": "CYN*VORTAC*100.01/14.85"
 	},
 	{
 		"name": "FALTY",
@@ -113,7 +114,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/31/2015",
+		"updated": "08/31/2015"
 	},
 	{
 		"name": "FALUT",
@@ -122,7 +123,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/28/2010",
+		"updated": "04/28/2010"
 	},
 	{
 		"name": "FAMAV",
@@ -131,7 +132,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HAR*VORTAC*144.50/19.60",
+		"updated": "HAR*VORTAC*144.50/19.60"
 	},
 	{
 		"name": "FANRU",
@@ -140,7 +141,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/10/2011",
+		"updated": "06/10/2011"
 	},
 	{
 		"name": "FANSI",
@@ -149,7 +150,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HAR*VORTAC*294.86/23.16",
+		"updated": "HAR*VORTAC*294.86/23.16"
 	},
 	{
 		"name": "FANUS",
@@ -158,7 +159,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/07/2014",
+		"updated": "11/07/2014"
 	},
 	{
 		"name": "FAPAV",
@@ -167,7 +168,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/12/2011",
+		"updated": "01/12/2011"
 	},
 	{
 		"name": "FARAL",
@@ -176,7 +177,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/26/2009",
+		"updated": "05/26/2009"
 	},
 	{
 		"name": "FAVIG",
@@ -185,7 +186,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/30/2016",
+		"updated": "08/30/2016"
 	},
 	{
 		"name": "FAVUM",
@@ -194,7 +195,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SLT*VORTAC*138.97/22.47",
+		"updated": "SLT*VORTAC*138.97/22.47"
 	},
 	{
 		"name": "FAXAT",
@@ -203,7 +204,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/08/2016",
+		"updated": "09/08/2016"
 	},
 	{
 		"name": "FEBUT",
@@ -212,7 +213,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/22/2011",
+		"updated": "02/22/2011"
 	},
 	{
 		"name": "FEDAR",
@@ -221,7 +222,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/08/2009",
+		"updated": "07/08/2009"
 	},
 	{
 		"name": "FEDUB",
@@ -230,7 +231,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "FEDUS",
@@ -239,7 +240,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/17/2006",
+		"updated": "08/17/2006"
 	},
 	{
 		"name": "FEGAN",
@@ -248,7 +249,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/19/2012",
+		"updated": "04/19/2012"
 	},
 	{
 		"name": "FEGLO",
@@ -257,7 +258,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "FEGOZ",
@@ -266,7 +267,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "BAL*VORTAC*033.50",
+		"updated": "BAL*VORTAC*033.50"
 	},
 	{
 		"name": "FEGSI",
@@ -275,7 +276,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/30/2012",
+		"updated": "05/30/2012"
 	},
 	{
 		"name": "FEHLO",
@@ -284,7 +285,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/23/2014",
+		"updated": "10/23/2014"
 	},
 	{
 		"name": "FELDI",
@@ -293,7 +294,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "IZK*LD*045.37/0.22",
+		"updated": "IZK*LD*045.37/0.22"
 	},
 	{
 		"name": "FELIX",
@@ -302,7 +303,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "04/29/1987",
+		"updated": "04/29/1987"
 	},
 	{
 		"name": "FEMDU",
@@ -311,7 +312,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/02/2012",
+		"updated": "10/02/2012"
 	},
 	{
 		"name": "FEMSU",
@@ -320,7 +321,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/17/2006",
+		"updated": "08/17/2006"
 	},
 	{
 		"name": "FEMVU",
@@ -329,7 +330,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/16/2012",
+		"updated": "08/16/2012"
 	},
 	{
 		"name": "FENBU",
@@ -338,7 +339,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/17/2006",
+		"updated": "08/17/2006"
 	},
 	{
 		"name": "FENKA",
@@ -347,7 +348,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MR",
-		"updated": "GXU*VORTAC*/5.85",
+		"updated": "GXU*VORTAC*/5.85"
 	},
 	{
 		"name": "FENLY",
@@ -356,7 +357,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/24/2008",
+		"updated": "06/24/2008"
 	},
 	{
 		"name": "FENUN",
@@ -365,7 +366,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/28/2007",
+		"updated": "12/28/2007"
 	},
 	{
 		"name": "FEREP",
@@ -374,7 +375,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/22/2011",
+		"updated": "11/22/2011"
 	},
 	{
 		"name": "FERIB",
@@ -383,7 +384,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/17/2006",
+		"updated": "08/17/2006"
 	},
 	{
 		"name": "FERKO",
@@ -392,7 +393,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/10/2011",
+		"updated": "06/10/2011"
 	},
 	{
 		"name": "FERUS",
@@ -401,7 +402,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/26/2002",
+		"updated": "09/26/2002"
 	},
 	{
 		"name": "FEVOR",
@@ -410,7 +411,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "AVP*LD*225.47/1.03",
+		"updated": "AVP*LD*225.47/1.03"
 	},
 	{
 		"name": "FEXGO",
@@ -419,7 +420,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "03/26/2002",
+		"updated": "03/26/2002"
 	},
 	{
 		"name": "FEXIN",
@@ -428,7 +429,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/31/2002",
+		"updated": "01/31/2002"
 	},
 	{
 		"name": "FEYJA",
@@ -437,7 +438,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/10/2011",
+		"updated": "03/10/2011"
 	},
 	{
 		"name": "FIBTI",
@@ -446,7 +447,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/12/2015",
+		"updated": "08/12/2015"
 	},
 	{
 		"name": "FIDON",
@@ -455,7 +456,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/12/2012",
+		"updated": "09/12/2012"
 	},
 	{
 		"name": "FIENE",
@@ -464,7 +465,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/10/2011",
+		"updated": "03/10/2011"
 	},
 	{
 		"name": "FIGAB",
@@ -473,7 +474,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/10/2012",
+		"updated": "02/10/2012"
 	},
 	{
 		"name": "FIGID",
@@ -482,7 +483,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/15/2012",
+		"updated": "03/15/2012"
 	},
 	{
 		"name": "FIGON",
@@ -491,7 +492,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "FILNI",
@@ -500,7 +501,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/20/2013",
+		"updated": "12/20/2013"
 	},
 	{
 		"name": "FIMUB",
@@ -509,7 +510,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "FIMUS",
@@ -518,7 +519,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/20/2009",
+		"updated": "05/20/2009"
 	},
 	{
 		"name": "FINIT",
@@ -527,7 +528,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/23/2018",
+		"updated": "03/23/2018"
 	},
 	{
 		"name": "FINLY",
@@ -536,7 +537,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/21/2005",
+		"updated": "11/21/2005"
 	},
 	{
 		"name": "FINRA",
@@ -545,7 +546,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/13/2013",
+		"updated": "05/13/2013"
 	},
 	{
 		"name": "FIPDI",
@@ -554,7 +555,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ETX*VOR/DME*103.14/5.00",
+		"updated": "ETX*VOR/DME*103.14/5.00"
 	},
 	{
 		"name": "FIRIM",
@@ -563,7 +564,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/19/2006",
+		"updated": "08/19/2006"
 	},
 	{
 		"name": "FIRSI",
@@ -572,7 +573,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/02/2009",
+		"updated": "02/02/2009"
 	},
 	{
 		"name": "FISRU",
@@ -581,7 +582,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/28/2008",
+		"updated": "08/28/2008"
 	},
 	{
 		"name": "FISST",
@@ -590,7 +591,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/21/2015",
+		"updated": "01/21/2015"
 	},
 	{
 		"name": "FITVA",
@@ -599,7 +600,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/23/2004",
+		"updated": "02/23/2004"
 	},
 	{
 		"name": "FIVIG",
@@ -608,7 +609,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/18/2006",
+		"updated": "08/18/2006"
 	},
 	{
 		"name": "FIVLU",
@@ -617,7 +618,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/26/2015",
+		"updated": "02/26/2015"
 	},
 	{
 		"name": "FIVZE",
@@ -626,7 +627,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/11/2008",
+		"updated": "06/11/2008"
 	},
 	{
 		"name": "FIXIN",
@@ -635,7 +636,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/02/2001",
+		"updated": "08/02/2001"
 	},
 	{
 		"name": "FLAAG",
@@ -644,7 +645,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/23/2014",
+		"updated": "09/23/2014"
 	},
 	{
 		"name": "FLAMO",
@@ -653,7 +654,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/25/2009",
+		"updated": "08/25/2009"
 	},
 	{
 		"name": "FLIKR",
@@ -662,7 +663,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/13/2015",
+		"updated": "07/13/2015"
 	},
 	{
 		"name": "FLING",
@@ -671,7 +672,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SBJ*VOR/DME*239.55/8.60",
+		"updated": "SBJ*VOR/DME*239.55/8.60"
 	},
 	{
 		"name": "FLIRT",
@@ -680,7 +681,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CYN*VORTAC*284.37/105.19",
+		"updated": "CYN*VORTAC*284.37/105.19"
 	},
 	{
 		"name": "FLOAT",
@@ -689,7 +690,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ETX*VOR/DME*234.42/12.89",
+		"updated": "ETX*VOR/DME*234.42/12.89"
 	},
 	{
 		"name": "FLUPS",
@@ -698,7 +699,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/19/2009",
+		"updated": "10/19/2009"
 	},
 	{
 		"name": "FLURA",
@@ -707,7 +708,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/10/2017",
+		"updated": "01/10/2017"
 	},
 	{
 		"name": "FLUTE",
@@ -716,7 +717,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/02/2008",
+		"updated": "05/02/2008"
 	},
 	{
 		"name": "FOBGO",
@@ -725,7 +726,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/01/2006",
+		"updated": "12/01/2006"
 	},
 	{
 		"name": "FOLAM",
@@ -734,7 +735,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/03/2006",
+		"updated": "10/03/2006"
 	},
 	{
 		"name": "FOLEP",
@@ -743,7 +744,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/19/2015",
+		"updated": "06/19/2015"
 	},
 	{
 		"name": "FOLER",
@@ -752,7 +753,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/29/2005",
+		"updated": "06/29/2005"
 	},
 	{
 		"name": "FOLES",
@@ -761,7 +762,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "03/26/2002",
+		"updated": "03/26/2002"
 	},
 	{
 		"name": "FOLEV",
@@ -770,7 +771,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/26/2002",
+		"updated": "09/26/2002"
 	},
 	{
 		"name": "FOMDU",
@@ -779,7 +780,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/18/2006",
+		"updated": "08/18/2006"
 	},
 	{
 		"name": "FOMPI",
@@ -788,7 +789,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/25/2010",
+		"updated": "03/25/2010"
 	},
 	{
 		"name": "FONDE",
@@ -797,7 +798,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/23/2018",
+		"updated": "03/23/2018"
 	},
 	{
 		"name": "FONRA",
@@ -806,7 +807,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/25/2010",
+		"updated": "04/25/2010"
 	},
 	{
 		"name": "FONUP",
@@ -815,7 +816,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/13/2013",
+		"updated": "05/13/2013"
 	},
 	{
 		"name": "FOORE",
@@ -824,7 +825,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/28/2008",
+		"updated": "05/28/2008"
 	},
 	{
 		"name": "FOOTH",
@@ -833,7 +834,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "RAV*VORTAC*080.23/21.86",
+		"updated": "RAV*VORTAC*080.23/21.86"
 	},
 	{
 		"name": "FORTT",
@@ -842,7 +843,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "AML*VOR/DME*008.73/114.23",
+		"updated": "AML*VOR/DME*008.73/114.23"
 	},
 	{
 		"name": "FORYA",
@@ -851,7 +852,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/03/2010",
+		"updated": "02/03/2010"
 	},
 	{
 		"name": "FOSUR",
@@ -860,7 +861,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "FOUST",
@@ -869,7 +870,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/21/2010",
+		"updated": "04/21/2010"
 	},
 	{
 		"name": "FOVEX",
@@ -878,7 +879,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/05/2010",
+		"updated": "01/05/2010"
 	},
 	{
 		"name": "FOXIB",
@@ -887,7 +888,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "FOXIT",
@@ -896,7 +897,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/10/2017",
+		"updated": "01/10/2017"
 	},
 	{
 		"name": "FREEE",
@@ -905,7 +906,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/23/2014",
+		"updated": "09/23/2014"
 	},
 	{
 		"name": "FRIKK",
@@ -914,7 +915,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*275.65",
+		"updated": "DPK*VOR/DME*275.65"
 	},
 	{
 		"name": "FRNKI",
@@ -923,7 +924,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/09/2014",
+		"updated": "04/09/2014"
 	},
 	{
 		"name": "FRNKY",
@@ -932,7 +933,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/11/2014",
+		"updated": "06/11/2014"
 	},
 	{
 		"name": "FROGI",
@@ -941,7 +942,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "FROSE",
@@ -950,7 +951,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SBJ*VOR/DME*237.25",
+		"updated": "SBJ*VOR/DME*237.25"
 	},
 	{
 		"name": "FRSON",
@@ -959,5 +960,6 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/10/2017",
-	},
+		"updated": "01/10/2017"
+	}
+]

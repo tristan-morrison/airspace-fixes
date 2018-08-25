@@ -1,3 +1,4 @@
+[
 	{
 		"name": "PANNS",
 		"latitude": "13-42-18.34 N",
@@ -5,7 +6,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UAM*TACAN*064.38/17.00",
+		"updated": "UAM*TACAN*064.38/17.00"
 	},
 	{
 		"name": "PAVYI",
@@ -14,7 +15,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RNAV",
-		"updated": "05/19/2015",
+		"updated": "05/19/2015"
 	},
 	{
 		"name": "PIRTY",
@@ -23,7 +24,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "SN*NDB*065.76",
+		"updated": "SN*NDB*065.76"
 	},
 	{
 		"name": "PULEE",
@@ -32,5 +33,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*274.00/40.00",
-	},
+		"updated": "UNZ*VORTAC*274.00/40.00"
+	}
+]

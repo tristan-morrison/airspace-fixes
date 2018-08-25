@@ -1,3 +1,4 @@
+[
 	{
 		"name": "HAALO",
 		"latitude": "32-59-11.81 N",
@@ -5,7 +6,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/17/2016",
+		"updated": "05/17/2016"
 	},
 	{
 		"name": "HAARY",
@@ -14,7 +15,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/25/2013",
+		"updated": "02/25/2013"
 	},
 	{
 		"name": "HABUG",
@@ -23,7 +24,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/18/2017",
+		"updated": "05/18/2017"
 	},
 	{
 		"name": "HACNI",
@@ -32,7 +33,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/06/2012",
+		"updated": "06/06/2012"
 	},
 	{
 		"name": "HADEL",
@@ -41,7 +42,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/07/2011",
+		"updated": "06/07/2011"
 	},
 	{
 		"name": "HADOC",
@@ -50,7 +51,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "DBN*VORTAC*348.42/34.81",
+		"updated": "DBN*VORTAC*348.42/34.81"
 	},
 	{
 		"name": "HADUD",
@@ -59,7 +60,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/08/2008",
+		"updated": "08/08/2008"
 	},
 	{
 		"name": "HAGOP",
@@ -68,7 +69,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/27/2010",
+		"updated": "04/27/2010"
 	},
 	{
 		"name": "HAGUL",
@@ -77,7 +78,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CLT*VOR/DME*/11.75",
+		"updated": "CLT*VOR/DME*/11.75"
 	},
 	{
 		"name": "HAINT",
@@ -86,7 +87,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CLT*VOR/DME*274.71",
+		"updated": "CLT*VOR/DME*274.71"
 	},
 	{
 		"name": "HAINZ",
@@ -95,7 +96,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "PDK*VOR/DME*153.09",
+		"updated": "PDK*VOR/DME*153.09"
 	},
 	{
 		"name": "HAKIV",
@@ -104,7 +105,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/01/2009",
+		"updated": "12/01/2009"
 	},
 	{
 		"name": "HALET",
@@ -113,7 +114,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HCH*VOR/DME*213.00",
+		"updated": "HCH*VOR/DME*213.00"
 	},
 	{
 		"name": "HALJO",
@@ -122,7 +123,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/10/2016",
+		"updated": "11/10/2016"
 	},
 	{
 		"name": "HALLS",
@@ -131,7 +132,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/25/2015",
+		"updated": "06/25/2015"
 	},
 	{
 		"name": "HALLY",
@@ -140,7 +141,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/15/2000",
+		"updated": "06/15/2000"
 	},
 	{
 		"name": "HALRR",
@@ -149,7 +150,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/21/2017",
+		"updated": "08/21/2017"
 	},
 	{
 		"name": "HALUL",
@@ -158,7 +159,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/28/2012",
+		"updated": "06/28/2012"
 	},
 	{
 		"name": "HAMBG",
@@ -167,7 +168,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/03/2010",
+		"updated": "09/03/2010"
 	},
 	{
 		"name": "HAMGA",
@@ -176,7 +177,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/01/2009",
+		"updated": "09/01/2009"
 	},
 	{
 		"name": "HAMPP",
@@ -185,7 +186,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/29/2016",
+		"updated": "06/29/2016"
 	},
 	{
 		"name": "HANDE",
@@ -194,7 +195,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "OKW*VORTAC*083.00",
+		"updated": "OKW*VORTAC*083.00"
 	},
 	{
 		"name": "HANDO",
@@ -203,7 +204,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/13/2016",
+		"updated": "05/13/2016"
 	},
 	{
 		"name": "HANES",
@@ -212,7 +213,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/20/2007",
+		"updated": "07/20/2007"
 	},
 	{
 		"name": "HANET",
@@ -221,7 +222,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "VNA*VORTAC*178.48/9.90",
+		"updated": "VNA*VORTAC*178.48/9.90"
 	},
 	{
 		"name": "HANIP",
@@ -230,7 +231,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/15/2009",
+		"updated": "09/15/2009"
 	},
 	{
 		"name": "HANKO",
@@ -239,7 +240,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/09/2015",
+		"updated": "12/09/2015"
 	},
 	{
 		"name": "HANUR",
@@ -248,7 +249,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/16/2007",
+		"updated": "07/16/2007"
 	},
 	{
 		"name": "HANVI",
@@ -257,7 +258,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/06/2017",
+		"updated": "03/06/2017"
 	},
 	{
 		"name": "HAPRI",
@@ -266,7 +267,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "BZM*VOR/DME*049.77/10.46",
+		"updated": "BZM*VOR/DME*049.77/10.46"
 	},
 	{
 		"name": "HARAY",
@@ -275,7 +276,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CLT*VOR/DME*270.00/40.00",
+		"updated": "CLT*VOR/DME*270.00/40.00"
 	},
 	{
 		"name": "HARLE",
@@ -284,7 +285,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "AHN*VOR/DME*135.00",
+		"updated": "AHN*VOR/DME*135.00"
 	},
 	{
 		"name": "HARSN",
@@ -293,7 +294,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "FT*NDB*151.16",
+		"updated": "FT*NDB*151.16"
 	},
 	{
 		"name": "HARTI",
@@ -302,7 +303,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "ODF*VORTAC*136.01",
+		"updated": "ODF*VORTAC*136.01"
 	},
 	{
 		"name": "HASEL",
@@ -311,7 +312,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*179.06/7.74",
+		"updated": "DCU*VOR/DME*179.06/7.74"
 	},
 	{
 		"name": "HASER",
@@ -320,7 +321,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/20/2002",
+		"updated": "11/20/2002"
 	},
 	{
 		"name": "HATAS",
@@ -329,7 +330,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RQZ*VORTAC*009.75/2.00",
+		"updated": "RQZ*VORTAC*009.75/2.00"
 	},
 	{
 		"name": "HATEM",
@@ -338,7 +339,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/09/2008",
+		"updated": "10/09/2008"
 	},
 	{
 		"name": "HATIS",
@@ -347,7 +348,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/03/2007",
+		"updated": "10/03/2007"
 	},
 	{
 		"name": "HATIV",
@@ -356,7 +357,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/26/2005",
+		"updated": "01/26/2005"
 	},
 	{
 		"name": "HAVIM",
@@ -365,7 +366,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/25/2016",
+		"updated": "05/25/2016"
 	},
 	{
 		"name": "HAVUP",
@@ -374,7 +375,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/27/2004",
+		"updated": "10/27/2004"
 	},
 	{
 		"name": "HAVVE",
@@ -383,7 +384,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "HAWCU",
@@ -392,7 +393,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/27/2010",
+		"updated": "02/27/2010"
 	},
 	{
 		"name": "HAWTO",
@@ -401,7 +402,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "HAYOU",
@@ -410,7 +411,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "BQC*LD*182.97/6.90",
+		"updated": "BQC*LD*182.97/6.90"
 	},
 	{
 		"name": "HEBEX",
@@ -419,7 +420,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/10/2017",
+		"updated": "07/10/2017"
 	},
 	{
 		"name": "HECKE",
@@ -428,7 +429,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "BLF*VOR/DME*122.45/11.00",
+		"updated": "BLF*VOR/DME*122.45/11.00"
 	},
 	{
 		"name": "HEDRO",
@@ -437,7 +438,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/30/2012",
+		"updated": "01/30/2012"
 	},
 	{
 		"name": "HEELZ",
@@ -446,7 +447,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/01/2017",
+		"updated": "05/01/2017"
 	},
 	{
 		"name": "HEENA",
@@ -455,7 +456,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "OKW*VORTAC*095.76",
+		"updated": "OKW*VORTAC*095.76"
 	},
 	{
 		"name": "HEFIN",
@@ -464,7 +465,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GAD*VOR/DME*122.09/40.18",
+		"updated": "GAD*VOR/DME*122.09/40.18"
 	},
 	{
 		"name": "HEGAP",
@@ -473,7 +474,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/16/2011",
+		"updated": "03/16/2011"
 	},
 	{
 		"name": "HEGSO",
@@ -482,7 +483,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/17/2009",
+		"updated": "11/17/2009"
 	},
 	{
 		"name": "HEITH",
@@ -491,7 +492,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "BZM*VOR/DME*120.96/10.00",
+		"updated": "BZM*VOR/DME*120.96/10.00"
 	},
 	{
 		"name": "HEKAM",
@@ -500,7 +501,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "BQC*LD*182.97/17.94",
+		"updated": "BQC*LD*182.97/17.94"
 	},
 	{
 		"name": "HEKNI",
@@ -509,7 +510,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "MR",
-		"updated": "MCN*VORTAC*134.00/3.00",
+		"updated": "MCN*VORTAC*134.00/3.00"
 	},
 	{
 		"name": "HEKTO",
@@ -518,7 +519,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/07/2015",
+		"updated": "07/07/2015"
 	},
 	{
 		"name": "HEKVA",
@@ -527,7 +528,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/09/2015",
+		"updated": "09/09/2015"
 	},
 	{
 		"name": "HELEV",
@@ -536,7 +537,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/15/2010",
+		"updated": "04/15/2010"
 	},
 	{
 		"name": "HELNN",
@@ -545,7 +546,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "HELTU",
@@ -554,7 +555,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "MR",
-		"updated": "MXF*TACAN*257.96/14.00",
+		"updated": "MXF*TACAN*257.96/14.00"
 	},
 	{
 		"name": "HEMMO",
@@ -563,7 +564,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "MGM*VORTAC*180.90/18.85",
+		"updated": "MGM*VORTAC*180.90/18.85"
 	},
 	{
 		"name": "HEMOV",
@@ -572,7 +573,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/17/2010",
+		"updated": "04/17/2010"
 	},
 	{
 		"name": "HENED",
@@ -581,7 +582,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/12/2003",
+		"updated": "05/12/2003"
 	},
 	{
 		"name": "HENGU",
@@ -590,7 +591,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "HCH*VOR/DME*135.60/36.00",
+		"updated": "HCH*VOR/DME*135.60/36.00"
 	},
 	{
 		"name": "HENKI",
@@ -599,7 +600,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/27/2018",
+		"updated": "04/27/2018"
 	},
 	{
 		"name": "HEPAT",
@@ -608,7 +609,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "MR",
-		"updated": "DOB*TACAN*110.00/6.40",
+		"updated": "DOB*TACAN*110.00/6.40"
 	},
 	{
 		"name": "HEPEP",
@@ -617,7 +618,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/17/2010",
+		"updated": "04/17/2010"
 	},
 	{
 		"name": "HEPIG",
@@ -626,7 +627,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/12/2012",
+		"updated": "06/12/2012"
 	},
 	{
 		"name": "HEPKI",
@@ -635,7 +636,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/07/2014",
+		"updated": "11/07/2014"
 	},
 	{
 		"name": "HEPUS",
@@ -644,7 +645,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/15/2007",
+		"updated": "11/15/2007"
 	},
 	{
 		"name": "HEPUT",
@@ -653,7 +654,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "DBN*VORTAC*348.42/29.52",
+		"updated": "DBN*VORTAC*348.42/29.52"
 	},
 	{
 		"name": "HEREG",
@@ -662,7 +663,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*115.34",
+		"updated": "DCU*VOR/DME*115.34"
 	},
 	{
 		"name": "HERIP",
@@ -671,7 +672,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/15/2010",
+		"updated": "08/15/2010"
 	},
 	{
 		"name": "HERKO",
@@ -680,7 +681,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/18/2017",
+		"updated": "04/18/2017"
 	},
 	{
 		"name": "HERTO",
@@ -689,7 +690,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/13/2017",
+		"updated": "06/13/2017"
 	},
 	{
 		"name": "HERUR",
@@ -698,7 +699,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/07/2014",
+		"updated": "11/07/2014"
 	},
 	{
 		"name": "HESAB",
@@ -707,7 +708,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "SVH*LD*104.84/6.20",
+		"updated": "SVH*LD*104.84/6.20"
 	},
 	{
 		"name": "HESAT",
@@ -716,7 +717,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/13/2017",
+		"updated": "04/13/2017"
 	},
 	{
 		"name": "HESEL",
@@ -725,7 +726,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/19/2012",
+		"updated": "06/19/2012"
 	},
 	{
 		"name": "HESGA",
@@ -734,7 +735,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "HESOM",
@@ -743,7 +744,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/22/2010",
+		"updated": "02/22/2010"
 	},
 	{
 		"name": "HETAK",
@@ -752,7 +753,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/18/2010",
+		"updated": "04/18/2010"
 	},
 	{
 		"name": "HETEB",
@@ -761,7 +762,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/20/2010",
+		"updated": "08/20/2010"
 	},
 	{
 		"name": "HETIP",
@@ -770,7 +771,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/15/2010",
+		"updated": "11/15/2010"
 	},
 	{
 		"name": "HETOD",
@@ -779,7 +780,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/29/2016",
+		"updated": "07/29/2016"
 	},
 	{
 		"name": "HEVOG",
@@ -788,7 +789,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/03/2012",
+		"updated": "04/03/2012"
 	},
 	{
 		"name": "HEXEX",
@@ -797,7 +798,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/11/2005",
+		"updated": "08/11/2005"
 	},
 	{
 		"name": "HEXIM",
@@ -806,7 +807,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/30/2015",
+		"updated": "03/30/2015"
 	},
 	{
 		"name": "HIBID",
@@ -815,7 +816,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/03/2012",
+		"updated": "01/03/2012"
 	},
 	{
 		"name": "HIBTO",
@@ -824,7 +825,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/07/2014",
+		"updated": "11/07/2014"
 	},
 	{
 		"name": "HIDBA",
@@ -833,7 +834,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/17/2015",
+		"updated": "04/17/2015"
 	},
 	{
 		"name": "HIDBI",
@@ -842,7 +843,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "VNA*VORTAC*178.48/15.44",
+		"updated": "VNA*VORTAC*178.48/15.44"
 	},
 	{
 		"name": "HIDIT",
@@ -851,7 +852,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "MR",
-		"updated": "DOB*TACAN*110.00/0.90",
+		"updated": "DOB*TACAN*110.00/0.90"
 	},
 	{
 		"name": "HIDOD",
@@ -860,7 +861,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/07/2014",
+		"updated": "07/07/2014"
 	},
 	{
 		"name": "HIDRO",
@@ -869,7 +870,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/25/2016",
+		"updated": "07/25/2016"
 	},
 	{
 		"name": "HIGAR",
@@ -878,7 +879,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "VXV*VORTAC*137.90",
+		"updated": "VXV*VORTAC*137.90"
 	},
 	{
 		"name": "HIGEM",
@@ -887,7 +888,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "MW",
-		"updated": "05/14/2013",
+		"updated": "05/14/2013"
 	},
 	{
 		"name": "HIGEN",
@@ -896,7 +897,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/10/2011",
+		"updated": "03/10/2011"
 	},
 	{
 		"name": "HIGGI",
@@ -905,7 +906,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "HIKAB",
@@ -914,7 +915,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/13/2017",
+		"updated": "04/13/2017"
 	},
 	{
 		"name": "HIKUB",
@@ -923,7 +924,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/14/2002",
+		"updated": "11/14/2002"
 	},
 	{
 		"name": "HILAG",
@@ -932,7 +933,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/22/2010",
+		"updated": "04/22/2010"
 	},
 	{
 		"name": "HILEM",
@@ -941,7 +942,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/20/2016",
+		"updated": "09/20/2016"
 	},
 	{
 		"name": "HILOP",
@@ -950,7 +951,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/07/2003",
+		"updated": "02/07/2003"
 	},
 	{
 		"name": "HILTO",
@@ -959,7 +960,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GZG*VOR/DME*248.00",
+		"updated": "GZG*VOR/DME*248.00"
 	},
 	{
 		"name": "HINCH",
@@ -968,7 +969,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "ATL*VORTAC*203.00/14.00",
+		"updated": "ATL*VORTAC*203.00/14.00"
 	},
 	{
 		"name": "HINDE",
@@ -977,7 +978,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "HCH*VOR/DME*113.00",
+		"updated": "HCH*VOR/DME*113.00"
 	},
 	{
 		"name": "HINIV",
@@ -986,7 +987,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/04/2007",
+		"updated": "01/04/2007"
 	},
 	{
 		"name": "HINUM",
@@ -995,7 +996,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/17/2010",
+		"updated": "04/17/2010"
 	},
 	{
 		"name": "HIPIX",
@@ -1004,7 +1005,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "HIPUN",
@@ -1013,7 +1014,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CSG*VORTAC*358.68",
+		"updated": "CSG*VORTAC*358.68"
 	},
 	{
 		"name": "HIRAT",
@@ -1022,7 +1023,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/31/2013",
+		"updated": "10/31/2013"
 	},
 	{
 		"name": "HISEN",
@@ -1031,7 +1032,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/03/2002",
+		"updated": "05/03/2002"
 	},
 	{
 		"name": "HISGO",
@@ -1040,7 +1041,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/07/2014",
+		"updated": "11/07/2014"
 	},
 	{
 		"name": "HISMU",
@@ -1049,7 +1050,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/15/2011",
+		"updated": "06/15/2011"
 	},
 	{
 		"name": "HISOD",
@@ -1058,7 +1059,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/03/2009",
+		"updated": "02/03/2009"
 	},
 	{
 		"name": "HITIT",
@@ -1067,7 +1068,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/19/2015",
+		"updated": "03/19/2015"
 	},
 	{
 		"name": "HITNI",
@@ -1076,7 +1077,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/07/2011",
+		"updated": "11/07/2011"
 	},
 	{
 		"name": "HITNO",
@@ -1085,7 +1086,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/23/2007",
+		"updated": "07/23/2007"
 	},
 	{
 		"name": "HITTT",
@@ -1094,7 +1095,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/21/2017",
+		"updated": "08/21/2017"
 	},
 	{
 		"name": "HIVSI",
@@ -1103,7 +1104,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/03/2006",
+		"updated": "11/03/2006"
 	},
 	{
 		"name": "HIXEN",
@@ -1112,7 +1113,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "HMV*VORTAC*295.62",
+		"updated": "HMV*VORTAC*295.62"
 	},
 	{
 		"name": "HIXON",
@@ -1121,7 +1122,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "02/13/2012",
+		"updated": "02/13/2012"
 	},
 	{
 		"name": "HIXOT",
@@ -1130,7 +1131,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/15/2006",
+		"updated": "08/15/2006"
 	},
 	{
 		"name": "HLNDS",
@@ -1139,7 +1140,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "HMMPY",
@@ -1148,7 +1149,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "HOBBI",
@@ -1157,7 +1158,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*131.00/16.94",
+		"updated": "DCU*VOR/DME*131.00/16.94"
 	},
 	{
 		"name": "HOBID",
@@ -1166,7 +1167,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/09/2008",
+		"updated": "10/09/2008"
 	},
 	{
 		"name": "HOBMO",
@@ -1175,7 +1176,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "MR",
-		"updated": "DOB*TACAN*111.00/6.00",
+		"updated": "DOB*TACAN*111.00/6.00"
 	},
 	{
 		"name": "HOBTT",
@@ -1184,7 +1185,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/21/2017",
+		"updated": "08/21/2017"
 	},
 	{
 		"name": "HOCHE",
@@ -1193,7 +1194,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "RMG*VORTAC*015.00",
+		"updated": "RMG*VORTAC*015.00"
 	},
 	{
 		"name": "HODAG",
@@ -1202,7 +1203,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "HODNU",
@@ -1211,7 +1212,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/11/2007",
+		"updated": "05/11/2007"
 	},
 	{
 		"name": "HODOE",
@@ -1220,7 +1221,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/09/2004",
+		"updated": "11/09/2004"
 	},
 	{
 		"name": "HODUS",
@@ -1229,7 +1230,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/14/2003",
+		"updated": "01/14/2003"
 	},
 	{
 		"name": "HOGAL",
@@ -1238,7 +1239,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/20/2010",
+		"updated": "08/20/2010"
 	},
 	{
 		"name": "HOGAN",
@@ -1247,7 +1248,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "LGC*VORTAC*053.31/16.00",
+		"updated": "LGC*VORTAC*053.31/16.00"
 	},
 	{
 		"name": "HOGAP",
@@ -1256,7 +1257,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/08/2008",
+		"updated": "12/08/2008"
 	},
 	{
 		"name": "HOGEM",
@@ -1265,7 +1266,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "EMR*NDB*074.17",
+		"updated": "EMR*NDB*074.17"
 	},
 	{
 		"name": "HOGGG",
@@ -1274,7 +1275,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/25/2013",
+		"updated": "02/25/2013"
 	},
 	{
 		"name": "HOGTA",
@@ -1283,7 +1284,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/06/2014",
+		"updated": "11/06/2014"
 	},
 	{
 		"name": "HOGUK",
@@ -1292,7 +1293,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/31/2013",
+		"updated": "10/31/2013"
 	},
 	{
 		"name": "HOGUV",
@@ -1301,7 +1302,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "IRQ*VORTAC*161.09/13.00",
+		"updated": "IRQ*VORTAC*161.09/13.00"
 	},
 	{
 		"name": "HOKES",
@@ -1310,7 +1311,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GAD*VOR/DME*122.09/5.49",
+		"updated": "GAD*VOR/DME*122.09/5.49"
 	},
 	{
 		"name": "HOKID",
@@ -1319,7 +1320,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "AHN*VOR/DME*070.00/12.00",
+		"updated": "AHN*VOR/DME*070.00/12.00"
 	},
 	{
 		"name": "HOLTI",
@@ -1328,7 +1329,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/15/2011",
+		"updated": "11/15/2011"
 	},
 	{
 		"name": "HOLTY",
@@ -1337,7 +1338,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "OKW*VORTAC*299.69",
+		"updated": "OKW*VORTAC*299.69"
 	},
 	{
 		"name": "HOMEK",
@@ -1346,7 +1347,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "HMV*VORTAC*131.98/31.95",
+		"updated": "HMV*VORTAC*131.98/31.95"
 	},
 	{
 		"name": "HOMEL",
@@ -1355,7 +1356,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "HOMRU",
@@ -1364,7 +1365,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/12/2012",
+		"updated": "06/12/2012"
 	},
 	{
 		"name": "HONEB",
@@ -1373,7 +1374,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/13/2017",
+		"updated": "01/13/2017"
 	},
 	{
 		"name": "HONIE",
@@ -1382,7 +1383,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CSG*VORTAC*358.07/34.05",
+		"updated": "CSG*VORTAC*358.07/34.05"
 	},
 	{
 		"name": "HONIS",
@@ -1391,7 +1392,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/11/2016",
+		"updated": "08/11/2016"
 	},
 	{
 		"name": "HONKA",
@@ -1400,7 +1401,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/27/2016",
+		"updated": "05/27/2016"
 	},
 	{
 		"name": "HONRR",
@@ -1409,7 +1410,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/30/2014",
+		"updated": "01/30/2014"
 	},
 	{
 		"name": "HOPEN",
@@ -1418,7 +1419,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/27/2018",
+		"updated": "04/27/2018"
 	},
 	{
 		"name": "HOPLU",
@@ -1427,7 +1428,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/09/2015",
+		"updated": "09/09/2015"
 	},
 	{
 		"name": "HORAM",
@@ -1436,7 +1437,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "HORIG",
@@ -1445,7 +1446,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/14/2003",
+		"updated": "01/14/2003"
 	},
 	{
 		"name": "HORPO",
@@ -1454,7 +1455,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/15/2011",
+		"updated": "07/15/2011"
 	},
 	{
 		"name": "HORUX",
@@ -1463,7 +1464,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/27/2009",
+		"updated": "05/27/2009"
 	},
 	{
 		"name": "HOSED",
@@ -1472,7 +1473,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/14/2009",
+		"updated": "07/14/2009"
 	},
 	{
 		"name": "HOSEM",
@@ -1481,7 +1482,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/14/2011",
+		"updated": "12/14/2011"
 	},
 	{
 		"name": "HOTHH",
@@ -1490,7 +1491,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/06/2017",
+		"updated": "09/06/2017"
 	},
 	{
 		"name": "HOTKA",
@@ -1499,7 +1500,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/08/2011",
+		"updated": "04/08/2011"
 	},
 	{
 		"name": "HOUPS",
@@ -1508,7 +1509,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "HOVDO",
@@ -1517,7 +1518,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/04/2011",
+		"updated": "07/04/2011"
 	},
 	{
 		"name": "HOVEN",
@@ -1526,7 +1527,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/16/2007",
+		"updated": "10/16/2007"
 	},
 	{
 		"name": "HOXOD",
@@ -1535,7 +1536,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/04/2008",
+		"updated": "08/04/2008"
 	},
 	{
 		"name": "HOYYT",
@@ -1544,7 +1545,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/09/2015",
+		"updated": "12/09/2015"
 	},
 	{
 		"name": "HRDEY",
@@ -1553,7 +1554,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "HZK*LD*274.99/11.92",
+		"updated": "HZK*LD*274.99/11.92"
 	},
 	{
 		"name": "HRSHL",
@@ -1562,7 +1563,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/14/2005",
+		"updated": "01/14/2005"
 	},
 	{
 		"name": "HRVEY",
@@ -1571,7 +1572,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/20/2017",
+		"updated": "03/20/2017"
 	},
 	{
 		"name": "HUBIE",
@@ -1580,7 +1581,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "RMG*VORTAC*350.00/19.10",
+		"updated": "RMG*VORTAC*350.00/19.10"
 	},
 	{
 		"name": "HUBIG",
@@ -1589,7 +1590,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "MW",
-		"updated": "09/24/2007",
+		"updated": "09/24/2007"
 	},
 	{
 		"name": "HUBJO",
@@ -1598,7 +1599,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/19/2007",
+		"updated": "04/19/2007"
 	},
 	{
 		"name": "HUBJU",
@@ -1607,7 +1608,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GAD*VOR/DME*059.30/13.11",
+		"updated": "GAD*VOR/DME*059.30/13.11"
 	},
 	{
 		"name": "HUBUP",
@@ -1616,7 +1617,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/22/2013",
+		"updated": "08/22/2013"
 	},
 	{
 		"name": "HUBVA",
@@ -1625,7 +1626,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "BZM*VOR/DME*356.46/30.76",
+		"updated": "BZM*VOR/DME*356.46/30.76"
 	},
 	{
 		"name": "HUCHH",
@@ -1634,7 +1635,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/09/2015",
+		"updated": "12/09/2015"
 	},
 	{
 		"name": "HUDBO",
@@ -1643,7 +1644,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/30/2006",
+		"updated": "03/30/2006"
 	},
 	{
 		"name": "HUDUR",
@@ -1652,7 +1653,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/02/2007",
+		"updated": "02/02/2007"
 	},
 	{
 		"name": "HUGIS",
@@ -1661,7 +1662,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/18/2017",
+		"updated": "05/18/2017"
 	},
 	{
 		"name": "HUKAP",
@@ -1670,7 +1671,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/03/2013",
+		"updated": "01/03/2013"
 	},
 	{
 		"name": "HUKEV",
@@ -1679,7 +1680,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "ROE*LD*058.48/9.80",
+		"updated": "ROE*LD*058.48/9.80"
 	},
 	{
 		"name": "HULGA",
@@ -1688,7 +1689,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "MR",
-		"updated": "MCN*VORTAC*314.00/11.00",
+		"updated": "MCN*VORTAC*314.00/11.00"
 	},
 	{
 		"name": "HULMO",
@@ -1697,7 +1698,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "MCN*VORTAC*141.00/37.00",
+		"updated": "MCN*VORTAC*141.00/37.00"
 	},
 	{
 		"name": "HULNO",
@@ -1706,7 +1707,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/15/2010",
+		"updated": "04/15/2010"
 	},
 	{
 		"name": "HULUV",
@@ -1715,7 +1716,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/29/2013",
+		"updated": "10/29/2013"
 	},
 	{
 		"name": "HUMDA",
@@ -1724,7 +1725,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "09/15/2009",
+		"updated": "09/15/2009"
 	},
 	{
 		"name": "HUMIL",
@@ -1733,7 +1734,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/11/2012",
+		"updated": "06/11/2012"
 	},
 	{
 		"name": "HUNEX",
@@ -1742,7 +1743,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CLT*VOR/DME*/15.87",
+		"updated": "CLT*VOR/DME*/15.87"
 	},
 	{
 		"name": "HUNOG",
@@ -1751,7 +1752,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/22/2010",
+		"updated": "02/22/2010"
 	},
 	{
 		"name": "HUNOS",
@@ -1760,7 +1761,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/17/2010",
+		"updated": "04/17/2010"
 	},
 	{
 		"name": "HUPNI",
@@ -1769,7 +1770,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/30/2008",
+		"updated": "09/30/2008"
 	},
 	{
 		"name": "HUPOX",
@@ -1778,7 +1779,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/28/2009",
+		"updated": "01/28/2009"
 	},
 	{
 		"name": "HURGO",
@@ -1787,7 +1788,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/17/2017",
+		"updated": "04/17/2017"
 	},
 	{
 		"name": "HUROG",
@@ -1796,7 +1797,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/11/2010",
+		"updated": "08/11/2010"
 	},
 	{
 		"name": "HURTO",
@@ -1805,7 +1806,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/20/2016",
+		"updated": "09/20/2016"
 	},
 	{
 		"name": "HUSKU",
@@ -1814,7 +1815,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "HUSKY",
@@ -1823,7 +1824,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "AHN*VOR/DME*221.80",
+		"updated": "AHN*VOR/DME*221.80"
 	},
 	{
 		"name": "HUSNY",
@@ -1832,7 +1833,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/09/2008",
+		"updated": "10/09/2008"
 	},
 	{
 		"name": "HUSOP",
@@ -1841,7 +1842,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/31/2017",
+		"updated": "10/31/2017"
 	},
 	{
 		"name": "HUSTN",
@@ -1850,7 +1851,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "FAY*VOR/DME*270.53/83.91",
+		"updated": "FAY*VOR/DME*270.53/83.91"
 	},
 	{
 		"name": "HUSUL",
@@ -1859,7 +1860,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/16/2014",
+		"updated": "04/16/2014"
 	},
 	{
 		"name": "HUTGO",
@@ -1868,7 +1869,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "HUTUN",
@@ -1877,7 +1878,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RQZ*VORTAC*042.90/2.81",
+		"updated": "RQZ*VORTAC*042.90/2.81"
 	},
 	{
 		"name": "HUVEP",
@@ -1886,7 +1887,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/18/2010",
+		"updated": "04/18/2010"
 	},
 	{
 		"name": "HUVOV",
@@ -1895,7 +1896,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/09/2015",
+		"updated": "09/09/2015"
 	},
 	{
 		"name": "HUVPO",
@@ -1904,7 +1905,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/22/2014",
+		"updated": "04/22/2014"
 	},
 	{
 		"name": "HUVSA",
@@ -1913,7 +1914,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/25/2013",
+		"updated": "09/25/2013"
 	},
 	{
 		"name": "HUXEB",
@@ -1922,7 +1923,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/27/2013",
+		"updated": "06/27/2013"
 	},
 	{
 		"name": "HUZER",
@@ -1931,7 +1932,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CSG*VORTAC*067.28/52.64",
+		"updated": "CSG*VORTAC*067.28/52.64"
 	},
 	{
 		"name": "HWSEE",
@@ -1940,7 +1941,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/22/2014",
+		"updated": "04/22/2014"
 	},
 	{
 		"name": "HYDER",
@@ -1949,7 +1950,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "HCH*VOR/DME*002.91",
+		"updated": "HCH*VOR/DME*002.91"
 	},
 	{
 		"name": "HYZMN",
@@ -1958,5 +1959,6 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/28/2007",
-	},
+		"updated": "06/28/2007"
+	}
+]

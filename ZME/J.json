@@ -1,3 +1,4 @@
+[
 	{
 		"name": "JAAAE",
 		"latitude": "32-20-35 N",
@@ -5,7 +6,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/21/2012",
+		"updated": "09/21/2012"
 	},
 	{
 		"name": "JAACE",
@@ -14,7 +15,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/09/2015",
+		"updated": "12/09/2015"
 	},
 	{
 		"name": "JAAXX",
@@ -23,7 +24,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/01/2012",
+		"updated": "02/01/2012"
 	},
 	{
 		"name": "JABRD",
@@ -32,7 +33,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HCH*VOR/DME*221.99",
+		"updated": "HCH*VOR/DME*221.99"
 	},
 	{
 		"name": "JABUN",
@@ -41,7 +42,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "JADET",
@@ -50,7 +51,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/30/2013",
+		"updated": "09/30/2013"
 	},
 	{
 		"name": "JADIK",
@@ -59,7 +60,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/22/2015",
+		"updated": "09/22/2015"
 	},
 	{
 		"name": "JADIR",
@@ -68,7 +69,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "XNA*LD*NW CRS/5.02",
+		"updated": "XNA*LD*NW CRS/5.02"
 	},
 	{
 		"name": "JAGPA",
@@ -77,7 +78,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/05/2009",
+		"updated": "05/05/2009"
 	},
 	{
 		"name": "JAGUR",
@@ -86,7 +87,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/26/2009",
+		"updated": "05/26/2009"
 	},
 	{
 		"name": "JAHEJ",
@@ -95,7 +96,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/30/2001",
+		"updated": "10/30/2001"
 	},
 	{
 		"name": "JAKAD",
@@ -104,7 +105,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "08/04/2016",
+		"updated": "08/04/2016"
 	},
 	{
 		"name": "JAKVU",
@@ -113,7 +114,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RVT*LD*182.47/4.27",
+		"updated": "RVT*LD*182.47/4.27"
 	},
 	{
 		"name": "JALAR",
@@ -122,7 +123,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/14/2012",
+		"updated": "09/14/2012"
 	},
 	{
 		"name": "JALDO",
@@ -131,7 +132,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*/7.56",
+		"updated": "MEM*VORTAC*/7.56"
 	},
 	{
 		"name": "JALGU",
@@ -140,7 +141,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "FSM*VORTAC*233.00/17.00",
+		"updated": "FSM*VORTAC*233.00/17.00"
 	},
 	{
 		"name": "JAMDO",
@@ -149,7 +150,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RZC*VORTAC*264.37/8.00",
+		"updated": "RZC*VORTAC*264.37/8.00"
 	},
 	{
 		"name": "JAMEA",
@@ -158,7 +159,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*231.54/19.00",
+		"updated": "MEM*VORTAC*231.54/19.00"
 	},
 	{
 		"name": "JAMKO",
@@ -167,7 +168,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/17/2008",
+		"updated": "06/17/2008"
 	},
 	{
 		"name": "JAMLA",
@@ -176,7 +177,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2012",
+		"updated": "06/15/2012"
 	},
 	{
 		"name": "JAMUX",
@@ -185,7 +186,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*322.00/1.50",
+		"updated": "CBM*VORTAC*322.00/1.50"
 	},
 	{
 		"name": "JAMVO",
@@ -194,7 +195,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*033.00/15.00",
+		"updated": "CBM*VORTAC*033.00/15.00"
 	},
 	{
 		"name": "JANES",
@@ -203,7 +204,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "EWA*VORTAC*174.10/36.00",
+		"updated": "EWA*VORTAC*174.10/36.00"
 	},
 	{
 		"name": "JANHO",
@@ -212,7 +213,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*318.00/3.40",
+		"updated": "CBM*VORTAC*318.00/3.40"
 	},
 	{
 		"name": "JANIT",
@@ -221,7 +222,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/12/2008",
+		"updated": "06/12/2008"
 	},
 	{
 		"name": "JANLU",
@@ -230,7 +231,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/29/2016",
+		"updated": "07/29/2016"
 	},
 	{
 		"name": "JAPAB",
@@ -239,7 +240,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/06/2013",
+		"updated": "08/06/2013"
 	},
 	{
 		"name": "JAPAN",
@@ -248,7 +249,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "WP",
-		"updated": "FLP*VOR/DME*343.83/4.00",
+		"updated": "FLP*VOR/DME*343.83/4.00"
 	},
 	{
 		"name": "JAPKO",
@@ -257,7 +258,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/22/2004",
+		"updated": "07/22/2004"
 	},
 	{
 		"name": "JARAS",
@@ -266,7 +267,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/24/2017",
+		"updated": "02/24/2017"
 	},
 	{
 		"name": "JAREK",
@@ -275,7 +276,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/18/2015",
+		"updated": "09/18/2015"
 	},
 	{
 		"name": "JARKO",
@@ -284,7 +285,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/03/2009",
+		"updated": "09/03/2009"
 	},
 	{
 		"name": "JAROL",
@@ -293,7 +294,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "JARUG",
@@ -302,7 +303,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/21/2006",
+		"updated": "07/21/2006"
 	},
 	{
 		"name": "JARVA",
@@ -311,7 +312,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/06/2011",
+		"updated": "06/06/2011"
 	},
 	{
 		"name": "JASEX",
@@ -320,7 +321,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*037.40/13.40",
+		"updated": "DCU*VOR/DME*037.40/13.40"
 	},
 	{
 		"name": "JASMA",
@@ -329,7 +330,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/29/2002",
+		"updated": "01/29/2002"
 	},
 	{
 		"name": "JASOP",
@@ -338,7 +339,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/27/2009",
+		"updated": "07/27/2009"
 	},
 	{
 		"name": "JASPE",
@@ -347,7 +348,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HRO*VOR/DME*172.02/13.60",
+		"updated": "HRO*VOR/DME*172.02/13.60"
 	},
 	{
 		"name": "JATGO",
@@ -356,7 +357,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "JATIT",
@@ -365,7 +366,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*122.00/1.10",
+		"updated": "CBM*VORTAC*122.00/1.10"
 	},
 	{
 		"name": "JATOM",
@@ -374,7 +375,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/25/2015",
+		"updated": "06/25/2015"
 	},
 	{
 		"name": "JATUM",
@@ -383,7 +384,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/29/2005",
+		"updated": "06/29/2005"
 	},
 	{
 		"name": "JATVO",
@@ -392,7 +393,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/18/2015",
+		"updated": "09/18/2015"
 	},
 	{
 		"name": "JAVOP",
@@ -401,7 +402,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/05/2013",
+		"updated": "07/05/2013"
 	},
 	{
 		"name": "JAVTA",
@@ -410,7 +411,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "04/08/2009",
+		"updated": "04/08/2009"
 	},
 	{
 		"name": "JAXFE",
@@ -419,7 +420,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "JAYWA",
@@ -428,7 +429,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2012",
+		"updated": "06/15/2012"
 	},
 	{
 		"name": "JCKSN",
@@ -437,7 +438,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*/9.33",
+		"updated": "BNA*VORTAC*/9.33"
 	},
 	{
 		"name": "JEBEP",
@@ -446,7 +447,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "ARG*VORTAC*211.40/35.42",
+		"updated": "ARG*VORTAC*211.40/35.42"
 	},
 	{
 		"name": "JEBOD",
@@ -455,7 +456,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/02/2016",
+		"updated": "11/02/2016"
 	},
 	{
 		"name": "JEBUG",
@@ -464,7 +465,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/28/2014",
+		"updated": "05/28/2014"
 	},
 	{
 		"name": "JECUC",
@@ -473,7 +474,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/20/2008",
+		"updated": "06/20/2008"
 	},
 	{
 		"name": "JEDAT",
@@ -482,7 +483,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*269.61/11.00",
+		"updated": "BNA*VORTAC*269.61/11.00"
 	},
 	{
 		"name": "JEGUT",
@@ -491,7 +492,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/06/2006",
+		"updated": "11/06/2006"
 	},
 	{
 		"name": "JEKBA",
@@ -500,7 +501,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SYI*VOR/DME*192.86/27.11",
+		"updated": "SYI*VOR/DME*192.86/27.11"
 	},
 	{
 		"name": "JEKMU",
@@ -509,7 +510,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/01/2005",
+		"updated": "09/01/2005"
 	},
 	{
 		"name": "JELER",
@@ -518,7 +519,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/06/2016",
+		"updated": "09/06/2016"
 	},
 	{
 		"name": "JELVA",
@@ -527,7 +528,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/28/2013",
+		"updated": "10/28/2013"
 	},
 	{
 		"name": "JEMBO",
@@ -536,7 +537,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "FSM*VORTAC*/10.71",
+		"updated": "FSM*VORTAC*/10.71"
 	},
 	{
 		"name": "JENAN",
@@ -545,7 +546,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LIT*VORTAC*250.44/10.90",
+		"updated": "LIT*VORTAC*250.44/10.90"
 	},
 	{
 		"name": "JENKA",
@@ -554,7 +555,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/19/2015",
+		"updated": "11/19/2015"
 	},
 	{
 		"name": "JENKO",
@@ -563,7 +564,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/08/2003",
+		"updated": "07/08/2003"
 	},
 	{
 		"name": "JENOG",
@@ -572,7 +573,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MSL*VORTAC*110.68/4.00",
+		"updated": "MSL*VORTAC*110.68/4.00"
 	},
 	{
 		"name": "JENOL",
@@ -581,7 +582,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "JEPAX",
@@ -590,7 +591,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/26/2012",
+		"updated": "04/26/2012"
 	},
 	{
 		"name": "JEPGU",
@@ -599,7 +600,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2011",
+		"updated": "06/16/2011"
 	},
 	{
 		"name": "JEPOB",
@@ -608,7 +609,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "UJM*VOR/DME*077.32/20.00",
+		"updated": "UJM*VOR/DME*077.32/20.00"
 	},
 	{
 		"name": "JEPRO",
@@ -617,7 +618,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RZC*VORTAC*047.86/20.00",
+		"updated": "RZC*VORTAC*047.86/20.00"
 	},
 	{
 		"name": "JERLO",
@@ -626,7 +627,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/24/2013",
+		"updated": "01/24/2013"
 	},
 	{
 		"name": "JERSA",
@@ -635,7 +636,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/18/2013",
+		"updated": "06/18/2013"
 	},
 	{
 		"name": "JESTI",
@@ -644,7 +645,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*308.38/26.63",
+		"updated": "MEM*VORTAC*308.38/26.63"
 	},
 	{
 		"name": "JETEB",
@@ -653,7 +654,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/10/2010",
+		"updated": "08/10/2010"
 	},
 	{
 		"name": "JETLU",
@@ -662,7 +663,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2011",
+		"updated": "06/16/2011"
 	},
 	{
 		"name": "JETOB",
@@ -671,7 +672,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/23/2013",
+		"updated": "04/23/2013"
 	},
 	{
 		"name": "JETSI",
@@ -680,7 +681,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/29/2002",
+		"updated": "01/29/2002"
 	},
 	{
 		"name": "JEVBO",
@@ -689,7 +690,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "JEXIG",
@@ -698,7 +699,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "JFRED",
@@ -707,7 +708,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2012",
+		"updated": "06/15/2012"
 	},
 	{
 		"name": "JIBAX",
@@ -716,7 +717,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/24/2010",
+		"updated": "03/24/2010"
 	},
 	{
 		"name": "JIBIP",
@@ -725,7 +726,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/22/2013",
+		"updated": "08/22/2013"
 	},
 	{
 		"name": "JIBMI",
@@ -734,7 +735,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/26/2012",
+		"updated": "04/26/2012"
 	},
 	{
 		"name": "JIDAD",
@@ -743,7 +744,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/08/2006",
+		"updated": "12/08/2006"
 	},
 	{
 		"name": "JIDOP",
@@ -752,7 +753,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/07/2011",
+		"updated": "07/07/2011"
 	},
 	{
 		"name": "JIDUX",
@@ -761,7 +762,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/07/2007",
+		"updated": "05/07/2007"
 	},
 	{
 		"name": "JIGER",
@@ -770,7 +771,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/19/2010",
+		"updated": "09/19/2010"
 	},
 	{
 		"name": "JIGLU",
@@ -779,7 +780,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "JIGOG",
@@ -788,7 +789,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "OTB*VOR/DME*014.78/23.00",
+		"updated": "OTB*VOR/DME*014.78/23.00"
 	},
 	{
 		"name": "JIGRU",
@@ -797,7 +798,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "JIKOB",
@@ -806,7 +807,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/21/2016",
+		"updated": "07/21/2016"
 	},
 	{
 		"name": "JILHO",
@@ -815,7 +816,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/03/2013",
+		"updated": "11/03/2013"
 	},
 	{
 		"name": "JILLS",
@@ -824,7 +825,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/25/2014",
+		"updated": "09/25/2014"
 	},
 	{
 		"name": "JILUT",
@@ -833,7 +834,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/26/2012",
+		"updated": "04/26/2012"
 	},
 	{
 		"name": "JIMGA",
@@ -842,7 +843,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2012",
+		"updated": "06/15/2012"
 	},
 	{
 		"name": "JIMGO",
@@ -851,7 +852,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/06/2011",
+		"updated": "06/06/2011"
 	},
 	{
 		"name": "JIMIN",
@@ -860,7 +861,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/25/2008",
+		"updated": "03/25/2008"
 	},
 	{
 		"name": "JIMIS",
@@ -869,7 +870,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "JINED",
@@ -878,7 +879,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/07/2005",
+		"updated": "03/07/2005"
 	},
 	{
 		"name": "JINOM",
@@ -887,7 +888,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/07/2007",
+		"updated": "05/07/2007"
 	},
 	{
 		"name": "JIPGO",
@@ -896,7 +897,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "JIRUR",
@@ -905,7 +906,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LIT*VORTAC*282.52",
+		"updated": "LIT*VORTAC*282.52"
 	},
 	{
 		"name": "JISEP",
@@ -914,7 +915,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/09/2013",
+		"updated": "08/09/2013"
 	},
 	{
 		"name": "JISIR",
@@ -923,7 +924,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "JISRU",
@@ -932,7 +933,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GLH*VOR/DME*003.04/3.23",
+		"updated": "GLH*VOR/DME*003.04/3.23"
 	},
 	{
 		"name": "JITBA",
@@ -941,7 +942,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/18/2015",
+		"updated": "09/18/2015"
 	},
 	{
 		"name": "JITIT",
@@ -950,7 +951,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "03/20/2008",
+		"updated": "03/20/2008"
 	},
 	{
 		"name": "JITRU",
@@ -959,7 +960,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/06/2013",
+		"updated": "08/06/2013"
 	},
 	{
 		"name": "JIVAR",
@@ -968,7 +969,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2010",
+		"updated": "06/15/2010"
 	},
 	{
 		"name": "JIVOD",
@@ -977,7 +978,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*222.67/21.00",
+		"updated": "MEM*VORTAC*222.67/21.00"
 	},
 	{
 		"name": "JIXOR",
@@ -986,7 +987,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "JJEFF",
@@ -995,7 +996,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/14/2012",
+		"updated": "09/14/2012"
 	},
 	{
 		"name": "JNKNS",
@@ -1004,7 +1005,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "JOBIV",
@@ -1013,7 +1014,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/25/2013",
+		"updated": "01/25/2013"
 	},
 	{
 		"name": "JOBOK",
@@ -1022,7 +1023,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/30/2003",
+		"updated": "06/30/2003"
 	},
 	{
 		"name": "JOBTA",
@@ -1031,7 +1032,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HAB*VORTAC*010.21",
+		"updated": "HAB*VORTAC*010.21"
 	},
 	{
 		"name": "JOBZO",
@@ -1040,7 +1041,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2015",
+		"updated": "06/16/2015"
 	},
 	{
 		"name": "JODGA",
@@ -1049,7 +1050,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/08/2007",
+		"updated": "03/08/2007"
 	},
 	{
 		"name": "JODIB",
@@ -1058,7 +1059,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HLI*VORTAC*207.13",
+		"updated": "HLI*VORTAC*207.13"
 	},
 	{
 		"name": "JODOX",
@@ -1067,7 +1068,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/16/2006",
+		"updated": "02/16/2006"
 	},
 	{
 		"name": "JOEEY",
@@ -1076,7 +1077,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "JOELY",
@@ -1085,7 +1086,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/23/2013",
+		"updated": "04/23/2013"
 	},
 	{
 		"name": "JOGAM",
@@ -1094,7 +1095,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/25/2014",
+		"updated": "02/25/2014"
 	},
 	{
 		"name": "JOGIS",
@@ -1103,7 +1104,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "JWN*LD*017.76/4.30",
+		"updated": "JWN*LD*017.76/4.30"
 	},
 	{
 		"name": "JOGLO",
@@ -1112,7 +1113,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "JOGNA",
@@ -1121,7 +1122,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*324.17",
+		"updated": "BNA*VORTAC*324.17"
 	},
 	{
 		"name": "JOGUB",
@@ -1130,7 +1131,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/15/2008",
+		"updated": "09/15/2008"
 	},
 	{
 		"name": "JOGUM",
@@ -1139,7 +1140,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "03/27/2007",
+		"updated": "03/27/2007"
 	},
 	{
 		"name": "JOGUV",
@@ -1148,7 +1149,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "JOHNY",
@@ -1157,7 +1158,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*206.00",
+		"updated": "DCU*VOR/DME*206.00"
 	},
 	{
 		"name": "JOHRU",
@@ -1166,7 +1167,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/28/2008",
+		"updated": "07/28/2008"
 	},
 	{
 		"name": "JOIST",
@@ -1175,7 +1176,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "CBM*VORTAC*292.37",
+		"updated": "CBM*VORTAC*292.37"
 	},
 	{
 		"name": "JOKAK",
@@ -1184,7 +1185,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/26/2012",
+		"updated": "11/26/2012"
 	},
 	{
 		"name": "JOKAT",
@@ -1193,7 +1194,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "JOLET",
@@ -1202,7 +1203,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/08/2011",
+		"updated": "05/08/2011"
 	},
 	{
 		"name": "JOLIB",
@@ -1211,7 +1212,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/16/2010",
+		"updated": "08/16/2010"
 	},
 	{
 		"name": "JOLLI",
@@ -1220,7 +1221,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*224.00/15.00",
+		"updated": "CBM*VORTAC*224.00/15.00"
 	},
 	{
 		"name": "JOMAT",
@@ -1229,7 +1230,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2012",
+		"updated": "06/15/2012"
 	},
 	{
 		"name": "JOMEM",
@@ -1238,7 +1239,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/09/2011",
+		"updated": "06/09/2011"
 	},
 	{
 		"name": "JOMOS",
@@ -1247,7 +1248,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/19/2011",
+		"updated": "08/19/2011"
 	},
 	{
 		"name": "JOMPA",
@@ -1256,7 +1257,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "09/16/2009",
+		"updated": "09/16/2009"
 	},
 	{
 		"name": "JOMVU",
@@ -1265,7 +1266,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/05/2014",
+		"updated": "02/05/2014"
 	},
 	{
 		"name": "JONAG",
@@ -1274,7 +1275,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/03/2016",
+		"updated": "05/03/2016"
 	},
 	{
 		"name": "JONGI",
@@ -1283,7 +1284,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/18/2015",
+		"updated": "09/18/2015"
 	},
 	{
 		"name": "JONIL",
@@ -1292,7 +1293,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "JOPBO",
@@ -1301,7 +1302,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEI*VORTAC*170.00/35.00",
+		"updated": "MEI*VORTAC*170.00/35.00"
 	},
 	{
 		"name": "JOPED",
@@ -1310,7 +1311,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/06/2017",
+		"updated": "03/06/2017"
 	},
 	{
 		"name": "JOPGI",
@@ -1319,7 +1320,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*134.00/28.10",
+		"updated": "BNA*VORTAC*134.00/28.10"
 	},
 	{
 		"name": "JOPGO",
@@ -1328,7 +1329,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/21/2011",
+		"updated": "03/21/2011"
 	},
 	{
 		"name": "JOPIV",
@@ -1337,7 +1338,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SYI*VOR/DME*015.43",
+		"updated": "SYI*VOR/DME*015.43"
 	},
 	{
 		"name": "JOPMA",
@@ -1346,7 +1347,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "JOPRO",
@@ -1355,7 +1356,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/27/2004",
+		"updated": "07/27/2004"
 	},
 	{
 		"name": "JOREG",
@@ -1364,7 +1365,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BWY*LD*NE CRS/6.05",
+		"updated": "BWY*LD*NE CRS/6.05"
 	},
 	{
 		"name": "JORIG",
@@ -1373,7 +1374,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "ARG*VORTAC*197.37/15.00",
+		"updated": "ARG*VORTAC*197.37/15.00"
 	},
 	{
 		"name": "JOROT",
@@ -1382,7 +1383,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "JOROV",
@@ -1391,7 +1392,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/06/2013",
+		"updated": "06/06/2013"
 	},
 	{
 		"name": "JOSAL",
@@ -1400,7 +1401,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CKV*VOR/DME*003.68/7.29",
+		"updated": "CKV*VOR/DME*003.68/7.29"
 	},
 	{
 		"name": "JOSAS",
@@ -1409,7 +1410,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/12/2008",
+		"updated": "06/12/2008"
 	},
 	{
 		"name": "JOSEP",
@@ -1418,7 +1419,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "VUZ*VORTAC*019.00",
+		"updated": "VUZ*VORTAC*019.00"
 	},
 	{
 		"name": "JOSRO",
@@ -1427,7 +1428,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*/4.79",
+		"updated": "BNA*VORTAC*/4.79"
 	},
 	{
 		"name": "JOTEK",
@@ -1436,7 +1437,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MHZ*VORTAC*195.11/9.50",
+		"updated": "MHZ*VORTAC*195.11/9.50"
 	},
 	{
 		"name": "JOTVI",
@@ -1445,7 +1446,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "IGB*VORTAC*015.00/17.00",
+		"updated": "IGB*VORTAC*015.00/17.00"
 	},
 	{
 		"name": "JOVAB",
@@ -1454,7 +1455,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/18/2012",
+		"updated": "09/18/2012"
 	},
 	{
 		"name": "JOVES",
@@ -1463,7 +1464,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/04/2015",
+		"updated": "11/04/2015"
 	},
 	{
 		"name": "JOVMI",
@@ -1472,7 +1473,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/18/2008",
+		"updated": "08/18/2008"
 	},
 	{
 		"name": "JOVNA",
@@ -1481,7 +1482,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*190.05/23.44",
+		"updated": "BNA*VORTAC*190.05/23.44"
 	},
 	{
 		"name": "JOVOK",
@@ -1490,7 +1491,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/22/2014",
+		"updated": "04/22/2014"
 	},
 	{
 		"name": "JOYER",
@@ -1499,7 +1500,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RQZ*VORTAC*010.30/10.60",
+		"updated": "RQZ*VORTAC*010.30/10.60"
 	},
 	{
 		"name": "JTEEE",
@@ -1508,7 +1509,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/17/2012",
+		"updated": "01/17/2012"
 	},
 	{
 		"name": "JUBVU",
@@ -1517,7 +1518,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/22/2016",
+		"updated": "12/22/2016"
 	},
 	{
 		"name": "JUCZU",
@@ -1526,7 +1527,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MHZ*VORTAC*/9.95",
+		"updated": "MHZ*VORTAC*/9.95"
 	},
 	{
 		"name": "JUDEK",
@@ -1535,7 +1536,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "JUDIG",
@@ -1544,7 +1545,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/26/2008",
+		"updated": "03/26/2008"
 	},
 	{
 		"name": "JUDIM",
@@ -1553,7 +1554,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/23/2009",
+		"updated": "02/23/2009"
 	},
 	{
 		"name": "JUDUN",
@@ -1562,7 +1563,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GLH*VOR/DME*203.00/26.75",
+		"updated": "GLH*VOR/DME*203.00/26.75"
 	},
 	{
 		"name": "JUGAG",
@@ -1571,7 +1572,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/12/2008",
+		"updated": "06/12/2008"
 	},
 	{
 		"name": "JUGUK",
@@ -1580,7 +1581,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/17/2013",
+		"updated": "04/17/2013"
 	},
 	{
 		"name": "JUKIN",
@@ -1589,7 +1590,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "JUKNO",
@@ -1598,7 +1599,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/14/2010",
+		"updated": "09/14/2010"
 	},
 	{
 		"name": "JULAP",
@@ -1607,7 +1608,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "FLP*VOR/DME*348.93/3.99",
+		"updated": "FLP*VOR/DME*348.93/3.99"
 	},
 	{
 		"name": "JULRO",
@@ -1616,7 +1617,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "03/06/2007",
+		"updated": "03/06/2007"
 	},
 	{
 		"name": "JULTU",
@@ -1625,7 +1626,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SQS*VORTAC*066.20",
+		"updated": "SQS*VORTAC*066.20"
 	},
 	{
 		"name": "JUMAM",
@@ -1634,7 +1635,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/02/2016",
+		"updated": "11/02/2016"
 	},
 	{
 		"name": "JUMKU",
@@ -1643,7 +1644,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "JUNFU",
@@ -1652,7 +1653,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/12/2013",
+		"updated": "08/12/2013"
 	},
 	{
 		"name": "JUPAD",
@@ -1661,7 +1662,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*270.00/7.00",
+		"updated": "CBM*VORTAC*270.00/7.00"
 	},
 	{
 		"name": "JUPDA",
@@ -1670,7 +1671,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "PBF*VOR/DME*128.33/31.05",
+		"updated": "PBF*VOR/DME*128.33/31.05"
 	},
 	{
 		"name": "JUPEB",
@@ -1679,7 +1680,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/20/2014",
+		"updated": "02/20/2014"
 	},
 	{
 		"name": "JUPES",
@@ -1688,7 +1689,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/03/2014",
+		"updated": "11/03/2014"
 	},
 	{
 		"name": "JUPIV",
@@ -1697,7 +1698,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/14/2009",
+		"updated": "01/14/2009"
 	},
 	{
 		"name": "JUPSI",
@@ -1706,7 +1707,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2010",
+		"updated": "06/15/2010"
 	},
 	{
 		"name": "JURMA",
@@ -1715,7 +1716,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/28/2008",
+		"updated": "04/28/2008"
 	},
 	{
 		"name": "JURUM",
@@ -1724,7 +1725,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/29/2010",
+		"updated": "12/29/2010"
 	},
 	{
 		"name": "JUSBU",
@@ -1733,7 +1734,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/18/2008",
+		"updated": "06/18/2008"
 	},
 	{
 		"name": "JUSES",
@@ -1742,7 +1743,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "JUSGA",
@@ -1751,7 +1752,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "ELD*VOR/DME*027.36/31.00",
+		"updated": "ELD*VOR/DME*027.36/31.00"
 	},
 	{
 		"name": "JUSIM",
@@ -1760,7 +1761,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/04/2013",
+		"updated": "01/04/2013"
 	},
 	{
 		"name": "JUSMA",
@@ -1769,7 +1770,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "JUSNO",
@@ -1778,7 +1779,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/08/2006",
+		"updated": "12/08/2006"
 	},
 	{
 		"name": "JUSON",
@@ -1787,7 +1788,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/17/2009",
+		"updated": "12/17/2009"
 	},
 	{
 		"name": "JUTEN",
@@ -1796,7 +1797,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LBY*VORTAC*335.06/15.00",
+		"updated": "LBY*VORTAC*335.06/15.00"
 	},
 	{
 		"name": "JUTTI",
@@ -1805,7 +1806,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "JUTVO",
@@ -1814,7 +1815,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "JUUDD",
@@ -1823,7 +1824,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SSX*LD*021.00/6.03",
+		"updated": "SSX*LD*021.00/6.03"
 	},
 	{
 		"name": "JUUDY",
@@ -1832,7 +1833,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*179.00/26.00",
+		"updated": "CBM*VORTAC*179.00/26.00"
 	},
 	{
 		"name": "JUVAT",
@@ -1841,7 +1842,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/06/2017",
+		"updated": "03/06/2017"
 	},
 	{
 		"name": "JUVLO",
@@ -1850,7 +1851,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RQZ*VORTAC*230.00/28.70",
+		"updated": "RQZ*VORTAC*230.00/28.70"
 	},
 	{
 		"name": "JUXAV",
@@ -1859,7 +1860,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/22/2013",
+		"updated": "04/22/2013"
 	},
 	{
 		"name": "JWOOD",
@@ -1868,7 +1869,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/09/2013",
+		"updated": "04/09/2013"
 	},
 	{
 		"name": "JYSON",
@@ -1877,5 +1878,6 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2012",
-	},
+		"updated": "06/15/2012"
+	}
+]

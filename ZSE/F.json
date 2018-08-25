@@ -1,3 +1,4 @@
+[
 	{
 		"name": "FABOB",
 		"latitude": "44-10-36.62 N",
@@ -5,7 +6,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/16/2011",
+		"updated": "03/16/2011"
 	},
 	{
 		"name": "FABOD",
@@ -14,7 +15,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "TCM*VORTAC*339.70/0.70",
+		"updated": "TCM*VORTAC*339.70/0.70"
 	},
 	{
 		"name": "FABUL",
@@ -23,7 +24,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "EPH*VORTAC*290.00/58.00",
+		"updated": "EPH*VORTAC*290.00/58.00"
 	},
 	{
 		"name": "FAIYR",
@@ -32,7 +33,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/04/2014",
+		"updated": "11/04/2014"
 	},
 	{
 		"name": "FALDA",
@@ -41,7 +42,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/19/2002",
+		"updated": "11/19/2002"
 	},
 	{
 		"name": "FALOR",
@@ -50,7 +51,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ONP*VORTAC*147.44/6.23",
+		"updated": "ONP*VORTAC*147.44/6.23"
 	},
 	{
 		"name": "FAMAN",
@@ -59,7 +60,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/20/2001",
+		"updated": "06/20/2001"
 	},
 	{
 		"name": "FAMES",
@@ -68,7 +69,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PSC*VOR/DME*036.83/3.00",
+		"updated": "PSC*VOR/DME*036.83/3.00"
 	},
 	{
 		"name": "FAMUK",
@@ -77,7 +78,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/09/2008",
+		"updated": "06/09/2008"
 	},
 	{
 		"name": "FAMUV",
@@ -86,7 +87,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/10/2016",
+		"updated": "03/10/2016"
 	},
 	{
 		"name": "FANGI",
@@ -95,7 +96,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/15/2016",
+		"updated": "03/15/2016"
 	},
 	{
 		"name": "FANOT",
@@ -104,7 +105,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "SKA*TACAN*047.00/2.00",
+		"updated": "SKA*TACAN*047.00/2.00"
 	},
 	{
 		"name": "FARMI",
@@ -113,7 +114,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "LMT*VORTAC*148.00/15.00",
+		"updated": "LMT*VORTAC*148.00/15.00"
 	},
 	{
 		"name": "FASAB",
@@ -122,7 +123,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/30/2013",
+		"updated": "01/30/2013"
 	},
 	{
 		"name": "FATOS",
@@ -131,7 +132,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/16/2011",
+		"updated": "03/16/2011"
 	},
 	{
 		"name": "FAVDA",
@@ -140,7 +141,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/02/2004",
+		"updated": "12/02/2004"
 	},
 	{
 		"name": "FAVDU",
@@ -149,7 +150,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/21/2008",
+		"updated": "07/21/2008"
 	},
 	{
 		"name": "FAVUB",
@@ -158,7 +159,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PDT*VORTAC*/13.09",
+		"updated": "PDT*VORTAC*/13.09"
 	},
 	{
 		"name": "FAWNA",
@@ -167,7 +168,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/18/2015",
+		"updated": "08/18/2015"
 	},
 	{
 		"name": "FAXAX",
@@ -176,7 +177,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/12/2014",
+		"updated": "09/12/2014"
 	},
 	{
 		"name": "FAXOT",
@@ -185,7 +186,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/16/2011",
+		"updated": "03/16/2011"
 	},
 	{
 		"name": "FAXUT",
@@ -194,7 +195,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "NUW*TACAN*321.00/3.50",
+		"updated": "NUW*TACAN*321.00/3.50"
 	},
 	{
 		"name": "FAYCE",
@@ -203,7 +204,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "YKM*VORTAC*094.00/13.00",
+		"updated": "YKM*VORTAC*094.00/13.00"
 	},
 	{
 		"name": "FEBDA",
@@ -212,7 +213,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/16/2011",
+		"updated": "03/16/2011"
 	},
 	{
 		"name": "FEBEP",
@@ -221,7 +222,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/16/2011",
+		"updated": "03/16/2011"
 	},
 	{
 		"name": "FEBUS",
@@ -230,7 +231,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PSC*VOR/DME*305.75/48.98",
+		"updated": "PSC*VOR/DME*305.75/48.98"
 	},
 	{
 		"name": "FEDKU",
@@ -239,7 +240,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/05/2007",
+		"updated": "12/05/2007"
 	},
 	{
 		"name": "FEDUM",
@@ -248,7 +249,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/29/2013",
+		"updated": "10/29/2013"
 	},
 	{
 		"name": "FEDVU",
@@ -257,7 +258,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ELN*VOR/DME*110.00/10.00",
+		"updated": "ELN*VOR/DME*110.00/10.00"
 	},
 	{
 		"name": "FEGAK",
@@ -266,7 +267,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "TCM*VORTAC*166.58/6.00",
+		"updated": "TCM*VORTAC*166.58/6.00"
 	},
 	{
 		"name": "FEGBA",
@@ -275,7 +276,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/10/2015",
+		"updated": "12/10/2015"
 	},
 	{
 		"name": "FEGDA",
@@ -284,7 +285,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/16/2011",
+		"updated": "03/16/2011"
 	},
 	{
 		"name": "FEGET",
@@ -293,7 +294,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/16/2011",
+		"updated": "03/16/2011"
 	},
 	{
 		"name": "FEKOS",
@@ -302,7 +303,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "FEKUN",
@@ -311,7 +312,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/17/2015",
+		"updated": "08/17/2015"
 	},
 	{
 		"name": "FELCE",
@@ -320,7 +321,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "FEMAM",
@@ -329,7 +330,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/04/2016",
+		"updated": "10/04/2016"
 	},
 	{
 		"name": "FEMQI",
@@ -338,7 +339,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/21/2013",
+		"updated": "03/21/2013"
 	},
 	{
 		"name": "FENVI",
@@ -347,7 +348,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/16/2011",
+		"updated": "03/16/2011"
 	},
 	{
 		"name": "FEPDU",
@@ -356,7 +357,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "CEC*VORTAC*310.98/0.26",
+		"updated": "CEC*VORTAC*310.98/0.26"
 	},
 	{
 		"name": "FEPMI",
@@ -365,7 +366,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "05/13/2016",
+		"updated": "05/13/2016"
 	},
 	{
 		"name": "FEPNU",
@@ -374,7 +375,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "LMT*VORTAC*148.00/4.40",
+		"updated": "LMT*VORTAC*148.00/4.40"
 	},
 	{
 		"name": "FEPOS",
@@ -383,7 +384,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/23/2012",
+		"updated": "04/23/2012"
 	},
 	{
 		"name": "FEPOT",
@@ -392,7 +393,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "05/16/2017",
+		"updated": "05/16/2017"
 	},
 	{
 		"name": "FEPVO",
@@ -401,7 +402,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/10/2006",
+		"updated": "08/10/2006"
 	},
 	{
 		"name": "FERDI",
@@ -410,7 +411,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "MLP*VOR/DME*186.00",
+		"updated": "MLP*VOR/DME*186.00"
 	},
 	{
 		"name": "FERIE",
@@ -419,7 +420,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/28/2013",
+		"updated": "01/28/2013"
 	},
 	{
 		"name": "FESAS",
@@ -428,7 +429,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/01/2009",
+		"updated": "04/01/2009"
 	},
 	{
 		"name": "FESEX",
@@ -437,7 +438,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/15/2010",
+		"updated": "04/15/2010"
 	},
 	{
 		"name": "FESOD",
@@ -446,7 +447,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "DSD*VORTAC*170.55/22.00",
+		"updated": "DSD*VORTAC*170.55/22.00"
 	},
 	{
 		"name": "FETUJ",
@@ -455,7 +456,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "AST*VOR/DME*165.64/32.74",
+		"updated": "AST*VOR/DME*165.64/32.74"
 	},
 	{
 		"name": "FEVNI",
@@ -464,7 +465,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/15/2010",
+		"updated": "04/15/2010"
 	},
 	{
 		"name": "FEXAV",
@@ -473,7 +474,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/09/2010",
+		"updated": "06/09/2010"
 	},
 	{
 		"name": "FEXUB",
@@ -482,7 +483,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/04/2016",
+		"updated": "10/04/2016"
 	},
 	{
 		"name": "FEXUS",
@@ -491,7 +492,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/01/2016",
+		"updated": "11/01/2016"
 	},
 	{
 		"name": "FFULL",
@@ -500,7 +501,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/20/2015",
+		"updated": "04/20/2015"
 	},
 	{
 		"name": "FIDIT",
@@ -509,7 +510,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/30/2016",
+		"updated": "09/30/2016"
 	},
 	{
 		"name": "FIDOL",
@@ -518,7 +519,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "FIDOV",
@@ -527,7 +528,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "UBG*VOR/DME*089.12",
+		"updated": "UBG*VOR/DME*089.12"
 	},
 	{
 		"name": "FIDPO",
@@ -536,7 +537,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "MW",
-		"updated": "09/05/2014",
+		"updated": "09/05/2014"
 	},
 	{
 		"name": "FIFDE",
@@ -545,7 +546,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/27/2010",
+		"updated": "09/27/2010"
 	},
 	{
 		"name": "FIFFE",
@@ -554,7 +555,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "TCM*VORTAC*340.00/4.00",
+		"updated": "TCM*VORTAC*340.00/4.00"
 	},
 	{
 		"name": "FIKLO",
@@ -563,7 +564,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "DSD*VORTAC*068.79/17.00",
+		"updated": "DSD*VORTAC*068.79/17.00"
 	},
 	{
 		"name": "FILPU",
@@ -572,7 +573,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/24/2010",
+		"updated": "09/24/2010"
 	},
 	{
 		"name": "FILTU",
@@ -581,7 +582,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ADJ*LD*300.02/12.88",
+		"updated": "ADJ*LD*300.02/12.88"
 	},
 	{
 		"name": "FINER",
@@ -590,7 +591,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/15/2002",
+		"updated": "11/15/2002"
 	},
 	{
 		"name": "FINIV",
@@ -599,7 +600,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PSC*VOR/DME*270.34/19.00",
+		"updated": "PSC*VOR/DME*270.34/19.00"
 	},
 	{
 		"name": "FINIX",
@@ -608,7 +609,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ONP*VORTAC*349.51/6.10",
+		"updated": "ONP*VORTAC*349.51/6.10"
 	},
 	{
 		"name": "FINKA",
@@ -617,7 +618,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "CJL*LD*N CRS/6.06",
+		"updated": "CJL*LD*N CRS/6.06"
 	},
 	{
 		"name": "FINTA",
@@ -626,7 +627,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "RPO*LE*198.16/6.15",
+		"updated": "RPO*LE*198.16/6.15"
 	},
 	{
 		"name": "FINUT",
@@ -635,7 +636,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "FIPMA",
@@ -644,7 +645,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ADE*LD*343.39/16.15",
+		"updated": "ADE*LD*343.39/16.15"
 	},
 	{
 		"name": "FISEN",
@@ -653,7 +654,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/24/2004",
+		"updated": "09/24/2004"
 	},
 	{
 		"name": "FISKI",
@@ -662,7 +663,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "02/12/2014",
+		"updated": "02/12/2014"
 	},
 	{
 		"name": "FISKK",
@@ -671,7 +672,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "AST*VOR/DME*246.00/7.00",
+		"updated": "AST*VOR/DME*246.00/7.00"
 	},
 	{
 		"name": "FISTA",
@@ -680,7 +681,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "MFR*LD*322.76/15.35",
+		"updated": "MFR*LD*322.76/15.35"
 	},
 	{
 		"name": "FISUM",
@@ -689,7 +690,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "BTG*VORTAC*160.60/9.09",
+		"updated": "BTG*VORTAC*160.60/9.09"
 	},
 	{
 		"name": "FISUS",
@@ -698,7 +699,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/27/2010",
+		"updated": "09/27/2010"
 	},
 	{
 		"name": "FITEL",
@@ -707,7 +708,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/12/2015",
+		"updated": "08/12/2015"
 	},
 	{
 		"name": "FITGA",
@@ -716,7 +717,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "EAT*VOR/DME*257.21/24.00",
+		"updated": "EAT*VOR/DME*257.21/24.00"
 	},
 	{
 		"name": "FITIM",
@@ -725,7 +726,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "YKM*VORTAC*075.00/13.00",
+		"updated": "YKM*VORTAC*075.00/13.00"
 	},
 	{
 		"name": "FITOK",
@@ -734,7 +735,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "FIXEV",
@@ -743,7 +744,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "05/15/2014",
+		"updated": "05/15/2014"
 	},
 	{
 		"name": "FIXOV",
@@ -752,7 +753,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PSC*VOR/DME*307.86",
+		"updated": "PSC*VOR/DME*307.86"
 	},
 	{
 		"name": "FLAAK",
@@ -761,7 +762,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "SEA*VORTAC*041.56/40.00",
+		"updated": "SEA*VORTAC*041.56/40.00"
 	},
 	{
 		"name": "FLOWR",
@@ -770,7 +771,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/28/2013",
+		"updated": "08/28/2013"
 	},
 	{
 		"name": "FLUSS",
@@ -779,7 +780,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "RDM*LD*226.37/23.00",
+		"updated": "RDM*LD*226.37/23.00"
 	},
 	{
 		"name": "FNGRR",
@@ -788,7 +789,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "LMT*VORTAC*293.00/10.60",
+		"updated": "LMT*VORTAC*293.00/10.60"
 	},
 	{
 		"name": "FOBRO",
@@ -797,7 +798,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "OED*VORTAC*138.00/34.03",
+		"updated": "OED*VORTAC*138.00/34.03"
 	},
 	{
 		"name": "FODIN",
@@ -806,7 +807,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/02/2004",
+		"updated": "12/02/2004"
 	},
 	{
 		"name": "FODOP",
@@ -815,7 +816,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PDT*VORTAC*234.00/10.00",
+		"updated": "PDT*VORTAC*234.00/10.00"
 	},
 	{
 		"name": "FODUL",
@@ -824,7 +825,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/20/2011",
+		"updated": "12/20/2011"
 	},
 	{
 		"name": "FOGAL",
@@ -833,7 +834,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/02/2004",
+		"updated": "12/02/2004"
 	},
 	{
 		"name": "FOGIG",
@@ -842,7 +843,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/11/2013",
+		"updated": "03/11/2013"
 	},
 	{
 		"name": "FOGIV",
@@ -851,7 +852,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "05/13/2014",
+		"updated": "05/13/2014"
 	},
 	{
 		"name": "FOGIX",
@@ -860,7 +861,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/09/2010",
+		"updated": "06/09/2010"
 	},
 	{
 		"name": "FOGUL",
@@ -869,7 +870,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/03/2017",
+		"updated": "08/03/2017"
 	},
 	{
 		"name": "FOGUT",
@@ -878,7 +879,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/12/2014",
+		"updated": "09/12/2014"
 	},
 	{
 		"name": "FOJJO",
@@ -887,7 +888,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/20/2010",
+		"updated": "04/20/2010"
 	},
 	{
 		"name": "FOMBO",
@@ -896,7 +897,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/05/2007",
+		"updated": "12/05/2007"
 	},
 	{
 		"name": "FOMKO",
@@ -905,7 +906,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "COE*VOR/DME*164.00/0.43",
+		"updated": "COE*VOR/DME*164.00/0.43"
 	},
 	{
 		"name": "FONDA",
@@ -914,7 +915,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "FOOMY",
@@ -923,7 +924,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "FOOTT",
@@ -932,7 +933,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "FORAS",
@@ -941,7 +942,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/27/2010",
+		"updated": "07/27/2010"
 	},
 	{
 		"name": "FORRS",
@@ -950,7 +951,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "DSD*VORTAC*178.05/13.00",
+		"updated": "DSD*VORTAC*178.05/13.00"
 	},
 	{
 		"name": "FORWY",
@@ -959,7 +960,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/24/2011",
+		"updated": "01/24/2011"
 	},
 	{
 		"name": "FOSNI",
@@ -968,7 +969,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "DSD*VORTAC*247.22/10.00",
+		"updated": "DSD*VORTAC*247.22/10.00"
 	},
 	{
 		"name": "FOSTI",
@@ -977,7 +978,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ONP*VORTAC*029.27/10.20",
+		"updated": "ONP*VORTAC*029.27/10.20"
 	},
 	{
 		"name": "FOURT",
@@ -986,7 +987,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "OLM*VORTAC*022.00/26.00",
+		"updated": "OLM*VORTAC*022.00/26.00"
 	},
 	{
 		"name": "FOVMI",
@@ -995,7 +996,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/09/2010",
+		"updated": "06/09/2010"
 	},
 	{
 		"name": "FOVOK",
@@ -1004,7 +1005,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/25/2015",
+		"updated": "06/25/2015"
 	},
 	{
 		"name": "FOWBO",
@@ -1013,7 +1014,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/15/2010",
+		"updated": "04/15/2010"
 	},
 	{
 		"name": "FOYTE",
@@ -1022,7 +1023,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ACV*VOR/DME*208.00",
+		"updated": "ACV*VOR/DME*208.00"
 	},
 	{
 		"name": "FRAKK",
@@ -1031,7 +1032,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "EUG*LD*N CRS/6.20",
+		"updated": "EUG*LD*N CRS/6.20"
 	},
 	{
 		"name": "FRAPP",
@@ -1040,7 +1041,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/29/2012",
+		"updated": "03/29/2012"
 	},
 	{
 		"name": "FRFLY",
@@ -1049,7 +1050,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/18/2002",
+		"updated": "11/18/2002"
 	},
 	{
 		"name": "FRITT",
@@ -1058,7 +1059,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "EUG*VORTAC*167.00/16.00",
+		"updated": "EUG*VORTAC*167.00/16.00"
 	},
 	{
 		"name": "FRZBY",
@@ -1067,7 +1068,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/04/2016",
+		"updated": "11/04/2016"
 	},
 	{
 		"name": "FUFQO",
@@ -1076,7 +1077,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "DSD*VORTAC*092.42/29.04",
+		"updated": "DSD*VORTAC*092.42/29.04"
 	},
 	{
 		"name": "FURNS",
@@ -1085,5 +1086,6 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/21/2017",
-	},
+		"updated": "04/21/2017"
+	}
+]

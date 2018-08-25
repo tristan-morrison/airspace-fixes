@@ -1,3 +1,4 @@
+[
 	{
 		"name": "FAAAR",
 		"latitude": "39-35-36.11 N",
@@ -5,7 +6,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/05/2014",
+		"updated": "03/05/2014"
 	},
 	{
 		"name": "FAARM",
@@ -14,7 +15,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "FABAP",
@@ -23,7 +24,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/18/2012",
+		"updated": "07/18/2012"
 	},
 	{
 		"name": "FABET",
@@ -32,7 +33,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/10/2010",
+		"updated": "02/10/2010"
 	},
 	{
 		"name": "FABGA",
@@ -41,7 +42,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/10/2017",
+		"updated": "08/10/2017"
 	},
 	{
 		"name": "FABIS",
@@ -50,7 +51,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/22/2015",
+		"updated": "01/22/2015"
 	},
 	{
 		"name": "FACSO",
@@ -59,7 +60,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/31/2017",
+		"updated": "07/31/2017"
 	},
 	{
 		"name": "FALUJ",
@@ -68,7 +69,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "FALUR",
@@ -77,7 +78,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*315.67/20.39",
+		"updated": "PUB*VORTAC*315.67/20.39"
 	},
 	{
 		"name": "FAMKO",
@@ -86,7 +87,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/16/2017",
+		"updated": "05/16/2017"
 	},
 	{
 		"name": "FANRO",
@@ -95,7 +96,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/19/2016",
+		"updated": "07/19/2016"
 	},
 	{
 		"name": "FAPOP",
@@ -104,7 +105,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/16/2003",
+		"updated": "01/16/2003"
 	},
 	{
 		"name": "FAPOV",
@@ -113,7 +114,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "12/03/2007",
+		"updated": "12/03/2007"
 	},
 	{
 		"name": "FARMY",
@@ -122,7 +123,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BFF*VORTAC*030.00",
+		"updated": "BFF*VORTAC*030.00"
 	},
 	{
 		"name": "FATPO",
@@ -131,7 +132,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/08/2006",
+		"updated": "06/08/2006"
 	},
 	{
 		"name": "FATPU",
@@ -140,7 +141,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/11/2004",
+		"updated": "02/11/2004"
 	},
 	{
 		"name": "FAULD",
@@ -149,7 +150,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/18/2015",
+		"updated": "11/18/2015"
 	},
 	{
 		"name": "FEBLA",
@@ -158,7 +159,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/30/2006",
+		"updated": "03/30/2006"
 	},
 	{
 		"name": "FEBUP",
@@ -167,7 +168,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/14/2008",
+		"updated": "08/14/2008"
 	},
 	{
 		"name": "FEDAG",
@@ -176,7 +177,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "RCA*TACAN*/15.00",
+		"updated": "RCA*TACAN*/15.00"
 	},
 	{
 		"name": "FEDET",
@@ -185,7 +186,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BFF*VORTAC*242.81/18.00",
+		"updated": "BFF*VORTAC*242.81/18.00"
 	},
 	{
 		"name": "FEDPI",
@@ -194,7 +195,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "FEDUV",
@@ -203,7 +204,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/19/2008",
+		"updated": "09/19/2008"
 	},
 	{
 		"name": "FEETS",
@@ -212,7 +213,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "JOY*LD*082.55/3.65",
+		"updated": "JOY*LD*082.55/3.65"
 	},
 	{
 		"name": "FEGER",
@@ -221,7 +222,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/14/2014",
+		"updated": "07/14/2014"
 	},
 	{
 		"name": "FEGIB",
@@ -230,7 +231,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/15/2008",
+		"updated": "07/15/2008"
 	},
 	{
 		"name": "FEGIT",
@@ -239,7 +240,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/04/2011",
+		"updated": "01/04/2011"
 	},
 	{
 		"name": "FEGUL",
@@ -248,7 +249,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/16/2010",
+		"updated": "08/16/2010"
 	},
 	{
 		"name": "FEKAP",
@@ -257,7 +258,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/27/2006",
+		"updated": "11/27/2006"
 	},
 	{
 		"name": "FEKEP",
@@ -266,7 +267,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "FEKIX",
@@ -275,7 +276,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/12/2005",
+		"updated": "07/12/2005"
 	},
 	{
 		"name": "FEKMU",
@@ -284,7 +285,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/23/2005",
+		"updated": "08/23/2005"
 	},
 	{
 		"name": "FEKUK",
@@ -293,7 +294,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "FEKVA",
@@ -302,7 +303,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/04/2011",
+		"updated": "07/04/2011"
 	},
 	{
 		"name": "FELRI",
@@ -311,7 +312,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RSK*VORTAC*332.83/17.00",
+		"updated": "RSK*VORTAC*332.83/17.00"
 	},
 	{
 		"name": "FELTA",
@@ -320,7 +321,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/11/2004",
+		"updated": "02/11/2004"
 	},
 	{
 		"name": "FEMAD",
@@ -329,7 +330,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DRO*VOR/DME*096.34/35.74",
+		"updated": "DRO*VOR/DME*096.34/35.74"
 	},
 	{
 		"name": "FEMGI",
@@ -338,7 +339,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAR*VOR/DME*287.20/10.00",
+		"updated": "LAR*VOR/DME*287.20/10.00"
 	},
 	{
 		"name": "FENGA",
@@ -347,7 +348,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/18/2017",
+		"updated": "01/18/2017"
 	},
 	{
 		"name": "FEPAS",
@@ -356,7 +357,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/09/2015",
+		"updated": "11/09/2015"
 	},
 	{
 		"name": "FEPDI",
@@ -365,7 +366,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/09/2011",
+		"updated": "05/09/2011"
 	},
 	{
 		"name": "FERBI",
@@ -374,7 +375,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/19/2001",
+		"updated": "06/19/2001"
 	},
 	{
 		"name": "FERBU",
@@ -383,7 +384,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/17/2018",
+		"updated": "04/17/2018"
 	},
 	{
 		"name": "FERMI",
@@ -392,7 +393,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RAP*VORTAC*320.93/10.00",
+		"updated": "RAP*VORTAC*320.93/10.00"
 	},
 	{
 		"name": "FERPO",
@@ -401,7 +402,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RMT*LD*305.59/1.80",
+		"updated": "RMT*LD*305.59/1.80"
 	},
 	{
 		"name": "FESNT",
@@ -410,7 +411,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/15/2011",
+		"updated": "03/15/2011"
 	},
 	{
 		"name": "FESPA",
@@ -419,7 +420,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/08/2009",
+		"updated": "06/08/2009"
 	},
 	{
 		"name": "FETSU",
@@ -428,7 +429,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/30/2010",
+		"updated": "05/30/2010"
 	},
 	{
 		"name": "FETUB",
@@ -437,7 +438,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/07/2003",
+		"updated": "07/07/2003"
 	},
 	{
 		"name": "FEVLO",
@@ -446,7 +447,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/23/2005",
+		"updated": "08/23/2005"
 	},
 	{
 		"name": "FFFAT",
@@ -455,7 +456,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/23/2012",
+		"updated": "09/23/2012"
 	},
 	{
 		"name": "FIDLE",
@@ -464,7 +465,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*045.82/19.99",
+		"updated": "DBL*VOR/DME*045.82/19.99"
 	},
 	{
 		"name": "FIGDU",
@@ -473,7 +474,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "FIGTR",
@@ -482,7 +483,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "FIHWY",
@@ -491,7 +492,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "03/10/2003",
+		"updated": "03/10/2003"
 	},
 	{
 		"name": "FIISH",
@@ -500,7 +501,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "FIKEB",
@@ -509,7 +510,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "FIKEX",
@@ -518,7 +519,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/01/2013",
+		"updated": "11/01/2013"
 	},
 	{
 		"name": "FIKLA",
@@ -527,7 +528,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/09/2015",
+		"updated": "02/09/2015"
 	},
 	{
 		"name": "FIKMO",
@@ -536,7 +537,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/07/2010",
+		"updated": "06/07/2010"
 	},
 	{
 		"name": "FIMER",
@@ -545,7 +546,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HCT*VORTAC*063.20/28.18",
+		"updated": "HCT*VORTAC*063.20/28.18"
 	},
 	{
 		"name": "FIMEV",
@@ -554,7 +555,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "FIMGA",
@@ -563,7 +564,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DRO*VOR/DME*272.00/14.00",
+		"updated": "DRO*VOR/DME*272.00/14.00"
 	},
 	{
 		"name": "FIMSO",
@@ -572,7 +573,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ASE*LE*330.63/9.00",
+		"updated": "ASE*LE*330.63/9.00"
 	},
 	{
 		"name": "FIMUR",
@@ -581,7 +582,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/13/2013",
+		"updated": "11/13/2013"
 	},
 	{
 		"name": "FINIB",
@@ -590,7 +591,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/04/2009",
+		"updated": "07/04/2009"
 	},
 	{
 		"name": "FIPET",
@@ -599,7 +600,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/07/2010",
+		"updated": "06/07/2010"
 	},
 	{
 		"name": "FIPSS",
@@ -608,7 +609,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "FQF*VORTAC*306.00/22.00",
+		"updated": "FQF*VORTAC*306.00/22.00"
 	},
 	{
 		"name": "FIPUR",
@@ -617,7 +618,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/28/2008",
+		"updated": "07/28/2008"
 	},
 	{
 		"name": "FIRPI",
@@ -626,7 +627,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "APA*LD*169.95/14.51",
+		"updated": "APA*LD*169.95/14.51"
 	},
 	{
 		"name": "FISAR",
@@ -635,7 +636,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/20/2012",
+		"updated": "11/20/2012"
 	},
 	{
 		"name": "FISDA",
@@ -644,7 +645,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/27/2002",
+		"updated": "06/27/2002"
 	},
 	{
 		"name": "FISOX",
@@ -653,7 +654,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "FISTR",
@@ -662,7 +663,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*045.82/7.00",
+		"updated": "DBL*VOR/DME*045.82/7.00"
 	},
 	{
 		"name": "FITLA",
@@ -671,7 +672,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/21/2005",
+		"updated": "12/21/2005"
 	},
 	{
 		"name": "FIYCA",
@@ -680,7 +681,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/04/2009",
+		"updated": "07/04/2009"
 	},
 	{
 		"name": "FLAGG",
@@ -689,7 +690,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLD*VORTAC*273.24/35.12",
+		"updated": "GLD*VORTAC*273.24/35.12"
 	},
 	{
 		"name": "FLAIL",
@@ -698,7 +699,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "FLEMS",
@@ -707,7 +708,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAR*VOR/DME*118.89/28.82",
+		"updated": "LAR*VOR/DME*118.89/28.82"
 	},
 	{
 		"name": "FLLYY",
@@ -716,7 +717,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/11/2017",
+		"updated": "12/11/2017"
 	},
 	{
 		"name": "FLOOD",
@@ -725,7 +726,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*267.20/31.50",
+		"updated": "PUB*VORTAC*267.20/31.50"
 	},
 	{
 		"name": "FLOTR",
@@ -734,7 +735,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/17/2015",
+		"updated": "07/17/2015"
 	},
 	{
 		"name": "FLUBS",
@@ -743,7 +744,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/23/2017",
+		"updated": "08/23/2017"
 	},
 	{
 		"name": "FLUFF",
@@ -752,7 +753,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/25/2012",
+		"updated": "03/25/2012"
 	},
 	{
 		"name": "FLUME",
@@ -761,7 +762,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RSK*VORTAC*280.00/17.00",
+		"updated": "RSK*VORTAC*280.00/17.00"
 	},
 	{
 		"name": "FMSDT",
@@ -770,7 +771,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "FOAMS",
@@ -779,7 +780,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "FOBOX",
@@ -788,7 +789,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/03/2015",
+		"updated": "03/03/2015"
 	},
 	{
 		"name": "FOBVO",
@@ -797,7 +798,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/22/2005",
+		"updated": "06/22/2005"
 	},
 	{
 		"name": "FODIP",
@@ -806,7 +807,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "FOGEL",
@@ -815,7 +816,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RSK*VORTAC*134.15/10.00",
+		"updated": "RSK*VORTAC*134.15/10.00"
 	},
 	{
 		"name": "FOGET",
@@ -824,7 +825,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "BKF*TACAN*318.90/2.00",
+		"updated": "BKF*TACAN*318.90/2.00"
 	},
 	{
 		"name": "FOGUP",
@@ -833,7 +834,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/21/2001",
+		"updated": "06/21/2001"
 	},
 	{
 		"name": "FOGUX",
@@ -842,7 +843,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/22/2005",
+		"updated": "12/22/2005"
 	},
 	{
 		"name": "FOHGO",
@@ -851,7 +852,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "FOLTI",
@@ -860,7 +861,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/14/2014",
+		"updated": "07/14/2014"
 	},
 	{
 		"name": "FOLTO",
@@ -869,7 +870,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/07/2008",
+		"updated": "04/07/2008"
 	},
 	{
 		"name": "FOMDO",
@@ -878,7 +879,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LBF*VOR/DME*018.21/2.82",
+		"updated": "LBF*VOR/DME*018.21/2.82"
 	},
 	{
 		"name": "FOMUK",
@@ -887,7 +888,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "FONTO",
@@ -896,7 +897,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*060.00/51.98",
+		"updated": "GLL*VOR/DME*060.00/51.98"
 	},
 	{
 		"name": "FOOOT",
@@ -905,7 +906,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "FORDU",
@@ -914,7 +915,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/08/2010",
+		"updated": "11/08/2010"
 	},
 	{
 		"name": "FOSIG",
@@ -923,7 +924,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2014",
+		"updated": "09/22/2014"
 	},
 	{
 		"name": "FOTTY",
@@ -932,7 +933,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RLG*VOR/DME*197.94/10.00",
+		"updated": "RLG*VOR/DME*197.94/10.00"
 	},
 	{
 		"name": "FOVLO",
@@ -941,7 +942,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/17/2011",
+		"updated": "10/17/2011"
 	},
 	{
 		"name": "FOXEM",
@@ -950,7 +951,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/17/2015",
+		"updated": "07/17/2015"
 	},
 	{
 		"name": "FRANO",
@@ -959,7 +960,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "FRESE",
@@ -968,7 +969,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "FREZE",
@@ -977,7 +978,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "FRNCH",
@@ -986,7 +987,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/15/2014",
+		"updated": "07/15/2014"
 	},
 	{
 		"name": "FRNKE",
@@ -995,7 +996,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "FROGS",
@@ -1004,7 +1005,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAR*VOR/DME*175.22",
+		"updated": "LAR*VOR/DME*175.22"
 	},
 	{
 		"name": "FROND",
@@ -1013,7 +1014,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/31/2017",
+		"updated": "07/31/2017"
 	},
 	{
 		"name": "FRONZ",
@@ -1022,7 +1023,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DPP*LD*172.54/7.08",
+		"updated": "DPP*LD*172.54/7.08"
 	},
 	{
 		"name": "FSHER",
@@ -1031,7 +1032,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*267.20/10.34",
+		"updated": "PUB*VORTAC*267.20/10.34"
 	},
 	{
 		"name": "FULLA",
@@ -1040,7 +1041,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "FULLY",
@@ -1049,7 +1050,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RSK*VORTAC*243.00/22.00",
+		"updated": "RSK*VORTAC*243.00/22.00"
 	},
 	{
 		"name": "FUNDS",
@@ -1058,7 +1059,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*064.27/39.31",
+		"updated": "DBL*VOR/DME*064.27/39.31"
 	},
 	{
 		"name": "FURRS",
@@ -1067,7 +1068,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RLG*VOR/DME*214.00/43.00",
+		"updated": "RLG*VOR/DME*214.00/43.00"
 	},
 	{
 		"name": "FUZZZ",
@@ -1076,7 +1077,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "FQF*VORTAC*036.51",
+		"updated": "FQF*VORTAC*036.51"
 	},
 	{
 		"name": "FYZER",
@@ -1085,5 +1086,6 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DVV*VORTAC*104.51",
-	},
+		"updated": "DVV*VORTAC*104.51"
+	}
+]

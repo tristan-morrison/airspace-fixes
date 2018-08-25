@@ -1,3 +1,4 @@
+[
 	{
 		"name": "QATZA",
 		"latitude": "70-22-29.2 N",
@@ -5,7 +6,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/25/2017",
+		"updated": "08/25/2017"
 	},
 	{
 		"name": "QAYAQ",
@@ -14,7 +15,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/12/2009",
+		"updated": "07/12/2009"
 	},
 	{
 		"name": "QOPRI",
@@ -23,7 +24,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "DLG*VOR/DME*105.00/10.00",
+		"updated": "DLG*VOR/DME*105.00/10.00"
 	},
 	{
 		"name": "QOYJY",
@@ -32,7 +33,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/17/2017",
+		"updated": "08/17/2017"
 	},
 	{
 		"name": "QUACK",
@@ -41,7 +42,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "10/02/1995",
+		"updated": "10/02/1995"
 	},
 	{
 		"name": "QUVQU",
@@ -50,5 +51,6 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SCC*VOR/DME*058.06/16.00",
-	},
+		"updated": "SCC*VOR/DME*058.06/16.00"
+	}
+]

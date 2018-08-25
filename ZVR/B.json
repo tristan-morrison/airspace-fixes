@@ -1,3 +1,4 @@
+[
 	{
 		"name": "BANNE",
 		"latitude": "54-5-57.27 N",
@@ -5,7 +6,7 @@
 		"state": "",
 		"artcc": "ZVR",
 		"type": "RP",
-		"updated": "10/05/2016",
+		"updated": "10/05/2016"
 	},
 	{
 		"name": "BOKMA",
@@ -14,7 +15,7 @@
 		"state": "",
 		"artcc": "ZVR",
 		"type": "RP",
-		"updated": "ANN*VOR/DME*157.00/32.60",
+		"updated": "ANN*VOR/DME*157.00/32.60"
 	},
 	{
 		"name": "BUICK",
@@ -23,5 +24,6 @@
 		"state": "",
 		"artcc": "ZVR",
 		"type": "RP",
-		"updated": "YVR*VOR/DME*161.00",
-	},
+		"updated": "YVR*VOR/DME*161.00"
+	}
+]

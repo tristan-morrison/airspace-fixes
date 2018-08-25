@@ -1,3 +1,4 @@
+[
 	{
 		"name": "BAROE",
 		"latitude": "22-3-33.1 N",
@@ -5,7 +6,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "12/20/2009",
+		"updated": "12/20/2009"
 	},
 	{
 		"name": "BARVE",
@@ -14,7 +15,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*262.00/12.00",
+		"updated": "SJU*VORTAC*262.00/12.00"
 	},
 	{
 		"name": "BAZRI",
@@ -23,7 +24,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "01/24/2001",
+		"updated": "01/24/2001"
 	},
 	{
 		"name": "BEANO",
@@ -32,7 +33,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "BQN*VORTAC*070.59",
+		"updated": "BQN*VORTAC*070.59"
 	},
 	{
 		"name": "BETIR",
@@ -41,7 +42,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "CDO*VOR/DME*055.86/81.34",
+		"updated": "CDO*VOR/DME*055.86/81.34"
 	},
 	{
 		"name": "BEWIK",
@@ -50,7 +51,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "MAZ*VOR/DME*139.40",
+		"updated": "MAZ*VOR/DME*139.40"
 	},
 	{
 		"name": "BOCCA",
@@ -59,7 +60,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*284.00/35.00",
+		"updated": "SJU*VORTAC*284.00/35.00"
 	},
 	{
 		"name": "BUKLE",
@@ -68,5 +69,6 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "MW",
-		"updated": "11/01/2017",
-	},
+		"updated": "11/01/2017"
+	}
+]

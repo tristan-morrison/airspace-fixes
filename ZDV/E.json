@@ -1,3 +1,4 @@
+[
 	{
 		"name": "EARLS",
 		"latitude": "37-17-14.47 N",
@@ -5,7 +6,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*168.00/60.49",
+		"updated": "PUB*VORTAC*168.00/60.49"
 	},
 	{
 		"name": "EAZZY",
@@ -14,7 +15,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/08/2006",
+		"updated": "06/08/2006"
 	},
 	{
 		"name": "EBBIE",
@@ -23,7 +24,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*248.00/18.00",
+		"updated": "GLL*VOR/DME*248.00/18.00"
 	},
 	{
 		"name": "EBEBY",
@@ -32,7 +33,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BYE*LD*123.32/6.70",
+		"updated": "BYE*LD*123.32/6.70"
 	},
 	{
 		"name": "EBEJU",
@@ -41,7 +42,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "06/08/2009",
+		"updated": "06/08/2009"
 	},
 	{
 		"name": "EBICI",
@@ -50,7 +51,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/14/2008",
+		"updated": "08/14/2008"
 	},
 	{
 		"name": "EBIHE",
@@ -59,7 +60,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/20/2009",
+		"updated": "03/20/2009"
 	},
 	{
 		"name": "EBIYO",
@@ -68,7 +69,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DDY*VOR/DME*340.82/21.95",
+		"updated": "DDY*VOR/DME*340.82/21.95"
 	},
 	{
 		"name": "EBSTN",
@@ -77,7 +78,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/17/2014",
+		"updated": "11/17/2014"
 	},
 	{
 		"name": "EBUWI",
@@ -86,7 +87,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/06/2005",
+		"updated": "04/06/2005"
 	},
 	{
 		"name": "EBZUV",
@@ -95,7 +96,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/30/2010",
+		"updated": "05/30/2010"
 	},
 	{
 		"name": "ECCEL",
@@ -104,7 +105,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "ECECU",
@@ -113,7 +114,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAR*VOR/DME*111.61/18.00",
+		"updated": "LAR*VOR/DME*111.61/18.00"
 	},
 	{
 		"name": "ECEWE",
@@ -122,7 +123,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "06/08/2009",
+		"updated": "06/08/2009"
 	},
 	{
 		"name": "ECHOA",
@@ -131,7 +132,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*075.55/18.53",
+		"updated": "CHE*VOR/DME*075.55/18.53"
 	},
 	{
 		"name": "ECNOF",
@@ -140,7 +141,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ETL*VOR/DME*325.80/10.00",
+		"updated": "ETL*VOR/DME*325.80/10.00"
 	},
 	{
 		"name": "ECOFI",
@@ -149,7 +150,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "ECOPO",
@@ -158,7 +159,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "ECUDI",
@@ -167,7 +168,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/09/2015",
+		"updated": "11/09/2015"
 	},
 	{
 		"name": "ECUQO",
@@ -176,7 +177,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "06/08/2009",
+		"updated": "06/08/2009"
 	},
 	{
 		"name": "ECYUS",
@@ -185,7 +186,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LBF*VOR/DME*035.65/17.00",
+		"updated": "LBF*VOR/DME*035.65/17.00"
 	},
 	{
 		"name": "EDEVE",
@@ -194,7 +195,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/21/2015",
+		"updated": "09/21/2015"
 	},
 	{
 		"name": "EDICI",
@@ -203,7 +204,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SAE*VOR/DME*086.00/0.61",
+		"updated": "SAE*VOR/DME*086.00/0.61"
 	},
 	{
 		"name": "EDIDY",
@@ -212,7 +213,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/14/2009",
+		"updated": "04/14/2009"
 	},
 	{
 		"name": "EDIFY",
@@ -221,7 +222,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CKW*VOR/DME*070.12/32.00",
+		"updated": "CKW*VOR/DME*070.12/32.00"
 	},
 	{
 		"name": "EDLES",
@@ -230,7 +231,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HVE*VORTAC*051.12/39.00",
+		"updated": "HVE*VORTAC*051.12/39.00"
 	},
 	{
 		"name": "EDUKY",
@@ -239,7 +240,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "JNC*VOR/DME*059.97/33.08",
+		"updated": "JNC*VOR/DME*059.97/33.08"
 	},
 	{
 		"name": "EDUQA",
@@ -248,7 +249,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "EEONS",
@@ -257,7 +258,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DEN*VOR/DME*064.77/43.00",
+		"updated": "DEN*VOR/DME*064.77/43.00"
 	},
 	{
 		"name": "EEZEE",
@@ -266,7 +267,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/23/2012",
+		"updated": "09/23/2012"
 	},
 	{
 		"name": "EFFEE",
@@ -275,7 +276,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/19/2012",
+		"updated": "03/19/2012"
 	},
 	{
 		"name": "EFFEX",
@@ -284,7 +285,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ANW*VOR/DME*248.14",
+		"updated": "ANW*VOR/DME*248.14"
 	},
 	{
 		"name": "EFWOV",
@@ -293,7 +294,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/09/2015",
+		"updated": "02/09/2015"
 	},
 	{
 		"name": "EGBER",
@@ -302,7 +303,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*005.00",
+		"updated": "GLL*VOR/DME*005.00"
 	},
 	{
 		"name": "EGEYE",
@@ -311,7 +312,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/30/2010",
+		"updated": "05/30/2010"
 	},
 	{
 		"name": "EGFAX",
@@ -320,7 +321,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*113.79/10.00",
+		"updated": "CHE*VOR/DME*113.79/10.00"
 	},
 	{
 		"name": "EHFAD",
@@ -329,7 +330,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/04/2009",
+		"updated": "07/04/2009"
 	},
 	{
 		"name": "EHVER",
@@ -338,7 +339,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLD*VORTAC*273.24/22.88",
+		"updated": "GLD*VORTAC*273.24/22.88"
 	},
 	{
 		"name": "EKAME",
@@ -347,7 +348,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/03/2007",
+		"updated": "12/03/2007"
 	},
 	{
 		"name": "EKIRE",
@@ -356,7 +357,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/07/2003",
+		"updated": "10/07/2003"
 	},
 	{
 		"name": "EKIVE",
@@ -365,7 +366,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/28/2008",
+		"updated": "07/28/2008"
 	},
 	{
 		"name": "EKSUW",
@@ -374,7 +375,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*002.00/17.00",
+		"updated": "ALS*VORTAC*002.00/17.00"
 	},
 	{
 		"name": "EKULY",
@@ -383,7 +384,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*321.91/11.00",
+		"updated": "ALS*VORTAC*321.91/11.00"
 	},
 	{
 		"name": "ELBIE",
@@ -392,7 +393,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "BKF*TACAN*096.00/30.00",
+		"updated": "BKF*TACAN*096.00/30.00"
 	},
 	{
 		"name": "ELCEE",
@@ -401,7 +402,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "ELIJH",
@@ -410,7 +411,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/17/2014",
+		"updated": "11/17/2014"
 	},
 	{
 		"name": "ELJAY",
@@ -419,7 +420,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*060.00/157.69",
+		"updated": "GLL*VOR/DME*060.00/157.69"
 	},
 	{
 		"name": "ELKEE",
@@ -428,7 +429,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DVV*VORTAC*314.00/54.00",
+		"updated": "DVV*VORTAC*314.00/54.00"
 	},
 	{
 		"name": "ELLZA",
@@ -437,7 +438,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "ELORE",
@@ -446,7 +447,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*198.00",
+		"updated": "GLL*VOR/DME*198.00"
 	},
 	{
 		"name": "ELOSE",
@@ -455,7 +456,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/08/2015",
+		"updated": "07/08/2015"
 	},
 	{
 		"name": "ELRAP",
@@ -464,7 +465,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/23/2011",
+		"updated": "05/23/2011"
 	},
 	{
 		"name": "ELREY",
@@ -473,7 +474,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "ELWAY",
@@ -482,7 +483,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*145.00/66.57",
+		"updated": "DBL*VOR/DME*145.00/66.57"
 	},
 	{
 		"name": "ELYIJ",
@@ -491,7 +492,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/14/2010",
+		"updated": "06/14/2010"
 	},
 	{
 		"name": "EMMYS",
@@ -500,7 +501,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DEN*VOR/DME*076.00/43.00",
+		"updated": "DEN*VOR/DME*076.00/43.00"
 	},
 	{
 		"name": "EMOFE",
@@ -509,7 +510,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "06/21/2000",
+		"updated": "06/21/2000"
 	},
 	{
 		"name": "EMOTY",
@@ -518,7 +519,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/24/2008",
+		"updated": "07/24/2008"
 	},
 	{
 		"name": "ENIDE",
@@ -527,7 +528,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/05/2009",
+		"updated": "06/05/2009"
 	},
 	{
 		"name": "ENIWU",
@@ -536,7 +537,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "06/21/2000",
+		"updated": "06/21/2000"
 	},
 	{
 		"name": "ENOXE",
@@ -545,7 +546,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "06/21/2000",
+		"updated": "06/21/2000"
 	},
 	{
 		"name": "ENQIB",
@@ -554,7 +555,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "EOLUS",
@@ -563,7 +564,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "EPICC",
@@ -572,7 +573,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/19/2012",
+		"updated": "03/19/2012"
 	},
 	{
 		"name": "EPIKY",
@@ -581,7 +582,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/10/2017",
+		"updated": "08/10/2017"
 	},
 	{
 		"name": "EPKEE",
@@ -590,7 +591,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DEN*VOR/DME*100.00/42.00",
+		"updated": "DEN*VOR/DME*100.00/42.00"
 	},
 	{
 		"name": "EPOTE",
@@ -599,7 +600,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/16/2010",
+		"updated": "05/16/2010"
 	},
 	{
 		"name": "EPVOH",
@@ -608,7 +609,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "06/21/2000",
+		"updated": "06/21/2000"
 	},
 	{
 		"name": "ERAND",
@@ -617,7 +618,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "ERUYA",
@@ -626,7 +627,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "ERWOM",
@@ -635,7 +636,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/20/2012",
+		"updated": "11/20/2012"
 	},
 	{
 		"name": "ESIFE",
@@ -644,7 +645,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "ESIYO",
@@ -653,7 +654,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "ETHAL",
@@ -662,7 +663,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "FQF*VORTAC*042.68",
+		"updated": "FQF*VORTAC*042.68"
 	},
 	{
 		"name": "ETUCI",
@@ -671,7 +672,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GCC*VOR/DME*341.00/6.00",
+		"updated": "GCC*VOR/DME*341.00/6.00"
 	},
 	{
 		"name": "ETUYE",
@@ -680,7 +681,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "MCK*VOR/DME*113.85/2.69",
+		"updated": "MCK*VOR/DME*113.85/2.69"
 	},
 	{
 		"name": "EVANE",
@@ -689,7 +690,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "EVENN",
@@ -698,7 +699,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GRN*NDB*181.90",
+		"updated": "GRN*NDB*181.90"
 	},
 	{
 		"name": "EVENT",
@@ -707,7 +708,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DDY*VOR/DME*158.70/11.00",
+		"updated": "DDY*VOR/DME*158.70/11.00"
 	},
 	{
 		"name": "EWEBU",
@@ -716,7 +717,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "EWLEP",
@@ -725,7 +726,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "EXKES",
@@ -734,7 +735,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "EXTAN",
@@ -743,7 +744,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DEN*VOR/DME*087.38/42.00",
+		"updated": "DEN*VOR/DME*087.38/42.00"
 	},
 	{
 		"name": "EXUMY",
@@ -752,7 +753,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/17/2018",
+		"updated": "04/17/2018"
 	},
 	{
 		"name": "EXZAR",
@@ -761,7 +762,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/07/2009",
+		"updated": "07/07/2009"
 	},
 	{
 		"name": "EYUKA",
@@ -770,7 +771,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "01/28/2005",
+		"updated": "01/28/2005"
 	},
 	{
 		"name": "EYULE",
@@ -779,7 +780,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*139.30/17.00",
+		"updated": "PUB*VORTAC*139.30/17.00"
 	},
 	{
 		"name": "EYUVA",
@@ -788,7 +789,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "08/18/2008",
+		"updated": "08/18/2008"
 	},
 	{
 		"name": "EYUVU",
@@ -797,7 +798,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GUP*VORTAC*312.00/60.00",
+		"updated": "GUP*VORTAC*312.00/60.00"
 	},
 	{
 		"name": "EYVAG",
@@ -806,7 +807,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/21/2008",
+		"updated": "07/21/2008"
 	},
 	{
 		"name": "EZBEL",
@@ -815,7 +816,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/21/2012",
+		"updated": "09/21/2012"
 	},
 	{
 		"name": "EZIFU",
@@ -824,7 +825,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/20/2012",
+		"updated": "11/20/2012"
 	},
 	{
 		"name": "EZKUX",
@@ -833,5 +834,6 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SAE*VOR/DME*086.00/6.30",
-	},
+		"updated": "SAE*VOR/DME*086.00/6.30"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "XAFQU",
 		"latitude": "31-31-48.3 N",
@@ -5,7 +6,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/22/2007",
+		"updated": "06/22/2007"
 	},
 	{
 		"name": "XEPHO",
@@ -14,7 +15,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/28/2010",
+		"updated": "03/28/2010"
 	},
 	{
 		"name": "XOPXY",
@@ -23,7 +24,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/25/2016",
+		"updated": "05/25/2016"
 	},
 	{
 		"name": "XOVOY",
@@ -32,7 +33,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/02/2009",
+		"updated": "10/02/2009"
 	},
 	{
 		"name": "XUDDU",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "VUH*VOR/DME*323.06/0.61",
+		"updated": "VUH*VOR/DME*323.06/0.61"
 	},
 	{
 		"name": "XUJGY",
@@ -50,7 +51,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PCU*VOR/DME*129.20/5.23",
+		"updated": "PCU*VOR/DME*129.20/5.23"
 	},
 	{
 		"name": "XUWOX",
@@ -59,7 +60,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "CN",
-		"updated": "04/06/2012",
+		"updated": "04/06/2012"
 	},
 	{
 		"name": "XWING",
@@ -68,5 +69,6 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/15/2014",
-	},
+		"updated": "12/15/2014"
+	}
+]

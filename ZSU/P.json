@@ -1,3 +1,4 @@
+[
 	{
 		"name": "PAESO",
 		"latitude": "18-29-26.17 N",
@@ -5,7 +6,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*069.00/5.00",
+		"updated": "SJU*VORTAC*069.00/5.00"
 	},
 	{
 		"name": "PALCO",
@@ -14,7 +15,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*113.00/44.00",
+		"updated": "SJU*VORTAC*113.00/44.00"
 	},
 	{
 		"name": "PALDE",
@@ -23,7 +24,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "PALON",
@@ -32,7 +33,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "MR",
-		"updated": "NRR*TACAN*193.00/12.00",
+		"updated": "NRR*TACAN*193.00/12.00"
 	},
 	{
 		"name": "PANMO",
@@ -41,7 +42,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "04/08/2008",
+		"updated": "04/08/2008"
 	},
 	{
 		"name": "PAPPO",
@@ -50,7 +51,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "11/21/2008",
+		"updated": "11/21/2008"
 	},
 	{
 		"name": "PASIC",
@@ -59,7 +60,7 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "COY*VOR/DME*014.94",
+		"updated": "COY*VOR/DME*014.94"
 	},
 	{
 		"name": "PATTY",
@@ -68,7 +69,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*/6.12",
+		"updated": "SJU*VORTAC*/6.12"
 	},
 	{
 		"name": "PEBKY",
@@ -77,7 +78,7 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "03/06/2006",
+		"updated": "03/06/2006"
 	},
 	{
 		"name": "PEBLO",
@@ -86,7 +87,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "MAZ*VOR/DME*062.00",
+		"updated": "MAZ*VOR/DME*062.00"
 	},
 	{
 		"name": "PERRE",
@@ -95,7 +96,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "MW",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "PEVOE",
@@ -104,7 +105,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "04/26/2002",
+		"updated": "04/26/2002"
 	},
 	{
 		"name": "PICKI",
@@ -113,7 +114,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "MR",
-		"updated": "SJU*VORTAC*086.00/70.00",
+		"updated": "SJU*VORTAC*086.00/70.00"
 	},
 	{
 		"name": "PLAYR",
@@ -122,7 +123,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "MR",
-		"updated": "SJU*VORTAC*265.00/12.00",
+		"updated": "SJU*VORTAC*265.00/12.00"
 	},
 	{
 		"name": "PLENA",
@@ -131,7 +132,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "11/21/2008",
+		"updated": "11/21/2008"
 	},
 	{
 		"name": "PLENO",
@@ -140,7 +141,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "07/31/2010",
+		"updated": "07/31/2010"
 	},
 	{
 		"name": "PLING",
@@ -149,7 +150,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "BQN*VORTAC*021.11/91.03",
+		"updated": "BQN*VORTAC*021.11/91.03"
 	},
 	{
 		"name": "POKEG",
@@ -158,7 +159,7 @@
 		"state": "",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "PTA*VOR/DME*057.15/38.08",
+		"updated": "PTA*VOR/DME*057.15/38.08"
 	},
 	{
 		"name": "PORQE",
@@ -167,7 +168,7 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "PJM*VOR/DME*236.53/73.37",
+		"updated": "PJM*VOR/DME*236.53/73.37"
 	},
 	{
 		"name": "POVEE",
@@ -176,5 +177,6 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "06/06/2002",
-	},
+		"updated": "06/06/2002"
+	}
+]

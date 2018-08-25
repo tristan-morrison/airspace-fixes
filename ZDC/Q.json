@@ -1,3 +1,4 @@
+[
 	{
 		"name": "QBEES",
 		"latitude": "38-16-50.58 N",
@@ -5,7 +6,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/26/2001",
+		"updated": "10/26/2001"
 	},
 	{
 		"name": "QUILT",
@@ -14,7 +15,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HPW*VORTAC*003.49/7.00",
+		"updated": "HPW*VORTAC*003.49/7.00"
 	},
 	{
 		"name": "QWEST",
@@ -23,7 +24,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "DQO*VORTAC*025.93/8.07",
+		"updated": "DQO*VORTAC*025.93/8.07"
 	},
 	{
 		"name": "QWOTE",
@@ -32,5 +33,6 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "DQO*VORTAC*274.00/2.18",
-	},
+		"updated": "DQO*VORTAC*274.00/2.18"
+	}
+]

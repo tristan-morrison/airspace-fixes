@@ -1,3 +1,4 @@
+[
 	{
 		"name": "YAMMA",
 		"latitude": "15-2-9.19 N",
@@ -5,7 +6,7 @@
 		"state": "GUAM",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "SN*NDB*245.79",
+		"updated": "SN*NDB*245.79"
 	},
 	{
 		"name": "YELLO",
@@ -14,7 +15,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "01/04/1993",
+		"updated": "01/04/1993"
 	},
 	{
 		"name": "YEPGU",
@@ -23,7 +24,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "IUM*LD*222.01/15.93",
+		"updated": "IUM*LD*222.01/15.93"
 	},
 	{
 		"name": "YUCUV",
@@ -32,7 +33,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "KOA*VORTAC*191.00/5.00",
+		"updated": "KOA*VORTAC*191.00/5.00"
 	},
 	{
 		"name": "YUDYU",
@@ -41,7 +42,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "HNL*VORTAC*253.95/8.40",
+		"updated": "HNL*VORTAC*253.95/8.40"
 	},
 	{
 		"name": "YUNUB",
@@ -50,5 +51,6 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "01/27/2011",
-	},
+		"updated": "01/27/2011"
+	}
+]

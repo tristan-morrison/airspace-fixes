@@ -1,3 +1,4 @@
+[
 	{
 		"name": "HAAMP",
 		"latitude": "42-38-13.86 N",
@@ -5,7 +6,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MCW*VOR/DME*162.54/28.00",
+		"updated": "MCW*VOR/DME*162.54/28.00"
 	},
 	{
 		"name": "HABAK",
@@ -14,7 +15,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/22/2006",
+		"updated": "03/22/2006"
 	},
 	{
 		"name": "HABSA",
@@ -23,7 +24,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/03/2012",
+		"updated": "01/03/2012"
 	},
 	{
 		"name": "HABTI",
@@ -32,7 +33,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ESC*LD*093.90/11.70",
+		"updated": "ESC*LD*093.90/11.70"
 	},
 	{
 		"name": "HADEP",
@@ -41,7 +42,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/17/2008",
+		"updated": "01/17/2008"
 	},
 	{
 		"name": "HADOL",
@@ -50,7 +51,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/22/2012",
+		"updated": "02/22/2012"
 	},
 	{
 		"name": "HADUR",
@@ -59,7 +60,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/03/2008",
+		"updated": "07/03/2008"
 	},
 	{
 		"name": "HAGBU",
@@ -68,7 +69,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/05/2007",
+		"updated": "10/05/2007"
 	},
 	{
 		"name": "HAGIS",
@@ -77,7 +78,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/16/2018",
+		"updated": "02/16/2018"
 	},
 	{
 		"name": "HAGTI",
@@ -86,7 +87,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/31/2012",
+		"updated": "12/31/2012"
 	},
 	{
 		"name": "HAIRY",
@@ -95,7 +96,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/06/2012",
+		"updated": "09/06/2012"
 	},
 	{
 		"name": "HAJIS",
@@ -104,7 +105,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/28/2015",
+		"updated": "04/28/2015"
 	},
 	{
 		"name": "HAKDU",
@@ -113,7 +114,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/06/2010",
+		"updated": "01/06/2010"
 	},
 	{
 		"name": "HAKEN",
@@ -122,7 +123,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "RDR*TACAN*359.00/17.00",
+		"updated": "RDR*TACAN*359.00/17.00"
 	},
 	{
 		"name": "HAKIT",
@@ -131,7 +132,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "MIB*TACAN*115.00/6.93",
+		"updated": "MIB*TACAN*115.00/6.93"
 	},
 	{
 		"name": "HAKMO",
@@ -140,7 +141,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/22/2014",
+		"updated": "01/22/2014"
 	},
 	{
 		"name": "HAKRE",
@@ -149,7 +150,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ABR*VOR/DME*305.23/16.00",
+		"updated": "ABR*VOR/DME*305.23/16.00"
 	},
 	{
 		"name": "HALEB",
@@ -158,7 +159,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/06/2016",
+		"updated": "06/06/2016"
 	},
 	{
 		"name": "HALGI",
@@ -167,7 +168,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/28/2013",
+		"updated": "03/28/2013"
 	},
 	{
 		"name": "HALKI",
@@ -176,7 +177,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "HALNA",
@@ -185,7 +186,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/04/2007",
+		"updated": "12/04/2007"
 	},
 	{
 		"name": "HALUV",
@@ -194,7 +195,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/21/2003",
+		"updated": "08/21/2003"
 	},
 	{
 		"name": "HAMIP",
@@ -203,7 +204,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/13/2013",
+		"updated": "08/13/2013"
 	},
 	{
 		"name": "HAMML",
@@ -212,7 +213,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PJL*LD*301.33/10.91",
+		"updated": "PJL*LD*301.33/10.91"
 	},
 	{
 		"name": "HAMRE",
@@ -221,7 +222,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FFM*VOR/DME*130.28/5.87",
+		"updated": "FFM*VOR/DME*130.28/5.87"
 	},
 	{
 		"name": "HAMRO",
@@ -230,7 +231,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/25/2009",
+		"updated": "08/25/2009"
 	},
 	{
 		"name": "HAMUL",
@@ -239,7 +240,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/23/2011",
+		"updated": "05/23/2011"
 	},
 	{
 		"name": "HANDS",
@@ -248,7 +249,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/21/2009",
+		"updated": "01/21/2009"
 	},
 	{
 		"name": "HANEB",
@@ -257,7 +258,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/25/2007",
+		"updated": "04/25/2007"
 	},
 	{
 		"name": "HANRA",
@@ -266,7 +267,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/26/2015",
+		"updated": "03/26/2015"
 	},
 	{
 		"name": "HAPEV",
@@ -275,7 +276,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/09/2009",
+		"updated": "09/09/2009"
 	},
 	{
 		"name": "HAPKO",
@@ -284,7 +285,7 @@
 		"state": "",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/11/2008",
+		"updated": "02/11/2008"
 	},
 	{
 		"name": "HAPMU",
@@ -293,7 +294,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/13/2015",
+		"updated": "07/13/2015"
 	},
 	{
 		"name": "HAPTN",
@@ -302,7 +303,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/25/2016",
+		"updated": "11/25/2016"
 	},
 	{
 		"name": "HARDS",
@@ -311,7 +312,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SUX*VORTAC*277.01",
+		"updated": "SUX*VORTAC*277.01"
 	},
 	{
 		"name": "HARPI",
@@ -320,7 +321,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*198.32/55.85",
+		"updated": "GEP*VORTAC*198.32/55.85"
 	},
 	{
 		"name": "HARPY",
@@ -329,7 +330,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MOP*VOR/DME*073.71",
+		"updated": "MOP*VOR/DME*073.71"
 	},
 	{
 		"name": "HARUV",
@@ -338,7 +339,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/13/2011",
+		"updated": "06/13/2011"
 	},
 	{
 		"name": "HARVI",
@@ -347,7 +348,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "TVF*VOR/DME*/5.25",
+		"updated": "TVF*VOR/DME*/5.25"
 	},
 	{
 		"name": "HARZO",
@@ -356,7 +357,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PIR*VORTAC*076.00/10.00",
+		"updated": "PIR*VORTAC*076.00/10.00"
 	},
 	{
 		"name": "HASAS",
@@ -365,7 +366,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SUX*VORTAC*/19.00",
+		"updated": "SUX*VORTAC*/19.00"
 	},
 	{
 		"name": "HASIG",
@@ -374,7 +375,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/28/2013",
+		"updated": "02/28/2013"
 	},
 	{
 		"name": "HASLI",
@@ -383,7 +384,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "HASNI",
@@ -392,7 +393,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/27/2009",
+		"updated": "10/27/2009"
 	},
 	{
 		"name": "HASTI",
@@ -401,7 +402,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MSP*LD*121.36/19.43",
+		"updated": "MSP*LD*121.36/19.43"
 	},
 	{
 		"name": "HATAB",
@@ -410,7 +411,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/29/2011",
+		"updated": "03/29/2011"
 	},
 	{
 		"name": "HATEL",
@@ -419,7 +420,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/26/2007",
+		"updated": "06/26/2007"
 	},
 	{
 		"name": "HATHR",
@@ -428,7 +429,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "HATKA",
@@ -437,7 +438,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PIR*VORTAC*039.63/14.00",
+		"updated": "PIR*VORTAC*039.63/14.00"
 	},
 	{
 		"name": "HATTR",
@@ -446,7 +447,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/01/2006",
+		"updated": "06/01/2006"
 	},
 	{
 		"name": "HAUTE",
@@ -455,7 +456,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/22/2016",
+		"updated": "11/22/2016"
 	},
 	{
 		"name": "HAVBU",
@@ -464,7 +465,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "MIB*TACAN*111.00/5.00",
+		"updated": "MIB*TACAN*111.00/5.00"
 	},
 	{
 		"name": "HAVDI",
@@ -473,7 +474,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/19/2009",
+		"updated": "06/19/2009"
 	},
 	{
 		"name": "HAVEL",
@@ -482,7 +483,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MNM*VOR/DME*333.00",
+		"updated": "MNM*VOR/DME*333.00"
 	},
 	{
 		"name": "HAVIR",
@@ -491,7 +492,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/04/2010",
+		"updated": "02/04/2010"
 	},
 	{
 		"name": "HAXAN",
@@ -500,7 +501,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/11/2012",
+		"updated": "07/11/2012"
 	},
 	{
 		"name": "HAXAT",
@@ -509,7 +510,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/18/2009",
+		"updated": "12/18/2009"
 	},
 	{
 		"name": "HAXIP",
@@ -518,7 +519,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/24/2009",
+		"updated": "12/24/2009"
 	},
 	{
 		"name": "HAXUL",
@@ -527,7 +528,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/21/2009",
+		"updated": "01/21/2009"
 	},
 	{
 		"name": "HAYNI",
@@ -536,7 +537,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DIK*VORTAC*169.42/43.11",
+		"updated": "DIK*VORTAC*169.42/43.11"
 	},
 	{
 		"name": "HAYNS",
@@ -545,7 +546,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FSD*VORTAC*092.24/65.00",
+		"updated": "FSD*VORTAC*092.24/65.00"
 	},
 	{
 		"name": "HAYOR",
@@ -554,7 +555,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MCW*VOR/DME*277.61/20.00",
+		"updated": "MCW*VOR/DME*277.61/20.00"
 	},
 	{
 		"name": "HCKEY",
@@ -563,7 +564,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "HDEEE",
@@ -572,7 +573,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/13/2015",
+		"updated": "01/13/2015"
 	},
 	{
 		"name": "HEARN",
@@ -581,7 +582,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "EAR*VOR*085.55",
+		"updated": "EAR*VOR*085.55"
 	},
 	{
 		"name": "HEBAK",
@@ -590,7 +591,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/23/2007",
+		"updated": "04/23/2007"
 	},
 	{
 		"name": "HEBAM",
@@ -599,7 +600,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "MIB*TACAN*109.00/6.80",
+		"updated": "MIB*TACAN*109.00/6.80"
 	},
 	{
 		"name": "HEBAS",
@@ -608,7 +609,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/06/2004",
+		"updated": "05/06/2004"
 	},
 	{
 		"name": "HEBON",
@@ -617,7 +618,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/10/2002",
+		"updated": "06/10/2002"
 	},
 	{
 		"name": "HEBOV",
@@ -626,7 +627,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GRI*VOR/DME*132.83/3.20",
+		"updated": "GRI*VOR/DME*132.83/3.20"
 	},
 	{
 		"name": "HEDBA",
@@ -635,7 +636,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/19/2013",
+		"updated": "02/19/2013"
 	},
 	{
 		"name": "HEDGO",
@@ -644,7 +645,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "HEDIG",
@@ -653,7 +654,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/12/2013",
+		"updated": "06/12/2013"
 	},
 	{
 		"name": "HEDLO",
@@ -662,7 +663,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/10/2003",
+		"updated": "07/10/2003"
 	},
 	{
 		"name": "HEDNI",
@@ -671,7 +672,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "MIB*TACAN*296.00/3.00",
+		"updated": "MIB*TACAN*296.00/3.00"
 	},
 	{
 		"name": "HEDNU",
@@ -680,7 +681,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/04/2011",
+		"updated": "10/04/2011"
 	},
 	{
 		"name": "HEDVU",
@@ -689,7 +690,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/30/2016",
+		"updated": "09/30/2016"
 	},
 	{
 		"name": "HEGAM",
@@ -698,7 +699,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/13/2012",
+		"updated": "01/13/2012"
 	},
 	{
 		"name": "HEGBO",
@@ -707,7 +708,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/04/2010",
+		"updated": "04/04/2010"
 	},
 	{
 		"name": "HEGLU",
@@ -716,7 +717,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "HEHFY",
@@ -725,7 +726,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/11/2013",
+		"updated": "04/11/2013"
 	},
 	{
 		"name": "HEKEB",
@@ -734,7 +735,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "HEKOR",
@@ -743,7 +744,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "HEKSI",
@@ -752,7 +753,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/05/2008",
+		"updated": "03/05/2008"
 	},
 	{
 		"name": "HEKTA",
@@ -761,7 +762,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MOT*VORTAC*124.74/13.00",
+		"updated": "MOT*VORTAC*124.74/13.00"
 	},
 	{
 		"name": "HELCT",
@@ -770,7 +771,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "OVR*VORTAC*160.00/11.40",
+		"updated": "OVR*VORTAC*160.00/11.40"
 	},
 	{
 		"name": "HELEK",
@@ -779,7 +780,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/16/2009",
+		"updated": "06/16/2009"
 	},
 	{
 		"name": "HELLO",
@@ -788,7 +789,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "HEMED",
@@ -797,7 +798,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/28/2009",
+		"updated": "09/28/2009"
 	},
 	{
 		"name": "HEMES",
@@ -806,7 +807,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "HEMIX",
@@ -815,7 +816,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "HEMKO",
@@ -824,7 +825,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/30/2012",
+		"updated": "01/30/2012"
 	},
 	{
 		"name": "HENBA",
@@ -833,7 +834,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/07/2009",
+		"updated": "07/07/2009"
 	},
 	{
 		"name": "HENDR",
@@ -842,7 +843,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/20/2016",
+		"updated": "11/20/2016"
 	},
 	{
 		"name": "HENPA",
@@ -851,7 +852,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "CWA*LD*257.37/6.74",
+		"updated": "CWA*LD*257.37/6.74"
 	},
 	{
 		"name": "HENSO",
@@ -860,7 +861,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/07/2017",
+		"updated": "11/07/2017"
 	},
 	{
 		"name": "HENUG",
@@ -869,7 +870,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/02/2010",
+		"updated": "04/02/2010"
 	},
 	{
 		"name": "HENUP",
@@ -878,7 +879,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/24/2008",
+		"updated": "03/24/2008"
 	},
 	{
 		"name": "HENVU",
@@ -887,7 +888,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/06/2008",
+		"updated": "03/06/2008"
 	},
 	{
 		"name": "HEPED",
@@ -896,7 +897,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/21/2013",
+		"updated": "03/21/2013"
 	},
 	{
 		"name": "HEPIL",
@@ -905,7 +906,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/20/2010",
+		"updated": "05/20/2010"
 	},
 	{
 		"name": "HEPIN",
@@ -914,7 +915,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/21/2013",
+		"updated": "08/21/2013"
 	},
 	{
 		"name": "HEPIV",
@@ -923,7 +924,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/09/2006",
+		"updated": "11/09/2006"
 	},
 	{
 		"name": "HEPON",
@@ -932,7 +933,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/08/2010",
+		"updated": "04/08/2010"
 	},
 	{
 		"name": "HERBO",
@@ -941,7 +942,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/15/2012",
+		"updated": "11/15/2012"
 	},
 	{
 		"name": "HERKY",
@@ -950,7 +951,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/13/2017",
+		"updated": "12/13/2017"
 	},
 	{
 		"name": "HERMI",
@@ -959,7 +960,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "EAU*VORTAC*281.00/28.00",
+		"updated": "EAU*VORTAC*281.00/28.00"
 	},
 	{
 		"name": "HERMY",
@@ -968,7 +969,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/11/2017",
+		"updated": "09/11/2017"
 	},
 	{
 		"name": "HERRB",
@@ -977,7 +978,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "EAU*VORTAC*318.11",
+		"updated": "EAU*VORTAC*318.11"
 	},
 	{
 		"name": "HESER",
@@ -986,7 +987,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/08/2013",
+		"updated": "01/08/2013"
 	},
 	{
 		"name": "HETAN",
@@ -995,7 +996,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/22/2003",
+		"updated": "01/22/2003"
 	},
 	{
 		"name": "HETBO",
@@ -1004,7 +1005,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FSD*VORTAC*195.44/20.00",
+		"updated": "FSD*VORTAC*195.44/20.00"
 	},
 	{
 		"name": "HETOG",
@@ -1013,7 +1014,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/05/2010",
+		"updated": "06/05/2010"
 	},
 	{
 		"name": "HETON",
@@ -1022,7 +1023,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/29/2017",
+		"updated": "09/29/2017"
 	},
 	{
 		"name": "HEVBA",
@@ -1031,7 +1032,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/14/2013",
+		"updated": "03/14/2013"
 	},
 	{
 		"name": "HEVDI",
@@ -1040,7 +1041,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "HEXAM",
@@ -1049,7 +1050,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2010",
+		"updated": "05/30/2010"
 	},
 	{
 		"name": "HEXFE",
@@ -1058,7 +1059,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/30/2011",
+		"updated": "12/30/2011"
 	},
 	{
 		"name": "HHAMR",
@@ -1067,7 +1068,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/13/2015",
+		"updated": "01/13/2015"
 	},
 	{
 		"name": "HHOGS",
@@ -1076,7 +1077,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/20/2016",
+		"updated": "11/20/2016"
 	},
 	{
 		"name": "HIBAV",
@@ -1085,7 +1086,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/03/2011",
+		"updated": "05/03/2011"
 	},
 	{
 		"name": "HIBDA",
@@ -1094,7 +1095,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/20/2011",
+		"updated": "06/20/2011"
 	},
 	{
 		"name": "HIBEP",
@@ -1103,7 +1104,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/17/2011",
+		"updated": "10/17/2011"
 	},
 	{
 		"name": "HIBIR",
@@ -1112,7 +1113,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "HIBLO",
@@ -1121,7 +1122,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RST*VOR/DME*243.53",
+		"updated": "RST*VOR/DME*243.53"
 	},
 	{
 		"name": "HIBOG",
@@ -1130,7 +1131,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/19/2009",
+		"updated": "08/19/2009"
 	},
 	{
 		"name": "HIBUM",
@@ -1139,7 +1140,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/13/2012",
+		"updated": "03/13/2012"
 	},
 	{
 		"name": "HIBUR",
@@ -1148,7 +1149,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/13/2012",
+		"updated": "03/13/2012"
 	},
 	{
 		"name": "HIBVO",
@@ -1157,7 +1158,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/02/2009",
+		"updated": "10/02/2009"
 	},
 	{
 		"name": "HIDED",
@@ -1166,7 +1167,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/25/2005",
+		"updated": "02/25/2005"
 	},
 	{
 		"name": "HIDEL",
@@ -1175,7 +1176,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MOT*VORTAC*151.07/14.43",
+		"updated": "MOT*VORTAC*151.07/14.43"
 	},
 	{
 		"name": "HIDEV",
@@ -1184,7 +1185,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/23/2007",
+		"updated": "01/23/2007"
 	},
 	{
 		"name": "HIDGA",
@@ -1193,7 +1194,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/18/2010",
+		"updated": "06/18/2010"
 	},
 	{
 		"name": "HIDGO",
@@ -1202,7 +1203,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/21/2011",
+		"updated": "12/21/2011"
 	},
 	{
 		"name": "HIDIP",
@@ -1211,7 +1212,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/13/2017",
+		"updated": "04/13/2017"
 	},
 	{
 		"name": "HIDSA",
@@ -1220,7 +1221,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/09/2014",
+		"updated": "04/09/2014"
 	},
 	{
 		"name": "HIDUD",
@@ -1229,7 +1230,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "HIDVI",
@@ -1238,7 +1239,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/07/2013",
+		"updated": "01/07/2013"
 	},
 	{
 		"name": "HIGHA",
@@ -1247,7 +1248,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/23/2015",
+		"updated": "03/23/2015"
 	},
 	{
 		"name": "HIGMU",
@@ -1256,7 +1257,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/13/2011",
+		"updated": "04/13/2011"
 	},
 	{
 		"name": "HIGRA",
@@ -1265,7 +1266,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/28/2008",
+		"updated": "07/28/2008"
 	},
 	{
 		"name": "HIGVA",
@@ -1274,7 +1275,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/17/2017",
+		"updated": "02/17/2017"
 	},
 	{
 		"name": "HIKAM",
@@ -1283,7 +1284,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "HIKAS",
@@ -1292,7 +1293,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/27/2008",
+		"updated": "02/27/2008"
 	},
 	{
 		"name": "HIKEP",
@@ -1301,7 +1302,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/26/2011",
+		"updated": "05/26/2011"
 	},
 	{
 		"name": "HIKEV",
@@ -1310,7 +1311,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/11/2014",
+		"updated": "03/11/2014"
 	},
 	{
 		"name": "HILDE",
@@ -1319,7 +1320,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*161.59/55.68",
+		"updated": "OVR*VORTAC*161.59/55.68"
 	},
 	{
 		"name": "HILGO",
@@ -1328,7 +1329,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BDE*VOR/DME*/4.97",
+		"updated": "BDE*VOR/DME*/4.97"
 	},
 	{
 		"name": "HILOD",
@@ -1337,7 +1338,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BDE*VOR/DME*275.00",
+		"updated": "BDE*VOR/DME*275.00"
 	},
 	{
 		"name": "HILOT",
@@ -1346,7 +1347,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/06/2007",
+		"updated": "08/06/2007"
 	},
 	{
 		"name": "HILPO",
@@ -1355,7 +1356,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "EAU*LD*043.98/7.47",
+		"updated": "EAU*LD*043.98/7.47"
 	},
 	{
 		"name": "HILSS",
@@ -1364,7 +1365,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "HILVA",
@@ -1373,7 +1374,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/09/2009",
+		"updated": "03/09/2009"
 	},
 	{
 		"name": "HILZZ",
@@ -1382,7 +1383,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FCM*VOR/DME*042.35",
+		"updated": "FCM*VOR/DME*042.35"
 	},
 	{
 		"name": "HIMBO",
@@ -1391,7 +1392,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/12/2008",
+		"updated": "11/12/2008"
 	},
 	{
 		"name": "HIMPI",
@@ -1400,7 +1401,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/23/2005",
+		"updated": "08/23/2005"
 	},
 	{
 		"name": "HIMSU",
@@ -1409,7 +1410,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FOD*VORTAC*150.00/14.00",
+		"updated": "FOD*VORTAC*150.00/14.00"
 	},
 	{
 		"name": "HIMVO",
@@ -1418,7 +1419,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "HINEK",
@@ -1427,7 +1428,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/17/2012",
+		"updated": "12/17/2012"
 	},
 	{
 		"name": "HINEX",
@@ -1436,7 +1437,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/04/2013",
+		"updated": "11/04/2013"
 	},
 	{
 		"name": "HINGO",
@@ -1445,7 +1446,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/11/2013",
+		"updated": "07/11/2013"
 	},
 	{
 		"name": "HINIS",
@@ -1454,7 +1455,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/12/2012",
+		"updated": "03/12/2012"
 	},
 	{
 		"name": "HINLO",
@@ -1463,7 +1464,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/24/2013",
+		"updated": "05/24/2013"
 	},
 	{
 		"name": "HINUP",
@@ -1472,7 +1473,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/19/2007",
+		"updated": "11/19/2007"
 	},
 	{
 		"name": "HINZZ",
@@ -1481,7 +1482,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FGT*VORTAC*037.56",
+		"updated": "FGT*VORTAC*037.56"
 	},
 	{
 		"name": "HIPAT",
@@ -1490,7 +1491,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/14/2010",
+		"updated": "05/14/2010"
 	},
 	{
 		"name": "HIPAV",
@@ -1499,7 +1500,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/03/2009",
+		"updated": "03/03/2009"
 	},
 	{
 		"name": "HIPAX",
@@ -1508,7 +1509,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/05/2008",
+		"updated": "03/05/2008"
 	},
 	{
 		"name": "HIPNU",
@@ -1517,7 +1518,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIS*VOR/DME*262.65/16.00",
+		"updated": "BIS*VOR/DME*262.65/16.00"
 	},
 	{
 		"name": "HIPOV",
@@ -1526,7 +1527,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/07/2010",
+		"updated": "04/07/2010"
 	},
 	{
 		"name": "HIRDA",
@@ -1535,7 +1536,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "HIREK",
@@ -1544,7 +1545,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "HIREL",
@@ -1553,7 +1554,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/16/2015",
+		"updated": "03/16/2015"
 	},
 	{
 		"name": "HIROR",
@@ -1562,7 +1563,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/21/2014",
+		"updated": "04/21/2014"
 	},
 	{
 		"name": "HIRUN",
@@ -1571,7 +1572,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "HISAV",
@@ -1580,7 +1581,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/13/2012",
+		"updated": "06/13/2012"
 	},
 	{
 		"name": "HISER",
@@ -1589,7 +1590,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GFK*LD*S CRS/6.94",
+		"updated": "GFK*LD*S CRS/6.94"
 	},
 	{
 		"name": "HISLU",
@@ -1598,7 +1599,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/15/2012",
+		"updated": "11/15/2012"
 	},
 	{
 		"name": "HISMA",
@@ -1607,7 +1608,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/31/2007",
+		"updated": "12/31/2007"
 	},
 	{
 		"name": "HISOV",
@@ -1616,7 +1617,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/17/2013",
+		"updated": "12/17/2013"
 	},
 	{
 		"name": "HISUM",
@@ -1625,7 +1626,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/15/2004",
+		"updated": "11/15/2004"
 	},
 	{
 		"name": "HISUN",
@@ -1634,7 +1635,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "HISUV",
@@ -1643,7 +1644,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/01/2011",
+		"updated": "04/01/2011"
 	},
 	{
 		"name": "HITAL",
@@ -1652,7 +1653,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SSM*VOR/DME*267.26/17.09",
+		"updated": "SSM*VOR/DME*267.26/17.09"
 	},
 	{
 		"name": "HITAM",
@@ -1661,7 +1662,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SSM*VOR/DME*161.97/16.05",
+		"updated": "SSM*VOR/DME*161.97/16.05"
 	},
 	{
 		"name": "HITKO",
@@ -1670,7 +1671,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/02/2009",
+		"updated": "10/02/2009"
 	},
 	{
 		"name": "HITTL",
@@ -1679,7 +1680,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "HITUR",
@@ -1688,7 +1689,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FRM*VOR/DME*221.00/12.00",
+		"updated": "FRM*VOR/DME*221.00/12.00"
 	},
 	{
 		"name": "HIVAT",
@@ -1697,7 +1698,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FCM*VOR/DME*279.94/2.90",
+		"updated": "FCM*VOR/DME*279.94/2.90"
 	},
 	{
 		"name": "HIVEN",
@@ -1706,7 +1707,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/28/2009",
+		"updated": "12/28/2009"
 	},
 	{
 		"name": "HIVIX",
@@ -1715,7 +1716,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/02/2009",
+		"updated": "10/02/2009"
 	},
 	{
 		"name": "HIVMU",
@@ -1724,7 +1725,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/14/2009",
+		"updated": "10/14/2009"
 	},
 	{
 		"name": "HIVNO",
@@ -1733,7 +1734,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "YKN*VOR/DME*238.44/7.55",
+		"updated": "YKN*VOR/DME*238.44/7.55"
 	},
 	{
 		"name": "HIVOG",
@@ -1742,7 +1743,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/23/2007",
+		"updated": "01/23/2007"
 	},
 	{
 		"name": "HIVUV",
@@ -1751,7 +1752,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "HIWRE",
@@ -1760,7 +1761,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "HIXIB",
@@ -1769,7 +1770,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "HLDOL",
@@ -1778,7 +1779,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "03/22/2002",
+		"updated": "03/22/2002"
 	},
 	{
 		"name": "HMBRG",
@@ -1787,7 +1788,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/13/2015",
+		"updated": "01/13/2015"
 	},
 	{
 		"name": "HMENZ",
@@ -1796,7 +1797,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "HOBEG",
@@ -1805,7 +1806,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/27/2012",
+		"updated": "02/27/2012"
 	},
 	{
 		"name": "HOBIT",
@@ -1814,7 +1815,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "HOBUG",
@@ -1823,7 +1824,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/08/2017",
+		"updated": "06/08/2017"
 	},
 	{
 		"name": "HOCEY",
@@ -1832,7 +1833,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/04/2008",
+		"updated": "12/04/2008"
 	},
 	{
 		"name": "HODER",
@@ -1841,7 +1842,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/10/2014",
+		"updated": "09/10/2014"
 	},
 	{
 		"name": "HODEV",
@@ -1850,7 +1851,7 @@
 		"state": "",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "INL*VOR/DME*310.30/14.00",
+		"updated": "INL*VOR/DME*310.30/14.00"
 	},
 	{
 		"name": "HODIN",
@@ -1859,7 +1860,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "CBF*LD*176.53/2.77",
+		"updated": "CBF*LD*176.53/2.77"
 	},
 	{
 		"name": "HODNO",
@@ -1868,7 +1869,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/31/2010",
+		"updated": "03/31/2010"
 	},
 	{
 		"name": "HODUL",
@@ -1877,7 +1878,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/21/2009",
+		"updated": "01/21/2009"
 	},
 	{
 		"name": "HODUP",
@@ -1886,7 +1887,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/25/2005",
+		"updated": "02/25/2005"
 	},
 	{
 		"name": "HOFFA",
@@ -1895,7 +1896,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DWN*VORTAC*160.00/19.40",
+		"updated": "DWN*VORTAC*160.00/19.40"
 	},
 	{
 		"name": "HOFFN",
@@ -1904,7 +1905,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/24/2013",
+		"updated": "05/24/2013"
 	},
 	{
 		"name": "HOGDO",
@@ -1913,7 +1914,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/04/2010",
+		"updated": "09/04/2010"
 	},
 	{
 		"name": "HOGEB",
@@ -1922,7 +1923,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "HOGER",
@@ -1931,7 +1932,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "RDR*TACAN*/5.77",
+		"updated": "RDR*TACAN*/5.77"
 	},
 	{
 		"name": "HOGEX",
@@ -1940,7 +1941,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/19/2006",
+		"updated": "01/19/2006"
 	},
 	{
 		"name": "HOGOD",
@@ -1949,7 +1950,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/05/2015",
+		"updated": "01/05/2015"
 	},
 	{
 		"name": "HOGUT",
@@ -1958,7 +1959,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/14/2008",
+		"updated": "03/14/2008"
 	},
 	{
 		"name": "HOHNI",
@@ -1967,7 +1968,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/13/2010",
+		"updated": "08/13/2010"
 	},
 	{
 		"name": "HOKLU",
@@ -1976,7 +1977,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/06/2012",
+		"updated": "11/06/2012"
 	},
 	{
 		"name": "HOKMO",
@@ -1985,7 +1986,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/28/2005",
+		"updated": "11/28/2005"
 	},
 	{
 		"name": "HOLEG",
@@ -1994,7 +1995,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/13/2010",
+		"updated": "07/13/2010"
 	},
 	{
 		"name": "HOLGA",
@@ -2003,7 +2004,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "HOLIV",
@@ -2012,7 +2013,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/14/2008",
+		"updated": "02/14/2008"
 	},
 	{
 		"name": "HOLKI",
@@ -2021,7 +2022,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/16/2008",
+		"updated": "10/16/2008"
 	},
 	{
 		"name": "HOLKS",
@@ -2030,7 +2031,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "JMS*VOR/DME*259.57/12.00",
+		"updated": "JMS*VOR/DME*259.57/12.00"
 	},
 	{
 		"name": "HOLUL",
@@ -2039,7 +2040,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "HOMGA",
@@ -2048,7 +2049,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/13/2010",
+		"updated": "08/13/2010"
 	},
 	{
 		"name": "HOMKI",
@@ -2057,7 +2058,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/01/2011",
+		"updated": "06/01/2011"
 	},
 	{
 		"name": "HOMLO",
@@ -2066,7 +2067,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "EAU*VORTAC*357.14/40.87",
+		"updated": "EAU*VORTAC*357.14/40.87"
 	},
 	{
 		"name": "HOMLU",
@@ -2075,7 +2076,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/25/2013",
+		"updated": "06/25/2013"
 	},
 	{
 		"name": "HOMSU",
@@ -2084,7 +2085,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "APN*VORTAC*/2.78",
+		"updated": "APN*VORTAC*/2.78"
 	},
 	{
 		"name": "HOMUR",
@@ -2093,7 +2094,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*293.00/34.00",
+		"updated": "GEP*VORTAC*293.00/34.00"
 	},
 	{
 		"name": "HOMUV",
@@ -2102,7 +2103,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/29/2006",
+		"updated": "09/29/2006"
 	},
 	{
 		"name": "HOMVO",
@@ -2111,7 +2112,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/15/2004",
+		"updated": "11/15/2004"
 	},
 	{
 		"name": "HONET",
@@ -2120,7 +2121,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FAR*VOR/DME*269.81/10.00",
+		"updated": "FAR*VOR/DME*269.81/10.00"
 	},
 	{
 		"name": "HONNE",
@@ -2129,7 +2130,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "RDR*TACAN*172.99/12.00",
+		"updated": "RDR*TACAN*172.99/12.00"
 	},
 	{
 		"name": "HONVA",
@@ -2138,7 +2139,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/29/2005",
+		"updated": "06/29/2005"
 	},
 	{
 		"name": "HOOKE",
@@ -2147,7 +2148,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/01/2010",
+		"updated": "06/01/2010"
 	},
 	{
 		"name": "HOPIK",
@@ -2156,7 +2157,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/30/2011",
+		"updated": "01/30/2011"
 	},
 	{
 		"name": "HOPKA",
@@ -2165,7 +2166,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/26/2012",
+		"updated": "03/26/2012"
 	},
 	{
 		"name": "HOPWO",
@@ -2174,7 +2175,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/24/2013",
+		"updated": "05/24/2013"
 	},
 	{
 		"name": "HORDU",
@@ -2183,7 +2184,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "HORMA",
@@ -2192,7 +2193,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/11/2012",
+		"updated": "07/11/2012"
 	},
 	{
 		"name": "HORPU",
@@ -2201,7 +2202,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "HORSS",
@@ -2210,7 +2211,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "HORTN",
@@ -2219,7 +2220,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/29/2012",
+		"updated": "11/29/2012"
 	},
 	{
 		"name": "HOSGU",
@@ -2228,7 +2229,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/16/2010",
+		"updated": "11/16/2010"
 	},
 	{
 		"name": "HOSKA",
@@ -2237,7 +2238,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/18/2002",
+		"updated": "01/18/2002"
 	},
 	{
 		"name": "HOSTR",
@@ -2246,7 +2247,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "HOSUT",
@@ -2255,7 +2256,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/21/2013",
+		"updated": "03/21/2013"
 	},
 	{
 		"name": "HOTIB",
@@ -2264,7 +2265,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/16/2015",
+		"updated": "03/16/2015"
 	},
 	{
 		"name": "HOTOD",
@@ -2273,7 +2274,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "06/15/2010",
+		"updated": "06/15/2010"
 	},
 	{
 		"name": "HOTOG",
@@ -2282,7 +2283,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/29/2015",
+		"updated": "06/29/2015"
 	},
 	{
 		"name": "HOTOS",
@@ -2291,7 +2292,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/10/2013",
+		"updated": "06/10/2013"
 	},
 	{
 		"name": "HOVAG",
@@ -2300,7 +2301,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "LKI*TACAN*267.00/4.00",
+		"updated": "LKI*TACAN*267.00/4.00"
 	},
 	{
 		"name": "HOVAR",
@@ -2309,7 +2310,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OLU*VOR/DME*094.63/12.00",
+		"updated": "OLU*VOR/DME*094.63/12.00"
 	},
 	{
 		"name": "HOVIN",
@@ -2318,7 +2319,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FGT*VORTAC*016.94",
+		"updated": "FGT*VORTAC*016.94"
 	},
 	{
 		"name": "HOVKI",
@@ -2327,7 +2328,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/03/2006",
+		"updated": "08/03/2006"
 	},
 	{
 		"name": "HOVLU",
@@ -2336,7 +2337,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/24/2014",
+		"updated": "03/24/2014"
 	},
 	{
 		"name": "HOVUD",
@@ -2345,7 +2346,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "HOWRY",
@@ -2354,7 +2355,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*275.69/51.94",
+		"updated": "OVR*VORTAC*275.69/51.94"
 	},
 	{
 		"name": "HOXAK",
@@ -2363,7 +2364,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "APN*VORTAC*194.00/2.90",
+		"updated": "APN*VORTAC*194.00/2.90"
 	},
 	{
 		"name": "HOXAS",
@@ -2372,7 +2373,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/07/2011",
+		"updated": "11/07/2011"
 	},
 	{
 		"name": "HOXEM",
@@ -2381,7 +2382,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "HOXIT",
@@ -2390,7 +2391,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/13/2012",
+		"updated": "02/13/2012"
 	},
 	{
 		"name": "HOXIV",
@@ -2399,7 +2400,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FOD*VORTAC*002.70/7.00",
+		"updated": "FOD*VORTAC*002.70/7.00"
 	},
 	{
 		"name": "HRBEK",
@@ -2408,7 +2409,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*293.00/21.00",
+		"updated": "GEP*VORTAC*293.00/21.00"
 	},
 	{
 		"name": "HRBIE",
@@ -2417,7 +2418,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/23/2015",
+		"updated": "03/23/2015"
 	},
 	{
 		"name": "HSTIN",
@@ -2426,7 +2427,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/28/2015",
+		"updated": "05/28/2015"
 	},
 	{
 		"name": "HUBET",
@@ -2435,7 +2436,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/24/2004",
+		"updated": "09/24/2004"
 	},
 	{
 		"name": "HUBEV",
@@ -2444,7 +2445,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/07/2011",
+		"updated": "03/07/2011"
 	},
 	{
 		"name": "HUBOB",
@@ -2453,7 +2454,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/31/2005",
+		"updated": "05/31/2005"
 	},
 	{
 		"name": "HUBOX",
@@ -2462,7 +2463,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/19/2003",
+		"updated": "12/19/2003"
 	},
 	{
 		"name": "HUCUM",
@@ -2471,7 +2472,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BMA*LD*169.53/3.77",
+		"updated": "BMA*LD*169.53/3.77"
 	},
 	{
 		"name": "HUDDS",
@@ -2480,7 +2481,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ODI*VORTAC*248.91/11.00",
+		"updated": "ODI*VORTAC*248.91/11.00"
 	},
 	{
 		"name": "HUDIS",
@@ -2489,7 +2490,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/31/2005",
+		"updated": "05/31/2005"
 	},
 	{
 		"name": "HUDLA",
@@ -2498,7 +2499,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/28/2012",
+		"updated": "03/28/2012"
 	},
 	{
 		"name": "HUDNI",
@@ -2507,7 +2508,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GRI*VOR/DME*026.99",
+		"updated": "GRI*VOR/DME*026.99"
 	},
 	{
 		"name": "HUDOX",
@@ -2516,7 +2517,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/03/2014",
+		"updated": "12/03/2014"
 	},
 	{
 		"name": "HUDRO",
@@ -2525,7 +2526,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/22/2010",
+		"updated": "03/22/2010"
 	},
 	{
 		"name": "HUDRU",
@@ -2534,7 +2535,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DLH*VORTAC*046.21/70.00",
+		"updated": "DLH*VORTAC*046.21/70.00"
 	},
 	{
 		"name": "HUDSN",
@@ -2543,7 +2544,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*112.62",
+		"updated": "GEP*VORTAC*112.62"
 	},
 	{
 		"name": "HUFFR",
@@ -2552,7 +2553,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/25/2014",
+		"updated": "09/25/2014"
 	},
 	{
 		"name": "HUFFY",
@@ -2561,7 +2562,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/06/2013",
+		"updated": "09/06/2013"
 	},
 	{
 		"name": "HUFMU",
@@ -2570,7 +2571,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/30/2011",
+		"updated": "03/30/2011"
 	},
 	{
 		"name": "HUGAD",
@@ -2579,7 +2580,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/10/2011",
+		"updated": "11/10/2011"
 	},
 	{
 		"name": "HUGAT",
@@ -2588,7 +2589,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/09/2011",
+		"updated": "05/09/2011"
 	},
 	{
 		"name": "HUGGI",
@@ -2597,7 +2598,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/13/2015",
+		"updated": "01/13/2015"
 	},
 	{
 		"name": "HUGIR",
@@ -2606,7 +2607,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MSP*VOR/DME*232.27/20.00",
+		"updated": "MSP*VOR/DME*232.27/20.00"
 	},
 	{
 		"name": "HUGRA",
@@ -2615,7 +2616,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DLH*VORTAC*094.93/15.00",
+		"updated": "DLH*VORTAC*094.93/15.00"
 	},
 	{
 		"name": "HUHJO",
@@ -2624,7 +2625,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "JMS*VOR/DME*093.48/13.00",
+		"updated": "JMS*VOR/DME*093.48/13.00"
 	},
 	{
 		"name": "HUKAN",
@@ -2633,7 +2634,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MCW*VOR/DME*075.34/7.00",
+		"updated": "MCW*VOR/DME*075.34/7.00"
 	},
 	{
 		"name": "HUKAS",
@@ -2642,7 +2643,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "HUKEG",
@@ -2651,7 +2652,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/15/2011",
+		"updated": "12/15/2011"
 	},
 	{
 		"name": "HUKEX",
@@ -2660,7 +2661,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/30/2010",
+		"updated": "04/30/2010"
 	},
 	{
 		"name": "HUKMI",
@@ -2669,7 +2670,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/05/2012",
+		"updated": "04/05/2012"
 	},
 	{
 		"name": "HUKOX",
@@ -2678,7 +2679,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/27/2011",
+		"updated": "04/27/2011"
 	},
 	{
 		"name": "HUKRU",
@@ -2687,7 +2688,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/19/2009",
+		"updated": "06/19/2009"
 	},
 	{
 		"name": "HUKUN",
@@ -2696,7 +2697,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "HULAV",
@@ -2705,7 +2706,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SPW*VOR/DME*105.00/3.83",
+		"updated": "SPW*VOR/DME*105.00/3.83"
 	},
 	{
 		"name": "HULEK",
@@ -2714,7 +2715,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "GFK*VOR/DME*097.23/22.10",
+		"updated": "GFK*VOR/DME*097.23/22.10"
 	},
 	{
 		"name": "HULMA",
@@ -2723,7 +2724,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2010",
+		"updated": "05/30/2010"
 	},
 	{
 		"name": "HULUN",
@@ -2732,7 +2733,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/17/2012",
+		"updated": "12/17/2012"
 	},
 	{
 		"name": "HULVO",
@@ -2741,7 +2742,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/28/2012",
+		"updated": "03/28/2012"
 	},
 	{
 		"name": "HUMDI",
@@ -2750,7 +2751,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/02/2013",
+		"updated": "08/02/2013"
 	},
 	{
 		"name": "HUMIB",
@@ -2759,7 +2760,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/30/2011",
+		"updated": "06/30/2011"
 	},
 	{
 		"name": "HUMIR",
@@ -2768,7 +2769,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "HUMIX",
@@ -2777,7 +2778,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/18/2010",
+		"updated": "06/18/2010"
 	},
 	{
 		"name": "HUMOV",
@@ -2786,7 +2787,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "HUMSI",
@@ -2795,7 +2796,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "LNK*VORTAC*185.00/1.00",
+		"updated": "LNK*VORTAC*185.00/1.00"
 	},
 	{
 		"name": "HUNIR",
@@ -2804,7 +2805,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2013",
+		"updated": "05/30/2013"
 	},
 	{
 		"name": "HUPAP",
@@ -2813,7 +2814,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/27/2006",
+		"updated": "06/27/2006"
 	},
 	{
 		"name": "HUPEL",
@@ -2822,7 +2823,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/04/2010",
+		"updated": "09/04/2010"
 	},
 	{
 		"name": "HUPOT",
@@ -2831,7 +2832,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ASX*LE*S CRS/2.72",
+		"updated": "ASX*LE*S CRS/2.72"
 	},
 	{
 		"name": "HURDD",
@@ -2840,7 +2841,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MOT*VORTAC*329.17/24.00",
+		"updated": "MOT*VORTAC*329.17/24.00"
 	},
 	{
 		"name": "HUREB",
@@ -2849,7 +2850,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PHS*LD*170.04/3.24",
+		"updated": "PHS*LD*170.04/3.24"
 	},
 	{
 		"name": "HUREP",
@@ -2858,7 +2859,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/13/2014",
+		"updated": "03/13/2014"
 	},
 	{
 		"name": "HURER",
@@ -2867,7 +2868,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/27/2017",
+		"updated": "03/27/2017"
 	},
 	{
 		"name": "HURLI",
@@ -2876,7 +2877,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OFK*VOR/DME*029.00",
+		"updated": "OFK*VOR/DME*029.00"
 	},
 	{
 		"name": "HUROX",
@@ -2885,7 +2886,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "HURSO",
@@ -2894,7 +2895,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/02/2005",
+		"updated": "05/02/2005"
 	},
 	{
 		"name": "HUSAD",
@@ -2903,7 +2904,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/04/2017",
+		"updated": "10/04/2017"
 	},
 	{
 		"name": "HUSBU",
@@ -2912,7 +2913,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/24/2017",
+		"updated": "04/24/2017"
 	},
 	{
 		"name": "HUSDI",
@@ -2921,7 +2922,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/22/2007",
+		"updated": "08/22/2007"
 	},
 	{
 		"name": "HUSES",
@@ -2930,7 +2931,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "HUSHH",
@@ -2939,7 +2940,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MSP*VOR/DME*173.03/3.50",
+		"updated": "MSP*VOR/DME*173.03/3.50"
 	},
 	{
 		"name": "HUSHU",
@@ -2948,7 +2949,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/23/2014",
+		"updated": "10/23/2014"
 	},
 	{
 		"name": "HUSIV",
@@ -2957,7 +2958,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/16/2013",
+		"updated": "10/16/2013"
 	},
 	{
 		"name": "HUSKE",
@@ -2966,7 +2967,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/26/2014",
+		"updated": "02/26/2014"
 	},
 	{
 		"name": "HUSKR",
@@ -2975,7 +2976,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*257.49/46.48",
+		"updated": "OVR*VORTAC*257.49/46.48"
 	},
 	{
 		"name": "HUSRA",
@@ -2984,7 +2985,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/24/2011",
+		"updated": "10/24/2011"
 	},
 	{
 		"name": "HUSSK",
@@ -2993,7 +2994,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "STC*VOR/DME*135.15/5.69",
+		"updated": "STC*VOR/DME*135.15/5.69"
 	},
 	{
 		"name": "HUSTU",
@@ -3002,7 +3003,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/30/2013",
+		"updated": "08/30/2013"
 	},
 	{
 		"name": "HUTIG",
@@ -3011,7 +3012,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/21/2007",
+		"updated": "07/21/2007"
 	},
 	{
 		"name": "HUTKU",
@@ -3020,7 +3021,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/18/2012",
+		"updated": "05/18/2012"
 	},
 	{
 		"name": "HUTLU",
@@ -3029,7 +3030,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "HUTOG",
@@ -3038,7 +3039,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2012",
+		"updated": "06/28/2012"
 	},
 	{
 		"name": "HUTVO",
@@ -3047,7 +3048,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/08/2007",
+		"updated": "03/08/2007"
 	},
 	{
 		"name": "HUUTA",
@@ -3056,7 +3057,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/22/2017",
+		"updated": "06/22/2017"
 	},
 	{
 		"name": "HUVEG",
@@ -3065,7 +3066,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/24/2011",
+		"updated": "06/24/2011"
 	},
 	{
 		"name": "HUVES",
@@ -3074,7 +3075,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "HUVGO",
@@ -3083,7 +3084,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/14/2013",
+		"updated": "02/14/2013"
 	},
 	{
 		"name": "HUVNO",
@@ -3092,7 +3093,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*141.68/13.00",
+		"updated": "OVR*VORTAC*141.68/13.00"
 	},
 	{
 		"name": "HUVOK",
@@ -3101,7 +3102,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/26/2012",
+		"updated": "03/26/2012"
 	},
 	{
 		"name": "HUVOS",
@@ -3110,7 +3111,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/23/2007",
+		"updated": "01/23/2007"
 	},
 	{
 		"name": "HUVTI",
@@ -3119,7 +3120,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/20/2014",
+		"updated": "02/20/2014"
 	},
 	{
 		"name": "HUXIS",
@@ -3128,7 +3129,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/30/2012",
+		"updated": "08/30/2012"
 	},
 	{
 		"name": "HUXIV",
@@ -3137,7 +3138,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/15/2008",
+		"updated": "05/15/2008"
 	},
 	{
 		"name": "HUXUB",
@@ -3146,7 +3147,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/18/2012",
+		"updated": "12/18/2012"
 	},
 	{
 		"name": "HYTRA",
@@ -3155,7 +3156,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/28/2017",
+		"updated": "03/28/2017"
 	},
 	{
 		"name": "HYWRD",
@@ -3164,5 +3165,6 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "12/15/1995",
-	},
+		"updated": "12/15/1995"
+	}
+]

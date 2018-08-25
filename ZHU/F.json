@@ -1,3 +1,4 @@
+[
 	{
 		"name": "FAACE",
 		"latitude": "30-11-29.43 N",
@@ -5,7 +6,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/19/2017",
+		"updated": "10/19/2017"
 	},
 	{
 		"name": "FABMI",
@@ -14,7 +15,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "BIX*TACAN*039.00/1.40",
+		"updated": "BIX*TACAN*039.00/1.40"
 	},
 	{
 		"name": "FABRE",
@@ -23,7 +24,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/12/2011",
+		"updated": "09/12/2011"
 	},
 	{
 		"name": "FADAD",
@@ -32,7 +33,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/30/2003",
+		"updated": "09/30/2003"
 	},
 	{
 		"name": "FADXY",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "FAFOD",
@@ -50,7 +51,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/11/2011",
+		"updated": "03/11/2011"
 	},
 	{
 		"name": "FALFA",
@@ -59,7 +60,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/12/2011",
+		"updated": "09/12/2011"
 	},
 	{
 		"name": "FALSE",
@@ -68,7 +69,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "DAS*VORTAC*142.00",
+		"updated": "DAS*VORTAC*142.00"
 	},
 	{
 		"name": "FALTO",
@@ -77,7 +78,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/30/2005",
+		"updated": "08/30/2005"
 	},
 	{
 		"name": "FAMAB",
@@ -86,7 +87,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TBD*VOR/DME*110.39/9.56",
+		"updated": "TBD*VOR/DME*110.39/9.56"
 	},
 	{
 		"name": "FAMAD",
@@ -95,7 +96,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/31/2008",
+		"updated": "01/31/2008"
 	},
 	{
 		"name": "FAMDO",
@@ -104,7 +105,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "KSY*TACAN*337.49/12.00",
+		"updated": "KSY*TACAN*337.49/12.00"
 	},
 	{
 		"name": "FAMOG",
@@ -113,7 +114,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/09/2011",
+		"updated": "05/09/2011"
 	},
 	{
 		"name": "FAMVI",
@@ -122,7 +123,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/14/2012",
+		"updated": "09/14/2012"
 	},
 	{
 		"name": "FANAG",
@@ -131,7 +132,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/08/2003",
+		"updated": "07/08/2003"
 	},
 	{
 		"name": "FANBI",
@@ -140,7 +141,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/12/2016",
+		"updated": "07/12/2016"
 	},
 	{
 		"name": "FANEP",
@@ -149,7 +150,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/20/2012",
+		"updated": "06/20/2012"
 	},
 	{
 		"name": "FANIK",
@@ -158,7 +159,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/19/2009",
+		"updated": "03/19/2009"
 	},
 	{
 		"name": "FAPIL",
@@ -167,7 +168,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/24/2018",
+		"updated": "01/24/2018"
 	},
 	{
 		"name": "FAPMA",
@@ -176,7 +177,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/29/2016",
+		"updated": "04/29/2016"
 	},
 	{
 		"name": "FAPOB",
@@ -185,7 +186,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/02/2017",
+		"updated": "11/02/2017"
 	},
 	{
 		"name": "FAPOK",
@@ -194,7 +195,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HRL*VOR/DME*340.00/11.40",
+		"updated": "HRL*VOR/DME*340.00/11.40"
 	},
 	{
 		"name": "FARAG",
@@ -203,7 +204,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/12/2009",
+		"updated": "07/12/2009"
 	},
 	{
 		"name": "FARAT",
@@ -212,7 +213,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/12/2011",
+		"updated": "09/12/2011"
 	},
 	{
 		"name": "FAREL",
@@ -221,7 +222,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFK*VORTAC*148.66",
+		"updated": "LFK*VORTAC*148.66"
 	},
 	{
 		"name": "FARER",
@@ -230,7 +231,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/20/2009",
+		"updated": "02/20/2009"
 	},
 	{
 		"name": "FARMU",
@@ -239,7 +240,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/13/1995",
+		"updated": "07/13/1995"
 	},
 	{
 		"name": "FARSU",
@@ -248,7 +249,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "RND*VORTAC*144.60/11.50",
+		"updated": "RND*VORTAC*144.60/11.50"
 	},
 	{
 		"name": "FASAG",
@@ -257,7 +258,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*088.00/57.00",
+		"updated": "DLF*VORTAC*088.00/57.00"
 	},
 	{
 		"name": "FASHU",
@@ -266,7 +267,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/11/2010",
+		"updated": "06/11/2010"
 	},
 	{
 		"name": "FASMO",
@@ -275,7 +276,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/02/2017",
+		"updated": "11/02/2017"
 	},
 	{
 		"name": "FATLI",
@@ -284,7 +285,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/08/2017",
+		"updated": "12/08/2017"
 	},
 	{
 		"name": "FATOR",
@@ -293,7 +294,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HRL*VOR/DME*273.65/39.51",
+		"updated": "HRL*VOR/DME*273.65/39.51"
 	},
 	{
 		"name": "FATSO",
@@ -302,7 +303,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/31/2005",
+		"updated": "08/31/2005"
 	},
 	{
 		"name": "FAUST",
@@ -311,7 +312,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "SAT*VORTAC*072.00/27.00",
+		"updated": "SAT*VORTAC*072.00/27.00"
 	},
 	{
 		"name": "FAVEG",
@@ -320,7 +321,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "KSY*TACAN*331.01/2.00",
+		"updated": "KSY*TACAN*331.01/2.00"
 	},
 	{
 		"name": "FAVEP",
@@ -329,7 +330,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "NQI*TACAN*112.00/2.10",
+		"updated": "NQI*TACAN*112.00/2.10"
 	},
 	{
 		"name": "FAVLA",
@@ -338,7 +339,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "KSY*TACAN*331.01/1.00",
+		"updated": "KSY*TACAN*331.01/1.00"
 	},
 	{
 		"name": "FAVOT",
@@ -347,7 +348,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/13/2004",
+		"updated": "05/13/2004"
 	},
 	{
 		"name": "FAWPE",
@@ -356,7 +357,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "RQR*VOR/DME*106.72/11.88",
+		"updated": "RQR*VOR/DME*106.72/11.88"
 	},
 	{
 		"name": "FAXUM",
@@ -365,7 +366,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/27/2018",
+		"updated": "04/27/2018"
 	},
 	{
 		"name": "FBURG",
@@ -374,7 +375,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "FEBYI",
@@ -383,7 +384,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/05/2017",
+		"updated": "09/05/2017"
 	},
 	{
 		"name": "FEDAB",
@@ -392,7 +393,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "09/05/2013",
+		"updated": "09/05/2013"
 	},
 	{
 		"name": "FEDEB",
@@ -401,7 +402,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "FEDOB",
@@ -410,7 +411,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "NQI*TACAN*319.00/1.50",
+		"updated": "NQI*TACAN*319.00/1.50"
 	},
 	{
 		"name": "FEDOK",
@@ -419,7 +420,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/28/2007",
+		"updated": "12/28/2007"
 	},
 	{
 		"name": "FEDOL",
@@ -428,7 +429,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "KSY*TACAN*160.00/4.00",
+		"updated": "KSY*TACAN*160.00/4.00"
 	},
 	{
 		"name": "FEEGI",
@@ -437,7 +438,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "NOG*TACAN*311.14/6.02",
+		"updated": "NOG*TACAN*311.14/6.02"
 	},
 	{
 		"name": "FEELS",
@@ -446,7 +447,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "COT*VORTAC*352.00/10.00",
+		"updated": "COT*VORTAC*352.00/10.00"
 	},
 	{
 		"name": "FEFEP",
@@ -455,7 +456,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/11/2010",
+		"updated": "06/11/2010"
 	},
 	{
 		"name": "FEGDU",
@@ -464,7 +465,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/08/2017",
+		"updated": "12/08/2017"
 	},
 	{
 		"name": "FEGIP",
@@ -473,7 +474,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/27/2012",
+		"updated": "09/27/2012"
 	},
 	{
 		"name": "FEGRI",
@@ -482,7 +483,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/16/2004",
+		"updated": "01/16/2004"
 	},
 	{
 		"name": "FEGSA",
@@ -491,7 +492,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "KSY*TACAN*/5.65",
+		"updated": "KSY*TACAN*/5.65"
 	},
 	{
 		"name": "FEKEL",
@@ -500,7 +501,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/26/2013",
+		"updated": "12/26/2013"
 	},
 	{
 		"name": "FEKNI",
@@ -509,7 +510,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/08/2008",
+		"updated": "01/08/2008"
 	},
 	{
 		"name": "FEKOG",
@@ -518,7 +519,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/16/2004",
+		"updated": "01/16/2004"
 	},
 	{
 		"name": "FELEL",
@@ -527,7 +528,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/31/2017",
+		"updated": "10/31/2017"
 	},
 	{
 		"name": "FELLO",
@@ -536,7 +537,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/14/2010",
+		"updated": "05/14/2010"
 	},
 	{
 		"name": "FELMA",
@@ -545,7 +546,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/27/2007",
+		"updated": "12/27/2007"
 	},
 	{
 		"name": "FEMAB",
@@ -554,7 +555,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CLL*VORTAC*100.24/16.00",
+		"updated": "CLL*VORTAC*100.24/16.00"
 	},
 	{
 		"name": "FEMEL",
@@ -563,7 +564,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PSX*VORTAC*054.00/23.00",
+		"updated": "PSX*VORTAC*054.00/23.00"
 	},
 	{
 		"name": "FEMME",
@@ -572,7 +573,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/12/2011",
+		"updated": "09/12/2011"
 	},
 	{
 		"name": "FENAK",
@@ -581,7 +582,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "THX*VORTAC*160.06/5.00",
+		"updated": "THX*VORTAC*160.06/5.00"
 	},
 	{
 		"name": "FENAN",
@@ -590,7 +591,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LCH*VORTAC*067.43/17.50",
+		"updated": "LCH*VORTAC*067.43/17.50"
 	},
 	{
 		"name": "FENCE",
@@ -599,7 +600,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "VCT*VOR/DME*126.68/10.00",
+		"updated": "VCT*VOR/DME*126.68/10.00"
 	},
 	{
 		"name": "FENDS",
@@ -608,7 +609,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "IAH*VORTAC*127.00/0.80",
+		"updated": "IAH*VORTAC*127.00/0.80"
 	},
 	{
 		"name": "FENKU",
@@ -617,7 +618,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "FENPA",
@@ -626,7 +627,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/19/2012",
+		"updated": "07/19/2012"
 	},
 	{
 		"name": "FENPI",
@@ -635,7 +636,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/12/2002",
+		"updated": "06/12/2002"
 	},
 	{
 		"name": "FENPU",
@@ -644,7 +645,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/02/2008",
+		"updated": "04/02/2008"
 	},
 	{
 		"name": "FENTO",
@@ -653,7 +654,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFT*VORTAC*278.00",
+		"updated": "LFT*VORTAC*278.00"
 	},
 	{
 		"name": "FEPET",
@@ -662,7 +663,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "KSY*TACAN*334.84/2.40",
+		"updated": "KSY*TACAN*334.84/2.40"
 	},
 	{
 		"name": "FEPIV",
@@ -671,7 +672,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "KSY*TACAN*330.20/1.00",
+		"updated": "KSY*TACAN*330.20/1.00"
 	},
 	{
 		"name": "FEPNI",
@@ -680,7 +681,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/14/2009",
+		"updated": "10/14/2009"
 	},
 	{
 		"name": "FEPRA",
@@ -689,7 +690,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/21/2011",
+		"updated": "06/21/2011"
 	},
 	{
 		"name": "FEPRO",
@@ -698,7 +699,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/09/2004",
+		"updated": "11/09/2004"
 	},
 	{
 		"name": "FEPRU",
@@ -707,7 +708,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/08/2005",
+		"updated": "08/08/2005"
 	},
 	{
 		"name": "FERDU",
@@ -716,7 +717,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/27/2004",
+		"updated": "10/27/2004"
 	},
 	{
 		"name": "FEREM",
@@ -725,7 +726,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LCH*VORTAC*234.00/20.00",
+		"updated": "LCH*VORTAC*234.00/20.00"
 	},
 	{
 		"name": "FERNI",
@@ -734,7 +735,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "MCB*VORTAC*254.03",
+		"updated": "MCB*VORTAC*254.03"
 	},
 	{
 		"name": "FERVU",
@@ -743,7 +744,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/14/2012",
+		"updated": "06/14/2012"
 	},
 	{
 		"name": "FESEP",
@@ -752,7 +753,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/15/2010",
+		"updated": "07/15/2010"
 	},
 	{
 		"name": "FESIS",
@@ -761,7 +762,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/15/2010",
+		"updated": "07/15/2010"
 	},
 	{
 		"name": "FESJU",
@@ -770,7 +771,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/26/2012",
+		"updated": "07/26/2012"
 	},
 	{
 		"name": "FESTA",
@@ -779,7 +780,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HUB*VOR/DME*015.90",
+		"updated": "HUB*VOR/DME*015.90"
 	},
 	{
 		"name": "FETMO",
@@ -788,7 +789,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/30/2005",
+		"updated": "08/30/2005"
 	},
 	{
 		"name": "FETNI",
@@ -797,7 +798,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFT*VORTAC*061.14/16.00",
+		"updated": "LFT*VORTAC*061.14/16.00"
 	},
 	{
 		"name": "FEVIB",
@@ -806,7 +807,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/08/2017",
+		"updated": "12/08/2017"
 	},
 	{
 		"name": "FFOAM",
@@ -815,7 +816,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/21/2014",
+		"updated": "04/21/2014"
 	},
 	{
 		"name": "FFSSH",
@@ -824,7 +825,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "ELA*VOR/DME*261.97/25.24",
+		"updated": "ELA*VOR/DME*261.97/25.24"
 	},
 	{
 		"name": "FFUEL",
@@ -833,7 +834,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/14/2014",
+		"updated": "03/14/2014"
 	},
 	{
 		"name": "FIBOR",
@@ -842,7 +843,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "RND*VORTAC*144.60/29.50",
+		"updated": "RND*VORTAC*144.60/29.50"
 	},
 	{
 		"name": "FIDDI",
@@ -851,7 +852,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "ELA*VOR/DME*134.68/58.08",
+		"updated": "ELA*VOR/DME*134.68/58.08"
 	},
 	{
 		"name": "FIDGA",
@@ -860,7 +861,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LCH*VORTAC*284.77",
+		"updated": "LCH*VORTAC*284.77"
 	},
 	{
 		"name": "FIDGU",
@@ -869,7 +870,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/21/2006",
+		"updated": "11/21/2006"
 	},
 	{
 		"name": "FIDOX",
@@ -878,7 +879,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/12/2016",
+		"updated": "07/12/2016"
 	},
 	{
 		"name": "FIDRU",
@@ -887,7 +888,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "ESF*LD*089.87/4.11",
+		"updated": "ESF*LD*089.87/4.11"
 	},
 	{
 		"name": "FIGER",
@@ -896,7 +897,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/10/2012",
+		"updated": "12/10/2012"
 	},
 	{
 		"name": "FIGGG",
@@ -905,7 +906,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/25/2014",
+		"updated": "03/25/2014"
 	},
 	{
 		"name": "FIGNU",
@@ -914,7 +915,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "FIGUR",
@@ -923,7 +924,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/01/2003",
+		"updated": "05/01/2003"
 	},
 	{
 		"name": "FIHNU",
@@ -932,7 +933,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/05/2015",
+		"updated": "11/05/2015"
 	},
 	{
 		"name": "FIJSI",
@@ -941,7 +942,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HUB*VOR/DME*072.66",
+		"updated": "HUB*VOR/DME*072.66"
 	},
 	{
 		"name": "FIKEG",
@@ -950,7 +951,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "07/09/2015",
+		"updated": "07/09/2015"
 	},
 	{
 		"name": "FIKEL",
@@ -959,7 +960,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/28/2005",
+		"updated": "02/28/2005"
 	},
 	{
 		"name": "FIKFE",
@@ -968,7 +969,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/14/2000",
+		"updated": "03/14/2000"
 	},
 	{
 		"name": "FIKIP",
@@ -977,7 +978,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/28/2010",
+		"updated": "03/28/2010"
 	},
 	{
 		"name": "FIKKO",
@@ -986,7 +987,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "EFD*TACAN*046.00/1.00",
+		"updated": "EFD*TACAN*046.00/1.00"
 	},
 	{
 		"name": "FIKLI",
@@ -995,7 +996,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "FILEK",
@@ -1004,7 +1005,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/19/2004",
+		"updated": "11/19/2004"
 	},
 	{
 		"name": "FILPO",
@@ -1013,7 +1014,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/28/2016",
+		"updated": "06/28/2016"
 	},
 	{
 		"name": "FILTO",
@@ -1022,7 +1023,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/20/2005",
+		"updated": "06/20/2005"
 	},
 	{
 		"name": "FIMEL",
@@ -1031,7 +1032,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/22/2005",
+		"updated": "09/22/2005"
 	},
 	{
 		"name": "FIMUL",
@@ -1040,7 +1041,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/30/2015",
+		"updated": "08/30/2015"
 	},
 	{
 		"name": "FINEL",
@@ -1049,7 +1050,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/08/2018",
+		"updated": "05/08/2018"
 	},
 	{
 		"name": "FINET",
@@ -1058,7 +1059,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/12/2011",
+		"updated": "09/12/2011"
 	},
 	{
 		"name": "FINIG",
@@ -1067,7 +1068,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "SSF*VOR*043.89",
+		"updated": "SSF*VOR*043.89"
 	},
 	{
 		"name": "FINOS",
@@ -1076,7 +1077,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "FINTI",
@@ -1085,7 +1086,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/30/2009",
+		"updated": "09/30/2009"
 	},
 	{
 		"name": "FINTO",
@@ -1094,7 +1095,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DHK*TACAN*145.97/30.00",
+		"updated": "DHK*TACAN*145.97/30.00"
 	},
 	{
 		"name": "FIRIB",
@@ -1103,7 +1104,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "HRV*VORTAC*154.00/10.00",
+		"updated": "HRV*VORTAC*154.00/10.00"
 	},
 	{
 		"name": "FIRMA",
@@ -1112,7 +1113,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/16/2009",
+		"updated": "06/16/2009"
 	},
 	{
 		"name": "FIRNO",
@@ -1121,7 +1122,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LSU*VORTAC*052.47/13.55",
+		"updated": "LSU*VORTAC*052.47/13.55"
 	},
 	{
 		"name": "FIRTA",
@@ -1130,7 +1131,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/15/2008",
+		"updated": "04/15/2008"
 	},
 	{
 		"name": "FIRVU",
@@ -1139,7 +1140,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/05/2017",
+		"updated": "12/05/2017"
 	},
 	{
 		"name": "FISAS",
@@ -1148,7 +1149,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/20/2009",
+		"updated": "04/20/2009"
 	},
 	{
 		"name": "FISTY",
@@ -1157,7 +1158,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LSU*VORTAC*325.00/34.62",
+		"updated": "LSU*VORTAC*325.00/34.62"
 	},
 	{
 		"name": "FITAP",
@@ -1166,7 +1167,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "DAS*VORTAC*086.68",
+		"updated": "DAS*VORTAC*086.68"
 	},
 	{
 		"name": "FITER",
@@ -1175,7 +1176,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "KSY*TACAN*163.00/15.00",
+		"updated": "KSY*TACAN*163.00/15.00"
 	},
 	{
 		"name": "FITTS",
@@ -1184,7 +1185,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CWK*VORTAC*010.25/34.26",
+		"updated": "CWK*VORTAC*010.25/34.26"
 	},
 	{
 		"name": "FITUP",
@@ -1193,7 +1194,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "AEX*VORTAC*326.98/4.17",
+		"updated": "AEX*VORTAC*326.98/4.17"
 	},
 	{
 		"name": "FIXUL",
@@ -1202,7 +1203,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/23/2009",
+		"updated": "10/23/2009"
 	},
 	{
 		"name": "FIZVY",
@@ -1211,7 +1212,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/04/2013",
+		"updated": "06/04/2013"
 	},
 	{
 		"name": "FLAGS",
@@ -1220,7 +1221,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/11/2012",
+		"updated": "04/11/2012"
 	},
 	{
 		"name": "FLAKK",
@@ -1229,7 +1230,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "NQI*TACAN*220.00/30.00",
+		"updated": "NQI*TACAN*220.00/30.00"
 	},
 	{
 		"name": "FLAKY",
@@ -1238,7 +1239,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PSX*VORTAC*186.76/17.73",
+		"updated": "PSX*VORTAC*186.76/17.73"
 	},
 	{
 		"name": "FLANL",
@@ -1247,7 +1248,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PSX*VORTAC*337.03/39.34",
+		"updated": "PSX*VORTAC*337.03/39.34"
 	},
 	{
 		"name": "FLATZ",
@@ -1256,7 +1257,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HRL*VOR/DME*259.18/14.10",
+		"updated": "HRL*VOR/DME*259.18/14.10"
 	},
 	{
 		"name": "FLENC",
@@ -1265,7 +1266,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/12/2011",
+		"updated": "09/12/2011"
 	},
 	{
 		"name": "FLIBZ",
@@ -1274,7 +1275,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BZU*LD*266.94/8.90",
+		"updated": "BZU*LD*266.94/8.90"
 	},
 	{
 		"name": "FLIES",
@@ -1283,7 +1284,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CWK*VORTAC*270.89/53.22",
+		"updated": "CWK*VORTAC*270.89/53.22"
 	},
 	{
 		"name": "FLIKA",
@@ -1292,7 +1293,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "IAH*VORTAC*310.50",
+		"updated": "IAH*VORTAC*310.50"
 	},
 	{
 		"name": "FLOID",
@@ -1301,7 +1302,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/05/2012",
+		"updated": "09/05/2012"
 	},
 	{
 		"name": "FLOTA",
@@ -1310,7 +1311,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "07/09/2015",
+		"updated": "07/09/2015"
 	},
 	{
 		"name": "FLUBB",
@@ -1319,7 +1320,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/12/2011",
+		"updated": "09/12/2011"
 	},
 	{
 		"name": "FLUFY",
@@ -1328,7 +1329,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFK*VORTAC*296.32",
+		"updated": "LFK*VORTAC*296.32"
 	},
 	{
 		"name": "FLYER",
@@ -1337,7 +1338,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "RND*VORTAC*321.00",
+		"updated": "RND*VORTAC*321.00"
 	},
 	{
 		"name": "FLYZA",
@@ -1346,7 +1347,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/26/2014",
+		"updated": "03/26/2014"
 	},
 	{
 		"name": "FNNLY",
@@ -1355,7 +1356,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HCE*LD*174.70/3.26",
+		"updated": "HCE*LD*174.70/3.26"
 	},
 	{
 		"name": "FOALS",
@@ -1364,7 +1365,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/23/2017",
+		"updated": "01/23/2017"
 	},
 	{
 		"name": "FOBKI",
@@ -1373,7 +1374,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "GPT*VORTAC*/18.00",
+		"updated": "GPT*VORTAC*/18.00"
 	},
 	{
 		"name": "FOBNA",
@@ -1382,7 +1383,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/27/2015",
+		"updated": "01/27/2015"
 	},
 	{
 		"name": "FODGE",
@@ -1391,7 +1392,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "FODRA",
@@ -1400,7 +1401,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "09/05/2013",
+		"updated": "09/05/2013"
 	},
 	{
 		"name": "FODUT",
@@ -1409,7 +1410,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/21/2003",
+		"updated": "05/21/2003"
 	},
 	{
 		"name": "FOHPU",
@@ -1418,7 +1419,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "FOILS",
@@ -1427,7 +1428,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PCU*VOR/DME*281.99",
+		"updated": "PCU*VOR/DME*281.99"
 	},
 	{
 		"name": "FOLAL",
@@ -1436,7 +1437,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "FOLAV",
@@ -1445,7 +1446,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DHK*TACAN*153.07/1.40",
+		"updated": "DHK*TACAN*153.07/1.40"
 	},
 	{
 		"name": "FOLEG",
@@ -1454,7 +1455,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "AEX*VORTAC*325.37/5.71",
+		"updated": "AEX*VORTAC*325.37/5.71"
 	},
 	{
 		"name": "FOLEM",
@@ -1463,7 +1464,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "07/09/2015",
+		"updated": "07/09/2015"
 	},
 	{
 		"name": "FOLEN",
@@ -1472,7 +1473,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/03/2003",
+		"updated": "09/03/2003"
 	},
 	{
 		"name": "FOLUL",
@@ -1481,7 +1482,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/05/2015",
+		"updated": "11/05/2015"
 	},
 	{
 		"name": "FOMAH",
@@ -1490,7 +1491,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/16/2012",
+		"updated": "11/16/2012"
 	},
 	{
 		"name": "FOMUS",
@@ -1499,7 +1500,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/27/2006",
+		"updated": "07/27/2006"
 	},
 	{
 		"name": "FOMUX",
@@ -1508,7 +1509,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LRD*LD*177.55/12.66",
+		"updated": "LRD*LD*177.55/12.66"
 	},
 	{
 		"name": "FONEK",
@@ -1517,7 +1518,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/01/2006",
+		"updated": "06/01/2006"
 	},
 	{
 		"name": "FONOL",
@@ -1526,7 +1527,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DHK*TACAN*324.10/4.60",
+		"updated": "DHK*TACAN*324.10/4.60"
 	},
 	{
 		"name": "FOODS",
@@ -1535,7 +1536,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HRL*VOR/DME*231.61",
+		"updated": "HRL*VOR/DME*231.61"
 	},
 	{
 		"name": "FORDE",
@@ -1544,7 +1545,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*053.00/15.00",
+		"updated": "DLF*VORTAC*053.00/15.00"
 	},
 	{
 		"name": "FORES",
@@ -1553,7 +1554,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/27/2007",
+		"updated": "12/27/2007"
 	},
 	{
 		"name": "FORJA",
@@ -1562,7 +1563,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/31/2008",
+		"updated": "01/31/2008"
 	},
 	{
 		"name": "FORLU",
@@ -1571,7 +1572,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/13/2011",
+		"updated": "10/13/2011"
 	},
 	{
 		"name": "FORNA",
@@ -1580,7 +1581,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/05/2015",
+		"updated": "11/05/2015"
 	},
 	{
 		"name": "FORSS",
@@ -1589,7 +1590,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/10/2015",
+		"updated": "01/10/2015"
 	},
 	{
 		"name": "FOSAL",
@@ -1598,7 +1599,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/21/2003",
+		"updated": "05/21/2003"
 	},
 	{
 		"name": "FOSIM",
@@ -1607,7 +1608,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/20/2014",
+		"updated": "07/20/2014"
 	},
 	{
 		"name": "FOSIN",
@@ -1616,7 +1617,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "AEX*VORTAC*290.52",
+		"updated": "AEX*VORTAC*290.52"
 	},
 	{
 		"name": "FOSOT",
@@ -1625,7 +1626,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/31/2017",
+		"updated": "10/31/2017"
 	},
 	{
 		"name": "FOSSY",
@@ -1634,7 +1635,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/12/2011",
+		"updated": "09/12/2011"
 	},
 	{
 		"name": "FOSUX",
@@ -1643,7 +1644,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/22/2009",
+		"updated": "06/22/2009"
 	},
 	{
 		"name": "FOVID",
@@ -1652,7 +1653,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/17/2010",
+		"updated": "04/17/2010"
 	},
 	{
 		"name": "FOVMO",
@@ -1661,7 +1662,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*143.11/1.30",
+		"updated": "DLF*VORTAC*143.11/1.30"
 	},
 	{
 		"name": "FOVUD",
@@ -1670,7 +1671,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/09/2006",
+		"updated": "08/09/2006"
 	},
 	{
 		"name": "FOWLR",
@@ -1679,7 +1680,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/26/2014",
+		"updated": "03/26/2014"
 	},
 	{
 		"name": "FOXES",
@@ -1688,7 +1689,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/12/2011",
+		"updated": "09/12/2011"
 	},
 	{
 		"name": "FOXEY",
@@ -1697,7 +1698,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/22/2011",
+		"updated": "08/22/2011"
 	},
 	{
 		"name": "FRAIL",
@@ -1706,7 +1707,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/12/2011",
+		"updated": "09/12/2011"
 	},
 	{
 		"name": "FRANK",
@@ -1715,7 +1716,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PCU*VOR/DME*262.18/13.98",
+		"updated": "PCU*VOR/DME*262.18/13.98"
 	},
 	{
 		"name": "FRDDY",
@@ -1724,7 +1725,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/25/2014",
+		"updated": "03/25/2014"
 	},
 	{
 		"name": "FREEP",
@@ -1733,7 +1734,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "LBX*LO*000.00",
+		"updated": "LBX*LO*000.00"
 	},
 	{
 		"name": "FRINK",
@@ -1742,7 +1743,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/28/2009",
+		"updated": "01/28/2009"
 	},
 	{
 		"name": "FRITZ",
@@ -1751,7 +1752,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/13/2014",
+		"updated": "11/13/2014"
 	},
 	{
 		"name": "FRONT",
@@ -1760,7 +1761,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/12/1998",
+		"updated": "08/12/1998"
 	},
 	{
 		"name": "FRSTY",
@@ -1769,7 +1770,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "KSY*TACAN*163.00/1.90",
+		"updated": "KSY*TACAN*163.00/1.90"
 	},
 	{
 		"name": "FRUGG",
@@ -1778,7 +1779,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LLO*VORTAC*120.43/19.87",
+		"updated": "LLO*VORTAC*120.43/19.87"
 	},
 	{
 		"name": "FRYED",
@@ -1787,7 +1788,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "DAS*VORTAC*194.00",
+		"updated": "DAS*VORTAC*194.00"
 	},
 	{
 		"name": "FUGAL",
@@ -1796,7 +1797,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/06/2017",
+		"updated": "09/06/2017"
 	},
 	{
 		"name": "FULDA",
@@ -1805,7 +1806,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/12/1998",
+		"updated": "08/12/1998"
 	},
 	{
 		"name": "FUNNN",
@@ -1814,7 +1815,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BSM*LD*174.69/3.16",
+		"updated": "BSM*LD*174.69/3.16"
 	},
 	{
 		"name": "FUSED",
@@ -1823,5 +1824,6 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/28/2017",
-	},
+		"updated": "02/28/2017"
+	}
+]

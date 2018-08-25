@@ -1,3 +1,4 @@
+[
 	{
 		"name": "BABKE",
 		"latitude": "68-25-41.34 N",
@@ -5,7 +6,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/09/2013",
+		"updated": "09/09/2013"
 	},
 	{
 		"name": "BACIZ",
@@ -14,7 +15,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/19/2004",
+		"updated": "11/19/2004"
 	},
 	{
 		"name": "BACMY",
@@ -23,7 +24,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/26/2014",
+		"updated": "03/26/2014"
 	},
 	{
 		"name": "BADLE",
@@ -32,7 +33,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/14/2009",
+		"updated": "10/14/2009"
 	},
 	{
 		"name": "BAERE",
@@ -41,7 +42,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/17/2014",
+		"updated": "09/17/2014"
 	},
 	{
 		"name": "BAFIN",
@@ -50,7 +51,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BET*VORTAC*142.44/30.00",
+		"updated": "BET*VORTAC*142.44/30.00"
 	},
 	{
 		"name": "BAIGE",
@@ -59,7 +60,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/06/2015",
+		"updated": "11/06/2015"
 	},
 	{
 		"name": "BAILY",
@@ -68,7 +69,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ODK*VOR/DME*280.07/19.99",
+		"updated": "ODK*VOR/DME*280.07/19.99"
 	},
 	{
 		"name": "BAIME",
@@ -77,7 +78,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OME*VOR/DME*012.75/39.00",
+		"updated": "OME*VOR/DME*012.75/39.00"
 	},
 	{
 		"name": "BAITT",
@@ -86,7 +87,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/02/2007",
+		"updated": "11/02/2007"
 	},
 	{
 		"name": "BAKOL",
@@ -95,7 +96,7 @@
 		"state": "",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/05/2016",
+		"updated": "12/05/2016"
 	},
 	{
 		"name": "BALDS",
@@ -104,7 +105,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/05/2014",
+		"updated": "05/05/2014"
 	},
 	{
 		"name": "BALIN",
@@ -113,7 +114,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OTZ*VOR/DME*114.60/30.00",
+		"updated": "OTZ*VOR/DME*114.60/30.00"
 	},
 	{
 		"name": "BAMOK",
@@ -122,7 +123,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "07/03/2017",
+		"updated": "07/03/2017"
 	},
 	{
 		"name": "BAMVE",
@@ -131,7 +132,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/12/2014",
+		"updated": "03/12/2014"
 	},
 	{
 		"name": "BANAT",
@@ -140,7 +141,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/09/2005",
+		"updated": "06/09/2005"
 	},
 	{
 		"name": "BAREL",
@@ -149,7 +150,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HOM*VOR/DME*194.00/61.33",
+		"updated": "HOM*VOR/DME*194.00/61.33"
 	},
 	{
 		"name": "BARIP",
@@ -158,7 +159,7 @@
 		"state": "",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/03/2017",
+		"updated": "07/03/2017"
 	},
 	{
 		"name": "BARLO",
@@ -167,7 +168,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "CGL*NDB*250.77",
+		"updated": "CGL*NDB*250.77"
 	},
 	{
 		"name": "BARRF",
@@ -176,7 +177,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/26/2015",
+		"updated": "10/26/2015"
 	},
 	{
 		"name": "BASSU",
@@ -185,7 +186,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/04/2014",
+		"updated": "11/04/2014"
 	},
 	{
 		"name": "BATAC",
@@ -194,7 +195,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "BIG*VORTAC*341.00/15.00",
+		"updated": "BIG*VORTAC*341.00/15.00"
 	},
 	{
 		"name": "BATTU",
@@ -203,7 +204,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/21/2016",
+		"updated": "01/21/2016"
 	},
 	{
 		"name": "BATTY",
@@ -212,7 +213,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*VORTAC*051.80/56.00",
+		"updated": "AKN*VORTAC*051.80/56.00"
 	},
 	{
 		"name": "BAVBE",
@@ -221,7 +222,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/04/2007",
+		"updated": "05/04/2007"
 	},
 	{
 		"name": "BAXTE",
@@ -230,7 +231,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EDF*TACAN*337.00/9.00",
+		"updated": "EDF*TACAN*337.00/9.00"
 	},
 	{
 		"name": "BAYAR",
@@ -239,7 +240,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/01/2003",
+		"updated": "12/01/2003"
 	},
 	{
 		"name": "BAYKR",
@@ -248,7 +249,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/24/2012",
+		"updated": "07/24/2012"
 	},
 	{
 		"name": "BAZME",
@@ -257,7 +258,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "04/12/2010",
+		"updated": "04/12/2010"
 	},
 	{
 		"name": "BBELL",
@@ -266,7 +267,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/18/2012",
+		"updated": "07/18/2012"
 	},
 	{
 		"name": "BBGVP",
@@ -275,7 +276,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "CN",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "BDRIK",
@@ -284,7 +285,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "TED*VOR/DME*273.00/32.00",
+		"updated": "TED*VOR/DME*273.00/32.00"
 	},
 	{
 		"name": "BEBCU",
@@ -293,7 +294,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/23/2007",
+		"updated": "01/23/2007"
 	},
 	{
 		"name": "BECAD",
@@ -302,7 +303,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/09/2012",
+		"updated": "03/09/2012"
 	},
 	{
 		"name": "BECAG",
@@ -311,7 +312,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/22/2005",
+		"updated": "12/22/2005"
 	},
 	{
 		"name": "BECAY",
@@ -320,7 +321,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/10/2007",
+		"updated": "05/10/2007"
 	},
 	{
 		"name": "BEECO",
@@ -329,7 +330,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/17/2005",
+		"updated": "05/17/2005"
 	},
 	{
 		"name": "BEEHM",
@@ -338,7 +339,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "02/26/1998",
+		"updated": "02/26/1998"
 	},
 	{
 		"name": "BEEKS",
@@ -347,7 +348,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/09/2009",
+		"updated": "01/09/2009"
 	},
 	{
 		"name": "BEETE",
@@ -356,7 +357,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENN*VORTAC*343.54/119.00",
+		"updated": "ENN*VORTAC*343.54/119.00"
 	},
 	{
 		"name": "BEEVE",
@@ -365,7 +366,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/04/2014",
+		"updated": "11/04/2014"
 	},
 	{
 		"name": "BEFTI",
@@ -374,7 +375,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "CN",
-		"updated": "02/17/2015",
+		"updated": "02/17/2015"
 	},
 	{
 		"name": "BEJJI",
@@ -383,7 +384,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/26/2018",
+		"updated": "02/26/2018"
 	},
 	{
 		"name": "BEKAR",
@@ -392,7 +393,7 @@
 		"state": "",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/03/2017",
+		"updated": "07/03/2017"
 	},
 	{
 		"name": "BELTZ",
@@ -401,7 +402,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/17/2005",
+		"updated": "05/17/2005"
 	},
 	{
 		"name": "BEMTE",
@@ -410,7 +411,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OME*VOR/DME*276.12/2.06",
+		"updated": "OME*VOR/DME*276.12/2.06"
 	},
 	{
 		"name": "BEOOH",
@@ -419,7 +420,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/21/2011",
+		"updated": "10/21/2011"
 	},
 	{
 		"name": "BEPOW",
@@ -428,7 +429,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SCC*VOR/DME*260.91/29.98",
+		"updated": "SCC*VOR/DME*260.91/29.98"
 	},
 	{
 		"name": "BERAC",
@@ -437,7 +438,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/19/2007",
+		"updated": "07/19/2007"
 	},
 	{
 		"name": "BERGS",
@@ -446,7 +447,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SSR*VORTAC*282.24/39.00",
+		"updated": "SSR*VORTAC*282.24/39.00"
 	},
 	{
 		"name": "BERJO",
@@ -455,7 +456,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OTZ*VOR/DME*298.90/15.00",
+		"updated": "OTZ*VOR/DME*298.90/15.00"
 	},
 	{
 		"name": "BERNR",
@@ -464,7 +465,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "02/26/1998",
+		"updated": "02/26/1998"
 	},
 	{
 		"name": "BESAT",
@@ -473,7 +474,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "06/02/1993",
+		"updated": "06/02/1993"
 	},
 	{
 		"name": "BESAY",
@@ -482,7 +483,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/28/2004",
+		"updated": "01/28/2004"
 	},
 	{
 		"name": "BETPE",
@@ -491,7 +492,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/10/2011",
+		"updated": "12/10/2011"
 	},
 	{
 		"name": "BETTR",
@@ -500,7 +501,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/16/2016",
+		"updated": "05/16/2016"
 	},
 	{
 		"name": "BETUN",
@@ -509,7 +510,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EDF*TACAN*312.50/6.00",
+		"updated": "EDF*TACAN*312.50/6.00"
 	},
 	{
 		"name": "BEUTI",
@@ -518,7 +519,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/04/2014",
+		"updated": "11/04/2014"
 	},
 	{
 		"name": "BEVAN",
@@ -527,7 +528,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "MCG*VORTAC*066.00/79.00",
+		"updated": "MCG*VORTAC*066.00/79.00"
 	},
 	{
 		"name": "BEVEH",
@@ -536,7 +537,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/14/2014",
+		"updated": "04/14/2014"
 	},
 	{
 		"name": "BEVNE",
@@ -545,7 +546,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/22/2016",
+		"updated": "01/22/2016"
 	},
 	{
 		"name": "BEWEJ",
@@ -554,7 +555,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/26/2009",
+		"updated": "06/26/2009"
 	},
 	{
 		"name": "BEYAR",
@@ -563,7 +564,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "12/10/2013",
+		"updated": "12/10/2013"
 	},
 	{
 		"name": "BEYAS",
@@ -572,7 +573,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/17/2005",
+		"updated": "10/17/2005"
 	},
 	{
 		"name": "BEYAY",
@@ -581,7 +582,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENA*VOR/DME*198.23/24.00",
+		"updated": "ENA*VOR/DME*198.23/24.00"
 	},
 	{
 		"name": "BIBEM",
@@ -590,7 +591,7 @@
 		"state": "",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/08/2007",
+		"updated": "02/08/2007"
 	},
 	{
 		"name": "BIBNE",
@@ -599,7 +600,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/05/2012",
+		"updated": "04/05/2012"
 	},
 	{
 		"name": "BICAC",
@@ -608,7 +609,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/28/2004",
+		"updated": "09/28/2004"
 	},
 	{
 		"name": "BIGAY",
@@ -617,7 +618,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/11/2012",
+		"updated": "10/11/2012"
 	},
 	{
 		"name": "BIHGO",
@@ -626,7 +627,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "05/03/2007",
+		"updated": "05/03/2007"
 	},
 	{
 		"name": "BIITE",
@@ -635,7 +636,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/02/2014",
+		"updated": "06/02/2014"
 	},
 	{
 		"name": "BIJGO",
@@ -644,7 +645,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/03/2015",
+		"updated": "06/03/2015"
 	},
 	{
 		"name": "BIJOU",
@@ -653,7 +654,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "FYU*VORTAC*193.69/25.00",
+		"updated": "FYU*VORTAC*193.69/25.00"
 	},
 	{
 		"name": "BILBE",
@@ -662,7 +663,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "DUT*NDB/DME*357.02",
+		"updated": "DUT*NDB/DME*357.02"
 	},
 	{
 		"name": "BILNE",
@@ -671,7 +672,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/03/2010",
+		"updated": "06/03/2010"
 	},
 	{
 		"name": "BINAL",
@@ -680,7 +681,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "CDB*VORTAC*027.06/40.00",
+		"updated": "CDB*VORTAC*027.06/40.00"
 	},
 	{
 		"name": "BIQFI",
@@ -689,7 +690,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "BIRAC",
@@ -698,7 +699,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/27/2005",
+		"updated": "06/27/2005"
 	},
 	{
 		"name": "BIRDI",
@@ -707,7 +708,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "LUR*NDB/DME*050.00/2.00",
+		"updated": "LUR*NDB/DME*050.00/2.00"
 	},
 	{
 		"name": "BISAY",
@@ -716,7 +717,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/07/2006",
+		"updated": "06/07/2006"
 	},
 	{
 		"name": "BISHO",
@@ -725,7 +726,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/26/2015",
+		"updated": "10/26/2015"
 	},
 	{
 		"name": "BISXI",
@@ -734,7 +735,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/20/2009",
+		"updated": "08/20/2009"
 	},
 	{
 		"name": "BITOP",
@@ -743,7 +744,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*VORTAC*037.71/60.00",
+		"updated": "AKN*VORTAC*037.71/60.00"
 	},
 	{
 		"name": "BIXER",
@@ -752,7 +753,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SCC*VOR/DME*163.43/45.00",
+		"updated": "SCC*VOR/DME*163.43/45.00"
 	},
 	{
 		"name": "BIYAD",
@@ -761,7 +762,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "BIYAN",
@@ -770,7 +771,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/20/2007",
+		"updated": "02/20/2007"
 	},
 	{
 		"name": "BIYIR",
@@ -779,7 +780,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/16/2009",
+		"updated": "12/16/2009"
 	},
 	{
 		"name": "BIYTA",
@@ -788,7 +789,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/05/2007",
+		"updated": "10/05/2007"
 	},
 	{
 		"name": "BLAEK",
@@ -797,7 +798,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/13/2018",
+		"updated": "02/13/2018"
 	},
 	{
 		"name": "BLIGH",
@@ -806,7 +807,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "JOH*VOR/DME*314.00/25.00",
+		"updated": "JOH*VOR/DME*314.00/25.00"
 	},
 	{
 		"name": "BLOGR",
@@ -815,7 +816,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/04/2014",
+		"updated": "11/04/2014"
 	},
 	{
 		"name": "BLOWW",
@@ -824,7 +825,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/04/2014",
+		"updated": "11/04/2014"
 	},
 	{
 		"name": "BLSLE",
@@ -833,7 +834,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/16/2016",
+		"updated": "05/16/2016"
 	},
 	{
 		"name": "BLUEE",
@@ -842,7 +843,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "06/01/2006",
+		"updated": "06/01/2006"
 	},
 	{
 		"name": "BLUGA",
@@ -851,7 +852,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "TED*VOR/DME*229.42/61.13",
+		"updated": "TED*VOR/DME*229.42/61.13"
 	},
 	{
 		"name": "BNGAL",
@@ -860,7 +861,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "FAI*VORTAC*024.00/27.72",
+		"updated": "FAI*VORTAC*024.00/27.72"
 	},
 	{
 		"name": "BOCAA",
@@ -869,7 +870,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/16/2016",
+		"updated": "05/16/2016"
 	},
 	{
 		"name": "BODLE",
@@ -878,7 +879,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/24/2004",
+		"updated": "08/24/2004"
 	},
 	{
 		"name": "BOGAY",
@@ -887,7 +888,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/09/2014",
+		"updated": "06/09/2014"
 	},
 	{
 		"name": "BOGIE",
@@ -896,7 +897,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EIL*TACAN*140.00/18.00",
+		"updated": "EIL*TACAN*140.00/18.00"
 	},
 	{
 		"name": "BOHBI",
@@ -905,7 +906,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/29/2013",
+		"updated": "04/29/2013"
 	},
 	{
 		"name": "BOHNU",
@@ -914,7 +915,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/26/2012",
+		"updated": "12/26/2012"
 	},
 	{
 		"name": "BOLDT",
@@ -923,7 +924,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/19/2016",
+		"updated": "02/19/2016"
 	},
 	{
 		"name": "BONET",
@@ -932,7 +933,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENN*VORTAC*255.05/94.00",
+		"updated": "ENN*VORTAC*255.05/94.00"
 	},
 	{
 		"name": "BOOKU",
@@ -941,7 +942,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/16/2016",
+		"updated": "05/16/2016"
 	},
 	{
 		"name": "BOPPA",
@@ -950,7 +951,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/10/2007",
+		"updated": "05/10/2007"
 	},
 	{
 		"name": "BOREH",
@@ -959,7 +960,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/11/2012",
+		"updated": "09/11/2012"
 	},
 	{
 		"name": "BORME",
@@ -968,7 +969,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/16/2012",
+		"updated": "03/16/2012"
 	},
 	{
 		"name": "BOSGE",
@@ -977,7 +978,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/15/2017",
+		"updated": "05/15/2017"
 	},
 	{
 		"name": "BOTZO",
@@ -986,7 +987,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/22/2016",
+		"updated": "12/22/2016"
 	},
 	{
 		"name": "BOVJU",
@@ -995,7 +996,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "SYA*VORTAC*272.00/5.00",
+		"updated": "SYA*VORTAC*272.00/5.00"
 	},
 	{
 		"name": "BOYAR",
@@ -1004,7 +1005,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/07/2003",
+		"updated": "10/07/2003"
 	},
 	{
 		"name": "BOYUK",
@@ -1013,7 +1014,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OME*LD*278.74/7.15",
+		"updated": "OME*LD*278.74/7.15"
 	},
 	{
 		"name": "BOZEL",
@@ -1022,7 +1023,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/25/2017",
+		"updated": "05/25/2017"
 	},
 	{
 		"name": "BRBAK",
@@ -1031,7 +1032,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "10/30/2017",
+		"updated": "10/30/2017"
 	},
 	{
 		"name": "BREMI",
@@ -1040,7 +1041,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*VORTAC*094.32/30.00",
+		"updated": "AKN*VORTAC*094.32/30.00"
 	},
 	{
 		"name": "BRIJE",
@@ -1049,7 +1050,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "BRINT",
@@ -1058,7 +1059,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/03/2011",
+		"updated": "05/03/2011"
 	},
 	{
 		"name": "BRION",
@@ -1067,7 +1068,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BTT*VOR/DME*123.95/55.00",
+		"updated": "BTT*VOR/DME*123.95/55.00"
 	},
 	{
 		"name": "BRMST",
@@ -1076,7 +1077,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/31/2014",
+		"updated": "10/31/2014"
 	},
 	{
 		"name": "BRODE",
@@ -1085,7 +1086,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EDF*TACAN*267.00/35.00",
+		"updated": "EDF*TACAN*267.00/35.00"
 	},
 	{
 		"name": "BROIL",
@@ -1094,7 +1095,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "TED*VOR/DME*152.84/41.38",
+		"updated": "TED*VOR/DME*152.84/41.38"
 	},
 	{
 		"name": "BRONX",
@@ -1103,7 +1104,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BRW*VOR/DME*135.28/80.00",
+		"updated": "BRW*VOR/DME*135.28/80.00"
 	},
 	{
 		"name": "BROUS",
@@ -1112,7 +1113,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "BRUNI",
@@ -1121,7 +1122,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/26/2012",
+		"updated": "03/26/2012"
 	},
 	{
 		"name": "BRWWN",
@@ -1130,7 +1131,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/29/2013",
+		"updated": "04/29/2013"
 	},
 	{
 		"name": "BRYCI",
@@ -1139,7 +1140,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "07/03/2013",
+		"updated": "07/03/2013"
 	},
 	{
 		"name": "BTWEN",
@@ -1148,7 +1149,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/31/2010",
+		"updated": "05/31/2010"
 	},
 	{
 		"name": "BUFLO",
@@ -1157,7 +1158,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "BIG*VORTAC*046.32/28.90",
+		"updated": "BIG*VORTAC*046.32/28.90"
 	},
 	{
 		"name": "BUGPE",
@@ -1166,7 +1167,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "DLG*VOR/DME*292.99/16.90",
+		"updated": "DLG*VOR/DME*292.99/16.90"
 	},
 	{
 		"name": "BUKAY",
@@ -1175,7 +1176,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/31/2005",
+		"updated": "10/31/2005"
 	},
 	{
 		"name": "BUNUW",
@@ -1184,7 +1185,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/16/2009",
+		"updated": "12/16/2009"
 	},
 	{
 		"name": "BURGH",
@@ -1193,7 +1194,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "08/22/2012",
+		"updated": "08/22/2012"
 	},
 	{
 		"name": "BURMA",
@@ -1202,7 +1203,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "FYU*VORTAC*193.69/40.00",
+		"updated": "FYU*VORTAC*193.69/40.00"
 	},
 	{
 		"name": "BURPE",
@@ -1211,7 +1212,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/26/2015",
+		"updated": "10/26/2015"
 	},
 	{
 		"name": "BURRI",
@@ -1220,7 +1221,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/18/2006",
+		"updated": "09/18/2006"
 	},
 	{
 		"name": "BURTN",
@@ -1229,7 +1230,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "BUSRR",
@@ -1238,7 +1239,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "12/10/2013",
+		"updated": "12/10/2013"
 	},
 	{
 		"name": "BUVPE",
@@ -1247,7 +1248,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/28/2016",
+		"updated": "09/28/2016"
 	},
 	{
 		"name": "BUWOG",
@@ -1256,7 +1257,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/31/2005",
+		"updated": "05/31/2005"
 	},
 	{
 		"name": "BUZUV",
@@ -1265,5 +1266,6 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/07/2009",
-	},
+		"updated": "07/07/2009"
+	}
+]

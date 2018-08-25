@@ -1,3 +1,4 @@
+[
 	{
 		"name": "UBAYA",
 		"latitude": "41-23-39.09 N",
@@ -5,7 +6,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/15/2010",
+		"updated": "11/15/2010"
 	},
 	{
 		"name": "UBIYA",
@@ -14,7 +15,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/16/2008",
+		"updated": "10/16/2008"
 	},
 	{
 		"name": "UBMOZ",
@@ -23,7 +24,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/04/2008",
+		"updated": "06/04/2008"
 	},
 	{
 		"name": "UBUZY",
@@ -32,7 +33,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "WP",
-		"updated": "07/20/2007",
+		"updated": "07/20/2007"
 	},
 	{
 		"name": "UCHOB",
@@ -41,7 +42,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/14/2002",
+		"updated": "02/14/2002"
 	},
 	{
 		"name": "UCODU",
@@ -50,7 +51,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/14/2012",
+		"updated": "05/14/2012"
 	},
 	{
 		"name": "UCOYA",
@@ -59,7 +60,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/31/2008",
+		"updated": "03/31/2008"
 	},
 	{
 		"name": "UCURO",
@@ -68,7 +69,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/28/2018",
+		"updated": "03/28/2018"
 	},
 	{
 		"name": "UDDOV",
@@ -77,7 +78,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MGW*VORTAC*336.56/3.00",
+		"updated": "MGW*VORTAC*336.56/3.00"
 	},
 	{
 		"name": "UDECA",
@@ -86,7 +87,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/02/2005",
+		"updated": "05/02/2005"
 	},
 	{
 		"name": "UDOPE",
@@ -95,7 +96,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/02/2005",
+		"updated": "05/02/2005"
 	},
 	{
 		"name": "UDUSE",
@@ -104,7 +105,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "IHD*VORTAC*002.32/33.98",
+		"updated": "IHD*VORTAC*002.32/33.98"
 	},
 	{
 		"name": "UDUSY",
@@ -113,7 +114,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "WP",
-		"updated": "07/20/2007",
+		"updated": "07/20/2007"
 	},
 	{
 		"name": "UFBEF",
@@ -122,7 +123,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/20/2015",
+		"updated": "03/20/2015"
 	},
 	{
 		"name": "UFBIL",
@@ -131,7 +132,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/20/2011",
+		"updated": "04/20/2011"
 	},
 	{
 		"name": "UFDIV",
@@ -140,7 +141,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/20/2009",
+		"updated": "02/20/2009"
 	},
 	{
 		"name": "UFLEJ",
@@ -149,7 +150,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/26/2013",
+		"updated": "12/26/2013"
 	},
 	{
 		"name": "UFOFY",
@@ -158,7 +159,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/06/2001",
+		"updated": "08/06/2001"
 	},
 	{
 		"name": "UFOLO",
@@ -167,7 +168,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "UFPUY",
@@ -176,7 +177,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/11/2013",
+		"updated": "06/11/2013"
 	},
 	{
 		"name": "UFSIW",
@@ -185,7 +186,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/25/2013",
+		"updated": "03/25/2013"
 	},
 	{
 		"name": "UGASE",
@@ -194,7 +195,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/18/2006",
+		"updated": "05/18/2006"
 	},
 	{
 		"name": "UGEYE",
@@ -203,7 +204,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "UGEYO",
@@ -212,7 +213,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/13/2015",
+		"updated": "05/13/2015"
 	},
 	{
 		"name": "UGHEW",
@@ -221,7 +222,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "UGJOB",
@@ -230,7 +231,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MGW*VORTAC*180.00",
+		"updated": "MGW*VORTAC*180.00"
 	},
 	{
 		"name": "UGOCO",
@@ -239,7 +240,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/21/2013",
+		"updated": "08/21/2013"
 	},
 	{
 		"name": "UHGUS",
@@ -248,7 +249,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "UHRUZ",
@@ -257,7 +258,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/26/2015",
+		"updated": "02/26/2015"
 	},
 	{
 		"name": "UHZOS",
@@ -266,7 +267,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/18/2006",
+		"updated": "05/18/2006"
 	},
 	{
 		"name": "UJEXY",
@@ -275,7 +276,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/01/2013",
+		"updated": "02/01/2013"
 	},
 	{
 		"name": "UJILE",
@@ -284,7 +285,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/20/2012",
+		"updated": "04/20/2012"
 	},
 	{
 		"name": "UJUXU",
@@ -293,7 +294,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/28/2013",
+		"updated": "08/28/2013"
 	},
 	{
 		"name": "UKNIX",
@@ -302,7 +303,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/12/2016",
+		"updated": "11/12/2016"
 	},
 	{
 		"name": "UKYIR",
@@ -311,7 +312,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "ULANY",
@@ -320,7 +321,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/06/2018",
+		"updated": "02/06/2018"
 	},
 	{
 		"name": "ULIYE",
@@ -329,7 +330,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "ULIZE",
@@ -338,7 +339,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/26/2016",
+		"updated": "09/26/2016"
 	},
 	{
 		"name": "ULOCI",
@@ -347,7 +348,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/13/2015",
+		"updated": "04/13/2015"
 	},
 	{
 		"name": "ULOCO",
@@ -356,7 +357,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/04/2005",
+		"updated": "05/04/2005"
 	},
 	{
 		"name": "ULSOQ",
@@ -365,7 +366,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/04/2008",
+		"updated": "06/04/2008"
 	},
 	{
 		"name": "ULUCA",
@@ -374,7 +375,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "ULUFY",
@@ -383,7 +384,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/16/2018",
+		"updated": "04/16/2018"
 	},
 	{
 		"name": "ULUKE",
@@ -392,7 +393,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/25/2007",
+		"updated": "09/25/2007"
 	},
 	{
 		"name": "ULWOX",
@@ -401,7 +402,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "ULZEP",
@@ -410,7 +411,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/20/2014",
+		"updated": "02/20/2014"
 	},
 	{
 		"name": "UMAGY",
@@ -419,7 +420,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "GEE*VOR/DME*100.21/24.00",
+		"updated": "GEE*VOR/DME*100.21/24.00"
 	},
 	{
 		"name": "UMAJY",
@@ -428,7 +429,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/15/2013",
+		"updated": "04/15/2013"
 	},
 	{
 		"name": "UMEFA",
@@ -437,7 +438,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/10/2015",
+		"updated": "03/10/2015"
 	},
 	{
 		"name": "UMHUG",
@@ -446,7 +447,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/28/2014",
+		"updated": "09/28/2014"
 	},
 	{
 		"name": "UMINE",
@@ -455,7 +456,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "UMOSE",
@@ -464,7 +465,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/08/2017",
+		"updated": "08/08/2017"
 	},
 	{
 		"name": "UMOWE",
@@ -473,7 +474,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/24/2009",
+		"updated": "02/24/2009"
 	},
 	{
 		"name": "UMTAW",
@@ -482,7 +483,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/04/2017",
+		"updated": "04/04/2017"
 	},
 	{
 		"name": "UMVIW",
@@ -491,7 +492,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/08/2017",
+		"updated": "08/08/2017"
 	},
 	{
 		"name": "UNAMY",
@@ -500,7 +501,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "UNERE",
@@ -509,7 +510,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/28/2008",
+		"updated": "02/28/2008"
 	},
 	{
 		"name": "UNISY",
@@ -518,7 +519,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "UNITS",
@@ -527,7 +528,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "ROC*VOR/DME*226.64",
+		"updated": "ROC*VOR/DME*226.64"
 	},
 	{
 		"name": "UNTIW",
@@ -536,7 +537,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/10/2015",
+		"updated": "03/10/2015"
 	},
 	{
 		"name": "UNURY",
@@ -545,7 +546,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/20/2017",
+		"updated": "10/20/2017"
 	},
 	{
 		"name": "UPAWY",
@@ -554,7 +555,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "UPCOY",
@@ -563,7 +564,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/06/2014",
+		"updated": "02/06/2014"
 	},
 	{
 		"name": "UPIYO",
@@ -572,7 +573,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "UPODY",
@@ -581,7 +582,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "UPOKY",
@@ -590,7 +591,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/16/2017",
+		"updated": "03/16/2017"
 	},
 	{
 		"name": "UPRIW",
@@ -599,7 +600,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/20/2011",
+		"updated": "12/20/2011"
 	},
 	{
 		"name": "UPUCO",
@@ -608,7 +609,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "URNOZ",
@@ -617,7 +618,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "UROCE",
@@ -626,7 +627,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "URSSA",
@@ -635,7 +636,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/11/2014",
+		"updated": "09/11/2014"
 	},
 	{
 		"name": "USUSE",
@@ -644,7 +645,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "UTEBE",
@@ -653,7 +654,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/25/2013",
+		"updated": "03/25/2013"
 	},
 	{
 		"name": "UTTEW",
@@ -662,7 +663,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/21/2016",
+		"updated": "09/21/2016"
 	},
 	{
 		"name": "UVGAW",
@@ -671,7 +672,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/14/2002",
+		"updated": "02/14/2002"
 	},
 	{
 		"name": "UVNEW",
@@ -680,7 +681,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/15/2017",
+		"updated": "12/15/2017"
 	},
 	{
 		"name": "UVOPY",
@@ -689,7 +690,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/13/2002",
+		"updated": "02/13/2002"
 	},
 	{
 		"name": "UVTHE",
@@ -698,7 +699,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "UYELE",
@@ -707,7 +708,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/13/2008",
+		"updated": "02/13/2008"
 	},
 	{
 		"name": "UYNOK",
@@ -716,7 +717,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "WP",
-		"updated": "07/20/2007",
+		"updated": "07/20/2007"
 	},
 	{
 		"name": "UYUHO",
@@ -725,7 +726,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/23/2012",
+		"updated": "07/23/2012"
 	},
 	{
 		"name": "UYULU",
@@ -734,7 +735,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/01/2011",
+		"updated": "03/01/2011"
 	},
 	{
 		"name": "UZOHI",
@@ -743,7 +744,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/11/2013",
+		"updated": "06/11/2013"
 	},
 	{
 		"name": "UZUBI",
@@ -752,5 +753,6 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/01/2011",
-	},
+		"updated": "03/01/2011"
+	}
+]

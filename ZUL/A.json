@@ -1,3 +1,4 @@
+[
 	{
 		"name": "ALONI",
 		"latitude": "44-38-54 N",
@@ -5,7 +6,7 @@
 		"state": "",
 		"artcc": "ZUL",
 		"type": "RNAV",
-		"updated": "09/23/2014",
+		"updated": "09/23/2014"
 	},
 	{
 		"name": "ANTOV",
@@ -14,7 +15,7 @@
 		"state": "",
 		"artcc": "ZUL",
 		"type": "RNAV",
-		"updated": "09/23/2014",
+		"updated": "09/23/2014"
 	},
 	{
 		"name": "ATENE",
@@ -23,5 +24,6 @@
 		"state": "",
 		"artcc": "ZUL",
 		"type": "RP",
-		"updated": "YQB*VORTAC*134.00",
-	},
+		"updated": "YQB*VORTAC*134.00"
+	}
+]

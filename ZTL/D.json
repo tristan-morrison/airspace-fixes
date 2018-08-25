@@ -1,3 +1,4 @@
+[
 	{
 		"name": "DABBO",
 		"latitude": "34-28-57.83 N",
@@ -5,7 +6,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/10/2017",
+		"updated": "04/10/2017"
 	},
 	{
 		"name": "DABRO",
@@ -14,7 +15,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "OKW*VORTAC*075.61/11.56",
+		"updated": "OKW*VORTAC*075.61/11.56"
 	},
 	{
 		"name": "DACAK",
@@ -23,7 +24,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/10/2011",
+		"updated": "03/10/2011"
 	},
 	{
 		"name": "DACEG",
@@ -32,7 +33,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/09/2005",
+		"updated": "11/09/2005"
 	},
 	{
 		"name": "DACHA",
@@ -41,7 +42,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "AHN*VOR/DME*195.23/9.80",
+		"updated": "AHN*VOR/DME*195.23/9.80"
 	},
 	{
 		"name": "DACNA",
@@ -50,7 +51,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "DACTL",
@@ -59,7 +60,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/18/2017",
+		"updated": "08/18/2017"
 	},
 	{
 		"name": "DAFII",
@@ -68,7 +69,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/18/2017",
+		"updated": "08/18/2017"
 	},
 	{
 		"name": "DAGNY",
@@ -77,7 +78,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "DAILE",
@@ -86,7 +87,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "VXV*VORTAC*019.00/15.00",
+		"updated": "VXV*VORTAC*019.00/15.00"
 	},
 	{
 		"name": "DAISI",
@@ -95,7 +96,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/29/2014",
+		"updated": "01/29/2014"
 	},
 	{
 		"name": "DAJPI",
@@ -104,7 +105,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/10/2016",
+		"updated": "11/10/2016"
 	},
 	{
 		"name": "DAKPY",
@@ -113,7 +114,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/11/2010",
+		"updated": "08/11/2010"
 	},
 	{
 		"name": "DALAS",
@@ -122,7 +123,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GAD*VOR/DME*089.00/61.68",
+		"updated": "GAD*VOR/DME*089.00/61.68"
 	},
 	{
 		"name": "DAMAS",
@@ -131,7 +132,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GZG*VOR/DME*148.00",
+		"updated": "GZG*VOR/DME*148.00"
 	},
 	{
 		"name": "DAMLE",
@@ -140,7 +141,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/06/2003",
+		"updated": "02/06/2003"
 	},
 	{
 		"name": "DANBI",
@@ -149,7 +150,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "AHN*VOR/DME*103.58/18.10",
+		"updated": "AHN*VOR/DME*103.58/18.10"
 	},
 	{
 		"name": "DANYU",
@@ -158,7 +159,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/27/2009",
+		"updated": "05/27/2009"
 	},
 	{
 		"name": "DAREE",
@@ -167,7 +168,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/05/2014",
+		"updated": "02/05/2014"
 	},
 	{
 		"name": "DARRL",
@@ -176,7 +177,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "SPA*VORTAC*110.00",
+		"updated": "SPA*VORTAC*110.00"
 	},
 	{
 		"name": "DASCA",
@@ -185,7 +186,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "SUG*VORTAC*095.19",
+		"updated": "SUG*VORTAC*095.19"
 	},
 	{
 		"name": "DAUBY",
@@ -194,7 +195,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "HCH*VOR/DME*335.04/6.40",
+		"updated": "HCH*VOR/DME*335.04/6.40"
 	},
 	{
 		"name": "DAVSS",
@@ -203,7 +204,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/11/2011",
+		"updated": "07/11/2011"
 	},
 	{
 		"name": "DAYEL",
@@ -212,7 +213,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "HRS*VORTAC*086.26/31.55",
+		"updated": "HRS*VORTAC*086.26/31.55"
 	},
 	{
 		"name": "DAYTE",
@@ -221,7 +222,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/12/2012",
+		"updated": "06/12/2012"
 	},
 	{
 		"name": "DAYVS",
@@ -230,7 +231,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/30/2018",
+		"updated": "03/30/2018"
 	},
 	{
 		"name": "DBOLT",
@@ -239,7 +240,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "DDASH",
@@ -248,7 +249,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/07/2017",
+		"updated": "12/07/2017"
 	},
 	{
 		"name": "DDUBB",
@@ -257,7 +258,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/25/2011",
+		"updated": "08/25/2011"
 	},
 	{
 		"name": "DEAKN",
@@ -266,7 +267,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/10/2016",
+		"updated": "11/10/2016"
 	},
 	{
 		"name": "DEANY",
@@ -275,7 +276,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "RQZ*VORTAC*195.40/19.50",
+		"updated": "RQZ*VORTAC*195.40/19.50"
 	},
 	{
 		"name": "DEBAY",
@@ -284,7 +285,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*062.33",
+		"updated": "DCU*VOR/DME*062.33"
 	},
 	{
 		"name": "DEBBT",
@@ -293,7 +294,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/12/2016",
+		"updated": "05/12/2016"
 	},
 	{
 		"name": "DEBIE",
@@ -302,7 +303,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CLT*VOR/DME*255.00/44.99",
+		"updated": "CLT*VOR/DME*255.00/44.99"
 	},
 	{
 		"name": "DEBIY",
@@ -311,7 +312,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/02/2009",
+		"updated": "02/02/2009"
 	},
 	{
 		"name": "DEBKE",
@@ -320,7 +321,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/07/2003",
+		"updated": "02/07/2003"
 	},
 	{
 		"name": "DEBNE",
@@ -329,7 +330,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/09/2015",
+		"updated": "09/09/2015"
 	},
 	{
 		"name": "DECEG",
@@ -338,7 +339,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/15/2009",
+		"updated": "09/15/2009"
 	},
 	{
 		"name": "DECLN",
@@ -347,7 +348,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "DEELX",
@@ -356,7 +357,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/12/2016",
+		"updated": "05/12/2016"
 	},
 	{
 		"name": "DEFFN",
@@ -365,7 +366,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/10/2016",
+		"updated": "11/10/2016"
 	},
 	{
 		"name": "DEFOX",
@@ -374,7 +375,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "XUU*LD*182.96/8.22",
+		"updated": "XUU*LD*182.96/8.22"
 	},
 	{
 		"name": "DEHAN",
@@ -383,7 +384,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/08/2016",
+		"updated": "12/08/2016"
 	},
 	{
 		"name": "DEJAA",
@@ -392,7 +393,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "PDK*VOR/DME*186.97",
+		"updated": "PDK*VOR/DME*186.97"
 	},
 	{
 		"name": "DELBE",
@@ -401,7 +402,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "MGM*VORTAC*313.00/87.00",
+		"updated": "MGM*VORTAC*313.00/87.00"
 	},
 	{
 		"name": "DELFI",
@@ -410,7 +411,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "VUZ*VORTAC*356.08/13.19",
+		"updated": "VUZ*VORTAC*356.08/13.19"
 	},
 	{
 		"name": "DEMNZ",
@@ -419,7 +420,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/10/2016",
+		"updated": "11/10/2016"
 	},
 	{
 		"name": "DENNE",
@@ -428,7 +429,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CTF*VOR/DME*304.38/37.94",
+		"updated": "CTF*VOR/DME*304.38/37.94"
 	},
 	{
 		"name": "DENST",
@@ -437,7 +438,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/17/2017",
+		"updated": "08/17/2017"
 	},
 	{
 		"name": "DENTT",
@@ -446,7 +447,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/28/2017",
+		"updated": "04/28/2017"
 	},
 	{
 		"name": "DEPEN",
@@ -455,7 +456,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/24/2004",
+		"updated": "08/24/2004"
 	},
 	{
 		"name": "DEPOT",
@@ -464,7 +465,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "PDK*VOR/DME*186.86",
+		"updated": "PDK*VOR/DME*186.86"
 	},
 	{
 		"name": "DESKS",
@@ -473,7 +474,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "PZD*VOR/DME*029.76/12.04",
+		"updated": "PZD*VOR/DME*029.76/12.04"
 	},
 	{
 		"name": "DETPY",
@@ -482,7 +483,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/27/2009",
+		"updated": "05/27/2009"
 	},
 	{
 		"name": "DEWHY",
@@ -491,7 +492,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "OMO*LD*274.96/18.83",
+		"updated": "OMO*LD*274.96/18.83"
 	},
 	{
 		"name": "DEZLY",
@@ -500,7 +501,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/04/2007",
+		"updated": "09/04/2007"
 	},
 	{
 		"name": "DFINS",
@@ -509,7 +510,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "FT*NDB*229.68",
+		"updated": "FT*NDB*229.68"
 	},
 	{
 		"name": "DGESS",
@@ -518,7 +519,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "DICAK",
@@ -527,7 +528,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "TDG*VOR/DME*263.04/10.20",
+		"updated": "TDG*VOR/DME*263.04/10.20"
 	},
 	{
 		"name": "DICAV",
@@ -536,7 +537,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/12/2008",
+		"updated": "02/12/2008"
 	},
 	{
 		"name": "DICVA",
@@ -545,7 +546,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/10/2011",
+		"updated": "03/10/2011"
 	},
 	{
 		"name": "DIFFI",
@@ -554,7 +555,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "RMG*VORTAC*172.02/21.02",
+		"updated": "RMG*VORTAC*172.02/21.02"
 	},
 	{
 		"name": "DILLA",
@@ -563,7 +564,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "ODF*VORTAC*020.00",
+		"updated": "ODF*VORTAC*020.00"
 	},
 	{
 		"name": "DINGS",
@@ -572,7 +573,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "MVC*VORTAC*095.19/10.50",
+		"updated": "MVC*VORTAC*095.19/10.50"
 	},
 	{
 		"name": "DIODE",
@@ -581,7 +582,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/18/2017",
+		"updated": "04/18/2017"
 	},
 	{
 		"name": "DIOLS",
@@ -590,7 +591,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/07/2015",
+		"updated": "07/07/2015"
 	},
 	{
 		"name": "DISTE",
@@ -599,7 +600,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "MR",
-		"updated": "MCN*VORTAC*318.00/10.00",
+		"updated": "MCN*VORTAC*318.00/10.00"
 	},
 	{
 		"name": "DIVYA",
@@ -608,7 +609,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/03/2007",
+		"updated": "10/03/2007"
 	},
 	{
 		"name": "DIYAY",
@@ -617,7 +618,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/27/2004",
+		"updated": "10/27/2004"
 	},
 	{
 		"name": "DLLNN",
@@ -626,7 +627,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/17/2016",
+		"updated": "08/17/2016"
 	},
 	{
 		"name": "DLUTH",
@@ -635,7 +636,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "ATL*VORTAC*028.66/30.00",
+		"updated": "ATL*VORTAC*028.66/30.00"
 	},
 	{
 		"name": "DMBBT",
@@ -644,7 +645,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "CN",
-		"updated": "10/06/2000",
+		"updated": "10/06/2000"
 	},
 	{
 		"name": "DMFCD",
@@ -653,7 +654,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "CN",
-		"updated": "08/09/2011",
+		"updated": "08/09/2011"
 	},
 	{
 		"name": "DMGPI",
@@ -662,7 +663,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "CN",
-		"updated": "11/28/2000",
+		"updated": "11/28/2000"
 	},
 	{
 		"name": "DMHBB",
@@ -671,7 +672,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "CN",
-		"updated": "04/13/2001",
+		"updated": "04/13/2001"
 	},
 	{
 		"name": "DMIPK",
@@ -680,7 +681,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "CN",
-		"updated": "04/13/2001",
+		"updated": "04/13/2001"
 	},
 	{
 		"name": "DNGBD",
@@ -689,7 +690,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "CN",
-		"updated": "05/20/2011",
+		"updated": "05/20/2011"
 	},
 	{
 		"name": "DNIKK",
@@ -698,7 +699,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "DOBCE",
@@ -707,7 +708,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/25/2016",
+		"updated": "05/25/2016"
 	},
 	{
 		"name": "DOCAK",
@@ -716,7 +717,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/26/2012",
+		"updated": "09/26/2012"
 	},
 	{
 		"name": "DOCEC",
@@ -725,7 +726,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/15/2015",
+		"updated": "09/15/2015"
 	},
 	{
 		"name": "DOCEG",
@@ -734,7 +735,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/27/2004",
+		"updated": "10/27/2004"
 	},
 	{
 		"name": "DODME",
@@ -743,7 +744,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/03/2013",
+		"updated": "01/03/2013"
 	},
 	{
 		"name": "DODTA",
@@ -752,7 +753,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/27/2004",
+		"updated": "10/27/2004"
 	},
 	{
 		"name": "DOILY",
@@ -761,7 +762,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "BLF*VOR/DME*143.00",
+		"updated": "BLF*VOR/DME*143.00"
 	},
 	{
 		"name": "DOKDE",
@@ -770,7 +771,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/06/2017",
+		"updated": "06/06/2017"
 	},
 	{
 		"name": "DOLLI",
@@ -779,7 +780,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/17/2016",
+		"updated": "11/17/2016"
 	},
 	{
 		"name": "DONAH",
@@ -788,7 +789,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CSG*VORTAC*001.20",
+		"updated": "CSG*VORTAC*001.20"
 	},
 	{
 		"name": "DOODD",
@@ -797,7 +798,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "SPA*VORTAC*271.12",
+		"updated": "SPA*VORTAC*271.12"
 	},
 	{
 		"name": "DOOGE",
@@ -806,7 +807,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/25/2015",
+		"updated": "06/25/2015"
 	},
 	{
 		"name": "DOOMY",
@@ -815,7 +816,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/13/2016",
+		"updated": "05/13/2016"
 	},
 	{
 		"name": "DORFF",
@@ -824,7 +825,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "BZM*VOR/DME*356.46",
+		"updated": "BZM*VOR/DME*356.46"
 	},
 	{
 		"name": "DORRA",
@@ -833,7 +834,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "VUZ*VORTAC*301.94/20.00",
+		"updated": "VUZ*VORTAC*301.94/20.00"
 	},
 	{
 		"name": "DOSBE",
@@ -842,7 +843,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/12/2016",
+		"updated": "05/12/2016"
 	},
 	{
 		"name": "DOSLE",
@@ -851,7 +852,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "MW",
-		"updated": "01/24/2017",
+		"updated": "01/24/2017"
 	},
 	{
 		"name": "DOTSN",
@@ -860,7 +861,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "AHN*VOR/DME*070.00/20.92",
+		"updated": "AHN*VOR/DME*070.00/20.92"
 	},
 	{
 		"name": "DOVSE",
@@ -869,7 +870,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "APU*LD*NE CRS/3.36",
+		"updated": "APU*LD*NE CRS/3.36"
 	},
 	{
 		"name": "DOWDU",
@@ -878,7 +879,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/24/2014",
+		"updated": "02/24/2014"
 	},
 	{
 		"name": "DOZVA",
@@ -887,7 +888,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/26/2010",
+		"updated": "01/26/2010"
 	},
 	{
 		"name": "DRINC",
@@ -896,7 +897,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "DRIVN",
@@ -905,7 +906,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/09/2015",
+		"updated": "09/09/2015"
 	},
 	{
 		"name": "DROYD",
@@ -914,7 +915,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/21/2017",
+		"updated": "08/21/2017"
 	},
 	{
 		"name": "DRSDN",
@@ -923,7 +924,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/17/2017",
+		"updated": "08/17/2017"
 	},
 	{
 		"name": "DRYDN",
@@ -932,7 +933,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "TGE*VOR/DME*074.51/10.08",
+		"updated": "TGE*VOR/DME*074.51/10.08"
 	},
 	{
 		"name": "DRYVR",
@@ -941,7 +942,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GRD*VORTAC*138.96/16.00",
+		"updated": "GRD*VORTAC*138.96/16.00"
 	},
 	{
 		"name": "DTSTR",
@@ -950,7 +951,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/06/2017",
+		"updated": "09/06/2017"
 	},
 	{
 		"name": "DUBBB",
@@ -959,7 +960,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/20/2017",
+		"updated": "06/20/2017"
 	},
 	{
 		"name": "DUBBS",
@@ -968,7 +969,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "HCH*VOR/DME*162.04/32.76",
+		"updated": "HCH*VOR/DME*162.04/32.76"
 	},
 	{
 		"name": "DUBNE",
@@ -977,7 +978,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/24/2007",
+		"updated": "07/24/2007"
 	},
 	{
 		"name": "DUCAB",
@@ -986,7 +987,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/03/2007",
+		"updated": "10/03/2007"
 	},
 	{
 		"name": "DUCUT",
@@ -995,7 +996,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "AHN*VOR/DME*318.73/13.00",
+		"updated": "AHN*VOR/DME*318.73/13.00"
 	},
 	{
 		"name": "DUGGE",
@@ -1004,7 +1005,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/03/2007",
+		"updated": "10/03/2007"
 	},
 	{
 		"name": "DULII",
@@ -1013,7 +1014,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GSO*VORTAC*334.33/12.00",
+		"updated": "GSO*VORTAC*334.33/12.00"
 	},
 	{
 		"name": "DUMBB",
@@ -1022,7 +1023,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "RQZ*VORTAC*098.64/75.53",
+		"updated": "RQZ*VORTAC*098.64/75.53"
 	},
 	{
 		"name": "DUMMY",
@@ -1031,7 +1032,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "DBN*VORTAC*214.08",
+		"updated": "DBN*VORTAC*214.08"
 	},
 	{
 		"name": "DUNCS",
@@ -1040,7 +1041,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/31/2014",
+		"updated": "01/31/2014"
 	},
 	{
 		"name": "DUNKE",
@@ -1049,7 +1050,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "SPA*VORTAC*231.30",
+		"updated": "SPA*VORTAC*231.30"
 	},
 	{
 		"name": "DUNNE",
@@ -1058,7 +1059,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "WP",
-		"updated": "07/25/1995",
+		"updated": "07/25/1995"
 	},
 	{
 		"name": "DUNRE",
@@ -1067,7 +1068,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/12/2014",
+		"updated": "06/12/2014"
 	},
 	{
 		"name": "DUVAT",
@@ -1076,7 +1077,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "EUF*VORTAC*088.00",
+		"updated": "EUF*VORTAC*088.00"
 	},
 	{
 		"name": "DUVEY",
@@ -1085,7 +1086,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/20/2007",
+		"updated": "07/20/2007"
 	},
 	{
 		"name": "DWOOD",
@@ -1094,7 +1095,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/03/2010",
+		"updated": "09/03/2010"
 	},
 	{
 		"name": "DYANA",
@@ -1103,5 +1104,6 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GYH*LD*SW CRS/6.06",
-	},
+		"updated": "GYH*LD*SW CRS/6.06"
+	}
+]

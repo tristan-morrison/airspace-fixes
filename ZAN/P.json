@@ -1,3 +1,4 @@
+[
 	{
 		"name": "PAAYY",
 		"latitude": "58-17-30.79 N",
@@ -5,7 +6,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/18/2016",
+		"updated": "05/18/2016"
 	},
 	{
 		"name": "PABGE",
@@ -14,7 +15,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "CDB*VORTAC*143.11/7.65",
+		"updated": "CDB*VORTAC*143.11/7.65"
 	},
 	{
 		"name": "PACHA",
@@ -23,7 +24,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/18/2014",
+		"updated": "11/18/2014"
 	},
 	{
 		"name": "PACKI",
@@ -32,7 +33,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/29/2008",
+		"updated": "07/29/2008"
 	},
 	{
 		"name": "PADOE",
@@ -41,7 +42,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "PAGGI",
@@ -50,7 +51,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "BIG*VORTAC*317.00/33.20",
+		"updated": "BIG*VORTAC*317.00/33.20"
 	},
 	{
 		"name": "PAHSI",
@@ -59,7 +60,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/13/2010",
+		"updated": "04/13/2010"
 	},
 	{
 		"name": "PALBE",
@@ -68,7 +69,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "07/05/2013",
+		"updated": "07/05/2013"
 	},
 	{
 		"name": "PALIN",
@@ -77,7 +78,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/11/2009",
+		"updated": "03/11/2009"
 	},
 	{
 		"name": "PARZY",
@@ -86,7 +87,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/26/2009",
+		"updated": "06/26/2009"
 	},
 	{
 		"name": "PASGE",
@@ -95,7 +96,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/31/2004",
+		"updated": "08/31/2004"
 	},
 	{
 		"name": "PASRO",
@@ -104,7 +105,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "09/19/2000",
+		"updated": "09/19/2000"
 	},
 	{
 		"name": "PAWLA",
@@ -113,7 +114,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/09/2009",
+		"updated": "09/09/2009"
 	},
 	{
 		"name": "PAXON",
@@ -122,7 +123,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "GKN*VOR/DME*333.38/50.00",
+		"updated": "GKN*VOR/DME*333.38/50.00"
 	},
 	{
 		"name": "PAYDI",
@@ -131,7 +132,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "VDZ*DD*SW CRS/14.80",
+		"updated": "VDZ*DD*SW CRS/14.80"
 	},
 	{
 		"name": "PAYIS",
@@ -140,7 +141,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/05/2011",
+		"updated": "10/05/2011"
 	},
 	{
 		"name": "PAYKO",
@@ -149,7 +150,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/22/2004",
+		"updated": "03/22/2004"
 	},
 	{
 		"name": "PAYOR",
@@ -158,7 +159,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/01/2016",
+		"updated": "12/01/2016"
 	},
 	{
 		"name": "PEASY",
@@ -167,7 +168,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/17/2014",
+		"updated": "11/17/2014"
 	},
 	{
 		"name": "PEDTI",
@@ -176,7 +177,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/03/2006",
+		"updated": "08/03/2006"
 	},
 	{
 		"name": "PEDUJ",
@@ -185,7 +186,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "DLG*VOR/DME*246.02/10.00",
+		"updated": "DLG*VOR/DME*246.02/10.00"
 	},
 	{
 		"name": "PEGPE",
@@ -194,7 +195,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/18/2006",
+		"updated": "09/18/2006"
 	},
 	{
 		"name": "PEKDY",
@@ -203,7 +204,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/19/2008",
+		"updated": "08/19/2008"
 	},
 	{
 		"name": "PELDE",
@@ -212,7 +213,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EIL*TACAN*/1.00",
+		"updated": "EIL*TACAN*/1.00"
 	},
 	{
 		"name": "PELTE",
@@ -221,7 +222,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SSR*VORTAC*166.93/10.00",
+		"updated": "SSR*VORTAC*166.93/10.00"
 	},
 	{
 		"name": "PEMOW",
@@ -230,7 +231,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "05/18/2010",
+		"updated": "05/18/2010"
 	},
 	{
 		"name": "PENIE",
@@ -239,7 +240,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BET*LD*012.47/2.58",
+		"updated": "BET*LD*012.47/2.58"
 	},
 	{
 		"name": "PEPIC",
@@ -248,7 +249,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/31/2004",
+		"updated": "08/31/2004"
 	},
 	{
 		"name": "PEPPI",
@@ -257,7 +258,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "JOH*VOR/DME*272.81/40.00",
+		"updated": "JOH*VOR/DME*272.81/40.00"
 	},
 	{
 		"name": "PEPVE",
@@ -266,7 +267,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "TED*VOR/DME*012.00/22.00",
+		"updated": "TED*VOR/DME*012.00/22.00"
 	},
 	{
 		"name": "PERCI",
@@ -275,7 +276,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/09/2005",
+		"updated": "06/09/2005"
 	},
 	{
 		"name": "PEREE",
@@ -284,7 +285,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/26/2012",
+		"updated": "10/26/2012"
 	},
 	{
 		"name": "PERZO",
@@ -293,7 +294,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/10/2017",
+		"updated": "05/10/2017"
 	},
 	{
 		"name": "PESGE",
@@ -302,7 +303,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/18/2010",
+		"updated": "02/18/2010"
 	},
 	{
 		"name": "PETRZ",
@@ -311,7 +312,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "10/02/1995",
+		"updated": "10/02/1995"
 	},
 	{
 		"name": "PEWUK",
@@ -320,7 +321,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "PDN*NDB/DME*197.28/20.03",
+		"updated": "PDN*NDB/DME*197.28/20.03"
 	},
 	{
 		"name": "PEYKI",
@@ -329,7 +330,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/01/2007",
+		"updated": "08/01/2007"
 	},
 	{
 		"name": "PEYUG",
@@ -338,7 +339,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SCC*VOR/DME*282.52/12.00",
+		"updated": "SCC*VOR/DME*282.52/12.00"
 	},
 	{
 		"name": "PEZUM",
@@ -347,7 +348,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/24/2014",
+		"updated": "11/24/2014"
 	},
 	{
 		"name": "PHINK",
@@ -356,7 +357,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/06/2015",
+		"updated": "11/06/2015"
 	},
 	{
 		"name": "PHOMM",
@@ -365,7 +366,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "11/26/2013",
+		"updated": "11/26/2013"
 	},
 	{
 		"name": "PHOTO",
@@ -374,7 +375,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OME*VOR/DME*358.00/30.00",
+		"updated": "OME*VOR/DME*358.00/30.00"
 	},
 	{
 		"name": "PIBIC",
@@ -383,7 +384,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/19/2018",
+		"updated": "04/19/2018"
 	},
 	{
 		"name": "PIBIY",
@@ -392,7 +393,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/30/2008",
+		"updated": "05/30/2008"
 	},
 	{
 		"name": "PICNI",
@@ -401,7 +402,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENM*VOR/DME*041.35/16.54",
+		"updated": "ENM*VOR/DME*041.35/16.54"
 	},
 	{
 		"name": "PILUN",
@@ -410,7 +411,7 @@
 		"state": "",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/23/2015",
+		"updated": "09/23/2015"
 	},
 	{
 		"name": "PIMBE",
@@ -419,7 +420,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/19/2016",
+		"updated": "02/19/2016"
 	},
 	{
 		"name": "PINAG",
@@ -428,7 +429,7 @@
 		"state": "",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/03/2017",
+		"updated": "07/03/2017"
 	},
 	{
 		"name": "PINSO",
@@ -437,7 +438,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/13/2016",
+		"updated": "05/13/2016"
 	},
 	{
 		"name": "PINTT",
@@ -446,7 +447,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "09/09/2005",
+		"updated": "09/09/2005"
 	},
 	{
 		"name": "PIPET",
@@ -455,7 +456,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SCC*VOR/DME*163.43/60.00",
+		"updated": "SCC*VOR/DME*163.43/60.00"
 	},
 	{
 		"name": "PIVIY",
@@ -464,7 +465,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/25/2005",
+		"updated": "11/25/2005"
 	},
 	{
 		"name": "PIYIL",
@@ -473,7 +474,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/10/2007",
+		"updated": "05/10/2007"
 	},
 	{
 		"name": "PIYIR",
@@ -482,7 +483,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/27/2014",
+		"updated": "02/27/2014"
 	},
 	{
 		"name": "PIYOB",
@@ -491,7 +492,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "PIYSO",
@@ -500,7 +501,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/27/2005",
+		"updated": "12/27/2005"
 	},
 	{
 		"name": "PLADO",
@@ -509,7 +510,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "08/01/2007",
+		"updated": "08/01/2007"
 	},
 	{
 		"name": "PLICK",
@@ -518,7 +519,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HOM*LE*SW CRS/16.77",
+		"updated": "HOM*LE*SW CRS/16.77"
 	},
 	{
 		"name": "PLOMB",
@@ -527,7 +528,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/29/2012",
+		"updated": "11/29/2012"
 	},
 	{
 		"name": "POCPI",
@@ -536,7 +537,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/12/2012",
+		"updated": "09/12/2012"
 	},
 	{
 		"name": "POCYI",
@@ -545,7 +546,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "MCG*VORTAC*325.46/14.00",
+		"updated": "MCG*VORTAC*325.46/14.00"
 	},
 	{
 		"name": "PODHY",
@@ -554,7 +555,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/01/2006",
+		"updated": "11/01/2006"
 	},
 	{
 		"name": "PODKE",
@@ -563,7 +564,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/10/2010",
+		"updated": "06/10/2010"
 	},
 	{
 		"name": "POETT",
@@ -572,7 +573,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SPY*NDB/DME*033.57/139.36",
+		"updated": "SPY*NDB/DME*033.57/139.36"
 	},
 	{
 		"name": "POLYC",
@@ -581,7 +582,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/13/2017",
+		"updated": "07/13/2017"
 	},
 	{
 		"name": "PONMO",
@@ -590,7 +591,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "11/04/2014",
+		"updated": "11/04/2014"
 	},
 	{
 		"name": "POOFF",
@@ -599,7 +600,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/26/2011",
+		"updated": "01/26/2011"
 	},
 	{
 		"name": "POPSE",
@@ -608,7 +609,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "07/28/2008",
+		"updated": "07/28/2008"
 	},
 	{
 		"name": "PORGE",
@@ -617,7 +618,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "09/19/2000",
+		"updated": "09/19/2000"
 	},
 	{
 		"name": "PORIC",
@@ -626,7 +627,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/01/2016",
+		"updated": "12/01/2016"
 	},
 	{
 		"name": "PORTO",
@@ -635,7 +636,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "02/27/1998",
+		"updated": "02/27/1998"
 	},
 	{
 		"name": "POTAT",
@@ -644,7 +645,7 @@
 		"state": "",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "YOC*NDB*276.25",
+		"updated": "YOC*NDB*276.25"
 	},
 	{
 		"name": "POTLE",
@@ -653,7 +654,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/08/2016",
+		"updated": "08/08/2016"
 	},
 	{
 		"name": "POVLE",
@@ -662,7 +663,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "11/28/2006",
+		"updated": "11/28/2006"
 	},
 	{
 		"name": "POVPE",
@@ -671,7 +672,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "MCG*VORTAC*072.00/14.00",
+		"updated": "MCG*VORTAC*072.00/14.00"
 	},
 	{
 		"name": "POWAL",
@@ -680,7 +681,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "09/19/2000",
+		"updated": "09/19/2000"
 	},
 	{
 		"name": "POYIC",
@@ -689,7 +690,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/17/2005",
+		"updated": "10/17/2005"
 	},
 	{
 		"name": "POYIT",
@@ -698,7 +699,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/04/2007",
+		"updated": "05/04/2007"
 	},
 	{
 		"name": "POYNE",
@@ -707,7 +708,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/13/2006",
+		"updated": "04/13/2006"
 	},
 	{
 		"name": "POYOK",
@@ -716,7 +717,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/12/2007",
+		"updated": "04/12/2007"
 	},
 	{
 		"name": "PPERL",
@@ -725,7 +726,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/06/2015",
+		"updated": "11/06/2015"
 	},
 	{
 		"name": "PRONN",
@@ -734,7 +735,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/29/2012",
+		"updated": "11/29/2012"
 	},
 	{
 		"name": "PRYCE",
@@ -743,7 +744,7 @@
 		"state": "",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "10/06/2016",
+		"updated": "10/06/2016"
 	},
 	{
 		"name": "PTERS",
@@ -752,7 +753,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/18/2012",
+		"updated": "07/18/2012"
 	},
 	{
 		"name": "PTRIC",
@@ -761,7 +762,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/18/2016",
+		"updated": "05/18/2016"
 	},
 	{
 		"name": "PTZGR",
@@ -770,7 +771,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "08/01/2005",
+		"updated": "08/01/2005"
 	},
 	{
 		"name": "PUBME",
@@ -779,7 +780,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/08/2009",
+		"updated": "07/08/2009"
 	},
 	{
 		"name": "PUBUE",
@@ -788,7 +789,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/08/2016",
+		"updated": "08/08/2016"
 	},
 	{
 		"name": "PUCIB",
@@ -797,7 +798,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/06/2008",
+		"updated": "08/06/2008"
 	},
 	{
 		"name": "PUCID",
@@ -806,7 +807,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*VORTAC*115.76",
+		"updated": "AKN*VORTAC*115.76"
 	},
 	{
 		"name": "PUCOY",
@@ -815,7 +816,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/29/2008",
+		"updated": "07/29/2008"
 	},
 	{
 		"name": "PUGGY",
@@ -824,7 +825,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "09/19/2000",
+		"updated": "09/19/2000"
 	},
 	{
 		"name": "PULIY",
@@ -833,7 +834,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/04/2007",
+		"updated": "05/04/2007"
 	},
 	{
 		"name": "PULKE",
@@ -842,7 +843,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/04/2003",
+		"updated": "06/04/2003"
 	},
 	{
 		"name": "PUNNI",
@@ -851,7 +852,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*LD*SE CRS/3.71",
+		"updated": "AKN*LD*SE CRS/3.71"
 	},
 	{
 		"name": "PUPBI",
@@ -860,7 +861,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HPB*VOR/DME*132.88/10.60",
+		"updated": "HPB*VOR/DME*132.88/10.60"
 	},
 	{
 		"name": "PUROC",
@@ -869,7 +870,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EDF*TACAN*/13.00",
+		"updated": "EDF*TACAN*/13.00"
 	},
 	{
 		"name": "PUROY",
@@ -878,7 +879,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/23/2008",
+		"updated": "10/23/2008"
 	},
 	{
 		"name": "PUTDU",
@@ -887,7 +888,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/27/2005",
+		"updated": "12/27/2005"
 	},
 	{
 		"name": "PUTIY",
@@ -896,7 +897,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ECH*LD*NW CRS/10.50",
+		"updated": "ECH*LD*NW CRS/10.50"
 	},
 	{
 		"name": "PUUKE",
@@ -905,7 +906,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/26/2015",
+		"updated": "10/26/2015"
 	},
 	{
 		"name": "PUVPE",
@@ -914,7 +915,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/28/2013",
+		"updated": "06/28/2013"
 	},
 	{
 		"name": "PUYIC",
@@ -923,7 +924,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/07/2009",
+		"updated": "10/07/2009"
 	},
 	{
 		"name": "PUYIP",
@@ -932,7 +933,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/11/2009",
+		"updated": "06/11/2009"
 	},
 	{
 		"name": "PUYVO",
@@ -941,5 +942,6 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENN*VORTAC*170.87/32.86",
-	},
+		"updated": "ENN*VORTAC*170.87/32.86"
+	}
+]

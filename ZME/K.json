@@ -1,3 +1,4 @@
+[
 	{
 		"name": "KADNE",
 		"latitude": "35-3-56.1 N",
@@ -5,7 +6,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/15/2016",
+		"updated": "08/15/2016"
 	},
 	{
 		"name": "KADTI",
@@ -14,7 +15,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/20/2008",
+		"updated": "06/20/2008"
 	},
 	{
 		"name": "KAGBE",
@@ -23,7 +24,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "KALIE",
@@ -32,7 +33,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "UJM*VOR/DME*029.20",
+		"updated": "UJM*VOR/DME*029.20"
 	},
 	{
 		"name": "KANGE",
@@ -41,7 +42,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/15/2012",
+		"updated": "11/15/2012"
 	},
 	{
 		"name": "KAPUT",
@@ -50,7 +51,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "CGI*VOR/DME*109.14/5.64",
+		"updated": "CGI*VOR/DME*109.14/5.64"
 	},
 	{
 		"name": "KAPVE",
@@ -59,7 +60,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "IGB*VORTAC*304.00/14.00",
+		"updated": "IGB*VORTAC*304.00/14.00"
 	},
 	{
 		"name": "KATBE",
@@ -68,7 +69,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/21/2011",
+		"updated": "03/21/2011"
 	},
 	{
 		"name": "KAYER",
@@ -77,7 +78,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/18/2013",
+		"updated": "07/18/2013"
 	},
 	{
 		"name": "KAZDU",
@@ -86,7 +87,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MSL*VORTAC*120.63/38.94",
+		"updated": "MSL*VORTAC*120.63/38.94"
 	},
 	{
 		"name": "KAZER",
@@ -95,7 +96,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/12/2011",
+		"updated": "05/12/2011"
 	},
 	{
 		"name": "KEEZE",
@@ -104,7 +105,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*151.00/10.44",
+		"updated": "MEM*VORTAC*151.00/10.44"
 	},
 	{
 		"name": "KEGYE",
@@ -113,7 +114,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RZC*VORTAC*115.36/9.00",
+		"updated": "RZC*VORTAC*115.36/9.00"
 	},
 	{
 		"name": "KEHOE",
@@ -122,7 +123,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LWR*LD*359.55/2.70",
+		"updated": "LWR*LD*359.55/2.70"
 	},
 	{
 		"name": "KEKWO",
@@ -131,7 +132,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/02/2012",
+		"updated": "10/02/2012"
 	},
 	{
 		"name": "KELLO",
@@ -140,7 +141,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/14/2012",
+		"updated": "09/14/2012"
 	},
 	{
 		"name": "KELNE",
@@ -149,7 +150,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*260.87/81.00",
+		"updated": "BNA*VORTAC*260.87/81.00"
 	},
 	{
 		"name": "KELPY",
@@ -158,7 +159,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "KENCE",
@@ -167,7 +168,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/10/2007",
+		"updated": "08/10/2007"
 	},
 	{
 		"name": "KERMI",
@@ -176,7 +177,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HAB*VORTAC*345.50",
+		"updated": "HAB*VORTAC*345.50"
 	},
 	{
 		"name": "KEVNE",
@@ -185,7 +186,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/14/2009",
+		"updated": "01/14/2009"
 	},
 	{
 		"name": "KEVON",
@@ -194,7 +195,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "RQZ*VORTAC*195.40/13.01",
+		"updated": "RQZ*VORTAC*195.40/13.01"
 	},
 	{
 		"name": "KEYSE",
@@ -203,7 +204,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SYI*VOR/DME*080.16/14.54",
+		"updated": "SYI*VOR/DME*080.16/14.54"
 	},
 	{
 		"name": "KICEG",
@@ -212,7 +213,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BWY*LD*NE CRS/1.44",
+		"updated": "BWY*LD*NE CRS/1.44"
 	},
 	{
 		"name": "KIDHU",
@@ -221,7 +222,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/17/2009",
+		"updated": "12/17/2009"
 	},
 	{
 		"name": "KIIWI",
@@ -230,7 +231,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/03/2012",
+		"updated": "10/03/2012"
 	},
 	{
 		"name": "KIKDE",
@@ -239,7 +240,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "08/16/2010",
+		"updated": "08/16/2010"
 	},
 	{
 		"name": "KILPE",
@@ -248,7 +249,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/18/2015",
+		"updated": "09/18/2015"
 	},
 	{
 		"name": "KIMEL",
@@ -257,7 +258,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "ARG*VORTAC*084.30",
+		"updated": "ARG*VORTAC*084.30"
 	},
 	{
 		"name": "KIMRE",
@@ -266,7 +267,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/17/2008",
+		"updated": "06/17/2008"
 	},
 	{
 		"name": "KISMT",
@@ -275,7 +276,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "HXW*TACAN*054.98/6.00",
+		"updated": "HXW*TACAN*054.98/6.00"
 	},
 	{
 		"name": "KISTS",
@@ -284,7 +285,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "KITTZ",
@@ -293,7 +294,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RQZ*VORTAC*237.08",
+		"updated": "RQZ*VORTAC*237.08"
 	},
 	{
 		"name": "KIYEL",
@@ -302,7 +303,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "PBF*VOR/DME*068.09/29.49",
+		"updated": "PBF*VOR/DME*068.09/29.49"
 	},
 	{
 		"name": "KIYET",
@@ -311,7 +312,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/03/2014",
+		"updated": "11/03/2014"
 	},
 	{
 		"name": "KLANN",
@@ -320,7 +321,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "CNG*VOR/DME*136.70/14.00",
+		"updated": "CNG*VOR/DME*136.70/14.00"
 	},
 	{
 		"name": "KLEEN",
@@ -329,7 +330,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "PGO*VORTAC*336.21",
+		"updated": "PGO*VORTAC*336.21"
 	},
 	{
 		"name": "KLOVE",
@@ -338,7 +339,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "ARG*VORTAC*036.00/18.00",
+		"updated": "ARG*VORTAC*036.00/18.00"
 	},
 	{
 		"name": "KM12K",
@@ -347,7 +348,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM15K",
@@ -356,7 +357,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM18K",
@@ -365,7 +366,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM18M",
@@ -374,7 +375,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM21I",
@@ -383,7 +384,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM21K",
@@ -392,7 +393,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM21M",
@@ -401,7 +402,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM24I",
@@ -410,7 +411,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM24K",
@@ -419,7 +420,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM24M",
@@ -428,7 +429,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM27G",
@@ -437,7 +438,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM27I",
@@ -446,7 +447,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM27K",
@@ -455,7 +456,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM27M",
@@ -464,7 +465,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM30G",
@@ -473,7 +474,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM30I",
@@ -482,7 +483,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM30K",
@@ -491,7 +492,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM30M",
@@ -500,7 +501,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM33G",
@@ -509,7 +510,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM33I",
@@ -518,7 +519,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM33K",
@@ -527,7 +528,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM33M",
@@ -536,7 +537,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM36G",
@@ -545,7 +546,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM36I",
@@ -554,7 +555,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM36K",
@@ -563,7 +564,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM36M",
@@ -572,7 +573,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM36O",
@@ -581,7 +582,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM39G",
@@ -590,7 +591,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM39I",
@@ -599,7 +600,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM39K",
@@ -608,7 +609,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM39M",
@@ -617,7 +618,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM39O",
@@ -626,7 +627,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM42K",
@@ -635,7 +636,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM42M",
@@ -644,7 +645,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM42O",
@@ -653,7 +654,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KM45M",
@@ -662,7 +663,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KNNGG",
@@ -671,7 +672,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/18/2012",
+		"updated": "09/18/2012"
 	},
 	{
 		"name": "KNSAW",
@@ -680,7 +681,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2016",
+		"updated": "07/25/2016"
 	},
 	{
 		"name": "KOBRE",
@@ -689,7 +690,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*033.00/33.00",
+		"updated": "CBM*VORTAC*033.00/33.00"
 	},
 	{
 		"name": "KOCEG",
@@ -698,7 +699,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/07/2007",
+		"updated": "05/07/2007"
 	},
 	{
 		"name": "KOGCE",
@@ -707,7 +708,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/09/2008",
+		"updated": "10/09/2008"
 	},
 	{
 		"name": "KOGVE",
@@ -716,7 +717,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/06/2006",
+		"updated": "11/06/2006"
 	},
 	{
 		"name": "KOJAK",
@@ -725,7 +726,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "KOLEY",
@@ -734,7 +735,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "OHN*LD*S CRS/5.88",
+		"updated": "OHN*LD*S CRS/5.88"
 	},
 	{
 		"name": "KOMLE",
@@ -743,7 +744,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/07/2005",
+		"updated": "03/07/2005"
 	},
 	{
 		"name": "KOMMA",
@@ -752,7 +753,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LIT*VORTAC*275.01/124.95",
+		"updated": "LIT*VORTAC*275.01/124.95"
 	},
 	{
 		"name": "KORKE",
@@ -761,7 +762,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "KOSLE",
@@ -770,7 +771,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/11/2012",
+		"updated": "02/11/2012"
 	},
 	{
 		"name": "KOYER",
@@ -779,7 +780,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "UQU*LD*200.99/4.45",
+		"updated": "UQU*LD*200.99/4.45"
 	},
 	{
 		"name": "KRAMS",
@@ -788,7 +789,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LIT*VORTAC*262.00",
+		"updated": "LIT*VORTAC*262.00"
 	},
 	{
 		"name": "KREEK",
@@ -797,7 +798,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*314.66/20.00",
+		"updated": "CBM*VORTAC*314.66/20.00"
 	},
 	{
 		"name": "KROCK",
@@ -806,7 +807,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "CCT*VORTAC*231.03",
+		"updated": "CCT*VORTAC*231.03"
 	},
 	{
 		"name": "KRSTA",
@@ -815,7 +816,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/18/2012",
+		"updated": "09/18/2012"
 	},
 	{
 		"name": "KT30O",
@@ -824,7 +825,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KT33O",
@@ -833,7 +834,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KUBBY",
@@ -842,7 +843,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/25/2013",
+		"updated": "01/25/2013"
 	},
 	{
 		"name": "KUCEN",
@@ -851,7 +852,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/27/2012",
+		"updated": "02/27/2012"
 	},
 	{
 		"name": "KUCPE",
@@ -860,7 +861,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/20/2013",
+		"updated": "05/20/2013"
 	},
 	{
 		"name": "KUDCE",
@@ -869,7 +870,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "KUGCE",
@@ -878,7 +879,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/18/2008",
+		"updated": "06/18/2008"
 	},
 	{
 		"name": "KULVE",
@@ -887,7 +888,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/05/2006",
+		"updated": "01/05/2006"
 	},
 	{
 		"name": "KUMGE",
@@ -896,7 +897,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GQE*VOR/DME*121.26/16.51",
+		"updated": "GQE*VOR/DME*121.26/16.51"
 	},
 	{
 		"name": "KUMRE",
@@ -905,7 +906,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/02/2005",
+		"updated": "05/02/2005"
 	},
 	{
 		"name": "KURRE",
@@ -914,7 +915,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "KUSBE",
@@ -923,7 +924,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/07/2011",
+		"updated": "07/07/2011"
 	},
 	{
 		"name": "KUSEJ",
@@ -932,7 +933,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "KUSGE",
@@ -941,7 +942,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/18/2015",
+		"updated": "09/18/2015"
 	},
 	{
 		"name": "KUTEC",
@@ -950,7 +951,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/14/2009",
+		"updated": "09/14/2009"
 	},
 	{
 		"name": "KUTKE",
@@ -959,7 +960,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/27/2010",
+		"updated": "04/27/2010"
 	},
 	{
 		"name": "KUXYI",
@@ -968,5 +969,6 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SYI*VOR/DME*192.86/11.64",
-	},
+		"updated": "SYI*VOR/DME*192.86/11.64"
+	}
+]

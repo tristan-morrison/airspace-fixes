@@ -1,3 +1,4 @@
+[
 	{
 		"name": "PACIP",
 		"latitude": "32-19-42.9 N",
@@ -5,7 +6,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/30/2012",
+		"updated": "07/30/2012"
 	},
 	{
 		"name": "PACTS",
@@ -14,7 +15,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXK*VORTAC*052.05/23.73",
+		"updated": "TXK*VORTAC*052.05/23.73"
 	},
 	{
 		"name": "PADYI",
@@ -23,7 +24,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/30/2011",
+		"updated": "06/30/2011"
 	},
 	{
 		"name": "PAGGY",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "DYS*TACAN*163.29/20.00",
+		"updated": "DYS*TACAN*163.29/20.00"
 	},
 	{
 		"name": "PAGOC",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/28/2008",
+		"updated": "10/28/2008"
 	},
 	{
 		"name": "PAKRE",
@@ -50,7 +51,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/20/2005",
+		"updated": "10/20/2005"
 	},
 	{
 		"name": "PALMR",
@@ -59,7 +60,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/04/2014",
+		"updated": "06/04/2014"
 	},
 	{
 		"name": "PAMEY",
@@ -68,7 +69,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/27/2012",
+		"updated": "06/27/2012"
 	},
 	{
 		"name": "PAMMI",
@@ -77,7 +78,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/16/2010",
+		"updated": "05/16/2010"
 	},
 	{
 		"name": "PANTR",
@@ -86,7 +87,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MQP*VORTAC*076.60/10.99",
+		"updated": "MQP*VORTAC*076.60/10.99"
 	},
 	{
 		"name": "PAPIY",
@@ -95,7 +96,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "SJT*VORTAC*235.00/1.83",
+		"updated": "SJT*VORTAC*235.00/1.83"
 	},
 	{
 		"name": "PATLE",
@@ -104,7 +105,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/12/2005",
+		"updated": "08/12/2005"
 	},
 	{
 		"name": "PATTS",
@@ -113,7 +114,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MAF*VORTAC*356.75/31.78",
+		"updated": "MAF*VORTAC*356.75/31.78"
 	},
 	{
 		"name": "PAWEJ",
@@ -122,7 +123,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "PAWLZ",
@@ -131,7 +132,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/09/2014",
+		"updated": "07/09/2014"
 	},
 	{
 		"name": "PAXTN",
@@ -140,7 +141,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/09/2005",
+		"updated": "05/09/2005"
 	},
 	{
 		"name": "PAXXE",
@@ -149,7 +150,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/19/2009",
+		"updated": "03/19/2009"
 	},
 	{
 		"name": "PBLOW",
@@ -158,7 +159,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SPS*VORTAC*194.00/63.00",
+		"updated": "SPS*VORTAC*194.00/63.00"
 	},
 	{
 		"name": "PCARD",
@@ -167,7 +168,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "JEN*VORTAC*004.18/10.99",
+		"updated": "JEN*VORTAC*004.18/10.99"
 	},
 	{
 		"name": "PEALS",
@@ -176,7 +177,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/02/2016",
+		"updated": "04/02/2016"
 	},
 	{
 		"name": "PECIP",
@@ -185,7 +186,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/08/2006",
+		"updated": "06/08/2006"
 	},
 	{
 		"name": "PEDIY",
@@ -194,7 +195,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "IRW*VORTAC*041.35",
+		"updated": "IRW*VORTAC*041.35"
 	},
 	{
 		"name": "PEDSE",
@@ -203,7 +204,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "PEDUE",
@@ -212,7 +213,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/08/2003",
+		"updated": "01/08/2003"
 	},
 	{
 		"name": "PEJAY",
@@ -221,7 +222,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/29/2015",
+		"updated": "05/29/2015"
 	},
 	{
 		"name": "PELRE",
@@ -230,7 +231,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "WP",
-		"updated": "05/01/1996",
+		"updated": "05/01/1996"
 	},
 	{
 		"name": "PEMSE",
@@ -239,7 +240,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MAF*VORTAC*301.00/17.00",
+		"updated": "MAF*VORTAC*301.00/17.00"
 	},
 	{
 		"name": "PENLY",
@@ -248,7 +249,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/02/2017",
+		"updated": "03/02/2017"
 	},
 	{
 		"name": "PENNY",
@@ -257,7 +258,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "FLQ*LD*356.26/16.16",
+		"updated": "FLQ*LD*356.26/16.16"
 	},
 	{
 		"name": "PEPOE",
@@ -266,7 +267,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/09/2017",
+		"updated": "05/09/2017"
 	},
 	{
 		"name": "PEQIS",
@@ -275,7 +276,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/29/2005",
+		"updated": "06/29/2005"
 	},
 	{
 		"name": "PERAE",
@@ -284,7 +285,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/30/2012",
+		"updated": "07/30/2012"
 	},
 	{
 		"name": "PERRA",
@@ -293,7 +294,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SPS*VORTAC*194.00/45.00",
+		"updated": "SPS*VORTAC*194.00/45.00"
 	},
 	{
 		"name": "PERSN",
@@ -302,7 +303,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CVE*VOR/DME*033.36/22.62",
+		"updated": "CVE*VOR/DME*033.36/22.62"
 	},
 	{
 		"name": "PETDO",
@@ -311,7 +312,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/02/2017",
+		"updated": "03/02/2017"
 	},
 	{
 		"name": "PEVLE",
@@ -320,7 +321,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "BAD*TACAN*/1.80",
+		"updated": "BAD*TACAN*/1.80"
 	},
 	{
 		"name": "PEWAE",
@@ -329,7 +330,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CDS*VORTAC*094.68/30.00",
+		"updated": "CDS*VORTAC*094.68/30.00"
 	},
 	{
 		"name": "PGLET",
@@ -338,7 +339,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/09/2014",
+		"updated": "07/09/2014"
 	},
 	{
 		"name": "PGLSI",
@@ -347,7 +348,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/06/2016",
+		"updated": "06/06/2016"
 	},
 	{
 		"name": "PHARA",
@@ -356,7 +357,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "OKM*VOR/DME*208.27/16.98",
+		"updated": "OKM*VOR/DME*208.27/16.98"
 	},
 	{
 		"name": "PHAUP",
@@ -365,7 +366,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/09/2014",
+		"updated": "07/09/2014"
 	},
 	{
 		"name": "PHILS",
@@ -374,7 +375,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TQA*VOR/DME*253.86/25.00",
+		"updated": "TQA*VOR/DME*253.86/25.00"
 	},
 	{
 		"name": "PHNXX",
@@ -383,7 +384,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "NFW*TACAN*235.00/27.00",
+		"updated": "NFW*TACAN*235.00/27.00"
 	},
 	{
 		"name": "PIBCI",
@@ -392,7 +393,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "PVW*VOR/DME*184.19/10.00",
+		"updated": "PVW*VOR/DME*184.19/10.00"
 	},
 	{
 		"name": "PICIS",
@@ -401,7 +402,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/17/2015",
+		"updated": "12/17/2015"
 	},
 	{
 		"name": "PICOD",
@@ -410,7 +411,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/01/2005",
+		"updated": "12/01/2005"
 	},
 	{
 		"name": "PICOK",
@@ -419,7 +420,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/14/2008",
+		"updated": "07/14/2008"
 	},
 	{
 		"name": "PICTA",
@@ -428,7 +429,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/13/2005",
+		"updated": "01/13/2005"
 	},
 	{
 		"name": "PIECE",
@@ -437,7 +438,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SPS*VORTAC*288.00/40.00",
+		"updated": "SPS*VORTAC*288.00/40.00"
 	},
 	{
 		"name": "PIKEN",
@@ -446,7 +447,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "EIC*VORTAC*291.00/6.00",
+		"updated": "EIC*VORTAC*291.00/6.00"
 	},
 	{
 		"name": "PIKES",
@@ -455,7 +456,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXK*VORTAC*030.00/39.57",
+		"updated": "TXK*VORTAC*030.00/39.57"
 	},
 	{
 		"name": "PIKOY",
@@ -464,7 +465,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/15/2005",
+		"updated": "12/15/2005"
 	},
 	{
 		"name": "PIKTE",
@@ -473,7 +474,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "EIC*VORTAC*268.16/18.01",
+		"updated": "EIC*VORTAC*268.16/18.01"
 	},
 	{
 		"name": "PINCK",
@@ -482,7 +483,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/09/2012",
+		"updated": "07/09/2012"
 	},
 	{
 		"name": "PINKO",
@@ -491,7 +492,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SPS*VORTAC*236.00/55.00",
+		"updated": "SPS*VORTAC*236.00/55.00"
 	},
 	{
 		"name": "PIPES",
@@ -500,7 +501,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "GGG*VORTAC*171.58/14.01",
+		"updated": "GGG*VORTAC*171.58/14.01"
 	},
 	{
 		"name": "PIPIC",
@@ -509,7 +510,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "PISNE",
@@ -518,7 +519,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/02/2009",
+		"updated": "10/02/2009"
 	},
 	{
 		"name": "PITHY",
@@ -527,7 +528,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/13/2014",
+		"updated": "07/13/2014"
 	},
 	{
 		"name": "PIVIE",
@@ -536,7 +537,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/30/2004",
+		"updated": "03/30/2004"
 	},
 	{
 		"name": "PIZON",
@@ -545,7 +546,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MAF*VORTAC*293.74/16.77",
+		"updated": "MAF*VORTAC*293.74/16.77"
 	},
 	{
 		"name": "PLANB",
@@ -554,7 +555,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/13/2014",
+		"updated": "03/13/2014"
 	},
 	{
 		"name": "PLATE",
@@ -563,7 +564,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "IRW*VORTAC*121.21/93.88",
+		"updated": "IRW*VORTAC*121.21/93.88"
 	},
 	{
 		"name": "PLEBS",
@@ -572,7 +573,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "FUZ*VORTAC*303.08/76.74",
+		"updated": "FUZ*VORTAC*303.08/76.74"
 	},
 	{
 		"name": "PLEZE",
@@ -581,7 +582,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/27/2016",
+		"updated": "09/27/2016"
 	},
 	{
 		"name": "PLMER",
@@ -590,7 +591,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/13/2016",
+		"updated": "09/13/2016"
 	},
 	{
 		"name": "PLURA",
@@ -599,7 +600,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "PWA*VOR/DME*110.00/11.00",
+		"updated": "PWA*VOR/DME*110.00/11.00"
 	},
 	{
 		"name": "PNUTS",
@@ -608,7 +609,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/02/2016",
+		"updated": "09/02/2016"
 	},
 	{
 		"name": "POBOY",
@@ -617,7 +618,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/03/2014",
+		"updated": "12/03/2014"
 	},
 	{
 		"name": "POCNI",
@@ -626,7 +627,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "GVT*LD*355.73/6.65",
+		"updated": "GVT*LD*355.73/6.65"
 	},
 	{
 		"name": "PODCI",
@@ -635,7 +636,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "GGG*VORTAC*058.86/14.00",
+		"updated": "GGG*VORTAC*058.86/14.00"
 	},
 	{
 		"name": "PODDE",
@@ -644,7 +645,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "JEN*VORTAC*006.15",
+		"updated": "JEN*VORTAC*006.15"
 	},
 	{
 		"name": "POGIC",
@@ -653,7 +654,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/06/2013",
+		"updated": "03/06/2013"
 	},
 	{
 		"name": "POHMI",
@@ -662,7 +663,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "SJT*VORTAC*309.00/15.00",
+		"updated": "SJT*VORTAC*309.00/15.00"
 	},
 	{
 		"name": "POKYO",
@@ -671,7 +672,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "POLKE",
@@ -680,7 +681,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "FUZ*VORTAC*118.07",
+		"updated": "FUZ*VORTAC*118.07"
 	},
 	{
 		"name": "POMHO",
@@ -689,7 +690,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "POMPL",
@@ -698,7 +699,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/05/2007",
+		"updated": "07/05/2007"
 	},
 	{
 		"name": "POMUE",
@@ -707,7 +708,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/22/2017",
+		"updated": "02/22/2017"
 	},
 	{
 		"name": "POMVE",
@@ -716,7 +717,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/15/2011",
+		"updated": "12/15/2011"
 	},
 	{
 		"name": "PONYY",
@@ -725,7 +726,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/13/2016",
+		"updated": "09/13/2016"
 	},
 	{
 		"name": "POPPA",
@@ -734,7 +735,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LWN*LD*315.04/9.10",
+		"updated": "LWN*LD*315.04/9.10"
 	},
 	{
 		"name": "POPSY",
@@ -743,7 +744,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/13/2015",
+		"updated": "05/13/2015"
 	},
 	{
 		"name": "PORTR",
@@ -752,7 +753,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CVE*VOR/DME*078.88/4.99",
+		"updated": "CVE*VOR/DME*078.88/4.99"
 	},
 	{
 		"name": "POSOE",
@@ -761,7 +762,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/16/2008",
+		"updated": "07/16/2008"
 	},
 	{
 		"name": "POSTE",
@@ -770,7 +771,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "SPS*VORTAC*194.00/23.11",
+		"updated": "SPS*VORTAC*194.00/23.11"
 	},
 	{
 		"name": "POTEN",
@@ -779,7 +780,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TTT*VOR/DME*094.06/70.65",
+		"updated": "TTT*VOR/DME*094.06/70.65"
 	},
 	{
 		"name": "POTTY",
@@ -788,7 +789,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/08/2015",
+		"updated": "05/08/2015"
 	},
 	{
 		"name": "POTZY",
@@ -797,7 +798,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/13/2016",
+		"updated": "09/13/2016"
 	},
 	{
 		"name": "POWND",
@@ -806,7 +807,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/02/2016",
+		"updated": "04/02/2016"
 	},
 	{
 		"name": "POYLI",
@@ -815,7 +816,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/14/2008",
+		"updated": "10/14/2008"
 	},
 	{
 		"name": "PRARE",
@@ -824,7 +825,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/24/2017",
+		"updated": "05/24/2017"
 	},
 	{
 		"name": "PRASE",
@@ -833,7 +834,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/04/2015",
+		"updated": "05/04/2015"
 	},
 	{
 		"name": "PREPP",
@@ -842,7 +843,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "HOB*LD*218.10/17.60",
+		"updated": "HOB*LD*218.10/17.60"
 	},
 	{
 		"name": "PRESO",
@@ -851,7 +852,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "OKM*VOR/DME*304.84",
+		"updated": "OKM*VOR/DME*304.84"
 	},
 	{
 		"name": "PRIZE",
@@ -860,7 +861,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/12/2012",
+		"updated": "02/12/2012"
 	},
 	{
 		"name": "PRIZZ",
@@ -869,7 +870,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "FUZ*VORTAC*035.00/81.73",
+		"updated": "FUZ*VORTAC*035.00/81.73"
 	},
 	{
 		"name": "PRKRR",
@@ -878,7 +879,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/17/2013",
+		"updated": "12/17/2013"
 	},
 	{
 		"name": "PROVO",
@@ -887,7 +888,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "PRX*VOR/DME*070.00",
+		"updated": "PRX*VOR/DME*070.00"
 	},
 	{
 		"name": "PROWD",
@@ -896,7 +897,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/13/2016",
+		"updated": "09/13/2016"
 	},
 	{
 		"name": "PUCIN",
@@ -905,7 +906,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/14/2008",
+		"updated": "10/14/2008"
 	},
 	{
 		"name": "PUDJE",
@@ -914,7 +915,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/02/2016",
+		"updated": "09/02/2016"
 	},
 	{
 		"name": "PULSE",
@@ -923,7 +924,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/23/2017",
+		"updated": "01/23/2017"
 	},
 	{
 		"name": "PULTZ",
@@ -932,7 +933,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "IRW*VORTAC*335.39/20.72",
+		"updated": "IRW*VORTAC*335.39/20.72"
 	},
 	{
 		"name": "PUNKY",
@@ -941,7 +942,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/13/2016",
+		"updated": "09/13/2016"
 	},
 	{
 		"name": "PURLE",
@@ -950,7 +951,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/03/2010",
+		"updated": "09/03/2010"
 	},
 	{
 		"name": "PURRS",
@@ -959,7 +960,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/13/2016",
+		"updated": "09/13/2016"
 	},
 	{
 		"name": "PUTTI",
@@ -968,7 +969,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/06/2015",
+		"updated": "08/06/2015"
 	},
 	{
 		"name": "PUYOC",
@@ -977,7 +978,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/28/2012",
+		"updated": "03/28/2012"
 	},
 	{
 		"name": "PUYOK",
@@ -986,7 +987,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "PUYOS",
@@ -995,5 +996,6 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/22/2006",
-	},
+		"updated": "09/22/2006"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "GRIBY",
 		"latitude": "47-45-18 N",
@@ -5,5 +6,6 @@
 		"state": "",
 		"artcc": "ZYZ",
 		"type": "RP",
-		"updated": "10/06/2016",
-	},
+		"updated": "10/06/2016"
+	}
+]

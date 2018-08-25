@@ -1,3 +1,4 @@
+[
 	{
 		"name": "BAGBE",
 		"latitude": "13-39-15.51 N",
@@ -5,7 +6,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*068.00/35.00",
+		"updated": "UNZ*VORTAC*068.00/35.00"
 	},
 	{
 		"name": "BANNI",
@@ -14,7 +15,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UNZ*VORTAC*052.55/8.00",
+		"updated": "UNZ*VORTAC*052.55/8.00"
 	},
 	{
 		"name": "BOLFY",
@@ -23,7 +24,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RNAV",
-		"updated": "03/27/2018",
+		"updated": "03/27/2018"
 	},
 	{
 		"name": "BURLE",
@@ -32,5 +33,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RNAV",
-		"updated": "03/20/2003",
-	},
+		"updated": "03/20/2003"
+	}
+]

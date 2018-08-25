@@ -1,3 +1,4 @@
+[
 	{
 		"name": "FABTO",
 		"latitude": "35-13-6.37 N",
@@ -5,7 +6,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/27/2009",
+		"updated": "05/27/2009"
 	},
 	{
 		"name": "FACDA",
@@ -14,7 +15,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/02/2009",
+		"updated": "11/02/2009"
 	},
 	{
 		"name": "FALIL",
@@ -23,7 +24,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/17/2010",
+		"updated": "06/17/2010"
 	},
 	{
 		"name": "FALIX",
@@ -32,7 +33,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*300.76",
+		"updated": "MEM*VORTAC*300.76"
 	},
 	{
 		"name": "FALOL",
@@ -41,7 +42,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MDQ*LD*004.93/6.68",
+		"updated": "MDQ*LD*004.93/6.68"
 	},
 	{
 		"name": "FALUG",
@@ -50,7 +51,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RZC*VORTAC*080.15/15.00",
+		"updated": "RZC*VORTAC*080.15/15.00"
 	},
 	{
 		"name": "FAMPA",
@@ -59,7 +60,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/25/2010",
+		"updated": "08/25/2010"
 	},
 	{
 		"name": "FAMPO",
@@ -68,7 +69,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/08/2017",
+		"updated": "11/08/2017"
 	},
 	{
 		"name": "FAMRA",
@@ -77,7 +78,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "06/20/2008",
+		"updated": "06/20/2008"
 	},
 	{
 		"name": "FANEN",
@@ -86,7 +87,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MCB*VORTAC*013.62",
+		"updated": "MCB*VORTAC*013.62"
 	},
 	{
 		"name": "FANGS",
@@ -95,7 +96,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "WP",
-		"updated": "HLI*VORTAC*161.47/24.10",
+		"updated": "HLI*VORTAC*161.47/24.10"
 	},
 	{
 		"name": "FANIP",
@@ -104,7 +105,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/01/2001",
+		"updated": "05/01/2001"
 	},
 	{
 		"name": "FANTM",
@@ -113,7 +114,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "FSM*VORTAC*075.00/35.00",
+		"updated": "FSM*VORTAC*075.00/35.00"
 	},
 	{
 		"name": "FAPEN",
@@ -122,7 +123,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/29/2002",
+		"updated": "01/29/2002"
 	},
 	{
 		"name": "FARAD",
@@ -131,7 +132,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HCH*VOR/DME*225.00",
+		"updated": "HCH*VOR/DME*225.00"
 	},
 	{
 		"name": "FAROK",
@@ -140,7 +141,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/30/2003",
+		"updated": "06/30/2003"
 	},
 	{
 		"name": "FARVU",
@@ -149,7 +150,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/11/2012",
+		"updated": "01/11/2012"
 	},
 	{
 		"name": "FASDA",
@@ -158,7 +159,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2011",
+		"updated": "07/25/2011"
 	},
 	{
 		"name": "FASIX",
@@ -167,7 +168,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/30/2003",
+		"updated": "06/30/2003"
 	},
 	{
 		"name": "FASKA",
@@ -176,7 +177,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/06/2015",
+		"updated": "10/06/2015"
 	},
 	{
 		"name": "FASON",
@@ -185,7 +186,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MSL*VORTAC*265.93/33.00",
+		"updated": "MSL*VORTAC*265.93/33.00"
 	},
 	{
 		"name": "FASOP",
@@ -194,7 +195,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/14/2012",
+		"updated": "06/14/2012"
 	},
 	{
 		"name": "FASOV",
@@ -203,7 +204,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "03/27/2008",
+		"updated": "03/27/2008"
 	},
 	{
 		"name": "FATAS",
@@ -212,7 +213,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/08/2008",
+		"updated": "05/08/2008"
 	},
 	{
 		"name": "FATGO",
@@ -221,7 +222,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/25/2003",
+		"updated": "02/25/2003"
 	},
 	{
 		"name": "FAVIN",
@@ -230,7 +231,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MHZ*VORTAC*/20.00",
+		"updated": "MHZ*VORTAC*/20.00"
 	},
 	{
 		"name": "FAXAR",
@@ -239,7 +240,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "NMM*TACAN*356.76/0.75",
+		"updated": "NMM*TACAN*356.76/0.75"
 	},
 	{
 		"name": "FAXIP",
@@ -248,7 +249,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GQE*VOR/DME*077.12/18.27",
+		"updated": "GQE*VOR/DME*077.12/18.27"
 	},
 	{
 		"name": "FAYEE",
@@ -257,7 +258,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "TXK*VORTAC*071.06/127.69",
+		"updated": "TXK*VORTAC*071.06/127.69"
 	},
 	{
 		"name": "FAZIM",
@@ -266,7 +267,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/14/2014",
+		"updated": "05/14/2014"
 	},
 	{
 		"name": "FEBOP",
@@ -275,7 +276,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/01/2011",
+		"updated": "04/01/2011"
 	},
 	{
 		"name": "FEBSI",
@@ -284,7 +285,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/26/2007",
+		"updated": "12/26/2007"
 	},
 	{
 		"name": "FEDBA",
@@ -293,7 +294,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/27/2007",
+		"updated": "12/27/2007"
 	},
 	{
 		"name": "FEDIX",
@@ -302,7 +303,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/15/2012",
+		"updated": "11/15/2012"
 	},
 	{
 		"name": "FEERY",
@@ -311,7 +312,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HRO*VOR/DME*073.00",
+		"updated": "HRO*VOR/DME*073.00"
 	},
 	{
 		"name": "FEGMI",
@@ -320,7 +321,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/05/2009",
+		"updated": "05/05/2009"
 	},
 	{
 		"name": "FEGUK",
@@ -329,7 +330,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/30/2003",
+		"updated": "06/30/2003"
 	},
 	{
 		"name": "FEHXE",
@@ -338,7 +339,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/16/2018",
+		"updated": "02/16/2018"
 	},
 	{
 		"name": "FEKAF",
@@ -347,7 +348,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/21/2000",
+		"updated": "11/21/2000"
 	},
 	{
 		"name": "FEKED",
@@ -356,7 +357,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/22/2015",
+		"updated": "09/22/2015"
 	},
 	{
 		"name": "FEKER",
@@ -365,7 +366,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*060.21",
+		"updated": "DCU*VOR/DME*060.21"
 	},
 	{
 		"name": "FEKIB",
@@ -374,7 +375,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "11/16/2016",
+		"updated": "11/16/2016"
 	},
 	{
 		"name": "FEKSO",
@@ -383,7 +384,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*078.01",
+		"updated": "DCU*VOR/DME*078.01"
 	},
 	{
 		"name": "FELIV",
@@ -392,7 +393,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/06/2015",
+		"updated": "10/06/2015"
 	},
 	{
 		"name": "FEMAZ",
@@ -401,7 +402,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/18/2004",
+		"updated": "10/18/2004"
 	},
 	{
 		"name": "FEMIK",
@@ -410,7 +411,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/15/2012",
+		"updated": "11/15/2012"
 	},
 	{
 		"name": "FENAR",
@@ -419,7 +420,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GLH*VOR/DME*003.04/12.00",
+		"updated": "GLH*VOR/DME*003.04/12.00"
 	},
 	{
 		"name": "FENCH",
@@ -428,7 +429,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "VMU*LO*000.00",
+		"updated": "VMU*LO*000.00"
 	},
 	{
 		"name": "FENOG",
@@ -437,7 +438,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/04/2016",
+		"updated": "08/04/2016"
 	},
 	{
 		"name": "FENUR",
@@ -446,7 +447,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GLH*VOR/DME*000.23/27.00",
+		"updated": "GLH*VOR/DME*000.23/27.00"
 	},
 	{
 		"name": "FEPON",
@@ -455,7 +456,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/25/2014",
+		"updated": "02/25/2014"
 	},
 	{
 		"name": "FESBO",
@@ -464,7 +465,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/10/2010",
+		"updated": "08/10/2010"
 	},
 	{
 		"name": "FEVES",
@@ -473,7 +474,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/21/2008",
+		"updated": "07/21/2008"
 	},
 	{
 		"name": "FEVOD",
@@ -482,7 +483,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "FEWER",
@@ -491,7 +492,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GAD*VOR/DME*300.42",
+		"updated": "GAD*VOR/DME*300.42"
 	},
 	{
 		"name": "FEXIS",
@@ -500,7 +501,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "STF*LE*179.56/12.17",
+		"updated": "STF*LE*179.56/12.17"
 	},
 	{
 		"name": "FEYAM",
@@ -509,7 +510,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/28/2009",
+		"updated": "05/28/2009"
 	},
 	{
 		"name": "FHLPS",
@@ -518,7 +519,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/30/2013",
+		"updated": "09/30/2013"
 	},
 	{
 		"name": "FIBAM",
@@ -527,7 +528,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "IGB*VORTAC*256.00/30.00",
+		"updated": "IGB*VORTAC*256.00/30.00"
 	},
 	{
 		"name": "FIBAX",
@@ -536,7 +537,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "FIDDL",
@@ -545,7 +546,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BWG*VORTAC*122.92",
+		"updated": "BWG*VORTAC*122.92"
 	},
 	{
 		"name": "FIDDS",
@@ -554,7 +555,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*LD*200.65/11.96",
+		"updated": "BNA*LD*200.65/11.96"
 	},
 	{
 		"name": "FIDSI",
@@ -563,7 +564,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/14/2009",
+		"updated": "07/14/2009"
 	},
 	{
 		"name": "FIGAP",
@@ -572,7 +573,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/24/2011",
+		"updated": "03/24/2011"
 	},
 	{
 		"name": "FIGBO",
@@ -581,7 +582,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "ROG*LD*015.17/6.51",
+		"updated": "ROG*LD*015.17/6.51"
 	},
 	{
 		"name": "FIGEK",
@@ -590,7 +591,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/08/2006",
+		"updated": "12/08/2006"
 	},
 	{
 		"name": "FIGGS",
@@ -599,7 +600,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "FSM*VORTAC*035.51/10.00",
+		"updated": "FSM*VORTAC*035.51/10.00"
 	},
 	{
 		"name": "FIGLY",
@@ -608,7 +609,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "03/27/2007",
+		"updated": "03/27/2007"
 	},
 	{
 		"name": "FIKIX",
@@ -617,7 +618,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2005",
+		"updated": "06/15/2005"
 	},
 	{
 		"name": "FIKSO",
@@ -626,7 +627,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "FILAK",
@@ -635,7 +636,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*004.00/13.00",
+		"updated": "CBM*VORTAC*004.00/13.00"
 	},
 	{
 		"name": "FILAM",
@@ -644,7 +645,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*312.00/3.40",
+		"updated": "CBM*VORTAC*312.00/3.40"
 	},
 	{
 		"name": "FIMOR",
@@ -653,7 +654,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/11/2003",
+		"updated": "09/11/2003"
 	},
 	{
 		"name": "FINOP",
@@ -662,7 +663,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/10/2007",
+		"updated": "10/10/2007"
 	},
 	{
 		"name": "FIREN",
@@ -671,7 +672,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2011",
+		"updated": "07/25/2011"
 	},
 	{
 		"name": "FIRIG",
@@ -680,7 +681,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SQS*VORTAC*256.32/9.00",
+		"updated": "SQS*VORTAC*256.32/9.00"
 	},
 	{
 		"name": "FIRIS",
@@ -689,7 +690,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "FSM*VORTAC*233.00/20.00",
+		"updated": "FSM*VORTAC*233.00/20.00"
 	},
 	{
 		"name": "FIRLO",
@@ -698,7 +699,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/06/2017",
+		"updated": "03/06/2017"
 	},
 	{
 		"name": "FIRSA",
@@ -707,7 +708,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/12/2011",
+		"updated": "07/12/2011"
 	},
 	{
 		"name": "FISAV",
@@ -716,7 +717,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/23/2013",
+		"updated": "04/23/2013"
 	},
 	{
 		"name": "FISDU",
@@ -725,7 +726,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/14/2009",
+		"updated": "09/14/2009"
 	},
 	{
 		"name": "FISES",
@@ -734,7 +735,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/25/2009",
+		"updated": "03/25/2009"
 	},
 	{
 		"name": "FISRO",
@@ -743,7 +744,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/24/2014",
+		"updated": "02/24/2014"
 	},
 	{
 		"name": "FISUG",
@@ -752,7 +753,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/31/2013",
+		"updated": "10/31/2013"
 	},
 	{
 		"name": "FITAL",
@@ -761,7 +762,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/29/2005",
+		"updated": "06/29/2005"
 	},
 	{
 		"name": "FITIL",
@@ -770,7 +771,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/01/2014",
+		"updated": "10/01/2014"
 	},
 	{
 		"name": "FITIP",
@@ -779,7 +780,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/20/2014",
+		"updated": "02/20/2014"
 	},
 	{
 		"name": "FIVEK",
@@ -788,7 +789,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/03/2009",
+		"updated": "09/03/2009"
 	},
 	{
 		"name": "FIVSO",
@@ -797,7 +798,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MHZ*VORTAC*250.60",
+		"updated": "MHZ*VORTAC*250.60"
 	},
 	{
 		"name": "FLAME",
@@ -806,7 +807,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/17/2012",
+		"updated": "09/17/2012"
 	},
 	{
 		"name": "FLAMM",
@@ -815,7 +816,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GLH*VOR/DME*175.80/11.98",
+		"updated": "GLH*VOR/DME*175.80/11.98"
 	},
 	{
 		"name": "FLIPU",
@@ -824,7 +825,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BWG*VORTAC*106.14/21.60",
+		"updated": "BWG*VORTAC*106.14/21.60"
 	},
 	{
 		"name": "FLOND",
@@ -833,7 +834,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*120.27/9.86",
+		"updated": "MEM*VORTAC*120.27/9.86"
 	},
 	{
 		"name": "FLORS",
@@ -842,7 +843,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2011",
+		"updated": "05/06/2011"
 	},
 	{
 		"name": "FNCHR",
@@ -851,7 +852,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GQE*VOR/DME*291.00/11.00",
+		"updated": "GQE*VOR/DME*291.00/11.00"
 	},
 	{
 		"name": "FODAD",
@@ -860,7 +861,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/03/2016",
+		"updated": "05/03/2016"
 	},
 	{
 		"name": "FODUM",
@@ -869,7 +870,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/03/2009",
+		"updated": "09/03/2009"
 	},
 	{
 		"name": "FOGAM",
@@ -878,7 +879,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "FOGAR",
@@ -887,7 +888,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/27/2016",
+		"updated": "01/27/2016"
 	},
 	{
 		"name": "FOGUM",
@@ -896,7 +897,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HAB*VORTAC*117.20/10.80",
+		"updated": "HAB*VORTAC*117.20/10.80"
 	},
 	{
 		"name": "FOLIT",
@@ -905,7 +906,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/28/2007",
+		"updated": "12/28/2007"
 	},
 	{
 		"name": "FOLSO",
@@ -914,7 +915,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "VUZ*VORTAC*356.08/31.17",
+		"updated": "VUZ*VORTAC*356.08/31.17"
 	},
 	{
 		"name": "FONIR",
@@ -923,7 +924,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/14/2008",
+		"updated": "07/14/2008"
 	},
 	{
 		"name": "FOREV",
@@ -932,7 +933,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*190.05/11.00",
+		"updated": "BNA*VORTAC*190.05/11.00"
 	},
 	{
 		"name": "FORID",
@@ -941,7 +942,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RZC*VORTAC*264.00/27.00",
+		"updated": "RZC*VORTAC*264.00/27.00"
 	},
 	{
 		"name": "FOSUL",
@@ -950,7 +951,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SYI*VOR/DME*080.16/16.17",
+		"updated": "SYI*VOR/DME*080.16/16.17"
 	},
 	{
 		"name": "FOVAB",
@@ -959,7 +960,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/08/2014",
+		"updated": "10/08/2014"
 	},
 	{
 		"name": "FOVEK",
@@ -968,7 +969,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "FOVIS",
@@ -977,7 +978,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/18/2013",
+		"updated": "06/18/2013"
 	},
 	{
 		"name": "FOXOM",
@@ -986,7 +987,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/30/2013",
+		"updated": "09/30/2013"
 	},
 	{
 		"name": "FRAIN",
@@ -995,7 +996,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RZC*VORTAC*115.36/15.00",
+		"updated": "RZC*VORTAC*115.36/15.00"
 	},
 	{
 		"name": "FREAZ",
@@ -1004,7 +1005,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "OHN*LD*179.99/14.00",
+		"updated": "OHN*LD*179.99/14.00"
 	},
 	{
 		"name": "FUNJO",
@@ -1013,7 +1014,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2017",
+		"updated": "06/15/2017"
 	},
 	{
 		"name": "FUSEL",
@@ -1022,5 +1023,6 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2016",
-	},
+		"updated": "06/15/2016"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "KATNO",
 		"latitude": "43-10-34 N",
@@ -5,7 +6,7 @@
 		"state": "",
 		"artcc": "ZUL",
 		"type": "RNAV",
-		"updated": "09/23/2014",
+		"updated": "09/23/2014"
 	},
 	{
 		"name": "KELVI",
@@ -14,5 +15,6 @@
 		"state": "",
 		"artcc": "ZUL",
 		"type": "RP",
-		"updated": "YMX*VOR/DME*187.00",
-	},
+		"updated": "YMX*VOR/DME*187.00"
+	}
+]

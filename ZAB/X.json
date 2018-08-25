@@ -1,3 +1,4 @@
+[
 	{
 		"name": "XANZI",
 		"latitude": "35-12-34.7 N",
@@ -5,7 +6,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/26/2011",
+		"updated": "08/26/2011"
 	},
 	{
 		"name": "XASWO",
@@ -14,7 +15,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/27/2001",
+		"updated": "08/27/2001"
 	},
 	{
 		"name": "XAVGE",
@@ -23,7 +24,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ELP*VORTAC*115.00/15.00",
+		"updated": "ELP*VORTAC*115.00/15.00"
 	},
 	{
 		"name": "XEXQI",
@@ -32,7 +33,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "CN",
-		"updated": "05/14/2009",
+		"updated": "05/14/2009"
 	},
 	{
 		"name": "XGAME",
@@ -41,7 +42,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/05/2005",
+		"updated": "08/05/2005"
 	},
 	{
 		"name": "XMRKS",
@@ -50,7 +51,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/25/2012",
+		"updated": "11/25/2012"
 	},
 	{
 		"name": "XOMZA",
@@ -59,5 +60,6 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/05/2010",
-	},
+		"updated": "05/05/2010"
+	}
+]

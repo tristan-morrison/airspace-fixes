@@ -1,3 +1,4 @@
+[
 	{
 		"name": "QADED",
 		"latitude": "41-26-32.89 N",
@@ -5,7 +6,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/06/2010",
+		"updated": "08/06/2010"
 	},
 	{
 		"name": "QEQAJ",
@@ -14,7 +15,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "CN",
-		"updated": "08/27/2011",
+		"updated": "08/27/2011"
 	},
 	{
 		"name": "QIFET",
@@ -23,7 +24,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "QIQZI",
@@ -32,7 +33,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/03/2010",
+		"updated": "08/03/2010"
 	},
 	{
 		"name": "QITEJ",
@@ -41,7 +42,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/28/2017",
+		"updated": "06/28/2017"
 	},
 	{
 		"name": "QOSNU",
@@ -50,7 +51,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/17/2014",
+		"updated": "04/17/2014"
 	},
 	{
 		"name": "QUBIS",
@@ -59,7 +60,7 @@
 		"state": "",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/10/2015",
+		"updated": "09/10/2015"
 	},
 	{
 		"name": "QUINC",
@@ -68,7 +69,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/04/2006",
+		"updated": "10/04/2006"
 	},
 	{
 		"name": "QUINZ",
@@ -77,7 +78,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BAF*VORTAC*352.09",
+		"updated": "BAF*VORTAC*352.09"
 	},
 	{
 		"name": "QUIPS",
@@ -86,7 +87,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "AUG*VOR/DME*250.84/11.00",
+		"updated": "AUG*VOR/DME*250.84/11.00"
 	},
 	{
 		"name": "QWOTA",
@@ -95,5 +96,6 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BOS*VOR/DME*167.53",
-	},
+		"updated": "BOS*VOR/DME*167.53"
+	}
+]

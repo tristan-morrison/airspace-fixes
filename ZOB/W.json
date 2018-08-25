@@ -1,3 +1,4 @@
+[
 	{
 		"name": "WAAHU",
 		"latitude": "40-38-4.21 N",
@@ -5,7 +6,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DJB*VOR/DME*200.17/44.94",
+		"updated": "DJB*VOR/DME*200.17/44.94"
 	},
 	{
 		"name": "WAAKE",
@@ -14,7 +15,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/25/2014",
+		"updated": "08/25/2014"
 	},
 	{
 		"name": "WABOR",
@@ -23,7 +24,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "TDT*VORTAC*327.74",
+		"updated": "TDT*VORTAC*327.74"
 	},
 	{
 		"name": "WABUS",
@@ -32,7 +33,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/01/2012",
+		"updated": "06/01/2012"
 	},
 	{
 		"name": "WABVA",
@@ -41,7 +42,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "JST*VOR/DME*150.56/7.77",
+		"updated": "JST*VOR/DME*150.56/7.77"
 	},
 	{
 		"name": "WADIV",
@@ -50,7 +51,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/16/2008",
+		"updated": "10/16/2008"
 	},
 	{
 		"name": "WADOD",
@@ -59,7 +60,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/11/2014",
+		"updated": "02/11/2014"
 	},
 	{
 		"name": "WADVU",
@@ -68,7 +69,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/19/2005",
+		"updated": "08/19/2005"
 	},
 	{
 		"name": "WAKEL",
@@ -77,7 +78,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "PSI*VORTAC*198.02",
+		"updated": "PSI*VORTAC*198.02"
 	},
 	{
 		"name": "WAKEM",
@@ -86,7 +87,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MFD*VORTAC*016.48",
+		"updated": "MFD*VORTAC*016.48"
 	},
 	{
 		"name": "WAKIB",
@@ -95,7 +96,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "CBE*LE*047.50/0.86",
+		"updated": "CBE*LE*047.50/0.86"
 	},
 	{
 		"name": "WAKOB",
@@ -104,7 +105,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/19/2017",
+		"updated": "07/19/2017"
 	},
 	{
 		"name": "WALCO",
@@ -113,7 +114,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/18/2008",
+		"updated": "06/18/2008"
 	},
 	{
 		"name": "WALES",
@@ -122,7 +123,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/01/2012",
+		"updated": "06/01/2012"
 	},
 	{
 		"name": "WALGI",
@@ -131,7 +132,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "WALRS",
@@ -140,7 +141,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MBS*VOR/DME*311.02/5.30",
+		"updated": "MBS*VOR/DME*311.02/5.30"
 	},
 	{
 		"name": "WAMSO",
@@ -149,7 +150,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/04/2008",
+		"updated": "02/04/2008"
 	},
 	{
 		"name": "WANVO",
@@ -158,7 +159,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "WANZZ",
@@ -167,7 +168,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "MR",
-		"updated": "MTC*TACAN*017.00/25.00",
+		"updated": "MTC*TACAN*017.00/25.00"
 	},
 	{
 		"name": "WAPIS",
@@ -176,7 +177,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/29/2015",
+		"updated": "01/29/2015"
 	},
 	{
 		"name": "WAPNU",
@@ -185,7 +186,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/14/2004",
+		"updated": "04/14/2004"
 	},
 	{
 		"name": "WARBA",
@@ -194,7 +195,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/23/2015",
+		"updated": "02/23/2015"
 	},
 	{
 		"name": "WARGO",
@@ -203,7 +204,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MFD*VORTAC*227.72/26.84",
+		"updated": "MFD*VORTAC*227.72/26.84"
 	},
 	{
 		"name": "WASDO",
@@ -212,7 +213,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/08/2009",
+		"updated": "07/08/2009"
 	},
 	{
 		"name": "WASEE",
@@ -221,7 +222,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "TQR*LD*052.63/6.17",
+		"updated": "TQR*LD*052.63/6.17"
 	},
 	{
 		"name": "WASKI",
@@ -230,7 +231,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/01/2012",
+		"updated": "06/01/2012"
 	},
 	{
 		"name": "WASPP",
@@ -239,7 +240,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/31/2017",
+		"updated": "07/31/2017"
 	},
 	{
 		"name": "WATAR",
@@ -248,7 +249,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "WATCH",
@@ -257,7 +258,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "HUU*LD*215.71/10.25",
+		"updated": "HUU*LD*215.71/10.25"
 	},
 	{
 		"name": "WAVRU",
@@ -266,7 +267,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/04/2008",
+		"updated": "12/04/2008"
 	},
 	{
 		"name": "WAVVO",
@@ -275,7 +276,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/02/2012",
+		"updated": "10/02/2012"
 	},
 	{
 		"name": "WAYLA",
@@ -284,7 +285,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/20/2014",
+		"updated": "09/20/2014"
 	},
 	{
 		"name": "WCARD",
@@ -293,7 +294,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "CN",
-		"updated": "06/19/2002",
+		"updated": "06/19/2002"
 	},
 	{
 		"name": "WEBBO",
@@ -302,7 +303,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/02/2015",
+		"updated": "03/02/2015"
 	},
 	{
 		"name": "WEBCO",
@@ -311,7 +312,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/10/2015",
+		"updated": "03/10/2015"
 	},
 	{
 		"name": "WEBVU",
@@ -320,7 +321,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/15/2012",
+		"updated": "05/15/2012"
 	},
 	{
 		"name": "WEDOD",
@@ -329,7 +330,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "MR",
-		"updated": "IAG*TACAN*106.11/5.51",
+		"updated": "IAG*TACAN*106.11/5.51"
 	},
 	{
 		"name": "WEEDA",
@@ -338,7 +339,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "SVM*VORTAC*153.15/47.82",
+		"updated": "SVM*VORTAC*153.15/47.82"
 	},
 	{
 		"name": "WEELD",
@@ -347,7 +348,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "ZZV*VOR/DME*117.00",
+		"updated": "ZZV*VOR/DME*117.00"
 	},
 	{
 		"name": "WEEVR",
@@ -356,7 +357,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/25/2011",
+		"updated": "08/25/2011"
 	},
 	{
 		"name": "WEGAN",
@@ -365,7 +366,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/29/2015",
+		"updated": "01/29/2015"
 	},
 	{
 		"name": "WEHXO",
@@ -374,7 +375,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "WP",
-		"updated": "07/20/2007",
+		"updated": "07/20/2007"
 	},
 	{
 		"name": "WEIDS",
@@ -383,7 +384,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "WELAL",
@@ -392,7 +393,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/20/2009",
+		"updated": "04/20/2009"
 	},
 	{
 		"name": "WELAS",
@@ -401,7 +402,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/25/2013",
+		"updated": "03/25/2013"
 	},
 	{
 		"name": "WELEL",
@@ -410,7 +411,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "WELLA",
@@ -419,7 +420,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "JHW*VOR/DME*004.56/39.97",
+		"updated": "JHW*VOR/DME*004.56/39.97"
 	},
 	{
 		"name": "WELMO",
@@ -428,7 +429,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/02/2005",
+		"updated": "05/02/2005"
 	},
 	{
 		"name": "WELRA",
@@ -437,7 +438,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/08/2015",
+		"updated": "10/08/2015"
 	},
 	{
 		"name": "WELTI",
@@ -446,7 +447,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "ROC*VOR/DME*229.82",
+		"updated": "ROC*VOR/DME*229.82"
 	},
 	{
 		"name": "WENNI",
@@ -455,7 +456,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "JST*VOR/DME*/3.10",
+		"updated": "JST*VOR/DME*/3.10"
 	},
 	{
 		"name": "WENUG",
@@ -464,7 +465,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/10/2015",
+		"updated": "09/10/2015"
 	},
 	{
 		"name": "WEPIL",
@@ -473,7 +474,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DXO*VOR/DME*082.74/33.00",
+		"updated": "DXO*VOR/DME*082.74/33.00"
 	},
 	{
 		"name": "WEPPY",
@@ -482,7 +483,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/01/2006",
+		"updated": "06/01/2006"
 	},
 	{
 		"name": "WERDO",
@@ -491,7 +492,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/05/2017",
+		"updated": "12/05/2017"
 	},
 	{
 		"name": "WERIS",
@@ -500,7 +501,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "WESIT",
@@ -509,7 +510,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "WETAB",
@@ -518,7 +519,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/28/2017",
+		"updated": "02/28/2017"
 	},
 	{
 		"name": "WETOM",
@@ -527,7 +528,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "WEVEL",
@@ -536,7 +537,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "ETG*VORTAC*288.56/14.43",
+		"updated": "ETG*VORTAC*288.56/14.43"
 	},
 	{
 		"name": "WEVOV",
@@ -545,7 +546,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/05/2016",
+		"updated": "05/05/2016"
 	},
 	{
 		"name": "WEVUM",
@@ -554,7 +555,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "WEXER",
@@ -563,7 +564,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DJB*VOR/DME*095.89/35.52",
+		"updated": "DJB*VOR/DME*095.89/35.52"
 	},
 	{
 		"name": "WEXUS",
@@ -572,7 +573,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/04/2013",
+		"updated": "01/04/2013"
 	},
 	{
 		"name": "WHHAT",
@@ -581,7 +582,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "WHINR",
@@ -590,7 +591,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/31/2014",
+		"updated": "01/31/2014"
 	},
 	{
 		"name": "WHIZZ",
@@ -599,7 +600,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/09/2014",
+		"updated": "04/09/2014"
 	},
 	{
 		"name": "WHONT",
@@ -608,7 +609,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "PXP*LD*101.32/11.00",
+		"updated": "PXP*LD*101.32/11.00"
 	},
 	{
 		"name": "WHYSU",
@@ -617,7 +618,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/30/2011",
+		"updated": "09/30/2011"
 	},
 	{
 		"name": "WIDIP",
@@ -626,7 +627,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/20/2011",
+		"updated": "04/20/2011"
 	},
 	{
 		"name": "WIDLU",
@@ -635,7 +636,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "WIDRE",
@@ -644,7 +645,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "WIFES",
@@ -653,7 +654,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "WIGAP",
@@ -662,7 +663,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/10/2015",
+		"updated": "09/10/2015"
 	},
 	{
 		"name": "WIGEG",
@@ -671,7 +672,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/27/2014",
+		"updated": "03/27/2014"
 	},
 	{
 		"name": "WIGEX",
@@ -680,7 +681,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/23/2012",
+		"updated": "07/23/2012"
 	},
 	{
 		"name": "WIGGY",
@@ -689,7 +690,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/15/2017",
+		"updated": "11/15/2017"
 	},
 	{
 		"name": "WIGRI",
@@ -698,7 +699,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "WIGSA",
@@ -707,7 +708,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "LAN*LD*095.63/12.70",
+		"updated": "LAN*LD*095.63/12.70"
 	},
 	{
 		"name": "WIGUK",
@@ -716,7 +717,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/26/2011",
+		"updated": "07/26/2011"
 	},
 	{
 		"name": "WIGUP",
@@ -725,7 +726,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "ROD*VORTAC*244.96/5.10",
+		"updated": "ROD*VORTAC*244.96/5.10"
 	},
 	{
 		"name": "WIHLO",
@@ -734,7 +735,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/20/2012",
+		"updated": "04/20/2012"
 	},
 	{
 		"name": "WIILE",
@@ -743,7 +744,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MMJ*DME*/12.22",
+		"updated": "MMJ*DME*/12.22"
 	},
 	{
 		"name": "WIINR",
@@ -752,7 +753,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "WIKBA",
@@ -761,7 +762,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "WIKCI",
@@ -770,7 +771,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/27/2014",
+		"updated": "03/27/2014"
 	},
 	{
 		"name": "WIKRU",
@@ -779,7 +780,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/02/2014",
+		"updated": "12/02/2014"
 	},
 	{
 		"name": "WILMO",
@@ -788,7 +789,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/30/2018",
+		"updated": "03/30/2018"
 	},
 	{
 		"name": "WILOO",
@@ -797,7 +798,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "HUU*LD*215.71/20.54",
+		"updated": "HUU*LD*215.71/20.54"
 	},
 	{
 		"name": "WILTT",
@@ -806,7 +807,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "JST*VOR/DME*074.00/30.12",
+		"updated": "JST*VOR/DME*074.00/30.12"
 	},
 	{
 		"name": "WIMEP",
@@ -815,7 +816,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/25/2006",
+		"updated": "01/25/2006"
 	},
 	{
 		"name": "WIMKO",
@@ -824,7 +825,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "WIMLU",
@@ -833,7 +834,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "WIMOS",
@@ -842,7 +843,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "WIMUT",
@@ -851,7 +852,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "WINES",
@@ -860,7 +861,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "FWA*VORTAC*096.78/32.08",
+		"updated": "FWA*VORTAC*096.78/32.08"
 	},
 	{
 		"name": "WINGR",
@@ -869,7 +870,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DXO*VOR/DME*011.28",
+		"updated": "DXO*VOR/DME*011.28"
 	},
 	{
 		"name": "WINTO",
@@ -878,7 +879,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/10/2014",
+		"updated": "09/10/2014"
 	},
 	{
 		"name": "WINUD",
@@ -887,7 +888,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/21/2013",
+		"updated": "08/21/2013"
 	},
 	{
 		"name": "WIPEM",
@@ -896,7 +897,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "WIPEX",
@@ -905,7 +906,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "WIPPN",
@@ -914,7 +915,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "WIQSU",
@@ -923,7 +924,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/20/2009",
+		"updated": "02/20/2009"
 	},
 	{
 		"name": "WIRAV",
@@ -932,7 +933,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "WP",
-		"updated": "07/20/2007",
+		"updated": "07/20/2007"
 	},
 	{
 		"name": "WIRNO",
@@ -941,7 +942,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/06/2010",
+		"updated": "12/06/2010"
 	},
 	{
 		"name": "WISIK",
@@ -950,7 +951,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/16/2018",
+		"updated": "02/16/2018"
 	},
 	{
 		"name": "WISIV",
@@ -959,7 +960,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "WISKE",
@@ -968,7 +969,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "CTW*VOR/DME*106.00",
+		"updated": "CTW*VOR/DME*106.00"
 	},
 	{
 		"name": "WISNO",
@@ -977,7 +978,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "AGC*VOR/DME*351.77/28.05",
+		"updated": "AGC*VOR/DME*351.77/28.05"
 	},
 	{
 		"name": "WISVA",
@@ -986,7 +987,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "AIR*VOR/DME*299.96/17.90",
+		"updated": "AIR*VOR/DME*299.96/17.90"
 	},
 	{
 		"name": "WITAB",
@@ -995,7 +996,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/23/2006",
+		"updated": "08/23/2006"
 	},
 	{
 		"name": "WITKR",
@@ -1004,7 +1005,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DXO*VOR/DME*069.83/10.00",
+		"updated": "DXO*VOR/DME*069.83/10.00"
 	},
 	{
 		"name": "WITMA",
@@ -1013,7 +1014,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/02/2005",
+		"updated": "05/02/2005"
 	},
 	{
 		"name": "WITTR",
@@ -1022,7 +1023,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/20/2017",
+		"updated": "07/20/2017"
 	},
 	{
 		"name": "WITUV",
@@ -1031,7 +1032,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/23/2012",
+		"updated": "07/23/2012"
 	},
 	{
 		"name": "WIVGU",
@@ -1040,7 +1041,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/03/2013",
+		"updated": "09/03/2013"
 	},
 	{
 		"name": "WIVRI",
@@ -1049,7 +1050,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "GEE*VOR/DME*085.00/17.00",
+		"updated": "GEE*VOR/DME*085.00/17.00"
 	},
 	{
 		"name": "WIVSU",
@@ -1058,7 +1059,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/11/2015",
+		"updated": "03/11/2015"
 	},
 	{
 		"name": "WIXAM",
@@ -1067,7 +1068,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/08/2015",
+		"updated": "10/08/2015"
 	},
 	{
 		"name": "WIXXE",
@@ -1076,7 +1077,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/17/2015",
+		"updated": "09/17/2015"
 	},
 	{
 		"name": "WLEYE",
@@ -1085,7 +1086,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "WLFMN",
@@ -1094,7 +1095,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/03/2018",
+		"updated": "04/03/2018"
 	},
 	{
 		"name": "WNGFT",
@@ -1103,7 +1104,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "BSV*VOR/DME*040.83",
+		"updated": "BSV*VOR/DME*040.83"
 	},
 	{
 		"name": "WNGNT",
@@ -1112,7 +1113,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/03/2018",
+		"updated": "04/03/2018"
 	},
 	{
 		"name": "WNNGS",
@@ -1121,7 +1122,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/25/2014",
+		"updated": "07/25/2014"
 	},
 	{
 		"name": "WOBIT",
@@ -1130,7 +1131,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/24/2011",
+		"updated": "03/24/2011"
 	},
 	{
 		"name": "WOBMI",
@@ -1139,7 +1140,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "WOBOK",
@@ -1148,7 +1149,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "MR",
-		"updated": "MTC*TACAN*198.00/0.80",
+		"updated": "MTC*TACAN*198.00/0.80"
 	},
 	{
 		"name": "WOBUT",
@@ -1157,7 +1158,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/24/2007",
+		"updated": "08/24/2007"
 	},
 	{
 		"name": "WOBUX",
@@ -1166,7 +1167,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/05/2011",
+		"updated": "05/05/2011"
 	},
 	{
 		"name": "WOCDO",
@@ -1175,7 +1176,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/18/2006",
+		"updated": "05/18/2006"
 	},
 	{
 		"name": "WOCKY",
@@ -1184,7 +1185,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/10/2018",
+		"updated": "04/10/2018"
 	},
 	{
 		"name": "WODDS",
@@ -1193,7 +1194,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/28/2014",
+		"updated": "03/28/2014"
 	},
 	{
 		"name": "WODUP",
@@ -1202,7 +1203,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/14/2008",
+		"updated": "10/14/2008"
 	},
 	{
 		"name": "WOFIL",
@@ -1211,7 +1212,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/10/2002",
+		"updated": "04/10/2002"
 	},
 	{
 		"name": "WOFKO",
@@ -1220,7 +1221,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "WOGUL",
@@ -1229,7 +1230,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/02/2014",
+		"updated": "10/02/2014"
 	},
 	{
 		"name": "WOLIS",
@@ -1238,7 +1239,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "YQO*VOR/DME*269.35/30.88",
+		"updated": "YQO*VOR/DME*269.35/30.88"
 	},
 	{
 		"name": "WOLRU",
@@ -1247,7 +1248,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/05/2001",
+		"updated": "10/05/2001"
 	},
 	{
 		"name": "WOLUK",
@@ -1256,7 +1257,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "WOMAN",
@@ -1265,7 +1266,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "ULW*VOR/DME*281.97",
+		"updated": "ULW*VOR/DME*281.97"
 	},
 	{
 		"name": "WOMAP",
@@ -1274,7 +1275,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "WOMBT",
@@ -1283,7 +1284,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/26/2015",
+		"updated": "02/26/2015"
 	},
 	{
 		"name": "WOMBU",
@@ -1292,7 +1293,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/30/2001",
+		"updated": "10/30/2001"
 	},
 	{
 		"name": "WOMDA",
@@ -1301,7 +1302,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/03/2013",
+		"updated": "09/03/2013"
 	},
 	{
 		"name": "WOMGI",
@@ -1310,7 +1311,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/24/2015",
+		"updated": "03/24/2015"
 	},
 	{
 		"name": "WOMGO",
@@ -1319,7 +1320,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/30/2018",
+		"updated": "03/30/2018"
 	},
 	{
 		"name": "WOMGU",
@@ -1328,7 +1329,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/21/2016",
+		"updated": "09/21/2016"
 	},
 	{
 		"name": "WOMLU",
@@ -1337,7 +1338,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/14/2012",
+		"updated": "05/14/2012"
 	},
 	{
 		"name": "WONDR",
@@ -1346,7 +1347,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "BZB*LD*033.19/9.06",
+		"updated": "BZB*LD*033.19/9.06"
 	},
 	{
 		"name": "WONOP",
@@ -1355,7 +1356,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/30/2018",
+		"updated": "03/30/2018"
 	},
 	{
 		"name": "WOOST",
@@ -1364,7 +1365,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "CRL*VOR/DME*127.97/36.66",
+		"updated": "CRL*VOR/DME*127.97/36.66"
 	},
 	{
 		"name": "WOPOG",
@@ -1373,7 +1374,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "EWC*VOR/DME*118.03",
+		"updated": "EWC*VOR/DME*118.03"
 	},
 	{
 		"name": "WORIS",
@@ -1382,7 +1383,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "ROC*VOR/DME*225.89/5.36",
+		"updated": "ROC*VOR/DME*225.89/5.36"
 	},
 	{
 		"name": "WOSAM",
@@ -1391,7 +1392,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/15/2013",
+		"updated": "08/15/2013"
 	},
 	{
 		"name": "WOSAP",
@@ -1400,7 +1401,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/24/2006",
+		"updated": "08/24/2006"
 	},
 	{
 		"name": "WOSNO",
@@ -1409,7 +1410,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/28/2005",
+		"updated": "11/28/2005"
 	},
 	{
 		"name": "WOTGU",
@@ -1418,7 +1419,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/20/2012",
+		"updated": "11/20/2012"
 	},
 	{
 		"name": "WOTID",
@@ -1427,7 +1428,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "EWC*VOR/DME*183.04/6.62",
+		"updated": "EWC*VOR/DME*183.04/6.62"
 	},
 	{
 		"name": "WOTIP",
@@ -1436,7 +1437,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/02/2005",
+		"updated": "05/02/2005"
 	},
 	{
 		"name": "WOVOM",
@@ -1445,7 +1446,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/30/2010",
+		"updated": "07/30/2010"
 	},
 	{
 		"name": "WOWYE",
@@ -1454,7 +1455,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/10/2002",
+		"updated": "04/10/2002"
 	},
 	{
 		"name": "WOXAK",
@@ -1463,7 +1464,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/24/2006",
+		"updated": "08/24/2006"
 	},
 	{
 		"name": "WOXAM",
@@ -1472,7 +1473,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "BSV*VOR/DME*351.02",
+		"updated": "BSV*VOR/DME*351.02"
 	},
 	{
 		"name": "WOXUB",
@@ -1481,7 +1482,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/23/2012",
+		"updated": "08/23/2012"
 	},
 	{
 		"name": "WOZEE",
@@ -1490,7 +1491,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/22/2014",
+		"updated": "09/22/2014"
 	},
 	{
 		"name": "WTEVR",
@@ -1499,7 +1500,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/28/2014",
+		"updated": "03/28/2014"
 	},
 	{
 		"name": "WUBMA",
@@ -1508,7 +1509,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/05/2011",
+		"updated": "05/05/2011"
 	},
 	{
 		"name": "WUBOG",
@@ -1517,7 +1518,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/24/2012",
+		"updated": "07/24/2012"
 	},
 	{
 		"name": "WUDAT",
@@ -1526,7 +1527,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/07/2010",
+		"updated": "12/07/2010"
 	},
 	{
 		"name": "WUDMO",
@@ -1535,7 +1536,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/18/2006",
+		"updated": "05/18/2006"
 	},
 	{
 		"name": "WUDUB",
@@ -1544,7 +1545,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "BNQ*LD*137.67/3.68",
+		"updated": "BNQ*LD*137.67/3.68"
 	},
 	{
 		"name": "WUHCO",
@@ -1553,7 +1554,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "TDT*VORTAC*286.32",
+		"updated": "TDT*VORTAC*286.32"
 	},
 	{
 		"name": "WUKRE",
@@ -1562,7 +1563,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "WULMA",
@@ -1571,7 +1572,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/29/2015",
+		"updated": "01/29/2015"
 	},
 	{
 		"name": "WULOM",
@@ -1580,7 +1581,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/04/2013",
+		"updated": "01/04/2013"
 	},
 	{
 		"name": "WULOR",
@@ -1589,7 +1590,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/08/2015",
+		"updated": "10/08/2015"
 	},
 	{
 		"name": "WUMYI",
@@ -1598,7 +1599,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "VWV*VOR/DME*048.52/9.48",
+		"updated": "VWV*VOR/DME*048.52/9.48"
 	},
 	{
 		"name": "WUNEP",
@@ -1607,7 +1608,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/16/2018",
+		"updated": "02/16/2018"
 	},
 	{
 		"name": "WUNIS",
@@ -1616,7 +1617,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/31/2014",
+		"updated": "01/31/2014"
 	},
 	{
 		"name": "WUNLA",
@@ -1625,7 +1626,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "WUPIT",
@@ -1634,7 +1635,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/20/2011",
+		"updated": "04/20/2011"
 	},
 	{
 		"name": "WURBA",
@@ -1643,7 +1644,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/05/2017",
+		"updated": "12/05/2017"
 	},
 	{
 		"name": "WURKU",
@@ -1652,7 +1653,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/01/2011",
+		"updated": "03/01/2011"
 	},
 	{
 		"name": "WURSI",
@@ -1661,7 +1662,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/21/2013",
+		"updated": "08/21/2013"
 	},
 	{
 		"name": "WUSAS",
@@ -1670,7 +1671,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/23/2014",
+		"updated": "10/23/2014"
 	},
 	{
 		"name": "WUSAT",
@@ -1679,7 +1680,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/02/2005",
+		"updated": "05/02/2005"
 	},
 	{
 		"name": "WUSER",
@@ -1688,7 +1689,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/09/2018",
+		"updated": "01/09/2018"
 	},
 	{
 		"name": "WUSOL",
@@ -1697,7 +1698,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/15/2013",
+		"updated": "05/15/2013"
 	},
 	{
 		"name": "WUSUR",
@@ -1706,7 +1707,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "WUTJE",
@@ -1715,7 +1716,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "WUTUR",
@@ -1724,7 +1725,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "WUVBI",
@@ -1733,7 +1734,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/20/2012",
+		"updated": "11/20/2012"
 	},
 	{
 		"name": "WUVRU",
@@ -1742,7 +1743,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/01/2011",
+		"updated": "03/01/2011"
 	},
 	{
 		"name": "WUVUK",
@@ -1751,7 +1752,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/01/2016",
+		"updated": "11/01/2016"
 	},
 	{
 		"name": "WUXAD",
@@ -1760,7 +1761,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/10/2016",
+		"updated": "11/10/2016"
 	},
 	{
 		"name": "WUZGO",
@@ -1769,7 +1770,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/02/2012",
+		"updated": "10/02/2012"
 	},
 	{
 		"name": "WWSHR",
@@ -1778,7 +1779,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/30/2018",
+		"updated": "03/30/2018"
 	},
 	{
 		"name": "WYGLE",
@@ -1787,7 +1788,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/31/2014",
+		"updated": "01/31/2014"
 	},
 	{
 		"name": "WYLER",
@@ -1796,7 +1797,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "AGC*VOR/DME*355.30/5.77",
+		"updated": "AGC*VOR/DME*355.30/5.77"
 	},
 	{
 		"name": "WYLLD",
@@ -1805,7 +1806,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/15/2009",
+		"updated": "09/15/2009"
 	},
 	{
 		"name": "WYNST",
@@ -1814,5 +1815,6 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/18/2018",
-	},
+		"updated": "04/18/2018"
+	}
+]

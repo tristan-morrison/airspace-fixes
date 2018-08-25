@@ -1,3 +1,4 @@
+[
 	{
 		"name": "UBDOW",
 		"latitude": "39-7-28.06 N",
@@ -5,7 +6,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/19/2014",
+		"updated": "12/19/2014"
 	},
 	{
 		"name": "UBHES",
@@ -14,7 +15,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "10/07/2014",
+		"updated": "10/07/2014"
 	},
 	{
 		"name": "UBIRE",
@@ -23,7 +24,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/14/2011",
+		"updated": "09/14/2011"
 	},
 	{
 		"name": "UBUKY",
@@ -32,7 +33,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/18/2001",
+		"updated": "01/18/2001"
 	},
 	{
 		"name": "UBYON",
@@ -41,7 +42,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "03/04/2015",
+		"updated": "03/04/2015"
 	},
 	{
 		"name": "UCALO",
@@ -50,7 +51,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "CCT*VORTAC*077.92/20.05",
+		"updated": "CCT*VORTAC*077.92/20.05"
 	},
 	{
 		"name": "UCAYU",
@@ -59,7 +60,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "FWA*VORTAC*111.82/43.40",
+		"updated": "FWA*VORTAC*111.82/43.40"
 	},
 	{
 		"name": "UCECU",
@@ -68,7 +69,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/02/2008",
+		"updated": "12/02/2008"
 	},
 	{
 		"name": "UCFEX",
@@ -77,7 +78,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/12/2014",
+		"updated": "09/12/2014"
 	},
 	{
 		"name": "UCOBI",
@@ -86,7 +87,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/01/2016",
+		"updated": "08/01/2016"
 	},
 	{
 		"name": "UCUCU",
@@ -95,7 +96,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/30/2011",
+		"updated": "06/30/2011"
 	},
 	{
 		"name": "UCYUZ",
@@ -104,7 +105,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "HCV*LD*231.70/0.10",
+		"updated": "HCV*LD*231.70/0.10"
 	},
 	{
 		"name": "UGKUJ",
@@ -113,7 +114,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/13/2012",
+		"updated": "09/13/2012"
 	},
 	{
 		"name": "UGNIQ",
@@ -122,7 +123,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/13/2013",
+		"updated": "08/13/2013"
 	},
 	{
 		"name": "UHAGY",
@@ -131,7 +132,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "UHOBI",
@@ -140,7 +141,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "UHZAW",
@@ -149,7 +150,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/21/2015",
+		"updated": "01/21/2015"
 	},
 	{
 		"name": "UJOYU",
@@ -158,7 +159,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "HVQ*VOR/DME*359.60/37.61",
+		"updated": "HVQ*VOR/DME*359.60/37.61"
 	},
 	{
 		"name": "UKATS",
@@ -167,7 +168,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/09/2016",
+		"updated": "05/09/2016"
 	},
 	{
 		"name": "UKESY",
@@ -176,7 +177,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/19/2014",
+		"updated": "12/19/2014"
 	},
 	{
 		"name": "UKICU",
@@ -185,7 +186,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/27/2011",
+		"updated": "05/27/2011"
 	},
 	{
 		"name": "UMEXE",
@@ -194,7 +195,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/26/2013",
+		"updated": "12/26/2013"
 	},
 	{
 		"name": "UMODE",
@@ -203,7 +204,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/02/2006",
+		"updated": "08/02/2006"
 	},
 	{
 		"name": "UMPTA",
@@ -212,7 +213,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "CVG*LD*186.18/14.83",
+		"updated": "CVG*LD*186.18/14.83"
 	},
 	{
 		"name": "UNCKL",
@@ -221,7 +222,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "LOZ*VOR/DME*315.95/39.56",
+		"updated": "LOZ*VOR/DME*315.95/39.56"
 	},
 	{
 		"name": "UNCOD",
@@ -230,7 +231,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/09/2016",
+		"updated": "05/09/2016"
 	},
 	{
 		"name": "UNDOZ",
@@ -239,7 +240,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/20/2018",
+		"updated": "02/20/2018"
 	},
 	{
 		"name": "UNICI",
@@ -248,7 +249,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/15/2014",
+		"updated": "07/15/2014"
 	},
 	{
 		"name": "UNNOG",
@@ -257,7 +258,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "UNOIT",
@@ -266,7 +267,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "ONB*LD*101.22/3.49",
+		"updated": "ONB*LD*101.22/3.49"
 	},
 	{
 		"name": "UNSAW",
@@ -275,7 +276,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/09/2012",
+		"updated": "04/09/2012"
 	},
 	{
 		"name": "UPDEW",
@@ -284,7 +285,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/21/2010",
+		"updated": "06/21/2010"
 	},
 	{
 		"name": "UPODE",
@@ -293,7 +294,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "03/20/2007",
+		"updated": "03/20/2007"
 	},
 	{
 		"name": "UPRAW",
@@ -302,7 +303,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/08/2006",
+		"updated": "08/08/2006"
 	},
 	{
 		"name": "UPSCO",
@@ -311,7 +312,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "IIU*VORTAC*225.91",
+		"updated": "IIU*VORTAC*225.91"
 	},
 	{
 		"name": "UPZIS",
@@ -320,7 +321,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/08/2006",
+		"updated": "08/08/2006"
 	},
 	{
 		"name": "URAYE",
@@ -329,7 +330,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/21/2010",
+		"updated": "06/21/2010"
 	},
 	{
 		"name": "URCUR",
@@ -338,7 +339,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/09/2001",
+		"updated": "07/09/2001"
 	},
 	{
 		"name": "URFUZ",
@@ -347,7 +348,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "AZQ*VOR/DME*305.26/6.00",
+		"updated": "AZQ*VOR/DME*305.26/6.00"
 	},
 	{
 		"name": "UROCU",
@@ -356,7 +357,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "CN",
-		"updated": "03/02/2010",
+		"updated": "03/02/2010"
 	},
 	{
 		"name": "URZUK",
@@ -365,7 +366,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "03/31/2009",
+		"updated": "03/31/2009"
 	},
 	{
 		"name": "USECE",
@@ -374,7 +375,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/13/2016",
+		"updated": "01/13/2016"
 	},
 	{
 		"name": "USEPE",
@@ -383,7 +384,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/01/2016",
+		"updated": "07/01/2016"
 	},
 	{
 		"name": "USOCU",
@@ -392,7 +393,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/13/2014",
+		"updated": "08/13/2014"
 	},
 	{
 		"name": "USOPY",
@@ -401,7 +402,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "USUDE",
@@ -410,7 +411,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "UTESE",
@@ -419,7 +420,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "UTEYU",
@@ -428,7 +429,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/20/2011",
+		"updated": "01/20/2011"
 	},
 	{
 		"name": "UTTER",
@@ -437,7 +438,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/07/2017",
+		"updated": "12/07/2017"
 	},
 	{
 		"name": "UUKAY",
@@ -446,7 +447,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/08/2006",
+		"updated": "08/08/2006"
 	},
 	{
 		"name": "UWHUH",
@@ -455,7 +456,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "FTK*VOR/DME*006.36/2.03",
+		"updated": "FTK*VOR/DME*006.36/2.03"
 	},
 	{
 		"name": "UXACI",
@@ -464,7 +465,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/26/2014",
+		"updated": "09/26/2014"
 	},
 	{
 		"name": "UXREL",
@@ -473,7 +474,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "10/05/2017",
+		"updated": "10/05/2017"
 	},
 	{
 		"name": "UXZOR",
@@ -482,7 +483,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "PXV*VORTAC*257.42/17.43",
+		"updated": "PXV*VORTAC*257.42/17.43"
 	},
 	{
 		"name": "UYOGO",
@@ -491,7 +492,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "ROD*VORTAC*181.23",
+		"updated": "ROD*VORTAC*181.23"
 	},
 	{
 		"name": "UYOKO",
@@ -500,7 +501,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/03/2006",
+		"updated": "11/03/2006"
 	},
 	{
 		"name": "UZAZA",
@@ -509,7 +510,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/03/2010",
+		"updated": "12/03/2010"
 	},
 	{
 		"name": "UZMUR",
@@ -518,7 +519,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/21/2006",
+		"updated": "06/21/2006"
 	},
 	{
 		"name": "UZNAP",
@@ -527,7 +528,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "UZXAM",
@@ -536,5 +537,6 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "10/07/2014",
-	},
+		"updated": "10/07/2014"
+	}
+]

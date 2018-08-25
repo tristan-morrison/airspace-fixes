@@ -1,3 +1,4 @@
+[
 	{
 		"name": "EGNIW",
 		"latitude": "18-13-59.28 N",
@@ -5,7 +6,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "01/24/2001",
+		"updated": "01/24/2001"
 	},
 	{
 		"name": "ELMUC",
@@ -14,7 +15,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "08/02/2010",
+		"updated": "08/02/2010"
 	},
 	{
 		"name": "ELOPO",
@@ -23,7 +24,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "PJM*VOR/DME*137.59/39.73",
+		"updated": "PJM*VOR/DME*137.59/39.73"
 	},
 	{
 		"name": "ETEEE",
@@ -32,7 +33,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "04/07/2008",
+		"updated": "04/07/2008"
 	},
 	{
 		"name": "EYOCI",
@@ -41,5 +42,6 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "08/16/2006",
-	},
+		"updated": "08/16/2006"
+	}
+]

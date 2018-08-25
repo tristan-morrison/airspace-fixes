@@ -1,3 +1,4 @@
+[
 	{
 		"name": "GOVIT",
 		"latitude": "49-32-40.79 N",
@@ -5,5 +6,6 @@
 		"state": "",
 		"artcc": "ZWG",
 		"type": "RNAV",
-		"updated": "01/15/2015",
-	},
+		"updated": "01/15/2015"
+	}
+]

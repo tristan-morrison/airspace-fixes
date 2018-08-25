@@ -1,3 +1,4 @@
+[
 	{
 		"name": "XALAC",
 		"latitude": "42-40-49.72 N",
@@ -5,7 +6,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "CN",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "XANTY",
@@ -14,7 +15,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/11/2005",
+		"updated": "07/11/2005"
 	},
 	{
 		"name": "XAWFE",
@@ -23,7 +24,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "ENE*VOR/DME*/7.50",
+		"updated": "ENE*VOR/DME*/7.50"
 	},
 	{
 		"name": "XCESS",
@@ -32,7 +33,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "XIBUL",
@@ -41,7 +42,7 @@
 		"state": "",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/12/2016",
+		"updated": "11/12/2016"
 	},
 	{
 		"name": "XIJAF",
@@ -50,7 +51,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/12/2011",
+		"updated": "04/12/2011"
 	},
 	{
 		"name": "XIMKY",
@@ -59,7 +60,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/14/2014",
+		"updated": "08/14/2014"
 	},
 	{
 		"name": "XIPAQ",
@@ -68,7 +69,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "XOHWA",
@@ -77,7 +78,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "CN",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "XOHWI",
@@ -86,7 +87,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MHT*LD*171.53/3.53",
+		"updated": "MHT*LD*171.53/3.53"
 	},
 	{
 		"name": "XOWVE",
@@ -95,7 +96,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "VOE*LD*145.83/3.20",
+		"updated": "VOE*LD*145.83/3.20"
 	},
 	{
 		"name": "XUDAJ",
@@ -104,5 +105,6 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PVD*VOR/DME*187.91/7.00",
-	},
+		"updated": "PVD*VOR/DME*187.91/7.00"
+	}
+]

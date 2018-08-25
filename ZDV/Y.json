@@ -1,3 +1,4 @@
+[
 	{
 		"name": "YAKIY",
 		"latitude": "39-10-0.38 N",
@@ -5,7 +6,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLD*VORTAC*237.83/38.00",
+		"updated": "GLD*VORTAC*237.83/38.00"
 	},
 	{
 		"name": "YALES",
@@ -14,7 +15,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DEN*VOR/DME*348.53/58.98",
+		"updated": "DEN*VOR/DME*348.53/58.98"
 	},
 	{
 		"name": "YAMMI",
@@ -23,7 +24,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DEN*VOR/DME*334.00/60.09",
+		"updated": "DEN*VOR/DME*334.00/60.09"
 	},
 	{
 		"name": "YAMNA",
@@ -32,7 +33,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "YANKI",
@@ -41,7 +42,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ONL*VORTAC*229.00/107.66",
+		"updated": "ONL*VORTAC*229.00/107.66"
 	},
 	{
 		"name": "YARUB",
@@ -50,7 +51,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/20/2009",
+		"updated": "03/20/2009"
 	},
 	{
 		"name": "YATUY",
@@ -59,7 +60,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "11/08/2010",
+		"updated": "11/08/2010"
 	},
 	{
 		"name": "YAVUC",
@@ -68,7 +69,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RAP*LD*143.83/7.26",
+		"updated": "RAP*LD*143.83/7.26"
 	},
 	{
 		"name": "YEARR",
@@ -77,7 +78,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "YEBVI",
@@ -86,7 +87,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/21/2008",
+		"updated": "07/21/2008"
 	},
 	{
 		"name": "YECTU",
@@ -95,7 +96,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/20/2009",
+		"updated": "03/20/2009"
 	},
 	{
 		"name": "YEGUS",
@@ -104,7 +105,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/10/2017",
+		"updated": "08/10/2017"
 	},
 	{
 		"name": "YEKUS",
@@ -113,7 +114,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "MBW*VOR/DME*143.17/9.00",
+		"updated": "MBW*VOR/DME*143.17/9.00"
 	},
 	{
 		"name": "YELUR",
@@ -122,7 +123,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/18/2017",
+		"updated": "01/18/2017"
 	},
 	{
 		"name": "YESUS",
@@ -131,7 +132,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LBF*VOR/DME*080.21/24.37",
+		"updated": "LBF*VOR/DME*080.21/24.37"
 	},
 	{
 		"name": "YETUP",
@@ -140,7 +141,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "YEVJO",
@@ -149,7 +150,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "YEYUC",
@@ -158,7 +159,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/20/2012",
+		"updated": "11/20/2012"
 	},
 	{
 		"name": "YIDUR",
@@ -167,7 +168,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/04/2011",
+		"updated": "04/04/2011"
 	},
 	{
 		"name": "YIKLO",
@@ -176,7 +177,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "TBC*VORTAC*060.31/70.00",
+		"updated": "TBC*VORTAC*060.31/70.00"
 	},
 	{
 		"name": "YIMZO",
@@ -185,7 +186,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*136.23/27.10",
+		"updated": "GLL*VOR/DME*136.23/27.10"
 	},
 	{
 		"name": "YIRDU",
@@ -194,7 +195,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/13/2008",
+		"updated": "03/13/2008"
 	},
 	{
 		"name": "YIVSU",
@@ -203,7 +204,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/26/2012",
+		"updated": "04/26/2012"
 	},
 	{
 		"name": "YIWZE",
@@ -212,7 +213,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/14/2008",
+		"updated": "08/14/2008"
 	},
 	{
 		"name": "YOBRO",
@@ -221,7 +222,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/21/2016",
+		"updated": "03/21/2016"
 	},
 	{
 		"name": "YOBUB",
@@ -230,7 +231,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "YOBUP",
@@ -239,7 +240,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*247.59/21.12",
+		"updated": "CHE*VOR/DME*247.59/21.12"
 	},
 	{
 		"name": "YOBUT",
@@ -248,7 +249,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/30/2008",
+		"updated": "01/30/2008"
 	},
 	{
 		"name": "YODUB",
@@ -257,7 +258,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RIL*LD*078.46/13.88",
+		"updated": "RIL*LD*078.46/13.88"
 	},
 	{
 		"name": "YOGFY",
@@ -266,7 +267,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/24/2011",
+		"updated": "10/24/2011"
 	},
 	{
 		"name": "YOKES",
@@ -275,7 +276,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DEN*VOR/DME*014.88/49.80",
+		"updated": "DEN*VOR/DME*014.88/49.80"
 	},
 	{
 		"name": "YOKUY",
@@ -284,7 +285,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "YONDR",
@@ -293,7 +294,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*112.86",
+		"updated": "GLL*VOR/DME*112.86"
 	},
 	{
 		"name": "YORRO",
@@ -302,7 +303,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/20/2010",
+		"updated": "09/20/2010"
 	},
 	{
 		"name": "YORVT",
@@ -311,7 +312,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "YOSUS",
@@ -320,7 +321,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/23/2005",
+		"updated": "08/23/2005"
 	},
 	{
 		"name": "YOVCU",
@@ -329,7 +330,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "YOZLE",
@@ -338,7 +339,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LBF*VOR/DME*080.21/49.76",
+		"updated": "LBF*VOR/DME*080.21/49.76"
 	},
 	{
 		"name": "YUBVU",
@@ -347,7 +348,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/01/2013",
+		"updated": "11/01/2013"
 	},
 	{
 		"name": "YUKUR",
@@ -356,7 +357,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "YUNGS",
@@ -365,7 +366,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RAP*VORTAC*326.00/28.00",
+		"updated": "RAP*VORTAC*326.00/28.00"
 	},
 	{
 		"name": "YUNGU",
@@ -374,7 +375,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*105.27/8.70",
+		"updated": "CHE*VOR/DME*105.27/8.70"
 	},
 	{
 		"name": "YURUK",
@@ -383,7 +384,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*209.12/4.61",
+		"updated": "GLL*VOR/DME*209.12/4.61"
 	},
 	{
 		"name": "YURVE",
@@ -392,5 +393,6 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CEZ*VOR/DME*311.05/15.00",
-	},
+		"updated": "CEZ*VOR/DME*311.05/15.00"
+	}
+]

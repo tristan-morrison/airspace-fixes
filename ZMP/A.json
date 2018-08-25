@@ -1,3 +1,4 @@
+[
 	{
 		"name": "AABEZ",
 		"latitude": "44-47-17.1 N",
@@ -5,7 +6,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MSP*LD*121.36/10.02",
+		"updated": "MSP*LD*121.36/10.02"
 	},
 	{
 		"name": "AANAH",
@@ -14,7 +15,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/16/2015",
+		"updated": "01/16/2015"
 	},
 	{
 		"name": "AANDY",
@@ -23,7 +24,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SUX*VORTAC*150.33/33.62",
+		"updated": "SUX*VORTAC*150.33/33.62"
 	},
 	{
 		"name": "AASUN",
@@ -32,7 +33,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PJL*LD*301.33/2.85",
+		"updated": "PJL*LD*301.33/2.85"
 	},
 	{
 		"name": "ABSAW",
@@ -41,7 +42,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "ACACE",
@@ -50,7 +51,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/04/2007",
+		"updated": "05/04/2007"
 	},
 	{
 		"name": "ACANO",
@@ -59,7 +60,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/19/2002",
+		"updated": "11/19/2002"
 	},
 	{
 		"name": "ACANY",
@@ -68,7 +69,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "12/11/1995",
+		"updated": "12/11/1995"
 	},
 	{
 		"name": "ACATI",
@@ -77,7 +78,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/19/2002",
+		"updated": "11/19/2002"
 	},
 	{
 		"name": "ACAYO",
@@ -86,7 +87,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/12/2011",
+		"updated": "09/12/2011"
 	},
 	{
 		"name": "ACAZE",
@@ -95,7 +96,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "ACEBE",
@@ -104,7 +105,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/13/2017",
+		"updated": "04/13/2017"
 	},
 	{
 		"name": "ACEBO",
@@ -113,7 +114,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "ACILU",
@@ -122,7 +123,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/22/2009",
+		"updated": "05/22/2009"
 	},
 	{
 		"name": "ACKEG",
@@ -131,7 +132,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/31/2005",
+		"updated": "05/31/2005"
 	},
 	{
 		"name": "ACKOP",
@@ -140,7 +141,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/14/2008",
+		"updated": "02/14/2008"
 	},
 	{
 		"name": "ACLIK",
@@ -149,7 +150,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/14/2009",
+		"updated": "04/14/2009"
 	},
 	{
 		"name": "ACOCO",
@@ -158,7 +159,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/11/2015",
+		"updated": "03/11/2015"
 	},
 	{
 		"name": "ACPAP",
@@ -167,7 +168,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/23/2007",
+		"updated": "04/23/2007"
 	},
 	{
 		"name": "ADDEY",
@@ -176,7 +177,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GRI*VOR/DME*173.00/7.00",
+		"updated": "GRI*VOR/DME*173.00/7.00"
 	},
 	{
 		"name": "ADDLE",
@@ -185,7 +186,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FOD*VORTAC*355.00/23.00",
+		"updated": "FOD*VORTAC*355.00/23.00"
 	},
 	{
 		"name": "ADEDY",
@@ -194,7 +195,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ONL*VORTAC*312.57/44.00",
+		"updated": "ONL*VORTAC*312.57/44.00"
 	},
 	{
 		"name": "ADEME",
@@ -203,7 +204,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/07/2008",
+		"updated": "02/07/2008"
 	},
 	{
 		"name": "ADENO",
@@ -212,7 +213,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GLR*VOR/DME*279.02",
+		"updated": "GLR*VOR/DME*279.02"
 	},
 	{
 		"name": "ADIER",
@@ -221,7 +222,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/22/2009",
+		"updated": "03/22/2009"
 	},
 	{
 		"name": "ADRUM",
@@ -230,7 +231,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GRI*VOR/DME*248.91/16.14",
+		"updated": "GRI*VOR/DME*248.91/16.14"
 	},
 	{
 		"name": "ADUTE",
@@ -239,7 +240,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "ADUWU",
@@ -248,7 +249,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/06/2009",
+		"updated": "10/06/2009"
 	},
 	{
 		"name": "AFERO",
@@ -257,7 +258,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2009",
+		"updated": "02/09/2009"
 	},
 	{
 		"name": "AFFIC",
@@ -266,7 +267,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/21/2010",
+		"updated": "04/21/2010"
 	},
 	{
 		"name": "AFSIC",
@@ -275,7 +276,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/15/2007",
+		"updated": "03/15/2007"
 	},
 	{
 		"name": "AFTYN",
@@ -284,7 +285,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/13/2015",
+		"updated": "01/13/2015"
 	},
 	{
 		"name": "AFUGU",
@@ -293,7 +294,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/05/2016",
+		"updated": "04/05/2016"
 	},
 	{
 		"name": "AFUNI",
@@ -302,7 +303,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/02/2009",
+		"updated": "03/02/2009"
 	},
 	{
 		"name": "AGACE",
@@ -311,7 +312,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/22/2010",
+		"updated": "03/22/2010"
 	},
 	{
 		"name": "AGATT",
@@ -320,7 +321,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/16/2015",
+		"updated": "06/16/2015"
 	},
 	{
 		"name": "AGECU",
@@ -329,7 +330,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "RDR*TACAN*/5.92",
+		"updated": "RDR*TACAN*/5.92"
 	},
 	{
 		"name": "AGEKY",
@@ -338,7 +339,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/31/2005",
+		"updated": "10/31/2005"
 	},
 	{
 		"name": "AGHOD",
@@ -347,7 +348,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/20/2003",
+		"updated": "08/20/2003"
 	},
 	{
 		"name": "AGIPE",
@@ -356,7 +357,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/25/2014",
+		"updated": "09/25/2014"
 	},
 	{
 		"name": "AGNAQ",
@@ -365,7 +366,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/09/2017",
+		"updated": "03/09/2017"
 	},
 	{
 		"name": "AGOKY",
@@ -374,7 +375,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/19/2003",
+		"updated": "12/19/2003"
 	},
 	{
 		"name": "AGOMA",
@@ -383,7 +384,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MNM*VOR/DME*177.00",
+		"updated": "MNM*VOR/DME*177.00"
 	},
 	{
 		"name": "AGOPY",
@@ -392,7 +393,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/24/2011",
+		"updated": "05/24/2011"
 	},
 	{
 		"name": "AGUDE",
@@ -401,7 +402,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*085.00/41.69",
+		"updated": "GEP*VORTAC*085.00/41.69"
 	},
 	{
 		"name": "AGUFY",
@@ -410,7 +411,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/22/2009",
+		"updated": "03/22/2009"
 	},
 	{
 		"name": "AGUYI",
@@ -419,7 +420,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/07/2008",
+		"updated": "02/07/2008"
 	},
 	{
 		"name": "AHIEO",
@@ -428,7 +429,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/20/2001",
+		"updated": "04/20/2001"
 	},
 	{
 		"name": "AHMIT",
@@ -437,7 +438,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FGT*VORTAC*178.04/8.00",
+		"updated": "FGT*VORTAC*178.04/8.00"
 	},
 	{
 		"name": "AILEN",
@@ -446,7 +447,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/04/2010",
+		"updated": "04/04/2010"
 	},
 	{
 		"name": "AILES",
@@ -455,7 +456,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "APN*VORTAC*200.73/17.00",
+		"updated": "APN*VORTAC*200.73/17.00"
 	},
 	{
 		"name": "AJADI",
@@ -464,7 +465,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/13/2008",
+		"updated": "05/13/2008"
 	},
 	{
 		"name": "AJAPY",
@@ -473,7 +474,7 @@
 		"state": "",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/13/2011",
+		"updated": "06/13/2011"
 	},
 	{
 		"name": "AJBOF",
@@ -482,7 +483,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/14/2013",
+		"updated": "06/14/2013"
 	},
 	{
 		"name": "AJBOY",
@@ -491,7 +492,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "AKAKE",
@@ -500,7 +501,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/16/2013",
+		"updated": "05/16/2013"
 	},
 	{
 		"name": "AKENE",
@@ -509,7 +510,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/24/2013",
+		"updated": "05/24/2013"
 	},
 	{
 		"name": "AKIGE",
@@ -518,7 +519,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/15/2007",
+		"updated": "03/15/2007"
 	},
 	{
 		"name": "AKILE",
@@ -527,7 +528,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PIR*VORTAC*075.73/7.00",
+		"updated": "PIR*VORTAC*075.73/7.00"
 	},
 	{
 		"name": "AKIRE",
@@ -536,7 +537,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/28/2015",
+		"updated": "04/28/2015"
 	},
 	{
 		"name": "AKJAW",
@@ -545,7 +546,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/12/2016",
+		"updated": "04/12/2016"
 	},
 	{
 		"name": "AKKIF",
@@ -554,7 +555,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "TVF*VOR/DME*198.92",
+		"updated": "TVF*VOR/DME*198.92"
 	},
 	{
 		"name": "AKRIF",
@@ -563,7 +564,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "AKTOY",
@@ -572,7 +573,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/04/2016",
+		"updated": "02/04/2016"
 	},
 	{
 		"name": "AKUBE",
@@ -581,7 +582,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/01/2011",
+		"updated": "04/01/2011"
 	},
 	{
 		"name": "AKUSE",
@@ -590,7 +591,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/08/2002",
+		"updated": "04/08/2002"
 	},
 	{
 		"name": "AKVEY",
@@ -599,7 +600,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "ALAGE",
@@ -608,7 +609,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RST*VOR/DME*301.50/23.43",
+		"updated": "RST*VOR/DME*301.50/23.43"
 	},
 	{
 		"name": "ALEEN",
@@ -617,7 +618,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*050.49/57.80",
+		"updated": "GEP*VORTAC*050.49/57.80"
 	},
 	{
 		"name": "ALEMY",
@@ -626,7 +627,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/11/2005",
+		"updated": "07/11/2005"
 	},
 	{
 		"name": "ALENS",
@@ -635,7 +636,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DPR*VOR/DME*013.14/31.95",
+		"updated": "DPR*VOR/DME*013.14/31.95"
 	},
 	{
 		"name": "ALETE",
@@ -644,7 +645,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "INL*VOR/DME*/2.22",
+		"updated": "INL*VOR/DME*/2.22"
 	},
 	{
 		"name": "ALEYU",
@@ -653,7 +654,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ODI*VORTAC*354.03",
+		"updated": "ODI*VORTAC*354.03"
 	},
 	{
 		"name": "ALGIN",
@@ -662,7 +663,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PJL*LD*301.33/14.05",
+		"updated": "PJL*LD*301.33/14.05"
 	},
 	{
 		"name": "ALICI",
@@ -671,7 +672,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "ALLOT",
@@ -680,7 +681,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "HON*VORTAC*302.00",
+		"updated": "HON*VORTAC*302.00"
 	},
 	{
 		"name": "ALMAY",
@@ -689,7 +690,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*182.00",
+		"updated": "GEP*VORTAC*182.00"
 	},
 	{
 		"name": "ALOCK",
@@ -698,7 +699,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FOD*VORTAC*084.59/38.40",
+		"updated": "FOD*VORTAC*084.59/38.40"
 	},
 	{
 		"name": "ALTUW",
@@ -707,7 +708,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "ALVUS",
@@ -716,7 +717,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SSM*VOR/DME*129.34/5.00",
+		"updated": "SSM*VOR/DME*129.34/5.00"
 	},
 	{
 		"name": "AMABE",
@@ -725,7 +726,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/11/2012",
+		"updated": "09/11/2012"
 	},
 	{
 		"name": "AMARE",
@@ -734,7 +735,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PKD*VOR/DME*316.00/6.00",
+		"updated": "PKD*VOR/DME*316.00/6.00"
 	},
 	{
 		"name": "AMAXE",
@@ -743,7 +744,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MIB*TACAN*302.00/15.00",
+		"updated": "MIB*TACAN*302.00/15.00"
 	},
 	{
 		"name": "AMDEE",
@@ -752,7 +753,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PLN*VORTAC*011.66/10.00",
+		"updated": "PLN*VORTAC*011.66/10.00"
 	},
 	{
 		"name": "AMDIZ",
@@ -761,7 +762,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/28/2009",
+		"updated": "09/28/2009"
 	},
 	{
 		"name": "AMENY",
@@ -770,7 +771,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/10/2009",
+		"updated": "03/10/2009"
 	},
 	{
 		"name": "AMIDE",
@@ -779,7 +780,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/25/2009",
+		"updated": "08/25/2009"
 	},
 	{
 		"name": "AMIFA",
@@ -788,7 +789,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/20/2017",
+		"updated": "11/20/2017"
 	},
 	{
 		"name": "AMILE",
@@ -797,7 +798,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/12/2008",
+		"updated": "06/12/2008"
 	},
 	{
 		"name": "AMILY",
@@ -806,7 +807,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/20/2001",
+		"updated": "04/20/2001"
 	},
 	{
 		"name": "AMIRE",
@@ -815,7 +816,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MIB*TACAN*109.00/15.00",
+		"updated": "MIB*TACAN*109.00/15.00"
 	},
 	{
 		"name": "AMIVY",
@@ -824,7 +825,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/07/2008",
+		"updated": "07/07/2008"
 	},
 	{
 		"name": "AMLIY",
@@ -833,7 +834,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/08/2010",
+		"updated": "04/08/2010"
 	},
 	{
 		"name": "AMMAJ",
@@ -842,7 +843,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ATY*VORTAC*303.01/30.72",
+		"updated": "ATY*VORTAC*303.01/30.72"
 	},
 	{
 		"name": "AMMBR",
@@ -851,7 +852,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*315.00/22.00",
+		"updated": "GEP*VORTAC*315.00/22.00"
 	},
 	{
 		"name": "AMOSE",
@@ -860,7 +861,7 @@
 		"state": "OHIO",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BSV*VOR/DME*295.67/17.00",
+		"updated": "BSV*VOR/DME*295.67/17.00"
 	},
 	{
 		"name": "AMOXE",
@@ -869,7 +870,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "10/11/1995",
+		"updated": "10/11/1995"
 	},
 	{
 		"name": "AMSIW",
@@ -878,7 +879,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "AMTAH",
@@ -887,7 +888,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/10/2008",
+		"updated": "07/10/2008"
 	},
 	{
 		"name": "AMUJO",
@@ -896,7 +897,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "JMS*VOR/DME*136.64/2.80",
+		"updated": "JMS*VOR/DME*136.64/2.80"
 	},
 	{
 		"name": "AMUKY",
@@ -905,7 +906,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "AMYOK",
@@ -914,7 +915,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/02/2007",
+		"updated": "07/02/2007"
 	},
 	{
 		"name": "ANAPE",
@@ -923,7 +924,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BDE*VOR/DME*305.22/0.82",
+		"updated": "BDE*VOR/DME*305.22/0.82"
 	},
 	{
 		"name": "ANATE",
@@ -932,7 +933,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/08/2011",
+		"updated": "05/08/2011"
 	},
 	{
 		"name": "ANDDE",
@@ -941,7 +942,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*103.00/31.07",
+		"updated": "GEP*VORTAC*103.00/31.07"
 	},
 	{
 		"name": "ANDOE",
@@ -950,7 +951,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "JUD*LS*E CRS",
+		"updated": "JUD*LS*E CRS"
 	},
 	{
 		"name": "ANDRS",
@@ -959,7 +960,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/23/2011",
+		"updated": "05/23/2011"
 	},
 	{
 		"name": "ANEPE",
@@ -968,7 +969,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/28/2006",
+		"updated": "11/28/2006"
 	},
 	{
 		"name": "ANEWA",
@@ -977,7 +978,7 @@
 		"state": "OHIO",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "CRL*VOR/DME*197.30/27.00",
+		"updated": "CRL*VOR/DME*197.30/27.00"
 	},
 	{
 		"name": "ANEYU",
@@ -986,7 +987,7 @@
 		"state": "",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "ANFEY",
@@ -995,7 +996,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "ANGIW",
@@ -1004,7 +1005,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/27/2009",
+		"updated": "10/27/2009"
 	},
 	{
 		"name": "ANILE",
@@ -1013,7 +1014,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/26/2007",
+		"updated": "06/26/2007"
 	},
 	{
 		"name": "ANIML",
@@ -1022,7 +1023,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/12/2010",
+		"updated": "08/12/2010"
 	},
 	{
 		"name": "ANIMY",
@@ -1031,7 +1032,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/19/2009",
+		"updated": "08/19/2009"
 	},
 	{
 		"name": "ANISY",
@@ -1040,7 +1041,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/17/2017",
+		"updated": "02/17/2017"
 	},
 	{
 		"name": "ANIVE",
@@ -1049,7 +1050,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/25/2007",
+		"updated": "06/25/2007"
 	},
 	{
 		"name": "ANJEP",
@@ -1058,7 +1059,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/04/2010",
+		"updated": "02/04/2010"
 	},
 	{
 		"name": "ANKEN",
@@ -1067,7 +1068,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DSM*VORTAC*001.02/17.68",
+		"updated": "DSM*VORTAC*001.02/17.68"
 	},
 	{
 		"name": "ANLEY",
@@ -1076,7 +1077,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MCW*VOR/DME*/9.00",
+		"updated": "MCW*VOR/DME*/9.00"
 	},
 	{
 		"name": "ANLIE",
@@ -1085,7 +1086,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "ANOKE",
@@ -1094,7 +1095,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "EAR*VOR*178.93",
+		"updated": "EAR*VOR*178.93"
 	},
 	{
 		"name": "ANONE",
@@ -1103,7 +1104,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/20/2012",
+		"updated": "07/20/2012"
 	},
 	{
 		"name": "ANSMO",
@@ -1112,7 +1113,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "ANTOI",
@@ -1121,7 +1122,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DXX*NDB*129.00",
+		"updated": "DXX*NDB*129.00"
 	},
 	{
 		"name": "ANUZA",
@@ -1130,7 +1131,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/19/2009",
+		"updated": "06/19/2009"
 	},
 	{
 		"name": "ANVOC",
@@ -1139,7 +1140,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "APCHY",
@@ -1148,7 +1149,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/14/2009",
+		"updated": "10/14/2009"
 	},
 	{
 		"name": "APEDE",
@@ -1157,7 +1158,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/21/2007",
+		"updated": "07/21/2007"
 	},
 	{
 		"name": "APESE",
@@ -1166,7 +1167,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/31/2010",
+		"updated": "03/31/2010"
 	},
 	{
 		"name": "APEWO",
@@ -1175,7 +1176,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "APEZY",
@@ -1184,7 +1185,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/09/2011",
+		"updated": "05/09/2011"
 	},
 	{
 		"name": "APIGE",
@@ -1193,7 +1194,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/03/2015",
+		"updated": "11/03/2015"
 	},
 	{
 		"name": "APIKY",
@@ -1202,7 +1203,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/13/2008",
+		"updated": "05/13/2008"
 	},
 	{
 		"name": "APIXY",
@@ -1211,7 +1212,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "APIYO",
@@ -1220,7 +1221,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GFK*VOR/DME*003.00/12.00",
+		"updated": "GFK*VOR/DME*003.00/12.00"
 	},
 	{
 		"name": "APOCA",
@@ -1229,7 +1230,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/19/2002",
+		"updated": "11/19/2002"
 	},
 	{
 		"name": "APREF",
@@ -1238,7 +1239,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/20/2012",
+		"updated": "11/20/2012"
 	},
 	{
 		"name": "APRIW",
@@ -1247,7 +1248,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FAR*VOR/DME*049.96",
+		"updated": "FAR*VOR/DME*049.96"
 	},
 	{
 		"name": "APUNY",
@@ -1256,7 +1257,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/05/2015",
+		"updated": "05/05/2015"
 	},
 	{
 		"name": "APUYU",
@@ -1265,7 +1266,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "JMS*VOR/DME*131.99/5.90",
+		"updated": "JMS*VOR/DME*131.99/5.90"
 	},
 	{
 		"name": "APXIB",
@@ -1274,7 +1275,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/06/2009",
+		"updated": "10/06/2009"
 	},
 	{
 		"name": "AQECY",
@@ -1283,7 +1284,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/05/2010",
+		"updated": "12/05/2010"
 	},
 	{
 		"name": "AQETO",
@@ -1292,7 +1293,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/09/2009",
+		"updated": "12/09/2009"
 	},
 	{
 		"name": "AQUAT",
@@ -1301,7 +1302,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*050.47/20.00",
+		"updated": "GEP*VORTAC*050.47/20.00"
 	},
 	{
 		"name": "ARAFE",
@@ -1310,7 +1311,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/29/2015",
+		"updated": "10/29/2015"
 	},
 	{
 		"name": "ARALE",
@@ -1319,7 +1320,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/31/2010",
+		"updated": "03/31/2010"
 	},
 	{
 		"name": "ARANE",
@@ -1328,7 +1329,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "ARCED",
@@ -1337,7 +1338,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/18/2015",
+		"updated": "08/18/2015"
 	},
 	{
 		"name": "ARDNN",
@@ -1346,7 +1347,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FCM*VOR/DME*030.82",
+		"updated": "FCM*VOR/DME*030.82"
 	},
 	{
 		"name": "ARDUE",
@@ -1355,7 +1356,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MVE*VOR/DME*003.20",
+		"updated": "MVE*VOR/DME*003.20"
 	},
 	{
 		"name": "AREAL",
@@ -1364,7 +1365,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/04/2015",
+		"updated": "11/04/2015"
 	},
 	{
 		"name": "AREDA",
@@ -1373,7 +1374,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FOD*VORTAC*068.00",
+		"updated": "FOD*VORTAC*068.00"
 	},
 	{
 		"name": "ARESE",
@@ -1382,7 +1383,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/23/2015",
+		"updated": "07/23/2015"
 	},
 	{
 		"name": "ARETT",
@@ -1391,7 +1392,7 @@
 		"state": "OHIO",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "JFN*VOR/DME*072.17/8.00",
+		"updated": "JFN*VOR/DME*072.17/8.00"
 	},
 	{
 		"name": "ARIDE",
@@ -1400,7 +1401,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/02/2009",
+		"updated": "02/02/2009"
 	},
 	{
 		"name": "ARJAE",
@@ -1409,7 +1410,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*131.39",
+		"updated": "GEP*VORTAC*131.39"
 	},
 	{
 		"name": "ARJEL",
@@ -1418,7 +1419,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ABR*VOR/DME*224.90/15.78",
+		"updated": "ABR*VOR/DME*224.90/15.78"
 	},
 	{
 		"name": "ARKET",
@@ -1427,7 +1428,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FGT*VORTAC*264.99/7.00",
+		"updated": "FGT*VORTAC*264.99/7.00"
 	},
 	{
 		"name": "ARMUW",
@@ -1436,7 +1437,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "AXN*VOR/DME*170.13/30.94",
+		"updated": "AXN*VOR/DME*170.13/30.94"
 	},
 	{
 		"name": "ARNDT",
@@ -1445,7 +1446,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/31/2017",
+		"updated": "03/31/2017"
 	},
 	{
 		"name": "AROCO",
@@ -1454,7 +1455,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/05/2018",
+		"updated": "04/05/2018"
 	},
 	{
 		"name": "ARREX",
@@ -1463,7 +1464,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MSP*VOR/DME*232.27/48.00",
+		"updated": "MSP*VOR/DME*232.27/48.00"
 	},
 	{
 		"name": "ARSHA",
@@ -1472,7 +1473,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RHI*VOR/DME*/6.79",
+		"updated": "RHI*VOR/DME*/6.79"
 	},
 	{
 		"name": "ASABE",
@@ -1481,7 +1482,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/08/2014",
+		"updated": "07/08/2014"
 	},
 	{
 		"name": "ASARE",
@@ -1490,7 +1491,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/06/2017",
+		"updated": "07/06/2017"
 	},
 	{
 		"name": "ASIGE",
@@ -1499,7 +1500,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/25/2005",
+		"updated": "11/25/2005"
 	},
 	{
 		"name": "ASIRE",
@@ -1508,7 +1509,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/21/2015",
+		"updated": "08/21/2015"
 	},
 	{
 		"name": "ASISE",
@@ -1517,7 +1518,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/19/2002",
+		"updated": "06/19/2002"
 	},
 	{
 		"name": "ASOCU",
@@ -1526,7 +1527,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/23/2016",
+		"updated": "02/23/2016"
 	},
 	{
 		"name": "ASOPE",
@@ -1535,7 +1536,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/20/2003",
+		"updated": "08/20/2003"
 	},
 	{
 		"name": "ASTOE",
@@ -1544,7 +1545,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ATY*VORTAC*135.90",
+		"updated": "ATY*VORTAC*135.90"
 	},
 	{
 		"name": "ASUBE",
@@ -1553,7 +1554,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/21/2000",
+		"updated": "06/21/2000"
 	},
 	{
 		"name": "ASUYO",
@@ -1562,7 +1563,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "ASYLA",
@@ -1571,7 +1572,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/21/2015",
+		"updated": "08/21/2015"
 	},
 	{
 		"name": "ATIJA",
@@ -1580,7 +1581,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/09/2011",
+		"updated": "09/09/2011"
 	},
 	{
 		"name": "ATJEC",
@@ -1589,7 +1590,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/21/2000",
+		"updated": "06/21/2000"
 	},
 	{
 		"name": "ATLES",
@@ -1598,7 +1599,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SUX*VORTAC*265.91/25.00",
+		"updated": "SUX*VORTAC*265.91/25.00"
 	},
 	{
 		"name": "ATLOJ",
@@ -1607,7 +1608,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FOD*VORTAC*149.48",
+		"updated": "FOD*VORTAC*149.48"
 	},
 	{
 		"name": "ATMAW",
@@ -1616,7 +1617,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/04/2010",
+		"updated": "09/04/2010"
 	},
 	{
 		"name": "ATNUY",
@@ -1625,7 +1626,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/15/2009",
+		"updated": "04/15/2009"
 	},
 	{
 		"name": "ATODE",
@@ -1634,7 +1635,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/11/2012",
+		"updated": "08/11/2012"
 	},
 	{
 		"name": "ATOPY",
@@ -1643,7 +1644,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/26/2007",
+		"updated": "12/26/2007"
 	},
 	{
 		"name": "ATOYO",
@@ -1652,7 +1653,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/16/2009",
+		"updated": "06/16/2009"
 	},
 	{
 		"name": "ATPIC",
@@ -1661,7 +1662,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "ATUXE",
@@ -1670,7 +1671,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/19/2013",
+		"updated": "02/19/2013"
 	},
 	{
 		"name": "AUGER",
@@ -1679,7 +1680,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*310.00/107.29",
+		"updated": "BAE*VOR/DME*310.00/107.29"
 	},
 	{
 		"name": "AULNR",
@@ -1688,7 +1689,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "AUTOS",
@@ -1697,7 +1698,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ODI*VORTAC*184.00/14.00",
+		"updated": "ODI*VORTAC*184.00/14.00"
 	},
 	{
 		"name": "AVAME",
@@ -1706,7 +1707,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "AVATY",
@@ -1715,7 +1716,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/26/2008",
+		"updated": "03/26/2008"
 	},
 	{
 		"name": "AVAXE",
@@ -1724,7 +1725,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2009",
+		"updated": "06/28/2009"
 	},
 	{
 		"name": "AVBAF",
@@ -1733,7 +1734,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/15/2017",
+		"updated": "12/15/2017"
 	},
 	{
 		"name": "AVELE",
@@ -1742,7 +1743,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2008",
+		"updated": "05/30/2008"
 	},
 	{
 		"name": "AVEXE",
@@ -1751,7 +1752,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/19/2002",
+		"updated": "06/19/2002"
 	},
 	{
 		"name": "AVFAL",
@@ -1760,7 +1761,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "AVINE",
@@ -1769,7 +1770,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/06/2007",
+		"updated": "08/06/2007"
 	},
 	{
 		"name": "AVIXY",
@@ -1778,7 +1779,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/09/2009",
+		"updated": "09/09/2009"
 	},
 	{
 		"name": "AVPEW",
@@ -1787,7 +1788,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "10/17/1995",
+		"updated": "10/17/1995"
 	},
 	{
 		"name": "AVUYU",
@@ -1796,7 +1797,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/07/2008",
+		"updated": "07/07/2008"
 	},
 	{
 		"name": "AWALU",
@@ -1805,7 +1806,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/21/2011",
+		"updated": "06/21/2011"
 	},
 	{
 		"name": "AWAVO",
@@ -1814,7 +1815,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/19/2009",
+		"updated": "06/19/2009"
 	},
 	{
 		"name": "AWCEX",
@@ -1823,7 +1824,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/26/2013",
+		"updated": "06/26/2013"
 	},
 	{
 		"name": "AWENU",
@@ -1832,7 +1833,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/21/2000",
+		"updated": "06/21/2000"
 	},
 	{
 		"name": "AWGIM",
@@ -1841,7 +1842,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/21/2000",
+		"updated": "06/21/2000"
 	},
 	{
 		"name": "AWMOM",
@@ -1850,7 +1851,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "12/11/1995",
+		"updated": "12/11/1995"
 	},
 	{
 		"name": "AWNUL",
@@ -1859,7 +1860,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/22/2005",
+		"updated": "06/22/2005"
 	},
 	{
 		"name": "AWPAN",
@@ -1868,7 +1869,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/21/2000",
+		"updated": "06/21/2000"
 	},
 	{
 		"name": "AWUNA",
@@ -1877,7 +1878,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/07/2011",
+		"updated": "11/07/2011"
 	},
 	{
 		"name": "AXAXE",
@@ -1886,7 +1887,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/17/2006",
+		"updated": "02/17/2006"
 	},
 	{
 		"name": "AXCED",
@@ -1895,7 +1896,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "AXEZE",
@@ -1904,7 +1905,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/21/2000",
+		"updated": "06/21/2000"
 	},
 	{
 		"name": "AXMAN",
@@ -1913,7 +1914,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "AXMIH",
@@ -1922,7 +1923,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/21/2000",
+		"updated": "06/21/2000"
 	},
 	{
 		"name": "AXODE",
@@ -1931,7 +1932,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/11/2013",
+		"updated": "07/11/2013"
 	},
 	{
 		"name": "AXOVE",
@@ -1940,7 +1941,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/20/2012",
+		"updated": "03/20/2012"
 	},
 	{
 		"name": "AXOVY",
@@ -1949,7 +1950,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/31/2005",
+		"updated": "10/31/2005"
 	},
 	{
 		"name": "AXPIF",
@@ -1958,7 +1959,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/21/2000",
+		"updated": "06/21/2000"
 	},
 	{
 		"name": "AYADO",
@@ -1967,7 +1968,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/20/2011",
+		"updated": "06/20/2011"
 	},
 	{
 		"name": "AYARE",
@@ -1976,7 +1977,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/25/2010",
+		"updated": "03/25/2010"
 	},
 	{
 		"name": "AYATA",
@@ -1985,7 +1986,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "TVC*VOR/DME*029.25",
+		"updated": "TVC*VOR/DME*029.25"
 	},
 	{
 		"name": "AYDEB",
@@ -1994,7 +1995,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/21/2000",
+		"updated": "06/21/2000"
 	},
 	{
 		"name": "AYDOS",
@@ -2003,7 +2004,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/04/2010",
+		"updated": "04/04/2010"
 	},
 	{
 		"name": "AYEDU",
@@ -2012,7 +2013,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/06/2009",
+		"updated": "10/06/2009"
 	},
 	{
 		"name": "AYEGI",
@@ -2021,7 +2022,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/08/2008",
+		"updated": "05/08/2008"
 	},
 	{
 		"name": "AYFOY",
@@ -2030,7 +2031,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ONL*VORTAC*279.33/11.50",
+		"updated": "ONL*VORTAC*279.33/11.50"
 	},
 	{
 		"name": "AYIHE",
@@ -2039,7 +2040,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "AYILO",
@@ -2048,7 +2049,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/07/2008",
+		"updated": "07/07/2008"
 	},
 	{
 		"name": "AYUBO",
@@ -2057,7 +2058,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/28/2004",
+		"updated": "12/28/2004"
 	},
 	{
 		"name": "AYUGI",
@@ -2066,7 +2067,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/08/2011",
+		"updated": "05/08/2011"
 	},
 	{
 		"name": "AYUNE",
@@ -2075,7 +2076,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ATY*VORTAC*228.51/26.00",
+		"updated": "ATY*VORTAC*228.51/26.00"
 	},
 	{
 		"name": "AYUVI",
@@ -2084,7 +2085,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/16/2013",
+		"updated": "10/16/2013"
 	},
 	{
 		"name": "AZARA",
@@ -2093,7 +2094,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/07/2009",
+		"updated": "05/07/2009"
 	},
 	{
 		"name": "AZATY",
@@ -2102,7 +2103,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/22/2005",
+		"updated": "06/22/2005"
 	},
 	{
 		"name": "AZAWU",
@@ -2111,7 +2112,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/31/2005",
+		"updated": "10/31/2005"
 	},
 	{
 		"name": "AZEYO",
@@ -2120,7 +2121,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/23/2012",
+		"updated": "05/23/2012"
 	},
 	{
 		"name": "AZGEP",
@@ -2129,7 +2130,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/16/2009",
+		"updated": "06/16/2009"
 	},
 	{
 		"name": "AZUYI",
@@ -2138,7 +2139,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/31/2005",
+		"updated": "10/31/2005"
 	},
 	{
 		"name": "AZZOZ",
@@ -2147,5 +2148,6 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ABR*VOR/DME*139.73/11.64",
-	},
+		"updated": "ABR*VOR/DME*139.73/11.64"
+	}
+]

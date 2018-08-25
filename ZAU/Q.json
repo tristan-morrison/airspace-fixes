@@ -1,3 +1,4 @@
+[
 	{
 		"name": "QAJER",
 		"latitude": "41-36-56.27 N",
@@ -5,7 +6,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/27/2007",
+		"updated": "06/27/2007"
 	},
 	{
 		"name": "QBURT",
@@ -14,7 +15,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/27/2018",
+		"updated": "03/27/2018"
 	},
 	{
 		"name": "QEBLO",
@@ -23,7 +24,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/06/2000",
+		"updated": "11/06/2000"
 	},
 	{
 		"name": "QOGQU",
@@ -32,7 +33,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/13/2001",
+		"updated": "12/13/2001"
 	},
 	{
 		"name": "QOPEV",
@@ -41,7 +42,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/13/2001",
+		"updated": "12/13/2001"
 	},
 	{
 		"name": "QUANE",
@@ -50,7 +51,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "QUEST",
@@ -59,7 +60,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ODI*VORTAC*149.00/43.18",
+		"updated": "ODI*VORTAC*149.00/43.18"
 	},
 	{
 		"name": "QUIZZ",
@@ -68,7 +69,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "QUOTA",
@@ -77,7 +78,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "SPI*VORTAC*040.53/19.00",
+		"updated": "SPI*VORTAC*040.53/19.00"
 	},
 	{
 		"name": "QUOTE",
@@ -86,5 +87,6 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
-	},
+		"updated": "05/06/2013"
+	}
+]

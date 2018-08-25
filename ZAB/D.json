@@ -1,3 +1,4 @@
+[
 	{
 		"name": "DADDY",
 		"latitude": "34-40-56.4 N",
@@ -5,7 +6,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/18/2012",
+		"updated": "11/18/2012"
 	},
 	{
 		"name": "DALKY",
@@ -14,7 +15,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "IWA*VORTAC*122.33",
+		"updated": "IWA*VORTAC*122.33"
 	},
 	{
 		"name": "DANEY",
@@ -23,7 +24,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CVS*TACAN*200.00/35.00",
+		"updated": "CVS*TACAN*200.00/35.00"
 	},
 	{
 		"name": "DANLE",
@@ -32,7 +33,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MW",
-		"updated": "08/10/2016",
+		"updated": "08/10/2016"
 	},
 	{
 		"name": "DANNK",
@@ -41,7 +42,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MW",
-		"updated": "08/04/2016",
+		"updated": "08/04/2016"
 	},
 	{
 		"name": "DAPEY",
@@ -50,7 +51,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/28/2004",
+		"updated": "05/28/2004"
 	},
 	{
 		"name": "DARCE",
@@ -59,7 +60,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CUS*VOR/DME*265.14/33.37",
+		"updated": "CUS*VOR/DME*265.14/33.37"
 	},
 	{
 		"name": "DATME",
@@ -68,7 +69,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "DATSE",
@@ -77,7 +78,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/10/2015",
+		"updated": "05/10/2015"
 	},
 	{
 		"name": "DAUBS",
@@ -86,7 +87,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "PNH*VORTAC*216.86/33.69",
+		"updated": "PNH*VORTAC*216.86/33.69"
 	},
 	{
 		"name": "DAVEZ",
@@ -95,7 +96,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "TUS*VORTAC*245.00/25.00",
+		"updated": "TUS*VORTAC*245.00/25.00"
 	},
 	{
 		"name": "DAVNE",
@@ -104,7 +105,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/19/2011",
+		"updated": "12/19/2011"
 	},
 	{
 		"name": "DBACK",
@@ -113,7 +114,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*034.44/43.00",
+		"updated": "PXR*VORTAC*034.44/43.00"
 	},
 	{
 		"name": "DDUKE",
@@ -122,7 +123,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "DEBRA",
@@ -131,7 +132,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CME*VORTAC*051.00/64.72",
+		"updated": "CME*VORTAC*051.00/64.72"
 	},
 	{
 		"name": "DECAN",
@@ -140,7 +141,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "EWM*VORTAC*079.00/31.00",
+		"updated": "EWM*VORTAC*079.00/31.00"
 	},
 	{
 		"name": "DECEL",
@@ -149,7 +150,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/11/2013",
+		"updated": "07/11/2013"
 	},
 	{
 		"name": "DECTU",
@@ -158,7 +159,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "03/15/2001",
+		"updated": "03/15/2001"
 	},
 	{
 		"name": "DEERS",
@@ -167,7 +168,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*351.00/68.85",
+		"updated": "PXR*VORTAC*351.00/68.85"
 	},
 	{
 		"name": "DEGCA",
@@ -176,7 +177,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/04/2003",
+		"updated": "09/04/2003"
 	},
 	{
 		"name": "DEHOG",
@@ -185,7 +186,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SJN*VORTAC*255.56/43.19",
+		"updated": "SJN*VORTAC*255.56/43.19"
 	},
 	{
 		"name": "DELEO",
@@ -194,7 +195,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/23/2011",
+		"updated": "02/23/2011"
 	},
 	{
 		"name": "DELLA",
@@ -203,7 +204,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "IWA*VORTAC*121.81/19.89",
+		"updated": "IWA*VORTAC*121.81/19.89"
 	},
 	{
 		"name": "DELLY",
@@ -212,7 +213,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "TFD*VORTAC*182.00/32.00",
+		"updated": "TFD*VORTAC*182.00/32.00"
 	},
 	{
 		"name": "DELSE",
@@ -221,7 +222,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CWJ*LD*E CRS/3.78",
+		"updated": "CWJ*LD*E CRS/3.78"
 	},
 	{
 		"name": "DEPHE",
@@ -230,7 +231,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TFD*VORTAC*092.68/74.00",
+		"updated": "TFD*VORTAC*092.68/74.00"
 	},
 	{
 		"name": "DERTY",
@@ -239,7 +240,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "GUP*VORTAC*012.03/22.44",
+		"updated": "GUP*VORTAC*012.03/22.44"
 	},
 	{
 		"name": "DERVL",
@@ -248,7 +249,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/30/2010",
+		"updated": "11/30/2010"
 	},
 	{
 		"name": "DETEC",
@@ -257,7 +258,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/28/2012",
+		"updated": "11/28/2012"
 	},
 	{
 		"name": "DEVEC",
@@ -266,7 +267,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/24/2003",
+		"updated": "01/24/2003"
 	},
 	{
 		"name": "DEWEB",
@@ -275,7 +276,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/07/2014",
+		"updated": "03/07/2014"
 	},
 	{
 		"name": "DEXBE",
@@ -284,7 +285,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PNH*VORTAC*055.00/5.00",
+		"updated": "PNH*VORTAC*055.00/5.00"
 	},
 	{
 		"name": "DEXTR",
@@ -293,7 +294,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "INW*VORTAC*037.66/60.00",
+		"updated": "INW*VORTAC*037.66/60.00"
 	},
 	{
 		"name": "DEYAC",
@@ -302,7 +303,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/13/2004",
+		"updated": "09/13/2004"
 	},
 	{
 		"name": "DEYEB",
@@ -311,7 +312,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/27/2004",
+		"updated": "09/27/2004"
 	},
 	{
 		"name": "DEYNE",
@@ -320,7 +321,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DUG*VORTAC*286.38/12.16",
+		"updated": "DUG*VORTAC*286.38/12.16"
 	},
 	{
 		"name": "DICED",
@@ -329,7 +330,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "HMN*TACAN*353.00/35.00",
+		"updated": "HMN*TACAN*353.00/35.00"
 	},
 	{
 		"name": "DICIR",
@@ -338,7 +339,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TFD*VORTAC*359.14",
+		"updated": "TFD*VORTAC*359.14"
 	},
 	{
 		"name": "DIGAY",
@@ -347,7 +348,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/14/2011",
+		"updated": "07/14/2011"
 	},
 	{
 		"name": "DILCO",
@@ -356,7 +357,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "INW*VORTAC*038.00/46.00",
+		"updated": "INW*VORTAC*038.00/46.00"
 	},
 	{
 		"name": "DILLI",
@@ -365,7 +366,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SFL*VORTAC*073.00/20.00",
+		"updated": "SFL*VORTAC*073.00/20.00"
 	},
 	{
 		"name": "DILLY",
@@ -374,7 +375,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DRK*VORTAC*305.01/10.00",
+		"updated": "DRK*VORTAC*305.01/10.00"
 	},
 	{
 		"name": "DINGO",
@@ -383,7 +384,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "AVQ*NDB*274.82",
+		"updated": "AVQ*NDB*274.82"
 	},
 	{
 		"name": "DIXAN",
@@ -392,7 +393,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TAS*VORTAC*173.92/19.79",
+		"updated": "TAS*VORTAC*173.92/19.79"
 	},
 	{
 		"name": "DLINE",
@@ -401,7 +402,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/22/2011",
+		"updated": "11/22/2011"
 	},
 	{
 		"name": "DLSOL",
@@ -410,7 +411,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/18/2012",
+		"updated": "11/18/2012"
 	},
 	{
 		"name": "DMAWP",
@@ -419,7 +420,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "CN",
-		"updated": "06/02/2006",
+		"updated": "06/02/2006"
 	},
 	{
 		"name": "DMJCH",
@@ -428,7 +429,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "CN",
-		"updated": "12/22/1999",
+		"updated": "12/22/1999"
 	},
 	{
 		"name": "DMYWN",
@@ -437,7 +438,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "CN",
-		"updated": "12/21/1999",
+		"updated": "12/21/1999"
 	},
 	{
 		"name": "DNAHO",
@@ -446,7 +447,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/12/2009",
+		"updated": "05/12/2009"
 	},
 	{
 		"name": "DNBFB",
@@ -455,7 +456,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "CN",
-		"updated": "12/02/2010",
+		"updated": "12/02/2010"
 	},
 	{
 		"name": "DNIDE",
@@ -464,7 +465,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/18/2012",
+		"updated": "11/18/2012"
 	},
 	{
 		"name": "DODAH",
@@ -473,7 +474,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ZUN*VORTAC*356.19",
+		"updated": "ZUN*VORTAC*356.19"
 	},
 	{
 		"name": "DOGIN",
@@ -482,7 +483,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PVW*VOR/DME*017.34",
+		"updated": "PVW*VOR/DME*017.34"
 	},
 	{
 		"name": "DOGSS",
@@ -491,7 +492,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CVS*TACAN*220.00/24.00",
+		"updated": "CVS*TACAN*220.00/24.00"
 	},
 	{
 		"name": "DOHHN",
@@ -500,7 +501,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/14/2014",
+		"updated": "02/14/2014"
 	},
 	{
 		"name": "DOJOE",
@@ -509,7 +510,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ZUN*VORTAC*232.19/26.00",
+		"updated": "ZUN*VORTAC*232.19/26.00"
 	},
 	{
 		"name": "DONII",
@@ -518,7 +519,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*038.00/30.00",
+		"updated": "HMN*TACAN*038.00/30.00"
 	},
 	{
 		"name": "DONKK",
@@ -527,7 +528,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MW",
-		"updated": "02/14/2010",
+		"updated": "02/14/2010"
 	},
 	{
 		"name": "DONLY",
@@ -536,7 +537,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CME*VORTAC*180.73",
+		"updated": "CME*VORTAC*180.73"
 	},
 	{
 		"name": "DONSS",
@@ -545,7 +546,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/05/2017",
+		"updated": "09/05/2017"
 	},
 	{
 		"name": "DOODL",
@@ -554,7 +555,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "LUF*TACAN*291.79/22.31",
+		"updated": "LUF*TACAN*291.79/22.31"
 	},
 	{
 		"name": "DOOKK",
@@ -563,7 +564,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/18/2012",
+		"updated": "11/18/2012"
 	},
 	{
 		"name": "DOONS",
@@ -572,7 +573,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CVS*TACAN*130.00/13.00",
+		"updated": "CVS*TACAN*130.00/13.00"
 	},
 	{
 		"name": "DOTGE",
@@ -581,7 +582,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/19/2011",
+		"updated": "12/19/2011"
 	},
 	{
 		"name": "DOUMA",
@@ -590,7 +591,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SAF*VORTAC*260.82/4.20",
+		"updated": "SAF*VORTAC*260.82/4.20"
 	},
 	{
 		"name": "DOWES",
@@ -599,7 +600,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PEQ*VOR/DME*155.00",
+		"updated": "PEQ*VOR/DME*155.00"
 	},
 	{
 		"name": "DOYAC",
@@ -608,7 +609,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/21/2004",
+		"updated": "07/21/2004"
 	},
 	{
 		"name": "DOYDE",
@@ -617,7 +618,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/25/2005",
+		"updated": "04/25/2005"
 	},
 	{
 		"name": "DOYEC",
@@ -626,7 +627,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/25/2005",
+		"updated": "02/25/2005"
 	},
 	{
 		"name": "DPAUL",
@@ -635,7 +636,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "DRIBB",
@@ -644,7 +645,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "RBJ*NDB*305.00",
+		"updated": "RBJ*NDB*305.00"
 	},
 	{
 		"name": "DRRVR",
@@ -653,7 +654,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "DRUGG",
@@ -662,7 +663,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DHT*VORTAC*169.03/9.00",
+		"updated": "DHT*VORTAC*169.03/9.00"
 	},
 	{
 		"name": "DRYHT",
@@ -671,7 +672,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SJN*VORTAC*078.16/50.00",
+		"updated": "SJN*VORTAC*078.16/50.00"
 	},
 	{
 		"name": "DSERT",
@@ -680,7 +681,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*002.00",
+		"updated": "PXR*VORTAC*002.00"
 	},
 	{
 		"name": "DTCHS",
@@ -689,7 +690,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/17/2007",
+		"updated": "01/17/2007"
 	},
 	{
 		"name": "DUBAY",
@@ -698,7 +699,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/05/2005",
+		"updated": "08/05/2005"
 	},
 	{
 		"name": "DUBEC",
@@ -707,7 +708,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/11/2013",
+		"updated": "07/11/2013"
 	},
 	{
 		"name": "DUCAS",
@@ -716,7 +717,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TCS*VORTAC*145.75/25.00",
+		"updated": "TCS*VORTAC*145.75/25.00"
 	},
 	{
 		"name": "DUCCK",
@@ -725,7 +726,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/19/2010",
+		"updated": "08/19/2010"
 	},
 	{
 		"name": "DUDLE",
@@ -734,7 +735,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "08/10/2016",
+		"updated": "08/10/2016"
 	},
 	{
 		"name": "DULKE",
@@ -743,7 +744,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ABQ*VORTAC*052.49/29.00",
+		"updated": "ABQ*VORTAC*052.49/29.00"
 	},
 	{
 		"name": "DUMMM",
@@ -752,7 +753,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/06/2014",
+		"updated": "03/06/2014"
 	},
 	{
 		"name": "DUPAL",
@@ -761,7 +762,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CME*VORTAC*323.00/18.00",
+		"updated": "CME*VORTAC*323.00/18.00"
 	},
 	{
 		"name": "DUQGU",
@@ -770,7 +771,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "CN",
-		"updated": "05/12/2009",
+		"updated": "05/12/2009"
 	},
 	{
 		"name": "DUSTE",
@@ -779,7 +780,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*182.00/20.00",
+		"updated": "HMN*TACAN*182.00/20.00"
 	},
 	{
 		"name": "DUTEY",
@@ -788,7 +789,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/09/2007",
+		"updated": "07/09/2007"
 	},
 	{
 		"name": "DUYAC",
@@ -797,7 +798,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/05/2005",
+		"updated": "04/05/2005"
 	},
 	{
 		"name": "DUYED",
@@ -806,7 +807,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/14/2011",
+		"updated": "07/14/2011"
 	},
 	{
 		"name": "DUYGE",
@@ -815,7 +816,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/12/2009",
+		"updated": "05/12/2009"
 	},
 	{
 		"name": "DWLNG",
@@ -824,7 +825,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/02/2012",
+		"updated": "04/02/2012"
 	},
 	{
 		"name": "DWNLD",
@@ -833,5 +834,6 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/24/2012",
-	},
+		"updated": "11/24/2012"
+	}
+]

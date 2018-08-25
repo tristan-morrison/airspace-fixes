@@ -1,3 +1,4 @@
+[
 	{
 		"name": "GABGE",
 		"latitude": "65-53-19.64 N",
@@ -5,7 +6,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "GABRI",
@@ -14,7 +15,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "01/13/2011",
+		"updated": "01/13/2011"
 	},
 	{
 		"name": "GACCU",
@@ -23,7 +24,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "GACEY",
@@ -32,7 +33,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/17/2005",
+		"updated": "10/17/2005"
 	},
 	{
 		"name": "GADEK",
@@ -41,7 +42,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "06/03/2011",
+		"updated": "06/03/2011"
 	},
 	{
 		"name": "GAGTE",
@@ -50,7 +51,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/07/2014",
+		"updated": "07/07/2014"
 	},
 	{
 		"name": "GAHAM",
@@ -59,7 +60,7 @@
 		"state": "",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/21/2010",
+		"updated": "06/21/2010"
 	},
 	{
 		"name": "GAITS",
@@ -68,7 +69,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OME*VOR/DME*338.71/16.00",
+		"updated": "OME*VOR/DME*338.71/16.00"
 	},
 	{
 		"name": "GAKCE",
@@ -77,7 +78,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/19/2012",
+		"updated": "03/19/2012"
 	},
 	{
 		"name": "GAKKE",
@@ -86,7 +87,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/17/2008",
+		"updated": "07/17/2008"
 	},
 	{
 		"name": "GALGE",
@@ -95,7 +96,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "YAK*VOR/DME*128.00/5.10",
+		"updated": "YAK*VOR/DME*128.00/5.10"
 	},
 	{
 		"name": "GANEF",
@@ -104,7 +105,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/12/2010",
+		"updated": "02/12/2010"
 	},
 	{
 		"name": "GANES",
@@ -113,7 +114,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "MCG*VORTAC*275.74/22.00",
+		"updated": "MCG*VORTAC*275.74/22.00"
 	},
 	{
 		"name": "GARRS",
@@ -122,7 +123,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AUB*NDB*246.00",
+		"updated": "AUB*NDB*246.00"
 	},
 	{
 		"name": "GARRY",
@@ -131,7 +132,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "03/27/1995",
+		"updated": "03/27/1995"
 	},
 	{
 		"name": "GASTO",
@@ -140,7 +141,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "TED*VOR/DME*229.42/34.40",
+		"updated": "TED*VOR/DME*229.42/34.40"
 	},
 	{
 		"name": "GATIF",
@@ -149,7 +150,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ADK*NDB/DME*053.55/9.67",
+		"updated": "ADK*NDB/DME*053.55/9.67"
 	},
 	{
 		"name": "GAYEY",
@@ -158,7 +159,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/25/2008",
+		"updated": "08/25/2008"
 	},
 	{
 		"name": "GAYLL",
@@ -167,7 +168,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/18/2012",
+		"updated": "07/18/2012"
 	},
 	{
 		"name": "GECEY",
@@ -176,7 +177,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/31/2004",
+		"updated": "08/31/2004"
 	},
 	{
 		"name": "GECNE",
@@ -185,7 +186,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "PDN*NDB/DME*197.28/12.00",
+		"updated": "PDN*NDB/DME*197.28/12.00"
 	},
 	{
 		"name": "GEDEE",
@@ -194,7 +195,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/24/2014",
+		"updated": "03/24/2014"
 	},
 	{
 		"name": "GEIKI",
@@ -203,7 +204,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/16/2016",
+		"updated": "05/16/2016"
 	},
 	{
 		"name": "GELKE",
@@ -212,7 +213,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/16/2004",
+		"updated": "06/16/2004"
 	},
 	{
 		"name": "GELRE",
@@ -221,7 +222,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OME*VOR/DME*242.21/20.00",
+		"updated": "OME*VOR/DME*242.21/20.00"
 	},
 	{
 		"name": "GENFU",
@@ -230,7 +231,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "CDB*VORTAC*288.79/13.50",
+		"updated": "CDB*VORTAC*288.79/13.50"
 	},
 	{
 		"name": "GERDE",
@@ -239,7 +240,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "12/10/2013",
+		"updated": "12/10/2013"
 	},
 	{
 		"name": "GERKS",
@@ -248,7 +249,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HOM*VOR/DME*164.00/71.83",
+		"updated": "HOM*VOR/DME*164.00/71.83"
 	},
 	{
 		"name": "GESSE",
@@ -257,7 +258,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/11/2012",
+		"updated": "05/11/2012"
 	},
 	{
 		"name": "GESTE",
@@ -266,7 +267,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/22/2008",
+		"updated": "01/22/2008"
 	},
 	{
 		"name": "GESTI",
@@ -275,7 +276,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ANN*VOR/DME*308.54/26.00",
+		"updated": "ANN*VOR/DME*308.54/26.00"
 	},
 	{
 		"name": "GEVEY",
@@ -284,7 +285,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/26/2006",
+		"updated": "05/26/2006"
 	},
 	{
 		"name": "GEYED",
@@ -293,7 +294,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/14/2006",
+		"updated": "11/14/2006"
 	},
 	{
 		"name": "GEYET",
@@ -302,7 +303,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/05/2006",
+		"updated": "10/05/2006"
 	},
 	{
 		"name": "GEYHY",
@@ -311,7 +312,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "GAL*VOR/DME*146.41/10.00",
+		"updated": "GAL*VOR/DME*146.41/10.00"
 	},
 	{
 		"name": "GGABI",
@@ -320,7 +321,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/18/2016",
+		"updated": "05/18/2016"
 	},
 	{
 		"name": "GGOAT",
@@ -329,7 +330,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/16/2015",
+		"updated": "10/16/2015"
 	},
 	{
 		"name": "GIACO",
@@ -338,7 +339,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "BIG*VORTAC*017.00/9.00",
+		"updated": "BIG*VORTAC*017.00/9.00"
 	},
 	{
 		"name": "GIBRY",
@@ -347,7 +348,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/18/2006",
+		"updated": "09/18/2006"
 	},
 	{
 		"name": "GICHY",
@@ -356,7 +357,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "SYA*VORTAC*100.00/19.00",
+		"updated": "SYA*VORTAC*100.00/19.00"
 	},
 	{
 		"name": "GIDBE",
@@ -365,7 +366,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/23/2016",
+		"updated": "11/23/2016"
 	},
 	{
 		"name": "GIDCE",
@@ -374,7 +375,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/17/2005",
+		"updated": "10/17/2005"
 	},
 	{
 		"name": "GIDKE",
@@ -383,7 +384,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "CN",
-		"updated": "11/28/2006",
+		"updated": "11/28/2006"
 	},
 	{
 		"name": "GIDLE",
@@ -392,7 +393,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/11/2005",
+		"updated": "07/11/2005"
 	},
 	{
 		"name": "GIGRE",
@@ -401,7 +402,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/05/2014",
+		"updated": "12/05/2014"
 	},
 	{
 		"name": "GIGZO",
@@ -410,7 +411,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/07/2009",
+		"updated": "07/07/2009"
 	},
 	{
 		"name": "GIKDE",
@@ -419,7 +420,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/01/2008",
+		"updated": "07/01/2008"
 	},
 	{
 		"name": "GIMOW",
@@ -428,7 +429,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/26/2009",
+		"updated": "06/26/2009"
 	},
 	{
 		"name": "GINAA",
@@ -437,7 +438,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/19/2012",
+		"updated": "03/19/2012"
 	},
 	{
 		"name": "GINTE",
@@ -446,7 +447,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "05/05/2011",
+		"updated": "05/05/2011"
 	},
 	{
 		"name": "GINTT",
@@ -455,7 +456,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/10/2014",
+		"updated": "11/10/2014"
 	},
 	{
 		"name": "GIRTS",
@@ -464,7 +465,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ANN*VOR/DME*308.54/4.32",
+		"updated": "ANN*VOR/DME*308.54/4.32"
 	},
 	{
 		"name": "GLACR",
@@ -473,7 +474,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/16/2016",
+		"updated": "05/16/2016"
 	},
 	{
 		"name": "GLAZZ",
@@ -482,7 +483,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "10/23/2014",
+		"updated": "10/23/2014"
 	},
 	{
 		"name": "GLDHL",
@@ -491,7 +492,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/24/2014",
+		"updated": "10/24/2014"
 	},
 	{
 		"name": "GLENT",
@@ -500,7 +501,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "CDB*VORTAC*/11.85",
+		"updated": "CDB*VORTAC*/11.85"
 	},
 	{
 		"name": "GLIBB",
@@ -509,7 +510,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "07/03/2013",
+		"updated": "07/03/2013"
 	},
 	{
 		"name": "GLLOD",
@@ -518,7 +519,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/06/2015",
+		"updated": "11/06/2015"
 	},
 	{
 		"name": "GLNCO",
@@ -527,7 +528,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "04/14/2014",
+		"updated": "04/14/2014"
 	},
 	{
 		"name": "GLOOP",
@@ -536,7 +537,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/08/2014",
+		"updated": "10/08/2014"
 	},
 	{
 		"name": "GLOWS",
@@ -545,7 +546,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENN*VORTAC*092.00/23.11",
+		"updated": "ENN*VORTAC*092.00/23.11"
 	},
 	{
 		"name": "GOBNE",
@@ -554,7 +555,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/19/2004",
+		"updated": "11/19/2004"
 	},
 	{
 		"name": "GOCEK",
@@ -563,7 +564,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/20/2012",
+		"updated": "11/20/2012"
 	},
 	{
 		"name": "GOCNE",
@@ -572,7 +573,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/10/2011",
+		"updated": "12/10/2011"
 	},
 	{
 		"name": "GODBE",
@@ -581,7 +582,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "WLK*VOR/DME*042.81/2.00",
+		"updated": "WLK*VOR/DME*042.81/2.00"
 	},
 	{
 		"name": "GODVE",
@@ -590,7 +591,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "RHF*LD*236.37/3.28",
+		"updated": "RHF*LD*236.37/3.28"
 	},
 	{
 		"name": "GOLLY",
@@ -599,7 +600,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENN*VORTAC*343.54/18.87",
+		"updated": "ENN*VORTAC*343.54/18.87"
 	},
 	{
 		"name": "GOLOS",
@@ -608,7 +609,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OME*VOR/DME*093.52/45.00",
+		"updated": "OME*VOR/DME*093.52/45.00"
 	},
 	{
 		"name": "GOMRE",
@@ -617,7 +618,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/10/2007",
+		"updated": "05/10/2007"
 	},
 	{
 		"name": "GOOKY",
@@ -626,7 +627,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "GOOSE",
@@ -635,7 +636,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "10/02/1995",
+		"updated": "10/02/1995"
 	},
 	{
 		"name": "GORBY",
@@ -644,7 +645,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/05/2016",
+		"updated": "08/05/2016"
 	},
 	{
 		"name": "GOSKE",
@@ -653,7 +654,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EIL*TACAN*198.02/7.78",
+		"updated": "EIL*TACAN*198.02/7.78"
 	},
 	{
 		"name": "GOTGE",
@@ -662,7 +663,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/23/2016",
+		"updated": "11/23/2016"
 	},
 	{
 		"name": "GOTSE",
@@ -671,7 +672,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/07/2003",
+		"updated": "10/07/2003"
 	},
 	{
 		"name": "GOVBE",
@@ -680,7 +681,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/25/2008",
+		"updated": "08/25/2008"
 	},
 	{
 		"name": "GOYWI",
@@ -689,7 +690,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/11/2012",
+		"updated": "09/11/2012"
 	},
 	{
 		"name": "GRAAY",
@@ -698,7 +699,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "LUR*NDB/DME*050.00/12.00",
+		"updated": "LUR*NDB/DME*050.00/12.00"
 	},
 	{
 		"name": "GRANL",
@@ -707,7 +708,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EDF*TACAN*242.05/12.00",
+		"updated": "EDF*TACAN*242.05/12.00"
 	},
 	{
 		"name": "GRANY",
@@ -716,7 +717,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "GAL*VOR/DME*260.00/110.00",
+		"updated": "GAL*VOR/DME*260.00/110.00"
 	},
 	{
 		"name": "GRENN",
@@ -725,7 +726,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EDF*TACAN*235.00/45.00",
+		"updated": "EDF*TACAN*235.00/45.00"
 	},
 	{
 		"name": "GRIDE",
@@ -734,7 +735,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EDF*TACAN*235.00/40.00",
+		"updated": "EDF*TACAN*235.00/40.00"
 	},
 	{
 		"name": "GRIZZ",
@@ -743,7 +744,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "10/24/1990",
+		"updated": "10/24/1990"
 	},
 	{
 		"name": "GRUUB",
@@ -752,7 +753,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EDF*TACAN*267.00/24.00",
+		"updated": "EDF*TACAN*267.00/24.00"
 	},
 	{
 		"name": "GRZLE",
@@ -761,7 +762,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/23/2012",
+		"updated": "07/23/2012"
 	},
 	{
 		"name": "GUBEY",
@@ -770,7 +771,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/20/2007",
+		"updated": "02/20/2007"
 	},
 	{
 		"name": "GUCEN",
@@ -779,7 +780,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/13/2004",
+		"updated": "02/13/2004"
 	},
 	{
 		"name": "GUIDE",
@@ -788,7 +789,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "GULEY",
@@ -797,7 +798,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/11/2005",
+		"updated": "07/11/2005"
 	},
 	{
 		"name": "GULGE",
@@ -806,7 +807,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/30/2004",
+		"updated": "08/30/2004"
 	},
 	{
 		"name": "GULME",
@@ -815,7 +816,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/29/2012",
+		"updated": "11/29/2012"
 	},
 	{
 		"name": "GULVY",
@@ -824,7 +825,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/01/2002",
+		"updated": "04/01/2002"
 	},
 	{
 		"name": "GUMEE",
@@ -833,7 +834,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/05/2016",
+		"updated": "08/05/2016"
 	},
 	{
 		"name": "GUMLE",
@@ -842,7 +843,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/03/2013",
+		"updated": "07/03/2013"
 	},
 	{
 		"name": "GUNRE",
@@ -851,7 +852,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/04/2007",
+		"updated": "05/04/2007"
 	},
 	{
 		"name": "GUSPE",
@@ -860,7 +861,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/14/2014",
+		"updated": "04/14/2014"
 	},
 	{
 		"name": "GUSTR",
@@ -869,7 +870,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EDF*TACAN*280.00/112.00",
+		"updated": "EDF*TACAN*280.00/112.00"
 	},
 	{
 		"name": "GUVLE",
@@ -878,7 +879,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OME*VOR/DME*012.75/20.00",
+		"updated": "OME*VOR/DME*012.75/20.00"
 	},
 	{
 		"name": "GUYEL",
@@ -887,7 +888,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/28/2004",
+		"updated": "09/28/2004"
 	},
 	{
 		"name": "GUYER",
@@ -896,7 +897,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/05/2011",
+		"updated": "10/05/2011"
 	},
 	{
 		"name": "GUYET",
@@ -905,7 +906,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/28/2004",
+		"updated": "09/28/2004"
 	},
 	{
 		"name": "GUZHA",
@@ -914,7 +915,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "11/28/2006",
+		"updated": "11/28/2006"
 	},
 	{
 		"name": "GYROS",
@@ -923,7 +924,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "FAI*VORTAC*034.00/80.00",
+		"updated": "FAI*VORTAC*034.00/80.00"
 	},
 	{
 		"name": "GYVES",
@@ -932,5 +933,6 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "10/24/2014",
-	},
+		"updated": "10/24/2014"
+	}
+]

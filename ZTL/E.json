@@ -1,3 +1,4 @@
+[
 	{
 		"name": "EAGYL",
 		"latitude": "33-32-12.45 N",
@@ -5,7 +6,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/25/2013",
+		"updated": "02/25/2013"
 	},
 	{
 		"name": "EAONE",
@@ -14,7 +15,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "ATL*VORTAC*070.00/35.00",
+		"updated": "ATL*VORTAC*070.00/35.00"
 	},
 	{
 		"name": "EARLL",
@@ -23,7 +24,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/13/2017",
+		"updated": "06/13/2017"
 	},
 	{
 		"name": "EARRL",
@@ -32,7 +33,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/25/2009",
+		"updated": "08/25/2009"
 	},
 	{
 		"name": "EATER",
@@ -41,7 +42,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/27/2009",
+		"updated": "01/27/2009"
 	},
 	{
 		"name": "EATWO",
@@ -50,7 +51,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "ATL*VORTAC*096.00/35.00",
+		"updated": "ATL*VORTAC*096.00/35.00"
 	},
 	{
 		"name": "EAVER",
@@ -59,7 +60,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "HMV*VORTAC*295.62",
+		"updated": "HMV*VORTAC*295.62"
 	},
 	{
 		"name": "EBANE",
@@ -68,7 +69,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/20/2007",
+		"updated": "07/20/2007"
 	},
 	{
 		"name": "EBANS",
@@ -77,7 +78,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "IRQ*VORTAC*161.09/10.01",
+		"updated": "IRQ*VORTAC*161.09/10.01"
 	},
 	{
 		"name": "EBAZE",
@@ -86,7 +87,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GAD*VOR/DME*040.01/23.06",
+		"updated": "GAD*VOR/DME*040.01/23.06"
 	},
 	{
 		"name": "EBEHU",
@@ -95,7 +96,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/15/2007",
+		"updated": "06/15/2007"
 	},
 	{
 		"name": "EBESE",
@@ -104,7 +105,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "03/22/2017",
+		"updated": "03/22/2017"
 	},
 	{
 		"name": "EBESY",
@@ -113,7 +114,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GQO*VORTAC*212.99/28.17",
+		"updated": "GQO*VORTAC*212.99/28.17"
 	},
 	{
 		"name": "EBEYA",
@@ -122,7 +123,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/15/2007",
+		"updated": "10/15/2007"
 	},
 	{
 		"name": "EBEYO",
@@ -131,7 +132,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/26/2005",
+		"updated": "01/26/2005"
 	},
 	{
 		"name": "ECEBE",
@@ -140,7 +141,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/03/2009",
+		"updated": "02/03/2009"
 	},
 	{
 		"name": "ECEGA",
@@ -149,7 +150,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/15/2015",
+		"updated": "09/15/2015"
 	},
 	{
 		"name": "ECIDA",
@@ -158,7 +159,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/14/2011",
+		"updated": "12/14/2011"
 	},
 	{
 		"name": "ECIYU",
@@ -167,7 +168,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/11/2014",
+		"updated": "06/11/2014"
 	},
 	{
 		"name": "EDASE",
@@ -176,7 +177,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/03/2007",
+		"updated": "10/03/2007"
 	},
 	{
 		"name": "EDDEL",
@@ -185,7 +186,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GSO*VORTAC*225.55/54.04",
+		"updated": "GSO*VORTAC*225.55/54.04"
 	},
 	{
 		"name": "EDDIE",
@@ -194,7 +195,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*131.00",
+		"updated": "DCU*VOR/DME*131.00"
 	},
 	{
 		"name": "EDOSY",
@@ -203,7 +204,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/21/2007",
+		"updated": "05/21/2007"
 	},
 	{
 		"name": "EEASY",
@@ -212,7 +213,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "FT*NDB*188.93",
+		"updated": "FT*NDB*188.93"
 	},
 	{
 		"name": "EECEE",
@@ -221,7 +222,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/18/2013",
+		"updated": "12/18/2013"
 	},
 	{
 		"name": "EEERR",
@@ -230,7 +231,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/11/2014",
+		"updated": "08/11/2014"
 	},
 	{
 		"name": "EEWOK",
@@ -239,7 +240,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/21/2017",
+		"updated": "08/21/2017"
 	},
 	{
 		"name": "EFBUB",
@@ -248,7 +249,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/23/2017",
+		"updated": "03/23/2017"
 	},
 	{
 		"name": "EFECY",
@@ -257,7 +258,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "EFORD",
@@ -266,7 +267,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "EUF*VORTAC*222.00",
+		"updated": "EUF*VORTAC*222.00"
 	},
 	{
 		"name": "EGADE",
@@ -275,7 +276,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/15/2018",
+		"updated": "02/15/2018"
 	},
 	{
 		"name": "EGECE",
@@ -284,7 +285,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/24/2004",
+		"updated": "06/24/2004"
 	},
 	{
 		"name": "EGIDE",
@@ -293,7 +294,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/17/2003",
+		"updated": "07/17/2003"
 	},
 	{
 		"name": "EGSOY",
@@ -302,7 +303,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/03/2014",
+		"updated": "09/03/2014"
 	},
 	{
 		"name": "EHAXY",
@@ -311,7 +312,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "SPA*VORTAC*103.28/25.96",
+		"updated": "SPA*VORTAC*103.28/25.96"
 	},
 	{
 		"name": "EHVEZ",
@@ -320,7 +321,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "MCN*VORTAC*/5.78",
+		"updated": "MCN*VORTAC*/5.78"
 	},
 	{
 		"name": "EJIWY",
@@ -329,7 +330,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "CN",
-		"updated": "11/28/2000",
+		"updated": "11/28/2000"
 	},
 	{
 		"name": "EJZEN",
@@ -338,7 +339,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/26/2005",
+		"updated": "10/26/2005"
 	},
 	{
 		"name": "EKACU",
@@ -347,7 +348,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/10/2011",
+		"updated": "03/10/2011"
 	},
 	{
 		"name": "EKEYU",
@@ -356,7 +357,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/16/2007",
+		"updated": "07/16/2007"
 	},
 	{
 		"name": "EKTEC",
@@ -365,7 +366,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/01/2016",
+		"updated": "06/01/2016"
 	},
 	{
 		"name": "EKUSY",
@@ -374,7 +375,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/01/2012",
+		"updated": "05/01/2012"
 	},
 	{
 		"name": "EKUTE",
@@ -383,7 +384,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/15/2011",
+		"updated": "07/15/2011"
 	},
 	{
 		"name": "ELAIN",
@@ -392,7 +393,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RQZ*VORTAC*234.32",
+		"updated": "RQZ*VORTAC*234.32"
 	},
 	{
 		"name": "ELKED",
@@ -401,7 +402,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*008.90/11.87",
+		"updated": "DCU*VOR/DME*008.90/11.87"
 	},
 	{
 		"name": "ELKON",
@@ -410,7 +411,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "VNA*VORTAC*321.42/14.00",
+		"updated": "VNA*VORTAC*321.42/14.00"
 	},
 	{
 		"name": "ELLID",
@@ -419,7 +420,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GRD*VORTAC*324.40",
+		"updated": "GRD*VORTAC*324.40"
 	},
 	{
 		"name": "ELLYE",
@@ -428,7 +429,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/08/2016",
+		"updated": "09/08/2016"
 	},
 	{
 		"name": "ELOVY",
@@ -437,7 +438,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/10/2001",
+		"updated": "01/10/2001"
 	},
 	{
 		"name": "ELRAY",
@@ -446,7 +447,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/21/2017",
+		"updated": "08/21/2017"
 	},
 	{
 		"name": "ELTEW",
@@ -455,7 +456,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/15/2009",
+		"updated": "09/15/2009"
 	},
 	{
 		"name": "EMAHH",
@@ -464,7 +465,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/09/2015",
+		"updated": "12/09/2015"
 	},
 	{
 		"name": "EMBIJ",
@@ -473,7 +474,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/28/2012",
+		"updated": "06/28/2012"
 	},
 	{
 		"name": "EMERS",
@@ -482,7 +483,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "RGS*LD*002.96/11.36",
+		"updated": "RGS*LD*002.96/11.36"
 	},
 	{
 		"name": "EMIYY",
@@ -491,7 +492,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/20/2007",
+		"updated": "07/20/2007"
 	},
 	{
 		"name": "EMIZI",
@@ -500,7 +501,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "EMMEC",
@@ -509,7 +510,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/16/2001",
+		"updated": "01/16/2001"
 	},
 	{
 		"name": "EMUFY",
@@ -518,7 +519,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/09/2001",
+		"updated": "01/09/2001"
 	},
 	{
 		"name": "ENADE",
@@ -527,7 +528,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/09/2014",
+		"updated": "04/09/2014"
 	},
 	{
 		"name": "ENGNR",
@@ -536,7 +537,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/09/2015",
+		"updated": "12/09/2015"
 	},
 	{
 		"name": "ENIFA",
@@ -545,7 +546,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/27/2018",
+		"updated": "04/27/2018"
 	},
 	{
 		"name": "ENIKY",
@@ -554,7 +555,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*149.58/16.13",
+		"updated": "DCU*VOR/DME*149.58/16.13"
 	},
 	{
 		"name": "ENIME",
@@ -563,7 +564,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "ENJOV",
@@ -572,7 +573,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "ENNKA",
@@ -581,7 +582,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "BRA*NDB*346.97",
+		"updated": "BRA*NDB*346.97"
 	},
 	{
 		"name": "ENNTT",
@@ -590,7 +591,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/17/2017",
+		"updated": "08/17/2017"
 	},
 	{
 		"name": "ENOGY",
@@ -599,7 +600,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/16/2001",
+		"updated": "01/16/2001"
 	},
 	{
 		"name": "ENSLL",
@@ -608,7 +609,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/18/2017",
+		"updated": "08/18/2017"
 	},
 	{
 		"name": "ENSOR",
@@ -617,7 +618,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "RMG*VORTAC*073.00",
+		"updated": "RMG*VORTAC*073.00"
 	},
 	{
 		"name": "EPAYE",
@@ -626,7 +627,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/01/2017",
+		"updated": "05/01/2017"
 	},
 	{
 		"name": "EPESE",
@@ -635,7 +636,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/06/2003",
+		"updated": "02/06/2003"
 	},
 	{
 		"name": "EPICU",
@@ -644,7 +645,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/14/2011",
+		"updated": "07/14/2011"
 	},
 	{
 		"name": "EPIJE",
@@ -653,7 +654,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/11/2001",
+		"updated": "01/11/2001"
 	},
 	{
 		"name": "EPITE",
@@ -662,7 +663,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/14/2003",
+		"updated": "01/14/2003"
 	},
 	{
 		"name": "EPJUF",
@@ -671,7 +672,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/10/2001",
+		"updated": "01/10/2001"
 	},
 	{
 		"name": "EPOZI",
@@ -680,7 +681,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "SUG*VORTAC*127.14",
+		"updated": "SUG*VORTAC*127.14"
 	},
 	{
 		"name": "EPYAP",
@@ -689,7 +690,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/09/2001",
+		"updated": "01/09/2001"
 	},
 	{
 		"name": "EQBEG",
@@ -698,7 +699,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/29/2000",
+		"updated": "02/29/2000"
 	},
 	{
 		"name": "ERATH",
@@ -707,7 +708,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "PSK*VORTAC*305.74/10.00",
+		"updated": "PSK*VORTAC*305.74/10.00"
 	},
 	{
 		"name": "ERECU",
@@ -716,7 +717,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/10/2011",
+		"updated": "03/10/2011"
 	},
 	{
 		"name": "ERFOM",
@@ -725,7 +726,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/09/2001",
+		"updated": "01/09/2001"
 	},
 	{
 		"name": "ERHRT",
@@ -734,7 +735,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/24/2015",
+		"updated": "06/24/2015"
 	},
 	{
 		"name": "ERIES",
@@ -743,7 +744,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "BZM*VOR/DME*120.96/4.00",
+		"updated": "BZM*VOR/DME*120.96/4.00"
 	},
 	{
 		"name": "ERIGE",
@@ -752,7 +753,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/13/2017",
+		"updated": "07/13/2017"
 	},
 	{
 		"name": "ERIVE",
@@ -761,7 +762,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "ODF*VORTAC*181.42/7.19",
+		"updated": "ODF*VORTAC*181.42/7.19"
 	},
 	{
 		"name": "ERKAW",
@@ -770,7 +771,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CLT*LS*235.47",
+		"updated": "CLT*LS*235.47"
 	},
 	{
 		"name": "ERLIN",
@@ -779,7 +780,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "RMG*VORTAC*131.88/6.63",
+		"updated": "RMG*VORTAC*131.88/6.63"
 	},
 	{
 		"name": "EROVE",
@@ -788,7 +789,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RQZ*VORTAC*011.18/17.42",
+		"updated": "RQZ*VORTAC*011.18/17.42"
 	},
 	{
 		"name": "ERWIN",
@@ -797,7 +798,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/14/2005",
+		"updated": "01/14/2005"
 	},
 	{
 		"name": "ESBIY",
@@ -806,7 +807,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/09/2001",
+		"updated": "01/09/2001"
 	},
 	{
 		"name": "ESCOT",
@@ -815,7 +816,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "MR",
-		"updated": "MGM*VORTAC*313.28/11.64",
+		"updated": "MGM*VORTAC*313.28/11.64"
 	},
 	{
 		"name": "ESMUY",
@@ -824,7 +825,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "04/04/2014",
+		"updated": "04/04/2014"
 	},
 	{
 		"name": "ESSEX",
@@ -833,7 +834,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "ATL*VORTAC*094.36/24.00",
+		"updated": "ATL*VORTAC*094.36/24.00"
 	},
 	{
 		"name": "ESTHR",
@@ -842,7 +843,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "ATL*VORTAC*041.23/20.01",
+		"updated": "ATL*VORTAC*041.23/20.01"
 	},
 	{
 		"name": "ESTRR",
@@ -851,7 +852,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/25/2015",
+		"updated": "06/25/2015"
 	},
 	{
 		"name": "ESUGY",
@@ -860,7 +861,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "JUH*LE*095.88/2.15",
+		"updated": "JUH*LE*095.88/2.15"
 	},
 	{
 		"name": "ETAKE",
@@ -869,7 +870,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/06/2008",
+		"updated": "08/06/2008"
 	},
 	{
 		"name": "ETEVY",
@@ -878,7 +879,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*000.69",
+		"updated": "DCU*VOR/DME*000.69"
 	},
 	{
 		"name": "ETIBY",
@@ -887,7 +888,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/17/2010",
+		"updated": "04/17/2010"
 	},
 	{
 		"name": "ETONE",
@@ -896,7 +897,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "RMG*VORTAC*024.00",
+		"updated": "RMG*VORTAC*024.00"
 	},
 	{
 		"name": "ETOWA",
@@ -905,7 +906,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "HCH*VOR/DME*135.60/30.26",
+		"updated": "HCH*VOR/DME*135.60/30.26"
 	},
 	{
 		"name": "ETZIM",
@@ -914,7 +915,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/11/2012",
+		"updated": "06/11/2012"
 	},
 	{
 		"name": "ETZOP",
@@ -923,7 +924,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/02/2004",
+		"updated": "08/02/2004"
 	},
 	{
 		"name": "EUGNE",
@@ -932,7 +933,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/15/2015",
+		"updated": "09/15/2015"
 	},
 	{
 		"name": "EUTAW",
@@ -941,7 +942,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "OKW*VORTAC*229.79/39.00",
+		"updated": "OKW*VORTAC*229.79/39.00"
 	},
 	{
 		"name": "EVING",
@@ -950,7 +951,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/16/2014",
+		"updated": "01/16/2014"
 	},
 	{
 		"name": "EVMEH",
@@ -959,7 +960,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/19/2012",
+		"updated": "03/19/2012"
 	},
 	{
 		"name": "EVOBE",
@@ -968,7 +969,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/14/2003",
+		"updated": "01/14/2003"
 	},
 	{
 		"name": "EVRRR",
@@ -977,7 +978,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/15/2017",
+		"updated": "06/15/2017"
 	},
 	{
 		"name": "EWADA",
@@ -986,7 +987,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GQO*VORTAC*/13.75",
+		"updated": "GQO*VORTAC*/13.75"
 	},
 	{
 		"name": "EWBOW",
@@ -995,7 +996,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/10/2001",
+		"updated": "01/10/2001"
 	},
 	{
 		"name": "EWUKO",
@@ -1004,7 +1005,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/15/2010",
+		"updated": "04/15/2010"
 	},
 	{
 		"name": "EXEGE",
@@ -1013,7 +1014,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "EXJAN",
@@ -1022,7 +1023,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "IRQ*VORTAC*272.27/38.03",
+		"updated": "IRQ*VORTAC*272.27/38.03"
 	},
 	{
 		"name": "EYICI",
@@ -1031,7 +1032,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "03/22/2017",
+		"updated": "03/22/2017"
 	},
 	{
 		"name": "EYLIM",
@@ -1040,7 +1041,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/26/2012",
+		"updated": "09/26/2012"
 	},
 	{
 		"name": "EYPAD",
@@ -1049,7 +1050,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "SPA*VORTAC*147.77",
+		"updated": "SPA*VORTAC*147.77"
 	},
 	{
 		"name": "EYUBU",
@@ -1058,7 +1059,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/19/2011",
+		"updated": "05/19/2011"
 	},
 	{
 		"name": "EYUDE",
@@ -1067,7 +1068,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "MR",
-		"updated": "LSF*VOR/DME*338.34/0.66",
+		"updated": "LSF*VOR/DME*338.34/0.66"
 	},
 	{
 		"name": "EYUKU",
@@ -1076,7 +1077,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/04/2008",
+		"updated": "08/04/2008"
 	},
 	{
 		"name": "EYUTI",
@@ -1085,7 +1086,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "MR",
-		"updated": "VUZ*VORTAC*260.66/29.24",
+		"updated": "VUZ*VORTAC*260.66/29.24"
 	},
 	{
 		"name": "EZBUV",
@@ -1094,7 +1095,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/26/2010",
+		"updated": "01/26/2010"
 	},
 	{
 		"name": "EZLED",
@@ -1103,7 +1104,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/20/2011",
+		"updated": "05/20/2011"
 	},
 	{
 		"name": "EZRUB",
@@ -1112,5 +1113,6 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/04/2009",
-	},
+		"updated": "09/04/2009"
+	}
+]

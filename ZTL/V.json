@@ -1,3 +1,4 @@
+[
 	{
 		"name": "VACEE",
 		"latitude": "35-15-28.95 N",
@@ -5,7 +6,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/27/2001",
+		"updated": "06/27/2001"
 	},
 	{
 		"name": "VACUN",
@@ -14,7 +15,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "VAESE",
@@ -23,7 +24,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "BZM*VOR/DME*247.45/17.22",
+		"updated": "BZM*VOR/DME*247.45/17.22"
 	},
 	{
 		"name": "VALLL",
@@ -32,7 +33,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/20/2017",
+		"updated": "06/20/2017"
 	},
 	{
 		"name": "VARNM",
@@ -41,7 +42,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/17/2016",
+		"updated": "05/17/2016"
 	},
 	{
 		"name": "VAYKU",
@@ -50,7 +51,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/29/2009",
+		"updated": "01/29/2009"
 	},
 	{
 		"name": "VEMSY",
@@ -59,7 +60,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/12/2017",
+		"updated": "07/12/2017"
 	},
 	{
 		"name": "VERAL",
@@ -68,7 +69,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GZG*VOR/DME*200.01",
+		"updated": "GZG*VOR/DME*200.01"
 	},
 	{
 		"name": "VESTO",
@@ -77,7 +78,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "AHN*VOR/DME*092.10/23.64",
+		"updated": "AHN*VOR/DME*092.10/23.64"
 	},
 	{
 		"name": "VETPY",
@@ -86,7 +87,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/07/2011",
+		"updated": "11/07/2011"
 	},
 	{
 		"name": "VEYUY",
@@ -95,7 +96,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/29/2009",
+		"updated": "01/29/2009"
 	},
 	{
 		"name": "VICTU",
@@ -104,7 +105,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "ATL*VORTAC*052.00/29.00",
+		"updated": "ATL*VORTAC*052.00/29.00"
 	},
 	{
 		"name": "VIDJO",
@@ -113,7 +114,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/27/2011",
+		"updated": "09/27/2011"
 	},
 	{
 		"name": "VIDUC",
@@ -122,7 +123,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "VIEWS",
@@ -131,7 +132,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "VIMIW",
@@ -140,7 +141,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/30/2017",
+		"updated": "08/30/2017"
 	},
 	{
 		"name": "VINII",
@@ -149,7 +150,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "FT*NDB*154.69",
+		"updated": "FT*NDB*154.69"
 	},
 	{
 		"name": "VIPRR",
@@ -158,7 +159,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "02/11/2011",
+		"updated": "02/11/2011"
 	},
 	{
 		"name": "VIRUY",
@@ -167,7 +168,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "RMG*VORTAC*350.00/11.93",
+		"updated": "RMG*VORTAC*350.00/11.93"
 	},
 	{
 		"name": "VIVIC",
@@ -176,7 +177,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/20/2007",
+		"updated": "08/20/2007"
 	},
 	{
 		"name": "VIXLY",
@@ -185,7 +186,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CAE*VORTAC*248.68",
+		"updated": "CAE*VORTAC*248.68"
 	},
 	{
 		"name": "VOLTS",
@@ -194,7 +195,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/22/2017",
+		"updated": "08/22/2017"
 	},
 	{
 		"name": "VOLVY",
@@ -203,7 +204,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/01/2016",
+		"updated": "06/01/2016"
 	},
 	{
 		"name": "VORTX",
@@ -212,7 +213,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/25/2016",
+		"updated": "07/25/2016"
 	},
 	{
 		"name": "VOTES",
@@ -221,7 +222,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "ATL*VORTAC*203.00/9.00",
+		"updated": "ATL*VORTAC*203.00/9.00"
 	},
 	{
 		"name": "VOTUC",
@@ -230,7 +231,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/11/2013",
+		"updated": "07/11/2013"
 	},
 	{
 		"name": "VOYUD",
@@ -239,7 +240,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*047.54/22.69",
+		"updated": "DCU*VOR/DME*047.54/22.69"
 	},
 	{
 		"name": "VOYUR",
@@ -248,7 +249,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/18/2015",
+		"updated": "05/18/2015"
 	},
 	{
 		"name": "VPCPR",
@@ -257,7 +258,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "VFR",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "VPDEU",
@@ -266,7 +267,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "VFR",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "VPENO",
@@ -275,7 +276,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "VFR",
-		"updated": "04/30/2015",
+		"updated": "04/30/2015"
 	},
 	{
 		"name": "VPFRH",
@@ -284,7 +285,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "VFR",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "VPGHT",
@@ -293,7 +294,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "VFR",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "VPHUB",
@@ -302,7 +303,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "VFR",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "VPJBF",
@@ -311,7 +312,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "VFR",
-		"updated": "01/11/2013",
+		"updated": "01/11/2013"
 	},
 	{
 		"name": "VPKNM",
@@ -320,7 +321,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "VFR",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "VPLOW",
@@ -329,7 +330,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "VFR",
-		"updated": "11/22/2017",
+		"updated": "11/22/2017"
 	},
 	{
 		"name": "VPLRF",
@@ -338,7 +339,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "VFR",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "VPMNG",
@@ -347,7 +348,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "VFR",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "VPWLW",
@@ -356,7 +357,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "VFR",
-		"updated": "04/30/2015",
+		"updated": "04/30/2015"
 	},
 	{
 		"name": "VRGIL",
@@ -365,7 +366,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/15/2011",
+		"updated": "04/15/2011"
 	},
 	{
 		"name": "VRSTY",
@@ -374,7 +375,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/17/2016",
+		"updated": "05/17/2016"
 	},
 	{
 		"name": "VUNUY",
@@ -383,5 +384,6 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/10/2011",
-	},
+		"updated": "06/10/2011"
+	}
+]

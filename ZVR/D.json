@@ -1,3 +1,4 @@
+[
 	{
 		"name": "DISCO",
 		"latitude": "48-24-1.04 N",
@@ -5,7 +6,7 @@
 		"state": "",
 		"artcc": "ZVR",
 		"type": "RP",
-		"updated": "08/31/2012",
+		"updated": "08/31/2012"
 	},
 	{
 		"name": "DUGGS",
@@ -14,5 +15,6 @@
 		"state": "",
 		"artcc": "ZVR",
 		"type": "RP",
-		"updated": "11/09/2016",
-	},
+		"updated": "11/09/2016"
+	}
+]

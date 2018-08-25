@@ -1,3 +1,4 @@
+[
 	{
 		"name": "ZABAD",
 		"latitude": "38-57-59.04 N",
@@ -5,7 +6,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ANX*VORTAC*133.62/10.00",
+		"updated": "ANX*VORTAC*133.62/10.00"
 	},
 	{
 		"name": "ZABEK",
@@ -14,7 +15,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "TKO*VORTAC*209.80/39.45",
+		"updated": "TKO*VORTAC*209.80/39.45"
 	},
 	{
 		"name": "ZABOG",
@@ -23,7 +24,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/11/2007",
+		"updated": "07/11/2007"
 	},
 	{
 		"name": "ZABOL",
@@ -32,7 +33,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/07/2007",
+		"updated": "05/07/2007"
 	},
 	{
 		"name": "ZADGU",
@@ -41,7 +42,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/08/2012",
+		"updated": "03/08/2012"
 	},
 	{
 		"name": "ZADKU",
@@ -50,7 +51,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "MR",
-		"updated": "END*VORTAC*280.00/15.00",
+		"updated": "END*VORTAC*280.00/15.00"
 	},
 	{
 		"name": "ZADNO",
@@ -59,7 +60,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/26/2009",
+		"updated": "01/26/2009"
 	},
 	{
 		"name": "ZAGDA",
@@ -68,7 +69,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "12/09/2009",
+		"updated": "12/09/2009"
 	},
 	{
 		"name": "ZAGRI",
@@ -77,7 +78,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/14/2008",
+		"updated": "07/14/2008"
 	},
 	{
 		"name": "ZAGUK",
@@ -86,7 +87,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/22/2016",
+		"updated": "01/22/2016"
 	},
 	{
 		"name": "ZAKAD",
@@ -95,7 +96,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ICT*VORTAC*103.00/18.60",
+		"updated": "ICT*VORTAC*103.00/18.60"
 	},
 	{
 		"name": "ZAKAS",
@@ -104,7 +105,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/28/2010",
+		"updated": "03/28/2010"
 	},
 	{
 		"name": "ZAKIP",
@@ -113,7 +114,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/15/2010",
+		"updated": "11/15/2010"
 	},
 	{
 		"name": "ZAKMI",
@@ -122,7 +123,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/27/2006",
+		"updated": "07/27/2006"
 	},
 	{
 		"name": "ZALER",
@@ -131,7 +132,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/20/2005",
+		"updated": "06/20/2005"
 	},
 	{
 		"name": "ZALIK",
@@ -140,7 +141,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "LBL*VORTAC*117.24/30.19",
+		"updated": "LBL*VORTAC*117.24/30.19"
 	},
 	{
 		"name": "ZALTA",
@@ -149,7 +150,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "MCI*VORTAC*308.48",
+		"updated": "MCI*VORTAC*308.48"
 	},
 	{
 		"name": "ZAMEV",
@@ -158,7 +159,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/03/2015",
+		"updated": "11/03/2015"
 	},
 	{
 		"name": "ZAMPO",
@@ -167,7 +168,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "HYS*VORTAC*247.42/50.00",
+		"updated": "HYS*VORTAC*247.42/50.00"
 	},
 	{
 		"name": "ZAMSA",
@@ -176,7 +177,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "ZAMYU",
@@ -185,7 +186,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/22/2005",
+		"updated": "06/22/2005"
 	},
 	{
 		"name": "ZANGA",
@@ -194,7 +195,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/31/2005",
+		"updated": "05/31/2005"
 	},
 	{
 		"name": "ZANGO",
@@ -203,7 +204,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/12/2008",
+		"updated": "02/12/2008"
 	},
 	{
 		"name": "ZANOG",
@@ -212,7 +213,7 @@
 		"state": "TEXAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "10/20/2011",
+		"updated": "10/20/2011"
 	},
 	{
 		"name": "ZANPU",
@@ -221,7 +222,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/09/2011",
+		"updated": "09/09/2011"
 	},
 	{
 		"name": "ZANRA",
@@ -230,7 +231,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SPI*VORTAC*224.57/5.52",
+		"updated": "SPI*VORTAC*224.57/5.52"
 	},
 	{
 		"name": "ZAPAP",
@@ -239,7 +240,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/05/2007",
+		"updated": "07/05/2007"
 	},
 	{
 		"name": "ZARDA",
@@ -248,7 +249,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ENL*VORTAC*088.97/45.00",
+		"updated": "ENL*VORTAC*088.97/45.00"
 	},
 	{
 		"name": "ZARIR",
@@ -257,7 +258,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "MTO*VOR/DME*330.87",
+		"updated": "MTO*VOR/DME*330.87"
 	},
 	{
 		"name": "ZARUB",
@@ -266,7 +267,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/31/2012",
+		"updated": "05/31/2012"
 	},
 	{
 		"name": "ZASBO",
@@ -275,7 +276,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "DYH*LD*010.95/11.04",
+		"updated": "DYH*LD*010.95/11.04"
 	},
 	{
 		"name": "ZASOB",
@@ -284,7 +285,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/31/2012",
+		"updated": "01/31/2012"
 	},
 	{
 		"name": "ZATEB",
@@ -293,7 +294,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "10/24/2012",
+		"updated": "10/24/2012"
 	},
 	{
 		"name": "ZATUD",
@@ -302,7 +303,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/21/2011",
+		"updated": "01/21/2011"
 	},
 	{
 		"name": "ZATUL",
@@ -311,7 +312,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SKE*TACAN*050.00/3.00",
+		"updated": "SKE*TACAN*050.00/3.00"
 	},
 	{
 		"name": "ZATUX",
@@ -320,7 +321,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/07/2007",
+		"updated": "05/07/2007"
 	},
 	{
 		"name": "ZAVEK",
@@ -329,7 +330,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/05/2007",
+		"updated": "07/05/2007"
 	},
 	{
 		"name": "ZAVEN",
@@ -338,7 +339,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SPI*VORTAC*234.56/16.95",
+		"updated": "SPI*VORTAC*234.56/16.95"
 	},
 	{
 		"name": "ZAVGU",
@@ -347,7 +348,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SKE*TACAN*142.20/0.67",
+		"updated": "SKE*TACAN*142.20/0.67"
 	},
 	{
 		"name": "ZAXUV",
@@ -356,7 +357,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/18/2014",
+		"updated": "02/18/2014"
 	},
 	{
 		"name": "ZEBEK",
@@ -365,7 +366,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/24/2017",
+		"updated": "01/24/2017"
 	},
 	{
 		"name": "ZEBRE",
@@ -374,7 +375,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "MTO*VOR/DME*108.75/5.65",
+		"updated": "MTO*VOR/DME*108.75/5.65"
 	},
 	{
 		"name": "ZEBRI",
@@ -383,7 +384,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "COU*LD*021.44/10.00",
+		"updated": "COU*LD*021.44/10.00"
 	},
 	{
 		"name": "ZEBTA",
@@ -392,7 +393,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "12/31/2009",
+		"updated": "12/31/2009"
 	},
 	{
 		"name": "ZEBUT",
@@ -401,7 +402,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/09/2007",
+		"updated": "08/09/2007"
 	},
 	{
 		"name": "ZEDAK",
@@ -410,7 +411,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/02/2011",
+		"updated": "05/02/2011"
 	},
 	{
 		"name": "ZEDDI",
@@ -419,7 +420,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SGF*VORTAC*272.00/43.78",
+		"updated": "SGF*VORTAC*272.00/43.78"
 	},
 	{
 		"name": "ZEDUD",
@@ -428,7 +429,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "ZEGAP",
@@ -437,7 +438,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/30/2017",
+		"updated": "06/30/2017"
 	},
 	{
 		"name": "ZEGAT",
@@ -446,7 +447,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/09/2015",
+		"updated": "06/09/2015"
 	},
 	{
 		"name": "ZEGNI",
@@ -455,7 +456,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "HUT*VOR/DME*322.00/13.00",
+		"updated": "HUT*VOR/DME*322.00/13.00"
 	},
 	{
 		"name": "ZEKUP",
@@ -464,7 +465,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/03/2015",
+		"updated": "08/03/2015"
 	},
 	{
 		"name": "ZELOB",
@@ -473,7 +474,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "12/14/2011",
+		"updated": "12/14/2011"
 	},
 	{
 		"name": "ZEMAX",
@@ -482,7 +483,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/09/2015",
+		"updated": "06/09/2015"
 	},
 	{
 		"name": "ZEMGU",
@@ -491,7 +492,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "MR",
-		"updated": "IRW*VORTAC*354.00",
+		"updated": "IRW*VORTAC*354.00"
 	},
 	{
 		"name": "ZENDA",
@@ -500,7 +501,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ANY*VORTAC*333.57",
+		"updated": "ANY*VORTAC*333.57"
 	},
 	{
 		"name": "ZENIS",
@@ -509,7 +510,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/04/2009",
+		"updated": "01/04/2009"
 	},
 	{
 		"name": "ZENOS",
@@ -518,7 +519,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/16/2008",
+		"updated": "09/16/2008"
 	},
 	{
 		"name": "ZERES",
@@ -527,7 +528,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/21/2014",
+		"updated": "03/21/2014"
 	},
 	{
 		"name": "ZEROJ",
@@ -536,7 +537,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "CSX*VOR/DME*143.16/41.00",
+		"updated": "CSX*VOR/DME*143.16/41.00"
 	},
 	{
 		"name": "ZESAB",
@@ -545,7 +546,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "PAJ*LD*010.93/3.76",
+		"updated": "PAJ*LD*010.93/3.76"
 	},
 	{
 		"name": "ZESIR",
@@ -554,7 +555,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "ZESUR",
@@ -563,7 +564,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "04/13/2006",
+		"updated": "04/13/2006"
 	},
 	{
 		"name": "ZETGO",
@@ -572,7 +573,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/10/2011",
+		"updated": "05/10/2011"
 	},
 	{
 		"name": "ZEVED",
@@ -581,7 +582,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/23/2012",
+		"updated": "03/23/2012"
 	},
 	{
 		"name": "ZEVNA",
@@ -590,7 +591,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/09/2015",
+		"updated": "06/09/2015"
 	},
 	{
 		"name": "ZEVNI",
@@ -599,7 +600,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/25/2015",
+		"updated": "02/25/2015"
 	},
 	{
 		"name": "ZEXAR",
@@ -608,7 +609,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/11/2014",
+		"updated": "09/11/2014"
 	},
 	{
 		"name": "ZEXUL",
@@ -617,7 +618,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "10/31/2013",
+		"updated": "10/31/2013"
 	},
 	{
 		"name": "ZIBMO",
@@ -626,7 +627,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/20/2012",
+		"updated": "07/20/2012"
 	},
 	{
 		"name": "ZIBRU",
@@ -635,7 +636,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/21/2014",
+		"updated": "02/21/2014"
 	},
 	{
 		"name": "ZICRE",
@@ -644,7 +645,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "12/04/2000",
+		"updated": "12/04/2000"
 	},
 	{
 		"name": "ZIDIB",
@@ -653,7 +654,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SLN*VORTAC*260.09/23.00",
+		"updated": "SLN*VORTAC*260.09/23.00"
 	},
 	{
 		"name": "ZIDLI",
@@ -662,7 +663,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/14/2008",
+		"updated": "11/14/2008"
 	},
 	{
 		"name": "ZIDRO",
@@ -671,7 +672,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "GNP*VOR/DME*330.80",
+		"updated": "GNP*VOR/DME*330.80"
 	},
 	{
 		"name": "ZIDVU",
@@ -680,7 +681,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/30/2015",
+		"updated": "03/30/2015"
 	},
 	{
 		"name": "ZIGNI",
@@ -689,7 +690,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/06/2014",
+		"updated": "11/06/2014"
 	},
 	{
 		"name": "ZIGUG",
@@ -698,7 +699,7 @@
 		"state": "TEXAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "10/09/2014",
+		"updated": "10/09/2014"
 	},
 	{
 		"name": "ZIKTO",
@@ -707,7 +708,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "ZIKUB",
@@ -716,7 +717,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "MR",
-		"updated": "FOE*TACAN*124.00/6.00",
+		"updated": "FOE*TACAN*124.00/6.00"
 	},
 	{
 		"name": "ZILCH",
@@ -725,7 +726,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "GCK*VORTAC*145.50/14.00",
+		"updated": "GCK*VORTAC*145.50/14.00"
 	},
 	{
 		"name": "ZILGU",
@@ -734,7 +735,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/30/2011",
+		"updated": "01/30/2011"
 	},
 	{
 		"name": "ZILNI",
@@ -743,7 +744,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/04/2011",
+		"updated": "01/04/2011"
 	},
 	{
 		"name": "ZIMES",
@@ -752,7 +753,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SGF*VORTAC*196.24/11.18",
+		"updated": "SGF*VORTAC*196.24/11.18"
 	},
 	{
 		"name": "ZIMEX",
@@ -761,7 +762,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "HUT*VOR/DME*128.08/15.00",
+		"updated": "HUT*VOR/DME*128.08/15.00"
 	},
 	{
 		"name": "ZIMID",
@@ -770,7 +771,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/22/2017",
+		"updated": "11/22/2017"
 	},
 	{
 		"name": "ZIMLI",
@@ -779,7 +780,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/06/2006",
+		"updated": "02/06/2006"
 	},
 	{
 		"name": "ZIMOK",
@@ -788,7 +789,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/14/2008",
+		"updated": "11/14/2008"
 	},
 	{
 		"name": "ZIMTO",
@@ -797,7 +798,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/03/2015",
+		"updated": "08/03/2015"
 	},
 	{
 		"name": "ZIMUN",
@@ -806,7 +807,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "PXV*VORTAC*308.26/40.00",
+		"updated": "PXV*VORTAC*308.26/40.00"
 	},
 	{
 		"name": "ZINKI",
@@ -815,7 +816,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/09/2005",
+		"updated": "09/09/2005"
 	},
 	{
 		"name": "ZINOB",
@@ -824,7 +825,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/12/2016",
+		"updated": "01/12/2016"
 	},
 	{
 		"name": "ZINUR",
@@ -833,7 +834,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "PWE*VORTAC*189.02/31.35",
+		"updated": "PWE*VORTAC*189.02/31.35"
 	},
 	{
 		"name": "ZIPUR",
@@ -842,7 +843,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "VIH*VOR/DME*335.12/16.90",
+		"updated": "VIH*VOR/DME*335.12/16.90"
 	},
 	{
 		"name": "ZIRAM",
@@ -851,7 +852,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/04/2009",
+		"updated": "01/04/2009"
 	},
 	{
 		"name": "ZISAB",
@@ -860,7 +861,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/21/2011",
+		"updated": "01/21/2011"
 	},
 	{
 		"name": "ZISDA",
@@ -869,7 +870,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "HYS*VORTAC*076.05/14.55",
+		"updated": "HYS*VORTAC*076.05/14.55"
 	},
 	{
 		"name": "ZISGI",
@@ -878,7 +879,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ANX*VORTAC*340.64/15.00",
+		"updated": "ANX*VORTAC*340.64/15.00"
 	},
 	{
 		"name": "ZITIK",
@@ -887,7 +888,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SLN*VORTAC*074.88/7.00",
+		"updated": "SLN*VORTAC*074.88/7.00"
 	},
 	{
 		"name": "ZIVEG",
@@ -896,7 +897,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/19/2000",
+		"updated": "06/19/2000"
 	},
 	{
 		"name": "ZIXAT",
@@ -905,7 +906,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "IXD*LD*176.04/2.87",
+		"updated": "IXD*LD*176.04/2.87"
 	},
 	{
 		"name": "ZIXIN",
@@ -914,7 +915,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/01/2015",
+		"updated": "07/01/2015"
 	},
 	{
 		"name": "ZOBAM",
@@ -923,7 +924,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/06/2011",
+		"updated": "05/06/2011"
 	},
 	{
 		"name": "ZOBEN",
@@ -932,7 +933,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "MHK*VOR/DME*215.15/9.33",
+		"updated": "MHK*VOR/DME*215.15/9.33"
 	},
 	{
 		"name": "ZOBGA",
@@ -941,7 +942,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SHY*VOR/DME*318.33/3.62",
+		"updated": "SHY*VOR/DME*318.33/3.62"
 	},
 	{
 		"name": "ZOBOS",
@@ -950,7 +951,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "ZOBSE",
@@ -959,7 +960,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/19/2010",
+		"updated": "08/19/2010"
 	},
 	{
 		"name": "ZOBUG",
@@ -968,7 +969,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/19/2014",
+		"updated": "09/19/2014"
 	},
 	{
 		"name": "ZODGA",
@@ -977,7 +978,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "MKC*LD*011.69/6.76",
+		"updated": "MKC*LD*011.69/6.76"
 	},
 	{
 		"name": "ZODOD",
@@ -986,7 +987,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/09/2014",
+		"updated": "06/09/2014"
 	},
 	{
 		"name": "ZODPU",
@@ -995,7 +996,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/11/2005",
+		"updated": "02/11/2005"
 	},
 	{
 		"name": "ZODUX",
@@ -1004,7 +1005,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/11/2010",
+		"updated": "08/11/2010"
 	},
 	{
 		"name": "ZOGAR",
@@ -1013,7 +1014,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "EOS*VOR/DME*052.47/17.79",
+		"updated": "EOS*VOR/DME*052.47/17.79"
 	},
 	{
 		"name": "ZOGOS",
@@ -1022,7 +1023,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/14/2008",
+		"updated": "11/14/2008"
 	},
 	{
 		"name": "ZOKOF",
@@ -1031,7 +1032,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/01/2015",
+		"updated": "07/01/2015"
 	},
 	{
 		"name": "ZOLAK",
@@ -1040,7 +1041,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "04/25/2013",
+		"updated": "04/25/2013"
 	},
 	{
 		"name": "ZOLAL",
@@ -1049,7 +1050,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "12/10/2010",
+		"updated": "12/10/2010"
 	},
 	{
 		"name": "ZOLIP",
@@ -1058,7 +1059,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/23/2005",
+		"updated": "08/23/2005"
 	},
 	{
 		"name": "ZOLLI",
@@ -1067,7 +1068,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ENL*VORTAC*109.60/14.91",
+		"updated": "ENL*VORTAC*109.60/14.91"
 	},
 	{
 		"name": "ZOLOS",
@@ -1076,7 +1077,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/06/2012",
+		"updated": "07/06/2012"
 	},
 	{
 		"name": "ZOLSA",
@@ -1085,7 +1086,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/11/2007",
+		"updated": "07/11/2007"
 	},
 	{
 		"name": "ZOLVU",
@@ -1094,7 +1095,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/18/2013",
+		"updated": "01/18/2013"
 	},
 	{
 		"name": "ZOMED",
@@ -1103,7 +1104,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/17/2013",
+		"updated": "06/17/2013"
 	},
 	{
 		"name": "ZOMON",
@@ -1112,7 +1113,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SLN*VORTAC*074.88/23.00",
+		"updated": "SLN*VORTAC*074.88/23.00"
 	},
 	{
 		"name": "ZOMUT",
@@ -1121,7 +1122,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/16/2008",
+		"updated": "09/16/2008"
 	},
 	{
 		"name": "ZONER",
@@ -1130,7 +1131,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/29/2002",
+		"updated": "01/29/2002"
 	},
 	{
 		"name": "ZONKI",
@@ -1139,7 +1140,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/23/2012",
+		"updated": "03/23/2012"
 	},
 	{
 		"name": "ZONOL",
@@ -1148,7 +1149,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/27/2018",
+		"updated": "03/27/2018"
 	},
 	{
 		"name": "ZOOMY",
@@ -1157,7 +1158,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/26/2002",
+		"updated": "11/26/2002"
 	},
 	{
 		"name": "ZOPMO",
@@ -1166,7 +1167,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/09/2007",
+		"updated": "08/09/2007"
 	},
 	{
 		"name": "ZOPQE",
@@ -1175,7 +1176,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/18/2012",
+		"updated": "07/18/2012"
 	},
 	{
 		"name": "ZOPTI",
@@ -1184,7 +1185,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/22/2013",
+		"updated": "02/22/2013"
 	},
 	{
 		"name": "ZOPUD",
@@ -1193,7 +1194,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SHY*VOR/DME*064.22/19.48",
+		"updated": "SHY*VOR/DME*064.22/19.48"
 	},
 	{
 		"name": "ZORAL",
@@ -1202,7 +1203,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ENL*VORTAC*192.00/25.00",
+		"updated": "ENL*VORTAC*192.00/25.00"
 	},
 	{
 		"name": "ZOREB",
@@ -1211,7 +1212,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "VIH*VOR/DME*198.00/15.00",
+		"updated": "VIH*VOR/DME*198.00/15.00"
 	},
 	{
 		"name": "ZOSIB",
@@ -1220,7 +1221,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/25/2016",
+		"updated": "01/25/2016"
 	},
 	{
 		"name": "ZOSKI",
@@ -1229,7 +1230,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "BUM*VORTAC*171.31/7.00",
+		"updated": "BUM*VORTAC*171.31/7.00"
 	},
 	{
 		"name": "ZOTRI",
@@ -1238,7 +1239,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/21/2014",
+		"updated": "03/21/2014"
 	},
 	{
 		"name": "ZOTRU",
@@ -1247,7 +1248,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/03/2015",
+		"updated": "08/03/2015"
 	},
 	{
 		"name": "ZOVEG",
@@ -1256,7 +1257,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/15/2011",
+		"updated": "06/15/2011"
 	},
 	{
 		"name": "ZOVOD",
@@ -1265,7 +1266,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "IDP*LD*178.29/2.67",
+		"updated": "IDP*LD*178.29/2.67"
 	},
 	{
 		"name": "ZOVUM",
@@ -1274,7 +1275,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/04/2015",
+		"updated": "03/04/2015"
 	},
 	{
 		"name": "ZOVUN",
@@ -1283,7 +1284,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "STL*VORTAC*275.87",
+		"updated": "STL*VORTAC*275.87"
 	},
 	{
 		"name": "ZOXAD",
@@ -1292,7 +1293,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "10/31/2013",
+		"updated": "10/31/2013"
 	},
 	{
 		"name": "ZOXBY",
@@ -1301,7 +1302,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/10/2007",
+		"updated": "05/10/2007"
 	},
 	{
 		"name": "ZOYFY",
@@ -1310,7 +1311,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "ZUBTA",
@@ -1319,7 +1320,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "CN",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "ZUCKO",
@@ -1328,7 +1329,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "TOY*VORTAC*311.67",
+		"updated": "TOY*VORTAC*311.67"
 	},
 	{
 		"name": "ZUDKA",
@@ -1337,7 +1338,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "10/02/2015",
+		"updated": "10/02/2015"
 	},
 	{
 		"name": "ZUDKI",
@@ -1346,7 +1347,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "ZUDSU",
@@ -1355,7 +1356,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/09/2015",
+		"updated": "06/09/2015"
 	},
 	{
 		"name": "ZUGEB",
@@ -1364,7 +1365,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/07/2011",
+		"updated": "05/07/2011"
 	},
 	{
 		"name": "ZUGOR",
@@ -1373,7 +1374,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "DOT*LD*190.93/3.96",
+		"updated": "DOT*LD*190.93/3.96"
 	},
 	{
 		"name": "ZULDU",
@@ -1382,7 +1383,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/08/2014",
+		"updated": "05/08/2014"
 	},
 	{
 		"name": "ZULEM",
@@ -1391,7 +1392,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/21/2014",
+		"updated": "02/21/2014"
 	},
 	{
 		"name": "ZULEN",
@@ -1400,7 +1401,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/05/2001",
+		"updated": "11/05/2001"
 	},
 	{
 		"name": "ZULID",
@@ -1409,7 +1410,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "ZULMO",
@@ -1418,7 +1419,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "ZULOT",
@@ -1427,7 +1428,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/24/2003",
+		"updated": "11/24/2003"
 	},
 	{
 		"name": "ZULSA",
@@ -1436,7 +1437,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/19/2014",
+		"updated": "09/19/2014"
 	},
 	{
 		"name": "ZUMAY",
@@ -1445,7 +1446,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "STL*LD*063.83/5.57",
+		"updated": "STL*LD*063.83/5.57"
 	},
 	{
 		"name": "ZUMDI",
@@ -1454,7 +1455,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "HYS*VORTAC*076.00/12.00",
+		"updated": "HYS*VORTAC*076.00/12.00"
 	},
 	{
 		"name": "ZUMIL",
@@ -1463,7 +1464,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/31/2012",
+		"updated": "05/31/2012"
 	},
 	{
 		"name": "ZUMLA",
@@ -1472,7 +1473,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "TOY*VORTAC*220.97",
+		"updated": "TOY*VORTAC*220.97"
 	},
 	{
 		"name": "ZUNDU",
@@ -1481,7 +1482,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SGF*LD*198.79/11.64",
+		"updated": "SGF*LD*198.79/11.64"
 	},
 	{
 		"name": "ZUPAB",
@@ -1490,7 +1491,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "HUT*VOR/DME*021.00/16.00",
+		"updated": "HUT*VOR/DME*021.00/16.00"
 	},
 	{
 		"name": "ZUPSA",
@@ -1499,7 +1500,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/03/2015",
+		"updated": "08/03/2015"
 	},
 	{
 		"name": "ZURAG",
@@ -1508,7 +1509,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "MR",
-		"updated": "END*VORTAC*183.00/5.90",
+		"updated": "END*VORTAC*183.00/5.90"
 	},
 	{
 		"name": "ZURED",
@@ -1517,7 +1518,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "ZURES",
@@ -1526,7 +1527,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "ZURUN",
@@ -1535,7 +1536,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "EOS*VOR/DME*218.75/20.02",
+		"updated": "EOS*VOR/DME*218.75/20.02"
 	},
 	{
 		"name": "ZUSIP",
@@ -1544,7 +1545,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SKE*TACAN*314.13/4.00",
+		"updated": "SKE*TACAN*314.13/4.00"
 	},
 	{
 		"name": "ZUSKI",
@@ -1553,7 +1554,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/13/2008",
+		"updated": "05/13/2008"
 	},
 	{
 		"name": "ZUTAL",
@@ -1562,7 +1563,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/09/2007",
+		"updated": "08/09/2007"
 	},
 	{
 		"name": "ZUVBO",
@@ -1571,7 +1572,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "ZUXEG",
@@ -1580,7 +1581,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "12/15/2004",
+		"updated": "12/15/2004"
 	},
 	{
 		"name": "ZUXKY",
@@ -1589,5 +1590,6 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/09/2009",
-	},
+		"updated": "07/09/2009"
+	}
+]

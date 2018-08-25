@@ -1,3 +1,4 @@
+[
 	{
 		"name": "FABIO",
 		"latitude": "42-12-28 N",
@@ -5,7 +6,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*094.04/21.39",
+		"updated": "OBK*VOR/DME*094.04/21.39"
 	},
 	{
 		"name": "FABKU",
@@ -14,7 +15,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/25/2005",
+		"updated": "05/25/2005"
 	},
 	{
 		"name": "FABLU",
@@ -23,7 +24,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OTM*VOR/DME*258.00/19.86",
+		"updated": "OTM*VOR/DME*258.00/19.86"
 	},
 	{
 		"name": "FABOL",
@@ -32,7 +33,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/09/2013",
+		"updated": "07/09/2013"
 	},
 	{
 		"name": "FABUG",
@@ -41,7 +42,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/24/2007",
+		"updated": "10/24/2007"
 	},
 	{
 		"name": "FACEL",
@@ -50,7 +51,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MDW*LD*NW CRS/5.03",
+		"updated": "MDW*LD*NW CRS/5.03"
 	},
 	{
 		"name": "FAHEY",
@@ -59,7 +60,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PXY*LE*073.66/7.14",
+		"updated": "PXY*LE*073.66/7.14"
 	},
 	{
 		"name": "FALKN",
@@ -68,7 +69,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/24/2009",
+		"updated": "03/24/2009"
 	},
 	{
 		"name": "FALNO",
@@ -77,7 +78,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/16/2002",
+		"updated": "09/16/2002"
 	},
 	{
 		"name": "FALOM",
@@ -86,7 +87,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/02/2006",
+		"updated": "02/02/2006"
 	},
 	{
 		"name": "FALRA",
@@ -95,7 +96,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/04/2001",
+		"updated": "01/04/2001"
 	},
 	{
 		"name": "FALSU",
@@ -104,7 +105,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/11/2009",
+		"updated": "05/11/2009"
 	},
 	{
 		"name": "FAMEM",
@@ -113,7 +114,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/15/2012",
+		"updated": "05/15/2012"
 	},
 	{
 		"name": "FANEK",
@@ -122,7 +123,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/25/2002",
+		"updated": "09/25/2002"
 	},
 	{
 		"name": "FANGU",
@@ -131,7 +132,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/24/2010",
+		"updated": "11/24/2010"
 	},
 	{
 		"name": "FANZI",
@@ -140,7 +141,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/01/2014",
+		"updated": "04/01/2014"
 	},
 	{
 		"name": "FAPKO",
@@ -149,7 +150,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DLL*VORTAC*283.90/33.20",
+		"updated": "DLL*VORTAC*283.90/33.20"
 	},
 	{
 		"name": "FAPSA",
@@ -158,7 +159,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/24/2005",
+		"updated": "08/24/2005"
 	},
 	{
 		"name": "FAPUP",
@@ -167,7 +168,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/19/2003",
+		"updated": "03/19/2003"
 	},
 	{
 		"name": "FARCE",
@@ -176,7 +177,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "FAREM",
@@ -185,7 +186,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "FARIV",
@@ -194,7 +195,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/19/2009",
+		"updated": "06/19/2009"
 	},
 	{
 		"name": "FARMM",
@@ -203,7 +204,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*357.12",
+		"updated": "DPA*VOR/DME*357.12"
 	},
 	{
 		"name": "FARNI",
@@ -212,7 +213,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/22/2008",
+		"updated": "02/22/2008"
 	},
 	{
 		"name": "FARON",
@@ -221,7 +222,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DBQ*VORTAC*343.65/36.43",
+		"updated": "DBQ*VORTAC*343.65/36.43"
 	},
 	{
 		"name": "FARVI",
@@ -230,7 +231,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CID*VOR/DME*337.79/24.00",
+		"updated": "CID*VOR/DME*337.79/24.00"
 	},
 	{
 		"name": "FASOB",
@@ -239,7 +240,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CMI*VORTAC*027.00/12.00",
+		"updated": "CMI*VORTAC*027.00/12.00"
 	},
 	{
 		"name": "FATOG",
@@ -248,7 +249,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/20/2009",
+		"updated": "05/20/2009"
 	},
 	{
 		"name": "FATOX",
@@ -257,7 +258,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*VORTAC*270.00",
+		"updated": "FWA*VORTAC*270.00"
 	},
 	{
 		"name": "FAVOM",
@@ -266,7 +267,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/24/2009",
+		"updated": "03/24/2009"
 	},
 	{
 		"name": "FAXAG",
@@ -275,7 +276,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VHP*VORTAC*034.86/14.64",
+		"updated": "VHP*VORTAC*034.86/14.64"
 	},
 	{
 		"name": "FEBAG",
@@ -284,7 +285,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "FEBEK",
@@ -293,7 +294,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/28/2009",
+		"updated": "06/28/2009"
 	},
 	{
 		"name": "FEBLI",
@@ -302,7 +303,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/31/2011",
+		"updated": "01/31/2011"
 	},
 	{
 		"name": "FEDIV",
@@ -311,7 +312,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/26/2005",
+		"updated": "05/26/2005"
 	},
 	{
 		"name": "FEGFO",
@@ -320,7 +321,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "FEKAR",
@@ -329,7 +330,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/06/2003",
+		"updated": "08/06/2003"
 	},
 	{
 		"name": "FELAX",
@@ -338,7 +339,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/30/2001",
+		"updated": "10/30/2001"
 	},
 	{
 		"name": "FELIL",
@@ -347,7 +348,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/13/2011",
+		"updated": "06/13/2011"
 	},
 	{
 		"name": "FELYN",
@@ -356,7 +357,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/06/2009",
+		"updated": "04/06/2009"
 	},
 	{
 		"name": "FEMHA",
@@ -365,7 +366,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "FEMIT",
@@ -374,7 +375,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/14/2007",
+		"updated": "03/14/2007"
 	},
 	{
 		"name": "FENAB",
@@ -383,7 +384,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BIV*LD*E CRS/6.97",
+		"updated": "BIV*LD*E CRS/6.97"
 	},
 	{
 		"name": "FENCK",
@@ -392,7 +393,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "FERLI",
@@ -401,7 +402,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/08/2009",
+		"updated": "07/08/2009"
 	},
 	{
 		"name": "FERLL",
@@ -410,7 +411,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BYW*LD*271.36/27.83",
+		"updated": "BYW*LD*271.36/27.83"
 	},
 	{
 		"name": "FETAD",
@@ -419,7 +420,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/19/2012",
+		"updated": "01/19/2012"
 	},
 	{
 		"name": "FETIX",
@@ -428,7 +429,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/06/2003",
+		"updated": "08/06/2003"
 	},
 	{
 		"name": "FETKO",
@@ -437,7 +438,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "FEVAC",
@@ -446,7 +447,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2016",
+		"updated": "05/24/2016"
 	},
 	{
 		"name": "FEVAX",
@@ -455,7 +456,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/24/2011",
+		"updated": "02/24/2011"
 	},
 	{
 		"name": "FEVIX",
@@ -464,7 +465,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/12/2007",
+		"updated": "12/12/2007"
 	},
 	{
 		"name": "FEXIK",
@@ -473,7 +474,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RBS*VOR/DME*239.46",
+		"updated": "RBS*VOR/DME*239.46"
 	},
 	{
 		"name": "FEYNE",
@@ -482,7 +483,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "FEZTY",
@@ -491,7 +492,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2016",
+		"updated": "05/24/2016"
 	},
 	{
 		"name": "FIBSO",
@@ -500,7 +501,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/06/2003",
+		"updated": "08/06/2003"
 	},
 	{
 		"name": "FIBVU",
@@ -509,7 +510,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/16/2007",
+		"updated": "03/16/2007"
 	},
 	{
 		"name": "FIDAK",
@@ -518,7 +519,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/22/2013",
+		"updated": "03/22/2013"
 	},
 	{
 		"name": "FIDET",
@@ -527,7 +528,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2011",
+		"updated": "05/24/2011"
 	},
 	{
 		"name": "FIDNA",
@@ -536,7 +537,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/25/2005",
+		"updated": "05/25/2005"
 	},
 	{
 		"name": "FIDNO",
@@ -545,7 +546,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "GMF*LD*SW CRS/5.79",
+		"updated": "GMF*LD*SW CRS/5.79"
 	},
 	{
 		"name": "FIDPA",
@@ -554,7 +555,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/03/2015",
+		"updated": "11/03/2015"
 	},
 	{
 		"name": "FIGAD",
@@ -563,7 +564,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/24/2008",
+		"updated": "03/24/2008"
 	},
 	{
 		"name": "FIGIS",
@@ -572,7 +573,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/21/2007",
+		"updated": "07/21/2007"
 	},
 	{
 		"name": "FIKIT",
@@ -581,7 +582,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/08/2014",
+		"updated": "01/08/2014"
 	},
 	{
 		"name": "FIKOS",
@@ -590,7 +591,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/07/2009",
+		"updated": "08/07/2009"
 	},
 	{
 		"name": "FIKRI",
@@ -599,7 +600,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/11/2005",
+		"updated": "07/11/2005"
 	},
 	{
 		"name": "FIKUP",
@@ -608,7 +609,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/06/2003",
+		"updated": "08/06/2003"
 	},
 	{
 		"name": "FILAG",
@@ -617,7 +618,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/15/2015",
+		"updated": "07/15/2015"
 	},
 	{
 		"name": "FINKO",
@@ -626,7 +627,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "FINZR",
@@ -635,7 +636,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*160.62",
+		"updated": "DPA*VOR/DME*160.62"
 	},
 	{
 		"name": "FIPEX",
@@ -644,7 +645,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "FIRDU",
@@ -653,7 +654,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/06/2010",
+		"updated": "04/06/2010"
 	},
 	{
 		"name": "FIREP",
@@ -662,7 +663,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/08/2015",
+		"updated": "09/08/2015"
 	},
 	{
 		"name": "FIRNA",
@@ -671,7 +672,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BVT*VORTAC*345.17/3.69",
+		"updated": "BVT*VORTAC*345.17/3.69"
 	},
 	{
 		"name": "FIRPA",
@@ -680,7 +681,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/07/2009",
+		"updated": "08/07/2009"
 	},
 	{
 		"name": "FISHR",
@@ -689,7 +690,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PIA*VORTAC*101.48/11.00",
+		"updated": "PIA*VORTAC*101.48/11.00"
 	},
 	{
 		"name": "FISKE",
@@ -698,7 +699,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OSH*VORTAC*246.68/5.76",
+		"updated": "OSH*VORTAC*246.68/5.76"
 	},
 	{
 		"name": "FISSK",
@@ -707,7 +708,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/18/2007",
+		"updated": "01/18/2007"
 	},
 	{
 		"name": "FISUL",
@@ -716,7 +717,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/27/2009",
+		"updated": "07/27/2009"
 	},
 	{
 		"name": "FITAR",
@@ -725,7 +726,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VQX*LD*093.88/13.91",
+		"updated": "VQX*LD*093.88/13.91"
 	},
 	{
 		"name": "FITGU",
@@ -734,7 +735,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/08/2011",
+		"updated": "09/08/2011"
 	},
 	{
 		"name": "FITSA",
@@ -743,7 +744,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/17/2010",
+		"updated": "02/17/2010"
 	},
 	{
 		"name": "FIVIX",
@@ -752,7 +753,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/16/2010",
+		"updated": "02/16/2010"
 	},
 	{
 		"name": "FIVLO",
@@ -761,7 +762,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MKG*VORTAC*154.90/9.04",
+		"updated": "MKG*VORTAC*154.90/9.04"
 	},
 	{
 		"name": "FIVMU",
@@ -770,7 +771,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/26/2012",
+		"updated": "07/26/2012"
 	},
 	{
 		"name": "FIXAB",
@@ -779,7 +780,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/04/2010",
+		"updated": "03/04/2010"
 	},
 	{
 		"name": "FIXAX",
@@ -788,7 +789,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BUU*VOR/DME*111.71",
+		"updated": "BUU*VOR/DME*111.71"
 	},
 	{
 		"name": "FIXIV",
@@ -797,7 +798,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/07/2012",
+		"updated": "08/07/2012"
 	},
 	{
 		"name": "FIYER",
@@ -806,7 +807,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/23/2018",
+		"updated": "02/23/2018"
 	},
 	{
 		"name": "FLABE",
@@ -815,7 +816,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/17/2007",
+		"updated": "12/17/2007"
 	},
 	{
 		"name": "FLAMS",
@@ -824,7 +825,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*004.00",
+		"updated": "BAE*VOR/DME*004.00"
 	},
 	{
 		"name": "FLLYN",
@@ -833,7 +834,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*195.47",
+		"updated": "OBK*VOR/DME*195.47"
 	},
 	{
 		"name": "FNBAR",
@@ -842,7 +843,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "FNGRS",
@@ -851,7 +852,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/24/2001",
+		"updated": "09/24/2001"
 	},
 	{
 		"name": "FNUCH",
@@ -860,7 +861,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ORD*VOR/DME*/22.69",
+		"updated": "ORD*VOR/DME*/22.69"
 	},
 	{
 		"name": "FOBID",
@@ -869,7 +870,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/10/2012",
+		"updated": "09/10/2012"
 	},
 	{
 		"name": "FOBIM",
@@ -878,7 +879,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/24/2018",
+		"updated": "04/24/2018"
 	},
 	{
 		"name": "FOBOR",
@@ -887,7 +888,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/01/2013",
+		"updated": "08/01/2013"
 	},
 	{
 		"name": "FODAT",
@@ -896,7 +897,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/02/2006",
+		"updated": "02/02/2006"
 	},
 	{
 		"name": "FODBU",
@@ -905,7 +906,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/19/2010",
+		"updated": "05/19/2010"
 	},
 	{
 		"name": "FODRU",
@@ -914,7 +915,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/18/2011",
+		"updated": "02/18/2011"
 	},
 	{
 		"name": "FOGAS",
@@ -923,7 +924,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RFD*VOR/DME*023.63",
+		"updated": "RFD*VOR/DME*023.63"
 	},
 	{
 		"name": "FOGAT",
@@ -932,7 +933,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/04/2015",
+		"updated": "11/04/2015"
 	},
 	{
 		"name": "FOGBI",
@@ -941,7 +942,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/06/2003",
+		"updated": "08/06/2003"
 	},
 	{
 		"name": "FOLAD",
@@ -950,7 +951,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/11/2014",
+		"updated": "03/11/2014"
 	},
 	{
 		"name": "FOLBU",
@@ -959,7 +960,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/31/2005",
+		"updated": "05/31/2005"
 	},
 	{
 		"name": "FOMAG",
@@ -968,7 +969,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/05/2007",
+		"updated": "10/05/2007"
 	},
 	{
 		"name": "FONAB",
@@ -977,7 +978,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/23/2004",
+		"updated": "09/23/2004"
 	},
 	{
 		"name": "FONDY",
@@ -986,7 +987,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/17/2006",
+		"updated": "04/17/2006"
 	},
 	{
 		"name": "FONER",
@@ -995,7 +996,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CID*VOR/DME*262.68/2.41",
+		"updated": "CID*VOR/DME*262.68/2.41"
 	},
 	{
 		"name": "FONFO",
@@ -1004,7 +1005,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PMM*VOR/DME*073.78/15.50",
+		"updated": "PMM*VOR/DME*073.78/15.50"
 	},
 	{
 		"name": "FONUV",
@@ -1013,7 +1014,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/13/2012",
+		"updated": "06/13/2012"
 	},
 	{
 		"name": "FOOTE",
@@ -1022,7 +1023,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "FWA*VORTAC*209.38",
+		"updated": "FWA*VORTAC*209.38"
 	},
 	{
 		"name": "FORCE",
@@ -1031,7 +1032,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MZZ*VOR/DME*012.00",
+		"updated": "MZZ*VOR/DME*012.00"
 	},
 	{
 		"name": "FORTZ",
@@ -1040,7 +1041,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/25/2012",
+		"updated": "05/25/2012"
 	},
 	{
 		"name": "FORVO",
@@ -1049,7 +1050,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/06/2010",
+		"updated": "04/06/2010"
 	},
 	{
 		"name": "FOSDO",
@@ -1058,7 +1059,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/01/2011",
+		"updated": "03/01/2011"
 	},
 	{
 		"name": "FOTTR",
@@ -1067,7 +1068,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JAV*LD*272.98/24.86",
+		"updated": "JAV*LD*272.98/24.86"
 	},
 	{
 		"name": "FOVGA",
@@ -1076,7 +1077,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/21/2006",
+		"updated": "07/21/2006"
 	},
 	{
 		"name": "FOVOJ",
@@ -1085,7 +1086,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*313.19/6.52",
+		"updated": "OBK*VOR/DME*313.19/6.52"
 	},
 	{
 		"name": "FOVON",
@@ -1094,7 +1095,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "FOWFY",
@@ -1103,7 +1104,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/17/2018",
+		"updated": "04/17/2018"
 	},
 	{
 		"name": "FOXUN",
@@ -1112,7 +1113,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/05/2010",
+		"updated": "06/05/2010"
 	},
 	{
 		"name": "FREDM",
@@ -1121,7 +1122,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "MR",
-		"updated": "OKK*VORTAC*309.00/18.00",
+		"updated": "OKK*VORTAC*309.00/18.00"
 	},
 	{
 		"name": "FRIDG",
@@ -1130,7 +1131,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/13/2013",
+		"updated": "12/13/2013"
 	},
 	{
 		"name": "FROWN",
@@ -1139,7 +1140,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MZZ*VOR/DME*285.71",
+		"updated": "MZZ*VOR/DME*285.71"
 	},
 	{
 		"name": "FRTZZ",
@@ -1148,7 +1149,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/05/2011",
+		"updated": "05/05/2011"
 	},
 	{
 		"name": "FRUIT",
@@ -1157,7 +1158,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "TNU*VOR/DME*102.26/23.00",
+		"updated": "TNU*VOR/DME*102.26/23.00"
 	},
 	{
 		"name": "FUDDD",
@@ -1166,7 +1167,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "FUWQO",
@@ -1175,7 +1176,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/19/2009",
+		"updated": "03/19/2009"
 	},
 	{
 		"name": "FYTTE",
@@ -1184,5 +1185,6 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/28/2014",
-	},
+		"updated": "08/28/2014"
+	}
+]

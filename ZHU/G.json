@@ -1,3 +1,4 @@
+[
 	{
 		"name": "GALES",
 		"latitude": "29-54-27.52 N",
@@ -5,7 +6,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "IAH*VORTAC*127.00/4.41",
+		"updated": "IAH*VORTAC*127.00/4.41"
 	},
 	{
 		"name": "GANLE",
@@ -14,7 +15,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/27/2007",
+		"updated": "12/27/2007"
 	},
 	{
 		"name": "GARDS",
@@ -23,7 +24,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CWK*VORTAC*222.05/29.18",
+		"updated": "CWK*VORTAC*222.05/29.18"
 	},
 	{
 		"name": "GARNR",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*102.00/54.00",
+		"updated": "DLF*VORTAC*102.00/54.00"
 	},
 	{
 		"name": "GARON",
@@ -41,7 +42,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BFM*VORTAC*310.04/6.00",
+		"updated": "BFM*VORTAC*310.04/6.00"
 	},
 	{
 		"name": "GARRR",
@@ -50,7 +51,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/14/2014",
+		"updated": "03/14/2014"
 	},
 	{
 		"name": "GARYS",
@@ -59,7 +60,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CWK*VORTAC*215.07",
+		"updated": "CWK*VORTAC*215.07"
 	},
 	{
 		"name": "GASEC",
@@ -68,7 +69,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CLL*VORTAC*317.61/15.00",
+		"updated": "CLL*VORTAC*317.61/15.00"
 	},
 	{
 		"name": "GASHS",
@@ -77,7 +78,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LLM*LD*136.58/5.04",
+		"updated": "LLM*LD*136.58/5.04"
 	},
 	{
 		"name": "GASNE",
@@ -86,7 +87,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/09/2015",
+		"updated": "09/09/2015"
 	},
 	{
 		"name": "GASVE",
@@ -95,7 +96,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/14/2011",
+		"updated": "06/14/2011"
 	},
 	{
 		"name": "GATKY",
@@ -104,7 +105,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TBD*VOR/DME*169.00/25.00",
+		"updated": "TBD*VOR/DME*169.00/25.00"
 	},
 	{
 		"name": "GAYRE",
@@ -113,7 +114,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BRO*VORTAC*296.09/15.00",
+		"updated": "BRO*VORTAC*296.09/15.00"
 	},
 	{
 		"name": "GBSON",
@@ -122,7 +123,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "12/06/1994",
+		"updated": "12/06/1994"
 	},
 	{
 		"name": "GECEK",
@@ -131,7 +132,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LRD*LD*177.55/0.48",
+		"updated": "LRD*LD*177.55/0.48"
 	},
 	{
 		"name": "GEDNY",
@@ -140,7 +141,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/02/2017",
+		"updated": "11/02/2017"
 	},
 	{
 		"name": "GEEAR",
@@ -149,7 +150,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/25/2014",
+		"updated": "03/25/2014"
 	},
 	{
 		"name": "GEEEO",
@@ -158,7 +159,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/07/2014",
+		"updated": "03/07/2014"
 	},
 	{
 		"name": "GEMJO",
@@ -167,7 +168,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "NGP*VORTAC*312.55/5.66",
+		"updated": "NGP*VORTAC*312.55/5.66"
 	},
 	{
 		"name": "GENLE",
@@ -176,7 +177,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LCH*VORTAC*249.37/8.00",
+		"updated": "LCH*VORTAC*249.37/8.00"
 	},
 	{
 		"name": "GENNO",
@@ -185,7 +186,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "NQI*TACAN*112.00/0.90",
+		"updated": "NQI*TACAN*112.00/0.90"
 	},
 	{
 		"name": "GENNY",
@@ -194,7 +195,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "07/09/2015",
+		"updated": "07/09/2015"
 	},
 	{
 		"name": "GESNR",
@@ -203,7 +204,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "DAS*VORTAC*342.35/13.03",
+		"updated": "DAS*VORTAC*342.35/13.03"
 	},
 	{
 		"name": "GEVTE",
@@ -212,7 +213,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "BIX*TACAN*039.00/11.00",
+		"updated": "BIX*TACAN*039.00/11.00"
 	},
 	{
 		"name": "GEWAV",
@@ -221,7 +222,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "GEYGR",
@@ -230,7 +231,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/10/2016",
+		"updated": "08/10/2016"
 	},
 	{
 		"name": "GEYXI",
@@ -239,7 +240,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/28/2010",
+		"updated": "03/28/2010"
 	},
 	{
 		"name": "GGRIZ",
@@ -248,7 +249,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/21/2014",
+		"updated": "03/21/2014"
 	},
 	{
 		"name": "GHIIA",
@@ -257,7 +258,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "AEX*VORTAC*146.98/6.00",
+		"updated": "AEX*VORTAC*146.98/6.00"
 	},
 	{
 		"name": "GIBDE",
@@ -266,7 +267,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "09/05/2013",
+		"updated": "09/05/2013"
 	},
 	{
 		"name": "GICER",
@@ -275,7 +276,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HRL*VOR/DME*145.48/12.00",
+		"updated": "HRL*VOR/DME*145.48/12.00"
 	},
 	{
 		"name": "GIDDY",
@@ -284,7 +285,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BPT*VOR/DME*294.66",
+		"updated": "BPT*VOR/DME*294.66"
 	},
 	{
 		"name": "GIDGE",
@@ -293,7 +294,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/29/2003",
+		"updated": "08/29/2003"
 	},
 	{
 		"name": "GIFFA",
@@ -302,7 +303,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LOA*VORTAC*059.11",
+		"updated": "LOA*VORTAC*059.11"
 	},
 	{
 		"name": "GIFLE",
@@ -311,7 +312,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TNV*VOR/DME*335.95",
+		"updated": "TNV*VOR/DME*335.95"
 	},
 	{
 		"name": "GIKAW",
@@ -320,7 +321,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "EFD*TACAN*343.00/1.50",
+		"updated": "EFD*TACAN*343.00/1.50"
 	},
 	{
 		"name": "GIKEY",
@@ -329,7 +330,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BFM*VORTAC*318.67/21.23",
+		"updated": "BFM*VORTAC*318.67/21.23"
 	},
 	{
 		"name": "GILCO",
@@ -338,7 +339,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "IAH*VORTAC*110.61/8.00",
+		"updated": "IAH*VORTAC*110.61/8.00"
 	},
 	{
 		"name": "GILLL",
@@ -347,7 +348,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/14/2014",
+		"updated": "03/14/2014"
 	},
 	{
 		"name": "GIMBE",
@@ -356,7 +357,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*301.00/39.00",
+		"updated": "DLF*VORTAC*301.00/39.00"
 	},
 	{
 		"name": "GIMVE",
@@ -365,7 +366,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/28/2007",
+		"updated": "12/28/2007"
 	},
 	{
 		"name": "GIPAW",
@@ -374,7 +375,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/22/2011",
+		"updated": "06/22/2011"
 	},
 	{
 		"name": "GIPGE",
@@ -383,7 +384,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BTJ*LD*153.35/17.80",
+		"updated": "BTJ*LD*153.35/17.80"
 	},
 	{
 		"name": "GIRLY",
@@ -392,7 +393,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFT*VORTAC*230.41/70.75",
+		"updated": "LFT*VORTAC*230.41/70.75"
 	},
 	{
 		"name": "GIVKE",
@@ -401,7 +402,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "RND*VORTAC*159.00/13.00",
+		"updated": "RND*VORTAC*159.00/13.00"
 	},
 	{
 		"name": "GIZER",
@@ -410,7 +411,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFT*VORTAC*305.14",
+		"updated": "LFT*VORTAC*305.14"
 	},
 	{
 		"name": "GLADS",
@@ -419,7 +420,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/19/2008",
+		"updated": "06/19/2008"
 	},
 	{
 		"name": "GLAND",
@@ -428,7 +429,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TNV*VOR/DME*166.70",
+		"updated": "TNV*VOR/DME*166.70"
 	},
 	{
 		"name": "GLASN",
@@ -437,7 +438,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "GLCER",
@@ -446,7 +447,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "KSY*TACAN*163.00/19.00",
+		"updated": "KSY*TACAN*163.00/19.00"
 	},
 	{
 		"name": "GLENS",
@@ -455,7 +456,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "AEX*VORTAC*325.37/10.71",
+		"updated": "AEX*VORTAC*325.37/10.71"
 	},
 	{
 		"name": "GLENZ",
@@ -464,7 +465,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "NGP*VORTAC*144.00/12.00",
+		"updated": "NGP*VORTAC*144.00/12.00"
 	},
 	{
 		"name": "GLOCK",
@@ -473,7 +474,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/25/2014",
+		"updated": "03/25/2014"
 	},
 	{
 		"name": "GLSCD",
@@ -482,7 +483,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/01/1998",
+		"updated": "07/01/1998"
 	},
 	{
 		"name": "GLSCE",
@@ -491,7 +492,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSCF",
@@ -500,7 +501,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSCG",
@@ -509,7 +510,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSCH",
@@ -518,7 +519,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSCI",
@@ -527,7 +528,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSCJ",
@@ -536,7 +537,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSCK",
@@ -545,7 +546,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSCL",
@@ -554,7 +555,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSCM",
@@ -563,7 +564,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSCN",
@@ -572,7 +573,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSLD",
@@ -581,7 +582,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "06/30/1998",
+		"updated": "06/30/1998"
 	},
 	{
 		"name": "GLSLE",
@@ -590,7 +591,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/01/1998",
+		"updated": "07/01/1998"
 	},
 	{
 		"name": "GLSLF",
@@ -599,7 +600,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/01/1998",
+		"updated": "07/01/1998"
 	},
 	{
 		"name": "GLSLG",
@@ -608,7 +609,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "10/28/1998",
+		"updated": "10/28/1998"
 	},
 	{
 		"name": "GLSLH",
@@ -617,7 +618,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/14/2012",
+		"updated": "01/14/2012"
 	},
 	{
 		"name": "GLSLI",
@@ -626,7 +627,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/01/1998",
+		"updated": "07/01/1998"
 	},
 	{
 		"name": "GLSLJ",
@@ -635,7 +636,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/01/1998",
+		"updated": "07/01/1998"
 	},
 	{
 		"name": "GLSLK",
@@ -644,7 +645,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/01/1998",
+		"updated": "07/01/1998"
 	},
 	{
 		"name": "GLSLL",
@@ -653,7 +654,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/01/1998",
+		"updated": "07/01/1998"
 	},
 	{
 		"name": "GLSLM",
@@ -662,7 +663,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/01/1998",
+		"updated": "07/01/1998"
 	},
 	{
 		"name": "GLSRC",
@@ -671,7 +672,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSRD",
@@ -680,7 +681,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSRE",
@@ -689,7 +690,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSRF",
@@ -698,7 +699,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSRG",
@@ -707,7 +708,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSRH",
@@ -716,7 +717,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSRI",
@@ -725,7 +726,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSRJ",
@@ -734,7 +735,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSRK",
@@ -743,7 +744,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSRL",
@@ -752,7 +753,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSRM",
@@ -761,7 +762,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLSRN",
@@ -770,7 +771,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/07/1998",
+		"updated": "07/07/1998"
 	},
 	{
 		"name": "GLUVR",
@@ -779,7 +780,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/25/2014",
+		"updated": "03/25/2014"
 	},
 	{
 		"name": "GLYND",
@@ -788,7 +789,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/19/2009",
+		"updated": "03/19/2009"
 	},
 	{
 		"name": "GMANN",
@@ -797,7 +798,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "ELA*VOR/DME*130.38",
+		"updated": "ELA*VOR/DME*130.38"
 	},
 	{
 		"name": "GOBBY",
@@ -806,7 +807,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "AGJ*VORTAC*185.26/67.06",
+		"updated": "AGJ*VORTAC*185.26/67.06"
 	},
 	{
 		"name": "GOBTY",
@@ -815,7 +816,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "MCB*VORTAC*286.64/18.21",
+		"updated": "MCB*VORTAC*286.64/18.21"
 	},
 	{
 		"name": "GOCET",
@@ -824,7 +825,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/13/2015",
+		"updated": "07/13/2015"
 	},
 	{
 		"name": "GODRD",
@@ -833,7 +834,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/16/2009",
+		"updated": "06/16/2009"
 	},
 	{
 		"name": "GOGAN",
@@ -842,7 +843,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "IAH*VORTAC*238.13/18.97",
+		"updated": "IAH*VORTAC*238.13/18.97"
 	},
 	{
 		"name": "GOGEY",
@@ -851,7 +852,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/13/2004",
+		"updated": "05/13/2004"
 	},
 	{
 		"name": "GOGNE",
@@ -860,7 +861,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/22/2010",
+		"updated": "03/22/2010"
 	},
 	{
 		"name": "GOGOZ",
@@ -869,7 +870,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/12/2009",
+		"updated": "07/12/2009"
 	},
 	{
 		"name": "GOING",
@@ -878,7 +879,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TBD*VOR/DME*100.62/37.56",
+		"updated": "TBD*VOR/DME*100.62/37.56"
 	},
 	{
 		"name": "GOKKE",
@@ -887,7 +888,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFT*VORTAC*197.08/14.20",
+		"updated": "LFT*VORTAC*197.08/14.20"
 	},
 	{
 		"name": "GOLBY",
@@ -896,7 +897,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/28/2000",
+		"updated": "08/28/2000"
 	},
 	{
 		"name": "GOMER",
@@ -905,7 +906,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TNV*VOR/DME*075.94/26.78",
+		"updated": "TNV*VOR/DME*075.94/26.78"
 	},
 	{
 		"name": "GONEY",
@@ -914,7 +915,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/04/2005",
+		"updated": "08/04/2005"
 	},
 	{
 		"name": "GOPLY",
@@ -923,7 +924,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CLL*VORTAC*242.99/11.00",
+		"updated": "CLL*VORTAC*242.99/11.00"
 	},
 	{
 		"name": "GOTDA",
@@ -932,7 +933,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "GOVEY",
@@ -941,7 +942,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/21/2011",
+		"updated": "06/21/2011"
 	},
 	{
 		"name": "GOVVV",
@@ -950,7 +951,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/11/2014",
+		"updated": "03/11/2014"
 	},
 	{
 		"name": "GPTCA",
@@ -959,7 +960,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTCB",
@@ -968,7 +969,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTCC",
@@ -977,7 +978,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/12/1998",
+		"updated": "08/12/1998"
 	},
 	{
 		"name": "GPTCD",
@@ -986,7 +987,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/12/1998",
+		"updated": "08/12/1998"
 	},
 	{
 		"name": "GPTCE",
@@ -995,7 +996,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTCF",
@@ -1004,7 +1005,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTCG",
@@ -1013,7 +1014,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTCH",
@@ -1022,7 +1023,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTCI",
@@ -1031,7 +1032,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTCJ",
@@ -1040,7 +1041,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTCK",
@@ -1049,7 +1050,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTCL",
@@ -1058,7 +1059,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTCM",
@@ -1067,7 +1068,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTCN",
@@ -1076,7 +1077,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTCO",
@@ -1085,7 +1086,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTCP",
@@ -1094,7 +1095,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTCQ",
@@ -1103,7 +1104,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTLA",
@@ -1112,7 +1113,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTLB",
@@ -1121,7 +1122,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTLC",
@@ -1130,7 +1131,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTLD",
@@ -1139,7 +1140,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/12/1998",
+		"updated": "08/12/1998"
 	},
 	{
 		"name": "GPTLE",
@@ -1148,7 +1149,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTLF",
@@ -1157,7 +1158,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTLG",
@@ -1166,7 +1167,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTLH",
@@ -1175,7 +1176,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTLI",
@@ -1184,7 +1185,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTLJ",
@@ -1193,7 +1194,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTLK",
@@ -1202,7 +1203,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTLL",
@@ -1211,7 +1212,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTLM",
@@ -1220,7 +1221,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTLN",
@@ -1229,7 +1230,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTLO",
@@ -1238,7 +1239,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTLP",
@@ -1247,7 +1248,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTLQ",
@@ -1256,7 +1257,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTRA",
@@ -1265,7 +1266,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/01/2012",
+		"updated": "03/01/2012"
 	},
 	{
 		"name": "GPTRB",
@@ -1274,7 +1275,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTRC",
@@ -1283,7 +1284,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTRD",
@@ -1292,7 +1293,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTRE",
@@ -1301,7 +1302,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTRF",
@@ -1310,7 +1311,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTRG",
@@ -1319,7 +1320,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTRH",
@@ -1328,7 +1329,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTRI",
@@ -1337,7 +1338,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTRJ",
@@ -1346,7 +1347,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTRK",
@@ -1355,7 +1356,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTRL",
@@ -1364,7 +1365,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTRM",
@@ -1373,7 +1374,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTRN",
@@ -1382,7 +1383,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTRO",
@@ -1391,7 +1392,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTRP",
@@ -1400,7 +1401,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GPTRQ",
@@ -1409,7 +1410,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "GRAAF",
@@ -1418,7 +1419,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "IAH*VORTAC*/15.01",
+		"updated": "IAH*VORTAC*/15.01"
 	},
 	{
 		"name": "GRABS",
@@ -1427,7 +1428,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/12/1998",
+		"updated": "08/12/1998"
 	},
 	{
 		"name": "GRANE",
@@ -1436,7 +1437,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "THX*VORTAC*179.15/27.46",
+		"updated": "THX*VORTAC*179.15/27.46"
 	},
 	{
 		"name": "GRAYN",
@@ -1445,7 +1446,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/26/2014",
+		"updated": "03/26/2014"
 	},
 	{
 		"name": "GREAL",
@@ -1454,7 +1455,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/12/1998",
+		"updated": "08/12/1998"
 	},
 	{
 		"name": "GRENT",
@@ -1463,7 +1464,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/12/1998",
+		"updated": "08/12/1998"
 	},
 	{
 		"name": "GRETL",
@@ -1472,7 +1473,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "HRV*VORTAC*226.00/35.00",
+		"updated": "HRV*VORTAC*226.00/35.00"
 	},
 	{
 		"name": "GRICE",
@@ -1481,7 +1482,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TBD*VOR/DME*295.89/18.81",
+		"updated": "TBD*VOR/DME*295.89/18.81"
 	},
 	{
 		"name": "GRIEG",
@@ -1490,7 +1491,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HUB*VOR/DME*030.79",
+		"updated": "HUB*VOR/DME*030.79"
 	},
 	{
 		"name": "GRIND",
@@ -1499,7 +1500,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/30/2014",
+		"updated": "09/30/2014"
 	},
 	{
 		"name": "GRIPY",
@@ -1508,7 +1509,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/07/2014",
+		"updated": "03/07/2014"
 	},
 	{
 		"name": "GRIZL",
@@ -1517,7 +1518,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/08/2014",
+		"updated": "03/08/2014"
 	},
 	{
 		"name": "GRNDE",
@@ -1526,7 +1527,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*133.00/30.00",
+		"updated": "DLF*VORTAC*133.00/30.00"
 	},
 	{
 		"name": "GROSZ",
@@ -1535,7 +1536,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BRO*VORTAC*212.30/5.80",
+		"updated": "BRO*VORTAC*212.30/5.80"
 	},
 	{
 		"name": "GROTN",
@@ -1544,7 +1545,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "GROVI",
@@ -1553,7 +1554,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "NOG*TACAN*146.00/23.00",
+		"updated": "NOG*TACAN*146.00/23.00"
 	},
 	{
 		"name": "GROWN",
@@ -1562,7 +1563,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "10/08/1998",
+		"updated": "10/08/1998"
 	},
 	{
 		"name": "GRUNG",
@@ -1571,7 +1572,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/08/2014",
+		"updated": "03/08/2014"
 	},
 	{
 		"name": "GRUUV",
@@ -1580,7 +1581,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/11/2014",
+		"updated": "03/11/2014"
 	},
 	{
 		"name": "GRZIA",
@@ -1589,7 +1590,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/26/2014",
+		"updated": "03/26/2014"
 	},
 	{
 		"name": "GUACO",
@@ -1598,7 +1599,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/31/2008",
+		"updated": "12/31/2008"
 	},
 	{
 		"name": "GUADA",
@@ -1607,7 +1608,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CSI*VORTAC*086.00",
+		"updated": "CSI*VORTAC*086.00"
 	},
 	{
 		"name": "GUBUB",
@@ -1616,7 +1617,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "BIX*TACAN*203.00/6.00",
+		"updated": "BIX*TACAN*203.00/6.00"
 	},
 	{
 		"name": "GUBVE",
@@ -1625,7 +1626,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/20/2009",
+		"updated": "10/20/2009"
 	},
 	{
 		"name": "GUDFA",
@@ -1634,7 +1635,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "THX*VORTAC*030.00/22.00",
+		"updated": "THX*VORTAC*030.00/22.00"
 	},
 	{
 		"name": "GUDFY",
@@ -1643,7 +1644,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/10/2012",
+		"updated": "12/10/2012"
 	},
 	{
 		"name": "GUDNY",
@@ -1652,7 +1653,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PSX*VORTAC*260.00/14.00",
+		"updated": "PSX*VORTAC*260.00/14.00"
 	},
 	{
 		"name": "GUKWI",
@@ -1661,7 +1662,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/15/2010",
+		"updated": "07/15/2010"
 	},
 	{
 		"name": "GUMBY",
@@ -1670,7 +1671,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/26/2014",
+		"updated": "03/26/2014"
 	},
 	{
 		"name": "GUNGE",
@@ -1679,7 +1680,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "KSY*TACAN*173.00/19.00",
+		"updated": "KSY*TACAN*173.00/19.00"
 	},
 	{
 		"name": "GUQEM",
@@ -1688,7 +1689,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "AEX*VORTAC*322.59/15.70",
+		"updated": "AEX*VORTAC*322.59/15.70"
 	},
 	{
 		"name": "GUSHR",
@@ -1697,7 +1698,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/14/2014",
+		"updated": "03/14/2014"
 	},
 	{
 		"name": "GUSRE",
@@ -1706,7 +1707,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/21/2017",
+		"updated": "03/21/2017"
 	},
 	{
 		"name": "GUSTI",
@@ -1715,7 +1716,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFT*VORTAC*251.62/49.57",
+		"updated": "LFT*VORTAC*251.62/49.57"
 	},
 	{
 		"name": "GUTCE",
@@ -1724,7 +1725,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/21/2011",
+		"updated": "06/21/2011"
 	},
 	{
 		"name": "GUVLY",
@@ -1733,7 +1734,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/10/2018",
+		"updated": "04/10/2018"
 	},
 	{
 		"name": "GUYEV",
@@ -1742,7 +1743,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/27/2006",
+		"updated": "07/27/2006"
 	},
 	{
 		"name": "GYTON",
@@ -1751,5 +1752,6 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/27/2017",
-	},
+		"updated": "11/27/2017"
+	}
+]

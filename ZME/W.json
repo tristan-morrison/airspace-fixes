@@ -1,3 +1,4 @@
+[
 	{
 		"name": "WABAV",
 		"latitude": "33-26-22.34 N",
@@ -5,7 +6,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/29/2013",
+		"updated": "01/29/2013"
 	},
 	{
 		"name": "WABDI",
@@ -14,7 +15,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "PMU*LE*010.75/4.00",
+		"updated": "PMU*LE*010.75/4.00"
 	},
 	{
 		"name": "WABOK",
@@ -23,7 +24,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2015",
+		"updated": "06/16/2015"
 	},
 	{
 		"name": "WABOL",
@@ -32,7 +33,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/05/2014",
+		"updated": "02/05/2014"
 	},
 	{
 		"name": "WABRA",
@@ -41,7 +42,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/06/2016",
+		"updated": "09/06/2016"
 	},
 	{
 		"name": "WADEE",
@@ -50,7 +51,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/01/2012",
+		"updated": "02/01/2012"
 	},
 	{
 		"name": "WADIS",
@@ -59,7 +60,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/14/2009",
+		"updated": "09/14/2009"
 	},
 	{
 		"name": "WADKI",
@@ -68,7 +69,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/14/2009",
+		"updated": "07/14/2009"
 	},
 	{
 		"name": "WAGIG",
@@ -77,7 +78,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2011",
+		"updated": "07/25/2011"
 	},
 	{
 		"name": "WAGUR",
@@ -86,7 +87,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/26/2007",
+		"updated": "12/26/2007"
 	},
 	{
 		"name": "WAKAK",
@@ -95,7 +96,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/20/2014",
+		"updated": "02/20/2014"
 	},
 	{
 		"name": "WAKEE",
@@ -104,7 +105,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SYI*VOR/DME*080.16/18.00",
+		"updated": "SYI*VOR/DME*080.16/18.00"
 	},
 	{
 		"name": "WAKIV",
@@ -113,7 +114,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "WAKOL",
@@ -122,7 +123,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/16/2011",
+		"updated": "05/16/2011"
 	},
 	{
 		"name": "WALIS",
@@ -131,7 +132,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/11/2012",
+		"updated": "02/11/2012"
 	},
 	{
 		"name": "WALLZ",
@@ -140,7 +141,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GQE*VOR/DME*152.63",
+		"updated": "GQE*VOR/DME*152.63"
 	},
 	{
 		"name": "WAMAR",
@@ -149,7 +150,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/11/2012",
+		"updated": "09/11/2012"
 	},
 	{
 		"name": "WAMDA",
@@ -158,7 +159,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/14/2009",
+		"updated": "07/14/2009"
 	},
 	{
 		"name": "WAMSE",
@@ -167,7 +168,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RZC*VORTAC*317.35/7.31",
+		"updated": "RZC*VORTAC*317.35/7.31"
 	},
 	{
 		"name": "WAMVI",
@@ -176,7 +177,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/25/2014",
+		"updated": "02/25/2014"
 	},
 	{
 		"name": "WANUG",
@@ -185,7 +186,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "WAPGO",
@@ -194,7 +195,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/04/2014",
+		"updated": "02/04/2014"
 	},
 	{
 		"name": "WAPUR",
@@ -203,7 +204,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/27/2004",
+		"updated": "07/27/2004"
 	},
 	{
 		"name": "WARAV",
@@ -212,7 +213,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/11/2010",
+		"updated": "08/11/2010"
 	},
 	{
 		"name": "WARIT",
@@ -221,7 +222,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/29/2005",
+		"updated": "06/29/2005"
 	},
 	{
 		"name": "WARLI",
@@ -230,7 +231,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "ARG*VORTAC*036.00/10.00",
+		"updated": "ARG*VORTAC*036.00/10.00"
 	},
 	{
 		"name": "WAROF",
@@ -239,7 +240,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/04/2011",
+		"updated": "01/04/2011"
 	},
 	{
 		"name": "WARPA",
@@ -248,7 +249,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "ROG*LD*015.17/3.85",
+		"updated": "ROG*LD*015.17/3.85"
 	},
 	{
 		"name": "WARTZ",
@@ -257,7 +258,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2012",
+		"updated": "06/15/2012"
 	},
 	{
 		"name": "WARUX",
@@ -266,7 +267,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/04/2016",
+		"updated": "05/04/2016"
 	},
 	{
 		"name": "WASED",
@@ -275,7 +276,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/17/2010",
+		"updated": "03/17/2010"
 	},
 	{
 		"name": "WASER",
@@ -284,7 +285,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2012",
+		"updated": "06/15/2012"
 	},
 	{
 		"name": "WASKA",
@@ -293,7 +294,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/04/2009",
+		"updated": "09/04/2009"
 	},
 	{
 		"name": "WASKO",
@@ -302,7 +303,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "TXK*VORTAC*058.01/78.61",
+		"updated": "TXK*VORTAC*058.01/78.61"
 	},
 	{
 		"name": "WASMO",
@@ -311,7 +312,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "CCT*VORTAC*186.65/18.00",
+		"updated": "CCT*VORTAC*186.65/18.00"
 	},
 	{
 		"name": "WASUD",
@@ -320,7 +321,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "ARG*VORTAC*273.16/40.00",
+		"updated": "ARG*VORTAC*273.16/40.00"
 	},
 	{
 		"name": "WASUP",
@@ -329,7 +330,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "WATUG",
@@ -338,7 +339,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LFH*DD*172.48/10.12",
+		"updated": "LFH*DD*172.48/10.12"
 	},
 	{
 		"name": "WAVEE",
@@ -347,7 +348,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/31/2013",
+		"updated": "05/31/2013"
 	},
 	{
 		"name": "WAXOK",
@@ -356,7 +357,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/24/2008",
+		"updated": "12/24/2008"
 	},
 	{
 		"name": "WAXON",
@@ -365,7 +366,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/20/2009",
+		"updated": "01/20/2009"
 	},
 	{
 		"name": "WAXUV",
@@ -374,7 +375,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "WAYLN",
@@ -383,7 +384,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SSX*LD*021.00/12.26",
+		"updated": "SSX*LD*021.00/12.26"
 	},
 	{
 		"name": "WEBAN",
@@ -392,7 +393,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RZC*VORTAC*176.00/5.03",
+		"updated": "RZC*VORTAC*176.00/5.03"
 	},
 	{
 		"name": "WEBTO",
@@ -401,7 +402,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "WEBVA",
@@ -410,7 +411,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "WEDGO",
@@ -419,7 +420,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/28/2007",
+		"updated": "12/28/2007"
 	},
 	{
 		"name": "WEDUR",
@@ -428,7 +429,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/20/2009",
+		"updated": "01/20/2009"
 	},
 	{
 		"name": "WEDVO",
@@ -437,7 +438,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BWG*VORTAC*/9.69",
+		"updated": "BWG*VORTAC*/9.69"
 	},
 	{
 		"name": "WEEWA",
@@ -446,7 +447,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*135.37/20.00",
+		"updated": "CBM*VORTAC*135.37/20.00"
 	},
 	{
 		"name": "WEGAV",
@@ -455,7 +456,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "WEGDI",
@@ -464,7 +465,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "CGI*LD*107.82/2.03",
+		"updated": "CGI*LD*107.82/2.03"
 	},
 	{
 		"name": "WEGMA",
@@ -473,7 +474,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/03/2014",
+		"updated": "06/03/2014"
 	},
 	{
 		"name": "WEJJI",
@@ -482,7 +483,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/29/2016",
+		"updated": "07/29/2016"
 	},
 	{
 		"name": "WEKIS",
@@ -491,7 +492,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "FSM*VORTAC*/12.56",
+		"updated": "FSM*VORTAC*/12.56"
 	},
 	{
 		"name": "WEKSI",
@@ -500,7 +501,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "WEKUB",
@@ -509,7 +510,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/11/2010",
+		"updated": "06/11/2010"
 	},
 	{
 		"name": "WEKUK",
@@ -518,7 +519,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/14/2008",
+		"updated": "07/14/2008"
 	},
 	{
 		"name": "WELAD",
@@ -527,7 +528,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/29/2005",
+		"updated": "06/29/2005"
 	},
 	{
 		"name": "WELSA",
@@ -536,7 +537,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/24/2011",
+		"updated": "06/24/2011"
 	},
 	{
 		"name": "WELTO",
@@ -545,7 +546,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*187.00/15.00",
+		"updated": "CBM*VORTAC*187.00/15.00"
 	},
 	{
 		"name": "WELVA",
@@ -554,7 +555,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/23/2013",
+		"updated": "04/23/2013"
 	},
 	{
 		"name": "WEMAL",
@@ -563,7 +564,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "WENPO",
@@ -572,7 +573,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/11/2010",
+		"updated": "06/11/2010"
 	},
 	{
 		"name": "WENUB",
@@ -581,7 +582,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/08/2008",
+		"updated": "12/08/2008"
 	},
 	{
 		"name": "WEPET",
@@ -590,7 +591,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/29/2010",
+		"updated": "12/29/2010"
 	},
 	{
 		"name": "WEPGO",
@@ -599,7 +600,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "WEPIR",
@@ -608,7 +609,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/28/2011",
+		"updated": "03/28/2011"
 	},
 	{
 		"name": "WEPKA",
@@ -617,7 +618,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/09/2008",
+		"updated": "10/09/2008"
 	},
 	{
 		"name": "WEPKI",
@@ -626,7 +627,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/19/2013",
+		"updated": "03/19/2013"
 	},
 	{
 		"name": "WEPSA",
@@ -635,7 +636,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/24/2013",
+		"updated": "04/24/2013"
 	},
 	{
 		"name": "WEPUL",
@@ -644,7 +645,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/17/2013",
+		"updated": "04/17/2013"
 	},
 	{
 		"name": "WERBO",
@@ -653,7 +654,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/21/2015",
+		"updated": "09/21/2015"
 	},
 	{
 		"name": "WERVI",
@@ -662,7 +663,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/27/2017",
+		"updated": "01/27/2017"
 	},
 	{
 		"name": "WESIS",
@@ -671,7 +672,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*179.00/7.00",
+		"updated": "CBM*VORTAC*179.00/7.00"
 	},
 	{
 		"name": "WESOS",
@@ -680,7 +681,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "WESTY",
@@ -689,7 +690,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RZC*VORTAC*150.17/17.97",
+		"updated": "RZC*VORTAC*150.17/17.97"
 	},
 	{
 		"name": "WETCO",
@@ -698,7 +699,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/01/2017",
+		"updated": "06/01/2017"
 	},
 	{
 		"name": "WETKI",
@@ -707,7 +708,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/11/2010",
+		"updated": "08/11/2010"
 	},
 	{
 		"name": "WETOB",
@@ -716,7 +717,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/29/2013",
+		"updated": "10/29/2013"
 	},
 	{
 		"name": "WETSO",
@@ -725,7 +726,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "WEVTO",
@@ -734,7 +735,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/27/2011",
+		"updated": "12/27/2011"
 	},
 	{
 		"name": "WEVUT",
@@ -743,7 +744,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/03/2014",
+		"updated": "06/03/2014"
 	},
 	{
 		"name": "WEXEN",
@@ -752,7 +753,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "WEXIL",
@@ -761,7 +762,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "PBF*VOR/DME*181.53/15.00",
+		"updated": "PBF*VOR/DME*181.53/15.00"
 	},
 	{
 		"name": "WEXIT",
@@ -770,7 +771,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*045.00/11.00",
+		"updated": "BNA*VORTAC*045.00/11.00"
 	},
 	{
 		"name": "WEXOG",
@@ -779,7 +780,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/14/2009",
+		"updated": "01/14/2009"
 	},
 	{
 		"name": "WEXUP",
@@ -788,7 +789,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "WEYER",
@@ -797,7 +798,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "09/24/2013",
+		"updated": "09/24/2013"
 	},
 	{
 		"name": "WEYKU",
@@ -806,7 +807,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/05/2013",
+		"updated": "07/05/2013"
 	},
 	{
 		"name": "WFIVE",
@@ -815,7 +816,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*319.00/42.75",
+		"updated": "MEM*VORTAC*319.00/42.75"
 	},
 	{
 		"name": "WFOUR",
@@ -824,7 +825,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*303.00/43.75",
+		"updated": "MEM*VORTAC*303.00/43.75"
 	},
 	{
 		"name": "WHOLL",
@@ -833,7 +834,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/05/2013",
+		"updated": "12/05/2013"
 	},
 	{
 		"name": "WIBER",
@@ -842,7 +843,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*205.00/15.00",
+		"updated": "CBM*VORTAC*205.00/15.00"
 	},
 	{
 		"name": "WIBUX",
@@ -851,7 +852,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/01/2017",
+		"updated": "08/01/2017"
 	},
 	{
 		"name": "WIDUR",
@@ -860,7 +861,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/21/2010",
+		"updated": "06/21/2010"
 	},
 	{
 		"name": "WIGNI",
@@ -869,7 +870,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/26/2013",
+		"updated": "04/26/2013"
 	},
 	{
 		"name": "WIGXO",
@@ -878,7 +879,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "WIKDA",
@@ -887,7 +888,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "06/11/2003",
+		"updated": "06/11/2003"
 	},
 	{
 		"name": "WIKNO",
@@ -896,7 +897,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "WIKUB",
@@ -905,7 +906,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "IGB*VORTAC*015.00/12.50",
+		"updated": "IGB*VORTAC*015.00/12.50"
 	},
 	{
 		"name": "WIKZO",
@@ -914,7 +915,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LBY*VORTAC*302.06",
+		"updated": "LBY*VORTAC*302.06"
 	},
 	{
 		"name": "WILGU",
@@ -923,7 +924,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "WILUS",
@@ -932,7 +933,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/15/2007",
+		"updated": "03/15/2007"
 	},
 	{
 		"name": "WILUT",
@@ -941,7 +942,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/05/2010",
+		"updated": "11/05/2010"
 	},
 	{
 		"name": "WIMUB",
@@ -950,7 +951,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*090.81",
+		"updated": "MEM*VORTAC*090.81"
 	},
 	{
 		"name": "WINAP",
@@ -959,7 +960,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/02/2006",
+		"updated": "03/02/2006"
 	},
 	{
 		"name": "WINDM",
@@ -968,7 +969,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/26/2002",
+		"updated": "11/26/2002"
 	},
 	{
 		"name": "WINGA",
@@ -977,7 +978,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2011",
+		"updated": "07/25/2011"
 	},
 	{
 		"name": "WINIK",
@@ -986,7 +987,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/09/2016",
+		"updated": "05/09/2016"
 	},
 	{
 		"name": "WINOX",
@@ -995,7 +996,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "02/03/2010",
+		"updated": "02/03/2010"
 	},
 	{
 		"name": "WINUM",
@@ -1004,7 +1005,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/18/2004",
+		"updated": "10/18/2004"
 	},
 	{
 		"name": "WINZY",
@@ -1013,7 +1014,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "WIPEN",
@@ -1022,7 +1023,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/11/2012",
+		"updated": "09/11/2012"
 	},
 	{
 		"name": "WIPIM",
@@ -1031,7 +1032,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MAW*VORTAC*300.33/4.98",
+		"updated": "MAW*VORTAC*300.33/4.98"
 	},
 	{
 		"name": "WIPTI",
@@ -1040,7 +1041,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/17/2014",
+		"updated": "09/17/2014"
 	},
 	{
 		"name": "WIPUP",
@@ -1049,7 +1050,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/25/2008",
+		"updated": "03/25/2008"
 	},
 	{
 		"name": "WIRGU",
@@ -1058,7 +1059,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "EVO*LE*180.54/2.81",
+		"updated": "EVO*LE*180.54/2.81"
 	},
 	{
 		"name": "WIRSI",
@@ -1067,7 +1068,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/18/2013",
+		"updated": "07/18/2013"
 	},
 	{
 		"name": "WISDE",
@@ -1076,7 +1077,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/28/2011",
+		"updated": "03/28/2011"
 	},
 	{
 		"name": "WISES",
@@ -1085,7 +1086,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/28/2008",
+		"updated": "04/28/2008"
 	},
 	{
 		"name": "WISID",
@@ -1094,7 +1095,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/22/2014",
+		"updated": "10/22/2014"
 	},
 	{
 		"name": "WISLI",
@@ -1103,7 +1104,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/01/2008",
+		"updated": "12/01/2008"
 	},
 	{
 		"name": "WITIP",
@@ -1112,7 +1113,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/19/2017",
+		"updated": "09/19/2017"
 	},
 	{
 		"name": "WITKA",
@@ -1121,7 +1122,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/01/2009",
+		"updated": "04/01/2009"
 	},
 	{
 		"name": "WITOS",
@@ -1130,7 +1131,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/28/2014",
+		"updated": "05/28/2014"
 	},
 	{
 		"name": "WITXO",
@@ -1139,7 +1140,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/27/2004",
+		"updated": "09/27/2004"
 	},
 	{
 		"name": "WIVNI",
@@ -1148,7 +1149,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/04/2012",
+		"updated": "12/04/2012"
 	},
 	{
 		"name": "WIVOM",
@@ -1157,7 +1158,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/04/2012",
+		"updated": "12/04/2012"
 	},
 	{
 		"name": "WIVOV",
@@ -1166,7 +1167,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/28/2016",
+		"updated": "11/28/2016"
 	},
 	{
 		"name": "WIVTU",
@@ -1175,7 +1176,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "WIWFI",
@@ -1184,7 +1185,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/22/2014",
+		"updated": "04/22/2014"
 	},
 	{
 		"name": "WIZER",
@@ -1193,7 +1194,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "FSM*VORTAC*120.33/3.36",
+		"updated": "FSM*VORTAC*120.33/3.36"
 	},
 	{
 		"name": "WLDER",
@@ -1202,7 +1203,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MKL*VOR/DME*262.84/18.90",
+		"updated": "MKL*VOR/DME*262.84/18.90"
 	},
 	{
 		"name": "WLSUN",
@@ -1211,7 +1212,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/17/2006",
+		"updated": "02/17/2006"
 	},
 	{
 		"name": "WOBGU",
@@ -1220,7 +1221,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/06/2013",
+		"updated": "06/06/2013"
 	},
 	{
 		"name": "WODDY",
@@ -1229,7 +1230,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RMG*VORTAC*283.00/70.00",
+		"updated": "RMG*VORTAC*283.00/70.00"
 	},
 	{
 		"name": "WODID",
@@ -1238,7 +1239,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*247.00/15.00",
+		"updated": "CBM*VORTAC*247.00/15.00"
 	},
 	{
 		"name": "WODUD",
@@ -1247,7 +1248,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/30/2017",
+		"updated": "06/30/2017"
 	},
 	{
 		"name": "WOGPA",
@@ -1256,7 +1257,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/13/2006",
+		"updated": "10/13/2006"
 	},
 	{
 		"name": "WOGPI",
@@ -1265,7 +1266,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/18/2013",
+		"updated": "06/18/2013"
 	},
 	{
 		"name": "WOGUT",
@@ -1274,7 +1275,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/03/2015",
+		"updated": "11/03/2015"
 	},
 	{
 		"name": "WOGVA",
@@ -1283,7 +1284,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/06/2011",
+		"updated": "06/06/2011"
 	},
 	{
 		"name": "WOKAP",
@@ -1292,7 +1293,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/03/2014",
+		"updated": "06/03/2014"
 	},
 	{
 		"name": "WOKLO",
@@ -1301,7 +1302,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/18/2015",
+		"updated": "09/18/2015"
 	},
 	{
 		"name": "WOKMU",
@@ -1310,7 +1311,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/06/2015",
+		"updated": "10/06/2015"
 	},
 	{
 		"name": "WOLAS",
@@ -1319,7 +1320,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/04/2011",
+		"updated": "01/04/2011"
 	},
 	{
 		"name": "WOLFS",
@@ -1328,7 +1329,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GLH*VOR/DME*094.35/5.00",
+		"updated": "GLH*VOR/DME*094.35/5.00"
 	},
 	{
 		"name": "WOLIN",
@@ -1337,7 +1338,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MON*VOR/DME*022.00/6.00",
+		"updated": "MON*VOR/DME*022.00/6.00"
 	},
 	{
 		"name": "WOLOV",
@@ -1346,7 +1347,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*033.00/23.00",
+		"updated": "CBM*VORTAC*033.00/23.00"
 	},
 	{
 		"name": "WOLSO",
@@ -1355,7 +1356,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/19/2011",
+		"updated": "08/19/2011"
 	},
 	{
 		"name": "WOLUS",
@@ -1364,7 +1365,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "03/06/2007",
+		"updated": "03/06/2007"
 	},
 	{
 		"name": "WOMKU",
@@ -1373,7 +1374,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "NMM*TACAN*001.00/10.00",
+		"updated": "NMM*TACAN*001.00/10.00"
 	},
 	{
 		"name": "WONEE",
@@ -1382,7 +1383,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*259.00/40.75",
+		"updated": "MEM*VORTAC*259.00/40.75"
 	},
 	{
 		"name": "WOPKI",
@@ -1391,7 +1392,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "WOPLA",
@@ -1400,7 +1401,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/02/2011",
+		"updated": "11/02/2011"
 	},
 	{
 		"name": "WOPUP",
@@ -1409,7 +1410,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "IGB*VORTAC*256.00/17.16",
+		"updated": "IGB*VORTAC*256.00/17.16"
 	},
 	{
 		"name": "WOREP",
@@ -1418,7 +1419,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/14/2012",
+		"updated": "09/14/2012"
 	},
 	{
 		"name": "WORKO",
@@ -1427,7 +1428,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/16/2016",
+		"updated": "08/16/2016"
 	},
 	{
 		"name": "WORMI",
@@ -1436,7 +1437,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LIT*VORTAC*240.52/12.00",
+		"updated": "LIT*VORTAC*240.52/12.00"
 	},
 	{
 		"name": "WORUP",
@@ -1445,7 +1446,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "WORVU",
@@ -1454,7 +1455,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "IGB*VORTAC*015.00/23.00",
+		"updated": "IGB*VORTAC*015.00/23.00"
 	},
 	{
 		"name": "WOSAL",
@@ -1463,7 +1464,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "WOSBU",
@@ -1472,7 +1473,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MHZ*VORTAC*326.90/16.00",
+		"updated": "MHZ*VORTAC*326.90/16.00"
 	},
 	{
 		"name": "WOSKU",
@@ -1481,7 +1482,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/21/2013",
+		"updated": "08/21/2013"
 	},
 	{
 		"name": "WOSOR",
@@ -1490,7 +1491,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/03/2015",
+		"updated": "09/03/2015"
 	},
 	{
 		"name": "WOTDO",
@@ -1499,7 +1500,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/15/2007",
+		"updated": "03/15/2007"
 	},
 	{
 		"name": "WOVAD",
@@ -1508,7 +1509,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RZC*VORTAC*045.64",
+		"updated": "RZC*VORTAC*045.64"
 	},
 	{
 		"name": "WOWED",
@@ -1517,7 +1518,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "HXW*TACAN*047.88/8.00",
+		"updated": "HXW*TACAN*047.88/8.00"
 	},
 	{
 		"name": "WOXET",
@@ -1526,7 +1527,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "WOXID",
@@ -1535,7 +1536,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/13/2017",
+		"updated": "01/13/2017"
 	},
 	{
 		"name": "WOXON",
@@ -1544,7 +1545,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/04/2008",
+		"updated": "04/04/2008"
 	},
 	{
 		"name": "WOXOT",
@@ -1553,7 +1554,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MON*VOR/DME*265.80/13.00",
+		"updated": "MON*VOR/DME*265.80/13.00"
 	},
 	{
 		"name": "WOXUS",
@@ -1562,7 +1563,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/03/2015",
+		"updated": "11/03/2015"
 	},
 	{
 		"name": "WOZXO",
@@ -1571,7 +1572,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/18/2008",
+		"updated": "06/18/2008"
 	},
 	{
 		"name": "WOZYE",
@@ -1580,7 +1581,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/27/2011",
+		"updated": "09/27/2011"
 	},
 	{
 		"name": "WRRTZ",
@@ -1589,7 +1590,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/11/2012",
+		"updated": "02/11/2012"
 	},
 	{
 		"name": "WSTIN",
@@ -1598,7 +1599,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/16/2013",
+		"updated": "10/16/2013"
 	},
 	{
 		"name": "WSTON",
@@ -1607,7 +1608,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*178.50/19.38",
+		"updated": "MEM*VORTAC*178.50/19.38"
 	},
 	{
 		"name": "WTREE",
@@ -1616,7 +1617,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*283.00/41.75",
+		"updated": "MEM*VORTAC*283.00/41.75"
 	},
 	{
 		"name": "WTWOO",
@@ -1625,7 +1626,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*270.00/40.75",
+		"updated": "MEM*VORTAC*270.00/40.75"
 	},
 	{
 		"name": "WUBGA",
@@ -1634,7 +1635,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/17/2015",
+		"updated": "12/17/2015"
 	},
 	{
 		"name": "WUBKI",
@@ -1643,7 +1644,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "01/03/2007",
+		"updated": "01/03/2007"
 	},
 	{
 		"name": "WUBOB",
@@ -1652,7 +1653,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "WUDAM",
@@ -1661,7 +1662,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/12/2008",
+		"updated": "06/12/2008"
 	},
 	{
 		"name": "WUDAP",
@@ -1670,7 +1671,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/26/2017",
+		"updated": "01/26/2017"
 	},
 	{
 		"name": "WUDSU",
@@ -1679,7 +1680,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/27/2007",
+		"updated": "12/27/2007"
 	},
 	{
 		"name": "WUDVI",
@@ -1688,7 +1689,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MHZ*VORTAC*232.72/20.00",
+		"updated": "MHZ*VORTAC*232.72/20.00"
 	},
 	{
 		"name": "WUGAB",
@@ -1697,7 +1698,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/02/2014",
+		"updated": "04/02/2014"
 	},
 	{
 		"name": "WUGEK",
@@ -1706,7 +1707,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/09/2013",
+		"updated": "09/09/2013"
 	},
 	{
 		"name": "WUGID",
@@ -1715,7 +1716,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "03/06/2007",
+		"updated": "03/06/2007"
 	},
 	{
 		"name": "WUKAR",
@@ -1724,7 +1725,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/02/2011",
+		"updated": "05/02/2011"
 	},
 	{
 		"name": "WUKER",
@@ -1733,7 +1734,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2012",
+		"updated": "06/15/2012"
 	},
 	{
 		"name": "WUKLA",
@@ -1742,7 +1743,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "MEI*VORTAC*141.20/10.00",
+		"updated": "MEI*VORTAC*141.20/10.00"
 	},
 	{
 		"name": "WUKNA",
@@ -1751,7 +1752,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/26/2013",
+		"updated": "03/26/2013"
 	},
 	{
 		"name": "WULAR",
@@ -1760,7 +1761,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "FSM*VORTAC*233.00/6.31",
+		"updated": "FSM*VORTAC*233.00/6.31"
 	},
 	{
 		"name": "WULBO",
@@ -1769,7 +1770,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEI*VORTAC*130.81/3.32",
+		"updated": "MEI*VORTAC*130.81/3.32"
 	},
 	{
 		"name": "WULEN",
@@ -1778,7 +1779,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/22/2014",
+		"updated": "10/22/2014"
 	},
 	{
 		"name": "WULIG",
@@ -1787,7 +1788,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/08/2013",
+		"updated": "08/08/2013"
 	},
 	{
 		"name": "WULIL",
@@ -1796,7 +1797,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LFH*DD*172.48/5.71",
+		"updated": "LFH*DD*172.48/5.71"
 	},
 	{
 		"name": "WULKI",
@@ -1805,7 +1806,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/20/2007",
+		"updated": "08/20/2007"
 	},
 	{
 		"name": "WUNOG",
@@ -1814,7 +1815,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/03/2014",
+		"updated": "06/03/2014"
 	},
 	{
 		"name": "WUPUK",
@@ -1823,7 +1824,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "WUSAM",
@@ -1832,7 +1833,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "NMM*TACAN*286.00/12.00",
+		"updated": "NMM*TACAN*286.00/12.00"
 	},
 	{
 		"name": "WUSAP",
@@ -1841,7 +1842,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2016",
+		"updated": "06/15/2016"
 	},
 	{
 		"name": "WUSEL",
@@ -1850,7 +1851,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2011",
+		"updated": "07/25/2011"
 	},
 	{
 		"name": "WUSVO",
@@ -1859,7 +1860,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/08/2014",
+		"updated": "10/08/2014"
 	},
 	{
 		"name": "WUTIV",
@@ -1868,7 +1869,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/19/2013",
+		"updated": "03/19/2013"
 	},
 	{
 		"name": "WUTOT",
@@ -1877,7 +1878,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MKL*LD*203.23/3.60",
+		"updated": "MKL*LD*203.23/3.60"
 	},
 	{
 		"name": "WUVAX",
@@ -1886,7 +1887,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/27/2011",
+		"updated": "03/27/2011"
 	},
 	{
 		"name": "WUVIL",
@@ -1895,7 +1896,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/30/2013",
+		"updated": "04/30/2013"
 	},
 	{
 		"name": "WUWRE",
@@ -1904,5 +1905,6 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/03/2013",
-	},
+		"updated": "11/03/2013"
+	}
+]

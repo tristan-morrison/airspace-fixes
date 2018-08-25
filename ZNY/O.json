@@ -1,3 +1,4 @@
+[
 	{
 		"name": "OBIWN",
 		"latitude": "40-34-51.8 N",
@@ -5,7 +6,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/25/2015",
+		"updated": "08/25/2015"
 	},
 	{
 		"name": "OCCEZ",
@@ -14,7 +15,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/10/2011",
+		"updated": "03/10/2011"
 	},
 	{
 		"name": "OCCIE",
@@ -23,7 +24,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CFB*VOR/DME*353.00",
+		"updated": "CFB*VOR/DME*353.00"
 	},
 	{
 		"name": "OCPUC",
@@ -32,7 +33,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/17/2008",
+		"updated": "06/17/2008"
 	},
 	{
 		"name": "ODDUB",
@@ -41,7 +42,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/10/2009",
+		"updated": "07/10/2009"
 	},
 	{
 		"name": "ODLOE",
@@ -50,7 +51,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/23/2012",
+		"updated": "07/23/2012"
 	},
 	{
 		"name": "ODORS",
@@ -59,7 +60,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/10/2011",
+		"updated": "06/10/2011"
 	},
 	{
 		"name": "ODREX",
@@ -68,7 +69,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/06/2017",
+		"updated": "11/06/2017"
 	},
 	{
 		"name": "ODUCA",
@@ -77,7 +78,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/09/2008",
+		"updated": "04/09/2008"
 	},
 	{
 		"name": "ODUCY",
@@ -86,7 +87,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/06/2017",
+		"updated": "11/06/2017"
 	},
 	{
 		"name": "OFFEC",
@@ -95,7 +96,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/29/2009",
+		"updated": "07/29/2009"
 	},
 	{
 		"name": "OFFER",
@@ -104,7 +105,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/20/2012",
+		"updated": "04/20/2012"
 	},
 	{
 		"name": "OGESY",
@@ -113,7 +114,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "OGNIE",
@@ -122,7 +123,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/23/2004",
+		"updated": "02/23/2004"
 	},
 	{
 		"name": "OGURE",
@@ -131,7 +132,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MR",
-		"updated": "GXU*VORTAC*061.00/11.00",
+		"updated": "GXU*VORTAC*061.00/11.00"
 	},
 	{
 		"name": "OHRYN",
@@ -140,7 +141,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/15/2016",
+		"updated": "09/15/2016"
 	},
 	{
 		"name": "OHSUY",
@@ -149,7 +150,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "OJIJE",
@@ -158,7 +159,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/20/2009",
+		"updated": "05/20/2009"
 	},
 	{
 		"name": "OJONE",
@@ -167,7 +168,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*227.82",
+		"updated": "DPK*VOR/DME*227.82"
 	},
 	{
 		"name": "OJREY",
@@ -176,7 +177,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/24/2017",
+		"updated": "08/24/2017"
 	},
 	{
 		"name": "OKONU",
@@ -185,7 +186,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/07/2008",
+		"updated": "02/07/2008"
 	},
 	{
 		"name": "OKZUS",
@@ -194,7 +195,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ULW*VOR/DME*122.31/33.02",
+		"updated": "ULW*VOR/DME*122.31/33.02"
 	},
 	{
 		"name": "OLBAY",
@@ -203,7 +204,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/12/2015",
+		"updated": "08/12/2015"
 	},
 	{
 		"name": "OLYMP",
@@ -212,7 +213,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "MW",
-		"updated": "THS*VORTAC*087.98/14.17",
+		"updated": "THS*VORTAC*087.98/14.17"
 	},
 	{
 		"name": "OMALA",
@@ -221,7 +222,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/08/2008",
+		"updated": "04/08/2008"
 	},
 	{
 		"name": "ONGOT",
@@ -230,7 +231,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/27/2008",
+		"updated": "05/27/2008"
 	},
 	{
 		"name": "OOMPH",
@@ -239,7 +240,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "OOONN",
@@ -248,7 +249,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/15/2016",
+		"updated": "09/15/2016"
 	},
 	{
 		"name": "OPAAH",
@@ -257,7 +258,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LSQ*LD*038.82/3.24",
+		"updated": "LSQ*LD*038.82/3.24"
 	},
 	{
 		"name": "ORANE",
@@ -266,7 +267,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/13/2005",
+		"updated": "09/13/2005"
 	},
 	{
 		"name": "ORDMO",
@@ -275,7 +276,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "MIP*VORTAC*035.00",
+		"updated": "MIP*VORTAC*035.00"
 	},
 	{
 		"name": "ORGEN",
@@ -284,7 +285,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HUO*VOR/DME*079.25/9.00",
+		"updated": "HUO*VOR/DME*079.25/9.00"
 	},
 	{
 		"name": "ORSON",
@@ -293,7 +294,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CFB*VOR/DME*132.38/39.63",
+		"updated": "CFB*VOR/DME*132.38/39.63"
 	},
 	{
 		"name": "OSAKE",
@@ -302,7 +303,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/22/2007",
+		"updated": "10/22/2007"
 	},
 	{
 		"name": "OSECU",
@@ -311,7 +312,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/12/2011",
+		"updated": "04/12/2011"
 	},
 	{
 		"name": "OSMIE",
@@ -320,7 +321,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "MW",
-		"updated": "12/17/2007",
+		"updated": "12/17/2007"
 	},
 	{
 		"name": "OSSEK",
@@ -329,7 +330,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/04/2010",
+		"updated": "02/04/2010"
 	},
 	{
 		"name": "OSUGE",
@@ -338,7 +339,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/20/2009",
+		"updated": "08/20/2009"
 	},
 	{
 		"name": "OSUSE",
@@ -347,7 +348,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/09/2016",
+		"updated": "08/09/2016"
 	},
 	{
 		"name": "OTDOZ",
@@ -356,7 +357,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/06/2017",
+		"updated": "01/06/2017"
 	},
 	{
 		"name": "OTEVY",
@@ -365,7 +366,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/07/2003",
+		"updated": "10/07/2003"
 	},
 	{
 		"name": "OTIXE",
@@ -374,7 +375,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/08/2018",
+		"updated": "05/08/2018"
 	},
 	{
 		"name": "OTPIF",
@@ -383,7 +384,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "OTTNG",
@@ -392,7 +393,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/15/2013",
+		"updated": "11/15/2013"
 	},
 	{
 		"name": "OTUCA",
@@ -401,7 +402,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "PSB*VORTAC*161.19",
+		"updated": "PSB*VORTAC*161.19"
 	},
 	{
 		"name": "OUNTY",
@@ -410,7 +411,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "OUTLT",
@@ -419,7 +420,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LRP*VOR/DME*020.29",
+		"updated": "LRP*VOR/DME*020.29"
 	},
 	{
 		"name": "OVAPI",
@@ -428,7 +429,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/01/2008",
+		"updated": "04/01/2008"
 	},
 	{
 		"name": "OVAXE",
@@ -437,7 +438,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "01/27/2009",
+		"updated": "01/27/2009"
 	},
 	{
 		"name": "OVETY",
@@ -446,7 +447,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ETX*VOR/DME*103.14/7.50",
+		"updated": "ETX*VOR/DME*103.14/7.50"
 	},
 	{
 		"name": "OVOZO",
@@ -455,7 +456,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "OVXEQ",
@@ -464,7 +465,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/30/2012",
+		"updated": "05/30/2012"
 	},
 	{
 		"name": "OWBIE",
@@ -473,7 +474,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "COL*VOR/DME*286.15",
+		"updated": "COL*VOR/DME*286.15"
 	},
 	{
 		"name": "OWENZ",
@@ -482,7 +483,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "JFK*VOR/DME*150.00/65.00",
+		"updated": "JFK*VOR/DME*150.00/65.00"
 	},
 	{
 		"name": "OXANA",
@@ -491,7 +492,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ECG*VOR/DME*140.03/164.21",
+		"updated": "ECG*VOR/DME*140.03/164.21"
 	},
 	{
 		"name": "OYUCA",
@@ -500,7 +501,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CFB*VOR/DME*193.34/10.21",
+		"updated": "CFB*VOR/DME*193.34/10.21"
 	},
 	{
 		"name": "OYUYI",
@@ -509,5 +510,6 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "CN",
-		"updated": "08/11/2008",
-	},
+		"updated": "08/11/2008"
+	}
+]

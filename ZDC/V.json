@@ -1,3 +1,4 @@
+[
 	{
 		"name": "VAALI",
 		"latitude": "38-44-0.85 N",
@@ -5,7 +6,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/23/2001",
+		"updated": "10/23/2001"
 	},
 	{
 		"name": "VACUM",
@@ -14,7 +15,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "SDZ*VORTAC*360.00/15.00",
+		"updated": "SDZ*VORTAC*360.00/15.00"
 	},
 	{
 		"name": "VANZI",
@@ -23,7 +24,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/06/2013",
+		"updated": "03/06/2013"
 	},
 	{
 		"name": "VAPSY",
@@ -32,7 +33,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/05/2009",
+		"updated": "11/05/2009"
 	},
 	{
 		"name": "VARMT",
@@ -41,7 +42,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/11/2014",
+		"updated": "06/11/2014"
 	},
 	{
 		"name": "VARUC",
@@ -50,7 +51,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "VASPY",
@@ -59,7 +60,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/15/2009",
+		"updated": "09/15/2009"
 	},
 	{
 		"name": "VAYRU",
@@ -68,7 +69,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "LIB*VORTAC*143.94/6.29",
+		"updated": "LIB*VORTAC*143.94/6.29"
 	},
 	{
 		"name": "VCTRY",
@@ -77,7 +78,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "VECDU",
@@ -86,7 +87,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/15/2013",
+		"updated": "07/15/2013"
 	},
 	{
 		"name": "VEERY",
@@ -95,7 +96,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/11/2018",
+		"updated": "04/11/2018"
 	},
 	{
 		"name": "VEGHE",
@@ -104,7 +105,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ORF*VORTAC*233.39/7.50",
+		"updated": "ORF*VORTAC*233.39/7.50"
 	},
 	{
 		"name": "VEKUC",
@@ -113,7 +114,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/11/2015",
+		"updated": "02/11/2015"
 	},
 	{
 		"name": "VELLI",
@@ -122,7 +123,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "EKN*VORTAC*186.16/25.37",
+		"updated": "EKN*VORTAC*186.16/25.37"
 	},
 	{
 		"name": "VENLY",
@@ -131,7 +132,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NKT*TACAN*154.00/12.00",
+		"updated": "NKT*TACAN*154.00/12.00"
 	},
 	{
 		"name": "VENTS",
@@ -140,7 +141,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/16/2015",
+		"updated": "07/16/2015"
 	},
 	{
 		"name": "VERMS",
@@ -149,7 +150,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/14/2009",
+		"updated": "09/14/2009"
 	},
 	{
 		"name": "VERNY",
@@ -158,7 +159,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "VERRY",
@@ -167,7 +168,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/01/2015",
+		"updated": "05/01/2015"
 	},
 	{
 		"name": "VETEC",
@@ -176,7 +177,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/10/2014",
+		"updated": "11/10/2014"
 	},
 	{
 		"name": "VIIPR",
@@ -185,7 +186,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/16/2014",
+		"updated": "12/16/2014"
 	},
 	{
 		"name": "VIKUC",
@@ -194,7 +195,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/02/2008",
+		"updated": "12/02/2008"
 	},
 	{
 		"name": "VILLS",
@@ -203,7 +204,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "CYN*VORTAC*235.73/44.16",
+		"updated": "CYN*VORTAC*235.73/44.16"
 	},
 	{
 		"name": "VINER",
@@ -212,7 +213,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "VCN*VOR/DME*215.65/6.06",
+		"updated": "VCN*VOR/DME*215.65/6.06"
 	},
 	{
 		"name": "VINGR",
@@ -221,7 +222,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/21/2011",
+		"updated": "07/21/2011"
 	},
 	{
 		"name": "VIPKE",
@@ -230,7 +231,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "VIRGL",
@@ -239,7 +240,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "ILM*VORTAC*190.00/11.00",
+		"updated": "ILM*VORTAC*190.00/11.00"
 	},
 	{
 		"name": "VISOW",
@@ -248,7 +249,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "ORF*VORTAC*201.00/33.00",
+		"updated": "ORF*VORTAC*201.00/33.00"
 	},
 	{
 		"name": "VIYUC",
@@ -257,7 +258,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "FAY*VOR/DME*151.52/15.00",
+		"updated": "FAY*VOR/DME*151.52/15.00"
 	},
 	{
 		"name": "VOBIH",
@@ -266,7 +267,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/29/2012",
+		"updated": "11/29/2012"
 	},
 	{
 		"name": "VOJLO",
@@ -275,7 +276,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ORF*VORTAC*209.76/14.31",
+		"updated": "ORF*VORTAC*209.76/14.31"
 	},
 	{
 		"name": "VOUCH",
@@ -284,7 +285,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "MOL*VOR/DME*159.29",
+		"updated": "MOL*VOR/DME*159.29"
 	},
 	{
 		"name": "VOYUN",
@@ -293,7 +294,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "NJM*TACAN*085.60/2.00",
+		"updated": "NJM*TACAN*085.60/2.00"
 	},
 	{
 		"name": "VPACE",
@@ -302,7 +303,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "08/19/2009",
+		"updated": "08/19/2009"
 	},
 	{
 		"name": "VPATO",
@@ -311,7 +312,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "05/09/2002",
+		"updated": "05/09/2002"
 	},
 	{
 		"name": "VPAVA",
@@ -320,7 +321,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "05/09/2002",
+		"updated": "05/09/2002"
 	},
 	{
 		"name": "VPAXI",
@@ -329,7 +330,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "08/19/2009",
+		"updated": "08/19/2009"
 	},
 	{
 		"name": "VPBRA",
@@ -338,7 +339,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "05/09/2002",
+		"updated": "05/09/2002"
 	},
 	{
 		"name": "VPETS",
@@ -347,7 +348,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "12/07/2016",
+		"updated": "12/07/2016"
 	},
 	{
 		"name": "VPGCE",
@@ -356,7 +357,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "05/09/2002",
+		"updated": "05/09/2002"
 	},
 	{
 		"name": "VPGHI",
@@ -365,7 +366,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "05/09/2002",
+		"updated": "05/09/2002"
 	},
 	{
 		"name": "VPGIO",
@@ -374,7 +375,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "05/09/2002",
+		"updated": "05/09/2002"
 	},
 	{
 		"name": "VPINN",
@@ -383,7 +384,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "12/07/2016",
+		"updated": "12/07/2016"
 	},
 	{
 		"name": "VPKJU",
@@ -392,7 +393,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "05/09/2002",
+		"updated": "05/09/2002"
 	},
 	{
 		"name": "VPLMN",
@@ -401,7 +402,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "05/09/2002",
+		"updated": "05/09/2002"
 	},
 	{
 		"name": "VPMAB",
@@ -410,7 +411,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "05/09/2002",
+		"updated": "05/09/2002"
 	},
 	{
 		"name": "VPOKY",
@@ -419,7 +420,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "05/09/2002",
+		"updated": "05/09/2002"
 	},
 	{
 		"name": "VPONX",
@@ -428,7 +429,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "08/01/2002",
+		"updated": "08/01/2002"
 	},
 	{
 		"name": "VPOOP",
@@ -437,7 +438,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "11/29/2001",
+		"updated": "11/29/2001"
 	},
 	{
 		"name": "VPUMO",
@@ -446,7 +447,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "05/09/2002",
+		"updated": "05/09/2002"
 	},
 	{
 		"name": "VPWZO",
@@ -455,7 +456,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "VFR",
-		"updated": "05/09/2002",
+		"updated": "05/09/2002"
 	},
 	{
 		"name": "VUCUR",
@@ -464,7 +465,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/27/2013",
+		"updated": "09/27/2013"
 	},
 	{
 		"name": "VUDOO",
@@ -473,7 +474,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "VULUC",
@@ -482,7 +483,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/14/2011",
+		"updated": "06/14/2011"
 	},
 	{
 		"name": "VURZO",
@@ -491,7 +492,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/22/2009",
+		"updated": "07/22/2009"
 	},
 	{
 		"name": "VUSNE",
@@ -500,7 +501,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/06/2000",
+		"updated": "07/06/2000"
 	},
 	{
 		"name": "VUTCU",
@@ -509,7 +510,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "RNL*VOR*140.97",
+		"updated": "RNL*VOR*140.97"
 	},
 	{
 		"name": "VUVUC",
@@ -518,5 +519,6 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/05/2013",
-	},
+		"updated": "08/05/2013"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "GABEE",
 		"latitude": "40-30-37.47 N",
@@ -5,7 +6,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "EAR*VOR*212.35",
+		"updated": "EAR*VOR*212.35"
 	},
 	{
 		"name": "GADVY",
@@ -14,7 +15,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/16/2010",
+		"updated": "08/16/2010"
 	},
 	{
 		"name": "GAGPY",
@@ -23,7 +24,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/05/2012",
+		"updated": "06/05/2012"
 	},
 	{
 		"name": "GAGSY",
@@ -32,7 +33,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/04/2006",
+		"updated": "08/04/2006"
 	},
 	{
 		"name": "GAMAC",
@@ -41,7 +42,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/14/2011",
+		"updated": "10/14/2011"
 	},
 	{
 		"name": "GANDI",
@@ -50,7 +51,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "RCA*TACAN*313.00/30.00",
+		"updated": "RCA*TACAN*313.00/30.00"
 	},
 	{
 		"name": "GAPPY",
@@ -59,7 +60,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/26/2012",
+		"updated": "03/26/2012"
 	},
 	{
 		"name": "GARBE",
@@ -68,7 +69,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAR*VOR/DME*111.61/5.95",
+		"updated": "LAR*VOR/DME*111.61/5.95"
 	},
 	{
 		"name": "GASSS",
@@ -77,7 +78,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "GASTI",
@@ -86,7 +87,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "FQF*VORTAC*002.05",
+		"updated": "FQF*VORTAC*002.05"
 	},
 	{
 		"name": "GATTR",
@@ -95,7 +96,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "GAUGE",
@@ -104,7 +105,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/21/2016",
+		"updated": "07/21/2016"
 	},
 	{
 		"name": "GECEV",
@@ -113,7 +114,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "GEDVE",
@@ -122,7 +123,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "GEJYU",
@@ -131,7 +132,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*211.67/53.73",
+		"updated": "DBL*VOR/DME*211.67/53.73"
 	},
 	{
 		"name": "GEKTE",
@@ -140,7 +141,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/01/2001",
+		"updated": "11/01/2001"
 	},
 	{
 		"name": "GEMKY",
@@ -149,7 +150,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*239.52/24.89",
+		"updated": "ALS*VORTAC*239.52/24.89"
 	},
 	{
 		"name": "GENEC",
@@ -158,7 +159,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/04/2011",
+		"updated": "01/04/2011"
 	},
 	{
 		"name": "GEPYE",
@@ -167,7 +168,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/22/2005",
+		"updated": "12/22/2005"
 	},
 	{
 		"name": "GEREY",
@@ -176,7 +177,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/04/2011",
+		"updated": "01/04/2011"
 	},
 	{
 		"name": "GERON",
@@ -185,7 +186,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "AKO*VOR/DME*110.30/10.00",
+		"updated": "AKO*VOR/DME*110.30/10.00"
 	},
 	{
 		"name": "GERRO",
@@ -194,7 +195,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/19/2002",
+		"updated": "09/19/2002"
 	},
 	{
 		"name": "GESBE",
@@ -203,7 +204,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/29/2007",
+		"updated": "10/29/2007"
 	},
 	{
 		"name": "GIGDE",
@@ -212,7 +213,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/27/2006",
+		"updated": "11/27/2006"
 	},
 	{
 		"name": "GILYE",
@@ -221,7 +222,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LLT*LD*160.67/3.80",
+		"updated": "LLT*LD*160.67/3.80"
 	},
 	{
 		"name": "GINTH",
@@ -230,7 +231,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "GIPEC",
@@ -239,7 +240,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DDY*VOR/DME*222.48/27.00",
+		"updated": "DDY*VOR/DME*222.48/27.00"
 	},
 	{
 		"name": "GIRTH",
@@ -248,7 +249,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/26/2012",
+		"updated": "03/26/2012"
 	},
 	{
 		"name": "GISEY",
@@ -257,7 +258,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/09/2015",
+		"updated": "11/09/2015"
 	},
 	{
 		"name": "GISLE",
@@ -266,7 +267,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*301.38/15.28",
+		"updated": "ALS*VORTAC*301.38/15.28"
 	},
 	{
 		"name": "GISTT",
@@ -275,7 +276,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "GIVTE",
@@ -284,7 +285,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/29/2012",
+		"updated": "08/29/2012"
 	},
 	{
 		"name": "GIYIT",
@@ -293,7 +294,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/06/2005",
+		"updated": "04/06/2005"
 	},
 	{
 		"name": "GIZAB",
@@ -302,7 +303,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/04/2009",
+		"updated": "07/04/2009"
 	},
 	{
 		"name": "GIZQE",
@@ -311,7 +312,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/20/2009",
+		"updated": "03/20/2009"
 	},
 	{
 		"name": "GLDEN",
@@ -320,7 +321,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/02/2008",
+		"updated": "09/02/2008"
 	},
 	{
 		"name": "GLEES",
@@ -329,7 +330,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DDY*VOR/DME*105.87/22.00",
+		"updated": "DDY*VOR/DME*105.87/22.00"
 	},
 	{
 		"name": "GLENO",
@@ -338,7 +339,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*244.17/22.73",
+		"updated": "DBL*VOR/DME*244.17/22.73"
 	},
 	{
 		"name": "GLIMR",
@@ -347,7 +348,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BFF*VORTAC*173.35/63.00",
+		"updated": "BFF*VORTAC*173.35/63.00"
 	},
 	{
 		"name": "GLITR",
@@ -356,7 +357,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/06/2012",
+		"updated": "09/06/2012"
 	},
 	{
 		"name": "GLLAS",
@@ -365,7 +366,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/26/2017",
+		"updated": "07/26/2017"
 	},
 	{
 		"name": "GLUGS",
@@ -374,7 +375,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/31/2017",
+		"updated": "10/31/2017"
 	},
 	{
 		"name": "GNARR",
@@ -383,7 +384,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/19/2018",
+		"updated": "03/19/2018"
 	},
 	{
 		"name": "GNTRI",
@@ -392,7 +393,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/03/2008",
+		"updated": "09/03/2008"
 	},
 	{
 		"name": "GOAVS",
@@ -401,7 +402,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DVV*VORTAC*124.99/6.20",
+		"updated": "DVV*VORTAC*124.99/6.20"
 	},
 	{
 		"name": "GOCRU",
@@ -410,7 +411,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/05/2009",
+		"updated": "07/05/2009"
 	},
 	{
 		"name": "GODER",
@@ -419,7 +420,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*212.00/23.18",
+		"updated": "GLL*VOR/DME*212.00/23.18"
 	},
 	{
 		"name": "GODKE",
@@ -428,7 +429,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "GOERS",
@@ -437,7 +438,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/21/2016",
+		"updated": "07/21/2016"
 	},
 	{
 		"name": "GOFEN",
@@ -446,7 +447,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HDN*LD*W CRS/7.81",
+		"updated": "HDN*LD*W CRS/7.81"
 	},
 	{
 		"name": "GOHAR",
@@ -455,7 +456,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "RCA*TACAN*316.00/15.00",
+		"updated": "RCA*TACAN*316.00/15.00"
 	},
 	{
 		"name": "GOHLD",
@@ -464,7 +465,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/02/2014",
+		"updated": "07/02/2014"
 	},
 	{
 		"name": "GOLFN",
@@ -473,7 +474,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BXP*LD*352.54/19.74",
+		"updated": "BXP*LD*352.54/19.74"
 	},
 	{
 		"name": "GONEF",
@@ -482,7 +483,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/10/2017",
+		"updated": "08/10/2017"
 	},
 	{
 		"name": "GORJE",
@@ -491,7 +492,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "FQF*VORTAC*197.00/70.60",
+		"updated": "FQF*VORTAC*197.00/70.60"
 	},
 	{
 		"name": "GOROC",
@@ -500,7 +501,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "GOSIP",
@@ -509,7 +510,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*183.22/41.14",
+		"updated": "PUB*VORTAC*183.22/41.14"
 	},
 	{
 		"name": "GOULL",
@@ -518,7 +519,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*075.55/34.00",
+		"updated": "CHE*VOR/DME*075.55/34.00"
 	},
 	{
 		"name": "GOVID",
@@ -527,7 +528,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/03/2002",
+		"updated": "05/03/2002"
 	},
 	{
 		"name": "GOXEL",
@@ -536,7 +537,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/03/2002",
+		"updated": "05/03/2002"
 	},
 	{
 		"name": "GOYEP",
@@ -545,7 +546,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*257.63/6.69",
+		"updated": "PUB*VORTAC*257.63/6.69"
 	},
 	{
 		"name": "GRASP",
@@ -554,7 +555,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "FQF*VORTAC*014.18",
+		"updated": "FQF*VORTAC*014.18"
 	},
 	{
 		"name": "GREYS",
@@ -563,7 +564,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "GREYY",
@@ -572,7 +573,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "06/11/2013",
+		"updated": "06/11/2013"
 	},
 	{
 		"name": "GRIFS",
@@ -581,7 +582,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BXP*LD*352.54/13.89",
+		"updated": "BXP*LD*352.54/13.89"
 	},
 	{
 		"name": "GRIPP",
@@ -590,7 +591,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*139.23",
+		"updated": "DBL*VOR/DME*139.23"
 	},
 	{
 		"name": "GRMON",
@@ -599,7 +600,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/11/2017",
+		"updated": "12/11/2017"
 	},
 	{
 		"name": "GROVR",
@@ -608,7 +609,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "CYS*VORTAC*097.00/35.00",
+		"updated": "CYS*VORTAC*097.00/35.00"
 	},
 	{
 		"name": "GRRUB",
@@ -617,7 +618,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "GTMBA",
@@ -626,7 +627,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/17/2014",
+		"updated": "11/17/2014"
 	},
 	{
 		"name": "GUCVE",
@@ -635,7 +636,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/29/2013",
+		"updated": "10/29/2013"
 	},
 	{
 		"name": "GUDSE",
@@ -644,7 +645,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/21/2018",
+		"updated": "02/21/2018"
 	},
 	{
 		"name": "GUDXE",
@@ -653,7 +654,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "GUHYY",
@@ -662,7 +663,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "GUILT",
@@ -671,7 +672,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*145.00/26.00",
+		"updated": "DBL*VOR/DME*145.00/26.00"
 	},
 	{
 		"name": "GURNE",
@@ -680,7 +681,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/06/2002",
+		"updated": "11/06/2002"
 	},
 	{
 		"name": "GUSET",
@@ -689,7 +690,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "FQF*VORTAC*055.92",
+		"updated": "FQF*VORTAC*055.92"
 	},
 	{
 		"name": "GUVBE",
@@ -698,7 +699,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RSK*VORTAC*219.24/27.00",
+		"updated": "RSK*VORTAC*219.24/27.00"
 	},
 	{
 		"name": "GUVYU",
@@ -707,7 +708,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RLG*VOR/DME*294.35/10.00",
+		"updated": "RLG*VOR/DME*294.35/10.00"
 	},
 	{
 		"name": "GWEDO",
@@ -716,7 +717,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/17/2014",
+		"updated": "07/17/2014"
 	},
 	{
 		"name": "GWENS",
@@ -725,5 +726,6 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BXP*LD*352.54/17.60",
-	},
+		"updated": "BXP*LD*352.54/17.60"
+	}
+]

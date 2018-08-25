@@ -1,3 +1,4 @@
+[
 	{
 		"name": "CABAS",
 		"latitude": "34-37-33.15 N",
@@ -5,7 +6,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "CABGA",
@@ -14,7 +15,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*322.00/13.00",
+		"updated": "CBM*VORTAC*322.00/13.00"
 	},
 	{
 		"name": "CABUM",
@@ -23,7 +24,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2011",
+		"updated": "07/25/2011"
 	},
 	{
 		"name": "CABUV",
@@ -32,7 +33,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "CABVI",
@@ -41,7 +42,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*275.00/8.00",
+		"updated": "CBM*VORTAC*275.00/8.00"
 	},
 	{
 		"name": "CACAC",
@@ -50,7 +51,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "PBF*VOR/DME*318.00/8.00",
+		"updated": "PBF*VOR/DME*318.00/8.00"
 	},
 	{
 		"name": "CACAL",
@@ -59,7 +60,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/11/2003",
+		"updated": "09/11/2003"
 	},
 	{
 		"name": "CACEE",
@@ -68,7 +69,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GCV*VORTAC*001.92",
+		"updated": "GCV*VORTAC*001.92"
 	},
 	{
 		"name": "CADAN",
@@ -77,7 +78,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HRO*VOR/DME*091.82/10.37",
+		"updated": "HRO*VOR/DME*091.82/10.37"
 	},
 	{
 		"name": "CADBO",
@@ -86,7 +87,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/05/2009",
+		"updated": "05/05/2009"
 	},
 	{
 		"name": "CADEM",
@@ -95,7 +96,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2011",
+		"updated": "07/25/2011"
 	},
 	{
 		"name": "CADOS",
@@ -104,7 +105,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MWA*VOR/DME*185.00",
+		"updated": "MWA*VOR/DME*185.00"
 	},
 	{
 		"name": "CADUS",
@@ -113,7 +114,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "OHN*LD*179.99/6.70",
+		"updated": "OHN*LD*179.99/6.70"
 	},
 	{
 		"name": "CAGAC",
@@ -122,7 +123,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/03/2011",
+		"updated": "05/03/2011"
 	},
 	{
 		"name": "CAGAK",
@@ -131,7 +132,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/17/2010",
+		"updated": "03/17/2010"
 	},
 	{
 		"name": "CAGBI",
@@ -140,7 +141,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/26/2013",
+		"updated": "04/26/2013"
 	},
 	{
 		"name": "CAGIK",
@@ -149,7 +150,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "CAGIS",
@@ -158,7 +159,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/21/2008",
+		"updated": "07/21/2008"
 	},
 	{
 		"name": "CAGUD",
@@ -167,7 +168,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/28/2010",
+		"updated": "03/28/2010"
 	},
 	{
 		"name": "CAKEK",
@@ -176,7 +177,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/02/2013",
+		"updated": "08/02/2013"
 	},
 	{
 		"name": "CAKPI",
@@ -185,7 +186,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "NMM*TACAN*005.74/2.00",
+		"updated": "NMM*TACAN*005.74/2.00"
 	},
 	{
 		"name": "CALAY",
@@ -194,7 +195,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LIT*VORTAC*029.69/13.77",
+		"updated": "LIT*VORTAC*029.69/13.77"
 	},
 	{
 		"name": "CALET",
@@ -203,7 +204,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*135.85/16.00",
+		"updated": "BNA*VORTAC*135.85/16.00"
 	},
 	{
 		"name": "CAMIK",
@@ -212,7 +213,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/20/2007",
+		"updated": "08/20/2007"
 	},
 	{
 		"name": "CAMOE",
@@ -221,7 +222,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SQS*VORTAC*145.00/21.00",
+		"updated": "SQS*VORTAC*145.00/21.00"
 	},
 	{
 		"name": "CAMPA",
@@ -230,7 +231,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RZC*VORTAC*176.00/15.00",
+		"updated": "RZC*VORTAC*176.00/15.00"
 	},
 	{
 		"name": "CANEY",
@@ -239,7 +240,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LIT*VORTAC*230.00/50.32",
+		"updated": "LIT*VORTAC*230.00/50.32"
 	},
 	{
 		"name": "CANOD",
@@ -248,7 +249,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MAW*VORTAC*300.33/10.50",
+		"updated": "MAW*VORTAC*300.33/10.50"
 	},
 	{
 		"name": "CANPA",
@@ -257,7 +258,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/28/2004",
+		"updated": "01/28/2004"
 	},
 	{
 		"name": "CAPEB",
@@ -266,7 +267,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "PGO*VORTAC*354.49/20.12",
+		"updated": "PGO*VORTAC*354.49/20.12"
 	},
 	{
 		"name": "CAPOW",
@@ -275,7 +276,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*135.19/6.00",
+		"updated": "BNA*VORTAC*135.19/6.00"
 	},
 	{
 		"name": "CARAP",
@@ -284,7 +285,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "CARIN",
@@ -293,7 +294,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/08/2011",
+		"updated": "05/08/2011"
 	},
 	{
 		"name": "CARIP",
@@ -302,7 +303,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "CARUX",
@@ -311,7 +312,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/21/2017",
+		"updated": "12/21/2017"
 	},
 	{
 		"name": "CASKS",
@@ -320,7 +321,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RZC*VORTAC*150.17/31.58",
+		"updated": "RZC*VORTAC*150.17/31.58"
 	},
 	{
 		"name": "CASLN",
@@ -329,7 +330,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/30/2013",
+		"updated": "09/30/2013"
 	},
 	{
 		"name": "CASOT",
@@ -338,7 +339,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "PXV*VORTAC*202.96/110.00",
+		"updated": "PXV*VORTAC*202.96/110.00"
 	},
 	{
 		"name": "CATEX",
@@ -347,7 +348,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RZC*VORTAC*080.15/8.00",
+		"updated": "RZC*VORTAC*080.15/8.00"
 	},
 	{
 		"name": "CATGO",
@@ -356,7 +357,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/06/2017",
+		"updated": "03/06/2017"
 	},
 	{
 		"name": "CATIP",
@@ -365,7 +366,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/09/2016",
+		"updated": "05/09/2016"
 	},
 	{
 		"name": "CATIS",
@@ -374,7 +375,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/27/2016",
+		"updated": "01/27/2016"
 	},
 	{
 		"name": "CATOV",
@@ -383,7 +384,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/17/2015",
+		"updated": "09/17/2015"
 	},
 	{
 		"name": "CATTI",
@@ -392,7 +393,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GCV*VORTAC*309.91/43.00",
+		"updated": "GCV*VORTAC*309.91/43.00"
 	},
 	{
 		"name": "CATVU",
@@ -401,7 +402,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/08/2006",
+		"updated": "12/08/2006"
 	},
 	{
 		"name": "CAVEK",
@@ -410,7 +411,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/25/2003",
+		"updated": "02/25/2003"
 	},
 	{
 		"name": "CAVIK",
@@ -419,7 +420,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2016",
+		"updated": "06/16/2016"
 	},
 	{
 		"name": "CAVOD",
@@ -428,7 +429,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "CAVPU",
@@ -437,7 +438,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "12/10/2015",
+		"updated": "12/10/2015"
 	},
 	{
 		"name": "CAVTO",
@@ -446,7 +447,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/06/2015",
+		"updated": "10/06/2015"
 	},
 	{
 		"name": "CAXOV",
@@ -455,7 +456,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HLI*VORTAC*181.95/21.50",
+		"updated": "HLI*VORTAC*181.95/21.50"
 	},
 	{
 		"name": "CAYAD",
@@ -464,7 +465,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MHZ*VORTAC*172.13/13.48",
+		"updated": "MHZ*VORTAC*172.13/13.48"
 	},
 	{
 		"name": "CAYAP",
@@ -473,7 +474,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LDK*VORTAC*301.00/7.00",
+		"updated": "LDK*VORTAC*301.00/7.00"
 	},
 	{
 		"name": "CAYRA",
@@ -482,7 +483,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/27/2004",
+		"updated": "07/27/2004"
 	},
 	{
 		"name": "CEASE",
@@ -491,7 +492,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/09/2015",
+		"updated": "12/09/2015"
 	},
 	{
 		"name": "CEBDA",
@@ -500,7 +501,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*015.75/11.00",
+		"updated": "BNA*VORTAC*015.75/11.00"
 	},
 	{
 		"name": "CEBVU",
@@ -509,7 +510,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/15/2008",
+		"updated": "09/15/2008"
 	},
 	{
 		"name": "CECAB",
@@ -518,7 +519,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*138.57",
+		"updated": "DCU*VOR/DME*138.57"
 	},
 	{
 		"name": "CECAR",
@@ -527,7 +528,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GLH*VOR/DME*091.57/12.00",
+		"updated": "GLH*VOR/DME*091.57/12.00"
 	},
 	{
 		"name": "CECAV",
@@ -536,7 +537,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/27/2012",
+		"updated": "02/27/2012"
 	},
 	{
 		"name": "CEDAS",
@@ -545,7 +546,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/08/2006",
+		"updated": "12/08/2006"
 	},
 	{
 		"name": "CEDEN",
@@ -554,7 +555,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/15/2013",
+		"updated": "10/15/2013"
 	},
 	{
 		"name": "CEDIK",
@@ -563,7 +564,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/28/2008",
+		"updated": "04/28/2008"
 	},
 	{
 		"name": "CEDKA",
@@ -572,7 +573,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/28/2013",
+		"updated": "10/28/2013"
 	},
 	{
 		"name": "CEDVA",
@@ -581,7 +582,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/03/2014",
+		"updated": "11/03/2014"
 	},
 	{
 		"name": "CEGEM",
@@ -590,7 +591,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/28/2007",
+		"updated": "12/28/2007"
 	},
 	{
 		"name": "CEKBI",
@@ -599,7 +600,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/18/2013",
+		"updated": "07/18/2013"
 	},
 	{
 		"name": "CEKSU",
@@ -608,7 +609,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*122.00/13.00",
+		"updated": "CBM*VORTAC*122.00/13.00"
 	},
 	{
 		"name": "CELED",
@@ -617,7 +618,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/30/2003",
+		"updated": "06/30/2003"
 	},
 	{
 		"name": "CELES",
@@ -626,7 +627,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/25/2009",
+		"updated": "03/25/2009"
 	},
 	{
 		"name": "CEMTO",
@@ -635,7 +636,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/20/2007",
+		"updated": "08/20/2007"
 	},
 	{
 		"name": "CEMUK",
@@ -644,7 +645,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HRO*VOR/DME*091.82/42.96",
+		"updated": "HRO*VOR/DME*091.82/42.96"
 	},
 	{
 		"name": "CEMVU",
@@ -653,7 +654,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/02/2009",
+		"updated": "11/02/2009"
 	},
 	{
 		"name": "CENOK",
@@ -662,7 +663,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/30/2017",
+		"updated": "06/30/2017"
 	},
 	{
 		"name": "CENOP",
@@ -671,7 +672,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SYI*VOR/DME*045.92/16.65",
+		"updated": "SYI*VOR/DME*045.92/16.65"
 	},
 	{
 		"name": "CEPAX",
@@ -680,7 +681,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/14/2009",
+		"updated": "07/14/2009"
 	},
 	{
 		"name": "CERAH",
@@ -689,7 +690,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/17/2012",
+		"updated": "09/17/2012"
 	},
 	{
 		"name": "CERCY",
@@ -698,7 +699,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DSY*LD*S CRS/6.07",
+		"updated": "DSY*LD*S CRS/6.07"
 	},
 	{
 		"name": "CERKA",
@@ -707,7 +708,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "CESAG",
@@ -716,7 +717,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2011",
+		"updated": "07/25/2011"
 	},
 	{
 		"name": "CESAM",
@@ -725,7 +726,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/04/2013",
+		"updated": "12/04/2013"
 	},
 	{
 		"name": "CESEX",
@@ -734,7 +735,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/19/2017",
+		"updated": "10/19/2017"
 	},
 	{
 		"name": "CESMA",
@@ -743,7 +744,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/20/2013",
+		"updated": "05/20/2013"
 	},
 	{
 		"name": "CESPA",
@@ -752,7 +753,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*122.00/5.80",
+		"updated": "CBM*VORTAC*122.00/5.80"
 	},
 	{
 		"name": "CESRO",
@@ -761,7 +762,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/05/2009",
+		"updated": "05/05/2009"
 	},
 	{
 		"name": "CETEC",
@@ -770,7 +771,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/29/2016",
+		"updated": "07/29/2016"
 	},
 	{
 		"name": "CEVSI",
@@ -779,7 +780,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "OTB*VOR/DME*235.00/12.00",
+		"updated": "OTB*VOR/DME*235.00/12.00"
 	},
 	{
 		"name": "CEVUT",
@@ -788,7 +789,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "10/06/2008",
+		"updated": "10/06/2008"
 	},
 	{
 		"name": "CEXOP",
@@ -797,7 +798,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*137.00/1.20",
+		"updated": "CBM*VORTAC*137.00/1.20"
 	},
 	{
 		"name": "CEZXI",
@@ -806,7 +807,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/30/2001",
+		"updated": "10/30/2001"
 	},
 	{
 		"name": "CFBCL",
@@ -815,7 +816,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "01/26/2012",
+		"updated": "01/26/2012"
 	},
 	{
 		"name": "CFBCQ",
@@ -824,7 +825,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "01/26/2012",
+		"updated": "01/26/2012"
 	},
 	{
 		"name": "CFBGP",
@@ -833,7 +834,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "04/16/2012",
+		"updated": "04/16/2012"
 	},
 	{
 		"name": "CFBMV",
@@ -842,7 +843,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "07/08/2013",
+		"updated": "07/08/2013"
 	},
 	{
 		"name": "CFBNL",
@@ -851,7 +852,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "01/26/2012",
+		"updated": "01/26/2012"
 	},
 	{
 		"name": "CFBSN",
@@ -860,7 +861,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "11/03/2013",
+		"updated": "11/03/2013"
 	},
 	{
 		"name": "CFBUJ",
@@ -869,7 +870,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "11/01/1999",
+		"updated": "11/01/1999"
 	},
 	{
 		"name": "CFBXL",
@@ -878,7 +879,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "07/29/2016",
+		"updated": "07/29/2016"
 	},
 	{
 		"name": "CFCEO",
@@ -887,7 +888,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "04/06/2001",
+		"updated": "04/06/2001"
 	},
 	{
 		"name": "CFCJK",
@@ -896,7 +897,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "09/06/2017",
+		"updated": "09/06/2017"
 	},
 	{
 		"name": "CFDDE",
@@ -905,7 +906,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "CFDRQ",
@@ -914,7 +915,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "07/08/2013",
+		"updated": "07/08/2013"
 	},
 	{
 		"name": "CFERU",
@@ -923,7 +924,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "10/06/2000",
+		"updated": "10/06/2000"
 	},
 	{
 		"name": "CFFJB",
@@ -932,7 +933,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "06/03/2014",
+		"updated": "06/03/2014"
 	},
 	{
 		"name": "CFFJC",
@@ -941,7 +942,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "06/03/2014",
+		"updated": "06/03/2014"
 	},
 	{
 		"name": "CFFJD",
@@ -950,7 +951,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "06/03/2014",
+		"updated": "06/03/2014"
 	},
 	{
 		"name": "CFFJF",
@@ -959,7 +960,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "06/03/2014",
+		"updated": "06/03/2014"
 	},
 	{
 		"name": "CFFJG",
@@ -968,7 +969,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "09/14/2012",
+		"updated": "09/14/2012"
 	},
 	{
 		"name": "CFFJH",
@@ -977,7 +978,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "06/03/2014",
+		"updated": "06/03/2014"
 	},
 	{
 		"name": "CFFSP",
@@ -986,7 +987,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "02/28/2017",
+		"updated": "02/28/2017"
 	},
 	{
 		"name": "CFFYI",
@@ -995,7 +996,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "CFGBF",
@@ -1004,7 +1005,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "01/29/2013",
+		"updated": "01/29/2013"
 	},
 	{
 		"name": "CFNQR",
@@ -1013,7 +1014,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "06/18/2012",
+		"updated": "06/18/2012"
 	},
 	{
 		"name": "CFPVH",
@@ -1022,7 +1023,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "05/08/2017",
+		"updated": "05/08/2017"
 	},
 	{
 		"name": "CFVGF",
@@ -1031,7 +1032,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "11/17/2017",
+		"updated": "11/17/2017"
 	},
 	{
 		"name": "CFVGN",
@@ -1040,7 +1041,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "07/21/2016",
+		"updated": "07/21/2016"
 	},
 	{
 		"name": "CFVTB",
@@ -1049,7 +1050,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "CFVTC",
@@ -1058,7 +1059,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "09/14/2012",
+		"updated": "09/14/2012"
 	},
 	{
 		"name": "CFVTD",
@@ -1067,7 +1068,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "CFVTF",
@@ -1076,7 +1077,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "CFVTG",
@@ -1085,7 +1086,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "CFVTH",
@@ -1094,7 +1095,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "CFVTJ",
@@ -1103,7 +1104,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "CFVTK",
@@ -1112,7 +1113,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "CFVTL",
@@ -1121,7 +1122,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "CFVTM",
@@ -1130,7 +1131,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "CFVTN",
@@ -1139,7 +1140,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "09/14/2012",
+		"updated": "09/14/2012"
 	},
 	{
 		"name": "CFVTP",
@@ -1148,7 +1149,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "CHADM",
@@ -1157,7 +1158,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/17/2012",
+		"updated": "09/17/2012"
 	},
 	{
 		"name": "CHANN",
@@ -1166,7 +1167,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LRF*TACAN*236.00/3.00",
+		"updated": "LRF*TACAN*236.00/3.00"
 	},
 	{
 		"name": "CHARR",
@@ -1175,7 +1176,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "FSM*VORTAC*104.85/16.26",
+		"updated": "FSM*VORTAC*104.85/16.26"
 	},
 	{
 		"name": "CHEKA",
@@ -1184,7 +1185,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/14/2009",
+		"updated": "07/14/2009"
 	},
 	{
 		"name": "CHESO",
@@ -1193,7 +1194,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "OKM*VOR/DME*086.00/79.50",
+		"updated": "OKM*VOR/DME*086.00/79.50"
 	},
 	{
 		"name": "CHETO",
@@ -1202,7 +1203,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/10/2012",
+		"updated": "02/10/2012"
 	},
 	{
 		"name": "CHEZY",
@@ -1211,7 +1212,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "CHIEF",
@@ -1220,7 +1221,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/09/2009",
+		"updated": "01/09/2009"
 	},
 	{
 		"name": "CHLDR",
@@ -1229,7 +1230,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/11/2012",
+		"updated": "01/11/2012"
 	},
 	{
 		"name": "CHNUK",
@@ -1238,7 +1239,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "11/17/2017",
+		"updated": "11/17/2017"
 	},
 	{
 		"name": "CHPPY",
@@ -1247,7 +1248,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/17/2012",
+		"updated": "09/17/2012"
 	},
 	{
 		"name": "CHRLS",
@@ -1256,7 +1257,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/03/2009",
+		"updated": "09/03/2009"
 	},
 	{
 		"name": "CHSNE",
@@ -1265,7 +1266,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "CIAAA",
@@ -1274,7 +1275,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MCB*VORTAC*000.65/25.00",
+		"updated": "MCB*VORTAC*000.65/25.00"
 	},
 	{
 		"name": "CIBDA",
@@ -1283,7 +1284,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "PMU*LE*010.75/6.02",
+		"updated": "PMU*LE*010.75/6.02"
 	},
 	{
 		"name": "CICAB",
@@ -1292,7 +1293,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/21/2006",
+		"updated": "07/21/2006"
 	},
 	{
 		"name": "CICAL",
@@ -1301,7 +1302,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "EVO*LE*180.54/6.21",
+		"updated": "EVO*LE*180.54/6.21"
 	},
 	{
 		"name": "CICAP",
@@ -1310,7 +1311,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/27/2004",
+		"updated": "07/27/2004"
 	},
 	{
 		"name": "CICBY",
@@ -1319,7 +1320,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/12/2011",
+		"updated": "07/12/2011"
 	},
 	{
 		"name": "CICDA",
@@ -1328,7 +1329,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/07/2005",
+		"updated": "03/07/2005"
 	},
 	{
 		"name": "CIGDA",
@@ -1337,7 +1338,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MHZ*VORTAC*271.06/27.46",
+		"updated": "MHZ*VORTAC*271.06/27.46"
 	},
 	{
 		"name": "CIGYA",
@@ -1346,7 +1347,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "04/08/2009",
+		"updated": "04/08/2009"
 	},
 	{
 		"name": "CIKOB",
@@ -1355,7 +1356,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/25/2014",
+		"updated": "02/25/2014"
 	},
 	{
 		"name": "CIKPU",
@@ -1364,7 +1365,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "JBR*VOR/DME*170.28/9.00",
+		"updated": "JBR*VOR/DME*170.28/9.00"
 	},
 	{
 		"name": "CILEL",
@@ -1373,7 +1374,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/18/2008",
+		"updated": "08/18/2008"
 	},
 	{
 		"name": "CIMIV",
@@ -1382,7 +1383,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "CINVO",
@@ -1391,7 +1392,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/17/2015",
+		"updated": "09/17/2015"
 	},
 	{
 		"name": "CIPOG",
@@ -1400,7 +1401,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2011",
+		"updated": "06/16/2011"
 	},
 	{
 		"name": "CIPOP",
@@ -1409,7 +1410,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/01/2004",
+		"updated": "10/01/2004"
 	},
 	{
 		"name": "CIROR",
@@ -1418,7 +1419,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/19/2012",
+		"updated": "09/19/2012"
 	},
 	{
 		"name": "CIRPI",
@@ -1427,7 +1428,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/23/2011",
+		"updated": "12/23/2011"
 	},
 	{
 		"name": "CISAX",
@@ -1436,7 +1437,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "CISIL",
@@ -1445,7 +1446,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "CISOG",
@@ -1454,7 +1455,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/24/2010",
+		"updated": "03/24/2010"
 	},
 	{
 		"name": "CITAC",
@@ -1463,7 +1464,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SQS*VORTAC*270.82/19.00",
+		"updated": "SQS*VORTAC*270.82/19.00"
 	},
 	{
 		"name": "CITAN",
@@ -1472,7 +1473,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/14/2012",
+		"updated": "06/14/2012"
 	},
 	{
 		"name": "CITBY",
@@ -1481,7 +1482,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/23/2013",
+		"updated": "04/23/2013"
 	},
 	{
 		"name": "CITGA",
@@ -1490,7 +1491,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "EOS*VOR/DME*118.63",
+		"updated": "EOS*VOR/DME*118.63"
 	},
 	{
 		"name": "CIVAK",
@@ -1499,7 +1500,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/27/2012",
+		"updated": "02/27/2012"
 	},
 	{
 		"name": "CIVAY",
@@ -1508,7 +1509,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/18/2010",
+		"updated": "06/18/2010"
 	},
 	{
 		"name": "CIVEN",
@@ -1517,7 +1518,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "CIVKI",
@@ -1526,7 +1527,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/16/2014",
+		"updated": "01/16/2014"
 	},
 	{
 		"name": "CIVMU",
@@ -1535,7 +1536,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "CIVOM",
@@ -1544,7 +1545,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/20/2014",
+		"updated": "02/20/2014"
 	},
 	{
 		"name": "CIVUX",
@@ -1553,7 +1554,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/15/2008",
+		"updated": "09/15/2008"
 	},
 	{
 		"name": "CIXIR",
@@ -1562,7 +1563,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/18/2013",
+		"updated": "06/18/2013"
 	},
 	{
 		"name": "CLAIR",
@@ -1571,7 +1572,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*305.08/6.00",
+		"updated": "BNA*VORTAC*305.08/6.00"
 	},
 	{
 		"name": "CLARK",
@@ -1580,7 +1581,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*045.00/8.00",
+		"updated": "MEM*VORTAC*045.00/8.00"
 	},
 	{
 		"name": "CLBRN",
@@ -1589,7 +1590,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*068.00",
+		"updated": "MEM*VORTAC*068.00"
 	},
 	{
 		"name": "CLBTY",
@@ -1598,7 +1599,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/28/2014",
+		"updated": "05/28/2014"
 	},
 	{
 		"name": "CLERK",
@@ -1607,7 +1608,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "SYI*VOR/DME*153.00",
+		"updated": "SYI*VOR/DME*153.00"
 	},
 	{
 		"name": "CLOUT",
@@ -1616,7 +1617,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "OTB*VOR/DME*180.85",
+		"updated": "OTB*VOR/DME*180.85"
 	},
 	{
 		"name": "COCAR",
@@ -1625,7 +1626,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/17/2011",
+		"updated": "02/17/2011"
 	},
 	{
 		"name": "COCHE",
@@ -1634,7 +1635,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/23/2013",
+		"updated": "04/23/2013"
 	},
 	{
 		"name": "COCTA",
@@ -1643,7 +1644,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/14/2006",
+		"updated": "03/14/2006"
 	},
 	{
 		"name": "CODCA",
@@ -1652,7 +1653,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/23/2011",
+		"updated": "12/23/2011"
 	},
 	{
 		"name": "CODED",
@@ -1661,7 +1662,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/03/2009",
+		"updated": "09/03/2009"
 	},
 	{
 		"name": "CODGA",
@@ -1670,7 +1671,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/18/2008",
+		"updated": "08/18/2008"
 	},
 	{
 		"name": "CODYB",
@@ -1679,7 +1680,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/14/2010",
+		"updated": "09/14/2010"
 	},
 	{
 		"name": "COGIK",
@@ -1688,7 +1689,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/01/2005",
+		"updated": "09/01/2005"
 	},
 	{
 		"name": "COGTO",
@@ -1697,7 +1698,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "COGUP",
@@ -1706,7 +1707,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/17/2015",
+		"updated": "09/17/2015"
 	},
 	{
 		"name": "COKAL",
@@ -1715,7 +1716,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/19/2017",
+		"updated": "09/19/2017"
 	},
 	{
 		"name": "COLAP",
@@ -1724,7 +1725,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RQZ*VORTAC*313.29/29.00",
+		"updated": "RQZ*VORTAC*313.29/29.00"
 	},
 	{
 		"name": "COLBU",
@@ -1733,7 +1734,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/27/2011",
+		"updated": "09/27/2011"
 	},
 	{
 		"name": "COMAR",
@@ -1742,7 +1743,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RMG*VORTAC*329.38/51.56",
+		"updated": "RMG*VORTAC*329.38/51.56"
 	},
 	{
 		"name": "COMBT",
@@ -1751,7 +1752,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/27/2015",
+		"updated": "01/27/2015"
 	},
 	{
 		"name": "CONDR",
@@ -1760,7 +1761,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/14/2012",
+		"updated": "06/14/2012"
 	},
 	{
 		"name": "CONIE",
@@ -1769,7 +1770,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/12/2012",
+		"updated": "09/12/2012"
 	},
 	{
 		"name": "CONIP",
@@ -1778,7 +1779,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RZC*VORTAC*287.01/27.00",
+		"updated": "RZC*VORTAC*287.01/27.00"
 	},
 	{
 		"name": "CONVO",
@@ -1787,7 +1788,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "COOGR",
@@ -1796,7 +1797,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/17/2012",
+		"updated": "09/17/2012"
 	},
 	{
 		"name": "COOMB",
@@ -1805,7 +1806,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/15/2015",
+		"updated": "12/15/2015"
 	},
 	{
 		"name": "COPCO",
@@ -1814,7 +1815,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MON*VOR/DME*075.00/27.00",
+		"updated": "MON*VOR/DME*075.00/27.00"
 	},
 	{
 		"name": "COPEN",
@@ -1823,7 +1824,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/14/2012",
+		"updated": "06/14/2012"
 	},
 	{
 		"name": "COPUN",
@@ -1832,7 +1833,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/18/2013",
+		"updated": "06/18/2013"
 	},
 	{
 		"name": "CORRA",
@@ -1841,7 +1842,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/28/2012",
+		"updated": "09/28/2012"
 	},
 	{
 		"name": "COSAD",
@@ -1850,7 +1851,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/27/2014",
+		"updated": "01/27/2014"
 	},
 	{
 		"name": "COSOB",
@@ -1859,7 +1860,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*138.00/3.40",
+		"updated": "CBM*VORTAC*138.00/3.40"
 	},
 	{
 		"name": "COSOR",
@@ -1868,7 +1869,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/05/2013",
+		"updated": "12/05/2013"
 	},
 	{
 		"name": "COTIN",
@@ -1877,7 +1878,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*051.28",
+		"updated": "DCU*VOR/DME*051.28"
 	},
 	{
 		"name": "COTMU",
@@ -1886,7 +1887,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SQS*VORTAC*076.32/6.90",
+		"updated": "SQS*VORTAC*076.32/6.90"
 	},
 	{
 		"name": "COVBI",
@@ -1895,7 +1896,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/19/2012",
+		"updated": "09/19/2012"
 	},
 	{
 		"name": "COVIM",
@@ -1904,7 +1905,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HLI*VORTAC*322.19",
+		"updated": "HLI*VORTAC*322.19"
 	},
 	{
 		"name": "COVNO",
@@ -1913,7 +1914,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/17/2014",
+		"updated": "09/17/2014"
 	},
 	{
 		"name": "COXAX",
@@ -1922,7 +1923,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/22/2003",
+		"updated": "12/22/2003"
 	},
 	{
 		"name": "COXES",
@@ -1931,7 +1932,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SUZ*LD*198.98/3.42",
+		"updated": "SUZ*LD*198.98/3.42"
 	},
 	{
 		"name": "COXUB",
@@ -1940,7 +1941,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/21/2010",
+		"updated": "10/21/2010"
 	},
 	{
 		"name": "COYAB",
@@ -1949,7 +1950,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BPK*LD*SW CRS/11.35",
+		"updated": "BPK*LD*SW CRS/11.35"
 	},
 	{
 		"name": "COYAT",
@@ -1958,7 +1959,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DYR*VORTAC*071.34/10.00",
+		"updated": "DYR*VORTAC*071.34/10.00"
 	},
 	{
 		"name": "COYGA",
@@ -1967,7 +1968,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEI*VORTAC*310.81/10.00",
+		"updated": "MEI*VORTAC*310.81/10.00"
 	},
 	{
 		"name": "COYMC",
@@ -1976,7 +1977,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/24/2013",
+		"updated": "01/24/2013"
 	},
 	{
 		"name": "COYPU",
@@ -1985,7 +1986,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/17/2015",
+		"updated": "09/17/2015"
 	},
 	{
 		"name": "CPLAN",
@@ -1994,7 +1995,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/04/2013",
+		"updated": "12/04/2013"
 	},
 	{
 		"name": "CRAMM",
@@ -2003,7 +2004,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HLI*VORTAC*101.99/30.65",
+		"updated": "HLI*VORTAC*101.99/30.65"
 	},
 	{
 		"name": "CRAMP",
@@ -2012,7 +2013,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/03/2016",
+		"updated": "05/03/2016"
 	},
 	{
 		"name": "CRAMR",
@@ -2021,7 +2022,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SSX*LD*N CRS/9.12",
+		"updated": "SSX*LD*N CRS/9.12"
 	},
 	{
 		"name": "CRELL",
@@ -2030,7 +2031,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2011",
+		"updated": "05/06/2011"
 	},
 	{
 		"name": "CRINK",
@@ -2039,7 +2040,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "UJM*VOR/DME*122.28",
+		"updated": "UJM*VOR/DME*122.28"
 	},
 	{
 		"name": "CRSON",
@@ -2048,7 +2049,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/22/2017",
+		"updated": "06/22/2017"
 	},
 	{
 		"name": "CTHRN",
@@ -2057,7 +2058,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/28/2012",
+		"updated": "02/28/2012"
 	},
 	{
 		"name": "CUBIN",
@@ -2066,7 +2067,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/22/2003",
+		"updated": "12/22/2003"
 	},
 	{
 		"name": "CUBOP",
@@ -2075,7 +2076,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/03/2009",
+		"updated": "09/03/2009"
 	},
 	{
 		"name": "CUBRO",
@@ -2084,7 +2085,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/17/2018",
+		"updated": "04/17/2018"
 	},
 	{
 		"name": "CUBVA",
@@ -2093,7 +2094,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/07/2006",
+		"updated": "08/07/2006"
 	},
 	{
 		"name": "CUCAL",
@@ -2102,7 +2103,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BVX*LE*258.80/4.56",
+		"updated": "BVX*LE*258.80/4.56"
 	},
 	{
 		"name": "CUDEN",
@@ -2111,7 +2112,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*179.00/15.00",
+		"updated": "CBM*VORTAC*179.00/15.00"
 	},
 	{
 		"name": "CUFGO",
@@ -2120,7 +2121,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/08/2007",
+		"updated": "06/08/2007"
 	},
 	{
 		"name": "CUGOS",
@@ -2129,7 +2130,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/03/2013",
+		"updated": "07/03/2013"
 	},
 	{
 		"name": "CUKOR",
@@ -2138,7 +2139,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/11/2003",
+		"updated": "12/11/2003"
 	},
 	{
 		"name": "CUKVA",
@@ -2147,7 +2148,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/04/2007",
+		"updated": "01/04/2007"
 	},
 	{
 		"name": "CULAR",
@@ -2156,7 +2157,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "CULEL",
@@ -2165,7 +2166,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/08/2007",
+		"updated": "06/08/2007"
 	},
 	{
 		"name": "CULPO",
@@ -2174,7 +2175,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/24/2011",
+		"updated": "06/24/2011"
 	},
 	{
 		"name": "CUMDI",
@@ -2183,7 +2184,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/18/2010",
+		"updated": "04/18/2010"
 	},
 	{
 		"name": "CUMLI",
@@ -2192,7 +2193,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "NMM*TACAN*009.00/5.22",
+		"updated": "NMM*TACAN*009.00/5.22"
 	},
 	{
 		"name": "CUMPI",
@@ -2201,7 +2202,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/17/2010",
+		"updated": "03/17/2010"
 	},
 	{
 		"name": "CUNEV",
@@ -2210,7 +2211,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MHZ*VORTAC*093.55/46.00",
+		"updated": "MHZ*VORTAC*093.55/46.00"
 	},
 	{
 		"name": "CUNSU",
@@ -2219,7 +2220,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/03/2014",
+		"updated": "06/03/2014"
 	},
 	{
 		"name": "CUREP",
@@ -2228,7 +2229,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "CURES",
@@ -2237,7 +2238,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MON*VOR/DME*075.00/21.00",
+		"updated": "MON*VOR/DME*075.00/21.00"
 	},
 	{
 		"name": "CURPO",
@@ -2246,7 +2247,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MAW*VORTAC*194.18/14.37",
+		"updated": "MAW*VORTAC*194.18/14.37"
 	},
 	{
 		"name": "CUSAG",
@@ -2255,7 +2256,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/24/2014",
+		"updated": "02/24/2014"
 	},
 	{
 		"name": "CUSHN",
@@ -2264,7 +2265,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "MEI*VORTAC*240.00/20.00",
+		"updated": "MEI*VORTAC*240.00/20.00"
 	},
 	{
 		"name": "CUSUT",
@@ -2273,7 +2274,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/19/2012",
+		"updated": "09/19/2012"
 	},
 	{
 		"name": "CUTUM",
@@ -2282,7 +2283,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "LRF*TACAN*236.00/1.00",
+		"updated": "LRF*TACAN*236.00/1.00"
 	},
 	{
 		"name": "CUVDO",
@@ -2291,7 +2292,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/30/2017",
+		"updated": "06/30/2017"
 	},
 	{
 		"name": "CUVEN",
@@ -2300,7 +2301,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MHZ*VORTAC*172.13/20.00",
+		"updated": "MHZ*VORTAC*172.13/20.00"
 	},
 	{
 		"name": "CUVID",
@@ -2309,7 +2310,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/16/2016",
+		"updated": "05/16/2016"
 	},
 	{
 		"name": "CUVIT",
@@ -2318,7 +2319,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/08/2007",
+		"updated": "08/08/2007"
 	},
 	{
 		"name": "CUXAN",
@@ -2327,7 +2328,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/25/2010",
+		"updated": "03/25/2010"
 	},
 	{
 		"name": "CUXEG",
@@ -2336,7 +2337,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GQE*VOR/DME*121.26/25.12",
+		"updated": "GQE*VOR/DME*121.26/25.12"
 	},
 	{
 		"name": "CUXID",
@@ -2345,7 +2346,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/17/2013",
+		"updated": "05/17/2013"
 	},
 	{
 		"name": "CUXUP",
@@ -2354,7 +2355,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/28/2013",
+		"updated": "10/28/2013"
 	},
 	{
 		"name": "CUYAG",
@@ -2363,7 +2364,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SYI*VOR/DME*008.91",
+		"updated": "SYI*VOR/DME*008.91"
 	},
 	{
 		"name": "CUYAS",
@@ -2372,7 +2373,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/04/2007",
+		"updated": "01/04/2007"
 	},
 	{
 		"name": "CUYAY",
@@ -2381,5 +2382,6 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/10/2013",
-	},
+		"updated": "01/10/2013"
+	}
+]

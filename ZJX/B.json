@@ -1,3 +1,4 @@
+[
 	{
 		"name": "BAARD",
 		"latitude": "31-49-20.44 N",
@@ -5,7 +6,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/27/2017",
+		"updated": "06/27/2017"
 	},
 	{
 		"name": "BACCA",
@@ -14,7 +15,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/11/2001",
+		"updated": "07/11/2001"
 	},
 	{
 		"name": "BAGGY",
@@ -23,7 +24,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "SAV*VORTAC*059.37/47.26",
+		"updated": "SAV*VORTAC*059.37/47.26"
 	},
 	{
 		"name": "BAHAA",
@@ -32,7 +33,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "05/02/2008",
+		"updated": "05/02/2008"
 	},
 	{
 		"name": "BAIZE",
@@ -41,7 +42,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "EUF*VORTAC*199.21/11.19",
+		"updated": "EUF*VORTAC*199.21/11.19"
 	},
 	{
 		"name": "BAKKE",
@@ -50,7 +51,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "HRT*TACAN*186.00/35.00",
+		"updated": "HRT*TACAN*186.00/35.00"
 	},
 	{
 		"name": "BAKOS",
@@ -59,7 +60,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "MVC*VORTAC*140.00",
+		"updated": "MVC*VORTAC*140.00"
 	},
 	{
 		"name": "BALKE",
@@ -68,7 +69,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/14/2008",
+		"updated": "07/14/2008"
 	},
 	{
 		"name": "BAMDE",
@@ -77,7 +78,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/02/2011",
+		"updated": "06/02/2011"
 	},
 	{
 		"name": "BANNR",
@@ -86,7 +87,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OMN*VORTAC*133.63",
+		"updated": "OMN*VORTAC*133.63"
 	},
 	{
 		"name": "BAPNE",
@@ -95,7 +96,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/14/2009",
+		"updated": "07/14/2009"
 	},
 	{
 		"name": "BAQAV",
@@ -104,7 +105,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "02/03/2005",
+		"updated": "02/03/2005"
 	},
 	{
 		"name": "BARBS",
@@ -113,7 +114,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OMN*VORTAC*271.00",
+		"updated": "OMN*VORTAC*271.00"
 	},
 	{
 		"name": "BARTL",
@@ -122,7 +123,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "ILM*VORTAC*272.92/38.73",
+		"updated": "ILM*VORTAC*272.92/38.73"
 	},
 	{
 		"name": "BARWU",
@@ -131,7 +132,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "AMG*VORTAC*072.38/38.45",
+		"updated": "AMG*VORTAC*072.38/38.45"
 	},
 	{
 		"name": "BASDE",
@@ -140,7 +141,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "11/02/2009",
+		"updated": "11/02/2009"
 	},
 	{
 		"name": "BASLE",
@@ -149,7 +150,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/26/2013",
+		"updated": "08/26/2013"
 	},
 	{
 		"name": "BASME",
@@ -158,7 +159,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/19/2012",
+		"updated": "06/19/2012"
 	},
 	{
 		"name": "BASSO",
@@ -167,7 +168,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CHS*VORTAC*219.00/24.93",
+		"updated": "CHS*VORTAC*219.00/24.93"
 	},
 	{
 		"name": "BASSS",
@@ -176,7 +177,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OMN*VORTAC*315.00/32.00",
+		"updated": "OMN*VORTAC*315.00/32.00"
 	},
 	{
 		"name": "BATEH",
@@ -185,7 +186,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "02/07/2008",
+		"updated": "02/07/2008"
 	},
 	{
 		"name": "BAURR",
@@ -194,7 +195,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/24/2015",
+		"updated": "08/24/2015"
 	},
 	{
 		"name": "BAVCA",
@@ -203,7 +204,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "PZD*VOR/DME*029.76/24.69",
+		"updated": "PZD*VOR/DME*029.76/24.69"
 	},
 	{
 		"name": "BAWAG",
@@ -212,7 +213,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "02/12/2008",
+		"updated": "02/12/2008"
 	},
 	{
 		"name": "BAWDI",
@@ -221,7 +222,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "11/21/2013",
+		"updated": "11/21/2013"
 	},
 	{
 		"name": "BAXLY",
@@ -230,7 +231,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "AMG*VORTAC*034.67",
+		"updated": "AMG*VORTAC*034.67"
 	},
 	{
 		"name": "BAYAV",
@@ -239,7 +240,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CRE*VORTAC*223.05/3.00",
+		"updated": "CRE*VORTAC*223.05/3.00"
 	},
 	{
 		"name": "BAYPO",
@@ -248,7 +249,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "PIE*VORTAC*016.38/27.78",
+		"updated": "PIE*VORTAC*016.38/27.78"
 	},
 	{
 		"name": "BDUBB",
@@ -257,7 +258,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/29/2007",
+		"updated": "10/29/2007"
 	},
 	{
 		"name": "BEANS",
@@ -266,7 +267,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "ALD*VOR*293.00",
+		"updated": "ALD*VOR*293.00"
 	},
 	{
 		"name": "BEARD",
@@ -275,7 +276,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "NPA*TACAN*210.00/28.00",
+		"updated": "NPA*TACAN*210.00/28.00"
 	},
 	{
 		"name": "BEARS",
@@ -284,7 +285,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "IRQ*VORTAC*102.11/19.00",
+		"updated": "IRQ*VORTAC*102.11/19.00"
 	},
 	{
 		"name": "BEBDE",
@@ -293,7 +294,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "HRT*TACAN*003.00/7.00",
+		"updated": "HRT*TACAN*003.00/7.00"
 	},
 	{
 		"name": "BEEDE",
@@ -302,7 +303,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "VAD*TACAN*190.00/0.70",
+		"updated": "VAD*TACAN*190.00/0.70"
 	},
 	{
 		"name": "BEEFE",
@@ -311,7 +312,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "BEENO",
@@ -320,7 +321,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OMN*VORTAC*358.52/80.00",
+		"updated": "OMN*VORTAC*358.52/80.00"
 	},
 	{
 		"name": "BEFTY",
@@ -329,7 +330,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CAE*VORTAC*005.60/16.98",
+		"updated": "CAE*VORTAC*005.60/16.98"
 	},
 	{
 		"name": "BEHRN",
@@ -338,7 +339,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "BEKAC",
@@ -347,7 +348,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/12/2012",
+		"updated": "06/12/2012"
 	},
 	{
 		"name": "BELLE",
@@ -356,7 +357,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "VAD*TACAN*007.00/16.00",
+		"updated": "VAD*TACAN*007.00/16.00"
 	},
 	{
 		"name": "BELSE",
@@ -365,7 +366,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "VAD*TACAN*007.00/12.00",
+		"updated": "VAD*TACAN*007.00/12.00"
 	},
 	{
 		"name": "BEMNO",
@@ -374,7 +375,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "NBC*TACAN*046.00/6.00",
+		"updated": "NBC*TACAN*046.00/6.00"
 	},
 	{
 		"name": "BENBE",
@@ -383,7 +384,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "NSE*TACAN*232.00/7.00",
+		"updated": "NSE*TACAN*232.00/7.00"
 	},
 	{
 		"name": "BENGE",
@@ -392,7 +393,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "NRB*TACAN*081.00/11.00",
+		"updated": "NRB*TACAN*081.00/11.00"
 	},
 	{
 		"name": "BENTZ",
@@ -401,7 +402,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/26/2013",
+		"updated": "08/26/2013"
 	},
 	{
 		"name": "BERTT",
@@ -410,7 +411,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "SSI*VORTAC*302.33/14.76",
+		"updated": "SSI*VORTAC*302.33/14.76"
 	},
 	{
 		"name": "BETLE",
@@ -419,7 +420,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/26/2013",
+		"updated": "08/26/2013"
 	},
 	{
 		"name": "BEVET",
@@ -428,7 +429,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "MYR*LD*357.21/6.59",
+		"updated": "MYR*LD*357.21/6.59"
 	},
 	{
 		"name": "BEVLY",
@@ -437,7 +438,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CHS*VORTAC*139.70/3.80",
+		"updated": "CHS*VORTAC*139.70/3.80"
 	},
 	{
 		"name": "BEVOE",
@@ -446,7 +447,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/11/2014",
+		"updated": "08/11/2014"
 	},
 	{
 		"name": "BFMCA",
@@ -455,7 +456,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/28/2014",
+		"updated": "07/28/2014"
 	},
 	{
 		"name": "BFMCB",
@@ -464,7 +465,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "BFMCC",
@@ -473,7 +474,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "BFMCD",
@@ -482,7 +483,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/28/2014",
+		"updated": "07/28/2014"
 	},
 	{
 		"name": "BFMCE",
@@ -491,7 +492,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "BFMCF",
@@ -500,7 +501,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "BGDAD",
@@ -509,7 +510,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "NSE*TACAN*182.00/13.00",
+		"updated": "NSE*TACAN*182.00/13.00"
 	},
 	{
 		"name": "BICAY",
@@ -518,7 +519,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "02/13/2013",
+		"updated": "02/13/2013"
 	},
 	{
 		"name": "BIDRY",
@@ -527,7 +528,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "WP",
-		"updated": "12/28/2015",
+		"updated": "12/28/2015"
 	},
 	{
 		"name": "BIECH",
@@ -536,7 +537,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "DWG*TACAN*236.00/17.00",
+		"updated": "DWG*TACAN*236.00/17.00"
 	},
 	{
 		"name": "BIGGS",
@@ -545,7 +546,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "CRG*VORTAC*315.86/42.00",
+		"updated": "CRG*VORTAC*315.86/42.00"
 	},
 	{
 		"name": "BIJUV",
@@ -554,7 +555,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "AYS*VORTAC*038.97",
+		"updated": "AYS*VORTAC*038.97"
 	},
 	{
 		"name": "BIMSE",
@@ -563,7 +564,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "NSE*TACAN*031.00/0.90",
+		"updated": "NSE*TACAN*031.00/0.90"
 	},
 	{
 		"name": "BINYY",
@@ -572,7 +573,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/09/2009",
+		"updated": "06/09/2009"
 	},
 	{
 		"name": "BISNY",
@@ -581,7 +582,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "12/05/2007",
+		"updated": "12/05/2007"
 	},
 	{
 		"name": "BITHO",
@@ -590,7 +591,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OMN*VORTAC*176.00/40.33",
+		"updated": "OMN*VORTAC*176.00/40.33"
 	},
 	{
 		"name": "BITZY",
@@ -599,7 +600,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OZR*VOR/DME*057.09",
+		"updated": "OZR*VOR/DME*057.09"
 	},
 	{
 		"name": "BIVSE",
@@ -608,7 +609,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "NBC*TACAN*046.00/12.00",
+		"updated": "NBC*TACAN*046.00/12.00"
 	},
 	{
 		"name": "BJETS",
@@ -617,7 +618,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "11/10/2016",
+		"updated": "11/10/2016"
 	},
 	{
 		"name": "BJLEW",
@@ -626,7 +627,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "MAI*VORTAC*272.10/16.30",
+		"updated": "MAI*VORTAC*272.10/16.30"
 	},
 	{
 		"name": "BLAAN",
@@ -635,7 +636,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "01/16/2014",
+		"updated": "01/16/2014"
 	},
 	{
 		"name": "BLALY",
@@ -644,7 +645,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "EUF*VORTAC*171.84",
+		"updated": "EUF*VORTAC*171.84"
 	},
 	{
 		"name": "BLOTS",
@@ -653,7 +654,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CTF*VOR/DME*242.51/43.08",
+		"updated": "CTF*VOR/DME*242.51/43.08"
 	},
 	{
 		"name": "BLOYD",
@@ -662,7 +663,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "09/29/2014",
+		"updated": "09/29/2014"
 	},
 	{
 		"name": "BLRNE",
@@ -671,7 +672,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "GNV*VORTAC*242.93",
+		"updated": "GNV*VORTAC*242.93"
 	},
 	{
 		"name": "BOATS",
@@ -680,7 +681,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "SRQ*VOR/DME*340.17/64.29",
+		"updated": "SRQ*VOR/DME*340.17/64.29"
 	},
 	{
 		"name": "BOCAC",
@@ -689,7 +690,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/02/2007",
+		"updated": "10/02/2007"
 	},
 	{
 		"name": "BOCAP",
@@ -698,7 +699,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "VQQ*VOR*265.84",
+		"updated": "VQQ*VOR*265.84"
 	},
 	{
 		"name": "BOGDE",
@@ -707,7 +708,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "02/29/2016",
+		"updated": "02/29/2016"
 	},
 	{
 		"name": "BOGII",
@@ -716,7 +717,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "12/20/2007",
+		"updated": "12/20/2007"
 	},
 	{
 		"name": "BOLEZ",
@@ -725,7 +726,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "NRB*TACAN*081.00/6.00",
+		"updated": "NRB*TACAN*081.00/6.00"
 	},
 	{
 		"name": "BOLNE",
@@ -734,7 +735,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "05/01/2008",
+		"updated": "05/01/2008"
 	},
 	{
 		"name": "BOLSE",
@@ -743,7 +744,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/10/2011",
+		"updated": "07/10/2011"
 	},
 	{
 		"name": "BOPDE",
@@ -752,7 +753,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "CEW*VORTAC*140.05/12.70",
+		"updated": "CEW*VORTAC*140.05/12.70"
 	},
 	{
 		"name": "BORAE",
@@ -761,7 +762,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/11/2017",
+		"updated": "07/11/2017"
 	},
 	{
 		"name": "BOSRE",
@@ -770,7 +771,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/07/2005",
+		"updated": "07/07/2005"
 	},
 	{
 		"name": "BOWMA",
@@ -779,7 +780,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CAE*VORTAC*155.87/36.00",
+		"updated": "CAE*VORTAC*155.87/36.00"
 	},
 	{
 		"name": "BOWSK",
@@ -788,7 +789,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "02/27/2012",
+		"updated": "02/27/2012"
 	},
 	{
 		"name": "BOYAP",
@@ -797,7 +798,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/18/2007",
+		"updated": "06/18/2007"
 	},
 	{
 		"name": "BRAAG",
@@ -806,7 +807,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "DWG*TACAN*019.00/14.00",
+		"updated": "DWG*TACAN*019.00/14.00"
 	},
 	{
 		"name": "BRADO",
@@ -815,7 +816,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CRG*VORTAC*178.09/25.00",
+		"updated": "CRG*VORTAC*178.09/25.00"
 	},
 	{
 		"name": "BRAET",
@@ -824,7 +825,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/07/2014",
+		"updated": "10/07/2014"
 	},
 	{
 		"name": "BRATT",
@@ -833,7 +834,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "NUN*VOR*314.40",
+		"updated": "NUN*VOR*314.40"
 	},
 	{
 		"name": "BRAYS",
@@ -842,7 +843,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "NBC*TACAN*307.00",
+		"updated": "NBC*TACAN*307.00"
 	},
 	{
 		"name": "BRENT",
@@ -851,7 +852,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "NUN*VOR*049.44",
+		"updated": "NUN*VOR*049.44"
 	},
 	{
 		"name": "BREZZ",
@@ -860,7 +861,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "NPA*TACAN*028.00/24.00",
+		"updated": "NPA*TACAN*028.00/24.00"
 	},
 	{
 		"name": "BRITS",
@@ -869,7 +870,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "MAI*VORTAC*141.00/26.06",
+		"updated": "MAI*VORTAC*141.00/26.06"
 	},
 	{
 		"name": "BRNDE",
@@ -878,7 +879,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "01/26/2010",
+		"updated": "01/26/2010"
 	},
 	{
 		"name": "BROAD",
@@ -887,7 +888,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "PIE*VORTAC*007.19",
+		"updated": "PIE*VORTAC*007.19"
 	},
 	{
 		"name": "BRONN",
@@ -896,7 +897,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "PZD*VOR/DME*358.55/9.47",
+		"updated": "PZD*VOR/DME*358.55/9.47"
 	},
 	{
 		"name": "BROSE",
@@ -905,7 +906,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "SAV*VORTAC*295.02/26.00",
+		"updated": "SAV*VORTAC*295.02/26.00"
 	},
 	{
 		"name": "BROUN",
@@ -914,7 +915,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "AMG*VORTAC*094.00",
+		"updated": "AMG*VORTAC*094.00"
 	},
 	{
 		"name": "BRUNS",
@@ -923,7 +924,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/07/2011",
+		"updated": "06/07/2011"
 	},
 	{
 		"name": "BRUNT",
@@ -932,7 +933,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/14/2014",
+		"updated": "08/14/2014"
 	},
 	{
 		"name": "BRUSE",
@@ -941,7 +942,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "09/26/2011",
+		"updated": "09/26/2011"
 	},
 	{
 		"name": "BRUTS",
@@ -950,7 +951,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/07/2005",
+		"updated": "07/07/2005"
 	},
 	{
 		"name": "BRYSE",
@@ -959,7 +960,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "BUBBA",
@@ -968,7 +969,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "GRD*VORTAC*083.00/37.53",
+		"updated": "GRD*VORTAC*083.00/37.53"
 	},
 	{
 		"name": "BUBBE",
@@ -977,7 +978,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "DWG*TACAN*359.51/9.00",
+		"updated": "DWG*TACAN*359.51/9.00"
 	},
 	{
 		"name": "BUBIE",
@@ -986,7 +987,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "04/22/2015",
+		"updated": "04/22/2015"
 	},
 	{
 		"name": "BUBOO",
@@ -995,7 +996,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "11/10/2016",
+		"updated": "11/10/2016"
 	},
 	{
 		"name": "BUCCS",
@@ -1004,7 +1005,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "11/15/2010",
+		"updated": "11/15/2010"
 	},
 	{
 		"name": "BUCKL",
@@ -1013,7 +1014,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CLT*VOR/DME*180.00/40.00",
+		"updated": "CLT*VOR/DME*180.00/40.00"
 	},
 	{
 		"name": "BUGGZ",
@@ -1022,7 +1023,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/24/2007",
+		"updated": "10/24/2007"
 	},
 	{
 		"name": "BUHAR",
@@ -1031,7 +1032,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "11/21/2008",
+		"updated": "11/21/2008"
 	},
 	{
 		"name": "BULBE",
@@ -1040,7 +1041,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "NPA*TACAN*192.00/6.00",
+		"updated": "NPA*TACAN*192.00/6.00"
 	},
 	{
 		"name": "BULCA",
@@ -1049,7 +1050,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "SVN*VOR/DME*102.00/11.00",
+		"updated": "SVN*VOR/DME*102.00/11.00"
 	},
 	{
 		"name": "BULLI",
@@ -1058,7 +1059,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OMN*VORTAC*341.60/16.65",
+		"updated": "OMN*VORTAC*341.60/16.65"
 	},
 	{
 		"name": "BULZI",
@@ -1067,7 +1068,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/30/2007",
+		"updated": "10/30/2007"
 	},
 	{
 		"name": "BUNDE",
@@ -1076,7 +1077,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CRG*VORTAC*164.41/17.00",
+		"updated": "CRG*VORTAC*164.41/17.00"
 	},
 	{
 		"name": "BUNIE",
@@ -1085,7 +1086,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/24/2007",
+		"updated": "10/24/2007"
 	},
 	{
 		"name": "BUNNZ",
@@ -1094,7 +1095,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/11/2001",
+		"updated": "07/11/2001"
 	},
 	{
 		"name": "BUPAW",
@@ -1103,7 +1104,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "09/10/2009",
+		"updated": "09/10/2009"
 	},
 	{
 		"name": "BUPYA",
@@ -1112,7 +1113,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "SZW*VORTAC*174.72",
+		"updated": "SZW*VORTAC*174.72"
 	},
 	{
 		"name": "BURRD",
@@ -1121,7 +1122,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/24/2007",
+		"updated": "10/24/2007"
 	},
 	{
 		"name": "BUSJY",
@@ -1130,7 +1131,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "05/31/2005",
+		"updated": "05/31/2005"
 	},
 	{
 		"name": "BUTOW",
@@ -1139,7 +1140,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "PAM*TACAN*317.77/15.00",
+		"updated": "PAM*TACAN*317.77/15.00"
 	},
 	{
 		"name": "BUXSE",
@@ -1148,7 +1149,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZJX",
 		"type": "WP",
-		"updated": "03/26/2002",
+		"updated": "03/26/2002"
 	},
 	{
 		"name": "BUYAG",
@@ -1157,7 +1158,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "AYS*VORTAC*098.66/5.00",
+		"updated": "AYS*VORTAC*098.66/5.00"
 	},
 	{
 		"name": "BUYAK",
@@ -1166,7 +1167,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "03/23/2017",
+		"updated": "03/23/2017"
 	},
 	{
 		"name": "BUYDA",
@@ -1175,7 +1176,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/20/2007",
+		"updated": "07/20/2007"
 	},
 	{
 		"name": "BYNUM",
@@ -1184,5 +1185,6 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "MMT*VORTAC*148.00/6.00",
-	},
+		"updated": "MMT*VORTAC*148.00/6.00"
+	}
+]

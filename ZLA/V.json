@@ -1,3 +1,4 @@
+[
 	{
 		"name": "VAALE",
 		"latitude": "34-4-7.76 N",
@@ -5,7 +6,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/24/2017",
+		"updated": "01/24/2017"
 	},
 	{
 		"name": "VAANG",
@@ -14,7 +15,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "VALEQ",
@@ -23,7 +24,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/20/2016",
+		"updated": "01/20/2016"
 	},
 	{
 		"name": "VALEY",
@@ -32,7 +33,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "LAX*VORTAC*342.00/18.82",
+		"updated": "LAX*VORTAC*342.00/18.82"
 	},
 	{
 		"name": "VAZCU",
@@ -41,7 +42,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "GMN*VORTAC*141.64/24.41",
+		"updated": "GMN*VORTAC*141.64/24.41"
 	},
 	{
 		"name": "VEEPA",
@@ -50,7 +51,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "05/11/2016",
+		"updated": "05/11/2016"
 	},
 	{
 		"name": "VEGKU",
@@ -59,7 +60,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "HWG*LD*NW CRS/6.20",
+		"updated": "HWG*LD*NW CRS/6.20"
 	},
 	{
 		"name": "VEGYU",
@@ -68,7 +69,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "08/17/2006",
+		"updated": "08/17/2006"
 	},
 	{
 		"name": "VERKN",
@@ -77,7 +78,7 @@
 		"state": "UTAH",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/17/2016",
+		"updated": "09/17/2016"
 	},
 	{
 		"name": "VETTT",
@@ -86,7 +87,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "LSV*TACAN*031.00/31.00",
+		"updated": "LSV*TACAN*031.00/31.00"
 	},
 	{
 		"name": "VEVUY",
@@ -95,7 +96,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "11/19/2010",
+		"updated": "11/19/2010"
 	},
 	{
 		"name": "VICKE",
@@ -104,7 +105,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "05/11/2016",
+		"updated": "05/11/2016"
 	},
 	{
 		"name": "VICKY",
@@ -113,7 +114,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "PMD*VORTAC*269.92/12.64",
+		"updated": "PMD*VORTAC*269.92/12.64"
 	},
 	{
 		"name": "VICUG",
@@ -122,7 +123,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/26/2016",
+		"updated": "09/26/2016"
 	},
 	{
 		"name": "VICVU",
@@ -131,7 +132,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "08/11/2006",
+		"updated": "08/11/2006"
 	},
 	{
 		"name": "VIREO",
@@ -140,7 +141,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/26/2016",
+		"updated": "09/26/2016"
 	},
 	{
 		"name": "VISTA",
@@ -149,7 +150,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "OCN*VORTAC*082.92/9.31",
+		"updated": "OCN*VORTAC*082.92/9.31"
 	},
 	{
 		"name": "VITKO",
@@ -158,7 +159,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "MZB*VORTAC*041.00/13.00",
+		"updated": "MZB*VORTAC*041.00/13.00"
 	},
 	{
 		"name": "VITTA",
@@ -167,7 +168,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/03/2017",
+		"updated": "04/03/2017"
 	},
 	{
 		"name": "VIVOF",
@@ -176,7 +177,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "VIVSE",
@@ -185,7 +186,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "LAX*VORTAC*081.00/5.52",
+		"updated": "LAX*VORTAC*081.00/5.52"
 	},
 	{
 		"name": "VLLMA",
@@ -194,7 +195,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/01/2017",
+		"updated": "03/01/2017"
 	},
 	{
 		"name": "VOJUR",
@@ -203,7 +204,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/28/2009",
+		"updated": "04/28/2009"
 	},
 	{
 		"name": "VOYNU",
@@ -212,7 +213,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "VCV*VOR/DME*350.14/2.14",
+		"updated": "VCV*VOR/DME*350.14/2.14"
 	},
 	{
 		"name": "VPANA",
@@ -221,7 +222,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPART",
@@ -230,7 +231,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "06/12/2001",
+		"updated": "06/12/2001"
 	},
 	{
 		"name": "VPAUT",
@@ -239,7 +240,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPBOB",
@@ -248,7 +249,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPCAR",
@@ -257,7 +258,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPCNG",
@@ -266,7 +267,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/10/2006",
+		"updated": "04/10/2006"
 	},
 	{
 		"name": "VPCOR",
@@ -275,7 +276,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPCRX",
@@ -284,7 +285,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPCSU",
@@ -293,7 +294,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/07/2006",
+		"updated": "04/07/2006"
 	},
 	{
 		"name": "VPDOW",
@@ -302,7 +303,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPELA",
@@ -311,7 +312,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPETY",
@@ -320,7 +321,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPFCB",
@@ -329,7 +330,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPFPL",
@@ -338,7 +339,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/10/2006",
+		"updated": "04/10/2006"
 	},
 	{
 		"name": "VPGOL",
@@ -347,7 +348,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPIMP",
@@ -356,7 +357,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPKAT",
@@ -365,7 +366,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPKEL",
@@ -374,7 +375,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPLAC",
@@ -383,7 +384,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPLBP",
@@ -392,7 +393,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLCC",
@@ -401,7 +402,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLCP",
@@ -410,7 +411,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLDL",
@@ -419,7 +420,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLDP",
@@ -428,7 +429,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLDS",
@@ -437,7 +438,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLFX",
@@ -446,7 +447,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLGP",
@@ -455,7 +456,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLHF",
@@ -464,7 +465,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLHP",
@@ -473,7 +474,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLKH",
@@ -482,7 +483,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLLC",
@@ -491,7 +492,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLLM",
@@ -500,7 +501,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLLU",
@@ -509,7 +510,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPLMB",
@@ -518,7 +519,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/03/2012",
+		"updated": "10/03/2012"
 	},
 	{
 		"name": "VPLMM",
@@ -527,7 +528,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLMS",
@@ -536,7 +537,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLPD",
@@ -545,7 +546,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLPP",
@@ -554,7 +555,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLQM",
@@ -563,7 +564,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLRB",
@@ -572,7 +573,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLRT",
@@ -581,7 +582,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLSA",
@@ -590,7 +591,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLSB",
@@ -599,7 +600,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLSC",
@@ -608,7 +609,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLSF",
@@ -617,7 +618,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLSP",
@@ -626,7 +627,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLSR",
@@ -635,7 +636,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/15/2014",
+		"updated": "04/15/2014"
 	},
 	{
 		"name": "VPLSS",
@@ -644,7 +645,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLTW",
@@ -653,7 +654,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLVT",
@@ -662,7 +663,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPLWT",
@@ -671,7 +672,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "05/28/2014",
+		"updated": "05/28/2014"
 	},
 	{
 		"name": "VPMDR",
@@ -680,7 +681,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPNEW",
@@ -689,7 +690,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "05/09/2006",
+		"updated": "05/09/2006"
 	},
 	{
 		"name": "VPNUY",
@@ -698,7 +699,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPOCN",
@@ -707,7 +708,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "09/15/2004",
+		"updated": "09/15/2004"
 	},
 	{
 		"name": "VPPCH",
@@ -716,7 +717,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPPKC",
@@ -725,7 +726,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPPOR",
@@ -734,7 +735,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPRRT",
@@ -743,7 +744,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPSBC",
@@ -752,7 +753,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSBL",
@@ -761,7 +762,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSBM",
@@ -770,7 +771,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSCF",
@@ -779,7 +780,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSCM",
@@ -788,7 +789,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSCP",
@@ -797,7 +798,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSCR",
@@ -806,7 +807,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSEP",
@@ -815,7 +816,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPSFB",
@@ -824,7 +825,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSFR",
@@ -833,7 +834,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPSLJ",
@@ -842,7 +843,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSMB",
@@ -851,7 +852,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSMH",
@@ -860,7 +861,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "09/29/2017",
+		"updated": "09/29/2017"
 	},
 	{
 		"name": "VPSMP",
@@ -869,7 +870,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "09/14/2004",
+		"updated": "09/14/2004"
 	},
 	{
 		"name": "VPSMS",
@@ -878,7 +879,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSMV",
@@ -887,7 +888,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSMW",
@@ -896,7 +897,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSOP",
@@ -905,7 +906,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSOT",
@@ -914,7 +915,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSPL",
@@ -923,7 +924,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSPP",
@@ -932,7 +933,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSQS",
@@ -941,7 +942,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSRT",
@@ -950,7 +951,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSSM",
@@ -959,7 +960,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSSV",
@@ -968,7 +969,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSTC",
@@ -977,7 +978,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/07/2006",
+		"updated": "04/07/2006"
 	},
 	{
 		"name": "VPSTK",
@@ -986,7 +987,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/17/2000",
+		"updated": "04/17/2000"
 	},
 	{
 		"name": "VPSTP",
@@ -995,7 +996,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPSVA",
@@ -1004,7 +1005,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/18/2001",
+		"updated": "10/18/2001"
 	},
 	{
 		"name": "VPVAL",
@@ -1013,7 +1014,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "10/16/2013",
+		"updated": "10/16/2013"
 	},
 	{
 		"name": "VPVBA",
@@ -1022,7 +1023,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVBD",
@@ -1031,7 +1032,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVCR",
@@ -1040,7 +1041,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVDP",
@@ -1049,7 +1050,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVEC",
@@ -1058,7 +1059,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVFZ",
@@ -1067,7 +1068,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVGM",
@@ -1076,7 +1077,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVKC",
@@ -1085,7 +1086,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVLB",
@@ -1094,7 +1095,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVLM",
@@ -1103,7 +1104,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVRR",
@@ -1112,7 +1113,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVRZ",
@@ -1121,7 +1122,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVSB",
@@ -1130,7 +1131,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVSF",
@@ -1139,7 +1140,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVSM",
@@ -1148,7 +1149,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVSP",
@@ -1157,7 +1158,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVST",
@@ -1166,7 +1167,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVTF",
@@ -1175,7 +1176,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVTR",
@@ -1184,7 +1185,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VPVWM",
@@ -1193,7 +1194,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "VFR",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "VVERA",
@@ -1202,7 +1203,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/27/2016",
+		"updated": "12/27/2016"
 	},
 	{
 		"name": "VYDDA",
@@ -1211,7 +1212,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "PGY*VORTAC*016.82",
+		"updated": "PGY*VORTAC*016.82"
 	},
 	{
 		"name": "VYTOS",
@@ -1220,5 +1221,6 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/29/2010",
-	},
+		"updated": "04/29/2010"
+	}
+]

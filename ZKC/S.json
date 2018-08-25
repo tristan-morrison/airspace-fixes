@@ -1,3 +1,4 @@
+[
 	{
 		"name": "SAAGS",
 		"latitude": "39-28-4.22 N",
@@ -5,7 +6,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "MCI*VORTAC*075.33/68.38",
+		"updated": "MCI*VORTAC*075.33/68.38"
 	},
 	{
 		"name": "SACOV",
@@ -14,7 +15,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/27/2006",
+		"updated": "07/27/2006"
 	},
 	{
 		"name": "SACVY",
@@ -23,7 +24,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/11/2014",
+		"updated": "09/11/2014"
 	},
 	{
 		"name": "SADEN",
@@ -32,7 +33,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "STL*VORTAC*280.65/12.33",
+		"updated": "STL*VORTAC*280.65/12.33"
 	},
 	{
 		"name": "SAFER",
@@ -41,7 +42,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ANY*VORTAC*288.88/28.01",
+		"updated": "ANY*VORTAC*288.88/28.01"
 	},
 	{
 		"name": "SAGME",
@@ -50,7 +51,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "STL*VORTAC*214.00/40.00",
+		"updated": "STL*VORTAC*214.00/40.00"
 	},
 	{
 		"name": "SAGZA",
@@ -59,7 +60,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "STL*VORTAC*197.60/40.00",
+		"updated": "STL*VORTAC*197.60/40.00"
 	},
 	{
 		"name": "SAHIG",
@@ -68,7 +69,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "WP",
-		"updated": "10/16/1995",
+		"updated": "10/16/1995"
 	},
 	{
 		"name": "SAJOY",
@@ -77,7 +78,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "STL*VORTAC*184.00/40.00",
+		"updated": "STL*VORTAC*184.00/40.00"
 	},
 	{
 		"name": "SALTT",
@@ -86,7 +87,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/25/2017",
+		"updated": "09/25/2017"
 	},
 	{
 		"name": "SANOC",
@@ -95,7 +96,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/25/2005",
+		"updated": "02/25/2005"
 	},
 	{
 		"name": "SAPPA",
@@ -104,7 +105,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "OKM*VOR/DME*307.51",
+		"updated": "OKM*VOR/DME*307.51"
 	},
 	{
 		"name": "SAPPY",
@@ -113,7 +114,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "HLV*VORTAC*202.54",
+		"updated": "HLV*VORTAC*202.54"
 	},
 	{
 		"name": "SATPY",
@@ -122,7 +123,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SPI*VORTAC*116.00/5.40",
+		"updated": "SPI*VORTAC*116.00/5.40"
 	},
 	{
 		"name": "SAVBE",
@@ -131,7 +132,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "MR",
-		"updated": "SZL*TACAN*018.00/1.20",
+		"updated": "SZL*TACAN*018.00/1.20"
 	},
 	{
 		"name": "SAVOF",
@@ -140,7 +141,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "12/30/2008",
+		"updated": "12/30/2008"
 	},
 	{
 		"name": "SAXXO",
@@ -149,7 +150,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/31/2013",
+		"updated": "01/31/2013"
 	},
 	{
 		"name": "SAYAN",
@@ -158,7 +159,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "12/10/2010",
+		"updated": "12/10/2010"
 	},
 	{
 		"name": "SAYDI",
@@ -167,7 +168,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/27/2012",
+		"updated": "11/27/2012"
 	},
 	{
 		"name": "SAYIT",
@@ -176,7 +177,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "SCAFB",
@@ -185,7 +186,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SKE*TACAN*090.00/14.10",
+		"updated": "SKE*TACAN*090.00/14.10"
 	},
 	{
 		"name": "SCATT",
@@ -194,7 +195,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "BVO*VOR/DME*167.71/8.50",
+		"updated": "BVO*VOR/DME*167.71/8.50"
 	},
 	{
 		"name": "SCAWT",
@@ -203,7 +204,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "MCI*VORTAC*144.75/65.11",
+		"updated": "MCI*VORTAC*144.75/65.11"
 	},
 	{
 		"name": "SCHMD",
@@ -212,7 +213,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "STL*VORTAC*296.67/31.00",
+		"updated": "STL*VORTAC*296.67/31.00"
 	},
 	{
 		"name": "SCHOF",
@@ -221,7 +222,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "AZN*NDB*220.00",
+		"updated": "AZN*NDB*220.00"
 	},
 	{
 		"name": "SCIPR",
@@ -230,7 +231,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/31/2013",
+		"updated": "01/31/2013"
 	},
 	{
 		"name": "SEARS",
@@ -239,7 +240,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "OKM*VOR/DME*307.51",
+		"updated": "OKM*VOR/DME*307.51"
 	},
 	{
 		"name": "SECOC",
@@ -248,7 +249,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/31/2012",
+		"updated": "05/31/2012"
 	},
 	{
 		"name": "SEDDN",
@@ -257,7 +258,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/14/2012",
+		"updated": "09/14/2012"
 	},
 	{
 		"name": "SEGLR",
@@ -266,7 +267,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "IRW*VORTAC*023.00/54.27",
+		"updated": "IRW*VORTAC*023.00/54.27"
 	},
 	{
 		"name": "SEGWU",
@@ -275,7 +276,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/14/2012",
+		"updated": "05/14/2012"
 	},
 	{
 		"name": "SEIZE",
@@ -284,7 +285,7 @@
 		"state": "IOWA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "SEKAY",
@@ -293,7 +294,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/06/2012",
+		"updated": "08/06/2012"
 	},
 	{
 		"name": "SELLY",
@@ -302,7 +303,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ENL*VORTAC*272.28/39.55",
+		"updated": "ENL*VORTAC*272.28/39.55"
 	},
 	{
 		"name": "SENCO",
@@ -311,7 +312,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "HLV*VORTAC*243.08/18.99",
+		"updated": "HLV*VORTAC*243.08/18.99"
 	},
 	{
 		"name": "SERRO",
@@ -320,7 +321,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/15/2011",
+		"updated": "06/15/2011"
 	},
 	{
 		"name": "SESOE",
@@ -329,7 +330,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "MR",
-		"updated": "END*VORTAC*/2.30",
+		"updated": "END*VORTAC*/2.30"
 	},
 	{
 		"name": "SESSU",
@@ -338,7 +339,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/08/2003",
+		"updated": "09/08/2003"
 	},
 	{
 		"name": "SESTE",
@@ -347,7 +348,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/09/2015",
+		"updated": "06/09/2015"
 	},
 	{
 		"name": "SEXTN",
@@ -356,7 +357,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "STL*VORTAC*352.00/59.59",
+		"updated": "STL*VORTAC*352.00/59.59"
 	},
 	{
 		"name": "SEYOR",
@@ -365,7 +366,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "SEYRO",
@@ -374,7 +375,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "12/01/2005",
+		"updated": "12/01/2005"
 	},
 	{
 		"name": "SEZER",
@@ -383,7 +384,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ICT*VORTAC*094.94/23.00",
+		"updated": "ICT*VORTAC*094.94/23.00"
 	},
 	{
 		"name": "SHAAD",
@@ -392,7 +393,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "CSX*VOR/DME*067.65/9.00",
+		"updated": "CSX*VOR/DME*067.65/9.00"
 	},
 	{
 		"name": "SHAMB",
@@ -401,7 +402,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/04/2015",
+		"updated": "03/04/2015"
 	},
 	{
 		"name": "SHAME",
@@ -410,7 +411,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/28/2017",
+		"updated": "07/28/2017"
 	},
 	{
 		"name": "SHEGZ",
@@ -419,7 +420,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/13/2009",
+		"updated": "07/13/2009"
 	},
 	{
 		"name": "SHIRE",
@@ -428,7 +429,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "EOS*VOR/DME*037.00",
+		"updated": "EOS*VOR/DME*037.00"
 	},
 	{
 		"name": "SHOME",
@@ -437,7 +438,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/31/2013",
+		"updated": "01/31/2013"
 	},
 	{
 		"name": "SHREC",
@@ -446,7 +447,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "SHUMY",
@@ -455,7 +456,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "AXC*VORTAC*164.00",
+		"updated": "AXC*VORTAC*164.00"
 	},
 	{
 		"name": "SHYRL",
@@ -464,7 +465,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SGF*VORTAC*196.24/18.00",
+		"updated": "SGF*VORTAC*196.24/18.00"
 	},
 	{
 		"name": "SICOT",
@@ -473,7 +474,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "AXC*VORTAC*294.12",
+		"updated": "AXC*VORTAC*294.12"
 	},
 	{
 		"name": "SIKAE",
@@ -482,7 +483,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "PER*VORTAC*263.40/6.60",
+		"updated": "PER*VORTAC*263.40/6.60"
 	},
 	{
 		"name": "SIMUH",
@@ -491,7 +492,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/17/2017",
+		"updated": "02/17/2017"
 	},
 	{
 		"name": "SIOUX",
@@ -500,7 +501,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "MR",
-		"updated": "IFI*VORTAC*270.00/35.00",
+		"updated": "IFI*VORTAC*270.00/35.00"
 	},
 	{
 		"name": "SIPES",
@@ -509,7 +510,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "DGD*VORTAC*353.00",
+		"updated": "DGD*VORTAC*353.00"
 	},
 	{
 		"name": "SIPIE",
@@ -518,7 +519,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "MR",
-		"updated": "END*VORTAC*177.00/15.00",
+		"updated": "END*VORTAC*177.00/15.00"
 	},
 	{
 		"name": "SIPIF",
@@ -527,7 +528,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "12/31/2009",
+		"updated": "12/31/2009"
 	},
 	{
 		"name": "SIPSE",
@@ -536,7 +537,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/15/2016",
+		"updated": "07/15/2016"
 	},
 	{
 		"name": "SIQAF",
@@ -545,7 +546,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/24/2000",
+		"updated": "02/24/2000"
 	},
 	{
 		"name": "SIRGE",
@@ -554,7 +555,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/24/2016",
+		"updated": "06/24/2016"
 	},
 	{
 		"name": "SISDE",
@@ -563,7 +564,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "FTZ*VORTAC*040.68",
+		"updated": "FTZ*VORTAC*040.68"
 	},
 	{
 		"name": "SIVYA",
@@ -572,7 +573,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SGF*VORTAC*355.64/24.71",
+		"updated": "SGF*VORTAC*355.64/24.71"
 	},
 	{
 		"name": "SIXFY",
@@ -581,7 +582,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/14/2012",
+		"updated": "05/14/2012"
 	},
 	{
 		"name": "SKBOZ",
@@ -590,7 +591,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "IRK*VORTAC*357.37/26.80",
+		"updated": "IRK*VORTAC*357.37/26.80"
 	},
 	{
 		"name": "SKIDD",
@@ -599,7 +600,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "MW",
-		"updated": "06/25/2015",
+		"updated": "06/25/2015"
 	},
 	{
 		"name": "SKIMM",
@@ -608,7 +609,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "WP",
-		"updated": "ANX*VORTAC*132.77/23.77",
+		"updated": "ANX*VORTAC*132.77/23.77"
 	},
 	{
 		"name": "SKINI",
@@ -617,7 +618,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "IXD*LD*176.04/6.38",
+		"updated": "IXD*LD*176.04/6.38"
 	},
 	{
 		"name": "SKOVE",
@@ -626,7 +627,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "SKUTR",
@@ -635,7 +636,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "CSX*VOR/DME*009.94/80.09",
+		"updated": "CSX*VOR/DME*009.94/80.09"
 	},
 	{
 		"name": "SKYPE",
@@ -644,7 +645,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "CSX*VOR/DME*009.94/37.00",
+		"updated": "CSX*VOR/DME*009.94/37.00"
 	},
 	{
 		"name": "SLABB",
@@ -653,7 +654,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ANX*VORTAC*274.51",
+		"updated": "ANX*VORTAC*274.51"
 	},
 	{
 		"name": "SLAPS",
@@ -662,7 +663,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "BBJ*LD*E CRS/6.30",
+		"updated": "BBJ*LD*E CRS/6.30"
 	},
 	{
 		"name": "SLAYY",
@@ -671,7 +672,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "SLIMS",
@@ -680,7 +681,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "UQY*LD*094.14/14.13",
+		"updated": "UQY*LD*094.14/14.13"
 	},
 	{
 		"name": "SLIPE",
@@ -689,7 +690,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/08/2017",
+		"updated": "02/08/2017"
 	},
 	{
 		"name": "SLITS",
@@ -698,7 +699,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/03/2015",
+		"updated": "08/03/2015"
 	},
 	{
 		"name": "SLITZ",
@@ -707,7 +708,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "STL*VORTAC*184.00/80.00",
+		"updated": "STL*VORTAC*184.00/80.00"
 	},
 	{
 		"name": "SLOAM",
@@ -716,7 +717,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "VLA*VORTAC*209.00/13.00",
+		"updated": "VLA*VORTAC*209.00/13.00"
 	},
 	{
 		"name": "SLOWE",
@@ -725,7 +726,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/31/2013",
+		"updated": "01/31/2013"
 	},
 	{
 		"name": "SLOWR",
@@ -734,7 +735,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "MCI*VORTAC*266.38/130.00",
+		"updated": "MCI*VORTAC*266.38/130.00"
 	},
 	{
 		"name": "SLVER",
@@ -743,7 +744,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "FAM*VORTAC*349.71/20.00",
+		"updated": "FAM*VORTAC*349.71/20.00"
 	},
 	{
 		"name": "SMALE",
@@ -752,7 +753,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/05/2013",
+		"updated": "08/05/2013"
 	},
 	{
 		"name": "SMOKE",
@@ -761,7 +762,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "PVL*LD*190.94/7.78",
+		"updated": "PVL*LD*190.94/7.78"
 	},
 	{
 		"name": "SMUVE",
@@ -770,7 +771,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/31/2013",
+		"updated": "01/31/2013"
 	},
 	{
 		"name": "SNOKR",
@@ -779,7 +780,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "CGI*VOR/DME*338.50/15.00",
+		"updated": "CGI*VOR/DME*338.50/15.00"
 	},
 	{
 		"name": "SNOOP",
@@ -788,7 +789,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "02/24/2016",
+		"updated": "02/24/2016"
 	},
 	{
 		"name": "SNYDR",
@@ -797,7 +798,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "STL*VORTAC*191.99",
+		"updated": "STL*VORTAC*191.99"
 	},
 	{
 		"name": "SOCCA",
@@ -806,7 +807,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ICT*VORTAC*103.00/24.00",
+		"updated": "ICT*VORTAC*103.00/24.00"
 	},
 	{
 		"name": "SOCKO",
@@ -815,7 +816,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "WP",
-		"updated": "GCK*VORTAC*085.60/8.00",
+		"updated": "GCK*VORTAC*085.60/8.00"
 	},
 	{
 		"name": "SOCOL",
@@ -824,7 +825,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/20/2003",
+		"updated": "08/20/2003"
 	},
 	{
 		"name": "SOGOY",
@@ -833,7 +834,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "04/23/2013",
+		"updated": "04/23/2013"
 	},
 	{
 		"name": "SOGSE",
@@ -842,7 +843,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/15/2010",
+		"updated": "11/15/2010"
 	},
 	{
 		"name": "SOHOW",
@@ -851,7 +852,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/25/2016",
+		"updated": "05/25/2016"
 	},
 	{
 		"name": "SOKYO",
@@ -860,7 +861,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/05/2013",
+		"updated": "08/05/2013"
 	},
 	{
 		"name": "SOMEY",
@@ -869,7 +870,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "BVO*VOR/DME*023.00/17.20",
+		"updated": "BVO*VOR/DME*023.00/17.20"
 	},
 	{
 		"name": "SONOE",
@@ -878,7 +879,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ENL*VORTAC*135.00",
+		"updated": "ENL*VORTAC*135.00"
 	},
 	{
 		"name": "SOPAW",
@@ -887,7 +888,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "12/09/2009",
+		"updated": "12/09/2009"
 	},
 	{
 		"name": "SOPOC",
@@ -896,7 +897,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/24/2005",
+		"updated": "08/24/2005"
 	},
 	{
 		"name": "SORUE",
@@ -905,7 +906,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/02/2002",
+		"updated": "01/02/2002"
 	},
 	{
 		"name": "SOSPE",
@@ -914,7 +915,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "DDC*VORTAC*052.00/39.00",
+		"updated": "DDC*VORTAC*052.00/39.00"
 	},
 	{
 		"name": "SOXAE",
@@ -923,7 +924,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "SOXOE",
@@ -932,7 +933,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "SOYKE",
@@ -941,7 +942,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "IJX*VOR/DME*128.34",
+		"updated": "IJX*VOR/DME*128.34"
 	},
 	{
 		"name": "SPANI",
@@ -950,7 +951,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/31/2013",
+		"updated": "01/31/2013"
 	},
 	{
 		"name": "SPEAN",
@@ -959,7 +960,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/04/2016",
+		"updated": "05/04/2016"
 	},
 	{
 		"name": "SPELT",
@@ -968,7 +969,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "HUT*VOR/DME*292.45/17.96",
+		"updated": "HUT*VOR/DME*292.45/17.96"
 	},
 	{
 		"name": "SPICY",
@@ -977,7 +978,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "BUM*VORTAC*336.13/47.50",
+		"updated": "BUM*VORTAC*336.13/47.50"
 	},
 	{
 		"name": "SPINA",
@@ -986,7 +987,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/09/2005",
+		"updated": "09/09/2005"
 	},
 	{
 		"name": "SPIRY",
@@ -995,7 +996,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/01/2015",
+		"updated": "07/01/2015"
 	},
 	{
 		"name": "SPODE",
@@ -1004,7 +1005,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "STL*VORTAC*193.00",
+		"updated": "STL*VORTAC*193.00"
 	},
 	{
 		"name": "SPOIL",
@@ -1013,7 +1014,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ICT*VORTAC*109.01",
+		"updated": "ICT*VORTAC*109.01"
 	},
 	{
 		"name": "SPOKE",
@@ -1022,7 +1023,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "DGD*VORTAC*251.00",
+		"updated": "DGD*VORTAC*251.00"
 	},
 	{
 		"name": "SPORT",
@@ -1031,7 +1032,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "CSX*VOR/DME*143.16/53.87",
+		"updated": "CSX*VOR/DME*143.16/53.87"
 	},
 	{
 		"name": "SPRNT",
@@ -1040,7 +1041,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "MCI*VORTAC*190.44/34.00",
+		"updated": "MCI*VORTAC*190.44/34.00"
 	},
 	{
 		"name": "SPUDZ",
@@ -1049,7 +1050,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "STL*VORTAC*147.38/17.95",
+		"updated": "STL*VORTAC*147.38/17.95"
 	},
 	{
 		"name": "SQUAR",
@@ -1058,7 +1059,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "STL*VORTAC*050.93",
+		"updated": "STL*VORTAC*050.93"
 	},
 	{
 		"name": "SSAMM",
@@ -1067,7 +1068,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "SSKOT",
@@ -1076,7 +1077,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "SSYKO",
@@ -1085,7 +1086,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/28/2014",
+		"updated": "05/28/2014"
 	},
 	{
 		"name": "STAAN",
@@ -1094,7 +1095,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "STACS",
@@ -1103,7 +1104,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ANY*VORTAC*260.92/14.49",
+		"updated": "ANY*VORTAC*260.92/14.49"
 	},
 	{
 		"name": "STAFF",
@@ -1112,7 +1113,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ANY*VORTAC*344.00",
+		"updated": "ANY*VORTAC*344.00"
 	},
 	{
 		"name": "STANC",
@@ -1121,7 +1122,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "MR",
-		"updated": "FOE*TACAN*213.00/19.00",
+		"updated": "FOE*TACAN*213.00/19.00"
 	},
 	{
 		"name": "STARE",
@@ -1130,7 +1131,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "BUM*VORTAC*127.66/19.99",
+		"updated": "BUM*VORTAC*127.66/19.99"
 	},
 	{
 		"name": "STEBB",
@@ -1139,7 +1140,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "BVO*VOR/DME*175.99",
+		"updated": "BVO*VOR/DME*175.99"
 	},
 	{
 		"name": "STEER",
@@ -1148,7 +1149,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "STL*VORTAC*223.94/43.42",
+		"updated": "STL*VORTAC*223.94/43.42"
 	},
 	{
 		"name": "STEME",
@@ -1157,7 +1158,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "TBN*VOR*263.41",
+		"updated": "TBN*VOR*263.41"
 	},
 	{
 		"name": "STITH",
@@ -1166,7 +1167,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "VIH*VOR/DME*335.12/40.31",
+		"updated": "VIH*VOR/DME*335.12/40.31"
 	},
 	{
 		"name": "STONS",
@@ -1175,7 +1176,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "HUT*VOR/DME*057.14/26.89",
+		"updated": "HUT*VOR/DME*057.14/26.89"
 	},
 	{
 		"name": "STORG",
@@ -1184,7 +1185,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "HUT*VOR/DME*086.35",
+		"updated": "HUT*VOR/DME*086.35"
 	},
 	{
 		"name": "STORR",
@@ -1193,7 +1194,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "TKO*VORTAC*152.58/15.00",
+		"updated": "TKO*VORTAC*152.58/15.00"
 	},
 	{
 		"name": "STOUT",
@@ -1202,7 +1203,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "VIH*VOR/DME*232.79/38.00",
+		"updated": "VIH*VOR/DME*232.79/38.00"
 	},
 	{
 		"name": "STRAM",
@@ -1211,7 +1212,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/31/2013",
+		"updated": "01/31/2013"
 	},
 	{
 		"name": "SUBUE",
@@ -1220,7 +1221,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "SUEEY",
@@ -1229,7 +1230,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "EOS*VOR/DME*110.63/30.78",
+		"updated": "EOS*VOR/DME*110.63/30.78"
 	},
 	{
 		"name": "SUGAR",
@@ -1238,7 +1239,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ENL*VORTAC*277.48/31.97",
+		"updated": "ENL*VORTAC*277.48/31.97"
 	},
 	{
 		"name": "SUMAN",
@@ -1247,7 +1248,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ENL*VORTAC*225.05/20.94",
+		"updated": "ENL*VORTAC*225.05/20.94"
 	},
 	{
 		"name": "SUMTE",
@@ -1256,7 +1257,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/28/2010",
+		"updated": "03/28/2010"
 	},
 	{
 		"name": "SUNNN",
@@ -1265,7 +1266,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "FTZ*VORTAC*035.00/5.40",
+		"updated": "FTZ*VORTAC*035.00/5.40"
 	},
 	{
 		"name": "SUPEE",
@@ -1274,7 +1275,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/04/2005",
+		"updated": "11/04/2005"
 	},
 	{
 		"name": "SUREY",
@@ -1283,7 +1284,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "TUL*VORTAC*217.00/19.00",
+		"updated": "TUL*VORTAC*217.00/19.00"
 	},
 	{
 		"name": "SUSNE",
@@ -1292,7 +1293,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/05/2001",
+		"updated": "11/05/2001"
 	},
 	{
 		"name": "SUTRR",
@@ -1301,7 +1302,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "SUYJE",
@@ -1310,7 +1311,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/12/2010",
+		"updated": "08/12/2010"
 	},
 	{
 		"name": "SYDNE",
@@ -1319,5 +1320,6 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/31/2013",
-	},
+		"updated": "01/31/2013"
+	}
+]

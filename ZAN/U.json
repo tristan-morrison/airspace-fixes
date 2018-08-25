@@ -1,3 +1,4 @@
+[
 	{
 		"name": "UBARE",
 		"latitude": "65-27-51.41 N",
@@ -5,7 +6,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "TNC*NDB/DME*159.32/5.97",
+		"updated": "TNC*NDB/DME*159.32/5.97"
 	},
 	{
 		"name": "UBBOQ",
@@ -14,7 +15,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/08/2009",
+		"updated": "07/08/2009"
 	},
 	{
 		"name": "UBEGE",
@@ -23,7 +24,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/26/2008",
+		"updated": "08/26/2008"
 	},
 	{
 		"name": "UBGEW",
@@ -32,7 +33,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "03/19/2012",
+		"updated": "03/19/2012"
 	},
 	{
 		"name": "UBICE",
@@ -41,7 +42,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/26/2006",
+		"updated": "05/26/2006"
 	},
 	{
 		"name": "UBYEF",
@@ -50,7 +51,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/25/2017",
+		"updated": "08/25/2017"
 	},
 	{
 		"name": "UCABU",
@@ -59,7 +60,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/19/2015",
+		"updated": "05/19/2015"
 	},
 	{
 		"name": "UCANE",
@@ -68,7 +69,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/07/2005",
+		"updated": "07/07/2005"
 	},
 	{
 		"name": "UCARU",
@@ -77,7 +78,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "CMJ*NDB*123.83",
+		"updated": "CMJ*NDB*123.83"
 	},
 	{
 		"name": "UCEGE",
@@ -86,7 +87,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/09/2009",
+		"updated": "09/09/2009"
 	},
 	{
 		"name": "UCIRO",
@@ -95,7 +96,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SCC*VOR/DME*224.06/12.20",
+		"updated": "SCC*VOR/DME*224.06/12.20"
 	},
 	{
 		"name": "UCLON",
@@ -104,7 +105,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "CDB*VORTAC*070.21/24.99",
+		"updated": "CDB*VORTAC*070.21/24.99"
 	},
 	{
 		"name": "UCOSO",
@@ -113,7 +114,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/31/2004",
+		"updated": "08/31/2004"
 	},
 	{
 		"name": "UCUXY",
@@ -122,7 +123,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/12/2004",
+		"updated": "07/12/2004"
 	},
 	{
 		"name": "UDAYE",
@@ -131,7 +132,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/01/2005",
+		"updated": "09/01/2005"
 	},
 	{
 		"name": "UDENE",
@@ -140,7 +141,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKW*NDB/DME*019.47/9.60",
+		"updated": "AKW*NDB/DME*019.47/9.60"
 	},
 	{
 		"name": "UDOCO",
@@ -149,7 +150,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/07/2014",
+		"updated": "07/07/2014"
 	},
 	{
 		"name": "UFMUP",
@@ -158,7 +159,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/12/2004",
+		"updated": "07/12/2004"
 	},
 	{
 		"name": "UFTIV",
@@ -167,7 +168,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "DLG*VOR/DME*090.35/10.00",
+		"updated": "DLG*VOR/DME*090.35/10.00"
 	},
 	{
 		"name": "UGAKY",
@@ -176,7 +177,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/18/2014",
+		"updated": "11/18/2014"
 	},
 	{
 		"name": "UGEDY",
@@ -185,7 +186,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/06/2008",
+		"updated": "08/06/2008"
 	},
 	{
 		"name": "UGIPE",
@@ -194,7 +195,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/27/2005",
+		"updated": "06/27/2005"
 	},
 	{
 		"name": "UGWIX",
@@ -203,7 +204,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/02/2014",
+		"updated": "06/02/2014"
 	},
 	{
 		"name": "UHEPU",
@@ -212,7 +213,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/11/2005",
+		"updated": "07/11/2005"
 	},
 	{
 		"name": "UJPAY",
@@ -221,7 +222,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/17/2017",
+		"updated": "08/17/2017"
 	},
 	{
 		"name": "UJXUW",
@@ -230,7 +231,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "UKCOR",
@@ -239,7 +240,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/01/2017",
+		"updated": "05/01/2017"
 	},
 	{
 		"name": "UKEYU",
@@ -248,7 +249,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/17/2006",
+		"updated": "04/17/2006"
 	},
 	{
 		"name": "UKICI",
@@ -257,7 +258,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/21/2007",
+		"updated": "09/21/2007"
 	},
 	{
 		"name": "UKOBE",
@@ -266,7 +267,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/07/2005",
+		"updated": "07/07/2005"
 	},
 	{
 		"name": "UKSEC",
@@ -275,7 +276,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/12/2004",
+		"updated": "07/12/2004"
 	},
 	{
 		"name": "UKUYU",
@@ -284,7 +285,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/03/2003",
+		"updated": "12/03/2003"
 	},
 	{
 		"name": "ULAST",
@@ -293,7 +294,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "ULAVY",
@@ -302,7 +303,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/09/2013",
+		"updated": "09/09/2013"
 	},
 	{
 		"name": "ULETE",
@@ -311,7 +312,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*VORTAC*/6.89",
+		"updated": "AKN*VORTAC*/6.89"
 	},
 	{
 		"name": "ULOVE",
@@ -320,7 +321,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BET*VORTAC*142.44/12.00",
+		"updated": "BET*VORTAC*142.44/12.00"
 	},
 	{
 		"name": "UMYAR",
@@ -329,7 +330,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/16/2018",
+		"updated": "03/16/2018"
 	},
 	{
 		"name": "UNAWO",
@@ -338,7 +339,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/03/2013",
+		"updated": "07/03/2013"
 	},
 	{
 		"name": "UNCUS",
@@ -347,7 +348,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/20/2017",
+		"updated": "04/20/2017"
 	},
 	{
 		"name": "UNEKY",
@@ -356,7 +357,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "LVD*VOR/DME*335.03/42.21",
+		"updated": "LVD*VOR/DME*335.03/42.21"
 	},
 	{
 		"name": "UNETE",
@@ -365,7 +366,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "CDB*VORTAC*249.56/10.00",
+		"updated": "CDB*VORTAC*249.56/10.00"
 	},
 	{
 		"name": "UPAKY",
@@ -374,7 +375,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AFE*NDB/DME*265.10/6.00",
+		"updated": "AFE*NDB/DME*265.10/6.00"
 	},
 	{
 		"name": "UPINE",
@@ -383,7 +384,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/27/2012",
+		"updated": "12/27/2012"
 	},
 	{
 		"name": "UPPIV",
@@ -392,7 +393,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "URAKY",
@@ -401,7 +402,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/10/2007",
+		"updated": "05/10/2007"
 	},
 	{
 		"name": "UREKA",
@@ -410,7 +411,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "GKN*VOR/DME*233.69/45.10",
+		"updated": "GKN*VOR/DME*233.69/45.10"
 	},
 	{
 		"name": "URICA",
@@ -419,7 +420,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/28/2004",
+		"updated": "01/28/2004"
 	},
 	{
 		"name": "URSAA",
@@ -428,7 +429,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/08/2012",
+		"updated": "08/08/2012"
 	},
 	{
 		"name": "URTOW",
@@ -437,7 +438,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "TKA*VOR/DME*155.84/13.98",
+		"updated": "TKA*VOR/DME*155.84/13.98"
 	},
 	{
 		"name": "URUPE",
@@ -446,7 +447,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OME*LD*W CRS/2.63",
+		"updated": "OME*LD*W CRS/2.63"
 	},
 	{
 		"name": "URUQU",
@@ -455,7 +456,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/13/2010",
+		"updated": "05/13/2010"
 	},
 	{
 		"name": "USAZY",
@@ -464,7 +465,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/01/2017",
+		"updated": "05/01/2017"
 	},
 	{
 		"name": "USOXY",
@@ -473,7 +474,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "12/09/2013",
+		"updated": "12/09/2013"
 	},
 	{
 		"name": "USUHU",
@@ -482,7 +483,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/08/2000",
+		"updated": "06/08/2000"
 	},
 	{
 		"name": "USUKY",
@@ -491,7 +492,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/19/2017",
+		"updated": "01/19/2017"
 	},
 	{
 		"name": "UTANY",
@@ -500,7 +501,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/16/2011",
+		"updated": "05/16/2011"
 	},
 	{
 		"name": "UTICE",
@@ -509,7 +510,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/14/2014",
+		"updated": "03/14/2014"
 	},
 	{
 		"name": "UTIGE",
@@ -518,7 +519,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/16/2009",
+		"updated": "06/16/2009"
 	},
 	{
 		"name": "UTKOW",
@@ -527,7 +528,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "DLG*VOR/DME*327.00/17.00",
+		"updated": "DLG*VOR/DME*327.00/17.00"
 	},
 	{
 		"name": "UVALL",
@@ -536,7 +537,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SCC*VOR/DME*143.82/16.00",
+		"updated": "SCC*VOR/DME*143.82/16.00"
 	},
 	{
 		"name": "UVARE",
@@ -545,7 +546,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/27/2005",
+		"updated": "12/27/2005"
 	},
 	{
 		"name": "UVDAH",
@@ -554,7 +555,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/02/2014",
+		"updated": "06/02/2014"
 	},
 	{
 		"name": "UVEPE",
@@ -563,7 +564,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "UVHAL",
@@ -572,7 +573,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "DLG*VOR/DME*044.08/17.00",
+		"updated": "DLG*VOR/DME*044.08/17.00"
 	},
 	{
 		"name": "UVUTE",
@@ -581,7 +582,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/14/2006",
+		"updated": "11/14/2006"
 	},
 	{
 		"name": "UWUJO",
@@ -590,7 +591,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/17/2017",
+		"updated": "08/17/2017"
 	},
 	{
 		"name": "UXSOJ",
@@ -599,7 +600,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/17/2017",
+		"updated": "08/17/2017"
 	},
 	{
 		"name": "UYABI",
@@ -608,7 +609,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "UYADA",
@@ -617,7 +618,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/29/2008",
+		"updated": "07/29/2008"
 	},
 	{
 		"name": "UYIJI",
@@ -626,7 +627,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/17/2017",
+		"updated": "08/17/2017"
 	},
 	{
 		"name": "UYOVA",
@@ -635,7 +636,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EIL*TACAN*/14.00",
+		"updated": "EIL*TACAN*/14.00"
 	},
 	{
 		"name": "UYUCE",
@@ -644,5 +645,6 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/17/2017",
-	},
+		"updated": "08/17/2017"
+	}
+]

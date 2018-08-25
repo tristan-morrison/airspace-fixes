@@ -1,3 +1,4 @@
+[
 	{
 		"name": "PABVE",
 		"latitude": "41-52-0.06 N",
@@ -5,7 +6,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "PACAF",
@@ -14,7 +15,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PLL*VOR/DME*265.11/18.69",
+		"updated": "PLL*VOR/DME*265.11/18.69"
 	},
 	{
 		"name": "PACOV",
@@ -23,7 +24,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JVL*VOR/DME*328.65/22.98",
+		"updated": "JVL*VOR/DME*328.65/22.98"
 	},
 	{
 		"name": "PADAE",
@@ -32,7 +33,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "PADBE",
@@ -41,7 +42,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MKG*LD*141.40/5.93",
+		"updated": "MKG*LD*141.40/5.93"
 	},
 	{
 		"name": "PADKE",
@@ -50,7 +51,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/14/2015",
+		"updated": "04/14/2015"
 	},
 	{
 		"name": "PADLL",
@@ -59,7 +60,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PIA*VORTAC*164.72",
+		"updated": "PIA*VORTAC*164.72"
 	},
 	{
 		"name": "PAITN",
@@ -68,7 +69,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VIO*VOR/DME*260.40/55.91",
+		"updated": "VIO*VOR/DME*260.40/55.91"
 	},
 	{
 		"name": "PAKLE",
@@ -77,7 +78,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/25/2002",
+		"updated": "09/25/2002"
 	},
 	{
 		"name": "PALID",
@@ -86,7 +87,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*327.00/9.69",
+		"updated": "DPA*VOR/DME*327.00/9.69"
 	},
 	{
 		"name": "PALIE",
@@ -95,7 +96,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ORD*VOR/DME*/2.40",
+		"updated": "ORD*VOR/DME*/2.40"
 	},
 	{
 		"name": "PAMME",
@@ -104,7 +105,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PWK*LS*N CRS",
+		"updated": "PWK*LS*N CRS"
 	},
 	{
 		"name": "PANGG",
@@ -113,7 +114,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/02/2013",
+		"updated": "05/02/2013"
 	},
 	{
 		"name": "PANSE",
@@ -122,7 +123,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "PANUE",
@@ -131,7 +132,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/25/2002",
+		"updated": "09/25/2002"
 	},
 	{
 		"name": "PAPME",
@@ -140,7 +141,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/27/2007",
+		"updated": "06/27/2007"
 	},
 	{
 		"name": "PAPOW",
@@ -149,7 +150,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JVL*VOR/DME*237.49/10.99",
+		"updated": "JVL*VOR/DME*237.49/10.99"
 	},
 	{
 		"name": "PAPPI",
@@ -158,7 +159,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ORD*VOR/DME*036.03/21.52",
+		"updated": "ORD*VOR/DME*036.03/21.52"
 	},
 	{
 		"name": "PARKR",
@@ -167,7 +168,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*349.51/10.20",
+		"updated": "DPA*VOR/DME*349.51/10.20"
 	},
 	{
 		"name": "PARRS",
@@ -176,7 +177,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/24/2018",
+		"updated": "04/24/2018"
 	},
 	{
 		"name": "PARTS",
@@ -185,7 +186,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "GSH*VORTAC*216.26",
+		"updated": "GSH*VORTAC*216.26"
 	},
 	{
 		"name": "PASER",
@@ -194,7 +195,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BUU*VOR/DME*092.88",
+		"updated": "BUU*VOR/DME*092.88"
 	},
 	{
 		"name": "PASEW",
@@ -203,7 +204,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OKK*VORTAC*203.52/10.00",
+		"updated": "OKK*VORTAC*203.52/10.00"
 	},
 	{
 		"name": "PASQO",
@@ -212,7 +213,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "PASYO",
@@ -221,7 +222,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JVL*VOR/DME*340.70/10.99",
+		"updated": "JVL*VOR/DME*340.70/10.99"
 	},
 	{
 		"name": "PAVME",
@@ -230,7 +231,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OTM*VOR/DME*160.00/10.00",
+		"updated": "OTM*VOR/DME*160.00/10.00"
 	},
 	{
 		"name": "PAWFX",
@@ -239,7 +240,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2016",
+		"updated": "11/18/2016"
 	},
 	{
 		"name": "PAWGI",
@@ -248,7 +249,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/10/2010",
+		"updated": "06/10/2010"
 	},
 	{
 		"name": "PAYLO",
@@ -257,7 +258,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/25/2005",
+		"updated": "01/25/2005"
 	},
 	{
 		"name": "PAZIK",
@@ -266,7 +267,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "CN",
-		"updated": "10/01/2001",
+		"updated": "10/01/2001"
 	},
 	{
 		"name": "PBURG",
@@ -275,7 +276,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/20/2011",
+		"updated": "06/20/2011"
 	},
 	{
 		"name": "PCITY",
@@ -284,7 +285,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/07/2009",
+		"updated": "08/07/2009"
 	},
 	{
 		"name": "PEALE",
@@ -293,7 +294,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "PEBIY",
@@ -302,7 +303,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/16/2007",
+		"updated": "03/16/2007"
 	},
 	{
 		"name": "PECBI",
@@ -311,7 +312,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "PEDNY",
@@ -320,7 +321,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "CN",
-		"updated": "10/01/2001",
+		"updated": "10/01/2001"
 	},
 	{
 		"name": "PEDRE",
@@ -329,7 +330,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "PEENA",
@@ -338,7 +339,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "PEEPL",
@@ -347,7 +348,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CJH*LD*060.39/2.75",
+		"updated": "CJH*LD*060.39/2.75"
 	},
 	{
 		"name": "PEEPS",
@@ -356,7 +357,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PMM*VOR/DME*260.61",
+		"updated": "PMM*VOR/DME*260.61"
 	},
 	{
 		"name": "PEGAE",
@@ -365,7 +366,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "PEKAY",
@@ -374,7 +375,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "MR",
-		"updated": "VOK*TACAN*097.00/15.00",
+		"updated": "VOK*TACAN*097.00/15.00"
 	},
 	{
 		"name": "PEKDE",
@@ -383,7 +384,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/28/2011",
+		"updated": "03/28/2011"
 	},
 	{
 		"name": "PEKUE",
@@ -392,7 +393,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "PELIY",
@@ -401,7 +402,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "TNU*VOR/DME*102.26/17.68",
+		"updated": "TNU*VOR/DME*102.26/17.68"
 	},
 	{
 		"name": "PEMOE",
@@ -410,7 +411,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/19/2007",
+		"updated": "07/19/2007"
 	},
 	{
 		"name": "PEPAW",
@@ -419,7 +420,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "SXH*LD*272.86/16.36",
+		"updated": "SXH*LD*272.86/16.36"
 	},
 	{
 		"name": "PEPRE",
@@ -428,7 +429,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/10/2010",
+		"updated": "05/10/2010"
 	},
 	{
 		"name": "PEQHI",
@@ -437,7 +438,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "PETAH",
@@ -446,7 +447,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "PETTY",
@@ -455,7 +456,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*119.00/33.50",
+		"updated": "BAE*VOR/DME*119.00/33.50"
 	},
 	{
 		"name": "PHEEB",
@@ -464,7 +465,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "PHLLP",
@@ -473,7 +474,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "PHONO",
@@ -482,7 +483,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2015",
+		"updated": "11/18/2015"
 	},
 	{
 		"name": "PHRLY",
@@ -491,7 +492,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "PICRA",
@@ -500,7 +501,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/26/2008",
+		"updated": "03/26/2008"
 	},
 	{
 		"name": "PIDGE",
@@ -509,7 +510,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/08/2017",
+		"updated": "02/08/2017"
 	},
 	{
 		"name": "PIGGG",
@@ -518,7 +519,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "PIKNY",
@@ -527,7 +528,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2016",
+		"updated": "11/18/2016"
 	},
 	{
 		"name": "PIKVE",
@@ -536,7 +537,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/22/2009",
+		"updated": "09/22/2009"
 	},
 	{
 		"name": "PILAE",
@@ -545,7 +546,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "PILVE",
@@ -554,7 +555,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/16/2011",
+		"updated": "02/16/2011"
 	},
 	{
 		"name": "PIMKE",
@@ -563,7 +564,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/13/2005",
+		"updated": "09/13/2005"
 	},
 	{
 		"name": "PINHI",
@@ -572,7 +573,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "MR",
-		"updated": "MSN*VORTAC*181.00/15.00",
+		"updated": "MSN*VORTAC*181.00/15.00"
 	},
 	{
 		"name": "PINKK",
@@ -581,7 +582,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "PINKY",
@@ -590,7 +591,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OSH*VORTAC*090.00",
+		"updated": "OSH*VORTAC*090.00"
 	},
 	{
 		"name": "PIPKE",
@@ -599,7 +600,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/19/2018",
+		"updated": "04/19/2018"
 	},
 	{
 		"name": "PIPPN",
@@ -608,7 +609,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "PITVA",
@@ -617,7 +618,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "MR",
-		"updated": "FWA*VORTAC*038.00/5.50",
+		"updated": "FWA*VORTAC*038.00/5.50"
 	},
 	{
 		"name": "PIVOT",
@@ -626,7 +627,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*081.16/37.88",
+		"updated": "OBK*VOR/DME*081.16/37.88"
 	},
 	{
 		"name": "PIXOE",
@@ -635,7 +636,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/01/2011",
+		"updated": "03/01/2011"
 	},
 	{
 		"name": "PKACH",
@@ -644,7 +645,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/28/2014",
+		"updated": "05/28/2014"
 	},
 	{
 		"name": "PLACH",
@@ -653,7 +654,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/20/2001",
+		"updated": "09/20/2001"
 	},
 	{
 		"name": "PLAIN",
@@ -662,7 +663,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*VORTAC*005.00/47.90",
+		"updated": "FWA*VORTAC*005.00/47.90"
 	},
 	{
 		"name": "PLANO",
@@ -671,7 +672,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PNT*VOR/DME*003.43/47.76",
+		"updated": "PNT*VOR/DME*003.43/47.76"
 	},
 	{
 		"name": "PLOPP",
@@ -680,7 +681,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/16/2013",
+		"updated": "05/16/2013"
 	},
 	{
 		"name": "PMPKN",
@@ -689,7 +690,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "POBER",
@@ -698,7 +699,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OSH*VORTAC*/7.00",
+		"updated": "OSH*VORTAC*/7.00"
 	},
 	{
 		"name": "POCIN",
@@ -707,7 +708,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MZV*VOR/DME*252.67/15.44",
+		"updated": "MZV*VOR/DME*252.67/15.44"
 	},
 	{
 		"name": "PODGE",
@@ -716,7 +717,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OTM*VOR/DME*304.03/12.38",
+		"updated": "OTM*VOR/DME*304.03/12.38"
 	},
 	{
 		"name": "POJZI",
@@ -725,7 +726,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/14/2008",
+		"updated": "11/14/2008"
 	},
 	{
 		"name": "POKLY",
@@ -734,7 +735,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "PONCC",
@@ -743,7 +744,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*158.24",
+		"updated": "OBK*VOR/DME*158.24"
 	},
 	{
 		"name": "POOGY",
@@ -752,7 +753,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "POPEE",
@@ -761,7 +762,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RFD*VOR/DME*085.00",
+		"updated": "RFD*VOR/DME*085.00"
 	},
 	{
 		"name": "POPME",
@@ -770,7 +771,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*184.27",
+		"updated": "OBK*VOR/DME*184.27"
 	},
 	{
 		"name": "POPOF",
@@ -779,7 +780,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "IZJ*LD*273.87/24.57",
+		"updated": "IZJ*LD*273.87/24.57"
 	},
 	{
 		"name": "POQJU",
@@ -788,7 +789,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OTM*VOR/DME*187.00/10.00",
+		"updated": "OTM*VOR/DME*187.00/10.00"
 	},
 	{
 		"name": "PORCO",
@@ -797,7 +798,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/08/2008",
+		"updated": "12/08/2008"
 	},
 	{
 		"name": "POSOC",
@@ -806,7 +807,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/26/2016",
+		"updated": "05/26/2016"
 	},
 	{
 		"name": "POSSM",
@@ -815,7 +816,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "POSTS",
@@ -824,7 +825,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/20/2014",
+		"updated": "09/20/2014"
 	},
 	{
 		"name": "POTES",
@@ -833,7 +834,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VHP*VORTAC*311.00/45.79",
+		"updated": "VHP*VORTAC*311.00/45.79"
 	},
 	{
 		"name": "POTIY",
@@ -842,7 +843,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/29/2008",
+		"updated": "07/29/2008"
 	},
 	{
 		"name": "POXAE",
@@ -851,7 +852,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/16/2016",
+		"updated": "05/16/2016"
 	},
 	{
 		"name": "POYIK",
@@ -860,7 +861,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/05/2013",
+		"updated": "08/05/2013"
 	},
 	{
 		"name": "POYIN",
@@ -869,7 +870,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/12/2007",
+		"updated": "12/12/2007"
 	},
 	{
 		"name": "POYIV",
@@ -878,7 +879,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "POYOC",
@@ -887,7 +888,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "PRADY",
@@ -896,7 +897,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/20/2015",
+		"updated": "08/20/2015"
 	},
 	{
 		"name": "PRAIR",
@@ -905,7 +906,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OXI*VOR/DME*008.00",
+		"updated": "OXI*VOR/DME*008.00"
 	},
 	{
 		"name": "PRATT",
@@ -914,7 +915,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MED*LD*272.86/15.81",
+		"updated": "MED*LD*272.86/15.81"
 	},
 	{
 		"name": "PRFEC",
@@ -923,7 +924,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/01/2014",
+		"updated": "04/01/2014"
 	},
 	{
 		"name": "PRIMO",
@@ -932,7 +933,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/18/2008",
+		"updated": "03/18/2008"
 	},
 	{
 		"name": "PRING",
@@ -941,7 +942,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MKG*VORTAC*222.00/6.00",
+		"updated": "MKG*VORTAC*222.00/6.00"
 	},
 	{
 		"name": "PRISE",
@@ -950,7 +951,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/30/2008",
+		"updated": "09/30/2008"
 	},
 	{
 		"name": "PRIUS",
@@ -959,7 +960,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/16/2013",
+		"updated": "05/16/2013"
 	},
 	{
 		"name": "PRONK",
@@ -968,7 +969,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "PROOT",
@@ -977,7 +978,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*085.41/25.55",
+		"updated": "BAE*VOR/DME*085.41/25.55"
 	},
 	{
 		"name": "PUBEE",
@@ -986,7 +987,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CID*VOR/DME*263.82/7.35",
+		"updated": "CID*VOR/DME*263.82/7.35"
 	},
 	{
 		"name": "PUCJU",
@@ -995,7 +996,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2016",
+		"updated": "05/24/2016"
 	},
 	{
 		"name": "PUCOT",
@@ -1004,7 +1005,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "PUDAE",
@@ -1013,7 +1014,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "PUDEE",
@@ -1022,7 +1023,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "LNR*VOR/DME*137.40",
+		"updated": "LNR*VOR/DME*137.40"
 	},
 	{
 		"name": "PUDLE",
@@ -1031,7 +1032,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "MW",
-		"updated": "11/18/2016",
+		"updated": "11/18/2016"
 	},
 	{
 		"name": "PUGNE",
@@ -1040,7 +1041,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "PUJLA",
@@ -1049,7 +1050,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/27/2015",
+		"updated": "01/27/2015"
 	},
 	{
 		"name": "PUMMA",
@@ -1058,7 +1059,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2016",
+		"updated": "05/24/2016"
 	},
 	{
 		"name": "PUPCE",
@@ -1067,7 +1068,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/04/2010",
+		"updated": "03/04/2010"
 	},
 	{
 		"name": "PURNY",
@@ -1076,7 +1077,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*078.21/102.15",
+		"updated": "BAE*VOR/DME*078.21/102.15"
 	},
 	{
 		"name": "PURTY",
@@ -1085,7 +1086,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/02/2013",
+		"updated": "05/02/2013"
 	},
 	{
 		"name": "PUSHY",
@@ -1094,7 +1095,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BVT*VORTAC*116.00/7.00",
+		"updated": "BVT*VORTAC*116.00/7.00"
 	},
 	{
 		"name": "PUYAF",
@@ -1103,7 +1104,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "PUYIR",
@@ -1112,7 +1113,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/20/2009",
+		"updated": "01/20/2009"
 	},
 	{
 		"name": "PUZRU",
@@ -1121,5 +1122,6 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/16/2006",
-	},
+		"updated": "08/16/2006"
+	}
+]

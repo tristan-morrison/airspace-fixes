@@ -1,3 +1,4 @@
+[
 	{
 		"name": "FABDO",
 		"latitude": "40-4-34.4 N",
@@ -5,7 +6,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "APE*VORTAC*241.93/8.00",
+		"updated": "APE*VORTAC*241.93/8.00"
 	},
 	{
 		"name": "FABKA",
@@ -14,7 +15,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/11/2014",
+		"updated": "04/11/2014"
 	},
 	{
 		"name": "FABVU",
@@ -23,7 +24,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/02/2012",
+		"updated": "08/02/2012"
 	},
 	{
 		"name": "FADDR",
@@ -32,7 +33,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/05/2012",
+		"updated": "06/05/2012"
 	},
 	{
 		"name": "FAIRF",
@@ -41,7 +42,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "APE*VORTAC*168.49/25.67",
+		"updated": "APE*VORTAC*168.49/25.67"
 	},
 	{
 		"name": "FALAX",
@@ -50,7 +51,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "03/31/2009",
+		"updated": "03/31/2009"
 	},
 	{
 		"name": "FAMIL",
@@ -59,7 +60,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "FAMRU",
@@ -68,7 +69,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/20/2018",
+		"updated": "02/20/2018"
 	},
 	{
 		"name": "FAMTU",
@@ -77,7 +78,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/23/2003",
+		"updated": "09/23/2003"
 	},
 	{
 		"name": "FANSA",
@@ -86,7 +87,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "FANTN",
@@ -95,7 +96,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/28/2009",
+		"updated": "06/28/2009"
 	},
 	{
 		"name": "FANUN",
@@ -104,7 +105,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "FFO*TACAN*233.00/12.00",
+		"updated": "FFO*TACAN*233.00/12.00"
 	},
 	{
 		"name": "FAPER",
@@ -113,7 +114,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/17/2012",
+		"updated": "09/17/2012"
 	},
 	{
 		"name": "FAREV",
@@ -122,7 +123,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/08/2013",
+		"updated": "07/08/2013"
 	},
 	{
 		"name": "FARLN",
@@ -131,7 +132,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "ZZV*VOR/DME*182.53/33.86",
+		"updated": "ZZV*VOR/DME*182.53/33.86"
 	},
 	{
 		"name": "FARUM",
@@ -140,7 +141,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/15/2008",
+		"updated": "04/15/2008"
 	},
 	{
 		"name": "FASAT",
@@ -149,7 +150,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/09/2012",
+		"updated": "04/09/2012"
 	},
 	{
 		"name": "FASVU",
@@ -158,7 +159,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "10/19/2009",
+		"updated": "10/19/2009"
 	},
 	{
 		"name": "FAXIG",
@@ -167,7 +168,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "MIE*VOR/DME*062.57/8.77",
+		"updated": "MIE*VOR/DME*062.57/8.77"
 	},
 	{
 		"name": "FEBLU",
@@ -176,7 +177,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "FEDEX",
@@ -185,7 +186,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "HVQ*VOR/DME*173.14/17.00",
+		"updated": "HVQ*VOR/DME*173.14/17.00"
 	},
 	{
 		"name": "FEDIK",
@@ -194,7 +195,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/03/2004",
+		"updated": "08/03/2004"
 	},
 	{
 		"name": "FEDIS",
@@ -203,7 +204,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "03/08/2012",
+		"updated": "03/08/2012"
 	},
 	{
 		"name": "FEDRA",
@@ -212,7 +213,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "IIU*VORTAC*097.57/22.86",
+		"updated": "IIU*VORTAC*097.57/22.86"
 	},
 	{
 		"name": "FEGEG",
@@ -221,7 +222,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/17/2013",
+		"updated": "07/17/2013"
 	},
 	{
 		"name": "FEHOP",
@@ -230,7 +231,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/27/2009",
+		"updated": "04/27/2009"
 	},
 	{
 		"name": "FEIAT",
@@ -239,7 +240,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "FEKLO",
@@ -248,7 +249,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "10/05/2017",
+		"updated": "10/05/2017"
 	},
 	{
 		"name": "FEKVU",
@@ -257,7 +258,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/14/2014",
+		"updated": "11/14/2014"
 	},
 	{
 		"name": "FELAK",
@@ -266,7 +267,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/03/2004",
+		"updated": "02/03/2004"
 	},
 	{
 		"name": "FELIT",
@@ -275,7 +276,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "LOZ*VOR/DME*205.32/8.96",
+		"updated": "LOZ*VOR/DME*205.32/8.96"
 	},
 	{
 		"name": "FELPO",
@@ -284,7 +285,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/12/2013",
+		"updated": "08/12/2013"
 	},
 	{
 		"name": "FEMGO",
@@ -293,7 +294,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "FEMLU",
@@ -302,7 +303,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "FTK*VOR/DME*006.36/0.43",
+		"updated": "FTK*VOR/DME*006.36/0.43"
 	},
 	{
 		"name": "FEMSA",
@@ -311,7 +312,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/21/2010",
+		"updated": "06/21/2010"
 	},
 	{
 		"name": "FENLA",
@@ -320,7 +321,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/25/2003",
+		"updated": "04/25/2003"
 	},
 	{
 		"name": "FENLU",
@@ -329,7 +330,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "FERAD",
@@ -338,7 +339,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/25/2003",
+		"updated": "04/25/2003"
 	},
 	{
 		"name": "FERLO",
@@ -347,7 +348,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "MR",
-		"updated": "FFO*TACAN*239.00/12.00",
+		"updated": "FFO*TACAN*239.00/12.00"
 	},
 	{
 		"name": "FERNY",
@@ -356,7 +357,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "IIU*VORTAC*330.14/3.40",
+		"updated": "IIU*VORTAC*330.14/3.40"
 	},
 	{
 		"name": "FETAV",
@@ -365,7 +366,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/25/2012",
+		"updated": "04/25/2012"
 	},
 	{
 		"name": "FETEG",
@@ -374,7 +375,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/21/2005",
+		"updated": "04/21/2005"
 	},
 	{
 		"name": "FETOV",
@@ -383,7 +384,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/20/2005",
+		"updated": "06/20/2005"
 	},
 	{
 		"name": "FEXAM",
@@ -392,7 +393,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/18/2010",
+		"updated": "04/18/2010"
 	},
 	{
 		"name": "FEXIL",
@@ -401,7 +402,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "CMI*VORTAC*121.21/12.00",
+		"updated": "CMI*VORTAC*121.21/12.00"
 	},
 	{
 		"name": "FFOXX",
@@ -410,7 +411,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/03/2012",
+		"updated": "12/03/2012"
 	},
 	{
 		"name": "FIBKE",
@@ -419,7 +420,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "FIDEK",
@@ -428,7 +429,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/29/2006",
+		"updated": "11/29/2006"
 	},
 	{
 		"name": "FIDGI",
@@ -437,7 +438,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/18/2007",
+		"updated": "12/18/2007"
 	},
 	{
 		"name": "FIDIK",
@@ -446,7 +447,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/18/2012",
+		"updated": "06/18/2012"
 	},
 	{
 		"name": "FIDVO",
@@ -455,7 +456,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/18/2012",
+		"updated": "06/18/2012"
 	},
 	{
 		"name": "FIGIT",
@@ -464,7 +465,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/16/2015",
+		"updated": "07/16/2015"
 	},
 	{
 		"name": "FIGLA",
@@ -473,7 +474,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "FIGPU",
@@ -482,7 +483,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "03/28/2012",
+		"updated": "03/28/2012"
 	},
 	{
 		"name": "FIGRA",
@@ -491,7 +492,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/08/2013",
+		"updated": "05/08/2013"
 	},
 	{
 		"name": "FIIRE",
@@ -500,7 +501,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/20/2016",
+		"updated": "09/20/2016"
 	},
 	{
 		"name": "FIKTO",
@@ -509,7 +510,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/18/2012",
+		"updated": "06/18/2012"
 	},
 	{
 		"name": "FIKVI",
@@ -518,7 +519,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/13/2010",
+		"updated": "08/13/2010"
 	},
 	{
 		"name": "FILES",
@@ -527,7 +528,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "EKN*VORTAC*254.00/28.80",
+		"updated": "EKN*VORTAC*254.00/28.80"
 	},
 	{
 		"name": "FILMS",
@@ -536,7 +537,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "VHP*VORTAC*243.73/18.85",
+		"updated": "VHP*VORTAC*243.73/18.85"
 	},
 	{
 		"name": "FIMAP",
@@ -545,7 +546,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "TTH*VORTAC*/15.00",
+		"updated": "TTH*VORTAC*/15.00"
 	},
 	{
 		"name": "FIMOJ",
@@ -554,7 +555,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/19/2014",
+		"updated": "12/19/2014"
 	},
 	{
 		"name": "FIMPA",
@@ -563,7 +564,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "FINCH",
@@ -572,7 +573,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "IIU*VORTAC*080.00/17.97",
+		"updated": "IIU*VORTAC*080.00/17.97"
 	},
 	{
 		"name": "FINED",
@@ -581,7 +582,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "10/01/2008",
+		"updated": "10/01/2008"
 	},
 	{
 		"name": "FINUM",
@@ -590,7 +591,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "XSF*TACAN*160.00/15.00",
+		"updated": "XSF*TACAN*160.00/15.00"
 	},
 	{
 		"name": "FIPVA",
@@ -599,7 +600,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "FIVAX",
@@ -608,7 +609,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/02/2018",
+		"updated": "05/02/2018"
 	},
 	{
 		"name": "FIVRI",
@@ -617,7 +618,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/15/2006",
+		"updated": "05/15/2006"
 	},
 	{
 		"name": "FLENR",
@@ -626,7 +627,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "AZQ*VOR/DME*140.01/37.02",
+		"updated": "AZQ*VOR/DME*140.01/37.02"
 	},
 	{
 		"name": "FLOEE",
@@ -635,7 +636,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/13/2010",
+		"updated": "02/13/2010"
 	},
 	{
 		"name": "FLUYT",
@@ -644,7 +645,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/26/2014",
+		"updated": "11/26/2014"
 	},
 	{
 		"name": "FLYRR",
@@ -653,7 +654,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "MW",
-		"updated": "12/31/2012",
+		"updated": "12/31/2012"
 	},
 	{
 		"name": "FNGRS",
@@ -662,7 +663,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/24/2001",
+		"updated": "09/24/2001"
 	},
 	{
 		"name": "FOBAG",
@@ -671,7 +672,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "FOBAL",
@@ -680,7 +681,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "MR",
-		"updated": "FFO*TACAN*/3.50",
+		"updated": "FFO*TACAN*/3.50"
 	},
 	{
 		"name": "FOBKA",
@@ -689,7 +690,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/20/2005",
+		"updated": "06/20/2005"
 	},
 	{
 		"name": "FODAN",
@@ -698,7 +699,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "SGH*VOR/DME*143.00/17.35",
+		"updated": "SGH*VOR/DME*143.00/17.35"
 	},
 	{
 		"name": "FODBO",
@@ -707,7 +708,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/22/2012",
+		"updated": "05/22/2012"
 	},
 	{
 		"name": "FODCU",
@@ -716,7 +717,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "03/22/2009",
+		"updated": "03/22/2009"
 	},
 	{
 		"name": "FOFWI",
@@ -725,7 +726,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "FOGAG",
@@ -734,7 +735,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "HVQ*VOR/DME*083.73/6.00",
+		"updated": "HVQ*VOR/DME*083.73/6.00"
 	},
 	{
 		"name": "FOGBU",
@@ -743,7 +744,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "FOGEB",
@@ -752,7 +753,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "FOGLU",
@@ -761,7 +762,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/01/2010",
+		"updated": "02/01/2010"
 	},
 	{
 		"name": "FOGPE",
@@ -770,7 +771,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "MW",
-		"updated": "10/28/2010",
+		"updated": "10/28/2010"
 	},
 	{
 		"name": "FOLAB",
@@ -779,7 +780,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/06/2012",
+		"updated": "11/06/2012"
 	},
 	{
 		"name": "FOLIV",
@@ -788,7 +789,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/04/2008",
+		"updated": "12/04/2008"
 	},
 	{
 		"name": "FOLMU",
@@ -797,7 +798,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "GZG*VOR/DME*326.98/18.14",
+		"updated": "GZG*VOR/DME*326.98/18.14"
 	},
 	{
 		"name": "FOMAN",
@@ -806,7 +807,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/29/2010",
+		"updated": "07/29/2010"
 	},
 	{
 		"name": "FOMGI",
@@ -815,7 +816,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/07/2012",
+		"updated": "08/07/2012"
 	},
 	{
 		"name": "FOMOP",
@@ -824,7 +825,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/31/2009",
+		"updated": "12/31/2009"
 	},
 	{
 		"name": "FOMUV",
@@ -833,7 +834,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/04/2011",
+		"updated": "07/04/2011"
 	},
 	{
 		"name": "FONAT",
@@ -842,7 +843,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/07/2012",
+		"updated": "08/07/2012"
 	},
 	{
 		"name": "FOOTE",
@@ -851,7 +852,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "FWA*VORTAC*209.38",
+		"updated": "FWA*VORTAC*209.38"
 	},
 	{
 		"name": "FOPAS",
@@ -860,7 +861,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/06/2011",
+		"updated": "05/06/2011"
 	},
 	{
 		"name": "FORBS",
@@ -869,7 +870,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/19/2011",
+		"updated": "01/19/2011"
 	},
 	{
 		"name": "FORIV",
@@ -878,7 +879,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/02/2014",
+		"updated": "12/02/2014"
 	},
 	{
 		"name": "FORKS",
@@ -887,7 +888,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "BWG*VORTAC*074.00",
+		"updated": "BWG*VORTAC*074.00"
 	},
 	{
 		"name": "FOSDU",
@@ -896,7 +897,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/11/2009",
+		"updated": "07/11/2009"
 	},
 	{
 		"name": "FOUNT",
@@ -905,7 +906,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "VXV*VORTAC*356.22/63.48",
+		"updated": "VXV*VORTAC*356.22/63.48"
 	},
 	{
 		"name": "FOVER",
@@ -914,7 +915,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "MR",
-		"updated": "FFO*TACAN*056.00/1.80",
+		"updated": "FFO*TACAN*056.00/1.80"
 	},
 	{
 		"name": "FOVKU",
@@ -923,7 +924,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/11/2014",
+		"updated": "04/11/2014"
 	},
 	{
 		"name": "FOVRA",
@@ -932,7 +933,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/13/2007",
+		"updated": "04/13/2007"
 	},
 	{
 		"name": "FOYTT",
@@ -941,7 +942,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "VHP*VORTAC*174.00/46.52",
+		"updated": "VHP*VORTAC*174.00/46.52"
 	},
 	{
 		"name": "FRAAM",
@@ -950,7 +951,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "DQN*VOR/DME*208.00/16.31",
+		"updated": "DQN*VOR/DME*208.00/16.31"
 	},
 	{
 		"name": "FRATE",
@@ -959,7 +960,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "FRAZE",
@@ -968,7 +969,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "CIZ*LD*004.21/6.35",
+		"updated": "CIZ*LD*004.21/6.35"
 	},
 	{
 		"name": "FRENY",
@@ -977,7 +978,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "10/05/2016",
+		"updated": "10/05/2016"
 	},
 	{
 		"name": "FRICC",
@@ -986,7 +987,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "AIR*VOR/DME*263.00/63.18",
+		"updated": "AIR*VOR/DME*263.00/63.18"
 	},
 	{
 		"name": "FRIZN",
@@ -995,7 +996,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "IIU*VORTAC*316.17/50.01",
+		"updated": "IIU*VORTAC*316.17/50.01"
 	},
 	{
 		"name": "FRNZI",
@@ -1004,7 +1005,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/08/2006",
+		"updated": "08/08/2006"
 	},
 	{
 		"name": "FRTZY",
@@ -1013,7 +1014,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/15/2008",
+		"updated": "04/15/2008"
 	},
 	{
 		"name": "FTBLL",
@@ -1022,7 +1023,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "IND*LD*229.54/12.10",
+		"updated": "IND*LD*229.54/12.10"
 	},
 	{
 		"name": "FULER",
@@ -1031,7 +1032,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "OS*NDB*",
+		"updated": "OS*NDB*"
 	},
 	{
 		"name": "FUSTO",
@@ -1040,7 +1041,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "VHP*VORTAC*078.31",
+		"updated": "VHP*VORTAC*078.31"
 	},
 	{
 		"name": "FYLLS",
@@ -1049,5 +1050,6 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "VHP*VORTAC*084.51/80.44",
-	},
+		"updated": "VHP*VORTAC*084.51/80.44"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "NOVKE",
 		"latitude": "13-29-30.33 N",
@@ -5,5 +6,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "AJA*NDB*060.51",
-	},
+		"updated": "AJA*NDB*060.51"
+	}
+]

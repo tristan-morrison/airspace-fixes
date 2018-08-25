@@ -1,3 +1,4 @@
+[
 	{
 		"name": "YASSU",
 		"latitude": "13-28-12.93 N",
@@ -5,5 +6,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*274.00/9.00",
-	},
+		"updated": "UNZ*VORTAC*274.00/9.00"
+	}
+]

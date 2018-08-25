@@ -1,3 +1,4 @@
+[
 	{
 		"name": "GAATZ",
 		"latitude": "33-54-13.61 N",
@@ -5,7 +6,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "PRX*VOR/DME*309.87",
+		"updated": "PRX*VOR/DME*309.87"
 	},
 	{
 		"name": "GACEB",
@@ -14,7 +15,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "UKW*VORTAC*233.06/54.66",
+		"updated": "UKW*VORTAC*233.06/54.66"
 	},
 	{
 		"name": "GACHO",
@@ -23,7 +24,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "RRA*LD*131.28/16.59",
+		"updated": "RRA*LD*131.28/16.59"
 	},
 	{
 		"name": "GADTE",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/10/2009",
+		"updated": "07/10/2009"
 	},
 	{
 		"name": "GAINS",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "JEN*VORTAC*127.60/18.00",
+		"updated": "JEN*VORTAC*127.60/18.00"
 	},
 	{
 		"name": "GALIO",
@@ -50,7 +51,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MLU*VORTAC*038.10/15.64",
+		"updated": "MLU*VORTAC*038.10/15.64"
 	},
 	{
 		"name": "GALOP",
@@ -59,7 +60,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "AJQ*LD*176.27/16.69",
+		"updated": "AJQ*LD*176.27/16.69"
 	},
 	{
 		"name": "GAMMS",
@@ -68,7 +69,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ELD*VOR/DME*168.00",
+		"updated": "ELD*VOR/DME*168.00"
 	},
 	{
 		"name": "GAMRE",
@@ -77,7 +78,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/11/2008",
+		"updated": "07/11/2008"
 	},
 	{
 		"name": "GANJA",
@@ -86,7 +87,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "GTH*VORTAC*359.05",
+		"updated": "GTH*VORTAC*359.05"
 	},
 	{
 		"name": "GAREE",
@@ -95,7 +96,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2014",
+		"updated": "07/08/2014"
 	},
 	{
 		"name": "GARZA",
@@ -104,7 +105,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "JHZ*LD*356.26/16.17",
+		"updated": "JHZ*LD*356.26/16.17"
 	},
 	{
 		"name": "GASSR",
@@ -113,7 +114,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/17/2015",
+		"updated": "12/17/2015"
 	},
 	{
 		"name": "GATER",
@@ -122,7 +123,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SPS*VORTAC*276.00/45.00",
+		"updated": "SPS*VORTAC*276.00/45.00"
 	},
 	{
 		"name": "GATIS",
@@ -131,7 +132,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "JEN*VORTAC*037.86/30.60",
+		"updated": "JEN*VORTAC*037.86/30.60"
 	},
 	{
 		"name": "GAVVN",
@@ -140,7 +141,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/07/2011",
+		"updated": "03/07/2011"
 	},
 	{
 		"name": "GAWDO",
@@ -149,7 +150,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/19/2011",
+		"updated": "12/19/2011"
 	},
 	{
 		"name": "GBEAR",
@@ -158,7 +159,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/08/2014",
+		"updated": "07/08/2014"
 	},
 	{
 		"name": "GBUSH",
@@ -167,7 +168,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "FUZ*VORTAC*049.33",
+		"updated": "FUZ*VORTAC*049.33"
 	},
 	{
 		"name": "GEBCE",
@@ -176,7 +177,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/12/2005",
+		"updated": "04/12/2005"
 	},
 	{
 		"name": "GECKE",
@@ -185,7 +186,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "HOB*VORTAC*113.18/17.00",
+		"updated": "HOB*VORTAC*113.18/17.00"
 	},
 	{
 		"name": "GEEKY",
@@ -194,7 +195,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "GEEMC",
@@ -203,7 +204,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/13/2014",
+		"updated": "07/13/2014"
 	},
 	{
 		"name": "GEENI",
@@ -212,7 +213,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "JEN*VORTAC*267.16/54.83",
+		"updated": "JEN*VORTAC*267.16/54.83"
 	},
 	{
 		"name": "GEGPE",
@@ -221,7 +222,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/17/2005",
+		"updated": "10/17/2005"
 	},
 	{
 		"name": "GEGRE",
@@ -230,7 +231,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "PKQ*LD*S CRS/11.69",
+		"updated": "PKQ*LD*S CRS/11.69"
 	},
 	{
 		"name": "GENLY",
@@ -239,7 +240,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/15/2011",
+		"updated": "12/15/2011"
 	},
 	{
 		"name": "GENOA",
@@ -248,7 +249,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/31/2008",
+		"updated": "03/31/2008"
 	},
 	{
 		"name": "GEREC",
@@ -257,7 +258,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/30/2011",
+		"updated": "06/30/2011"
 	},
 	{
 		"name": "GESKE",
@@ -266,7 +267,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "MJF*TACAN*186.34/11.00",
+		"updated": "MJF*TACAN*186.34/11.00"
 	},
 	{
 		"name": "GEVME",
@@ -275,7 +276,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/12/2001",
+		"updated": "02/12/2001"
 	},
 	{
 		"name": "GEVNE",
@@ -284,7 +285,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/27/2014",
+		"updated": "05/27/2014"
 	},
 	{
 		"name": "GEYEG",
@@ -293,7 +294,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/06/2012",
+		"updated": "04/06/2012"
 	},
 	{
 		"name": "GEYEP",
@@ -302,7 +303,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/17/2005",
+		"updated": "10/17/2005"
 	},
 	{
 		"name": "GGOLD",
@@ -311,7 +312,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/27/2014",
+		"updated": "05/27/2014"
 	},
 	{
 		"name": "GHAUT",
@@ -320,7 +321,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/09/2014",
+		"updated": "07/09/2014"
 	},
 	{
 		"name": "GHOST",
@@ -329,7 +330,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/27/2014",
+		"updated": "05/27/2014"
 	},
 	{
 		"name": "GIBAR",
@@ -338,7 +339,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "MAF*VORTAC*298.00/8.00",
+		"updated": "MAF*VORTAC*298.00/8.00"
 	},
 	{
 		"name": "GIBBI",
@@ -347,7 +348,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CVE*VOR/DME*314.00/21.00",
+		"updated": "CVE*VOR/DME*314.00/21.00"
 	},
 	{
 		"name": "GIBLT",
@@ -356,7 +357,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "GIDER",
@@ -365,7 +366,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "EIC*VORTAC*218.00/30.43",
+		"updated": "EIC*VORTAC*218.00/30.43"
 	},
 	{
 		"name": "GIGEM",
@@ -374,7 +375,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/22/2005",
+		"updated": "08/22/2005"
 	},
 	{
 		"name": "GIGGS",
@@ -383,7 +384,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MWP*LE*238.90/12.01",
+		"updated": "MWP*LE*238.90/12.01"
 	},
 	{
 		"name": "GIGVE",
@@ -392,7 +393,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXK*VORTAC*264.80/8.28",
+		"updated": "TXK*VORTAC*264.80/8.28"
 	},
 	{
 		"name": "GIHYO",
@@ -401,7 +402,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/01/2010",
+		"updated": "02/01/2010"
 	},
 	{
 		"name": "GIMLE",
@@ -410,7 +411,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/27/2014",
+		"updated": "05/27/2014"
 	},
 	{
 		"name": "GIREW",
@@ -419,7 +420,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/02/2009",
+		"updated": "12/02/2009"
 	},
 	{
 		"name": "GIRRO",
@@ -428,7 +429,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "WP",
-		"updated": "12/28/1995",
+		"updated": "12/28/1995"
 	},
 	{
 		"name": "GIYET",
@@ -437,7 +438,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "GLARY",
@@ -446,7 +447,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/18/2011",
+		"updated": "08/18/2011"
 	},
 	{
 		"name": "GLINT",
@@ -455,7 +456,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "JEN*VORTAC*275.47/9.50",
+		"updated": "JEN*VORTAC*275.47/9.50"
 	},
 	{
 		"name": "GLOKK",
@@ -464,7 +465,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "GLOPS",
@@ -473,7 +474,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/27/2014",
+		"updated": "05/27/2014"
 	},
 	{
 		"name": "GLOVE",
@@ -482,7 +483,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXK*VORTAC*285.85/55.89",
+		"updated": "TXK*VORTAC*285.85/55.89"
 	},
 	{
 		"name": "GOBBI",
@@ -491,7 +492,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/31/2006",
+		"updated": "05/31/2006"
 	},
 	{
 		"name": "GOCEP",
@@ -500,7 +501,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/23/2004",
+		"updated": "11/23/2004"
 	},
 	{
 		"name": "GOCTE",
@@ -509,7 +510,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/17/2015",
+		"updated": "12/17/2015"
 	},
 	{
 		"name": "GODHO",
@@ -518,7 +519,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "GGG*VORTAC*252.83/10.00",
+		"updated": "GGG*VORTAC*252.83/10.00"
 	},
 	{
 		"name": "GODNE",
@@ -527,7 +528,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/02/2016",
+		"updated": "11/02/2016"
 	},
 	{
 		"name": "GOFDO",
@@ -536,7 +537,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/10/2010",
+		"updated": "02/10/2010"
 	},
 	{
 		"name": "GOKEC",
@@ -545,7 +546,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "GGG*VORTAC*294.58/18.00",
+		"updated": "GGG*VORTAC*294.58/18.00"
 	},
 	{
 		"name": "GOKNE",
@@ -554,7 +555,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/28/2007",
+		"updated": "12/28/2007"
 	},
 	{
 		"name": "GOLGY",
@@ -563,7 +564,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/23/2002",
+		"updated": "09/23/2002"
 	},
 	{
 		"name": "GOMIT",
@@ -572,7 +573,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "INK*VORTAC*055.01/32.79",
+		"updated": "INK*VORTAC*055.01/32.79"
 	},
 	{
 		"name": "GONTE",
@@ -581,7 +582,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MW",
-		"updated": "02/26/2010",
+		"updated": "02/26/2010"
 	},
 	{
 		"name": "GOOPY",
@@ -590,7 +591,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/01/2016",
+		"updated": "11/01/2016"
 	},
 	{
 		"name": "GORDE",
@@ -599,7 +600,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "GGG*VORTAC*/10.00",
+		"updated": "GGG*VORTAC*/10.00"
 	},
 	{
 		"name": "GORES",
@@ -608,7 +609,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "FSM*VORTAC*270.00/38.98",
+		"updated": "FSM*VORTAC*270.00/38.98"
 	},
 	{
 		"name": "GOVEC",
@@ -617,7 +618,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TYR*VOR/DME*124.99/0.57",
+		"updated": "TYR*VOR/DME*124.99/0.57"
 	},
 	{
 		"name": "GOVTY",
@@ -626,7 +627,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/21/2013",
+		"updated": "05/21/2013"
 	},
 	{
 		"name": "GOWON",
@@ -635,7 +636,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "WP",
-		"updated": "12/28/1995",
+		"updated": "12/28/1995"
 	},
 	{
 		"name": "GRABE",
@@ -644,7 +645,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "FUZ*VORTAC*012.00/35.40",
+		"updated": "FUZ*VORTAC*012.00/35.40"
 	},
 	{
 		"name": "GRAZN",
@@ -653,7 +654,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/17/2006",
+		"updated": "02/17/2006"
 	},
 	{
 		"name": "GRCIA",
@@ -662,7 +663,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/01/2015",
+		"updated": "07/01/2015"
 	},
 	{
 		"name": "GREGS",
@@ -671,7 +672,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CVE*VOR/DME*314.00/43.90",
+		"updated": "CVE*VOR/DME*314.00/43.90"
 	},
 	{
 		"name": "GREKE",
@@ -680,7 +681,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/13/2014",
+		"updated": "07/13/2014"
 	},
 	{
 		"name": "GROFF",
@@ -689,7 +690,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/19/2017",
+		"updated": "12/19/2017"
 	},
 	{
 		"name": "GRUCH",
@@ -698,7 +699,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CIX*LD*356.25/16.74",
+		"updated": "CIX*LD*356.25/16.74"
 	},
 	{
 		"name": "GRUPE",
@@ -707,7 +708,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "BWD*VOR/DME*170.83/12.00",
+		"updated": "BWD*VOR/DME*170.83/12.00"
 	},
 	{
 		"name": "GRUVN",
@@ -716,7 +717,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/27/2014",
+		"updated": "05/27/2014"
 	},
 	{
 		"name": "GUCES",
@@ -725,7 +726,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/16/2008",
+		"updated": "07/16/2008"
 	},
 	{
 		"name": "GUDEC",
@@ -734,7 +735,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXK*VORTAC*233.13/7.00",
+		"updated": "TXK*VORTAC*233.13/7.00"
 	},
 	{
 		"name": "GUFCO",
@@ -743,7 +744,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "SHP*TACAN*329.00/6.00",
+		"updated": "SHP*TACAN*329.00/6.00"
 	},
 	{
 		"name": "GUKSE",
@@ -752,7 +753,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "RRA*LD*131.28/3.12",
+		"updated": "RRA*LD*131.28/3.12"
 	},
 	{
 		"name": "GULRE",
@@ -761,7 +762,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LAW*VOR/DME*167.39/7.00",
+		"updated": "LAW*VOR/DME*167.39/7.00"
 	},
 	{
 		"name": "GUNFE",
@@ -770,7 +771,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/03/2016",
+		"updated": "10/03/2016"
 	},
 	{
 		"name": "GUTEC",
@@ -779,7 +780,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/12/2005",
+		"updated": "08/12/2005"
 	},
 	{
 		"name": "GUTWO",
@@ -788,7 +789,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "GUTZZ",
@@ -797,7 +798,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/02/2016",
+		"updated": "04/02/2016"
 	},
 	{
 		"name": "GUUCH",
@@ -806,7 +807,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/07/2015",
+		"updated": "05/07/2015"
 	},
 	{
 		"name": "GUUDE",
@@ -815,7 +816,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LWN*LD*NW CRS/6.60",
+		"updated": "LWN*LD*NW CRS/6.60"
 	},
 	{
 		"name": "GUVEC",
@@ -824,7 +825,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/15/2011",
+		"updated": "06/15/2011"
 	},
 	{
 		"name": "GUYSE",
@@ -833,7 +834,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/17/2008",
+		"updated": "07/17/2008"
 	},
 	{
 		"name": "GVINE",
@@ -842,7 +843,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/27/2004",
+		"updated": "07/27/2004"
 	},
 	{
 		"name": "GYROE",
@@ -851,7 +852,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/07/2017",
+		"updated": "12/07/2017"
 	},
 	{
 		"name": "GZNTA",
@@ -860,5 +861,6 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/11/2015",
-	},
+		"updated": "05/11/2015"
+	}
+]

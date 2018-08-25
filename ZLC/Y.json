@@ -1,3 +1,4 @@
+[
 	{
 		"name": "YACSE",
 		"latitude": "44-42-4.66 N",
@@ -5,7 +6,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "YADDY",
@@ -14,7 +15,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "TCH*VORTAC*249.32/23.37",
+		"updated": "TCH*VORTAC*249.32/23.37"
 	},
 	{
 		"name": "YADNU",
@@ -23,7 +24,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/24/2017",
+		"updated": "08/24/2017"
 	},
 	{
 		"name": "YAFLU",
@@ -32,7 +33,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MLS*VOR/DME*044.00/75.46",
+		"updated": "MLS*VOR/DME*044.00/75.46"
 	},
 	{
 		"name": "YAGUP",
@@ -41,7 +42,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "02/02/2009",
+		"updated": "02/02/2009"
 	},
 	{
 		"name": "YAKKY",
@@ -50,7 +51,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/05/2014",
+		"updated": "03/05/2014"
 	},
 	{
 		"name": "YANKU",
@@ -59,7 +60,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BQU*VOR/DME*137.05/28.00",
+		"updated": "BQU*VOR/DME*137.05/28.00"
 	},
 	{
 		"name": "YARUL",
@@ -68,7 +69,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "10/11/2011",
+		"updated": "10/11/2011"
 	},
 	{
 		"name": "YARUP",
@@ -77,7 +78,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "DLN*VOR/DME*005.25/19.00",
+		"updated": "DLN*VOR/DME*005.25/19.00"
 	},
 	{
 		"name": "YAWVA",
@@ -86,7 +87,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "12/29/2015",
+		"updated": "12/29/2015"
 	},
 	{
 		"name": "YAYDO",
@@ -95,7 +96,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/14/2011",
+		"updated": "01/14/2011"
 	},
 	{
 		"name": "YEALO",
@@ -104,7 +105,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "MR",
-		"updated": "BIL*VORTAC*284.00/30.00",
+		"updated": "BIL*VORTAC*284.00/30.00"
 	},
 	{
 		"name": "YEGUL",
@@ -113,7 +114,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BIL*VORTAC*082.00/16.00",
+		"updated": "BIL*VORTAC*082.00/16.00"
 	},
 	{
 		"name": "YEGUR",
@@ -122,7 +123,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/22/2013",
+		"updated": "08/22/2013"
 	},
 	{
 		"name": "YENUP",
@@ -131,7 +132,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "YENUR",
@@ -140,7 +141,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/02/2017",
+		"updated": "11/02/2017"
 	},
 	{
 		"name": "YEPDU",
@@ -149,7 +150,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "02/28/2011",
+		"updated": "02/28/2011"
 	},
 	{
 		"name": "YERUP",
@@ -158,7 +159,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "PIH*VOR/DME*235.45/14.00",
+		"updated": "PIH*VOR/DME*235.45/14.00"
 	},
 	{
 		"name": "YERUT",
@@ -167,7 +168,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "HLN*VORTAC*/16.40",
+		"updated": "HLN*VORTAC*/16.40"
 	},
 	{
 		"name": "YESUT",
@@ -176,7 +177,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "LWT*VOR/DME*240.38/10.00",
+		"updated": "LWT*VOR/DME*240.38/10.00"
 	},
 	{
 		"name": "YICUN",
@@ -185,7 +186,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BMO*LD*101.75/4.22",
+		"updated": "BMO*LD*101.75/4.22"
 	},
 	{
 		"name": "YICYU",
@@ -194,7 +195,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/11/2017",
+		"updated": "07/11/2017"
 	},
 	{
 		"name": "YIGUD",
@@ -203,7 +204,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BMO*LD*101.75/9.88",
+		"updated": "BMO*LD*101.75/9.88"
 	},
 	{
 		"name": "YIKUK",
@@ -212,7 +213,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "TWF*VORTAC*191.45/34.06",
+		"updated": "TWF*VORTAC*191.45/34.06"
 	},
 	{
 		"name": "YILKO",
@@ -221,7 +222,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "12/12/2007",
+		"updated": "12/12/2007"
 	},
 	{
 		"name": "YIPKU",
@@ -230,7 +231,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/06/2015",
+		"updated": "03/06/2015"
 	},
 	{
 		"name": "YIRUR",
@@ -239,7 +240,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "TWF*VORTAC*191.45/10.00",
+		"updated": "TWF*VORTAC*191.45/10.00"
 	},
 	{
 		"name": "YITUL",
@@ -248,7 +249,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/14/2014",
+		"updated": "11/14/2014"
 	},
 	{
 		"name": "YLSTN",
@@ -257,7 +258,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/06/2015",
+		"updated": "03/06/2015"
 	},
 	{
 		"name": "YMONT",
@@ -266,7 +267,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "PUC*VOR/DME*292.70/43.05",
+		"updated": "PUC*VOR/DME*292.70/43.05"
 	},
 	{
 		"name": "YOBBO",
@@ -275,7 +276,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BQU*VOR/DME*011.60/26.97",
+		"updated": "BQU*VOR/DME*011.60/26.97"
 	},
 	{
 		"name": "YODUS",
@@ -284,7 +285,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/05/2013",
+		"updated": "11/05/2013"
 	},
 	{
 		"name": "YODVU",
@@ -293,7 +294,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BOI*VORTAC*098.00/2.40",
+		"updated": "BOI*VORTAC*098.00/2.40"
 	},
 	{
 		"name": "YOGOS",
@@ -302,7 +303,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "GTF*VORTAC*091.23/25.00",
+		"updated": "GTF*VORTAC*091.23/25.00"
 	},
 	{
 		"name": "YOGUC",
@@ -311,7 +312,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/21/2015",
+		"updated": "10/21/2015"
 	},
 	{
 		"name": "YOGUT",
@@ -320,7 +321,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/14/2006",
+		"updated": "08/14/2006"
 	},
 	{
 		"name": "YONUL",
@@ -329,7 +330,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "12/06/2006",
+		"updated": "12/06/2006"
 	},
 	{
 		"name": "YOSWO",
@@ -338,7 +339,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "YOTUV",
@@ -347,7 +348,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "04/27/2009",
+		"updated": "04/27/2009"
 	},
 	{
 		"name": "YOURN",
@@ -356,7 +357,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/06/2015",
+		"updated": "11/06/2015"
 	},
 	{
 		"name": "YOWLS",
@@ -365,7 +366,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "DNJ*VOR/DME*082.92/84.87",
+		"updated": "DNJ*VOR/DME*082.92/84.87"
 	},
 	{
 		"name": "YOYNO",
@@ -374,7 +375,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "HVR*VOR/DME*209.92/15.47",
+		"updated": "HVR*VOR/DME*209.92/15.47"
 	},
 	{
 		"name": "YOYYU",
@@ -383,7 +384,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "PIH*VOR/DME*317.81/71.60",
+		"updated": "PIH*VOR/DME*317.81/71.60"
 	},
 	{
 		"name": "YULUG",
@@ -392,7 +393,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "EVW*VOR/DME*224.21/0.06",
+		"updated": "EVW*VOR/DME*224.21/0.06"
 	},
 	{
 		"name": "YULUT",
@@ -401,7 +402,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/12/2011",
+		"updated": "07/12/2011"
 	},
 	{
 		"name": "YURCU",
@@ -410,7 +411,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "ISN*VOR/DME*/12.57",
+		"updated": "ISN*VOR/DME*/12.57"
 	},
 	{
 		"name": "YURUB",
@@ -419,7 +420,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/02/2012",
+		"updated": "04/02/2012"
 	},
 	{
 		"name": "YURUV",
@@ -428,7 +429,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/31/2017",
+		"updated": "10/31/2017"
 	},
 	{
 		"name": "YUSGU",
@@ -437,7 +438,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "JAC*LD*186.51/5.91",
+		"updated": "JAC*LD*186.51/5.91"
 	},
 	{
 		"name": "YUSUN",
@@ -446,7 +447,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "TWF*VORTAC*177.46/11.00",
+		"updated": "TWF*VORTAC*177.46/11.00"
 	},
 	{
 		"name": "YUTUR",
@@ -455,7 +456,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/06/2015",
+		"updated": "03/06/2015"
 	},
 	{
 		"name": "YUWFE",
@@ -464,7 +465,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "YYIPP",
@@ -473,5 +474,6 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MOY*LD*343.95/7.47",
-	},
+		"updated": "MOY*LD*343.95/7.47"
+	}
+]

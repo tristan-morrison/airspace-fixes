@@ -1,3 +1,4 @@
+[
 	{
 		"name": "XIXIH",
 		"latitude": "37-41-7.01 N",
@@ -5,7 +6,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/27/2012",
+		"updated": "11/27/2012"
 	},
 	{
 		"name": "XODJI",
@@ -14,7 +15,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/27/2016",
+		"updated": "01/27/2016"
 	},
 	{
 		"name": "XOPEW",
@@ -23,7 +24,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/13/2013",
+		"updated": "08/13/2013"
 	},
 	{
 		"name": "XUYBU",
@@ -32,5 +33,6 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/13/2017",
-	},
+		"updated": "06/13/2017"
+	}
+]

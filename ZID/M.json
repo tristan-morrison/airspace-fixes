@@ -1,3 +1,4 @@
+[
 	{
 		"name": "MAARK",
 		"latitude": "37-44-24.24 N",
@@ -5,7 +6,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/20/2018",
+		"updated": "02/20/2018"
 	},
 	{
 		"name": "MAASH",
@@ -14,7 +15,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/20/2018",
+		"updated": "02/20/2018"
 	},
 	{
 		"name": "MABEF",
@@ -23,7 +24,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "ZZV*VOR/DME*010.76/21.87",
+		"updated": "ZZV*VOR/DME*010.76/21.87"
 	},
 	{
 		"name": "MABNY",
@@ -32,7 +33,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "CN",
-		"updated": "06/07/2001",
+		"updated": "06/07/2001"
 	},
 	{
 		"name": "MABPA",
@@ -41,7 +42,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "MACES",
@@ -50,7 +51,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VHP*VORTAC*303.73/19.94",
+		"updated": "VHP*VORTAC*303.73/19.94"
 	},
 	{
 		"name": "MACET",
@@ -59,7 +60,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "HVQ*VOR/DME*192.26/23.00",
+		"updated": "HVQ*VOR/DME*192.26/23.00"
 	},
 	{
 		"name": "MACFA",
@@ -68,7 +69,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "FLM*VOR/DME*059.11/24.32",
+		"updated": "FLM*VOR/DME*059.11/24.32"
 	},
 	{
 		"name": "MACKY",
@@ -77,7 +78,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "PXV*VORTAC*026.59/28.60",
+		"updated": "PXV*VORTAC*026.59/28.60"
 	},
 	{
 		"name": "MACLB",
@@ -86,7 +87,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "CN",
-		"updated": "09/12/2002",
+		"updated": "09/12/2002"
 	},
 	{
 		"name": "MACSA",
@@ -95,7 +96,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "HVQ*VOR/DME*083.73/8.03",
+		"updated": "HVQ*VOR/DME*083.73/8.03"
 	},
 	{
 		"name": "MADFE",
@@ -104,7 +105,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "FLM*VOR/DME*107.36/27.12",
+		"updated": "FLM*VOR/DME*107.36/27.12"
 	},
 	{
 		"name": "MAFHI",
@@ -113,7 +114,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "LVT*VOR/DME*145.00/17.42",
+		"updated": "LVT*VOR/DME*145.00/17.42"
 	},
 	{
 		"name": "MAFIN",
@@ -122,7 +123,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "MR",
-		"updated": "FFO*TACAN*050.00/3.70",
+		"updated": "FFO*TACAN*050.00/3.70"
 	},
 	{
 		"name": "MAGCO",
@@ -131,7 +132,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "CN",
-		"updated": "06/07/2001",
+		"updated": "06/07/2001"
 	},
 	{
 		"name": "MAGOW",
@@ -140,7 +141,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "LVT*VOR/DME*216.25/11.00",
+		"updated": "LVT*VOR/DME*216.25/11.00"
 	},
 	{
 		"name": "MAHAF",
@@ -149,7 +150,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/24/2015",
+		"updated": "06/24/2015"
 	},
 	{
 		"name": "MAHEN",
@@ -158,7 +159,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "CCT*VORTAC*079.36/9.78",
+		"updated": "CCT*VORTAC*079.36/9.78"
 	},
 	{
 		"name": "MAHEY",
@@ -167,7 +168,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "CN",
-		"updated": "04/23/2001",
+		"updated": "04/23/2001"
 	},
 	{
 		"name": "MAHYO",
@@ -176,7 +177,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "EWO*VOR/DME*284.38/10.00",
+		"updated": "EWO*VOR/DME*284.38/10.00"
 	},
 	{
 		"name": "MAHZI",
@@ -185,7 +186,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "MAIZE",
@@ -194,7 +195,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "IIU*VORTAC*316.17/30.39",
+		"updated": "IIU*VORTAC*316.17/30.39"
 	},
 	{
 		"name": "MAJDU",
@@ -203,7 +204,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "CN",
-		"updated": "06/06/2001",
+		"updated": "06/06/2001"
 	},
 	{
 		"name": "MAJED",
@@ -212,7 +213,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "TTH*VORTAC*301.00/22.95",
+		"updated": "TTH*VORTAC*301.00/22.95"
 	},
 	{
 		"name": "MAJEL",
@@ -221,7 +222,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "HYK*VOR/DME*303.87/7.40",
+		"updated": "HYK*VOR/DME*303.87/7.40"
 	},
 	{
 		"name": "MAJIB",
@@ -230,7 +231,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "FLM*VOR/DME*314.65/4.94",
+		"updated": "FLM*VOR/DME*314.65/4.94"
 	},
 	{
 		"name": "MAKDN",
@@ -239,7 +240,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/18/2012",
+		"updated": "06/18/2012"
 	},
 	{
 		"name": "MAKKN",
@@ -248,7 +249,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "CN",
-		"updated": "09/12/2002",
+		"updated": "09/12/2002"
 	},
 	{
 		"name": "MAKRZ",
@@ -257,7 +258,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/20/2018",
+		"updated": "02/20/2018"
 	},
 	{
 		"name": "MALDN",
@@ -266,7 +267,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/09/2016",
+		"updated": "05/09/2016"
 	},
 	{
 		"name": "MALRY",
@@ -275,7 +276,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "MAMTE",
@@ -284,7 +285,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "10/05/2016",
+		"updated": "10/05/2016"
 	},
 	{
 		"name": "MANUE",
@@ -293,7 +294,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/05/2004",
+		"updated": "04/05/2004"
 	},
 	{
 		"name": "MAPOL",
@@ -302,7 +303,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/09/2011",
+		"updated": "08/09/2011"
 	},
 	{
 		"name": "MAQUI",
@@ -311,7 +312,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/07/2016",
+		"updated": "11/07/2016"
 	},
 	{
 		"name": "MAREO",
@@ -320,7 +321,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "VHP*VORTAC*084.13/51.88",
+		"updated": "VHP*VORTAC*084.13/51.88"
 	},
 	{
 		"name": "MARII",
@@ -329,7 +330,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/18/2012",
+		"updated": "04/18/2012"
 	},
 	{
 		"name": "MARNY",
@@ -338,7 +339,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "EWO*VOR/DME*036.92/8.48",
+		"updated": "EWO*VOR/DME*036.92/8.48"
 	},
 	{
 		"name": "MARSG",
@@ -347,7 +348,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "RID*VORTAC*260.00/13.80",
+		"updated": "RID*VORTAC*260.00/13.80"
 	},
 	{
 		"name": "MARSP",
@@ -356,7 +357,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "DQN*VOR/DME*291.47/25.84",
+		"updated": "DQN*VOR/DME*291.47/25.84"
 	},
 	{
 		"name": "MARTZ",
@@ -365,7 +366,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "APE*VORTAC*235.11",
+		"updated": "APE*VORTAC*235.11"
 	},
 	{
 		"name": "MASFY",
@@ -374,7 +375,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/28/2010",
+		"updated": "06/28/2010"
 	},
 	{
 		"name": "MASGT",
@@ -383,7 +384,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "CN",
-		"updated": "04/21/2003",
+		"updated": "04/21/2003"
 	},
 	{
 		"name": "MASSE",
@@ -392,7 +393,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "HYK*VOR/DME*080.69/31.97",
+		"updated": "HYK*VOR/DME*080.69/31.97"
 	},
 	{
 		"name": "MATAN",
@@ -401,7 +402,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "TTH*VORTAC*062.17/15.24",
+		"updated": "TTH*VORTAC*062.17/15.24"
 	},
 	{
 		"name": "MATBD",
@@ -410,7 +411,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "APE*VORTAC*022.00/10.97",
+		"updated": "APE*VORTAC*022.00/10.97"
 	},
 	{
 		"name": "MAUDD",
@@ -419,7 +420,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "EWO*VOR/DME*069.32/27.42",
+		"updated": "EWO*VOR/DME*069.32/27.42"
 	},
 	{
 		"name": "MAUNI",
@@ -428,7 +429,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "PXV*VORTAC*291.47/15.29",
+		"updated": "PXV*VORTAC*291.47/15.29"
 	},
 	{
 		"name": "MAYED",
@@ -437,7 +438,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/03/2014",
+		"updated": "09/03/2014"
 	},
 	{
 		"name": "MBELL",
@@ -446,7 +447,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/09/2016",
+		"updated": "05/09/2016"
 	},
 	{
 		"name": "MCFEE",
@@ -455,7 +456,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "HYK*VOR/DME*251.06/20.43",
+		"updated": "HYK*VOR/DME*251.06/20.43"
 	},
 	{
 		"name": "MCKVR",
@@ -464,7 +465,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/08/2011",
+		"updated": "07/08/2011"
 	},
 	{
 		"name": "MCNUT",
@@ -473,7 +474,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "MR",
-		"updated": "FFO*TACAN*270.00/9.00",
+		"updated": "FFO*TACAN*270.00/9.00"
 	},
 	{
 		"name": "MEALY",
@@ -482,7 +483,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/30/2011",
+		"updated": "06/30/2011"
 	},
 	{
 		"name": "MEARZ",
@@ -491,7 +492,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "VHP*VORTAC*013.00/11.00",
+		"updated": "VHP*VORTAC*013.00/11.00"
 	},
 	{
 		"name": "MECAN",
@@ -500,7 +501,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "DQN*VOR/DME*084.88/41.16",
+		"updated": "DQN*VOR/DME*084.88/41.16"
 	},
 	{
 		"name": "MEDIE",
@@ -509,7 +510,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "03/28/2017",
+		"updated": "03/28/2017"
 	},
 	{
 		"name": "MEDRE",
@@ -518,7 +519,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/01/2014",
+		"updated": "12/01/2014"
 	},
 	{
 		"name": "MEEKR",
@@ -527,7 +528,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "RID*VORTAC*217.00/24.68",
+		"updated": "RID*VORTAC*217.00/24.68"
 	},
 	{
 		"name": "MEEKY",
@@ -536,7 +537,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "HNN*VORTAC*131.91",
+		"updated": "HNN*VORTAC*131.91"
 	},
 	{
 		"name": "MEGGE",
@@ -545,7 +546,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "MEHNE",
@@ -554,7 +555,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "OQV*LD*228.55/11.84",
+		"updated": "OQV*LD*228.55/11.84"
 	},
 	{
 		"name": "MEKTE",
@@ -563,7 +564,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "MELUQ",
@@ -572,7 +573,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "MEMOE",
@@ -581,7 +582,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "MR",
-		"updated": "FFO*TACAN*050.00/12.00",
+		"updated": "FFO*TACAN*050.00/12.00"
 	},
 	{
 		"name": "MERLO",
@@ -590,7 +591,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "IND*LD*SW CRS/15.29",
+		"updated": "IND*LD*SW CRS/15.29"
 	},
 	{
 		"name": "MESSY",
@@ -599,7 +600,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "OOM*VORTAC*238.06/0.54",
+		"updated": "OOM*VORTAC*238.06/0.54"
 	},
 	{
 		"name": "MESUE",
@@ -608,7 +609,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "MW",
-		"updated": "01/02/2013",
+		"updated": "01/02/2013"
 	},
 	{
 		"name": "MEWED",
@@ -617,7 +618,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/07/2016",
+		"updated": "11/07/2016"
 	},
 	{
 		"name": "MEWRO",
@@ -626,7 +627,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/04/2008",
+		"updated": "12/04/2008"
 	},
 	{
 		"name": "MICKY",
@@ -635,7 +636,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "CTW*VOR/DME*216.07",
+		"updated": "CTW*VOR/DME*216.07"
 	},
 	{
 		"name": "MIDCO",
@@ -644,7 +645,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/18/2012",
+		"updated": "04/18/2012"
 	},
 	{
 		"name": "MIDDR",
@@ -653,7 +654,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/09/2016",
+		"updated": "05/09/2016"
 	},
 	{
 		"name": "MIILR",
@@ -662,7 +663,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "03/25/2015",
+		"updated": "03/25/2015"
 	},
 	{
 		"name": "MILAN",
@@ -671,7 +672,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "SHB*VOR/DME*123.95/28.81",
+		"updated": "SHB*VOR/DME*123.95/28.81"
 	},
 	{
 		"name": "MILFR",
@@ -680,7 +681,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "MILLK",
@@ -689,7 +690,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "YRK*VORTAC*121.02",
+		"updated": "YRK*VORTAC*121.02"
 	},
 	{
 		"name": "MIMMS",
@@ -698,7 +699,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "DQN*VOR/DME*179.99",
+		"updated": "DQN*VOR/DME*179.99"
 	},
 	{
 		"name": "MIPIE",
@@ -707,7 +708,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "MISSN",
@@ -716,7 +717,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "HNN*VORTAC*273.98/45.75",
+		"updated": "HNN*VORTAC*273.98/45.75"
 	},
 	{
 		"name": "MIVKE",
@@ -725,7 +726,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/21/2011",
+		"updated": "06/21/2011"
 	},
 	{
 		"name": "MIXKO",
@@ -734,7 +735,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "IIU*VORTAC*166.69/8.60",
+		"updated": "IIU*VORTAC*166.69/8.60"
 	},
 	{
 		"name": "MIYDO",
@@ -743,7 +744,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/06/2012",
+		"updated": "08/06/2012"
 	},
 	{
 		"name": "MIYOS",
@@ -752,7 +753,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/03/2001",
+		"updated": "08/03/2001"
 	},
 	{
 		"name": "MIZBE",
@@ -761,7 +762,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/23/2015",
+		"updated": "02/23/2015"
 	},
 	{
 		"name": "MIZZA",
@@ -770,7 +771,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "RID*VORTAC*134.00",
+		"updated": "RID*VORTAC*134.00"
 	},
 	{
 		"name": "MJUDD",
@@ -779,7 +780,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/17/2013",
+		"updated": "07/17/2013"
 	},
 	{
 		"name": "MKATE",
@@ -788,7 +789,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/05/2008",
+		"updated": "08/05/2008"
 	},
 	{
 		"name": "MOAKS",
@@ -797,7 +798,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "DQN*VOR/DME*168.78",
+		"updated": "DQN*VOR/DME*168.78"
 	},
 	{
 		"name": "MOIER",
@@ -806,7 +807,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/13/2010",
+		"updated": "02/13/2010"
 	},
 	{
 		"name": "MOLLN",
@@ -815,7 +816,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "SHB*VOR/DME*345.52/8.00",
+		"updated": "SHB*VOR/DME*345.52/8.00"
 	},
 	{
 		"name": "MONTR",
@@ -824,7 +825,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/27/2007",
+		"updated": "06/27/2007"
 	},
 	{
 		"name": "MONTS",
@@ -833,7 +834,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "BKW*VOR/DME*338.00",
+		"updated": "BKW*VOR/DME*338.00"
 	},
 	{
 		"name": "MORAN",
@@ -842,7 +843,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "JPU*VOR/DME*198.92/21.61",
+		"updated": "JPU*VOR/DME*198.92/21.61"
 	},
 	{
 		"name": "MOSEW",
@@ -851,7 +852,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/20/2011",
+		"updated": "01/20/2011"
 	},
 	{
 		"name": "MOSEY",
@@ -860,7 +861,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "FLM*VOR/DME*278.44/50.17",
+		"updated": "FLM*VOR/DME*278.44/50.17"
 	},
 	{
 		"name": "MOSIC",
@@ -869,7 +870,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "AIR*VOR/DME*209.00",
+		"updated": "AIR*VOR/DME*209.00"
 	},
 	{
 		"name": "MOSLY",
@@ -878,7 +879,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "MOSQI",
@@ -887,7 +888,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/10/2016",
+		"updated": "11/10/2016"
 	},
 	{
 		"name": "MOTTS",
@@ -896,7 +897,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "DQN*VOR/DME*264.06/31.02",
+		"updated": "DQN*VOR/DME*264.06/31.02"
 	},
 	{
 		"name": "MOUTH",
@@ -905,7 +906,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "SHB*VOR/DME*230.64/26.13",
+		"updated": "SHB*VOR/DME*230.64/26.13"
 	},
 	{
 		"name": "MOWED",
@@ -914,7 +915,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "RID*VORTAC*145.00",
+		"updated": "RID*VORTAC*145.00"
 	},
 	{
 		"name": "MRRRK",
@@ -923,7 +924,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "MUBDE",
@@ -932,7 +933,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "VHP*VORTAC*041.94/8.79",
+		"updated": "VHP*VORTAC*041.94/8.79"
 	},
 	{
 		"name": "MUKFU",
@@ -941,7 +942,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/16/2011",
+		"updated": "06/16/2011"
 	},
 	{
 		"name": "MUMIE",
@@ -950,7 +951,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/15/2008",
+		"updated": "04/15/2008"
 	},
 	{
 		"name": "MUMME",
@@ -959,7 +960,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/08/2006",
+		"updated": "08/08/2006"
 	},
 	{
 		"name": "MUMOE",
@@ -968,7 +969,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "EWO*VOR/DME*132.00/23.90",
+		"updated": "EWO*VOR/DME*132.00/23.90"
 	},
 	{
 		"name": "MUNOE",
@@ -977,7 +978,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "ZZV*VOR/DME*109.11/12.00",
+		"updated": "ZZV*VOR/DME*109.11/12.00"
 	},
 	{
 		"name": "MURGE",
@@ -986,7 +987,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "MUSKE",
@@ -995,7 +996,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "10/05/2016",
+		"updated": "10/05/2016"
 	},
 	{
 		"name": "MUSKT",
@@ -1004,7 +1005,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "XSF*TACAN*170.00/40.00",
+		"updated": "XSF*TACAN*170.00/40.00"
 	},
 	{
 		"name": "MUSSL",
@@ -1013,7 +1014,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/29/2011",
+		"updated": "04/29/2011"
 	},
 	{
 		"name": "MUZIC",
@@ -1022,7 +1023,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "RID*VORTAC*159.00",
+		"updated": "RID*VORTAC*159.00"
 	},
 	{
 		"name": "MYDOL",
@@ -1031,7 +1032,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "YRK*VORTAC*033.00/8.00",
+		"updated": "YRK*VORTAC*033.00/8.00"
 	},
 	{
 		"name": "MYKEE",
@@ -1040,7 +1041,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/08/2010",
+		"updated": "11/08/2010"
 	},
 	{
 		"name": "MYNAS",
@@ -1049,7 +1050,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/01/2017",
+		"updated": "06/01/2017"
 	},
 	{
 		"name": "MYTON",
@@ -1058,5 +1059,6 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/09/2016",
-	},
+		"updated": "05/09/2016"
+	}
+]

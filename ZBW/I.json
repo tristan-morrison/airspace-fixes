@@ -1,3 +1,4 @@
+[
 	{
 		"name": "IBEYU",
 		"latitude": "43-6-49.81 N",
@@ -5,7 +6,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/07/2003",
+		"updated": "07/07/2003"
 	},
 	{
 		"name": "IBUNY",
@@ -14,7 +15,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/08/2012",
+		"updated": "08/08/2012"
 	},
 	{
 		"name": "IBYED",
@@ -23,7 +24,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/30/2009",
+		"updated": "09/30/2009"
 	},
 	{
 		"name": "ICICO",
@@ -32,7 +33,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/04/2009",
+		"updated": "11/04/2009"
 	},
 	{
 		"name": "ICOPA",
@@ -41,7 +42,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/03/2009",
+		"updated": "02/03/2009"
 	},
 	{
 		"name": "ICURO",
@@ -50,7 +51,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/17/2005",
+		"updated": "06/17/2005"
 	},
 	{
 		"name": "IDATE",
@@ -59,7 +60,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/01/2007",
+		"updated": "08/01/2007"
 	},
 	{
 		"name": "IDEAR",
@@ -68,7 +69,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "IDEED",
@@ -77,7 +78,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PSM*VOR/DME*164.47/12.27",
+		"updated": "PSM*VOR/DME*164.47/12.27"
 	},
 	{
 		"name": "IDIKE",
@@ -86,7 +87,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/13/2012",
+		"updated": "12/13/2012"
 	},
 	{
 		"name": "IDOCO",
@@ -95,7 +96,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "IKX*LD*148.38/1.79",
+		"updated": "IKX*LD*148.38/1.79"
 	},
 	{
 		"name": "IFADY",
@@ -104,7 +105,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "IFIZE",
@@ -113,7 +114,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/16/2009",
+		"updated": "06/16/2009"
 	},
 	{
 		"name": "IGEFY",
@@ -122,7 +123,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/23/2014",
+		"updated": "10/23/2014"
 	},
 	{
 		"name": "IGIKE",
@@ -131,7 +132,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/13/2011",
+		"updated": "01/13/2011"
 	},
 	{
 		"name": "IGILE",
@@ -140,7 +141,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/21/2010",
+		"updated": "06/21/2010"
 	},
 	{
 		"name": "IGUNE",
@@ -149,7 +150,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/29/2009",
+		"updated": "09/29/2009"
 	},
 	{
 		"name": "IHEYA",
@@ -158,7 +159,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CON*VOR/DME*011.41",
+		"updated": "CON*VOR/DME*011.41"
 	},
 	{
 		"name": "IHHUB",
@@ -167,7 +168,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/18/2012",
+		"updated": "07/18/2012"
 	},
 	{
 		"name": "IHOBB",
@@ -176,7 +177,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/03/2014",
+		"updated": "12/03/2014"
 	},
 	{
 		"name": "IHXOK",
@@ -185,7 +186,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/13/2012",
+		"updated": "04/13/2012"
 	},
 	{
 		"name": "IJHEV",
@@ -194,7 +195,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BJA*TACAN*149.51/13.81",
+		"updated": "BJA*TACAN*149.51/13.81"
 	},
 	{
 		"name": "IKACA",
@@ -203,7 +204,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/28/2009",
+		"updated": "09/28/2009"
 	},
 	{
 		"name": "IKAVE",
@@ -212,7 +213,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/29/2016",
+		"updated": "04/29/2016"
 	},
 	{
 		"name": "IKAXE",
@@ -221,7 +222,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "IKEWI",
@@ -230,7 +231,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "IKEXE",
@@ -239,7 +240,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BGR*VORTAC*332.60/11.92",
+		"updated": "BGR*VORTAC*332.60/11.92"
 	},
 	{
 		"name": "IKGAB",
@@ -248,7 +249,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/21/2003",
+		"updated": "01/21/2003"
 	},
 	{
 		"name": "IKILY",
@@ -257,7 +258,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "IKMOW",
@@ -266,7 +267,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/17/2011",
+		"updated": "06/17/2011"
 	},
 	{
 		"name": "ILACI",
@@ -275,7 +276,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/19/2001",
+		"updated": "12/19/2001"
 	},
 	{
 		"name": "ILEXE",
@@ -284,7 +285,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "ILGEZ",
@@ -293,7 +294,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/31/2012",
+		"updated": "10/31/2012"
 	},
 	{
 		"name": "ILLID",
@@ -302,7 +303,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "WP",
-		"updated": "LGA*VOR/DME*036.60/18.23",
+		"updated": "LGA*VOR/DME*036.60/18.23"
 	},
 	{
 		"name": "ILUTE",
@@ -311,7 +312,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "GDM*VOR/DME*293.86/7.50",
+		"updated": "GDM*VOR/DME*293.86/7.50"
 	},
 	{
 		"name": "ILZID",
@@ -320,7 +321,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/22/2005",
+		"updated": "12/22/2005"
 	},
 	{
 		"name": "IMAMA",
@@ -329,7 +330,7 @@
 		"state": "",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/09/2016",
+		"updated": "11/09/2016"
 	},
 	{
 		"name": "IMIBE",
@@ -338,7 +339,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/13/2015",
+		"updated": "05/13/2015"
 	},
 	{
 		"name": "INADY",
@@ -347,7 +348,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/25/2000",
+		"updated": "02/25/2000"
 	},
 	{
 		"name": "INGRD",
@@ -356,7 +357,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/02/2012",
+		"updated": "08/02/2012"
 	},
 	{
 		"name": "INGUY",
@@ -365,7 +366,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/01/2009",
+		"updated": "10/01/2009"
 	},
 	{
 		"name": "INISE",
@@ -374,7 +375,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/03/2010",
+		"updated": "02/03/2010"
 	},
 	{
 		"name": "INKOW",
@@ -383,7 +384,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/03/2005",
+		"updated": "06/03/2005"
 	},
 	{
 		"name": "INNDY",
@@ -392,7 +393,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "SEY*VOR/DME*045.54/42.16",
+		"updated": "SEY*VOR/DME*045.54/42.16"
 	},
 	{
 		"name": "INOPE",
@@ -401,7 +402,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/06/2012",
+		"updated": "09/06/2012"
 	},
 	{
 		"name": "INOSE",
@@ -410,7 +411,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/19/2009",
+		"updated": "05/19/2009"
 	},
 	{
 		"name": "IONIA",
@@ -419,7 +420,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CAM*VOR/DME*231.89/29.83",
+		"updated": "CAM*VOR/DME*231.89/29.83"
 	},
 	{
 		"name": "IPADE",
@@ -428,7 +429,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/19/2012",
+		"updated": "07/19/2012"
 	},
 	{
 		"name": "IPESE",
@@ -437,7 +438,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/29/2016",
+		"updated": "04/29/2016"
 	},
 	{
 		"name": "IPEYA",
@@ -446,7 +447,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CAM*VOR/DME*340.13/10.00",
+		"updated": "CAM*VOR/DME*340.13/10.00"
 	},
 	{
 		"name": "IPIPE",
@@ -455,7 +456,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/18/2009",
+		"updated": "11/18/2009"
 	},
 	{
 		"name": "IPKAH",
@@ -464,7 +465,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/23/2014",
+		"updated": "05/23/2014"
 	},
 	{
 		"name": "IPOSE",
@@ -473,7 +474,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/28/2009",
+		"updated": "09/28/2009"
 	},
 	{
 		"name": "IQHET",
@@ -482,7 +483,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/03/2010",
+		"updated": "08/03/2010"
 	},
 	{
 		"name": "IQNIS",
@@ -491,7 +492,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/03/2010",
+		"updated": "08/03/2010"
 	},
 	{
 		"name": "IQSAL",
@@ -500,7 +501,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/08/2008",
+		"updated": "10/08/2008"
 	},
 	{
 		"name": "IRABE",
@@ -509,7 +510,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/15/2003",
+		"updated": "04/15/2003"
 	},
 	{
 		"name": "IRADE",
@@ -518,7 +519,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/01/2009",
+		"updated": "10/01/2009"
 	},
 	{
 		"name": "IRAGE",
@@ -527,7 +528,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/11/2011",
+		"updated": "03/11/2011"
 	},
 	{
 		"name": "IRAME",
@@ -536,7 +537,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/28/2006",
+		"updated": "03/28/2006"
 	},
 	{
 		"name": "IREYU",
@@ -545,7 +546,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/30/2007",
+		"updated": "01/30/2007"
 	},
 	{
 		"name": "IRGAW",
@@ -554,7 +555,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/27/2012",
+		"updated": "09/27/2012"
 	},
 	{
 		"name": "IRSEW",
@@ -563,7 +564,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BOS*LD*214.74/3.81",
+		"updated": "BOS*LD*214.74/3.81"
 	},
 	{
 		"name": "ISACU",
@@ -572,7 +573,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "LEB*VOR/DME*000.01/17.04",
+		"updated": "LEB*VOR/DME*000.01/17.04"
 	},
 	{
 		"name": "ISEGE",
@@ -581,7 +582,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/19/2016",
+		"updated": "12/19/2016"
 	},
 	{
 		"name": "ISICA",
@@ -590,7 +591,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/05/2004",
+		"updated": "10/05/2004"
 	},
 	{
 		"name": "ISKUQ",
@@ -599,7 +600,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "ISLAY",
@@ -608,7 +609,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/04/2016",
+		"updated": "04/04/2016"
 	},
 	{
 		"name": "ISLET",
@@ -617,7 +618,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/12/2013",
+		"updated": "06/12/2013"
 	},
 	{
 		"name": "ISOZO",
@@ -626,7 +627,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DXR*LE*266.73/0.53",
+		"updated": "DXR*LE*266.73/0.53"
 	},
 	{
 		"name": "ISQAC",
@@ -635,7 +636,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/04/2001",
+		"updated": "09/04/2001"
 	},
 	{
 		"name": "ISUCO",
@@ -644,7 +645,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/14/2013",
+		"updated": "11/14/2013"
 	},
 	{
 		"name": "ITASE",
@@ -653,7 +654,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/17/2017",
+		"updated": "03/17/2017"
 	},
 	{
 		"name": "ITAWA",
@@ -662,7 +663,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PSM*VOR/DME*345.68/11.98",
+		"updated": "PSM*VOR/DME*345.68/11.98"
 	},
 	{
 		"name": "ITAWT",
@@ -671,7 +672,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/16/2006",
+		"updated": "10/16/2006"
 	},
 	{
 		"name": "ITOME",
@@ -680,7 +681,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/06/2010",
+		"updated": "08/06/2010"
 	},
 	{
 		"name": "ITTLE",
@@ -689,7 +690,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/13/2015",
+		"updated": "05/13/2015"
 	},
 	{
 		"name": "ITUXY",
@@ -698,7 +699,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/24/2010",
+		"updated": "04/24/2010"
 	},
 	{
 		"name": "IVAFO",
@@ -707,7 +708,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/27/2010",
+		"updated": "07/27/2010"
 	},
 	{
 		"name": "IVVEW",
@@ -716,7 +717,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/02/2012",
+		"updated": "04/02/2012"
 	},
 	{
 		"name": "IWKIC",
@@ -725,7 +726,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "AUG*VOR/DME*069.32/1.00",
+		"updated": "AUG*VOR/DME*069.32/1.00"
 	},
 	{
 		"name": "IXOPE",
@@ -734,7 +735,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/05/2009",
+		"updated": "11/05/2009"
 	},
 	{
 		"name": "IYANA",
@@ -743,7 +744,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/04/2016",
+		"updated": "04/04/2016"
 	},
 	{
 		"name": "IYIYO",
@@ -752,7 +753,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "CN",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "IYOYO",
@@ -761,5 +762,6 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/13/2011",
-	},
+		"updated": "01/13/2011"
+	}
+]

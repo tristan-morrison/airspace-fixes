@@ -1,3 +1,4 @@
+[
 	{
 		"name": "DASIR",
 		"latitude": "43-19-19.616 N",
@@ -5,7 +6,7 @@
 		"state": "",
 		"artcc": "ZYZ",
 		"type": "RNAV",
-		"updated": "11/12/2016",
+		"updated": "11/12/2016"
 	},
 	{
 		"name": "DEDKI",
@@ -14,7 +15,7 @@
 		"state": "",
 		"artcc": "ZYZ",
 		"type": "RNAV",
-		"updated": "10/06/2016",
+		"updated": "10/06/2016"
 	},
 	{
 		"name": "DEMKO",
@@ -23,7 +24,7 @@
 		"state": "",
 		"artcc": "ZYZ",
 		"type": "RNAV",
-		"updated": "07/05/2001",
+		"updated": "07/05/2001"
 	},
 	{
 		"name": "DUTEL",
@@ -32,5 +33,6 @@
 		"state": "",
 		"artcc": "ZYZ",
 		"type": "RNAV",
-		"updated": "04/25/2017",
-	},
+		"updated": "04/25/2017"
+	}
+]

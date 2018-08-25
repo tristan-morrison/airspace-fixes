@@ -1,3 +1,4 @@
+[
 	{
 		"name": "VAINE",
 		"latitude": "31-56-7.85 N",
@@ -5,7 +6,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*VORTAC*123.04/13.50",
+		"updated": "TUS*VORTAC*123.04/13.50"
 	},
 	{
 		"name": "VALTR",
@@ -14,7 +15,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ELP*LD*042.00/5.61",
+		"updated": "ELP*LD*042.00/5.61"
 	},
 	{
 		"name": "VALVE",
@@ -23,7 +24,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "OLS*VOR/DME*316.00/6.00",
+		"updated": "OLS*VOR/DME*316.00/6.00"
 	},
 	{
 		"name": "VANSS",
@@ -32,7 +33,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/22/2005",
+		"updated": "08/22/2005"
 	},
 	{
 		"name": "VASSY",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/18/2017",
+		"updated": "08/18/2017"
 	},
 	{
 		"name": "VECUT",
@@ -50,7 +51,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SAF*VORTAC*353.83/11.00",
+		"updated": "SAF*VORTAC*353.83/11.00"
 	},
 	{
 		"name": "VEDTU",
@@ -59,7 +60,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DMA*TACAN*106.00/18.58",
+		"updated": "DMA*TACAN*106.00/18.58"
 	},
 	{
 		"name": "VEEVA",
@@ -68,7 +69,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*334.00/4.00",
+		"updated": "HMN*TACAN*334.00/4.00"
 	},
 	{
 		"name": "VEGBY",
@@ -77,7 +78,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*002.70/10.00",
+		"updated": "PXR*VORTAC*002.70/10.00"
 	},
 	{
 		"name": "VEGGE",
@@ -86,7 +87,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DHT*VORTAC*158.67",
+		"updated": "DHT*VORTAC*158.67"
 	},
 	{
 		"name": "VERNO",
@@ -95,7 +96,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SJN*VORTAC*235.98/25.95",
+		"updated": "SJN*VORTAC*235.98/25.95"
 	},
 	{
 		"name": "VERRO",
@@ -104,7 +105,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/13/2015",
+		"updated": "05/13/2015"
 	},
 	{
 		"name": "VERRT",
@@ -113,7 +114,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/05/2005",
+		"updated": "08/05/2005"
 	},
 	{
 		"name": "VEYLE",
@@ -122,7 +123,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/09/2007",
+		"updated": "07/09/2007"
 	},
 	{
 		"name": "VEZFO",
@@ -131,7 +132,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/20/2004",
+		"updated": "07/20/2004"
 	},
 	{
 		"name": "VICKO",
@@ -140,7 +141,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "GBN*VORTAC*285.00/73.00",
+		"updated": "GBN*VORTAC*285.00/73.00"
 	},
 	{
 		"name": "VICMA",
@@ -149,7 +150,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/02/2014",
+		"updated": "04/02/2014"
 	},
 	{
 		"name": "VIDLE",
@@ -158,7 +159,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/31/2006",
+		"updated": "05/31/2006"
 	},
 	{
 		"name": "VIFPE",
@@ -167,7 +168,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/05/2010",
+		"updated": "03/05/2010"
 	},
 	{
 		"name": "VIGUY",
@@ -176,7 +177,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/10/2015",
+		"updated": "05/10/2015"
 	},
 	{
 		"name": "VIKKE",
@@ -185,7 +186,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CNX*VORTAC*256.00/12.00",
+		"updated": "CNX*VORTAC*256.00/12.00"
 	},
 	{
 		"name": "VISTL",
@@ -194,7 +195,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "VIYUL",
@@ -203,7 +204,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SVC*VOR/DME*235.78/21.41",
+		"updated": "SVC*VOR/DME*235.78/21.41"
 	},
 	{
 		"name": "VLCNO",
@@ -212,7 +213,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/21/2014",
+		"updated": "03/21/2014"
 	},
 	{
 		"name": "VLNTN",
@@ -221,7 +222,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "MW",
-		"updated": "HUP*VORTAC*148.00/43.00",
+		"updated": "HUP*VORTAC*148.00/43.00"
 	},
 	{
 		"name": "VNILA",
@@ -230,7 +231,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/23/2007",
+		"updated": "08/23/2007"
 	},
 	{
 		"name": "VNNOM",
@@ -239,7 +240,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/07/2014",
+		"updated": "08/07/2014"
 	},
 	{
 		"name": "VOCHE",
@@ -248,7 +249,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "CME*VORTAC*320.00/50.00",
+		"updated": "CME*VORTAC*320.00/50.00"
 	},
 	{
 		"name": "VOCNU",
@@ -257,7 +258,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/31/2006",
+		"updated": "05/31/2006"
 	},
 	{
 		"name": "VPALL",
@@ -266,7 +267,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPAQU",
@@ -275,7 +276,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPARM",
@@ -284,7 +285,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "12/04/2002",
+		"updated": "12/04/2002"
 	},
 	{
 		"name": "VPAWG",
@@ -293,7 +294,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPAZM",
@@ -302,7 +303,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "04/19/2012",
+		"updated": "04/19/2012"
 	},
 	{
 		"name": "VPBAR",
@@ -311,7 +312,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPCCC",
@@ -320,7 +321,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPCNL",
@@ -329,7 +330,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "11/10/2004",
+		"updated": "11/10/2004"
 	},
 	{
 		"name": "VPFRB",
@@ -338,7 +339,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPFTN",
@@ -347,7 +348,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPGLX",
@@ -356,7 +357,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPGPP",
@@ -365,7 +366,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPMAR",
@@ -374,7 +375,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPMHS",
@@ -383,7 +384,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPNRV",
@@ -392,7 +393,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPNTT",
@@ -401,7 +402,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "03/11/2003",
+		"updated": "03/11/2003"
 	},
 	{
 		"name": "VPPIR",
@@ -410,7 +411,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "11/10/2004",
+		"updated": "11/10/2004"
 	},
 	{
 		"name": "VPQTR",
@@ -419,7 +420,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPREN",
@@ -428,7 +429,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "05/20/2011",
+		"updated": "05/20/2011"
 	},
 	{
 		"name": "VPRVC",
@@ -437,7 +438,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/31/2002",
+		"updated": "07/31/2002"
 	},
 	{
 		"name": "VPSMC",
@@ -446,7 +447,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPSQP",
@@ -455,7 +456,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPSSS",
@@ -464,7 +465,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPSTN",
@@ -473,7 +474,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "07/29/2002",
+		"updated": "07/29/2002"
 	},
 	{
 		"name": "VPSTT",
@@ -482,7 +483,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "VFR",
-		"updated": "03/11/2003",
+		"updated": "03/11/2003"
 	},
 	{
 		"name": "VUGKU",
@@ -491,7 +492,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/26/2011",
+		"updated": "08/26/2011"
 	},
 	{
 		"name": "VUSQU",
@@ -500,7 +501,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/27/2001",
+		"updated": "08/27/2001"
 	},
 	{
 		"name": "VUYUP",
@@ -509,7 +510,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "MRF*VOR/DME*041.08/18.00",
+		"updated": "MRF*VOR/DME*041.08/18.00"
 	},
 	{
 		"name": "VYLLA",
@@ -518,5 +519,6 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*VORTAC*170.26/45.64",
-	},
+		"updated": "TUS*VORTAC*170.26/45.64"
+	}
+]

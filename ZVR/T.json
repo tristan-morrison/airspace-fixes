@@ -1,3 +1,4 @@
+[
 	{
 		"name": "TAMRU",
 		"latitude": "48-57-21 N",
@@ -5,5 +6,6 @@
 		"state": "",
 		"artcc": "ZVR",
 		"type": "RP",
-		"updated": "06/17/2014",
-	},
+		"updated": "06/17/2014"
+	}
+]

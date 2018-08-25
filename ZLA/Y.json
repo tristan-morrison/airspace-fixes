@@ -1,3 +1,4 @@
+[
 	{
 		"name": "YAAPY",
 		"latitude": "34-39-53 N",
@@ -5,7 +6,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/23/2016",
+		"updated": "12/23/2016"
 	},
 	{
 		"name": "YAFFS",
@@ -14,7 +15,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/16/2017",
+		"updated": "02/16/2017"
 	},
 	{
 		"name": "YAGIS",
@@ -23,7 +24,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "NTD*TACAN*/9.72",
+		"updated": "NTD*TACAN*/9.72"
 	},
 	{
 		"name": "YAGUS",
@@ -32,7 +33,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/20/2016",
+		"updated": "09/20/2016"
 	},
 	{
 		"name": "YAPKI",
@@ -41,7 +42,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "08/21/2013",
+		"updated": "08/21/2013"
 	},
 	{
 		"name": "YATZE",
@@ -50,7 +51,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/28/2017",
+		"updated": "02/28/2017"
 	},
 	{
 		"name": "YAYGR",
@@ -59,7 +60,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/08/2018",
+		"updated": "03/08/2018"
 	},
 	{
 		"name": "YCDIL",
@@ -68,7 +69,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "03/21/2002",
+		"updated": "03/21/2002"
 	},
 	{
 		"name": "YEBUN",
@@ -77,7 +78,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "YELAH",
@@ -86,7 +87,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/02/2017",
+		"updated": "03/02/2017"
 	},
 	{
 		"name": "YETDO",
@@ -95,7 +96,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/17/2009",
+		"updated": "03/17/2009"
 	},
 	{
 		"name": "YETTS",
@@ -104,7 +105,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/16/2017",
+		"updated": "02/16/2017"
 	},
 	{
 		"name": "YEWRU",
@@ -113,7 +114,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "YEYUY",
@@ -122,7 +123,7 @@
 		"state": "UTAH",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "11/09/2010",
+		"updated": "11/09/2010"
 	},
 	{
 		"name": "YITUN",
@@ -131,7 +132,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "VNY*VOR/DME*155.00/1.53",
+		"updated": "VNY*VOR/DME*155.00/1.53"
 	},
 	{
 		"name": "YOCEP",
@@ -140,7 +141,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "BZA*VORTAC*336.91/13.00",
+		"updated": "BZA*VORTAC*336.91/13.00"
 	},
 	{
 		"name": "YOCUL",
@@ -149,7 +150,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/20/2016",
+		"updated": "09/20/2016"
 	},
 	{
 		"name": "YOLKS",
@@ -158,7 +159,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/19/2016",
+		"updated": "02/19/2016"
 	},
 	{
 		"name": "YOLYY",
@@ -167,7 +168,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/28/2016",
+		"updated": "09/28/2016"
 	},
 	{
 		"name": "YONNI",
@@ -176,7 +177,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "RZS*VORTAC*249.98",
+		"updated": "RZS*VORTAC*249.98"
 	},
 	{
 		"name": "YORBA",
@@ -185,7 +186,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "SLI*VORTAC*046.00/15.80",
+		"updated": "SLI*VORTAC*046.00/15.80"
 	},
 	{
 		"name": "YORBS",
@@ -194,7 +195,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/02/2017",
+		"updated": "03/02/2017"
 	},
 	{
 		"name": "YORRK",
@@ -203,7 +204,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/20/2016",
+		"updated": "01/20/2016"
 	},
 	{
 		"name": "YOSST",
@@ -212,7 +213,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/29/2010",
+		"updated": "04/29/2010"
 	},
 	{
 		"name": "YOUBE",
@@ -221,7 +222,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "VTU*VOR/DME*016.52",
+		"updated": "VTU*VOR/DME*016.52"
 	},
 	{
 		"name": "YTBNG",
@@ -230,7 +231,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "03/08/2018",
+		"updated": "03/08/2018"
 	},
 	{
 		"name": "YUCCA",
@@ -239,7 +240,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "PSP*VORTAC*329.00/14.71",
+		"updated": "PSP*VORTAC*329.00/14.71"
 	},
 	{
 		"name": "YUCUC",
@@ -248,7 +249,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "PDZ*VORTAC*020.43/10.04",
+		"updated": "PDZ*VORTAC*020.43/10.04"
 	},
 	{
 		"name": "YUFAP",
@@ -257,7 +258,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "10/10/2012",
+		"updated": "10/10/2012"
 	},
 	{
 		"name": "YUGKU",
@@ -266,7 +267,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/14/2018",
+		"updated": "03/14/2018"
 	},
 	{
 		"name": "YUMMI",
@@ -275,7 +276,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/05/2017",
+		"updated": "01/05/2017"
 	},
 	{
 		"name": "YUTOO",
@@ -284,5 +285,6 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/23/2016",
-	},
+		"updated": "12/23/2016"
+	}
+]

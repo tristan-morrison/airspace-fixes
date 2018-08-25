@@ -1,3 +1,4 @@
+[
 	{
 		"name": "OATEN",
 		"latitude": "30-47-49.9 N",
@@ -5,7 +6,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFT*VORTAC*319.38",
+		"updated": "LFT*VORTAC*319.38"
 	},
 	{
 		"name": "OBGIY",
@@ -14,7 +15,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/10/2000",
+		"updated": "05/10/2000"
 	},
 	{
 		"name": "OBOES",
@@ -23,7 +24,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "GCV*VORTAC*199.59",
+		"updated": "GCV*VORTAC*199.59"
 	},
 	{
 		"name": "OBUCO",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/24/2012",
+		"updated": "02/24/2012"
 	},
 	{
 		"name": "OBVIE",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HUB*VOR/DME*203.96",
+		"updated": "HUB*VOR/DME*203.96"
 	},
 	{
 		"name": "OCADO",
@@ -50,7 +51,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "OCALI",
@@ -59,7 +60,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/10/2003",
+		"updated": "03/10/2003"
 	},
 	{
 		"name": "OCILU",
@@ -68,7 +69,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/28/2008",
+		"updated": "07/28/2008"
 	},
 	{
 		"name": "OCIPI",
@@ -77,7 +78,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/27/2009",
+		"updated": "10/27/2009"
 	},
 	{
 		"name": "OCKPO",
@@ -86,7 +87,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "LRD*VORTAC*082.00/11.50",
+		"updated": "LRD*VORTAC*082.00/11.50"
 	},
 	{
 		"name": "OCORA",
@@ -95,7 +96,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "OCWOY",
@@ -104,7 +105,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/01/2010",
+		"updated": "06/01/2010"
 	},
 	{
 		"name": "ODEDY",
@@ -113,7 +114,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/12/2011",
+		"updated": "08/12/2011"
 	},
 	{
 		"name": "ODINE",
@@ -122,7 +123,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/23/2017",
+		"updated": "10/23/2017"
 	},
 	{
 		"name": "ODISS",
@@ -131,7 +132,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/11/2014",
+		"updated": "03/11/2014"
 	},
 	{
 		"name": "ODUYU",
@@ -140,7 +141,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "09/05/2013",
+		"updated": "09/05/2013"
 	},
 	{
 		"name": "ODXUR",
@@ -149,7 +150,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/17/2011",
+		"updated": "03/17/2011"
 	},
 	{
 		"name": "OFERS",
@@ -158,7 +159,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LCH*VORTAC*265.45/28.31",
+		"updated": "LCH*VORTAC*265.45/28.31"
 	},
 	{
 		"name": "OFLOG",
@@ -167,7 +168,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/16/2004",
+		"updated": "01/16/2004"
 	},
 	{
 		"name": "OGAVE",
@@ -176,7 +177,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "OGERE",
@@ -185,7 +186,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/28/2010",
+		"updated": "03/28/2010"
 	},
 	{
 		"name": "OGEWE",
@@ -194,7 +195,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/12/2010",
+		"updated": "08/12/2010"
 	},
 	{
 		"name": "OGLUW",
@@ -203,7 +204,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/08/2012",
+		"updated": "08/08/2012"
 	},
 	{
 		"name": "OGOGE",
@@ -212,7 +213,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "OGUHO",
@@ -221,7 +222,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/26/2012",
+		"updated": "07/26/2012"
 	},
 	{
 		"name": "OHGOK",
@@ -230,7 +231,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "OHIIO",
@@ -239,7 +240,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "IAH*VORTAC*046.40/17.42",
+		"updated": "IAH*VORTAC*046.40/17.42"
 	},
 	{
 		"name": "OHTAB",
@@ -248,7 +249,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/27/2018",
+		"updated": "04/27/2018"
 	},
 	{
 		"name": "OILER",
@@ -257,7 +258,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/02/2007",
+		"updated": "04/02/2007"
 	},
 	{
 		"name": "OILLL",
@@ -266,7 +267,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/14/2014",
+		"updated": "03/14/2014"
 	},
 	{
 		"name": "OJMEM",
@@ -275,7 +276,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/17/2014",
+		"updated": "09/17/2014"
 	},
 	{
 		"name": "OKAZI",
@@ -284,7 +285,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TBD*VOR/DME*244.00/35.00",
+		"updated": "TBD*VOR/DME*244.00/35.00"
 	},
 	{
 		"name": "OKEST",
@@ -293,7 +294,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "AGJ*VORTAC*062.35/12.13",
+		"updated": "AGJ*VORTAC*062.35/12.13"
 	},
 	{
 		"name": "OKFEL",
@@ -302,7 +303,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "OKIGE",
@@ -311,7 +312,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CLL*VORTAC*280.08/5.00",
+		"updated": "CLL*VORTAC*280.08/5.00"
 	},
 	{
 		"name": "OKUME",
@@ -320,7 +321,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "EFD*TACAN*/30.00",
+		"updated": "EFD*TACAN*/30.00"
 	},
 	{
 		"name": "OKUNE",
@@ -329,7 +330,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "07/23/2015",
+		"updated": "07/23/2015"
 	},
 	{
 		"name": "OLEDD",
@@ -338,7 +339,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TBD*VOR/DME*073.34/19.00",
+		"updated": "TBD*VOR/DME*073.34/19.00"
 	},
 	{
 		"name": "OLEZO",
@@ -347,7 +348,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "HRV*VORTAC*080.00/15.00",
+		"updated": "HRV*VORTAC*080.00/15.00"
 	},
 	{
 		"name": "OLGEC",
@@ -356,7 +357,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/28/2016",
+		"updated": "06/28/2016"
 	},
 	{
 		"name": "OLIRE",
@@ -365,7 +366,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "OLNAJ",
@@ -374,7 +375,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/20/2013",
+		"updated": "01/20/2013"
 	},
 	{
 		"name": "OLSKI",
@@ -383,7 +384,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "12/22/2017",
+		"updated": "12/22/2017"
 	},
 	{
 		"name": "OLUSE",
@@ -392,7 +393,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/28/2010",
+		"updated": "03/28/2010"
 	},
 	{
 		"name": "OMEHU",
@@ -401,7 +402,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/16/2012",
+		"updated": "11/16/2012"
 	},
 	{
 		"name": "ONICE",
@@ -410,7 +411,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/15/2006",
+		"updated": "09/15/2006"
 	},
 	{
 		"name": "ONLIE",
@@ -419,7 +420,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "GPT*VORTAC*320.64/1.06",
+		"updated": "GPT*VORTAC*320.64/1.06"
 	},
 	{
 		"name": "ONUME",
@@ -428,7 +429,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/12/2016",
+		"updated": "07/12/2016"
 	},
 	{
 		"name": "OPELS",
@@ -437,7 +438,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFT*VORTAC*319.38/16.53",
+		"updated": "LFT*VORTAC*319.38/16.53"
 	},
 	{
 		"name": "OPMEE",
@@ -446,7 +447,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/23/2009",
+		"updated": "06/23/2009"
 	},
 	{
 		"name": "OPTOC",
@@ -455,7 +456,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/11/2012",
+		"updated": "06/11/2012"
 	},
 	{
 		"name": "OPULL",
@@ -464,7 +465,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BRO*VORTAC*349.21/54.00",
+		"updated": "BRO*VORTAC*349.21/54.00"
 	},
 	{
 		"name": "OPYAB",
@@ -473,7 +474,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/15/2011",
+		"updated": "12/15/2011"
 	},
 	{
 		"name": "ORALE",
@@ -482,7 +483,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/18/2013",
+		"updated": "04/18/2013"
 	},
 	{
 		"name": "OREAN",
@@ -491,7 +492,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/28/2010",
+		"updated": "05/28/2010"
 	},
 	{
 		"name": "OREKY",
@@ -500,7 +501,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/08/2017",
+		"updated": "12/08/2017"
 	},
 	{
 		"name": "ORENT",
@@ -509,7 +510,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/18/2012",
+		"updated": "07/18/2012"
 	},
 	{
 		"name": "OREYI",
@@ -518,7 +519,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/24/2014",
+		"updated": "09/24/2014"
 	},
 	{
 		"name": "ORFEN",
@@ -527,7 +528,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "ORICH",
@@ -536,7 +537,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TBD*VOR/DME*268.33/40.23",
+		"updated": "TBD*VOR/DME*268.33/40.23"
 	},
 	{
 		"name": "ORIET",
@@ -545,7 +546,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "LRD*VORTAC*082.00/20.00",
+		"updated": "LRD*VORTAC*082.00/20.00"
 	},
 	{
 		"name": "ORINT",
@@ -554,7 +555,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/20/2017",
+		"updated": "10/20/2017"
 	},
 	{
 		"name": "OROCE",
@@ -563,7 +564,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/09/2007",
+		"updated": "05/09/2007"
 	},
 	{
 		"name": "OROXE",
@@ -572,7 +573,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/13/2004",
+		"updated": "05/13/2004"
 	},
 	{
 		"name": "ORUDE",
@@ -581,7 +582,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/23/2012",
+		"updated": "07/23/2012"
 	},
 	{
 		"name": "ORULE",
@@ -590,7 +591,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "ORUNY",
@@ -599,7 +600,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/06/2010",
+		"updated": "12/06/2010"
 	},
 	{
 		"name": "ORYAC",
@@ -608,7 +609,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/12/2016",
+		"updated": "07/12/2016"
 	},
 	{
 		"name": "OSCER",
@@ -617,7 +618,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TNV*VOR/DME*010.95/31.90",
+		"updated": "TNV*VOR/DME*010.95/31.90"
 	},
 	{
 		"name": "OSLOW",
@@ -626,7 +627,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "GPT*VORTAC*320.45/27.00",
+		"updated": "GPT*VORTAC*320.45/27.00"
 	},
 	{
 		"name": "OSOLA",
@@ -635,7 +636,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/19/2017",
+		"updated": "10/19/2017"
 	},
 	{
 		"name": "OSRAW",
@@ -644,7 +645,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/12/2010",
+		"updated": "08/12/2010"
 	},
 	{
 		"name": "OSSOE",
@@ -653,7 +654,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "NGP*VORTAC*257.05",
+		"updated": "NGP*VORTAC*257.05"
 	},
 	{
 		"name": "OSTOE",
@@ -662,7 +663,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/05/2012",
+		"updated": "09/05/2012"
 	},
 	{
 		"name": "OSUGY",
@@ -671,7 +672,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/03/2014",
+		"updated": "02/03/2014"
 	},
 	{
 		"name": "OSUME",
@@ -680,7 +681,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CLL*VORTAC*249.02/15.00",
+		"updated": "CLL*VORTAC*249.02/15.00"
 	},
 	{
 		"name": "OSWOD",
@@ -689,7 +690,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/17/2011",
+		"updated": "03/17/2011"
 	},
 	{
 		"name": "OTCAV",
@@ -698,7 +699,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/10/2012",
+		"updated": "04/10/2012"
 	},
 	{
 		"name": "OTERR",
@@ -707,7 +708,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "PSX*VORTAC*300.00/12.00",
+		"updated": "PSX*VORTAC*300.00/12.00"
 	},
 	{
 		"name": "OTIME",
@@ -716,7 +717,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PQL*LD*348.05/4.20",
+		"updated": "PQL*LD*348.05/4.20"
 	},
 	{
 		"name": "OTMEE",
@@ -725,7 +726,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/09/2004",
+		"updated": "11/09/2004"
 	},
 	{
 		"name": "OTQAB",
@@ -734,7 +735,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/28/2005",
+		"updated": "03/28/2005"
 	},
 	{
 		"name": "OTULE",
@@ -743,7 +744,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "07/14/2009",
+		"updated": "07/14/2009"
 	},
 	{
 		"name": "OTUSE",
@@ -752,7 +753,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*306.54/4.97",
+		"updated": "DLF*VORTAC*306.54/4.97"
 	},
 	{
 		"name": "OTUWI",
@@ -761,7 +762,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/22/2008",
+		"updated": "12/22/2008"
 	},
 	{
 		"name": "OTVIW",
@@ -770,7 +771,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "THX*VORTAC*318.89/16.00",
+		"updated": "THX*VORTAC*318.89/16.00"
 	},
 	{
 		"name": "OTWED",
@@ -779,7 +780,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "THX*VORTAC*157.08/9.00",
+		"updated": "THX*VORTAC*157.08/9.00"
 	},
 	{
 		"name": "OTZOT",
@@ -788,7 +789,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/16/2011",
+		"updated": "02/16/2011"
 	},
 	{
 		"name": "OVACU",
@@ -797,7 +798,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/14/2008",
+		"updated": "10/14/2008"
 	},
 	{
 		"name": "OVBAE",
@@ -806,7 +807,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/01/2008",
+		"updated": "04/01/2008"
 	},
 	{
 		"name": "OVINE",
@@ -815,7 +816,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/26/2018",
+		"updated": "04/26/2018"
 	},
 	{
 		"name": "OVOSE",
@@ -824,7 +825,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "OVUKE",
@@ -833,7 +834,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/24/2017",
+		"updated": "10/24/2017"
 	},
 	{
 		"name": "OVUZO",
@@ -842,7 +843,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "OVXAP",
@@ -851,7 +852,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "OVZUR",
@@ -860,7 +861,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/28/2000",
+		"updated": "08/28/2000"
 	},
 	{
 		"name": "OWANY",
@@ -869,7 +870,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CLL*VORTAC*127.13/18.00",
+		"updated": "CLL*VORTAC*127.13/18.00"
 	},
 	{
 		"name": "OWDIM",
@@ -878,7 +879,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CLL*VORTAC*299.00/18.00",
+		"updated": "CLL*VORTAC*299.00/18.00"
 	},
 	{
 		"name": "OWEEE",
@@ -887,7 +888,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TNV*VOR/DME*279.79/54.76",
+		"updated": "TNV*VOR/DME*279.79/54.76"
 	},
 	{
 		"name": "OWEJA",
@@ -896,7 +897,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "OWEKY",
@@ -905,7 +906,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/06/2012",
+		"updated": "04/06/2012"
 	},
 	{
 		"name": "OWELL",
@@ -914,7 +915,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "OND*LD*086.96/7.46",
+		"updated": "OND*LD*086.96/7.46"
 	},
 	{
 		"name": "OWFOB",
@@ -923,7 +924,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "OWNOL",
@@ -932,7 +933,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/17/2011",
+		"updated": "03/17/2011"
 	},
 	{
 		"name": "OWURE",
@@ -941,7 +942,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFK*VORTAC*332.20/10.38",
+		"updated": "LFK*VORTAC*332.20/10.38"
 	},
 	{
 		"name": "OWZUT",
@@ -950,7 +951,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LOA*VORTAC*167.98/8.00",
+		"updated": "LOA*VORTAC*167.98/8.00"
 	},
 	{
 		"name": "OXANY",
@@ -959,7 +960,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "OXEMY",
@@ -968,7 +969,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "OXIDE",
@@ -977,7 +978,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/07/2009",
+		"updated": "08/07/2009"
 	},
 	{
 		"name": "OXITY",
@@ -986,7 +987,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LOA*VORTAC*177.36/19.00",
+		"updated": "LOA*VORTAC*177.36/19.00"
 	},
 	{
 		"name": "OXUKE",
@@ -995,7 +996,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "OXUSY",
@@ -1004,7 +1005,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PSX*VORTAC*054.00/26.32",
+		"updated": "PSX*VORTAC*054.00/26.32"
 	},
 	{
 		"name": "OYABI",
@@ -1013,7 +1014,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/02/2014",
+		"updated": "10/02/2014"
 	},
 	{
 		"name": "OYALE",
@@ -1022,7 +1023,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/16/2012",
+		"updated": "11/16/2012"
 	},
 	{
 		"name": "OYICU",
@@ -1031,7 +1032,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LLM*LD*136.58/1.16",
+		"updated": "LLM*LD*136.58/1.16"
 	},
 	{
 		"name": "OYSTY",
@@ -1040,7 +1041,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PCU*VOR/DME*252.52",
+		"updated": "PCU*VOR/DME*252.52"
 	},
 	{
 		"name": "OYUBA",
@@ -1049,7 +1050,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/22/2007",
+		"updated": "06/22/2007"
 	},
 	{
 		"name": "OZEFA",
@@ -1058,7 +1059,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFT*VORTAC*317.00/1.40",
+		"updated": "LFT*VORTAC*317.00/1.40"
 	},
 	{
 		"name": "OZEFY",
@@ -1067,7 +1068,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "IAH*VORTAC*239.01/18.96",
+		"updated": "IAH*VORTAC*239.01/18.96"
 	},
 	{
 		"name": "OZEYI",
@@ -1076,7 +1077,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/27/2012",
+		"updated": "09/27/2012"
 	},
 	{
 		"name": "OZINU",
@@ -1085,7 +1086,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/25/2013",
+		"updated": "06/25/2013"
 	},
 	{
 		"name": "OZKUJ",
@@ -1094,7 +1095,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/12/2011",
+		"updated": "08/12/2011"
 	},
 	{
 		"name": "OZMOS",
@@ -1103,5 +1104,6 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "JCT*VORTAC*270.20/86.95",
-	},
+		"updated": "JCT*VORTAC*270.20/86.95"
+	}
+]

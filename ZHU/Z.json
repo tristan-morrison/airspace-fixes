@@ -1,3 +1,4 @@
+[
 	{
 		"name": "ZABEX",
 		"latitude": "29-46-10.36 N",
@@ -5,7 +6,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "HRV*VORTAC*/6.90",
+		"updated": "HRV*VORTAC*/6.90"
 	},
 	{
 		"name": "ZABIR",
@@ -14,7 +15,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "HRV*VORTAC*090.00/15.00",
+		"updated": "HRV*VORTAC*090.00/15.00"
 	},
 	{
 		"name": "ZABIT",
@@ -23,7 +24,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/14/2012",
+		"updated": "09/14/2012"
 	},
 	{
 		"name": "ZABOS",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CSI*VORTAC*074.10",
+		"updated": "CSI*VORTAC*074.10"
 	},
 	{
 		"name": "ZABRO",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/02/2007",
+		"updated": "04/02/2007"
 	},
 	{
 		"name": "ZADOM",
@@ -50,7 +51,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*346.00/23.50",
+		"updated": "DLF*VORTAC*346.00/23.50"
 	},
 	{
 		"name": "ZADUR",
@@ -59,7 +60,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/26/2013",
+		"updated": "12/26/2013"
 	},
 	{
 		"name": "ZADUV",
@@ -68,7 +69,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/23/2017",
+		"updated": "01/23/2017"
 	},
 	{
 		"name": "ZAGEX",
@@ -77,7 +78,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*346.00/21.00",
+		"updated": "DLF*VORTAC*346.00/21.00"
 	},
 	{
 		"name": "ZAGIL",
@@ -86,7 +87,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/20/2012",
+		"updated": "04/20/2012"
 	},
 	{
 		"name": "ZAGOR",
@@ -95,7 +96,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "HRV*VORTAC*/2.90",
+		"updated": "HRV*VORTAC*/2.90"
 	},
 	{
 		"name": "ZAKBU",
@@ -104,7 +105,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/21/2011",
+		"updated": "06/21/2011"
 	},
 	{
 		"name": "ZAKNO",
@@ -113,7 +114,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/20/2012",
+		"updated": "03/20/2012"
 	},
 	{
 		"name": "ZAKOV",
@@ -122,7 +123,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/31/2017",
+		"updated": "10/31/2017"
 	},
 	{
 		"name": "ZALOX",
@@ -131,7 +132,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/27/2015",
+		"updated": "01/27/2015"
 	},
 	{
 		"name": "ZALYO",
@@ -140,7 +141,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/02/2016",
+		"updated": "06/02/2016"
 	},
 	{
 		"name": "ZAMGO",
@@ -149,7 +150,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*040.00/20.00",
+		"updated": "DLF*VORTAC*040.00/20.00"
 	},
 	{
 		"name": "ZAMGU",
@@ -158,7 +159,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "CRP*VORTAC*139.00/13.80",
+		"updated": "CRP*VORTAC*139.00/13.80"
 	},
 	{
 		"name": "ZAMLI",
@@ -167,7 +168,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "THX*VORTAC*125.72/8.22",
+		"updated": "THX*VORTAC*125.72/8.22"
 	},
 	{
 		"name": "ZAMTA",
@@ -176,7 +177,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LLO*VORTAC*088.61/6.48",
+		"updated": "LLO*VORTAC*088.61/6.48"
 	},
 	{
 		"name": "ZANID",
@@ -185,7 +186,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/28/2016",
+		"updated": "06/28/2016"
 	},
 	{
 		"name": "ZAPAB",
@@ -194,7 +195,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*346.00/15.00",
+		"updated": "DLF*VORTAC*346.00/15.00"
 	},
 	{
 		"name": "ZAPPO",
@@ -203,7 +204,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "DAS*VORTAC*214.59",
+		"updated": "DAS*VORTAC*214.59"
 	},
 	{
 		"name": "ZAPSI",
@@ -212,7 +213,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/02/2014",
+		"updated": "10/02/2014"
 	},
 	{
 		"name": "ZARAD",
@@ -221,7 +222,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/04/2012",
+		"updated": "04/04/2012"
 	},
 	{
 		"name": "ZARAL",
@@ -230,7 +231,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "MFE*VOR/DME*028.90/12.00",
+		"updated": "MFE*VOR/DME*028.90/12.00"
 	},
 	{
 		"name": "ZARBA",
@@ -239,7 +240,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/28/2010",
+		"updated": "03/28/2010"
 	},
 	{
 		"name": "ZARIG",
@@ -248,7 +249,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/16/2012",
+		"updated": "07/16/2012"
 	},
 	{
 		"name": "ZARPO",
@@ -257,7 +258,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/30/2005",
+		"updated": "08/30/2005"
 	},
 	{
 		"name": "ZARSA",
@@ -266,7 +267,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/14/2012",
+		"updated": "09/14/2012"
 	},
 	{
 		"name": "ZASED",
@@ -275,7 +276,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/05/2017",
+		"updated": "09/05/2017"
 	},
 	{
 		"name": "ZASGI",
@@ -284,7 +285,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/18/2012",
+		"updated": "07/18/2012"
 	},
 	{
 		"name": "ZATBA",
@@ -293,7 +294,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/20/2009",
+		"updated": "03/20/2009"
 	},
 	{
 		"name": "ZAVAK",
@@ -302,7 +303,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/06/2012",
+		"updated": "08/06/2012"
 	},
 	{
 		"name": "ZAVEB",
@@ -311,7 +312,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/13/2011",
+		"updated": "10/13/2011"
 	},
 	{
 		"name": "ZEBAG",
@@ -320,7 +321,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "RND*VORTAC*326.00/8.00",
+		"updated": "RND*VORTAC*326.00/8.00"
 	},
 	{
 		"name": "ZEBBB",
@@ -329,7 +330,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/25/2014",
+		"updated": "03/25/2014"
 	},
 	{
 		"name": "ZEBGO",
@@ -338,7 +339,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/30/2017",
+		"updated": "10/30/2017"
 	},
 	{
 		"name": "ZEBNO",
@@ -347,7 +348,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/14/2009",
+		"updated": "10/14/2009"
 	},
 	{
 		"name": "ZEDBA",
@@ -356,7 +357,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/03/2014",
+		"updated": "02/03/2014"
 	},
 	{
 		"name": "ZEDEG",
@@ -365,7 +366,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/22/2014",
+		"updated": "04/22/2014"
 	},
 	{
 		"name": "ZEDKU",
@@ -374,7 +375,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HCE*LD*174.70/4.93",
+		"updated": "HCE*LD*174.70/4.93"
 	},
 	{
 		"name": "ZEDNA",
@@ -383,7 +384,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/05/2015",
+		"updated": "11/05/2015"
 	},
 	{
 		"name": "ZEEKK",
@@ -392,7 +393,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFK*VORTAC*158.62/39.09",
+		"updated": "LFK*VORTAC*158.62/39.09"
 	},
 	{
 		"name": "ZEGSI",
@@ -401,7 +402,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*356.00/11.50",
+		"updated": "DLF*VORTAC*356.00/11.50"
 	},
 	{
 		"name": "ZEGTA",
@@ -410,7 +411,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/03/2012",
+		"updated": "10/03/2012"
 	},
 	{
 		"name": "ZEGUP",
@@ -419,7 +420,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LCH*VORTAC*229.85",
+		"updated": "LCH*VORTAC*229.85"
 	},
 	{
 		"name": "ZEGVI",
@@ -428,7 +429,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "12/27/2012",
+		"updated": "12/27/2012"
 	},
 	{
 		"name": "ZELDA",
@@ -437,7 +438,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "VUH*VOR/DME*323.06",
+		"updated": "VUH*VOR/DME*323.06"
 	},
 	{
 		"name": "ZELIS",
@@ -446,7 +447,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/12/2017",
+		"updated": "07/12/2017"
 	},
 	{
 		"name": "ZELKU",
@@ -455,7 +456,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "08/16/2012",
+		"updated": "08/16/2012"
 	},
 	{
 		"name": "ZEMON",
@@ -464,7 +465,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "BIX*TACAN*120.00/10.00",
+		"updated": "BIX*TACAN*120.00/10.00"
 	},
 	{
 		"name": "ZEMOT",
@@ -473,7 +474,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CSI*VORTAC*055.00/7.22",
+		"updated": "CSI*VORTAC*055.00/7.22"
 	},
 	{
 		"name": "ZEMUB",
@@ -482,7 +483,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*073.00/9.00",
+		"updated": "DLF*VORTAC*073.00/9.00"
 	},
 	{
 		"name": "ZENBO",
@@ -491,7 +492,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/07/2011",
+		"updated": "01/07/2011"
 	},
 	{
 		"name": "ZENZI",
@@ -500,7 +501,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/30/2017",
+		"updated": "10/30/2017"
 	},
 	{
 		"name": "ZEPOD",
@@ -509,7 +510,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/28/2011",
+		"updated": "10/28/2011"
 	},
 	{
 		"name": "ZEPOP",
@@ -518,7 +519,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "HRV*VORTAC*056.00/15.00",
+		"updated": "HRV*VORTAC*056.00/15.00"
 	},
 	{
 		"name": "ZEPOX",
@@ -527,7 +528,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/30/2005",
+		"updated": "08/30/2005"
 	},
 	{
 		"name": "ZEPUT",
@@ -536,7 +537,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/17/2011",
+		"updated": "03/17/2011"
 	},
 	{
 		"name": "ZERDA",
@@ -545,7 +546,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/17/2014",
+		"updated": "09/17/2014"
 	},
 	{
 		"name": "ZERIK",
@@ -554,7 +555,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/16/2007",
+		"updated": "10/16/2007"
 	},
 	{
 		"name": "ZERON",
@@ -563,7 +564,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HRL*VOR/DME*193.00/0.78",
+		"updated": "HRL*VOR/DME*193.00/0.78"
 	},
 	{
 		"name": "ZETEL",
@@ -572,7 +573,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*131.00/8.00",
+		"updated": "DLF*VORTAC*131.00/8.00"
 	},
 	{
 		"name": "ZETET",
@@ -581,7 +582,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "RND*VORTAC*064.00/14.00",
+		"updated": "RND*VORTAC*064.00/14.00"
 	},
 	{
 		"name": "ZETON",
@@ -590,7 +591,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/02/2014",
+		"updated": "10/02/2014"
 	},
 	{
 		"name": "ZETUN",
@@ -599,7 +600,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFK*VORTAC*332.20/6.50",
+		"updated": "LFK*VORTAC*332.20/6.50"
 	},
 	{
 		"name": "ZEVAX",
@@ -608,7 +609,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/11/2012",
+		"updated": "06/11/2012"
 	},
 	{
 		"name": "ZEVGA",
@@ -617,7 +618,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "ZEVOL",
@@ -626,7 +627,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "ZEVOM",
@@ -635,7 +636,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "CRP*VORTAC*137.77/16.10",
+		"updated": "CRP*VORTAC*137.77/16.10"
 	},
 	{
 		"name": "ZEVSA",
@@ -644,7 +645,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/09/2015",
+		"updated": "01/09/2015"
 	},
 	{
 		"name": "ZEVUT",
@@ -653,7 +654,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/23/2017",
+		"updated": "06/23/2017"
 	},
 	{
 		"name": "ZIBAX",
@@ -662,7 +663,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/25/2016",
+		"updated": "05/25/2016"
 	},
 	{
 		"name": "ZIBKO",
@@ -671,7 +672,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "ZIBUK",
@@ -680,7 +681,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/15/2014",
+		"updated": "07/15/2014"
 	},
 	{
 		"name": "ZICMA",
@@ -689,7 +690,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/12/2016",
+		"updated": "07/12/2016"
 	},
 	{
 		"name": "ZIDMI",
@@ -698,7 +699,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DHK*TACAN*110.00/12.00",
+		"updated": "DHK*TACAN*110.00/12.00"
 	},
 	{
 		"name": "ZIGDA",
@@ -707,7 +708,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/03/2012",
+		"updated": "10/03/2012"
 	},
 	{
 		"name": "ZIGOK",
@@ -716,7 +717,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "SAT*VORTAC*081.37/6.14",
+		"updated": "SAT*VORTAC*081.37/6.14"
 	},
 	{
 		"name": "ZIGZE",
@@ -725,7 +726,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/05/2017",
+		"updated": "01/05/2017"
 	},
 	{
 		"name": "ZIKUD",
@@ -734,7 +735,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/29/2017",
+		"updated": "11/29/2017"
 	},
 	{
 		"name": "ZILAG",
@@ -743,7 +744,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/28/2007",
+		"updated": "12/28/2007"
 	},
 	{
 		"name": "ZILDI",
@@ -752,7 +753,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BFM*VORTAC*310.04/1.76",
+		"updated": "BFM*VORTAC*310.04/1.76"
 	},
 	{
 		"name": "ZILEN",
@@ -761,7 +762,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "09/05/2013",
+		"updated": "09/05/2013"
 	},
 	{
 		"name": "ZILOT",
@@ -770,7 +771,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/24/2018",
+		"updated": "01/24/2018"
 	},
 	{
 		"name": "ZIMGO",
@@ -779,7 +780,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/20/2012",
+		"updated": "03/20/2012"
 	},
 	{
 		"name": "ZINGO",
@@ -788,7 +789,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CWK*VORTAC*222.05/35.00",
+		"updated": "CWK*VORTAC*222.05/35.00"
 	},
 	{
 		"name": "ZINON",
@@ -797,7 +798,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "SAT*LD*216.78/3.27",
+		"updated": "SAT*LD*216.78/3.27"
 	},
 	{
 		"name": "ZIPEL",
@@ -806,7 +807,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/03/2012",
+		"updated": "10/03/2012"
 	},
 	{
 		"name": "ZIPGU",
@@ -815,7 +816,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/13/2017",
+		"updated": "03/13/2017"
 	},
 	{
 		"name": "ZIPIV",
@@ -824,7 +825,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "ZIPKO",
@@ -833,7 +834,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/24/2018",
+		"updated": "01/24/2018"
 	},
 	{
 		"name": "ZIROR",
@@ -842,7 +843,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFT*VORTAC*264.18/12.00",
+		"updated": "LFT*VORTAC*264.18/12.00"
 	},
 	{
 		"name": "ZISAT",
@@ -851,7 +852,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/16/2017",
+		"updated": "08/16/2017"
 	},
 	{
 		"name": "ZISEN",
@@ -860,7 +861,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/17/2011",
+		"updated": "03/17/2011"
 	},
 	{
 		"name": "ZISLI",
@@ -869,7 +870,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "02/13/2008",
+		"updated": "02/13/2008"
 	},
 	{
 		"name": "ZITIB",
@@ -878,7 +879,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "ZIVAL",
@@ -887,7 +888,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/12/2011",
+		"updated": "08/12/2011"
 	},
 	{
 		"name": "ZIVER",
@@ -896,7 +897,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/14/2012",
+		"updated": "06/14/2012"
 	},
 	{
 		"name": "ZIVIM",
@@ -905,7 +906,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/04/2012",
+		"updated": "04/04/2012"
 	},
 	{
 		"name": "ZIVIX",
@@ -914,7 +915,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/11/2014",
+		"updated": "03/11/2014"
 	},
 	{
 		"name": "ZIVNO",
@@ -923,7 +924,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/12/2016",
+		"updated": "07/12/2016"
 	},
 	{
 		"name": "ZIXAD",
@@ -932,7 +933,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/24/2014",
+		"updated": "09/24/2014"
 	},
 	{
 		"name": "ZMSKL",
@@ -941,7 +942,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TNV*VOR/DME*076.00/32.75",
+		"updated": "TNV*VOR/DME*076.00/32.75"
 	},
 	{
 		"name": "ZOBUS",
@@ -950,7 +951,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*276.15/13.94",
+		"updated": "DLF*VORTAC*276.15/13.94"
 	},
 	{
 		"name": "ZOCKE",
@@ -959,7 +960,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BRO*VORTAC*311.16/11.99",
+		"updated": "BRO*VORTAC*311.16/11.99"
 	},
 	{
 		"name": "ZOEEE",
@@ -968,7 +969,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/21/2014",
+		"updated": "07/21/2014"
 	},
 	{
 		"name": "ZOGBO",
@@ -977,7 +978,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "BIX*TACAN*/11.00",
+		"updated": "BIX*TACAN*/11.00"
 	},
 	{
 		"name": "ZOGBU",
@@ -986,7 +987,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DHK*TACAN*054.00/12.00",
+		"updated": "DHK*TACAN*054.00/12.00"
 	},
 	{
 		"name": "ZOGER",
@@ -995,7 +996,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*301.00/25.00",
+		"updated": "DLF*VORTAC*301.00/25.00"
 	},
 	{
 		"name": "ZOLBU",
@@ -1004,7 +1005,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/05/2017",
+		"updated": "12/05/2017"
 	},
 	{
 		"name": "ZOLLY",
@@ -1013,7 +1014,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "NQI*TACAN*275.00/12.00",
+		"updated": "NQI*TACAN*275.00/12.00"
 	},
 	{
 		"name": "ZOLUR",
@@ -1022,7 +1023,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/03/2012",
+		"updated": "10/03/2012"
 	},
 	{
 		"name": "ZOLXY",
@@ -1031,7 +1032,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/22/2017",
+		"updated": "03/22/2017"
 	},
 	{
 		"name": "ZOMSU",
@@ -1040,7 +1041,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/06/2010",
+		"updated": "12/06/2010"
 	},
 	{
 		"name": "ZOMVA",
@@ -1049,7 +1050,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "ZONEN",
@@ -1058,7 +1059,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LOA*VORTAC*225.79",
+		"updated": "LOA*VORTAC*225.79"
 	},
 	{
 		"name": "ZONEV",
@@ -1067,7 +1068,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TBD*VOR/DME*121.50/13.00",
+		"updated": "TBD*VOR/DME*121.50/13.00"
 	},
 	{
 		"name": "ZORLU",
@@ -1076,7 +1077,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/23/2012",
+		"updated": "02/23/2012"
 	},
 	{
 		"name": "ZOSOG",
@@ -1085,7 +1086,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/14/2013",
+		"updated": "08/14/2013"
 	},
 	{
 		"name": "ZOTAP",
@@ -1094,7 +1095,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/29/2009",
+		"updated": "01/29/2009"
 	},
 	{
 		"name": "ZOTEP",
@@ -1103,7 +1104,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CSI*VORTAC*088.24",
+		"updated": "CSI*VORTAC*088.24"
 	},
 	{
 		"name": "ZOTUG",
@@ -1112,7 +1113,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/06/2012",
+		"updated": "08/06/2012"
 	},
 	{
 		"name": "ZOVAK",
@@ -1121,7 +1122,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/31/2017",
+		"updated": "10/31/2017"
 	},
 	{
 		"name": "ZOXEB",
@@ -1130,7 +1131,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/30/2012",
+		"updated": "03/30/2012"
 	},
 	{
 		"name": "ZOXEK",
@@ -1139,7 +1140,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/24/2014",
+		"updated": "09/24/2014"
 	},
 	{
 		"name": "ZUBEL",
@@ -1148,7 +1149,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "ZUBIN",
@@ -1157,7 +1158,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/09/2011",
+		"updated": "05/09/2011"
 	},
 	{
 		"name": "ZUBOX",
@@ -1166,7 +1167,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/17/2011",
+		"updated": "03/17/2011"
 	},
 	{
 		"name": "ZUBUG",
@@ -1175,7 +1176,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/23/2014",
+		"updated": "12/23/2014"
 	},
 	{
 		"name": "ZUBUT",
@@ -1184,7 +1185,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/27/2018",
+		"updated": "04/27/2018"
 	},
 	{
 		"name": "ZUDOP",
@@ -1193,7 +1194,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CXO*LD*320.48/3.20",
+		"updated": "CXO*LD*320.48/3.20"
 	},
 	{
 		"name": "ZUGTI",
@@ -1202,7 +1203,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BFM*VORTAC*353.00/7.94",
+		"updated": "BFM*VORTAC*353.00/7.94"
 	},
 	{
 		"name": "ZUGUK",
@@ -1211,7 +1212,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/20/2013",
+		"updated": "01/20/2013"
 	},
 	{
 		"name": "ZUKAN",
@@ -1220,7 +1221,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "07/20/2009",
+		"updated": "07/20/2009"
 	},
 	{
 		"name": "ZUKBO",
@@ -1229,7 +1230,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CRP*VORTAC*200.50/7.60",
+		"updated": "CRP*VORTAC*200.50/7.60"
 	},
 	{
 		"name": "ZUKLA",
@@ -1238,7 +1239,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/31/2012",
+		"updated": "05/31/2012"
 	},
 	{
 		"name": "ZULEX",
@@ -1247,7 +1248,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "EKI*LE*131.82/11.88",
+		"updated": "EKI*LE*131.82/11.88"
 	},
 	{
 		"name": "ZULOS",
@@ -1256,7 +1257,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/27/2006",
+		"updated": "07/27/2006"
 	},
 	{
 		"name": "ZUMMI",
@@ -1265,7 +1266,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/14/2010",
+		"updated": "05/14/2010"
 	},
 	{
 		"name": "ZUNEC",
@@ -1274,7 +1275,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "ZUNER",
@@ -1283,7 +1284,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/19/2016",
+		"updated": "04/19/2016"
 	},
 	{
 		"name": "ZUNIK",
@@ -1292,7 +1293,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/10/2010",
+		"updated": "05/10/2010"
 	},
 	{
 		"name": "ZUNIN",
@@ -1301,7 +1302,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "ZUNLA",
@@ -1310,7 +1311,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/20/2013",
+		"updated": "06/20/2013"
 	},
 	{
 		"name": "ZUNOE",
@@ -1319,7 +1320,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFT*VORTAC*013.19/14.55",
+		"updated": "LFT*VORTAC*013.19/14.55"
 	},
 	{
 		"name": "ZUPIL",
@@ -1328,7 +1329,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/29/2017",
+		"updated": "11/29/2017"
 	},
 	{
 		"name": "ZURGU",
@@ -1337,7 +1338,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CWK*VORTAC*003.86/34.70",
+		"updated": "CWK*VORTAC*003.86/34.70"
 	},
 	{
 		"name": "ZUSAT",
@@ -1346,7 +1347,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/06/2017",
+		"updated": "09/06/2017"
 	},
 	{
 		"name": "ZUTAT",
@@ -1355,7 +1356,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HOX*LD*106.49/4.36",
+		"updated": "HOX*LD*106.49/4.36"
 	},
 	{
 		"name": "ZUTKI",
@@ -1364,7 +1365,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HAH*NDB*262.02",
+		"updated": "HAH*NDB*262.02"
 	},
 	{
 		"name": "ZUUUU",
@@ -1373,7 +1374,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "IAH*VORTAC*275.50/47.30",
+		"updated": "IAH*VORTAC*275.50/47.30"
 	},
 	{
 		"name": "ZUXNY",
@@ -1382,7 +1383,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/04/2015",
+		"updated": "11/04/2015"
 	},
 	{
 		"name": "ZUXUG",
@@ -1391,7 +1392,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/20/2007",
+		"updated": "07/20/2007"
 	},
 	{
 		"name": "ZYDCO",
@@ -1400,5 +1401,6 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PCU*VOR/DME*302.38",
-	},
+		"updated": "PCU*VOR/DME*302.38"
+	}
+]

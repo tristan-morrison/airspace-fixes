@@ -1,3 +1,4 @@
+[
 	{
 		"name": "BAACK",
 		"latitude": "40-1-22.25 N",
@@ -5,7 +6,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "BAAND",
@@ -14,7 +15,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/26/2012",
+		"updated": "09/26/2012"
 	},
 	{
 		"name": "BAAWL",
@@ -23,7 +24,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BJC*VOR/DME*/10.16",
+		"updated": "BJC*VOR/DME*/10.16"
 	},
 	{
 		"name": "BAAYR",
@@ -32,7 +33,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/01/2014",
+		"updated": "07/01/2014"
 	},
 	{
 		"name": "BABAA",
@@ -41,7 +42,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "BACBA",
@@ -50,7 +51,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "BAFJE",
@@ -59,7 +60,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "BAHIR",
@@ -68,7 +69,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/29/2005",
+		"updated": "06/29/2005"
 	},
 	{
 		"name": "BANRE",
@@ -77,7 +78,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/06/2018",
+		"updated": "03/06/2018"
 	},
 	{
 		"name": "BARAB",
@@ -86,7 +87,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "BARGR",
@@ -95,7 +96,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*300.65/33.33",
+		"updated": "GLL*VOR/DME*300.65/33.33"
 	},
 	{
 		"name": "BARKE",
@@ -104,7 +105,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/10/2010",
+		"updated": "02/10/2010"
 	},
 	{
 		"name": "BARRK",
@@ -113,7 +114,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "BARZA",
@@ -122,7 +123,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "VAZ*DD*NE CRS/9.52",
+		"updated": "VAZ*DD*NE CRS/9.52"
 	},
 	{
 		"name": "BASAM",
@@ -131,7 +132,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RDY*TACAN*305.77/15.28",
+		"updated": "RDY*TACAN*305.77/15.28"
 	},
 	{
 		"name": "BASEE",
@@ -140,7 +141,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DVV*VORTAC*225.27/68.42",
+		"updated": "DVV*VORTAC*225.27/68.42"
 	},
 	{
 		"name": "BASLT",
@@ -149,7 +150,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/02/2008",
+		"updated": "09/02/2008"
 	},
 	{
 		"name": "BATTZ",
@@ -158,7 +159,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "MTJ*VOR/DME*312.09",
+		"updated": "MTJ*VOR/DME*312.09"
 	},
 	{
 		"name": "BAYLR",
@@ -167,7 +168,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DEN*VOR/DME*243.00/47.00",
+		"updated": "DEN*VOR/DME*243.00/47.00"
 	},
 	{
 		"name": "BBOOK",
@@ -176,7 +177,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "BBRWN",
@@ -185,7 +186,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/22/2012",
+		"updated": "11/22/2012"
 	},
 	{
 		"name": "BCALN",
@@ -194,7 +195,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "BCORP",
@@ -203,7 +204,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/22/2012",
+		"updated": "11/22/2012"
 	},
 	{
 		"name": "BDEEE",
@@ -212,7 +213,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "BDIVN",
@@ -221,7 +222,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "BDROC",
@@ -230,7 +231,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "JNC*VOR/DME*151.41/37.52",
+		"updated": "JNC*VOR/DME*151.41/37.52"
 	},
 	{
 		"name": "BDUNN",
@@ -239,7 +240,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "BECOL",
@@ -248,7 +249,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/07/2008",
+		"updated": "07/07/2008"
 	},
 	{
 		"name": "BEEAR",
@@ -257,7 +258,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/04/2015",
+		"updated": "09/04/2015"
 	},
 	{
 		"name": "BEEBS",
@@ -266,7 +267,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/23/2012",
+		"updated": "09/23/2012"
 	},
 	{
 		"name": "BEEFS",
@@ -275,7 +276,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "RCA*TACAN*122.00/15.00",
+		"updated": "RCA*TACAN*122.00/15.00"
 	},
 	{
 		"name": "BEEFY",
@@ -284,7 +285,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RAP*VORTAC*026.65/16.88",
+		"updated": "RAP*VORTAC*026.65/16.88"
 	},
 	{
 		"name": "BEEKR",
@@ -293,7 +294,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/02/2017",
+		"updated": "02/02/2017"
 	},
 	{
 		"name": "BEEKY",
@@ -302,7 +303,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "BEELO",
@@ -311,7 +312,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/05/2014",
+		"updated": "03/05/2014"
 	},
 	{
 		"name": "BEFNO",
@@ -320,7 +321,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "RCA*TACAN*/7.22",
+		"updated": "RCA*TACAN*/7.22"
 	},
 	{
 		"name": "BEIER",
@@ -329,7 +330,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/26/2013",
+		"updated": "08/26/2013"
 	},
 	{
 		"name": "BEKEE",
@@ -338,7 +339,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "BKF*TACAN*147.97/13.00",
+		"updated": "BKF*TACAN*147.97/13.00"
 	},
 	{
 		"name": "BELKE",
@@ -347,7 +348,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "MCK*VOR/DME*253.00/66.00",
+		"updated": "MCK*VOR/DME*253.00/66.00"
 	},
 	{
 		"name": "BEMXI",
@@ -356,7 +357,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "BENGL",
@@ -365,7 +366,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "OUF*LD*172.51/18.73",
+		"updated": "OUF*LD*172.51/18.73"
 	},
 	{
 		"name": "BENJU",
@@ -374,7 +375,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/10/2007",
+		"updated": "05/10/2007"
 	},
 	{
 		"name": "BENNE",
@@ -383,7 +384,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*312.00",
+		"updated": "GLL*VOR/DME*312.00"
 	},
 	{
 		"name": "BENNZ",
@@ -392,7 +393,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SNY*VOR/DME*062.00/30.00",
+		"updated": "SNY*VOR/DME*062.00/30.00"
 	},
 	{
 		"name": "BEOND",
@@ -401,7 +402,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "BEQJI",
@@ -410,7 +411,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "BERNZ",
@@ -419,7 +420,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "BERRS",
@@ -428,7 +429,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/22/2012",
+		"updated": "11/22/2012"
 	},
 	{
 		"name": "BESAQ",
@@ -437,7 +438,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*260.31",
+		"updated": "ALS*VORTAC*260.31"
 	},
 	{
 		"name": "BETEU",
@@ -446,7 +447,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/03/2002",
+		"updated": "05/03/2002"
 	},
 	{
 		"name": "BETME",
@@ -455,7 +456,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/10/2010",
+		"updated": "02/10/2010"
 	},
 	{
 		"name": "BEYAD",
@@ -464,7 +465,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/13/2009",
+		"updated": "07/13/2009"
 	},
 	{
 		"name": "BEYON",
@@ -473,7 +474,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "07/18/1995",
+		"updated": "07/18/1995"
 	},
 	{
 		"name": "BFFLO",
@@ -482,7 +483,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RAP*VORTAC*350.25/45.00",
+		"updated": "RAP*VORTAC*350.25/45.00"
 	},
 	{
 		"name": "BFREE",
@@ -491,7 +492,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "OUF*LD*172.51/24.61",
+		"updated": "OUF*LD*172.51/24.61"
 	},
 	{
 		"name": "BGONE",
@@ -500,7 +501,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/22/2012",
+		"updated": "11/22/2012"
 	},
 	{
 		"name": "BHAPY",
@@ -509,7 +510,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/25/2012",
+		"updated": "03/25/2012"
 	},
 	{
 		"name": "BHIGH",
@@ -518,7 +519,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/22/2012",
+		"updated": "11/22/2012"
 	},
 	{
 		"name": "BIBPA",
@@ -527,7 +528,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/07/2003",
+		"updated": "10/07/2003"
 	},
 	{
 		"name": "BICAR",
@@ -536,7 +537,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/17/2011",
+		"updated": "10/17/2011"
 	},
 	{
 		"name": "BIGNE",
@@ -545,7 +546,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/03/2007",
+		"updated": "12/03/2007"
 	},
 	{
 		"name": "BINBE",
@@ -554,7 +555,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "FQF*VORTAC*254.46/15.17",
+		"updated": "FQF*VORTAC*254.46/15.17"
 	},
 	{
 		"name": "BINCA",
@@ -563,7 +564,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "BINKE",
@@ -572,7 +573,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*245.00",
+		"updated": "PUB*VORTAC*245.00"
 	},
 	{
 		"name": "BIQCI",
@@ -581,7 +582,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "BITAR",
@@ -590,7 +591,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "EKR*VOR/DME*230.00",
+		"updated": "EKR*VOR/DME*230.00"
 	},
 	{
 		"name": "BIYAG",
@@ -599,7 +600,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ANW*VOR/DME*187.64/2.28",
+		"updated": "ANW*VOR/DME*187.64/2.28"
 	},
 	{
 		"name": "BIYAJ",
@@ -608,7 +609,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "08/16/2010",
+		"updated": "08/16/2010"
 	},
 	{
 		"name": "BIZEN",
@@ -617,7 +618,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BJC*VOR/DME*103.73/6.19",
+		"updated": "BJC*VOR/DME*103.73/6.19"
 	},
 	{
 		"name": "BJETN",
@@ -626,7 +627,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/16/2012",
+		"updated": "03/16/2012"
 	},
 	{
 		"name": "BKAYY",
@@ -635,7 +636,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/28/2012",
+		"updated": "09/28/2012"
 	},
 	{
 		"name": "BLATS",
@@ -644,7 +645,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/08/2015",
+		"updated": "07/08/2015"
 	},
 	{
 		"name": "BLEDS",
@@ -653,7 +654,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/21/2018",
+		"updated": "02/21/2018"
 	},
 	{
 		"name": "BLEEU",
@@ -662,7 +663,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/01/2014",
+		"updated": "07/01/2014"
 	},
 	{
 		"name": "BLGUM",
@@ -671,7 +672,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/26/2017",
+		"updated": "07/26/2017"
 	},
 	{
 		"name": "BLIPS",
@@ -680,7 +681,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/08/2014",
+		"updated": "10/08/2014"
 	},
 	{
 		"name": "BLOKE",
@@ -689,7 +690,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*061.00/14.84",
+		"updated": "ALS*VORTAC*061.00/14.84"
 	},
 	{
 		"name": "BLOOM",
@@ -698,7 +699,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*139.30/35.37",
+		"updated": "PUB*VORTAC*139.30/35.37"
 	},
 	{
 		"name": "BLUED",
@@ -707,7 +708,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/03/2015",
+		"updated": "03/03/2015"
 	},
 	{
 		"name": "BLUKN",
@@ -716,7 +717,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/23/2012",
+		"updated": "09/23/2012"
 	},
 	{
 		"name": "BNITA",
@@ -725,7 +726,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/22/2012",
+		"updated": "11/22/2012"
 	},
 	{
 		"name": "BOBBA",
@@ -734,7 +735,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DEN*VOR/DME*243.00/75.04",
+		"updated": "DEN*VOR/DME*243.00/75.04"
 	},
 	{
 		"name": "BOBSM",
@@ -743,7 +744,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/17/2014",
+		"updated": "11/17/2014"
 	},
 	{
 		"name": "BODGE",
@@ -752,7 +753,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/20/2009",
+		"updated": "03/20/2009"
 	},
 	{
 		"name": "BOENG",
@@ -761,7 +762,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "OUF*LD*172.51/14.00",
+		"updated": "OUF*LD*172.51/14.00"
 	},
 	{
 		"name": "BOGEI",
@@ -770,7 +771,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/22/2012",
+		"updated": "11/22/2012"
 	},
 	{
 		"name": "BOKKI",
@@ -779,7 +780,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LBF*VOR/DME*035.65/54.15",
+		"updated": "LBF*VOR/DME*035.65/54.15"
 	},
 	{
 		"name": "BOLVE",
@@ -788,7 +789,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/12/2016",
+		"updated": "01/12/2016"
 	},
 	{
 		"name": "BONUH",
@@ -797,7 +798,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/06/2006",
+		"updated": "10/06/2006"
 	},
 	{
 		"name": "BOOBU",
@@ -806,7 +807,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "OUF*LD*172.51/21.97",
+		"updated": "OUF*LD*172.51/21.97"
 	},
 	{
 		"name": "BOOKY",
@@ -815,7 +816,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BFF*VORTAC*035.00",
+		"updated": "BFF*VORTAC*035.00"
 	},
 	{
 		"name": "BOOON",
@@ -824,7 +825,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "BORDR",
@@ -833,7 +834,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "TXC*VORTAC*258.02",
+		"updated": "TXC*VORTAC*258.02"
 	},
 	{
 		"name": "BORUM",
@@ -842,7 +843,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "BOSSS",
@@ -851,7 +852,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "BOUTS",
@@ -860,7 +861,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RDY*TACAN*322.00/15.00",
+		"updated": "RDY*TACAN*322.00/15.00"
 	},
 	{
 		"name": "BOVEE",
@@ -869,7 +870,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "BKF*TACAN*106.00/50.00",
+		"updated": "BKF*TACAN*106.00/50.00"
 	},
 	{
 		"name": "BOWEE",
@@ -878,7 +879,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/15/2014",
+		"updated": "07/15/2014"
 	},
 	{
 		"name": "BOYET",
@@ -887,7 +888,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/12/2009",
+		"updated": "03/12/2009"
 	},
 	{
 		"name": "BOZTE",
@@ -896,7 +897,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/14/2009",
+		"updated": "04/14/2009"
 	},
 	{
 		"name": "BPRAN",
@@ -905,7 +906,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/25/2012",
+		"updated": "03/25/2012"
 	},
 	{
 		"name": "BPUTN",
@@ -914,7 +915,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/21/2012",
+		"updated": "09/21/2012"
 	},
 	{
 		"name": "BRAZO",
@@ -923,7 +924,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DRO*VOR/DME*096.34",
+		"updated": "DRO*VOR/DME*096.34"
 	},
 	{
 		"name": "BREKK",
@@ -932,7 +933,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/25/2012",
+		"updated": "03/25/2012"
 	},
 	{
 		"name": "BRESH",
@@ -941,7 +942,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*078.89/14.23",
+		"updated": "PUB*VORTAC*078.89/14.23"
 	},
 	{
 		"name": "BREWS",
@@ -950,7 +951,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DEN*VOR/DME*237.68/25.87",
+		"updated": "DEN*VOR/DME*237.68/25.87"
 	},
 	{
 		"name": "BREZE",
@@ -959,7 +960,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*256.87",
+		"updated": "ALS*VORTAC*256.87"
 	},
 	{
 		"name": "BRICK",
@@ -968,7 +969,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "MTJ*VOR/DME*296.62/23.44",
+		"updated": "MTJ*VOR/DME*296.62/23.44"
 	},
 	{
 		"name": "BRKEM",
@@ -977,7 +978,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/22/2012",
+		"updated": "11/22/2012"
 	},
 	{
 		"name": "BRNWL",
@@ -986,7 +987,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "BROCC",
@@ -995,7 +996,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*075.55/44.39",
+		"updated": "CHE*VOR/DME*075.55/44.39"
 	},
 	{
 		"name": "BROWD",
@@ -1004,7 +1005,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/10/2009",
+		"updated": "03/10/2009"
 	},
 	{
 		"name": "BRRUK",
@@ -1013,7 +1014,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "BRSTO",
@@ -1022,7 +1023,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/22/2012",
+		"updated": "11/22/2012"
 	},
 	{
 		"name": "BRTSN",
@@ -1031,7 +1032,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "BRUIT",
@@ -1040,7 +1041,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ONL*VORTAC*252.44/120.00",
+		"updated": "ONL*VORTAC*252.44/120.00"
 	},
 	{
 		"name": "BRUUK",
@@ -1049,7 +1050,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "MTJ*VOR/DME*349.03/14.76",
+		"updated": "MTJ*VOR/DME*349.03/14.76"
 	},
 	{
 		"name": "BRYCC",
@@ -1058,7 +1059,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/22/2012",
+		"updated": "11/22/2012"
 	},
 	{
 		"name": "BSAFE",
@@ -1067,7 +1068,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "BSAYN",
@@ -1076,7 +1077,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/25/2012",
+		"updated": "03/25/2012"
 	},
 	{
 		"name": "BSTON",
@@ -1085,7 +1086,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "BTELN",
@@ -1094,7 +1095,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/22/2012",
+		"updated": "11/22/2012"
 	},
 	{
 		"name": "BUBYO",
@@ -1103,7 +1104,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/01/2013",
+		"updated": "11/01/2013"
 	},
 	{
 		"name": "BUFFS",
@@ -1112,7 +1113,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DCI*LD*169.81/7.59",
+		"updated": "DCI*LD*169.81/7.59"
 	},
 	{
 		"name": "BUGGG",
@@ -1121,7 +1122,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/19/2016",
+		"updated": "01/19/2016"
 	},
 	{
 		"name": "BULDG",
@@ -1130,7 +1131,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/22/2012",
+		"updated": "11/22/2012"
 	},
 	{
 		"name": "BULIA",
@@ -1139,7 +1140,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "BULLT",
@@ -1148,7 +1149,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/22/2012",
+		"updated": "11/22/2012"
 	},
 	{
 		"name": "BULQO",
@@ -1157,7 +1158,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "BUMPY",
@@ -1166,7 +1167,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "BUSTE",
@@ -1175,7 +1176,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/14/2009",
+		"updated": "01/14/2009"
 	},
 	{
 		"name": "BUVHO",
@@ -1184,7 +1185,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/06/2018",
+		"updated": "04/06/2018"
 	},
 	{
 		"name": "BUVME",
@@ -1193,7 +1194,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/21/2015",
+		"updated": "09/21/2015"
 	},
 	{
 		"name": "BUWME",
@@ -1202,7 +1203,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/14/2009",
+		"updated": "04/14/2009"
 	},
 	{
 		"name": "BUYYA",
@@ -1211,7 +1212,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/04/2015",
+		"updated": "09/04/2015"
 	},
 	{
 		"name": "BUZRO",
@@ -1220,7 +1221,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/13/2013",
+		"updated": "05/13/2013"
 	},
 	{
 		"name": "BYEBI",
@@ -1229,5 +1230,6 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/23/2012",
-	},
+		"updated": "09/23/2012"
+	}
+]

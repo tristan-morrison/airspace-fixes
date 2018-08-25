@@ -1,3 +1,4 @@
+[
 	{
 		"name": "DAACE",
 		"latitude": "48-14-55.69 N",
@@ -5,7 +6,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/25/2017",
+		"updated": "04/25/2017"
 	},
 	{
 		"name": "DACAD",
@@ -14,7 +15,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "JAC*VOR/DME*198.00/16.00",
+		"updated": "JAC*VOR/DME*198.00/16.00"
 	},
 	{
 		"name": "DAGNE",
@@ -23,7 +24,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BOI*VORTAC*277.58/39.00",
+		"updated": "BOI*VORTAC*277.58/39.00"
 	},
 	{
 		"name": "DAGTT",
@@ -32,7 +33,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/04/2014",
+		"updated": "08/04/2014"
 	},
 	{
 		"name": "DAHNI",
@@ -41,7 +42,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/19/2017",
+		"updated": "09/19/2017"
 	},
 	{
 		"name": "DAIRE",
@@ -50,7 +51,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MSO*VOR/DME*242.67/16.00",
+		"updated": "MSO*VOR/DME*242.67/16.00"
 	},
 	{
 		"name": "DAKEC",
@@ -59,7 +60,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/05/2014",
+		"updated": "03/05/2014"
 	},
 	{
 		"name": "DANLL",
@@ -68,7 +69,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/31/2011",
+		"updated": "08/31/2011"
 	},
 	{
 		"name": "DAPTE",
@@ -77,7 +78,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/12/2004",
+		"updated": "04/12/2004"
 	},
 	{
 		"name": "DATSA",
@@ -86,7 +87,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "GTF*VORTAC*277.34/16.54",
+		"updated": "GTF*VORTAC*277.34/16.54"
 	},
 	{
 		"name": "DAXIQ",
@@ -95,7 +96,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/11/2013",
+		"updated": "03/11/2013"
 	},
 	{
 		"name": "DAYMN",
@@ -104,7 +105,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/24/2017",
+		"updated": "04/24/2017"
 	},
 	{
 		"name": "DCEEE",
@@ -113,7 +114,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "SMR*LD*SW CRS/9.04",
+		"updated": "SMR*LD*SW CRS/9.04"
 	},
 	{
 		"name": "DEBRE",
@@ -122,7 +123,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/21/2009",
+		"updated": "04/21/2009"
 	},
 	{
 		"name": "DECEP",
@@ -131,7 +132,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/10/2011",
+		"updated": "08/10/2011"
 	},
 	{
 		"name": "DECEV",
@@ -140,7 +141,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "02/16/2006",
+		"updated": "02/16/2006"
 	},
 	{
 		"name": "DEDNE",
@@ -149,7 +150,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/15/2012",
+		"updated": "06/15/2012"
 	},
 	{
 		"name": "DEELM",
@@ -158,7 +159,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/01/2011",
+		"updated": "09/01/2011"
 	},
 	{
 		"name": "DEETZ",
@@ -167,7 +168,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "05/14/2014",
+		"updated": "05/14/2014"
 	},
 	{
 		"name": "DEFIS",
@@ -176,7 +177,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/06/2015",
+		"updated": "11/06/2015"
 	},
 	{
 		"name": "DEFKI",
@@ -185,7 +186,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/23/2017",
+		"updated": "08/23/2017"
 	},
 	{
 		"name": "DEGHU",
@@ -194,7 +195,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "DEHLR",
@@ -203,7 +204,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/03/2015",
+		"updated": "03/03/2015"
 	},
 	{
 		"name": "DEKRE",
@@ -212,7 +213,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/16/2016",
+		"updated": "06/16/2016"
 	},
 	{
 		"name": "DELKE",
@@ -221,7 +222,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "DTA*VORTAC*187.02/9.00",
+		"updated": "DTA*VORTAC*187.02/9.00"
 	},
 	{
 		"name": "DELPE",
@@ -230,7 +231,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/25/2015",
+		"updated": "06/25/2015"
 	},
 	{
 		"name": "DENRE",
@@ -239,7 +240,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "05/25/2011",
+		"updated": "05/25/2011"
 	},
 	{
 		"name": "DEPTY",
@@ -248,7 +249,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "MR",
-		"updated": "MUO*TACAN*/12.00",
+		"updated": "MUO*TACAN*/12.00"
 	},
 	{
 		"name": "DERMT",
@@ -257,7 +258,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "REO*VOR/DME*125.18/53.00",
+		"updated": "REO*VOR/DME*125.18/53.00"
 	},
 	{
 		"name": "DERSO",
@@ -266,7 +267,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "LIA*VOR*032.81",
+		"updated": "LIA*VOR*032.81"
 	},
 	{
 		"name": "DETAN",
@@ -275,7 +276,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MLF*VORTAC*071.51/18.12",
+		"updated": "MLF*VORTAC*071.51/18.12"
 	},
 	{
 		"name": "DEVGE",
@@ -284,7 +285,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/16/2016",
+		"updated": "06/16/2016"
 	},
 	{
 		"name": "DEVLE",
@@ -293,7 +294,7 @@
 		"state": "OREGON",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/05/2014",
+		"updated": "08/05/2014"
 	},
 	{
 		"name": "DEYEN",
@@ -302,7 +303,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/14/2016",
+		"updated": "03/14/2016"
 	},
 	{
 		"name": "DEZRT",
@@ -311,7 +312,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/23/2018",
+		"updated": "03/23/2018"
 	},
 	{
 		"name": "DHAKS",
@@ -320,7 +321,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/14/2016",
+		"updated": "03/14/2016"
 	},
 	{
 		"name": "DICOT",
@@ -329,7 +330,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "FFU*VORTAC*359.68/8.34",
+		"updated": "FFU*VORTAC*359.68/8.34"
 	},
 	{
 		"name": "DIDLY",
@@ -338,7 +339,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MSO*VOR/DME*298.14/13.00",
+		"updated": "MSO*VOR/DME*298.14/13.00"
 	},
 	{
 		"name": "DIGEY",
@@ -347,7 +348,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/05/2004",
+		"updated": "04/05/2004"
 	},
 	{
 		"name": "DIGNE",
@@ -356,7 +357,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "OCS*VOR/DME*091.63/10.45",
+		"updated": "OCS*VOR/DME*091.63/10.45"
 	},
 	{
 		"name": "DIGUQ",
@@ -365,7 +366,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "12/19/2011",
+		"updated": "12/19/2011"
 	},
 	{
 		"name": "DIKAC",
@@ -374,7 +375,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/04/2014",
+		"updated": "08/04/2014"
 	},
 	{
 		"name": "DIMMS",
@@ -383,7 +384,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/30/2002",
+		"updated": "04/30/2002"
 	},
 	{
 		"name": "DIMSE",
@@ -392,7 +393,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/23/2017",
+		"updated": "01/23/2017"
 	},
 	{
 		"name": "DIPHU",
@@ -401,7 +402,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MSO*VOR/DME*262.00/25.00",
+		"updated": "MSO*VOR/DME*262.00/25.00"
 	},
 	{
 		"name": "DIRLE",
@@ -410,7 +411,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/23/2016",
+		"updated": "06/23/2016"
 	},
 	{
 		"name": "DISLE",
@@ -419,7 +420,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "12/07/2017",
+		"updated": "12/07/2017"
 	},
 	{
 		"name": "DITLE",
@@ -428,7 +429,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "MR",
-		"updated": "HIF*TACAN*/2.00",
+		"updated": "HIF*TACAN*/2.00"
 	},
 	{
 		"name": "DIVDE",
@@ -437,7 +438,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "02/17/2016",
+		"updated": "02/17/2016"
 	},
 	{
 		"name": "DIVID",
@@ -446,7 +447,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "HIA*VOR/DME*256.00",
+		"updated": "HIA*VOR/DME*256.00"
 	},
 	{
 		"name": "DIVLE",
@@ -455,7 +456,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "DIVVE",
@@ -464,7 +465,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/08/2011",
+		"updated": "09/08/2011"
 	},
 	{
 		"name": "DIYLA",
@@ -473,7 +474,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/18/2004",
+		"updated": "03/18/2004"
 	},
 	{
 		"name": "DMBOH",
@@ -482,7 +483,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "DMDUP",
@@ -491,7 +492,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "DMEBW",
@@ -500,7 +501,7 @@
 		"state": "OREGON",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "DMEKN",
@@ -509,7 +510,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "DMESR",
@@ -518,7 +519,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/11/2012",
+		"updated": "09/11/2012"
 	},
 	{
 		"name": "DMFOX",
@@ -527,7 +528,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MSO*VOR/DME*177.00/16.00",
+		"updated": "MSO*VOR/DME*177.00/16.00"
 	},
 	{
 		"name": "DMJSJ",
@@ -536,7 +537,7 @@
 		"state": "OREGON",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "DMKEX",
@@ -545,7 +546,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "CPN*VOR/DME*307.35/7.03",
+		"updated": "CPN*VOR/DME*307.35/7.03"
 	},
 	{
 		"name": "DMMCA",
@@ -554,7 +555,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "DMMKU",
@@ -563,7 +564,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "DOBYS",
@@ -572,7 +573,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BQU*VOR/DME*321.00",
+		"updated": "BQU*VOR/DME*321.00"
 	},
 	{
 		"name": "DOBZU",
@@ -581,7 +582,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/04/2011",
+		"updated": "11/04/2011"
 	},
 	{
 		"name": "DODSE",
@@ -590,7 +591,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/26/2004",
+		"updated": "07/26/2004"
 	},
 	{
 		"name": "DOGNE",
@@ -599,7 +600,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/10/2002",
+		"updated": "04/10/2002"
 	},
 	{
 		"name": "DOMRE",
@@ -608,7 +609,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/21/2011",
+		"updated": "09/21/2011"
 	},
 	{
 		"name": "DOMVE",
@@ -617,7 +618,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/22/2008",
+		"updated": "07/22/2008"
 	},
 	{
 		"name": "DONVY",
@@ -626,7 +627,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BOY*VOR/DME*152.85/30.28",
+		"updated": "BOY*VOR/DME*152.85/30.28"
 	},
 	{
 		"name": "DOOKR",
@@ -635,7 +636,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "HLN*VORTAC*087.63/20.00",
+		"updated": "HLN*VORTAC*087.63/20.00"
 	},
 	{
 		"name": "DOPIC",
@@ -644,7 +645,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "12/11/2017",
+		"updated": "12/11/2017"
 	},
 	{
 		"name": "DORIA",
@@ -653,7 +654,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "ISN*VOR/DME*250.86/73.86",
+		"updated": "ISN*VOR/DME*250.86/73.86"
 	},
 	{
 		"name": "DORTN",
@@ -662,7 +663,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/21/2017",
+		"updated": "04/21/2017"
 	},
 	{
 		"name": "DOTME",
@@ -671,7 +672,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "ELY*VOR/DME*147.12/29.00",
+		"updated": "ELY*VOR/DME*147.12/29.00"
 	},
 	{
 		"name": "DOTRE",
@@ -680,7 +681,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/21/2009",
+		"updated": "04/21/2009"
 	},
 	{
 		"name": "DOTVE",
@@ -689,7 +690,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "DOYED",
@@ -698,7 +699,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/15/2012",
+		"updated": "06/15/2012"
 	},
 	{
 		"name": "DRAPR",
@@ -707,7 +708,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/28/2007",
+		"updated": "08/28/2007"
 	},
 	{
 		"name": "DRFTR",
@@ -716,7 +717,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/08/2011",
+		"updated": "06/08/2011"
 	},
 	{
 		"name": "DRSIE",
@@ -725,7 +726,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "DRYAD",
@@ -734,7 +735,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BYI*VOR/DME*175.00",
+		"updated": "BYI*VOR/DME*175.00"
 	},
 	{
 		"name": "DRYFT",
@@ -743,7 +744,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/08/2011",
+		"updated": "06/08/2011"
 	},
 	{
 		"name": "DRYLK",
@@ -752,7 +753,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/11/2005",
+		"updated": "08/11/2005"
 	},
 	{
 		"name": "DRYVE",
@@ -761,7 +762,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "FFU*VORTAC*314.00/10.00",
+		"updated": "FFU*VORTAC*314.00/10.00"
 	},
 	{
 		"name": "DUCAY",
@@ -770,7 +771,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BQU*VOR/DME*137.05/17.00",
+		"updated": "BQU*VOR/DME*137.05/17.00"
 	},
 	{
 		"name": "DUCBA",
@@ -779,7 +780,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "ISN*VOR/DME*250.86/35.00",
+		"updated": "ISN*VOR/DME*250.86/35.00"
 	},
 	{
 		"name": "DUDTE",
@@ -788,7 +789,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "DTA*VORTAC*165.70/5.00",
+		"updated": "DTA*VORTAC*165.70/5.00"
 	},
 	{
 		"name": "DUGDE",
@@ -797,7 +798,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "WP",
-		"updated": "08/14/2006",
+		"updated": "08/14/2006"
 	},
 	{
 		"name": "DUGGY",
@@ -806,7 +807,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/28/2007",
+		"updated": "08/28/2007"
 	},
 	{
 		"name": "DULCA",
@@ -815,7 +816,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/23/2009",
+		"updated": "03/23/2009"
 	},
 	{
 		"name": "DUNLP",
@@ -824,7 +825,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "UUH*LD*163.95/14.75",
+		"updated": "UUH*LD*163.95/14.75"
 	},
 	{
 		"name": "DUPZE",
@@ -833,7 +834,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "DURCH",
@@ -842,7 +843,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/23/2018",
+		"updated": "03/23/2018"
 	},
 	{
 		"name": "DURPE",
@@ -851,7 +852,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "12/07/2017",
+		"updated": "12/07/2017"
 	},
 	{
 		"name": "DUSCA",
@@ -860,7 +861,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "02/17/2006",
+		"updated": "02/17/2006"
 	},
 	{
 		"name": "DUTME",
@@ -869,7 +870,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/21/2015",
+		"updated": "10/21/2015"
 	},
 	{
 		"name": "DUXHU",
@@ -878,7 +879,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/27/2017",
+		"updated": "10/27/2017"
 	},
 	{
 		"name": "DUYDE",
@@ -887,7 +888,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "DUYES",
@@ -896,7 +897,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/04/2015",
+		"updated": "11/04/2015"
 	},
 	{
 		"name": "DVINT",
@@ -905,7 +906,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/08/2011",
+		"updated": "06/08/2011"
 	},
 	{
 		"name": "DYANN",
@@ -914,7 +915,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "TCH*VORTAC*315.00/15.46",
+		"updated": "TCH*VORTAC*315.00/15.46"
 	},
 	{
 		"name": "DYENA",
@@ -923,7 +924,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/05/2014",
+		"updated": "03/05/2014"
 	},
 	{
 		"name": "DYYLN",
@@ -932,5 +933,6 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/20/2015",
-	},
+		"updated": "10/20/2015"
+	}
+]

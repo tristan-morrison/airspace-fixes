@@ -1,3 +1,4 @@
+[
 	{
 		"name": "XATAH",
 		"latitude": "31-25-44.78 N",
@@ -5,7 +6,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/14/2016",
+		"updated": "06/14/2016"
 	},
 	{
 		"name": "XBEGN",
@@ -14,7 +15,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "SZW*VORTAC*173.39/11.80",
+		"updated": "SZW*VORTAC*173.39/11.80"
 	},
 	{
 		"name": "XEGXY",
@@ -23,7 +24,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "11/29/2012",
+		"updated": "11/29/2012"
 	},
 	{
 		"name": "XEHMO",
@@ -32,7 +33,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "XIGIQ",
@@ -41,7 +42,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "TLH*LD*184.49/3.82",
+		"updated": "TLH*LD*184.49/3.82"
 	},
 	{
 		"name": "XIKHO",
@@ -50,7 +51,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "ABY*LD*227.10/2.66",
+		"updated": "ABY*LD*227.10/2.66"
 	},
 	{
 		"name": "XIPSY",
@@ -59,7 +60,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "11/20/2002",
+		"updated": "11/20/2002"
 	},
 	{
 		"name": "XIRCI",
@@ -68,7 +69,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CTF*VOR/DME*079.72/12.86",
+		"updated": "CTF*VOR/DME*079.72/12.86"
 	},
 	{
 		"name": "XIVXU",
@@ -77,7 +78,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/16/2013",
+		"updated": "10/16/2013"
 	},
 	{
 		"name": "XOTNE",
@@ -86,5 +87,6 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "05/19/2015",
-	},
+		"updated": "05/19/2015"
+	}
+]

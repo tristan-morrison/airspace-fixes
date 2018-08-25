@@ -1,3 +1,4 @@
+[
 	{
 		"name": "OAKUM",
 		"latitude": "37-49-55.74 N",
@@ -5,7 +6,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/13/2012",
+		"updated": "09/13/2012"
 	},
 	{
 		"name": "OARED",
@@ -14,7 +15,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/22/2014",
+		"updated": "09/22/2014"
 	},
 	{
 		"name": "OAVES",
@@ -23,7 +24,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/11/2014",
+		"updated": "04/11/2014"
 	},
 	{
 		"name": "OBERS",
@@ -32,7 +33,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "BLF*VOR/DME*073.98/11.10",
+		"updated": "BLF*VOR/DME*073.98/11.10"
 	},
 	{
 		"name": "OBKAE",
@@ -41,7 +42,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/06/2009",
+		"updated": "05/06/2009"
 	},
 	{
 		"name": "OBNOE",
@@ -50,7 +51,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/23/2015",
+		"updated": "02/23/2015"
 	},
 	{
 		"name": "OBSEW",
@@ -59,7 +60,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "PBX*LD*093.94/13.16",
+		"updated": "PBX*LD*093.94/13.16"
 	},
 	{
 		"name": "OBUGE",
@@ -68,7 +69,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/21/2010",
+		"updated": "06/21/2010"
 	},
 	{
 		"name": "OCASE",
@@ -77,7 +78,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/23/2014",
+		"updated": "01/23/2014"
 	},
 	{
 		"name": "OCHER",
@@ -86,7 +87,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/10/2014",
+		"updated": "02/10/2014"
 	},
 	{
 		"name": "OCOCA",
@@ -95,7 +96,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "03/28/2012",
+		"updated": "03/28/2012"
 	},
 	{
 		"name": "OCOGU",
@@ -104,7 +105,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "OCOVE",
@@ -113,7 +114,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "MIE*VOR/DME*141.30/6.45",
+		"updated": "MIE*VOR/DME*141.30/6.45"
 	},
 	{
 		"name": "OCPAH",
@@ -122,7 +123,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/14/2011",
+		"updated": "09/14/2011"
 	},
 	{
 		"name": "OCTUC",
@@ -131,7 +132,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/25/2014",
+		"updated": "09/25/2014"
 	},
 	{
 		"name": "ODABE",
@@ -140,7 +141,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/17/2016",
+		"updated": "11/17/2016"
 	},
 	{
 		"name": "ODACI",
@@ -149,7 +150,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/17/2006",
+		"updated": "02/17/2006"
 	},
 	{
 		"name": "ODEBE",
@@ -158,7 +159,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/27/2015",
+		"updated": "01/27/2015"
 	},
 	{
 		"name": "ODENN",
@@ -167,7 +168,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/09/2012",
+		"updated": "04/09/2012"
 	},
 	{
 		"name": "ODORY",
@@ -176,7 +177,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "ODUBE",
@@ -185,7 +186,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/08/2006",
+		"updated": "08/08/2006"
 	},
 	{
 		"name": "ODWUC",
@@ -194,7 +195,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/12/2015",
+		"updated": "08/12/2015"
 	},
 	{
 		"name": "ODYOV",
@@ -203,7 +204,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "OFIRO",
@@ -212,7 +213,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "OFLAN",
@@ -221,7 +222,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/01/2017",
+		"updated": "12/01/2017"
 	},
 	{
 		"name": "OFOCO",
@@ -230,7 +231,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "OOM*VORTAC*027.39/15.00",
+		"updated": "OOM*VORTAC*027.39/15.00"
 	},
 	{
 		"name": "OGARE",
@@ -239,7 +240,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "YRK*VORTAC*048.00/27.26",
+		"updated": "YRK*VORTAC*048.00/27.26"
 	},
 	{
 		"name": "OGEDY",
@@ -248,7 +249,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "10/14/2009",
+		"updated": "10/14/2009"
 	},
 	{
 		"name": "OGINY",
@@ -257,7 +258,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/11/2018",
+		"updated": "01/11/2018"
 	},
 	{
 		"name": "OGIRE",
@@ -266,7 +267,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/24/2006",
+		"updated": "11/24/2006"
 	},
 	{
 		"name": "OGMUU",
@@ -275,7 +276,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "GZG*VOR/DME*322.14/20.25",
+		"updated": "GZG*VOR/DME*322.14/20.25"
 	},
 	{
 		"name": "OGULY",
@@ -284,7 +285,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/26/2013",
+		"updated": "12/26/2013"
 	},
 	{
 		"name": "OGUSY",
@@ -293,7 +294,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "03/23/2009",
+		"updated": "03/23/2009"
 	},
 	{
 		"name": "OHAGI",
@@ -302,7 +303,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/05/2012",
+		"updated": "06/05/2012"
 	},
 	{
 		"name": "OHIOS",
@@ -311,7 +312,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "APE*VORTAC*189.00/80.00",
+		"updated": "APE*VORTAC*189.00/80.00"
 	},
 	{
 		"name": "OHMEE",
@@ -320,7 +321,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "SGH*VOR/DME*055.46/6.42",
+		"updated": "SGH*VOR/DME*055.46/6.42"
 	},
 	{
 		"name": "OHOLO",
@@ -329,7 +330,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "OHOZE",
@@ -338,7 +339,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "OIILL",
@@ -347,7 +348,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "OINKK",
@@ -356,7 +357,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "VHP*VORTAC*183.37",
+		"updated": "VHP*VORTAC*183.37"
 	},
 	{
 		"name": "OJESA",
@@ -365,7 +366,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "MW",
-		"updated": "10/28/2010",
+		"updated": "10/28/2010"
 	},
 	{
 		"name": "OJETO",
@@ -374,7 +375,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "EWO*VOR/DME*164.01/26.36",
+		"updated": "EWO*VOR/DME*164.01/26.36"
 	},
 	{
 		"name": "OJOHN",
@@ -383,7 +384,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "APE*VORTAC*189.12",
+		"updated": "APE*VORTAC*189.12"
 	},
 	{
 		"name": "OKACA",
@@ -392,7 +393,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "OKIDE",
@@ -401,7 +402,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/29/2009",
+		"updated": "07/29/2009"
 	},
 	{
 		"name": "OKIWI",
@@ -410,7 +411,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/16/2001",
+		"updated": "01/16/2001"
 	},
 	{
 		"name": "OKNEW",
@@ -419,7 +420,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/21/2010",
+		"updated": "06/21/2010"
 	},
 	{
 		"name": "OKOLO",
@@ -428,7 +429,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "BQM*VOR/DME*182.95/4.00",
+		"updated": "BQM*VOR/DME*182.95/4.00"
 	},
 	{
 		"name": "OKONE",
@@ -437,7 +438,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/05/2004",
+		"updated": "04/05/2004"
 	},
 	{
 		"name": "OKPEW",
@@ -446,7 +447,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/08/2006",
+		"updated": "08/08/2006"
 	},
 	{
 		"name": "OKSOW",
@@ -455,7 +456,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "OLBEE",
@@ -464,7 +465,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/12/2014",
+		"updated": "09/12/2014"
 	},
 	{
 		"name": "OLEDE",
@@ -473,7 +474,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/09/2016",
+		"updated": "05/09/2016"
 	},
 	{
 		"name": "OLETE",
@@ -482,7 +483,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "AZQ*VOR/DME*305.26/12.00",
+		"updated": "AZQ*VOR/DME*305.26/12.00"
 	},
 	{
 		"name": "OLGEW",
@@ -491,7 +492,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/20/2014",
+		"updated": "02/20/2014"
 	},
 	{
 		"name": "OLGLD",
@@ -500,7 +501,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "03/25/2015",
+		"updated": "03/25/2015"
 	},
 	{
 		"name": "OLIPE",
@@ -509,7 +510,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "OMIFI",
@@ -518,7 +519,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/10/2001",
+		"updated": "01/10/2001"
 	},
 	{
 		"name": "OMIJU",
@@ -527,7 +528,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/08/2018",
+		"updated": "01/08/2018"
 	},
 	{
 		"name": "OMITS",
@@ -536,7 +537,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "WP",
-		"updated": "DQN*VOR/DME*162.62/11.22",
+		"updated": "DQN*VOR/DME*162.62/11.22"
 	},
 	{
 		"name": "OMOZA",
@@ -545,7 +546,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/01/2016",
+		"updated": "08/01/2016"
 	},
 	{
 		"name": "OMUBE",
@@ -554,7 +555,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/21/2011",
+		"updated": "06/21/2011"
 	},
 	{
 		"name": "ONAGY",
@@ -563,7 +564,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/27/2016",
+		"updated": "09/27/2016"
 	},
 	{
 		"name": "ONMEE",
@@ -572,7 +573,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/05/2012",
+		"updated": "06/05/2012"
 	},
 	{
 		"name": "ONOSY",
@@ -581,7 +582,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/20/2000",
+		"updated": "07/20/2000"
 	},
 	{
 		"name": "ONZIG",
@@ -590,7 +591,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/14/2008",
+		"updated": "08/14/2008"
 	},
 	{
 		"name": "OPEVE",
@@ -599,7 +600,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "OPHUS",
@@ -608,7 +609,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "CJN*LD*006.17/11.16",
+		"updated": "CJN*LD*006.17/11.16"
 	},
 	{
 		"name": "OPMUC",
@@ -617,7 +618,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "OOM*VORTAC*263.87/12.00",
+		"updated": "OOM*VORTAC*263.87/12.00"
 	},
 	{
 		"name": "OPNIC",
@@ -626,7 +627,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/19/2007",
+		"updated": "11/19/2007"
 	},
 	{
 		"name": "OPOKE",
@@ -635,7 +636,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/29/2016",
+		"updated": "09/29/2016"
 	},
 	{
 		"name": "OPVAF",
@@ -644,7 +645,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "OQCIR",
@@ -653,7 +654,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/12/2014",
+		"updated": "09/12/2014"
 	},
 	{
 		"name": "ORBOE",
@@ -662,7 +663,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/03/2006",
+		"updated": "11/03/2006"
 	},
 	{
 		"name": "ORBUE",
@@ -671,7 +672,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/02/2018",
+		"updated": "05/02/2018"
 	},
 	{
 		"name": "OREOH",
@@ -680,7 +681,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/26/2012",
+		"updated": "04/26/2012"
 	},
 	{
 		"name": "OREWO",
@@ -689,7 +690,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "OREXE",
@@ -698,7 +699,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/30/2010",
+		"updated": "07/30/2010"
 	},
 	{
 		"name": "ORICE",
@@ -707,7 +708,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "ROD*VORTAC*169.22/11.00",
+		"updated": "ROD*VORTAC*169.22/11.00"
 	},
 	{
 		"name": "ORIKE",
@@ -716,7 +717,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "ORLEE",
@@ -725,7 +726,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "APE*VORTAC*247.68/55.00",
+		"updated": "APE*VORTAC*247.68/55.00"
 	},
 	{
 		"name": "ORLEY",
@@ -734,7 +735,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "TTH*VORTAC*279.82/10.00",
+		"updated": "TTH*VORTAC*279.82/10.00"
 	},
 	{
 		"name": "ORRVL",
@@ -743,7 +744,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "MW",
-		"updated": "01/02/2013",
+		"updated": "01/02/2013"
 	},
 	{
 		"name": "ORTFI",
@@ -752,7 +753,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/26/2012",
+		"updated": "04/26/2012"
 	},
 	{
 		"name": "OSATE",
@@ -761,7 +762,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/03/2004",
+		"updated": "08/03/2004"
 	},
 	{
 		"name": "OSCRR",
@@ -770,7 +771,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "VHP*VORTAC*169.44",
+		"updated": "VHP*VORTAC*169.44"
 	},
 	{
 		"name": "OSDIE",
@@ -779,7 +780,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/02/2012",
+		"updated": "08/02/2012"
 	},
 	{
 		"name": "OSEKE",
@@ -788,7 +789,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/22/2016",
+		"updated": "01/22/2016"
 	},
 	{
 		"name": "OSINE",
@@ -797,7 +798,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "EWO*VOR/DME*258.33",
+		"updated": "EWO*VOR/DME*258.33"
 	},
 	{
 		"name": "OSLEJ",
@@ -806,7 +807,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/23/2013",
+		"updated": "12/23/2013"
 	},
 	{
 		"name": "OSULE",
@@ -815,7 +816,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/13/2016",
+		"updated": "01/13/2016"
 	},
 	{
 		"name": "OTAKY",
@@ -824,7 +825,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/06/2012",
+		"updated": "08/06/2012"
 	},
 	{
 		"name": "OTALY",
@@ -833,7 +834,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/06/2012",
+		"updated": "08/06/2012"
 	},
 	{
 		"name": "OTAPE",
@@ -842,7 +843,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "LOZ*VOR/DME*205.32/4.00",
+		"updated": "LOZ*VOR/DME*205.32/4.00"
 	},
 	{
 		"name": "OTGIE",
@@ -851,7 +852,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/17/2016",
+		"updated": "02/17/2016"
 	},
 	{
 		"name": "OTMAN",
@@ -860,7 +861,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "DJB*VOR/DME*177.00/85.42",
+		"updated": "DJB*VOR/DME*177.00/85.42"
 	},
 	{
 		"name": "OTONE",
@@ -869,7 +870,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/06/2017",
+		"updated": "07/06/2017"
 	},
 	{
 		"name": "OTOSE",
@@ -878,7 +879,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "10/07/2016",
+		"updated": "10/07/2016"
 	},
 	{
 		"name": "OTUCU",
@@ -887,7 +888,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/21/2011",
+		"updated": "06/21/2011"
 	},
 	{
 		"name": "OVEDE",
@@ -896,7 +897,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/11/2014",
+		"updated": "04/11/2014"
 	},
 	{
 		"name": "OVMAW",
@@ -905,7 +906,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/10/2010",
+		"updated": "08/10/2010"
 	},
 	{
 		"name": "OVNOE",
@@ -914,7 +915,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "OWAVE",
@@ -923,7 +924,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "OWEQO",
@@ -932,7 +933,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/30/2010",
+		"updated": "07/30/2010"
 	},
 	{
 		"name": "OWKIQ",
@@ -941,7 +942,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "MIE*VOR/DME*227.52",
+		"updated": "MIE*VOR/DME*227.52"
 	},
 	{
 		"name": "OXDOH",
@@ -950,7 +951,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/03/2001",
+		"updated": "08/03/2001"
 	},
 	{
 		"name": "OXEPE",
@@ -959,7 +960,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "OXIRE",
@@ -968,7 +969,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/29/2014",
+		"updated": "09/29/2014"
 	},
 	{
 		"name": "OXOKE",
@@ -977,7 +978,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "03/16/2007",
+		"updated": "03/16/2007"
 	},
 	{
 		"name": "OXUSE",
@@ -986,7 +987,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/24/2015",
+		"updated": "09/24/2015"
 	},
 	{
 		"name": "OXVOR",
@@ -995,7 +996,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "02/20/2018",
+		"updated": "02/20/2018"
 	},
 	{
 		"name": "OYANE",
@@ -1004,7 +1005,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/12/2008",
+		"updated": "05/12/2008"
 	},
 	{
 		"name": "OYCEG",
@@ -1013,7 +1014,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/20/2011",
+		"updated": "01/20/2011"
 	},
 	{
 		"name": "OYEGI",
@@ -1022,7 +1023,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "06/16/2011",
+		"updated": "06/16/2011"
 	},
 	{
 		"name": "OYILU",
@@ -1031,7 +1032,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "12/09/2008",
+		"updated": "12/09/2008"
 	},
 	{
 		"name": "OYINU",
@@ -1040,7 +1041,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "CN",
-		"updated": "01/02/2008",
+		"updated": "01/02/2008"
 	},
 	{
 		"name": "OYNOV",
@@ -1049,7 +1050,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "11/12/2008",
+		"updated": "11/12/2008"
 	},
 	{
 		"name": "OYOVU",
@@ -1058,7 +1059,7 @@
 		"state": "OHIO",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "OYUNO",
@@ -1067,7 +1068,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/13/2013",
+		"updated": "08/13/2013"
 	},
 	{
 		"name": "OZIRO",
@@ -1076,7 +1077,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/16/2013",
+		"updated": "07/16/2013"
 	},
 	{
 		"name": "OZMOE",
@@ -1085,7 +1086,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RP",
-		"updated": "SHB*VOR/DME*250.82/12.12",
+		"updated": "SHB*VOR/DME*250.82/12.12"
 	},
 	{
 		"name": "OZROC",
@@ -1094,7 +1095,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "05/06/2009",
+		"updated": "05/06/2009"
 	},
 	{
 		"name": "OZSAL",
@@ -1103,5 +1104,6 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "01/08/2018",
-	},
+		"updated": "01/08/2018"
+	}
+]

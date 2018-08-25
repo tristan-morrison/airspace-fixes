@@ -1,3 +1,4 @@
+[
 	{
 		"name": "JAAAM",
 		"latitude": "39-44-54.15 N",
@@ -5,7 +6,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "JAAEF",
@@ -14,7 +15,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/19/2012",
+		"updated": "03/19/2012"
 	},
 	{
 		"name": "JABAN",
@@ -23,7 +24,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/08/2006",
+		"updated": "06/08/2006"
 	},
 	{
 		"name": "JABED",
@@ -32,7 +33,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "JABIX",
@@ -41,7 +42,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*094.00/10.00",
+		"updated": "CHE*VOR/DME*094.00/10.00"
 	},
 	{
 		"name": "JABNU",
@@ -50,7 +51,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "JABRO",
@@ -59,7 +60,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "JADEK",
@@ -68,7 +69,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/09/2015",
+		"updated": "11/09/2015"
 	},
 	{
 		"name": "JADGU",
@@ -77,7 +78,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/23/2008",
+		"updated": "12/23/2008"
 	},
 	{
 		"name": "JADOB",
@@ -86,7 +87,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BFF*VORTAC*098.44/45.98",
+		"updated": "BFF*VORTAC*098.44/45.98"
 	},
 	{
 		"name": "JAGGR",
@@ -95,7 +96,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/26/2012",
+		"updated": "09/26/2012"
 	},
 	{
 		"name": "JAGUS",
@@ -104,7 +105,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/30/2013",
+		"updated": "10/30/2013"
 	},
 	{
 		"name": "JAKUR",
@@ -113,7 +114,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/27/2002",
+		"updated": "06/27/2002"
 	},
 	{
 		"name": "JALKA",
@@ -122,7 +123,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/23/2012",
+		"updated": "09/23/2012"
 	},
 	{
 		"name": "JAMSS",
@@ -131,7 +132,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/16/2010",
+		"updated": "08/16/2010"
 	},
 	{
 		"name": "JANUR",
@@ -140,7 +141,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LBF*VOR/DME*282.24/58.70",
+		"updated": "LBF*VOR/DME*282.24/58.70"
 	},
 	{
 		"name": "JANUT",
@@ -149,7 +150,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/23/2005",
+		"updated": "08/23/2005"
 	},
 	{
 		"name": "JANVA",
@@ -158,7 +159,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "JAPDI",
@@ -167,7 +168,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "JAPEE",
@@ -176,7 +177,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/16/2012",
+		"updated": "03/16/2012"
 	},
 	{
 		"name": "JAPET",
@@ -185,7 +186,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/21/2012",
+		"updated": "03/21/2012"
 	},
 	{
 		"name": "JAPEX",
@@ -194,7 +195,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ACX*LD*352.53/13.18",
+		"updated": "ACX*LD*352.53/13.18"
 	},
 	{
 		"name": "JAPGU",
@@ -203,7 +204,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "RCA*TACAN*122.00/6.20",
+		"updated": "RCA*TACAN*122.00/6.20"
 	},
 	{
 		"name": "JAPTA",
@@ -212,7 +213,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HCT*VORTAC*048.00/57.10",
+		"updated": "HCT*VORTAC*048.00/57.10"
 	},
 	{
 		"name": "JARGU",
@@ -221,7 +222,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*232.28",
+		"updated": "DBL*VOR/DME*232.28"
 	},
 	{
 		"name": "JARVE",
@@ -230,7 +231,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*096.00/27.00",
+		"updated": "CHE*VOR/DME*096.00/27.00"
 	},
 	{
 		"name": "JASTI",
@@ -239,7 +240,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2014",
+		"updated": "09/22/2014"
 	},
 	{
 		"name": "JATEB",
@@ -248,7 +249,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DDY*VOR/DME*193.00/29.00",
+		"updated": "DDY*VOR/DME*193.00/29.00"
 	},
 	{
 		"name": "JATKA",
@@ -257,7 +258,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/03/2007",
+		"updated": "12/03/2007"
 	},
 	{
 		"name": "JATOL",
@@ -266,7 +267,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/31/2016",
+		"updated": "03/31/2016"
 	},
 	{
 		"name": "JAVOB",
@@ -275,7 +276,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/01/2005",
+		"updated": "12/01/2005"
 	},
 	{
 		"name": "JAXOM",
@@ -284,7 +285,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/30/2013",
+		"updated": "10/30/2013"
 	},
 	{
 		"name": "JAYNE",
@@ -293,7 +294,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/25/2012",
+		"updated": "03/25/2012"
 	},
 	{
 		"name": "JDIZL",
@@ -302,7 +303,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/16/2012",
+		"updated": "03/16/2012"
 	},
 	{
 		"name": "JEAPE",
@@ -311,7 +312,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SNY*VOR/DME*112.73/3.00",
+		"updated": "SNY*VOR/DME*112.73/3.00"
 	},
 	{
 		"name": "JEBAV",
@@ -320,7 +321,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RSK*VORTAC*249.97/6.91",
+		"updated": "RSK*VORTAC*249.97/6.91"
 	},
 	{
 		"name": "JEEPR",
@@ -329,7 +330,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LTT*LD*352.51/18.43",
+		"updated": "LTT*LD*352.51/18.43"
 	},
 	{
 		"name": "JEFEL",
@@ -338,7 +339,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "FQF*VORTAC*127.00/26.26",
+		"updated": "FQF*VORTAC*127.00/26.26"
 	},
 	{
 		"name": "JEKTI",
@@ -347,7 +348,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/03/2007",
+		"updated": "01/03/2007"
 	},
 	{
 		"name": "JEMGO",
@@ -356,7 +357,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/16/2012",
+		"updated": "03/16/2012"
 	},
 	{
 		"name": "JEMKI",
@@ -365,7 +366,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "JEMOX",
@@ -374,7 +375,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/04/2011",
+		"updated": "01/04/2011"
 	},
 	{
 		"name": "JENNE",
@@ -383,7 +384,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CZI*VOR/DME*064.50",
+		"updated": "CZI*VOR/DME*064.50"
 	},
 	{
 		"name": "JENRO",
@@ -392,7 +393,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/08/2009",
+		"updated": "06/08/2009"
 	},
 	{
 		"name": "JENUK",
@@ -401,7 +402,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SNY*VOR/DME*321.97/20.00",
+		"updated": "SNY*VOR/DME*321.97/20.00"
 	},
 	{
 		"name": "JEPMA",
@@ -410,7 +411,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "JEPNO",
@@ -419,7 +420,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "JEPPC",
@@ -428,7 +429,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "JESAR",
@@ -437,7 +438,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAR*VOR/DME*085.75/18.00",
+		"updated": "LAR*VOR/DME*085.75/18.00"
 	},
 	{
 		"name": "JESIE",
@@ -446,7 +447,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SXW*VOR/DME*000.72/24.22",
+		"updated": "SXW*VOR/DME*000.72/24.22"
 	},
 	{
 		"name": "JESIP",
@@ -455,7 +456,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/21/2016",
+		"updated": "04/21/2016"
 	},
 	{
 		"name": "JESIT",
@@ -464,7 +465,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/03/2015",
+		"updated": "03/03/2015"
 	},
 	{
 		"name": "JESKU",
@@ -473,7 +474,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*212.57/10.00",
+		"updated": "CHE*VOR/DME*212.57/10.00"
 	},
 	{
 		"name": "JESLO",
@@ -482,7 +483,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/31/2016",
+		"updated": "03/31/2016"
 	},
 	{
 		"name": "JESOB",
@@ -491,7 +492,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/16/2015",
+		"updated": "06/16/2015"
 	},
 	{
 		"name": "JETAG",
@@ -500,7 +501,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "JETRY",
@@ -509,7 +510,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/05/2009",
+		"updated": "06/05/2009"
 	},
 	{
 		"name": "JETSN",
@@ -518,7 +519,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DQQ*LD*352.51/4.92",
+		"updated": "DQQ*LD*352.51/4.92"
 	},
 	{
 		"name": "JEWLS",
@@ -527,7 +528,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BRK*VOR/DME*115.00/45.00",
+		"updated": "BRK*VOR/DME*115.00/45.00"
 	},
 	{
 		"name": "JEXOG",
@@ -536,7 +537,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/14/2007",
+		"updated": "03/14/2007"
 	},
 	{
 		"name": "JEXON",
@@ -545,7 +546,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/08/2010",
+		"updated": "11/08/2010"
 	},
 	{
 		"name": "JEXUB",
@@ -554,7 +555,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/16/2017",
+		"updated": "05/16/2017"
 	},
 	{
 		"name": "JEZZY",
@@ -563,7 +564,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "IIP*VOR/DME*140.00/33.74",
+		"updated": "IIP*VOR/DME*140.00/33.74"
 	},
 	{
 		"name": "JIBIN",
@@ -572,7 +573,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "JIBIS",
@@ -581,7 +582,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "JIDOG",
@@ -590,7 +591,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "APA*LD*169.95/8.09",
+		"updated": "APA*LD*169.95/8.09"
 	},
 	{
 		"name": "JIGOM",
@@ -599,7 +600,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RIL*LD*078.44/16.32",
+		"updated": "RIL*LD*078.44/16.32"
 	},
 	{
 		"name": "JIKOS",
@@ -608,7 +609,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/10/2007",
+		"updated": "05/10/2007"
 	},
 	{
 		"name": "JIKTA",
@@ -617,7 +618,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*084.98/3.86",
+		"updated": "PUB*VORTAC*084.98/3.86"
 	},
 	{
 		"name": "JIKUT",
@@ -626,7 +627,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SNY*VOR/DME*310.01/0.82",
+		"updated": "SNY*VOR/DME*310.01/0.82"
 	},
 	{
 		"name": "JILOD",
@@ -635,7 +636,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/08/2006",
+		"updated": "09/08/2006"
 	},
 	{
 		"name": "JIMAK",
@@ -644,7 +645,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/23/2007",
+		"updated": "03/23/2007"
 	},
 	{
 		"name": "JIMIG",
@@ -653,7 +654,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/17/2018",
+		"updated": "04/17/2018"
 	},
 	{
 		"name": "JIMMR",
@@ -662,7 +663,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/23/2012",
+		"updated": "09/23/2012"
 	},
 	{
 		"name": "JINNY",
@@ -671,7 +672,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "JNC*VOR/DME*026.82",
+		"updated": "JNC*VOR/DME*026.82"
 	},
 	{
 		"name": "JISIG",
@@ -680,7 +681,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "JNC*VOR/DME*275.26/13.30",
+		"updated": "JNC*VOR/DME*275.26/13.30"
 	},
 	{
 		"name": "JITAM",
@@ -689,7 +690,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/14/2010",
+		"updated": "06/14/2010"
 	},
 	{
 		"name": "JITKI",
@@ -698,7 +699,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/12/2014",
+		"updated": "02/12/2014"
 	},
 	{
 		"name": "JITOG",
@@ -707,7 +708,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/15/2008",
+		"updated": "04/15/2008"
 	},
 	{
 		"name": "JITOM",
@@ -716,7 +717,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/21/2016",
+		"updated": "03/21/2016"
 	},
 	{
 		"name": "JIVAM",
@@ -725,7 +726,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/27/2006",
+		"updated": "11/27/2006"
 	},
 	{
 		"name": "JLONG",
@@ -734,7 +735,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/28/2012",
+		"updated": "09/28/2012"
 	},
 	{
 		"name": "JNETT",
@@ -743,7 +744,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*092.99/20.00",
+		"updated": "DBL*VOR/DME*092.99/20.00"
 	},
 	{
 		"name": "JNKBX",
@@ -752,7 +753,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/21/2012",
+		"updated": "03/21/2012"
 	},
 	{
 		"name": "JOBOB",
@@ -761,7 +762,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LTT*LD*352.51/15.69",
+		"updated": "LTT*LD*352.51/15.69"
 	},
 	{
 		"name": "JODUG",
@@ -770,7 +771,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/31/2003",
+		"updated": "07/31/2003"
 	},
 	{
 		"name": "JODUM",
@@ -779,7 +780,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "JOGEL",
@@ -788,7 +789,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*168.00/49.73",
+		"updated": "PUB*VORTAC*168.00/49.73"
 	},
 	{
 		"name": "JOLUP",
@@ -797,7 +798,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*314.00/5.00",
+		"updated": "PUB*VORTAC*314.00/5.00"
 	},
 	{
 		"name": "JOMAG",
@@ -806,7 +807,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ACX*LD*352.53/11.14",
+		"updated": "ACX*LD*352.53/11.14"
 	},
 	{
 		"name": "JONEM",
@@ -815,7 +816,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/03/2015",
+		"updated": "03/03/2015"
 	},
 	{
 		"name": "JONOL",
@@ -824,7 +825,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/01/2016",
+		"updated": "04/01/2016"
 	},
 	{
 		"name": "JOODE",
@@ -833,7 +834,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/06/2016",
+		"updated": "10/06/2016"
 	},
 	{
 		"name": "JOPLN",
@@ -842,7 +843,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "JOPUG",
@@ -851,7 +852,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "JORAL",
@@ -860,7 +861,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "JOREV",
@@ -869,7 +870,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HBU*VOR/DME*357.97",
+		"updated": "HBU*VOR/DME*357.97"
 	},
 	{
 		"name": "JORNO",
@@ -878,7 +879,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RAP*VORTAC*350.25/30.00",
+		"updated": "RAP*VORTAC*350.25/30.00"
 	},
 	{
 		"name": "JOSAN",
@@ -887,7 +888,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/30/2002",
+		"updated": "01/30/2002"
 	},
 	{
 		"name": "JOSAT",
@@ -896,7 +897,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/01/2013",
+		"updated": "11/01/2013"
 	},
 	{
 		"name": "JOSEE",
@@ -905,7 +906,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ACX*LD*352.53/7.89",
+		"updated": "ACX*LD*352.53/7.89"
 	},
 	{
 		"name": "JOSPA",
@@ -914,7 +915,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/08/2010",
+		"updated": "11/08/2010"
 	},
 	{
 		"name": "JOULE",
@@ -923,7 +924,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ACX*LD*352.53/4.73",
+		"updated": "ACX*LD*352.53/4.73"
 	},
 	{
 		"name": "JOWEE",
@@ -932,7 +933,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/14/2011",
+		"updated": "03/14/2011"
 	},
 	{
 		"name": "JOXED",
@@ -941,7 +942,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/04/2012",
+		"updated": "01/04/2012"
 	},
 	{
 		"name": "JPAGE",
@@ -950,7 +951,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "JPBAG",
@@ -959,7 +960,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "JPRKS",
@@ -968,7 +969,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "JSSCA",
@@ -977,7 +978,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/17/2012",
+		"updated": "07/17/2012"
 	},
 	{
 		"name": "JUBEP",
@@ -986,7 +987,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DRO*VOR/DME*204.08/7.63",
+		"updated": "DRO*VOR/DME*204.08/7.63"
 	},
 	{
 		"name": "JUBOS",
@@ -995,7 +996,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/18/2017",
+		"updated": "01/18/2017"
 	},
 	{
 		"name": "JUDII",
@@ -1004,7 +1005,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*288.00/10.00",
+		"updated": "CHE*VOR/DME*288.00/10.00"
 	},
 	{
 		"name": "JUDNI",
@@ -1013,7 +1014,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "JUDOL",
@@ -1022,7 +1023,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/22/2010",
+		"updated": "07/22/2010"
 	},
 	{
 		"name": "JUGIP",
@@ -1031,7 +1032,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GCC*VOR/DME*163.03/10.00",
+		"updated": "GCC*VOR/DME*163.03/10.00"
 	},
 	{
 		"name": "JUKEX",
@@ -1040,7 +1041,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAA*VOR/DME*237.74/76.83",
+		"updated": "LAA*VOR/DME*237.74/76.83"
 	},
 	{
 		"name": "JULAB",
@@ -1049,7 +1050,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/10/2017",
+		"updated": "08/10/2017"
 	},
 	{
 		"name": "JULPA",
@@ -1058,7 +1059,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/22/2010",
+		"updated": "07/22/2010"
 	},
 	{
 		"name": "JUMKO",
@@ -1067,7 +1068,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DDY*VOR/DME*257.84/20.52",
+		"updated": "DDY*VOR/DME*257.84/20.52"
 	},
 	{
 		"name": "JUMRO",
@@ -1076,7 +1077,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/14/2009",
+		"updated": "04/14/2009"
 	},
 	{
 		"name": "JUNAD",
@@ -1085,7 +1086,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SNY*VOR/DME*310.01/11.00",
+		"updated": "SNY*VOR/DME*310.01/11.00"
 	},
 	{
 		"name": "JUNER",
@@ -1094,7 +1095,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/06/2002",
+		"updated": "11/06/2002"
 	},
 	{
 		"name": "JUNGU",
@@ -1103,7 +1104,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/14/2010",
+		"updated": "06/14/2010"
 	},
 	{
 		"name": "JUNSI",
@@ -1112,7 +1113,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/23/2011",
+		"updated": "05/23/2011"
 	},
 	{
 		"name": "JUNUM",
@@ -1121,7 +1122,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BFF*VORTAC*059.06/13.67",
+		"updated": "BFF*VORTAC*059.06/13.67"
 	},
 	{
 		"name": "JUPOB",
@@ -1130,7 +1131,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/03/2015",
+		"updated": "11/03/2015"
 	},
 	{
 		"name": "JURIN",
@@ -1139,7 +1140,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/16/2009",
+		"updated": "03/16/2009"
 	},
 	{
 		"name": "JUTOB",
@@ -1148,7 +1149,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/08/2010",
+		"updated": "11/08/2010"
 	},
 	{
 		"name": "JUVEB",
@@ -1157,7 +1158,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/14/2015",
+		"updated": "12/14/2015"
 	},
 	{
 		"name": "JUZAN",
@@ -1166,7 +1167,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "JYMBO",
@@ -1175,5 +1176,6 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/07/2013",
-	},
+		"updated": "11/07/2013"
+	}
+]

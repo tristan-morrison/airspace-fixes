@@ -1,3 +1,4 @@
+[
 	{
 		"name": "KABTE",
 		"latitude": "21-18-24.49 N",
@@ -5,7 +6,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "KAENA",
@@ -14,7 +15,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "04/13/2010",
+		"updated": "04/13/2010"
 	},
 	{
 		"name": "KAIKO",
@@ -23,7 +24,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "LNY*VORTAC*128.85/19.66",
+		"updated": "LNY*VORTAC*128.85/19.66"
 	},
 	{
 		"name": "KAPOK",
@@ -32,7 +33,7 @@
 		"state": "GUAM",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*169.00/100.00",
+		"updated": "UNZ*VORTAC*169.00/100.00"
 	},
 	{
 		"name": "KAPUA",
@@ -41,7 +42,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "MR",
-		"updated": "UPP*VORTAC*155.00/27.00",
+		"updated": "UPP*VORTAC*155.00/27.00"
 	},
 	{
 		"name": "KATHS",
@@ -50,7 +51,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "SOK*VORTAC*234.00/115.00",
+		"updated": "SOK*VORTAC*234.00/115.00"
 	},
 	{
 		"name": "KAYAK",
@@ -59,7 +60,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "MUE*VOR/DME*245.25/21.48",
+		"updated": "MUE*VOR/DME*245.25/21.48"
 	},
 	{
 		"name": "KEAHI",
@@ -68,7 +69,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "HNL*VORTAC*138.00/35.80",
+		"updated": "HNL*VORTAC*138.00/35.80"
 	},
 	{
 		"name": "KEANY",
@@ -77,7 +78,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "MUE*VOR/DME*245.25/8.00",
+		"updated": "MUE*VOR/DME*245.25/8.00"
 	},
 	{
 		"name": "KEENG",
@@ -86,7 +87,7 @@
 		"state": "",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "08/28/2003",
+		"updated": "08/28/2003"
 	},
 	{
 		"name": "KEIKI",
@@ -95,7 +96,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "VYI*NDB*217.72",
+		"updated": "VYI*NDB*217.72"
 	},
 	{
 		"name": "KEITH",
@@ -104,7 +105,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "04/29/1987",
+		"updated": "04/29/1987"
 	},
 	{
 		"name": "KEKOA",
@@ -113,7 +114,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "LIH*VORTAC*011.02/6.00",
+		"updated": "LIH*VORTAC*011.02/6.00"
 	},
 	{
 		"name": "KELAY",
@@ -122,7 +123,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "MR",
-		"updated": "HNL*VORTAC*131.00/57.00",
+		"updated": "HNL*VORTAC*131.00/57.00"
 	},
 	{
 		"name": "KENJI",
@@ -131,7 +132,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "MR",
-		"updated": "03/22/1985",
+		"updated": "03/22/1985"
 	},
 	{
 		"name": "KEOKI",
@@ -140,7 +141,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "CKH*VORTAC*241.00",
+		"updated": "CKH*VORTAC*241.00"
 	},
 	{
 		"name": "KEOLA",
@@ -149,7 +150,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "SOK*VORTAC*110.62/68.32",
+		"updated": "SOK*VORTAC*110.62/68.32"
 	},
 	{
 		"name": "KEYOA",
@@ -158,7 +159,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "06/10/2014",
+		"updated": "06/10/2014"
 	},
 	{
 		"name": "KIAWE",
@@ -167,7 +168,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/10/2003",
+		"updated": "07/10/2003"
 	},
 	{
 		"name": "KIBPE",
@@ -176,7 +177,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "12/13/2005",
+		"updated": "12/13/2005"
 	},
 	{
 		"name": "KIHEI",
@@ -185,7 +186,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "VYI*NDB*184.96",
+		"updated": "VYI*NDB*184.96"
 	},
 	{
 		"name": "KIRBB",
@@ -194,7 +195,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "09/27/2016",
+		"updated": "09/27/2016"
 	},
 	{
 		"name": "KITKE",
@@ -203,7 +204,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "05/10/2002",
+		"updated": "05/10/2002"
 	},
 	{
 		"name": "KLANI",
@@ -212,7 +213,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "10/27/2016",
+		"updated": "10/27/2016"
 	},
 	{
 		"name": "KMUKI",
@@ -221,7 +222,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "06/02/2014",
+		"updated": "06/02/2014"
 	},
 	{
 		"name": "KNNEE",
@@ -230,7 +231,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "01/30/2014",
+		"updated": "01/30/2014"
 	},
 	{
 		"name": "KOLOW",
@@ -239,7 +240,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "LNY*VORTAC*306.22",
+		"updated": "LNY*VORTAC*306.22"
 	},
 	{
 		"name": "KOLTE",
@@ -248,7 +249,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "LNY*VORTAC*290.24/25.03",
+		"updated": "LNY*VORTAC*290.24/25.03"
 	},
 	{
 		"name": "KOMAZ",
@@ -257,7 +258,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "MW",
-		"updated": "07/07/2016",
+		"updated": "07/07/2016"
 	},
 	{
 		"name": "KONEA",
@@ -266,7 +267,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "KOPSE",
@@ -275,7 +276,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/09/2002",
+		"updated": "07/09/2002"
 	},
 	{
 		"name": "KPAPA",
@@ -284,7 +285,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "06/02/2014",
+		"updated": "06/02/2014"
 	},
 	{
 		"name": "KRANE",
@@ -293,7 +294,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "OGG*VORTAC*023.47/13.00",
+		"updated": "OGG*VORTAC*023.47/13.00"
 	},
 	{
 		"name": "KRAYG",
@@ -302,7 +303,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "01/30/2014",
+		"updated": "01/30/2014"
 	},
 	{
 		"name": "KREEN",
@@ -311,7 +312,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "LIH*VORTAC*070.07/12.00",
+		"updated": "LIH*VORTAC*070.07/12.00"
 	},
 	{
 		"name": "KRYST",
@@ -320,7 +321,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "HNL*VORTAC*258.00/82.30",
+		"updated": "HNL*VORTAC*258.00/82.30"
 	},
 	{
 		"name": "KUCHI",
@@ -329,7 +330,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "HNL*VORTAC*160.00/28.00",
+		"updated": "HNL*VORTAC*160.00/28.00"
 	},
 	{
 		"name": "KUHIO",
@@ -338,7 +339,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "KUKUI",
@@ -347,7 +348,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "KULAZ",
@@ -356,7 +357,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "01/30/2014",
+		"updated": "01/30/2014"
 	},
 	{
 		"name": "KUMME",
@@ -365,7 +366,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "ITO*VORTAC*088.00/160.00",
+		"updated": "ITO*VORTAC*088.00/160.00"
 	},
 	{
 		"name": "KUPAU",
@@ -374,7 +375,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "MUE*VOR/DME*056.96/5.08",
+		"updated": "MUE*VOR/DME*056.96/5.08"
 	},
 	{
 		"name": "KYLIO",
@@ -383,5 +384,6 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "04/13/2010",
-	},
+		"updated": "04/13/2010"
+	}
+]

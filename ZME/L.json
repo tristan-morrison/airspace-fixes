@@ -1,3 +1,4 @@
+[
 	{
 		"name": "LAARI",
 		"latitude": "33-28-57.83 N",
@@ -5,7 +6,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SQS*VORTAC*272.96/11.00",
+		"updated": "SQS*VORTAC*272.96/11.00"
 	},
 	{
 		"name": "LABLE",
@@ -14,7 +15,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/01/2001",
+		"updated": "08/01/2001"
 	},
 	{
 		"name": "LACPI",
@@ -23,7 +24,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MDQ*LD*004.93/3.13",
+		"updated": "MDQ*LD*004.93/3.13"
 	},
 	{
 		"name": "LAJUG",
@@ -32,7 +33,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BWG*VORTAC*243.98/46.14",
+		"updated": "BWG*VORTAC*243.98/46.14"
 	},
 	{
 		"name": "LAKKR",
@@ -41,7 +42,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "CGI*VOR/DME*136.00",
+		"updated": "CGI*VOR/DME*136.00"
 	},
 	{
 		"name": "LALIC",
@@ -50,7 +51,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/08/2007",
+		"updated": "08/08/2007"
 	},
 	{
 		"name": "LANER",
@@ -59,7 +60,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*246.00",
+		"updated": "DCU*VOR/DME*246.00"
 	},
 	{
 		"name": "LANKY",
@@ -68,7 +69,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DYR*VORTAC*059.00/60.45",
+		"updated": "DYR*VORTAC*059.00/60.45"
 	},
 	{
 		"name": "LAREY",
@@ -77,7 +78,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/16/2006",
+		"updated": "02/16/2006"
 	},
 	{
 		"name": "LARPE",
@@ -86,7 +87,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/20/2007",
+		"updated": "08/20/2007"
 	},
 	{
 		"name": "LARUE",
@@ -95,7 +96,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*120.27/18.00",
+		"updated": "MEM*VORTAC*120.27/18.00"
 	},
 	{
 		"name": "LARYE",
@@ -104,7 +105,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/29/2011",
+		"updated": "03/29/2011"
 	},
 	{
 		"name": "LASKY",
@@ -113,7 +114,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LIT*VORTAC*260.42/6.22",
+		"updated": "LIT*VORTAC*260.42/6.22"
 	},
 	{
 		"name": "LATGE",
@@ -122,7 +123,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/15/2008",
+		"updated": "09/15/2008"
 	},
 	{
 		"name": "LATHS",
@@ -131,7 +132,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/15/2016",
+		"updated": "08/15/2016"
 	},
 	{
 		"name": "LAUNS",
@@ -140,7 +141,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HCH*VOR/DME*262.01/20.22",
+		"updated": "HCH*VOR/DME*262.01/20.22"
 	},
 	{
 		"name": "LAURI",
@@ -149,7 +150,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GQE*VOR/DME*100.15",
+		"updated": "GQE*VOR/DME*100.15"
 	},
 	{
 		"name": "LAVAC",
@@ -158,7 +159,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "FSM*VORTAC*120.00",
+		"updated": "FSM*VORTAC*120.00"
 	},
 	{
 		"name": "LAVER",
@@ -167,7 +168,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "PGO*VORTAC*352.00",
+		"updated": "PGO*VORTAC*352.00"
 	},
 	{
 		"name": "LAYIS",
@@ -176,7 +177,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/08/2007",
+		"updated": "08/08/2007"
 	},
 	{
 		"name": "LAZMU",
@@ -185,7 +186,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "LEDDA",
@@ -194,7 +195,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "03/06/2007",
+		"updated": "03/06/2007"
 	},
 	{
 		"name": "LEJCO",
@@ -203,7 +204,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BWG*VORTAC*149.55/10.00",
+		"updated": "BWG*VORTAC*149.55/10.00"
 	},
 	{
 		"name": "LENON",
@@ -212,7 +213,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*071.53/25.13",
+		"updated": "BNA*VORTAC*071.53/25.13"
 	},
 	{
 		"name": "LENSE",
@@ -221,7 +222,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "LEOOO",
@@ -230,7 +231,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/30/2017",
+		"updated": "06/30/2017"
 	},
 	{
 		"name": "LEPER",
@@ -239,7 +240,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "FAM*VORTAC*199.51/37.06",
+		"updated": "FAM*VORTAC*199.51/37.06"
 	},
 	{
 		"name": "LEREC",
@@ -248,7 +249,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/26/2012",
+		"updated": "11/26/2012"
 	},
 	{
 		"name": "LESME",
@@ -257,7 +258,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/15/2008",
+		"updated": "09/15/2008"
 	},
 	{
 		"name": "LESSE",
@@ -266,7 +267,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*/6.07",
+		"updated": "CBM*VORTAC*/6.07"
 	},
 	{
 		"name": "LESSI",
@@ -275,7 +276,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/27/2004",
+		"updated": "07/27/2004"
 	},
 	{
 		"name": "LETNE",
@@ -284,7 +285,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "11/16/2016",
+		"updated": "11/16/2016"
 	},
 	{
 		"name": "LEUCY",
@@ -293,7 +294,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/13/2006",
+		"updated": "10/13/2006"
 	},
 	{
 		"name": "LEXXY",
@@ -302,7 +303,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MSL*VORTAC*291.17/12.00",
+		"updated": "MSL*VORTAC*291.17/12.00"
 	},
 	{
 		"name": "LEYIK",
@@ -311,7 +312,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/30/2013",
+		"updated": "09/30/2013"
 	},
 	{
 		"name": "LEYXO",
@@ -320,7 +321,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/02/2001",
+		"updated": "07/02/2001"
 	},
 	{
 		"name": "LIGYE",
@@ -329,7 +330,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/22/2013",
+		"updated": "08/22/2013"
 	},
 	{
 		"name": "LIKTE",
@@ -338,7 +339,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2011",
+		"updated": "07/25/2011"
 	},
 	{
 		"name": "LILBE",
@@ -347,7 +348,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "LILNE",
@@ -356,7 +357,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "LIRLE",
@@ -365,7 +366,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/13/2017",
+		"updated": "01/13/2017"
 	},
 	{
 		"name": "LIZZA",
@@ -374,7 +375,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GQE*VOR/DME*080.42",
+		"updated": "GQE*VOR/DME*080.42"
 	},
 	{
 		"name": "LNDRY",
@@ -383,7 +384,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/24/2013",
+		"updated": "01/24/2013"
 	},
 	{
 		"name": "LNDSY",
@@ -392,7 +393,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RZC*VORTAC*204.13/10.33",
+		"updated": "RZC*VORTAC*204.13/10.33"
 	},
 	{
 		"name": "LOANS",
@@ -401,7 +402,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GLH*VOR/DME*244.98",
+		"updated": "GLH*VOR/DME*244.98"
 	},
 	{
 		"name": "LOBDE",
@@ -410,7 +411,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GLH*VOR/DME*356.20/12.00",
+		"updated": "GLH*VOR/DME*356.20/12.00"
 	},
 	{
 		"name": "LOCIK",
@@ -419,7 +420,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/28/2005",
+		"updated": "02/28/2005"
 	},
 	{
 		"name": "LODLE",
@@ -428,7 +429,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/06/2011",
+		"updated": "06/06/2011"
 	},
 	{
 		"name": "LOGNE",
@@ -437,7 +438,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/17/2009",
+		"updated": "12/17/2009"
 	},
 	{
 		"name": "LOGPE",
@@ -446,7 +447,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/18/2015",
+		"updated": "09/18/2015"
 	},
 	{
 		"name": "LOHNI",
@@ -455,7 +456,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2012",
+		"updated": "06/15/2012"
 	},
 	{
 		"name": "LONNS",
@@ -464,7 +465,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LIT*VORTAC*250.44/33.00",
+		"updated": "LIT*VORTAC*250.44/33.00"
 	},
 	{
 		"name": "LOONR",
@@ -473,7 +474,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*308.38/12.00",
+		"updated": "MEM*VORTAC*308.38/12.00"
 	},
 	{
 		"name": "LOOSE",
@@ -482,7 +483,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/09/2014",
+		"updated": "07/09/2014"
 	},
 	{
 		"name": "LOPPY",
@@ -491,7 +492,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "LOUDN",
@@ -500,7 +501,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "UQU*LD*200.99/11.99",
+		"updated": "UQU*LD*200.99/11.99"
 	},
 	{
 		"name": "LOVEW",
@@ -509,7 +510,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "IGB*VORTAC*256.00/20.00",
+		"updated": "IGB*VORTAC*256.00/20.00"
 	},
 	{
 		"name": "LOXFY",
@@ -518,7 +519,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/20/2014",
+		"updated": "02/20/2014"
 	},
 	{
 		"name": "LOXTY",
@@ -527,7 +528,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "LOYIG",
@@ -536,7 +537,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/10/2005",
+		"updated": "11/10/2005"
 	},
 	{
 		"name": "LOYSI",
@@ -545,7 +546,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "ULH*NDB*001.84",
+		"updated": "ULH*NDB*001.84"
 	},
 	{
 		"name": "LOYYI",
@@ -554,7 +555,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*190.05/46.67",
+		"updated": "BNA*VORTAC*190.05/46.67"
 	},
 	{
 		"name": "LPTON",
@@ -563,7 +564,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "LRETA",
@@ -572,7 +573,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*/12.47",
+		"updated": "BNA*VORTAC*/12.47"
 	},
 	{
 		"name": "LRNCE",
@@ -581,7 +582,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/30/2013",
+		"updated": "09/30/2013"
 	},
 	{
 		"name": "LTLFV",
@@ -590,7 +591,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "LTOWN",
@@ -599,7 +600,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*045.00/43.00",
+		"updated": "MEM*VORTAC*045.00/43.00"
 	},
 	{
 		"name": "LUCAN",
@@ -608,7 +609,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "FSM*VORTAC*063.81/18.40",
+		"updated": "FSM*VORTAC*063.81/18.40"
 	},
 	{
 		"name": "LUCUS",
@@ -617,7 +618,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "MSL*VORTAC*060.00/25.00",
+		"updated": "MSL*VORTAC*060.00/25.00"
 	},
 	{
 		"name": "LUGOH",
@@ -626,7 +627,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "OTB*VOR/DME*323.33/33.66",
+		"updated": "OTB*VOR/DME*323.33/33.66"
 	},
 	{
 		"name": "LUKKY",
@@ -635,7 +636,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2011",
+		"updated": "05/06/2011"
 	},
 	{
 		"name": "LUMXU",
@@ -644,7 +645,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "ARG*VORTAC*089.45/33.00",
+		"updated": "ARG*VORTAC*089.45/33.00"
 	},
 	{
 		"name": "LUVEC",
@@ -653,7 +654,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/30/2013",
+		"updated": "09/30/2013"
 	},
 	{
 		"name": "LUVIC",
@@ -662,7 +663,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/20/2007",
+		"updated": "08/20/2007"
 	},
 	{
 		"name": "LUXON",
@@ -671,7 +672,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/23/2013",
+		"updated": "04/23/2013"
 	},
 	{
 		"name": "LXTON",
@@ -680,7 +681,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SQS*VORTAC*145.00/16.00",
+		"updated": "SQS*VORTAC*145.00/16.00"
 	},
 	{
 		"name": "LYDDR",
@@ -689,7 +690,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MAW*VORTAC*300.33/7.30",
+		"updated": "MAW*VORTAC*300.33/7.30"
 	},
 	{
 		"name": "LYONN",
@@ -698,7 +699,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "LYZZI",
@@ -707,5 +708,6 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/30/2013",
-	},
+		"updated": "09/30/2013"
+	}
+]

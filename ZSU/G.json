@@ -1,3 +1,4 @@
+[
 	{
 		"name": "GABAR",
 		"latitude": "17-21-11.96 N",
@@ -5,7 +6,7 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SKB*NDB/DME*297.48",
+		"updated": "SKB*NDB/DME*297.48"
 	},
 	{
 		"name": "GABYY",
@@ -14,7 +15,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "12/03/2008",
+		"updated": "12/03/2008"
 	},
 	{
 		"name": "GAGDD",
@@ -23,7 +24,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "04/07/2008",
+		"updated": "04/07/2008"
 	},
 	{
 		"name": "GANBO",
@@ -32,7 +33,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "BQN*VORTAC*114.70/53.71",
+		"updated": "BQN*VORTAC*114.70/53.71"
 	},
 	{
 		"name": "GARCY",
@@ -41,7 +42,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "11/21/2008",
+		"updated": "11/21/2008"
 	},
 	{
 		"name": "GEECE",
@@ -50,7 +51,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "05/25/2016",
+		"updated": "05/25/2016"
 	},
 	{
 		"name": "GEROA",
@@ -59,7 +60,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "09/19/2016",
+		"updated": "09/19/2016"
 	},
 	{
 		"name": "GESGE",
@@ -68,7 +69,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "08/16/2006",
+		"updated": "08/16/2006"
 	},
 	{
 		"name": "GESSO",
@@ -77,7 +78,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*179.00/58.19",
+		"updated": "SJU*VORTAC*179.00/58.19"
 	},
 	{
 		"name": "GLADA",
@@ -86,7 +87,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "GOALL",
@@ -95,7 +96,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "MW",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "GOUDA",
@@ -104,7 +105,7 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "PJM*VOR/DME*270.90/31.97",
+		"updated": "PJM*VOR/DME*270.90/31.97"
 	},
 	{
 		"name": "GRUFF",
@@ -113,7 +114,7 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "COY*VOR/DME*001.00/12.00",
+		"updated": "COY*VOR/DME*001.00/12.00"
 	},
 	{
 		"name": "GUADE",
@@ -122,7 +123,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "07/31/2010",
+		"updated": "07/31/2010"
 	},
 	{
 		"name": "GUYRO",
@@ -131,5 +132,6 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "PJM*VOR/DME*316.00/68.02",
-	},
+		"updated": "PJM*VOR/DME*316.00/68.02"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "XUSQA",
 		"latitude": "20-47-58.41 N",
@@ -5,5 +6,6 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "CN",
-		"updated": "05/26/2011",
-	},
+		"updated": "05/26/2011"
+	}
+]

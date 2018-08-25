@@ -1,3 +1,4 @@
+[
 	{
 		"name": "XAFLE",
 		"latitude": "31-23-47.84 N",
@@ -5,7 +6,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/16/2013",
+		"updated": "05/16/2013"
 	},
 	{
 		"name": "XEHPO",
@@ -14,7 +15,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "03/29/2012",
+		"updated": "03/29/2012"
 	},
 	{
 		"name": "XETJO",
@@ -23,7 +24,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/23/2014",
+		"updated": "04/23/2014"
 	},
 	{
 		"name": "XEWHY",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/02/2000",
+		"updated": "08/02/2000"
 	},
 	{
 		"name": "XOLSE",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/17/2015",
+		"updated": "08/17/2015"
 	},
 	{
 		"name": "XOWNU",
@@ -50,7 +51,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/04/2012",
+		"updated": "04/04/2012"
 	},
 	{
 		"name": "XPRES",
@@ -59,7 +60,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/09/2014",
+		"updated": "07/09/2014"
 	},
 	{
 		"name": "XYLAN",
@@ -68,5 +69,6 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/20/2014",
-	},
+		"updated": "05/20/2014"
+	}
+]

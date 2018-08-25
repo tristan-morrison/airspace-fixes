@@ -1,3 +1,4 @@
+[
 	{
 		"name": "AGPAL",
 		"latitude": "54-31-35.2963 N",
@@ -5,7 +6,7 @@
 		"state": "",
 		"artcc": "ZVR",
 		"type": "RP",
-		"updated": "11/12/2016",
+		"updated": "11/12/2016"
 	},
 	{
 		"name": "ANTLR",
@@ -14,7 +15,7 @@
 		"state": "",
 		"artcc": "ZVR",
 		"type": "RP",
-		"updated": "11/09/2016",
+		"updated": "11/09/2016"
 	},
 	{
 		"name": "ARRUE",
@@ -23,5 +24,6 @@
 		"state": "",
 		"artcc": "ZVR",
 		"type": "RP",
-		"updated": "11/12/2016",
-	},
+		"updated": "11/12/2016"
+	}
+]

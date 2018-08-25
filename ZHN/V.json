@@ -1,3 +1,4 @@
+[
 	{
 		"name": "VABUY",
 		"latitude": "21-27-46.69 N",
@@ -5,7 +6,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "MR",
-		"updated": "NGF*TACAN*026.00/0.50",
+		"updated": "NGF*TACAN*026.00/0.50"
 	},
 	{
 		"name": "VECKI",
@@ -14,7 +15,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "MUE*VOR/DME*247.27/20.73",
+		"updated": "MUE*VOR/DME*247.27/20.73"
 	},
 	{
 		"name": "VELLA",
@@ -23,7 +24,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "ITO*VORTAC*310.43/30.55",
+		"updated": "ITO*VORTAC*310.43/30.55"
 	},
 	{
 		"name": "VEWES",
@@ -32,7 +33,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "ITO*VORTAC*079.02/5.00",
+		"updated": "ITO*VORTAC*079.02/5.00"
 	},
 	{
 		"name": "VICUL",
@@ -41,7 +42,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "12/13/2005",
+		"updated": "12/13/2005"
 	},
 	{
 		"name": "VINIE",
@@ -50,7 +51,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "MR",
-		"updated": "ITO*VORTAC*247.00/23.57",
+		"updated": "ITO*VORTAC*247.00/23.57"
 	},
 	{
 		"name": "VIRAY",
@@ -59,5 +60,6 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "06/02/2014",
-	},
+		"updated": "06/02/2014"
+	}
+]

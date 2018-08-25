@@ -1,3 +1,4 @@
+[
 	{
 		"name": "WABAK",
 		"latitude": "57-54-51.58 N",
@@ -5,7 +6,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ODK*VOR/DME*019.00/10.02",
+		"updated": "ODK*VOR/DME*019.00/10.02"
 	},
 	{
 		"name": "WABIP",
@@ -14,7 +15,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "WABIR",
@@ -23,7 +24,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EIL*TACAN*/7.13",
+		"updated": "EIL*TACAN*/7.13"
 	},
 	{
 		"name": "WADIN",
@@ -32,7 +33,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/09/2008",
+		"updated": "09/09/2008"
 	},
 	{
 		"name": "WADTO",
@@ -41,7 +42,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "12/09/2013",
+		"updated": "12/09/2013"
 	},
 	{
 		"name": "WADUB",
@@ -50,7 +51,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/28/2004",
+		"updated": "12/28/2004"
 	},
 	{
 		"name": "WAGEN",
@@ -59,7 +60,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "10/31/2017",
+		"updated": "10/31/2017"
 	},
 	{
 		"name": "WAGOL",
@@ -68,7 +69,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/07/2017",
+		"updated": "04/07/2017"
 	},
 	{
 		"name": "WAGOV",
@@ -77,7 +78,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/07/2008",
+		"updated": "07/07/2008"
 	},
 	{
 		"name": "WAGVI",
@@ -86,7 +87,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "WAHTO",
@@ -95,7 +96,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/07/2016",
+		"updated": "07/07/2016"
 	},
 	{
 		"name": "WAKAS",
@@ -104,7 +105,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/19/2017",
+		"updated": "01/19/2017"
 	},
 	{
 		"name": "WAKEV",
@@ -113,7 +114,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/13/2011",
+		"updated": "12/13/2011"
 	},
 	{
 		"name": "WAKIN",
@@ -122,7 +123,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/16/2009",
+		"updated": "12/16/2009"
 	},
 	{
 		"name": "WAKIP",
@@ -131,7 +132,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/13/2011",
+		"updated": "12/13/2011"
 	},
 	{
 		"name": "WAKNU",
@@ -140,7 +141,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "WAKOV",
@@ -149,7 +150,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EIL*TACAN*249.00/14.00",
+		"updated": "EIL*TACAN*249.00/14.00"
 	},
 	{
 		"name": "WAKRA",
@@ -158,7 +159,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "DUT*NDB/DME*351.00/14.00",
+		"updated": "DUT*NDB/DME*351.00/14.00"
 	},
 	{
 		"name": "WAKSA",
@@ -167,7 +168,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "AKN*VORTAC*115.77/21.00",
+		"updated": "AKN*VORTAC*115.77/21.00"
 	},
 	{
 		"name": "WAKTO",
@@ -176,7 +177,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/26/2006",
+		"updated": "05/26/2006"
 	},
 	{
 		"name": "WAKUK",
@@ -185,7 +186,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/01/2017",
+		"updated": "05/01/2017"
 	},
 	{
 		"name": "WALDN",
@@ -194,7 +195,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "02/23/1998",
+		"updated": "02/23/1998"
 	},
 	{
 		"name": "WALER",
@@ -203,7 +204,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/27/2014",
+		"updated": "10/27/2014"
 	},
 	{
 		"name": "WALLT",
@@ -212,7 +213,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "06/13/2017",
+		"updated": "06/13/2017"
 	},
 	{
 		"name": "WALUS",
@@ -221,7 +222,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ACE*NDB*251.73",
+		"updated": "ACE*NDB*251.73"
 	},
 	{
 		"name": "WAMUP",
@@ -230,7 +231,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/07/2014",
+		"updated": "07/07/2014"
 	},
 	{
 		"name": "WANIB",
@@ -239,7 +240,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/12/2010",
+		"updated": "10/12/2010"
 	},
 	{
 		"name": "WANIX",
@@ -248,7 +249,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BET*VORTAC*113.25/38.63",
+		"updated": "BET*VORTAC*113.25/38.63"
 	},
 	{
 		"name": "WANJO",
@@ -257,7 +258,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BRW*LD*W CRS/6.04",
+		"updated": "BRW*LD*W CRS/6.04"
 	},
 	{
 		"name": "WANOR",
@@ -266,7 +267,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/20/2017",
+		"updated": "04/20/2017"
 	},
 	{
 		"name": "WANUR",
@@ -275,7 +276,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EIL*TACAN*322.00/2.40",
+		"updated": "EIL*TACAN*322.00/2.40"
 	},
 	{
 		"name": "WAPAX",
@@ -284,7 +285,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EIL*TACAN*339.00/17.42",
+		"updated": "EIL*TACAN*339.00/17.42"
 	},
 	{
 		"name": "WAPHI",
@@ -293,7 +294,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "12/14/2011",
+		"updated": "12/14/2011"
 	},
 	{
 		"name": "WAPRA",
@@ -302,7 +303,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "GKN*VOR/DME*323.00/5.50",
+		"updated": "GKN*VOR/DME*323.00/5.50"
 	},
 	{
 		"name": "WAPRO",
@@ -311,7 +312,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BET*VORTAC*355.18/109.00",
+		"updated": "BET*VORTAC*355.18/109.00"
 	},
 	{
 		"name": "WAREX",
@@ -320,7 +321,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/10/2005",
+		"updated": "01/10/2005"
 	},
 	{
 		"name": "WARRT",
@@ -329,7 +330,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/09/2005",
+		"updated": "06/09/2005"
 	},
 	{
 		"name": "WARSH",
@@ -338,7 +339,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/26/2011",
+		"updated": "10/26/2011"
 	},
 	{
 		"name": "WARVI",
@@ -347,7 +348,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENM*VOR/DME*041.35/45.30",
+		"updated": "ENM*VOR/DME*041.35/45.30"
 	},
 	{
 		"name": "WASUT",
@@ -356,7 +357,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/31/2004",
+		"updated": "08/31/2004"
 	},
 	{
 		"name": "WASVO",
@@ -365,7 +366,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/26/2008",
+		"updated": "08/26/2008"
 	},
 	{
 		"name": "WATAS",
@@ -374,7 +375,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/26/2008",
+		"updated": "08/26/2008"
 	},
 	{
 		"name": "WATMO",
@@ -383,7 +384,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/01/2016",
+		"updated": "12/01/2016"
 	},
 	{
 		"name": "WATNU",
@@ -392,7 +393,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/22/2004",
+		"updated": "03/22/2004"
 	},
 	{
 		"name": "WATOP",
@@ -401,7 +402,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/13/2017",
+		"updated": "04/13/2017"
 	},
 	{
 		"name": "WATUB",
@@ -410,7 +411,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "CN",
-		"updated": "02/17/2015",
+		"updated": "02/17/2015"
 	},
 	{
 		"name": "WAURI",
@@ -419,7 +420,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/19/2000",
+		"updated": "09/19/2000"
 	},
 	{
 		"name": "WAVNU",
@@ -428,7 +429,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/01/2007",
+		"updated": "08/01/2007"
 	},
 	{
 		"name": "WAVTO",
@@ -437,7 +438,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/12/2004",
+		"updated": "07/12/2004"
 	},
 	{
 		"name": "WAXIM",
@@ -446,7 +447,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BET*VORTAC*355.18/45.70",
+		"updated": "BET*VORTAC*355.18/45.70"
 	},
 	{
 		"name": "WAXOV",
@@ -455,7 +456,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/27/2014",
+		"updated": "02/27/2014"
 	},
 	{
 		"name": "WAYVO",
@@ -464,7 +465,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/24/2009",
+		"updated": "11/24/2009"
 	},
 	{
 		"name": "WAYVZ",
@@ -473,7 +474,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/28/2014",
+		"updated": "10/28/2014"
 	},
 	{
 		"name": "WAZZU",
@@ -482,7 +483,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SSR*VORTAC*026.66/5.00",
+		"updated": "SSR*VORTAC*026.66/5.00"
 	},
 	{
 		"name": "WEBBI",
@@ -491,7 +492,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "TGN*LD*W CRS/6.37",
+		"updated": "TGN*LD*W CRS/6.37"
 	},
 	{
 		"name": "WEBOD",
@@ -500,7 +501,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/14/2011",
+		"updated": "12/14/2011"
 	},
 	{
 		"name": "WEBUP",
@@ -509,7 +510,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "PSG*DD*344.00/4.00",
+		"updated": "PSG*DD*344.00/4.00"
 	},
 	{
 		"name": "WEDAD",
@@ -518,7 +519,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/26/2015",
+		"updated": "10/26/2015"
 	},
 	{
 		"name": "WEDGY",
@@ -527,7 +528,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "GBH*NDB*304.96",
+		"updated": "GBH*NDB*304.96"
 	},
 	{
 		"name": "WEEKE",
@@ -536,7 +537,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BET*VORTAC*067.35/12.00",
+		"updated": "BET*VORTAC*067.35/12.00"
 	},
 	{
 		"name": "WEGOL",
@@ -545,7 +546,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/14/2006",
+		"updated": "11/14/2006"
 	},
 	{
 		"name": "WEGWI",
@@ -554,7 +555,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/17/2006",
+		"updated": "02/17/2006"
 	},
 	{
 		"name": "WEJYY",
@@ -563,7 +564,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/27/2005",
+		"updated": "12/27/2005"
 	},
 	{
 		"name": "WEKAK",
@@ -572,7 +573,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/11/2008",
+		"updated": "06/11/2008"
 	},
 	{
 		"name": "WEKDO",
@@ -581,7 +582,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/21/2007",
+		"updated": "09/21/2007"
 	},
 	{
 		"name": "WEKEX",
@@ -590,7 +591,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/26/2015",
+		"updated": "10/26/2015"
 	},
 	{
 		"name": "WEKOL",
@@ -599,7 +600,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "WELES",
@@ -608,7 +609,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/06/2009",
+		"updated": "04/06/2009"
 	},
 	{
 		"name": "WELLE",
@@ -617,7 +618,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "12/09/2013",
+		"updated": "12/09/2013"
 	},
 	{
 		"name": "WEMOG",
@@ -626,7 +627,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/03/2008",
+		"updated": "12/03/2008"
 	},
 	{
 		"name": "WEMSY",
@@ -635,7 +636,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "SYA*VORTAC*272.00/11.00",
+		"updated": "SYA*VORTAC*272.00/11.00"
 	},
 	{
 		"name": "WEMUB",
@@ -644,7 +645,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/17/2017",
+		"updated": "08/17/2017"
 	},
 	{
 		"name": "WENGI",
@@ -653,7 +654,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/26/2015",
+		"updated": "10/26/2015"
 	},
 	{
 		"name": "WEPEN",
@@ -662,7 +663,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/03/2008",
+		"updated": "12/03/2008"
 	},
 	{
 		"name": "WEPIT",
@@ -671,7 +672,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/01/2007",
+		"updated": "08/01/2007"
 	},
 	{
 		"name": "WERDU",
@@ -680,7 +681,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/22/2017",
+		"updated": "05/22/2017"
 	},
 	{
 		"name": "WERMA",
@@ -689,7 +690,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/19/2012",
+		"updated": "03/19/2012"
 	},
 	{
 		"name": "WEROT",
@@ -698,7 +699,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/03/2008",
+		"updated": "12/03/2008"
 	},
 	{
 		"name": "WERVU",
@@ -707,7 +708,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/12/2014",
+		"updated": "03/12/2014"
 	},
 	{
 		"name": "WESED",
@@ -716,7 +717,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "FAI*VORTAC*099.00/62.77",
+		"updated": "FAI*VORTAC*099.00/62.77"
 	},
 	{
 		"name": "WESKA",
@@ -725,7 +726,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/06/2017",
+		"updated": "09/06/2017"
 	},
 	{
 		"name": "WESOL",
@@ -734,7 +735,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/18/2014",
+		"updated": "11/18/2014"
 	},
 	{
 		"name": "WETOL",
@@ -743,7 +744,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ECH*LD*NW CRS/8.39",
+		"updated": "ECH*LD*NW CRS/8.39"
 	},
 	{
 		"name": "WETSI",
@@ -752,7 +753,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "CDB*VORTAC*027.05/10.00",
+		"updated": "CDB*VORTAC*027.05/10.00"
 	},
 	{
 		"name": "WEVIN",
@@ -761,7 +762,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "GCR*NDB*135.48",
+		"updated": "GCR*NDB*135.48"
 	},
 	{
 		"name": "WEWWO",
@@ -770,7 +771,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/24/2004",
+		"updated": "08/24/2004"
 	},
 	{
 		"name": "WIBAV",
@@ -779,7 +780,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ADK*NDB/DME*/4.91",
+		"updated": "ADK*NDB/DME*/4.91"
 	},
 	{
 		"name": "WIBLO",
@@ -788,7 +789,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/03/2007",
+		"updated": "05/03/2007"
 	},
 	{
 		"name": "WIBTA",
@@ -797,7 +798,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BKA*VORTAC*107.25",
+		"updated": "BKA*VORTAC*107.25"
 	},
 	{
 		"name": "WICOL",
@@ -806,7 +807,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/13/2012",
+		"updated": "02/13/2012"
 	},
 	{
 		"name": "WIDEB",
@@ -815,7 +816,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/02/2013",
+		"updated": "05/02/2013"
 	},
 	{
 		"name": "WIDTH",
@@ -824,7 +825,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AUB*NDB*146.98",
+		"updated": "AUB*NDB*146.98"
 	},
 	{
 		"name": "WIDVA",
@@ -833,7 +834,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/15/2010",
+		"updated": "11/15/2010"
 	},
 	{
 		"name": "WIGUL",
@@ -842,7 +843,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/31/2004",
+		"updated": "08/31/2004"
 	},
 	{
 		"name": "WIGVA",
@@ -851,7 +852,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HOM*LE*038.03/3.38",
+		"updated": "HOM*LE*038.03/3.38"
 	},
 	{
 		"name": "WIKIP",
@@ -860,7 +861,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/21/2009",
+		"updated": "04/21/2009"
 	},
 	{
 		"name": "WIKSU",
@@ -869,7 +870,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "WILAD",
@@ -878,7 +879,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/29/2013",
+		"updated": "10/29/2013"
 	},
 	{
 		"name": "WILGA",
@@ -887,7 +888,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AIX*NDB/DME*230.88/6.00",
+		"updated": "AIX*NDB/DME*230.88/6.00"
 	},
 	{
 		"name": "WILIG",
@@ -896,7 +897,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SCC*VOR/DME*058.06/2.10",
+		"updated": "SCC*VOR/DME*058.06/2.10"
 	},
 	{
 		"name": "WILOW",
@@ -905,7 +906,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "10/02/1995",
+		"updated": "10/02/1995"
 	},
 	{
 		"name": "WILTS",
@@ -914,7 +915,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENN*VORTAC*007.00",
+		"updated": "ENN*VORTAC*007.00"
 	},
 	{
 		"name": "WIMAN",
@@ -923,7 +924,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SCC*VOR/DME*143.82/45.00",
+		"updated": "SCC*VOR/DME*143.82/45.00"
 	},
 	{
 		"name": "WIMAV",
@@ -932,7 +933,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "WINKA",
@@ -941,7 +942,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BKA*VORTAC*009.10/6.83",
+		"updated": "BKA*VORTAC*009.10/6.83"
 	},
 	{
 		"name": "WINOR",
@@ -950,7 +951,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "MCG*VORTAC*102.40/52.00",
+		"updated": "MCG*VORTAC*102.40/52.00"
 	},
 	{
 		"name": "WINUR",
@@ -959,7 +960,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/12/2007",
+		"updated": "04/12/2007"
 	},
 	{
 		"name": "WIPIP",
@@ -968,7 +969,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/26/2017",
+		"updated": "12/26/2017"
 	},
 	{
 		"name": "WIPVO",
@@ -977,7 +978,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/07/2017",
+		"updated": "04/07/2017"
 	},
 	{
 		"name": "WIRAD",
@@ -986,7 +987,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/18/2012",
+		"updated": "07/18/2012"
 	},
 	{
 		"name": "WIRIS",
@@ -995,7 +996,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/08/2011",
+		"updated": "07/08/2011"
 	},
 	{
 		"name": "WIRPU",
@@ -1004,7 +1005,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "WIRTU",
@@ -1013,7 +1014,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/02/2014",
+		"updated": "06/02/2014"
 	},
 	{
 		"name": "WISUM",
@@ -1022,7 +1023,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/03/2008",
+		"updated": "12/03/2008"
 	},
 	{
 		"name": "WITLI",
@@ -1031,7 +1032,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENA*VOR/DME*197.94",
+		"updated": "ENA*VOR/DME*197.94"
 	},
 	{
 		"name": "WITMI",
@@ -1040,7 +1041,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ODK*VOR/DME*004.63/10.02",
+		"updated": "ODK*VOR/DME*004.63/10.02"
 	},
 	{
 		"name": "WITTI",
@@ -1049,7 +1050,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/13/2017",
+		"updated": "04/13/2017"
 	},
 	{
 		"name": "WIVAB",
@@ -1058,7 +1059,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/12/2009",
+		"updated": "01/12/2009"
 	},
 	{
 		"name": "WIVDA",
@@ -1067,7 +1068,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ANC*LD*253.85/4.83",
+		"updated": "ANC*LD*253.85/4.83"
 	},
 	{
 		"name": "WIVEK",
@@ -1076,7 +1077,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SSR*VORTAC*124.54/10.00",
+		"updated": "SSR*VORTAC*124.54/10.00"
 	},
 	{
 		"name": "WIWQO",
@@ -1085,7 +1086,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/17/2017",
+		"updated": "08/17/2017"
 	},
 	{
 		"name": "WIXIR",
@@ -1094,7 +1095,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/20/2011",
+		"updated": "05/20/2011"
 	},
 	{
 		"name": "WIXIT",
@@ -1103,7 +1104,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/08/2011",
+		"updated": "07/08/2011"
 	},
 	{
 		"name": "WIYQY",
@@ -1112,7 +1113,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/28/2018",
+		"updated": "02/28/2018"
 	},
 	{
 		"name": "WJSDT",
@@ -1121,7 +1122,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/30/2013",
+		"updated": "04/30/2013"
 	},
 	{
 		"name": "WLRUS",
@@ -1130,7 +1131,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "EDF*TACAN*174.00/30.00",
+		"updated": "EDF*TACAN*174.00/30.00"
 	},
 	{
 		"name": "WNGCO",
@@ -1139,7 +1140,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "TNC*NDB/DME*159.32/12.00",
+		"updated": "TNC*NDB/DME*159.32/12.00"
 	},
 	{
 		"name": "WNMAG",
@@ -1148,7 +1149,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/21/2015",
+		"updated": "10/21/2015"
 	},
 	{
 		"name": "WOBEM",
@@ -1157,7 +1158,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "FAI*VORTAC*086.05",
+		"updated": "FAI*VORTAC*086.05"
 	},
 	{
 		"name": "WOBES",
@@ -1166,7 +1167,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/07/2003",
+		"updated": "10/07/2003"
 	},
 	{
 		"name": "WODAP",
@@ -1175,7 +1176,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "WODIL",
@@ -1184,7 +1185,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/03/2008",
+		"updated": "12/03/2008"
 	},
 	{
 		"name": "WODPU",
@@ -1193,7 +1194,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/02/2014",
+		"updated": "06/02/2014"
 	},
 	{
 		"name": "WODSI",
@@ -1202,7 +1203,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "WODUX",
@@ -1211,7 +1212,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/28/2014",
+		"updated": "10/28/2014"
 	},
 	{
 		"name": "WOGAP",
@@ -1220,7 +1221,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "WOGIM",
@@ -1229,7 +1230,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/18/2014",
+		"updated": "11/18/2014"
 	},
 	{
 		"name": "WOGRA",
@@ -1238,7 +1239,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/26/2008",
+		"updated": "08/26/2008"
 	},
 	{
 		"name": "WOKAT",
@@ -1247,7 +1248,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/12/2010",
+		"updated": "02/12/2010"
 	},
 	{
 		"name": "WOKEL",
@@ -1256,7 +1257,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "WOKET",
@@ -1265,7 +1266,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/26/2015",
+		"updated": "10/26/2015"
 	},
 	{
 		"name": "WOKNA",
@@ -1274,7 +1275,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/12/2014",
+		"updated": "06/12/2014"
 	},
 	{
 		"name": "WOLAK",
@@ -1283,7 +1284,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/18/2014",
+		"updated": "11/18/2014"
 	},
 	{
 		"name": "WOLCI",
@@ -1292,7 +1293,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/15/2010",
+		"updated": "11/15/2010"
 	},
 	{
 		"name": "WOLMA",
@@ -1301,7 +1302,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/27/2014",
+		"updated": "10/27/2014"
 	},
 	{
 		"name": "WOLPI",
@@ -1310,7 +1311,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/18/2014",
+		"updated": "11/18/2014"
 	},
 	{
 		"name": "WOLPU",
@@ -1319,7 +1320,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/26/2013",
+		"updated": "06/26/2013"
 	},
 	{
 		"name": "WOMEV",
@@ -1328,7 +1329,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/05/2012",
+		"updated": "04/05/2012"
 	},
 	{
 		"name": "WOMLI",
@@ -1337,7 +1338,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/14/2016",
+		"updated": "03/14/2016"
 	},
 	{
 		"name": "WOMSA",
@@ -1346,7 +1347,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/26/2017",
+		"updated": "12/26/2017"
 	},
 	{
 		"name": "WONAB",
@@ -1355,7 +1356,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OME*VOR/DME*093.52/32.10",
+		"updated": "OME*VOR/DME*093.52/32.10"
 	},
 	{
 		"name": "WONBA",
@@ -1364,7 +1365,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HBT*NDB/DME*157.00/8.64",
+		"updated": "HBT*NDB/DME*157.00/8.64"
 	},
 	{
 		"name": "WOPIG",
@@ -1373,7 +1374,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/27/2005",
+		"updated": "06/27/2005"
 	},
 	{
 		"name": "WORED",
@@ -1382,7 +1383,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/08/2011",
+		"updated": "07/08/2011"
 	},
 	{
 		"name": "WORKN",
@@ -1391,7 +1392,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/04/2013",
+		"updated": "11/04/2013"
 	},
 	{
 		"name": "WORON",
@@ -1400,7 +1401,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "10/02/1995",
+		"updated": "10/02/1995"
 	},
 	{
 		"name": "WORRI",
@@ -1409,7 +1410,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ILI*NDB/DME*141.54",
+		"updated": "ILI*NDB/DME*141.54"
 	},
 	{
 		"name": "WORTT",
@@ -1418,7 +1419,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "YAK*VOR/DME*268.56/17.00",
+		"updated": "YAK*VOR/DME*268.56/17.00"
 	},
 	{
 		"name": "WORUT",
@@ -1427,7 +1428,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/25/2017",
+		"updated": "01/25/2017"
 	},
 	{
 		"name": "WOSMI",
@@ -1436,7 +1437,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/28/2006",
+		"updated": "11/28/2006"
 	},
 	{
 		"name": "WOSOM",
@@ -1445,7 +1446,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BIG*LD*W CRS/8.17",
+		"updated": "BIG*LD*W CRS/8.17"
 	},
 	{
 		"name": "WOSTO",
@@ -1454,7 +1455,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/14/2011",
+		"updated": "12/14/2011"
 	},
 	{
 		"name": "WOTEM",
@@ -1463,7 +1464,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/11/2012",
+		"updated": "10/11/2012"
 	},
 	{
 		"name": "WOTKO",
@@ -1472,7 +1473,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/30/2008",
+		"updated": "05/30/2008"
 	},
 	{
 		"name": "WOVIB",
@@ -1481,7 +1482,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/05/2013",
+		"updated": "11/05/2013"
 	},
 	{
 		"name": "WOXOK",
@@ -1490,7 +1491,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/16/2009",
+		"updated": "06/16/2009"
 	},
 	{
 		"name": "WOXOX",
@@ -1499,7 +1500,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "CN",
-		"updated": "05/11/2005",
+		"updated": "05/11/2005"
 	},
 	{
 		"name": "WUBDO",
@@ -1508,7 +1509,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SQM*NDB*316.14",
+		"updated": "SQM*NDB*316.14"
 	},
 	{
 		"name": "WUBUG",
@@ -1517,7 +1518,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/02/2008",
+		"updated": "04/02/2008"
 	},
 	{
 		"name": "WUDEK",
@@ -1526,7 +1527,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/26/2017",
+		"updated": "09/26/2017"
 	},
 	{
 		"name": "WUGAT",
@@ -1535,7 +1536,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "WUGDO",
@@ -1544,7 +1545,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "MCG*VORTAC*102.40/0.50",
+		"updated": "MCG*VORTAC*102.40/0.50"
 	},
 	{
 		"name": "WUKSI",
@@ -1553,7 +1554,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKW*NDB/DME*223.21/1.20",
+		"updated": "AKW*NDB/DME*223.21/1.20"
 	},
 	{
 		"name": "WUKTI",
@@ -1562,7 +1563,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SCC*VOR/DME*238.06/4.27",
+		"updated": "SCC*VOR/DME*238.06/4.27"
 	},
 	{
 		"name": "WULAK",
@@ -1571,7 +1572,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*LD*SE CRS/0.53",
+		"updated": "AKN*LD*SE CRS/0.53"
 	},
 	{
 		"name": "WULPI",
@@ -1580,7 +1581,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/16/2018",
+		"updated": "03/16/2018"
 	},
 	{
 		"name": "WULSE",
@@ -1589,7 +1590,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/17/2017",
+		"updated": "05/17/2017"
 	},
 	{
 		"name": "WULSI",
@@ -1598,7 +1599,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/30/2008",
+		"updated": "05/30/2008"
 	},
 	{
 		"name": "WUMBU",
@@ -1607,7 +1608,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/04/2010",
+		"updated": "05/04/2010"
 	},
 	{
 		"name": "WUMEV",
@@ -1616,7 +1617,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/01/2014",
+		"updated": "05/01/2014"
 	},
 	{
 		"name": "WUMOR",
@@ -1625,7 +1626,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/18/2006",
+		"updated": "09/18/2006"
 	},
 	{
 		"name": "WUNDU",
@@ -1634,7 +1635,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/10/2012",
+		"updated": "08/10/2012"
 	},
 	{
 		"name": "WUNUX",
@@ -1643,7 +1644,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/16/2009",
+		"updated": "12/16/2009"
 	},
 	{
 		"name": "WUPDO",
@@ -1652,7 +1653,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/17/2017",
+		"updated": "08/17/2017"
 	},
 	{
 		"name": "WUPET",
@@ -1661,7 +1662,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/28/2004",
+		"updated": "12/28/2004"
 	},
 	{
 		"name": "WUPUG",
@@ -1670,7 +1671,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/17/2013",
+		"updated": "05/17/2013"
 	},
 	{
 		"name": "WURED",
@@ -1679,7 +1680,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "WURMA",
@@ -1688,7 +1689,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "WUSID",
@@ -1697,7 +1698,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/12/2004",
+		"updated": "07/12/2004"
 	},
 	{
 		"name": "WUSMA",
@@ -1706,7 +1707,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "WUTEL",
@@ -1715,7 +1716,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/08/2011",
+		"updated": "07/08/2011"
 	},
 	{
 		"name": "WUTIX",
@@ -1724,7 +1725,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/12/2009",
+		"updated": "01/12/2009"
 	},
 	{
 		"name": "WUTOM",
@@ -1733,7 +1734,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/16/2018",
+		"updated": "03/16/2018"
 	},
 	{
 		"name": "WUVBA",
@@ -1742,7 +1743,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/13/2017",
+		"updated": "07/13/2017"
 	},
 	{
 		"name": "WUXAN",
@@ -1751,7 +1752,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/09/2005",
+		"updated": "06/09/2005"
 	},
 	{
 		"name": "WUXIP",
@@ -1760,7 +1761,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OTZ*VOR/DME*263.73/1.62",
+		"updated": "OTZ*VOR/DME*263.73/1.62"
 	},
 	{
 		"name": "WUXUK",
@@ -1769,5 +1770,6 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BVK*NDB/DME*099.24/0.30",
-	},
+		"updated": "BVK*NDB/DME*099.24/0.30"
+	}
+]

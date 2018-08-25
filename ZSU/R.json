@@ -1,3 +1,4 @@
+[
 	{
 		"name": "RAFEE",
 		"latitude": "16-6-33.24 N",
@@ -5,7 +6,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "04/08/2008",
+		"updated": "04/08/2008"
 	},
 	{
 		"name": "RAYAS",
@@ -14,7 +15,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "11/23/1998",
+		"updated": "11/23/1998"
 	},
 	{
 		"name": "REKUA",
@@ -23,7 +24,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "11/21/2008",
+		"updated": "11/21/2008"
 	},
 	{
 		"name": "REMSY",
@@ -32,7 +33,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*273.77/5.95",
+		"updated": "SJU*VORTAC*273.77/5.95"
 	},
 	{
 		"name": "RENTS",
@@ -41,7 +42,7 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "COY*VOR/DME*001.00",
+		"updated": "COY*VOR/DME*001.00"
 	},
 	{
 		"name": "RIMMA",
@@ -50,7 +51,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "07/31/2010",
+		"updated": "07/31/2010"
 	},
 	{
 		"name": "RIQIE",
@@ -59,7 +60,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "MR",
-		"updated": "NRR*TACAN*185.00/24.00",
+		"updated": "NRR*TACAN*185.00/24.00"
 	},
 	{
 		"name": "ROBLL",
@@ -68,7 +69,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "BQN*VORTAC*021.11/27.81",
+		"updated": "BQN*VORTAC*021.11/27.81"
 	},
 	{
 		"name": "ROJAN",
@@ -77,7 +78,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "01/21/2015",
+		"updated": "01/21/2015"
 	},
 	{
 		"name": "RORPE",
@@ -86,7 +87,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "03/06/2006",
+		"updated": "03/06/2006"
 	},
 	{
 		"name": "RUTPE",
@@ -95,5 +96,6 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
-	},
+		"updated": "05/06/2013"
+	}
+]

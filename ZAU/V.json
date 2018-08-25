@@ -1,3 +1,4 @@
+[
 	{
 		"name": "VACGU",
 		"latitude": "41-10-29.34 N",
@@ -5,7 +6,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/30/2013",
+		"updated": "07/30/2013"
 	},
 	{
 		"name": "VACUY",
@@ -14,7 +15,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/30/2013",
+		"updated": "07/30/2013"
 	},
 	{
 		"name": "VACYI",
@@ -23,7 +24,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/18/2000",
+		"updated": "04/18/2000"
 	},
 	{
 		"name": "VAGES",
@@ -32,7 +33,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "EON*VORTAC*150.00/54.34",
+		"updated": "EON*VORTAC*150.00/54.34"
 	},
 	{
 		"name": "VAGYU",
@@ -41,7 +42,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/24/2009",
+		"updated": "03/24/2009"
 	},
 	{
 		"name": "VAINS",
@@ -50,7 +51,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*185.07/7.90",
+		"updated": "DPA*VOR/DME*185.07/7.90"
 	},
 	{
 		"name": "VANNY",
@@ -59,7 +60,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MOP*VOR/DME*223.00",
+		"updated": "MOP*VOR/DME*223.00"
 	},
 	{
 		"name": "VAPBU",
@@ -68,7 +69,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "VAVAR",
@@ -77,7 +78,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BDF*VORTAC*133.00/7.00",
+		"updated": "BDF*VORTAC*133.00/7.00"
 	},
 	{
 		"name": "VECUY",
@@ -86,7 +87,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/20/2009",
+		"updated": "01/20/2009"
 	},
 	{
 		"name": "VEECK",
@@ -95,7 +96,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/18/2007",
+		"updated": "01/18/2007"
 	},
 	{
 		"name": "VEENA",
@@ -104,7 +105,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*180.00/24.73",
+		"updated": "BAE*VOR/DME*180.00/24.73"
 	},
 	{
 		"name": "VENTU",
@@ -113,7 +114,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "AZO*VOR/DME*192.00/20.61",
+		"updated": "AZO*VOR/DME*192.00/20.61"
 	},
 	{
 		"name": "VEVKY",
@@ -122,7 +123,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/19/2010",
+		"updated": "05/19/2010"
 	},
 	{
 		"name": "VEYUD",
@@ -131,7 +132,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/23/2013",
+		"updated": "01/23/2013"
 	},
 	{
 		"name": "VEYUG",
@@ -140,7 +141,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/24/2009",
+		"updated": "03/24/2009"
 	},
 	{
 		"name": "VICGU",
@@ -149,7 +150,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "VICKS",
@@ -158,7 +159,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BDF*VORTAC*247.17/28.89",
+		"updated": "BDF*VORTAC*247.17/28.89"
 	},
 	{
 		"name": "VINCA",
@@ -167,7 +168,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "VINEY",
@@ -176,7 +177,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RBS*VOR/DME*165.34",
+		"updated": "RBS*VOR/DME*165.34"
 	},
 	{
 		"name": "VINNE",
@@ -185,7 +186,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/08/2004",
+		"updated": "09/08/2004"
 	},
 	{
 		"name": "VINTY",
@@ -194,7 +195,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CID*VOR/DME*320.94/18.35",
+		"updated": "CID*VOR/DME*320.94/18.35"
 	},
 	{
 		"name": "VINYY",
@@ -203,7 +204,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ABU*LD*093.01/28.13",
+		"updated": "ABU*LD*093.01/28.13"
 	},
 	{
 		"name": "VIOLS",
@@ -212,7 +213,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/26/2016",
+		"updated": "09/26/2016"
 	},
 	{
 		"name": "VIYUD",
@@ -221,7 +222,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "VNDER",
@@ -230,7 +231,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "SAJ*LD*272.99/19.76",
+		"updated": "SAJ*LD*272.99/19.76"
 	},
 	{
 		"name": "VOBRE",
@@ -239,7 +240,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/02/2012",
+		"updated": "04/02/2012"
 	},
 	{
 		"name": "VOCUP",
@@ -248,7 +249,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/12/2006",
+		"updated": "01/12/2006"
 	},
 	{
 		"name": "VOFGO",
@@ -257,7 +258,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "VOGLR",
@@ -266,7 +267,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/22/2013",
+		"updated": "03/22/2013"
 	},
 	{
 		"name": "VOGMY",
@@ -275,7 +276,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/05/2010",
+		"updated": "04/05/2010"
 	},
 	{
 		"name": "VONFY",
@@ -284,7 +285,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/12/2008",
+		"updated": "06/12/2008"
 	},
 	{
 		"name": "VONYU",
@@ -293,7 +294,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*VORTAC*228.00/1.49",
+		"updated": "FWA*VORTAC*228.00/1.49"
 	},
 	{
 		"name": "VOPGE",
@@ -302,7 +303,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/08/2007",
+		"updated": "08/08/2007"
 	},
 	{
 		"name": "VOPYU",
@@ -311,7 +312,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/20/2009",
+		"updated": "01/20/2009"
 	},
 	{
 		"name": "VORIN",
@@ -320,7 +321,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BDF*VORTAC*025.93/25.91",
+		"updated": "BDF*VORTAC*025.93/25.91"
 	},
 	{
 		"name": "VORPE",
@@ -329,7 +330,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "07/10/1996",
+		"updated": "07/10/1996"
 	},
 	{
 		"name": "VOSUY",
@@ -338,7 +339,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "VOSXE",
@@ -347,7 +348,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/24/2009",
+		"updated": "03/24/2009"
 	},
 	{
 		"name": "VOVVU",
@@ -356,7 +357,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/23/2009",
+		"updated": "03/23/2009"
 	},
 	{
 		"name": "VOYUG",
@@ -365,7 +366,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OTM*VOR/DME*070.55/8.46",
+		"updated": "OTM*VOR/DME*070.55/8.46"
 	},
 	{
 		"name": "VOYUP",
@@ -374,7 +375,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/11/2008",
+		"updated": "08/11/2008"
 	},
 	{
 		"name": "VPAON",
@@ -383,7 +384,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "VPBNG",
@@ -392,7 +393,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "VPDVA",
@@ -401,7 +402,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/13/2015",
+		"updated": "11/13/2015"
 	},
 	{
 		"name": "VPDVB",
@@ -410,7 +411,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/13/2015",
+		"updated": "11/13/2015"
 	},
 	{
 		"name": "VPDVC",
@@ -419,7 +420,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/13/2015",
+		"updated": "11/13/2015"
 	},
 	{
 		"name": "VPDVD",
@@ -428,7 +429,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/13/2015",
+		"updated": "11/13/2015"
 	},
 	{
 		"name": "VPDVE",
@@ -437,7 +438,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/13/2015",
+		"updated": "11/13/2015"
 	},
 	{
 		"name": "VPDVF",
@@ -446,7 +447,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/17/2015",
+		"updated": "11/17/2015"
 	},
 	{
 		"name": "VPDVG",
@@ -455,7 +456,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/16/2015",
+		"updated": "11/16/2015"
 	},
 	{
 		"name": "VPDVH",
@@ -464,7 +465,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/16/2015",
+		"updated": "11/16/2015"
 	},
 	{
 		"name": "VPDVI",
@@ -473,7 +474,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/17/2015",
+		"updated": "11/17/2015"
 	},
 	{
 		"name": "VPFTS",
@@ -482,7 +483,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "VPHMA",
@@ -491,7 +492,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/17/2015",
+		"updated": "11/17/2015"
 	},
 	{
 		"name": "VPHMB",
@@ -500,7 +501,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/17/2015",
+		"updated": "11/17/2015"
 	},
 	{
 		"name": "VPHMC",
@@ -509,7 +510,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/17/2015",
+		"updated": "11/17/2015"
 	},
 	{
 		"name": "VPHMD",
@@ -518,7 +519,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/17/2015",
+		"updated": "11/17/2015"
 	},
 	{
 		"name": "VPHME",
@@ -527,7 +528,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/17/2015",
+		"updated": "11/17/2015"
 	},
 	{
 		"name": "VPHMF",
@@ -536,7 +537,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/17/2015",
+		"updated": "11/17/2015"
 	},
 	{
 		"name": "VPHMG",
@@ -545,7 +546,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/17/2015",
+		"updated": "11/17/2015"
 	},
 	{
 		"name": "VPRAN",
@@ -554,7 +555,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "VPTFA",
@@ -563,7 +564,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/17/2015",
+		"updated": "11/17/2015"
 	},
 	{
 		"name": "VPTFB",
@@ -572,7 +573,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/17/2015",
+		"updated": "11/17/2015"
 	},
 	{
 		"name": "VPTFC",
@@ -581,7 +582,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/17/2015",
+		"updated": "11/17/2015"
 	},
 	{
 		"name": "VPTFD",
@@ -590,7 +591,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/17/2015",
+		"updated": "11/17/2015"
 	},
 	{
 		"name": "VPTFE",
@@ -599,7 +600,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/17/2015",
+		"updated": "11/17/2015"
 	},
 	{
 		"name": "VPTFF",
@@ -608,7 +609,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/17/2015",
+		"updated": "11/17/2015"
 	},
 	{
 		"name": "VPTFG",
@@ -617,7 +618,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "VFR",
-		"updated": "11/22/2015",
+		"updated": "11/22/2015"
 	},
 	{
 		"name": "VUCBU",
@@ -626,7 +627,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/20/2009",
+		"updated": "01/20/2009"
 	},
 	{
 		"name": "VULCN",
@@ -635,7 +636,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/26/2009",
+		"updated": "10/26/2009"
 	},
 	{
 		"name": "VUNDY",
@@ -644,7 +645,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/15/2014",
+		"updated": "09/15/2014"
 	},
 	{
 		"name": "VUREN",
@@ -653,7 +654,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "EON*VORTAC*012.58",
+		"updated": "EON*VORTAC*012.58"
 	},
 	{
 		"name": "VUVUY",
@@ -662,7 +663,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VHP*VORTAC*020.74/16.68",
+		"updated": "VHP*VORTAC*020.74/16.68"
 	},
 	{
 		"name": "VUXCY",
@@ -671,5 +672,6 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/25/2012",
-	},
+		"updated": "10/25/2012"
+	}
+]

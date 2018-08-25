@@ -1,3 +1,4 @@
+[
 	{
 		"name": "ZABLO",
 		"latitude": "57-1-57.43 N",
@@ -5,7 +6,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "PSG*DD*344.00/14.00",
+		"updated": "PSG*DD*344.00/14.00"
 	},
 	{
 		"name": "ZABOB",
@@ -14,7 +15,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/07/2014",
+		"updated": "07/07/2014"
 	},
 	{
 		"name": "ZADIG",
@@ -23,7 +24,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/03/2008",
+		"updated": "12/03/2008"
 	},
 	{
 		"name": "ZADIR",
@@ -32,7 +33,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/18/2017",
+		"updated": "05/18/2017"
 	},
 	{
 		"name": "ZADRO",
@@ -41,7 +42,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/08/2011",
+		"updated": "07/08/2011"
 	},
 	{
 		"name": "ZADUB",
@@ -50,7 +51,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "ZADUS",
@@ -59,7 +60,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/30/2008",
+		"updated": "05/30/2008"
 	},
 	{
 		"name": "ZAKEK",
@@ -68,7 +69,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/08/2017",
+		"updated": "12/08/2017"
 	},
 	{
 		"name": "ZAKEV",
@@ -77,7 +78,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ANI*NDB*097.59",
+		"updated": "ANI*NDB*097.59"
 	},
 	{
 		"name": "ZALEG",
@@ -86,7 +87,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/12/2014",
+		"updated": "06/12/2014"
 	},
 	{
 		"name": "ZALIB",
@@ -95,7 +96,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/25/2016",
+		"updated": "01/25/2016"
 	},
 	{
 		"name": "ZALOR",
@@ -104,7 +105,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EIL*TACAN*/6.63",
+		"updated": "EIL*TACAN*/6.63"
 	},
 	{
 		"name": "ZALOS",
@@ -113,7 +114,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/03/2008",
+		"updated": "12/03/2008"
 	},
 	{
 		"name": "ZALSI",
@@ -122,7 +123,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/25/2017",
+		"updated": "01/25/2017"
 	},
 	{
 		"name": "ZAMED",
@@ -131,7 +132,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/01/2014",
+		"updated": "05/01/2014"
 	},
 	{
 		"name": "ZAMOM",
@@ -140,7 +141,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*VORTAC*025.96/10.00",
+		"updated": "AKN*VORTAC*025.96/10.00"
 	},
 	{
 		"name": "ZAMTO",
@@ -149,7 +150,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AIX*NDB/DME*230.88/3.10",
+		"updated": "AIX*NDB/DME*230.88/3.10"
 	},
 	{
 		"name": "ZANEB",
@@ -158,7 +159,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/18/2014",
+		"updated": "11/18/2014"
 	},
 	{
 		"name": "ZANEM",
@@ -167,7 +168,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/21/2007",
+		"updated": "09/21/2007"
 	},
 	{
 		"name": "ZANEP",
@@ -176,7 +177,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "ZANLO",
@@ -185,7 +186,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "10/31/2017",
+		"updated": "10/31/2017"
 	},
 	{
 		"name": "ZANOV",
@@ -194,7 +195,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HOM*LE*218.01/17.28",
+		"updated": "HOM*LE*218.01/17.28"
 	},
 	{
 		"name": "ZAPOT",
@@ -203,7 +204,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HOM*VOR/DME*203.00/19.50",
+		"updated": "HOM*VOR/DME*203.00/19.50"
 	},
 	{
 		"name": "ZAPOX",
@@ -212,7 +213,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "ZARFS",
@@ -221,7 +222,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/25/2017",
+		"updated": "01/25/2017"
 	},
 	{
 		"name": "ZARLU",
@@ -230,7 +231,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*LD*115.87/2.53",
+		"updated": "AKN*LD*115.87/2.53"
 	},
 	{
 		"name": "ZARUT",
@@ -239,7 +240,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "LVD*VOR/DME*306.37/42.21",
+		"updated": "LVD*VOR/DME*306.37/42.21"
 	},
 	{
 		"name": "ZATAD",
@@ -248,7 +249,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/11/2007",
+		"updated": "01/11/2007"
 	},
 	{
 		"name": "ZATOS",
@@ -257,7 +258,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/05/2005",
+		"updated": "05/05/2005"
 	},
 	{
 		"name": "ZATSU",
@@ -266,7 +267,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/30/2013",
+		"updated": "04/30/2013"
 	},
 	{
 		"name": "ZAVES",
@@ -275,7 +276,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/06/2009",
+		"updated": "04/06/2009"
 	},
 	{
 		"name": "ZAVIP",
@@ -284,7 +285,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/26/2012",
+		"updated": "03/26/2012"
 	},
 	{
 		"name": "ZAVLO",
@@ -293,7 +294,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SIT*DD*294.85/2.01",
+		"updated": "SIT*DD*294.85/2.01"
 	},
 	{
 		"name": "ZAVOB",
@@ -302,7 +303,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/18/2012",
+		"updated": "07/18/2012"
 	},
 	{
 		"name": "ZAXIM",
@@ -311,7 +312,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/17/2017",
+		"updated": "08/17/2017"
 	},
 	{
 		"name": "ZAXUM",
@@ -320,7 +321,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/08/2009",
+		"updated": "07/08/2009"
 	},
 	{
 		"name": "ZEBAD",
@@ -329,7 +330,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/11/2011",
+		"updated": "12/11/2011"
 	},
 	{
 		"name": "ZEBUV",
@@ -338,7 +339,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "DUT*NDB/DME*032.18/32.03",
+		"updated": "DUT*NDB/DME*032.18/32.03"
 	},
 	{
 		"name": "ZEDAG",
@@ -347,7 +348,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/08/2011",
+		"updated": "07/08/2011"
 	},
 	{
 		"name": "ZEDET",
@@ -356,7 +357,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/03/2007",
+		"updated": "05/03/2007"
 	},
 	{
 		"name": "ZEKAN",
@@ -365,7 +366,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/26/2008",
+		"updated": "08/26/2008"
 	},
 	{
 		"name": "ZEKEG",
@@ -374,7 +375,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BET*VORTAC*066.63/38.65",
+		"updated": "BET*VORTAC*066.63/38.65"
 	},
 	{
 		"name": "ZEKIM",
@@ -383,7 +384,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/04/2003",
+		"updated": "06/04/2003"
 	},
 	{
 		"name": "ZEMDO",
@@ -392,7 +393,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/26/2012",
+		"updated": "07/26/2012"
 	},
 	{
 		"name": "ZEMEM",
@@ -401,7 +402,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "ZEMUP",
@@ -410,7 +411,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/07/2017",
+		"updated": "04/07/2017"
 	},
 	{
 		"name": "ZENAN",
@@ -419,7 +420,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/18/2006",
+		"updated": "09/18/2006"
 	},
 	{
 		"name": "ZENGO",
@@ -428,7 +429,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "ZENIB",
@@ -437,7 +438,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/13/2017",
+		"updated": "07/13/2017"
 	},
 	{
 		"name": "ZENLA",
@@ -446,7 +447,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "EAV*NDB*319.34",
+		"updated": "EAV*NDB*319.34"
 	},
 	{
 		"name": "ZENNA",
@@ -455,7 +456,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/04/2013",
+		"updated": "11/04/2013"
 	},
 	{
 		"name": "ZEPNA",
@@ -464,7 +465,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/11/2011",
+		"updated": "12/11/2011"
 	},
 	{
 		"name": "ZEPOK",
@@ -473,7 +474,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "UNK*VOR/DME*261.49/16.00",
+		"updated": "UNK*VOR/DME*261.49/16.00"
 	},
 	{
 		"name": "ZEREL",
@@ -482,7 +483,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/03/2013",
+		"updated": "07/03/2013"
 	},
 	{
 		"name": "ZEROM",
@@ -491,7 +492,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/14/2016",
+		"updated": "03/14/2016"
 	},
 	{
 		"name": "ZERPU",
@@ -500,7 +501,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/26/2017",
+		"updated": "12/26/2017"
 	},
 	{
 		"name": "ZERUM",
@@ -509,7 +510,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/29/2012",
+		"updated": "11/29/2012"
 	},
 	{
 		"name": "ZESET",
@@ -518,7 +519,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/06/2009",
+		"updated": "04/06/2009"
 	},
 	{
 		"name": "ZESIK",
@@ -527,7 +528,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/12/2014",
+		"updated": "03/12/2014"
 	},
 	{
 		"name": "ZESIL",
@@ -536,7 +537,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/14/2016",
+		"updated": "03/14/2016"
 	},
 	{
 		"name": "ZESKA",
@@ -545,7 +546,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BET*VORTAC*219.78/40.00",
+		"updated": "BET*VORTAC*219.78/40.00"
 	},
 	{
 		"name": "ZETAM",
@@ -554,7 +555,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EIL*TACAN*322.00/14.00",
+		"updated": "EIL*TACAN*322.00/14.00"
 	},
 	{
 		"name": "ZETMO",
@@ -563,7 +564,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/23/2013",
+		"updated": "09/23/2013"
 	},
 	{
 		"name": "ZEVIX",
@@ -572,7 +573,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "ZEVLI",
@@ -581,7 +582,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKW*NDB/DME*223.21/6.80",
+		"updated": "AKW*NDB/DME*223.21/6.80"
 	},
 	{
 		"name": "ZEVMO",
@@ -590,7 +591,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/21/2005",
+		"updated": "06/21/2005"
 	},
 	{
 		"name": "ZEVON",
@@ -599,7 +600,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "PDN*NDB/DME*057.85/34.96",
+		"updated": "PDN*NDB/DME*057.85/34.96"
 	},
 	{
 		"name": "ZEXTU",
@@ -608,7 +609,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BGQ*VORTAC*053.71/40.00",
+		"updated": "BGQ*VORTAC*053.71/40.00"
 	},
 	{
 		"name": "ZIBAL",
@@ -617,7 +618,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/08/2017",
+		"updated": "12/08/2017"
 	},
 	{
 		"name": "ZIBVI",
@@ -626,7 +627,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HOM*VOR/DME*011.24/17.50",
+		"updated": "HOM*VOR/DME*011.24/17.50"
 	},
 	{
 		"name": "ZIDAB",
@@ -635,7 +636,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/13/2014",
+		"updated": "03/13/2014"
 	},
 	{
 		"name": "ZIDHI",
@@ -644,7 +645,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/06/2014",
+		"updated": "01/06/2014"
 	},
 	{
 		"name": "ZIDMU",
@@ -653,7 +654,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/14/2014",
+		"updated": "03/14/2014"
 	},
 	{
 		"name": "ZIDOR",
@@ -662,7 +663,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ORT*VORTAC*221.63/20.00",
+		"updated": "ORT*VORTAC*221.63/20.00"
 	},
 	{
 		"name": "ZIDOV",
@@ -671,7 +672,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/18/2014",
+		"updated": "11/18/2014"
 	},
 	{
 		"name": "ZIDVA",
@@ -680,7 +681,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENA*VOR/DME*131.97/9.40",
+		"updated": "ENA*VOR/DME*131.97/9.40"
 	},
 	{
 		"name": "ZIGIR",
@@ -689,7 +690,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/27/2014",
+		"updated": "02/27/2014"
 	},
 	{
 		"name": "ZIHCE",
@@ -698,7 +699,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/28/2008",
+		"updated": "07/28/2008"
 	},
 	{
 		"name": "ZIKBO",
@@ -707,7 +708,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/05/2014",
+		"updated": "12/05/2014"
 	},
 	{
 		"name": "ZIKEF",
@@ -716,7 +717,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/03/2010",
+		"updated": "06/03/2010"
 	},
 	{
 		"name": "ZIKLA",
@@ -725,7 +726,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/07/2017",
+		"updated": "04/07/2017"
 	},
 	{
 		"name": "ZILAR",
@@ -734,7 +735,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/26/2008",
+		"updated": "08/26/2008"
 	},
 	{
 		"name": "ZILIP",
@@ -743,7 +744,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "ZILKO",
@@ -752,7 +753,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "PDN*NDB/DME*012.43/49.97",
+		"updated": "PDN*NDB/DME*012.43/49.97"
 	},
 	{
 		"name": "ZIMEB",
@@ -761,7 +762,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "ZIMIV",
@@ -770,7 +771,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "FAI*VORTAC*025.60/33.00",
+		"updated": "FAI*VORTAC*025.60/33.00"
 	},
 	{
 		"name": "ZIMUR",
@@ -779,7 +780,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "JOH*VOR/DME*272.81/14.00",
+		"updated": "JOH*VOR/DME*272.81/14.00"
 	},
 	{
 		"name": "ZINAM",
@@ -788,7 +789,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/15/2010",
+		"updated": "11/15/2010"
 	},
 	{
 		"name": "ZINDO",
@@ -797,7 +798,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/05/2011",
+		"updated": "10/05/2011"
 	},
 	{
 		"name": "ZINEV",
@@ -806,7 +807,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/13/2014",
+		"updated": "06/13/2014"
 	},
 	{
 		"name": "ZINIV",
@@ -815,7 +816,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/01/2005",
+		"updated": "09/01/2005"
 	},
 	{
 		"name": "ZIPIB",
@@ -824,7 +825,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "ZIPIE",
@@ -833,7 +834,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/27/2014",
+		"updated": "10/27/2014"
 	},
 	{
 		"name": "ZIPPS",
@@ -842,7 +843,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENA*VOR/DME*198.23/14.00",
+		"updated": "ENA*VOR/DME*198.23/14.00"
 	},
 	{
 		"name": "ZIPYU",
@@ -851,7 +852,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/05/2014",
+		"updated": "12/05/2014"
 	},
 	{
 		"name": "ZIRBI",
@@ -860,7 +861,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/05/2011",
+		"updated": "10/05/2011"
 	},
 	{
 		"name": "ZIREK",
@@ -869,7 +870,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EIL*TACAN*133.17/8.39",
+		"updated": "EIL*TACAN*133.17/8.39"
 	},
 	{
 		"name": "ZIREN",
@@ -878,7 +879,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/18/2014",
+		"updated": "11/18/2014"
 	},
 	{
 		"name": "ZIROD",
@@ -887,7 +888,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/27/2005",
+		"updated": "06/27/2005"
 	},
 	{
 		"name": "ZISLA",
@@ -896,7 +897,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/25/2017",
+		"updated": "01/25/2017"
 	},
 	{
 		"name": "ZIVGO",
@@ -905,7 +906,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/02/2014",
+		"updated": "06/02/2014"
 	},
 	{
 		"name": "ZIVTO",
@@ -914,7 +915,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/26/2017",
+		"updated": "12/26/2017"
 	},
 	{
 		"name": "ZIXUM",
@@ -923,7 +924,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/27/2014",
+		"updated": "10/27/2014"
 	},
 	{
 		"name": "ZOBVA",
@@ -932,7 +933,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/25/2017",
+		"updated": "01/25/2017"
 	},
 	{
 		"name": "ZODEL",
@@ -941,7 +942,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/08/2011",
+		"updated": "07/08/2011"
 	},
 	{
 		"name": "ZOGBI",
@@ -950,7 +951,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/01/2014",
+		"updated": "05/01/2014"
 	},
 	{
 		"name": "ZOGMA",
@@ -959,7 +960,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/16/2009",
+		"updated": "12/16/2009"
 	},
 	{
 		"name": "ZOGTA",
@@ -968,7 +969,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/27/2009",
+		"updated": "04/27/2009"
 	},
 	{
 		"name": "ZOKIX",
@@ -977,7 +978,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/01/2006",
+		"updated": "11/01/2006"
 	},
 	{
 		"name": "ZOLKO",
@@ -986,7 +987,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/11/2008",
+		"updated": "06/11/2008"
 	},
 	{
 		"name": "ZOLOR",
@@ -995,7 +996,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "ZOMBY",
@@ -1004,7 +1005,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HSL*VOR/DME*151.87/58.90",
+		"updated": "HSL*VOR/DME*151.87/58.90"
 	},
 	{
 		"name": "ZOMIL",
@@ -1013,7 +1014,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "ZOMOK",
@@ -1022,7 +1023,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "ZOMOM",
@@ -1031,7 +1032,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "RGL*DD*273.00/20.00",
+		"updated": "RGL*DD*273.00/20.00"
 	},
 	{
 		"name": "ZONBA",
@@ -1040,7 +1041,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/30/2015",
+		"updated": "06/30/2015"
 	},
 	{
 		"name": "ZONEX",
@@ -1049,7 +1050,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/03/2015",
+		"updated": "04/03/2015"
 	},
 	{
 		"name": "ZONSI",
@@ -1058,7 +1059,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "CDV*LD*095.24/9.82",
+		"updated": "CDV*LD*095.24/9.82"
 	},
 	{
 		"name": "ZOPRY",
@@ -1067,7 +1068,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/22/2016",
+		"updated": "12/22/2016"
 	},
 	{
 		"name": "ZOPUB",
@@ -1076,7 +1077,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*LD*295.84/3.01",
+		"updated": "AKN*LD*295.84/3.01"
 	},
 	{
 		"name": "ZORNA",
@@ -1085,7 +1086,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/09/2013",
+		"updated": "09/09/2013"
 	},
 	{
 		"name": "ZORNI",
@@ -1094,7 +1095,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "DUT*NDB/DME*351.00/2.00",
+		"updated": "DUT*NDB/DME*351.00/2.00"
 	},
 	{
 		"name": "ZOSIV",
@@ -1103,7 +1104,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "ZOSUM",
@@ -1112,7 +1113,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "TAL*VOR/DME*226.00/12.00",
+		"updated": "TAL*VOR/DME*226.00/12.00"
 	},
 	{
 		"name": "ZOTOR",
@@ -1121,7 +1122,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OTZ*VOR/DME*076.81/12.00",
+		"updated": "OTZ*VOR/DME*076.81/12.00"
 	},
 	{
 		"name": "ZOXIL",
@@ -1130,7 +1131,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HOM*LE*038.03/6.66",
+		"updated": "HOM*LE*038.03/6.66"
 	},
 	{
 		"name": "ZOXIM",
@@ -1139,7 +1140,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/26/2012",
+		"updated": "03/26/2012"
 	},
 	{
 		"name": "ZOXIS",
@@ -1148,7 +1149,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "03/09/2016",
+		"updated": "03/09/2016"
 	},
 	{
 		"name": "ZOXIV",
@@ -1157,7 +1158,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "ZOXNE",
@@ -1166,7 +1167,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/07/2014",
+		"updated": "07/07/2014"
 	},
 	{
 		"name": "ZOXOP",
@@ -1175,7 +1176,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/23/2016",
+		"updated": "11/23/2016"
 	},
 	{
 		"name": "ZOXOR",
@@ -1184,7 +1185,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "06/03/2011",
+		"updated": "06/03/2011"
 	},
 	{
 		"name": "ZUBMA",
@@ -1193,7 +1194,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/23/2007",
+		"updated": "01/23/2007"
 	},
 	{
 		"name": "ZUBUR",
@@ -1202,7 +1203,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/23/2007",
+		"updated": "01/23/2007"
 	},
 	{
 		"name": "ZUDAL",
@@ -1211,7 +1212,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/23/2007",
+		"updated": "01/23/2007"
 	},
 	{
 		"name": "ZUDBO",
@@ -1220,7 +1221,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/09/2011",
+		"updated": "11/09/2011"
 	},
 	{
 		"name": "ZUDNO",
@@ -1229,7 +1230,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "12/09/2013",
+		"updated": "12/09/2013"
 	},
 	{
 		"name": "ZUDRO",
@@ -1238,7 +1239,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "ZUDUM",
@@ -1247,7 +1248,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/25/2013",
+		"updated": "06/25/2013"
 	},
 	{
 		"name": "ZUGRU",
@@ -1256,7 +1257,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SSR*VORTAC*038.12/7.00",
+		"updated": "SSR*VORTAC*038.12/7.00"
 	},
 	{
 		"name": "ZUHXY",
@@ -1265,7 +1266,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/12/2004",
+		"updated": "07/12/2004"
 	},
 	{
 		"name": "ZUKES",
@@ -1274,7 +1275,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/06/2004",
+		"updated": "05/06/2004"
 	},
 	{
 		"name": "ZUKNU",
@@ -1283,7 +1284,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/25/2017",
+		"updated": "01/25/2017"
 	},
 	{
 		"name": "ZULIL",
@@ -1292,7 +1293,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "01/03/2013",
+		"updated": "01/03/2013"
 	},
 	{
 		"name": "ZUMAR",
@@ -1301,7 +1302,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/04/2006",
+		"updated": "12/04/2006"
 	},
 	{
 		"name": "ZUMEL",
@@ -1310,7 +1311,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HSL*VOR/DME*182.15/10.00",
+		"updated": "HSL*VOR/DME*182.15/10.00"
 	},
 	{
 		"name": "ZUMUN",
@@ -1319,7 +1320,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/12/2007",
+		"updated": "04/12/2007"
 	},
 	{
 		"name": "ZUNOS",
@@ -1328,7 +1329,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*VORTAC*332.27",
+		"updated": "AKN*VORTAC*332.27"
 	},
 	{
 		"name": "ZUPAK",
@@ -1337,7 +1338,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/12/2004",
+		"updated": "07/12/2004"
 	},
 	{
 		"name": "ZUPAL",
@@ -1346,7 +1347,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/14/2006",
+		"updated": "11/14/2006"
 	},
 	{
 		"name": "ZUPAR",
@@ -1355,7 +1356,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/08/2011",
+		"updated": "07/08/2011"
 	},
 	{
 		"name": "ZUPVO",
@@ -1364,7 +1365,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "FYU*VORTAC*055.99/1.07",
+		"updated": "FYU*VORTAC*055.99/1.07"
 	},
 	{
 		"name": "ZUREP",
@@ -1373,7 +1374,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "FAI*LD*020.08/17.01",
+		"updated": "FAI*LD*020.08/17.01"
 	},
 	{
 		"name": "ZUSEK",
@@ -1382,7 +1383,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ANI*LD*109.18/1.71",
+		"updated": "ANI*LD*109.18/1.71"
 	},
 	{
 		"name": "ZUSID",
@@ -1391,7 +1392,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "ZUSIT",
@@ -1400,7 +1401,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "CN",
-		"updated": "11/28/2006",
+		"updated": "11/28/2006"
 	},
 	{
 		"name": "ZUSPA",
@@ -1409,7 +1410,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/28/2004",
+		"updated": "12/28/2004"
 	},
 	{
 		"name": "ZUSRA",
@@ -1418,7 +1419,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/01/2006",
+		"updated": "08/01/2006"
 	},
 	{
 		"name": "ZUSTU",
@@ -1427,7 +1428,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/06/2008",
+		"updated": "08/06/2008"
 	},
 	{
 		"name": "ZUTAB",
@@ -1436,7 +1437,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/18/2014",
+		"updated": "11/18/2014"
 	},
 	{
 		"name": "ZUTEB",
@@ -1445,7 +1446,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/26/2006",
+		"updated": "05/26/2006"
 	},
 	{
 		"name": "ZUTKU",
@@ -1454,7 +1455,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/27/2013",
+		"updated": "06/27/2013"
 	},
 	{
 		"name": "ZUTLI",
@@ -1463,7 +1464,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/10/2013",
+		"updated": "06/10/2013"
 	},
 	{
 		"name": "ZUTMU",
@@ -1472,7 +1473,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/01/2005",
+		"updated": "09/01/2005"
 	},
 	{
 		"name": "ZUTOR",
@@ -1481,7 +1482,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/28/2015",
+		"updated": "10/28/2015"
 	},
 	{
 		"name": "ZUTSU",
@@ -1490,7 +1491,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OME*VOR/DME*093.52/10.05",
+		"updated": "OME*VOR/DME*093.52/10.05"
 	},
 	{
 		"name": "ZUVHO",
@@ -1499,7 +1500,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/29/2016",
+		"updated": "09/29/2016"
 	},
 	{
 		"name": "ZUVOD",
@@ -1508,7 +1509,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/22/2005",
+		"updated": "12/22/2005"
 	},
 	{
 		"name": "ZUVOV",
@@ -1517,7 +1518,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/01/2005",
+		"updated": "09/01/2005"
 	},
 	{
 		"name": "ZUVUB",
@@ -1526,7 +1527,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/05/2005",
+		"updated": "07/05/2005"
 	},
 	{
 		"name": "ZUVUT",
@@ -1535,7 +1536,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "ZUXAN",
@@ -1544,7 +1545,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/11/2011",
+		"updated": "12/11/2011"
 	},
 	{
 		"name": "ZUXOK",
@@ -1553,7 +1554,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/24/2009",
+		"updated": "11/24/2009"
 	},
 	{
 		"name": "ZUXUN",
@@ -1562,7 +1563,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ADK*NDB/DME*/2.81",
+		"updated": "ADK*NDB/DME*/2.81"
 	},
 	{
 		"name": "ZUYEB",
@@ -1571,5 +1572,6 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/03/2008",
-	},
+		"updated": "03/03/2008"
+	}
+]

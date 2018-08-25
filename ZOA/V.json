@@ -1,3 +1,4 @@
+[
 	{
 		"name": "VACIA",
 		"latitude": "39-20-52.25 N",
@@ -5,7 +6,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/04/2017",
+		"updated": "08/04/2017"
 	},
 	{
 		"name": "VACNU",
@@ -14,7 +15,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "VANCE",
@@ -23,7 +24,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "VASPE",
@@ -32,7 +33,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "VAVEE",
@@ -41,7 +42,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "03/28/1994",
+		"updated": "03/28/1994"
 	},
 	{
 		"name": "VAYUD",
@@ -50,7 +51,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "MW",
-		"updated": "11/12/2008",
+		"updated": "11/12/2008"
 	},
 	{
 		"name": "VEBCU",
@@ -59,7 +60,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "10/25/2013",
+		"updated": "10/25/2013"
 	},
 	{
 		"name": "VECEM",
@@ -68,7 +69,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "04/12/2010",
+		"updated": "04/12/2010"
 	},
 	{
 		"name": "VEINY",
@@ -77,7 +78,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/02/2016",
+		"updated": "06/02/2016"
 	},
 	{
 		"name": "VERDI",
@@ -86,7 +87,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SWR*VOR/DME*026.00",
+		"updated": "SWR*VOR/DME*026.00"
 	},
 	{
 		"name": "VESPA",
@@ -95,7 +96,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "08/27/2003",
+		"updated": "08/27/2003"
 	},
 	{
 		"name": "VESTT",
@@ -104,7 +105,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/07/2010",
+		"updated": "07/07/2010"
 	},
 	{
 		"name": "VICOR",
@@ -113,7 +114,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/04/2004",
+		"updated": "06/04/2004"
 	},
 	{
 		"name": "VIGCE",
@@ -122,7 +123,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "05/11/2017",
+		"updated": "05/11/2017"
 	},
 	{
 		"name": "VIJIX",
@@ -131,7 +132,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/13/2008",
+		"updated": "08/13/2008"
 	},
 	{
 		"name": "VIKES",
@@ -140,7 +141,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SWR*VOR/DME*062.00/32.40",
+		"updated": "SWR*VOR/DME*062.00/32.40"
 	},
 	{
 		"name": "VIKSN",
@@ -149,7 +150,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "09/19/2014",
+		"updated": "09/19/2014"
 	},
 	{
 		"name": "VIKYU",
@@ -158,7 +159,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SFO*VOR/DME*281.08/12.00",
+		"updated": "SFO*VOR/DME*281.08/12.00"
 	},
 	{
 		"name": "VILEY",
@@ -167,7 +168,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "02/07/2005",
+		"updated": "02/07/2005"
 	},
 	{
 		"name": "VILIA",
@@ -176,7 +177,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "VIS*VOR/DME*/10.56",
+		"updated": "VIS*VOR/DME*/10.56"
 	},
 	{
 		"name": "VINCO",
@@ -185,7 +186,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SJC*VOR/DME*073.39",
+		"updated": "SJC*VOR/DME*073.39"
 	},
 	{
 		"name": "VINUY",
@@ -194,7 +195,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/19/2004",
+		"updated": "11/19/2004"
 	},
 	{
 		"name": "VISTO",
@@ -203,7 +204,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SAC*VORTAC*176.79/15.41",
+		"updated": "SAC*VORTAC*176.79/15.41"
 	},
 	{
 		"name": "VIVFO",
@@ -212,7 +213,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "VIXGI",
@@ -221,7 +222,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/14/2014",
+		"updated": "11/14/2014"
 	},
 	{
 		"name": "VIZOR",
@@ -230,7 +231,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "03/06/2017",
+		"updated": "03/06/2017"
 	},
 	{
 		"name": "VLLEY",
@@ -239,7 +240,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "VLREE",
@@ -248,7 +249,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/24/2014",
+		"updated": "11/24/2014"
 	},
 	{
 		"name": "VODSY",
@@ -257,7 +258,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/30/2013",
+		"updated": "08/30/2013"
 	},
 	{
 		"name": "VOHBO",
@@ -266,7 +267,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "VOKXY",
@@ -275,7 +276,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "VOLLE",
@@ -284,7 +285,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "VOLTA",
@@ -293,7 +294,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "HYP*VOR/DME*261.99",
+		"updated": "HYP*VOR/DME*261.99"
 	},
 	{
 		"name": "VONXI",
@@ -302,7 +303,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "12/23/2013",
+		"updated": "12/23/2013"
 	},
 	{
 		"name": "VOXNO",
@@ -311,7 +312,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "VPALT",
@@ -320,7 +321,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPANT",
@@ -329,7 +330,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPBBR",
@@ -338,7 +339,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPCAL",
@@ -347,7 +348,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPCBT",
@@ -356,7 +357,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPCOY",
@@ -365,7 +366,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPCQZ",
@@ -374,7 +375,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPCRL",
@@ -383,7 +384,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPCRY",
@@ -392,7 +393,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPCSH",
@@ -401,7 +402,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPDAM",
@@ -410,7 +411,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPDLR",
@@ -419,7 +420,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPDUB",
@@ -428,7 +429,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPEMB",
@@ -437,7 +438,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "08/26/2003",
+		"updated": "08/26/2003"
 	},
 	{
 		"name": "VPGGF",
@@ -446,7 +447,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPGIL",
@@ -455,7 +456,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPKBG",
@@ -464,7 +465,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "09/28/2006",
+		"updated": "09/28/2006"
 	},
 	{
 		"name": "VPKGO",
@@ -473,7 +474,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPLEX",
@@ -482,7 +483,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPMID",
@@ -491,7 +492,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPMOR",
@@ -500,7 +501,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPNUM",
@@ -509,7 +510,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPPAC",
@@ -518,7 +519,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPPRU",
@@ -527,7 +528,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPSAR",
@@ -536,7 +537,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPSLA",
@@ -545,7 +546,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPSTB",
@@ -554,7 +555,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPSUN",
@@ -563,7 +564,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPUTC",
@@ -572,7 +573,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPWAL",
@@ -581,7 +582,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPWAM",
@@ -590,7 +591,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VPWFR",
@@ -599,7 +600,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "VFR",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "VRMIT",
@@ -608,7 +609,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "09/16/2016",
+		"updated": "09/16/2016"
 	},
 	{
 		"name": "VRONA",
@@ -617,7 +618,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "ILA*VORTAC*086.00/21.78",
+		"updated": "ILA*VORTAC*086.00/21.78"
 	},
 	{
 		"name": "VUJOR",
@@ -626,7 +627,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/06/2009",
+		"updated": "07/06/2009"
 	},
 	{
 		"name": "VYYDA",
@@ -635,5 +636,6 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/24/2014",
-	},
+		"updated": "11/24/2014"
+	}
+]

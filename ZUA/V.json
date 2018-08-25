@@ -1,3 +1,4 @@
+[
 	{
 		"name": "VEAGA",
 		"latitude": "13-26-6.54 N",
@@ -5,5 +6,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UNZ*VORTAC*232.58/2.00",
-	},
+		"updated": "UNZ*VORTAC*232.58/2.00"
+	}
+]

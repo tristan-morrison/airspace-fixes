@@ -1,3 +1,4 @@
+[
 	{
 		"name": "QEENB",
 		"latitude": "32-12-40.36 N",
@@ -5,7 +6,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/16/2013",
+		"updated": "07/16/2013"
 	},
 	{
 		"name": "QIBEK",
@@ -14,7 +15,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "QUADZ",
@@ -23,7 +24,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MAF*VORTAC*046.76/17.00",
+		"updated": "MAF*VORTAC*046.76/17.00"
 	},
 	{
 		"name": "QUAFF",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TYR*VOR/DME*/15.07",
+		"updated": "TYR*VOR/DME*/15.07"
 	},
 	{
 		"name": "QUAKE",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/06/2015",
+		"updated": "08/06/2015"
 	},
 	{
 		"name": "QUARE",
@@ -50,7 +51,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/13/2014",
+		"updated": "07/13/2014"
 	},
 	{
 		"name": "QUYNN",
@@ -59,7 +60,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/09/2014",
+		"updated": "07/09/2014"
 	},
 	{
 		"name": "QWAKE",
@@ -68,5 +69,6 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/28/2014",
-	},
+		"updated": "05/28/2014"
+	}
+]

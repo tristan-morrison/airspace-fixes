@@ -1,3 +1,4 @@
+[
 	{
 		"name": "UYHEW",
 		"latitude": "15-2-58.64 N",
@@ -5,5 +6,6 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "SN*NDB*216.23",
-	},
+		"updated": "SN*NDB*216.23"
+	}
+]

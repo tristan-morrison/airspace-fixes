@@ -1,3 +1,4 @@
+[
 	{
 		"name": "JAAWS",
 		"latitude": "18-58-42.03 N",
@@ -5,7 +6,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "BQN*VORTAC*058.30",
+		"updated": "BQN*VORTAC*058.30"
 	},
 	{
 		"name": "JAMIX",
@@ -14,7 +15,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "01/24/2001",
+		"updated": "01/24/2001"
 	},
 	{
 		"name": "JANER",
@@ -23,7 +24,7 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*097.00/67.04",
+		"updated": "SJU*VORTAC*097.00/67.04"
 	},
 	{
 		"name": "JAQYY",
@@ -32,7 +33,7 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "TMN*LD*280.45/7.52",
+		"updated": "TMN*LD*280.45/7.52"
 	},
 	{
 		"name": "JAVIE",
@@ -41,7 +42,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "01/21/2015",
+		"updated": "01/21/2015"
 	},
 	{
 		"name": "JETSS",
@@ -50,7 +51,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*080.00/38.05",
+		"updated": "SJU*VORTAC*080.00/38.05"
 	},
 	{
 		"name": "JEYBU",
@@ -59,7 +60,7 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "03/06/2006",
+		"updated": "03/06/2006"
 	},
 	{
 		"name": "JIREG",
@@ -68,7 +69,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "08/16/2006",
+		"updated": "08/16/2006"
 	},
 	{
 		"name": "JOMBI",
@@ -77,7 +78,7 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "10/21/2008",
+		"updated": "10/21/2008"
 	},
 	{
 		"name": "JONIB",
@@ -86,7 +87,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*/2.31",
+		"updated": "SJU*VORTAC*/2.31"
 	},
 	{
 		"name": "JORIL",
@@ -95,7 +96,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*/9.10",
+		"updated": "SJU*VORTAC*/9.10"
 	},
 	{
 		"name": "JOSHE",
@@ -104,7 +105,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "MAZ*VOR/DME*101.20/37.13",
+		"updated": "MAZ*VOR/DME*101.20/37.13"
 	},
 	{
 		"name": "JUICE",
@@ -113,7 +114,7 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "PJM*VOR/DME*292.15/31.83",
+		"updated": "PJM*VOR/DME*292.15/31.83"
 	},
 	{
 		"name": "JUNTA",
@@ -122,5 +123,6 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "WP",
-		"updated": "11/02/1998",
-	},
+		"updated": "11/02/1998"
+	}
+]

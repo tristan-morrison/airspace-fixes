@@ -1,3 +1,4 @@
+[
 	{
 		"name": "PAATS",
 		"latitude": "39-23-17.01 N",
@@ -5,7 +6,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ENO*VORTAC*355.82",
+		"updated": "ENO*VORTAC*355.82"
 	},
 	{
 		"name": "PACIV",
@@ -14,7 +15,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/28/2007",
+		"updated": "08/28/2007"
 	},
 	{
 		"name": "PACKE",
@@ -23,7 +24,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/09/2015",
+		"updated": "01/09/2015"
 	},
 	{
 		"name": "PACKS",
@@ -32,7 +33,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/08/2012",
+		"updated": "02/08/2012"
 	},
 	{
 		"name": "PADDY",
@@ -41,7 +42,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "VCN*VOR/DME*167.15/15.00",
+		"updated": "VCN*VOR/DME*167.15/15.00"
 	},
 	{
 		"name": "PADGE",
@@ -50,7 +51,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NGU*TACAN*228.00/22.00",
+		"updated": "NGU*TACAN*228.00/22.00"
 	},
 	{
 		"name": "PADOH",
@@ -59,7 +60,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "PAINS",
@@ -68,7 +69,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "PAKBE",
@@ -77,7 +78,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/17/2011",
+		"updated": "11/17/2011"
 	},
 	{
 		"name": "PAKSE",
@@ -86,7 +87,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "PALEO",
@@ -95,7 +96,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BAL*VORTAC*133.38/15.97",
+		"updated": "BAL*VORTAC*133.38/15.97"
 	},
 	{
 		"name": "PALET",
@@ -104,7 +105,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CYN*VORTAC*053.89/6.40",
+		"updated": "CYN*VORTAC*053.89/6.40"
 	},
 	{
 		"name": "PALME",
@@ -113,7 +114,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "ARD*VOR/DME*207.10/14.30",
+		"updated": "ARD*VOR/DME*207.10/14.30"
 	},
 	{
 		"name": "PALMM",
@@ -122,7 +123,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ENO*VORTAC*225.54/7.00",
+		"updated": "ENO*VORTAC*225.54/7.00"
 	},
 	{
 		"name": "PANLE",
@@ -131,7 +132,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HCM*VORTAC*127.64",
+		"updated": "HCM*VORTAC*127.64"
 	},
 	{
 		"name": "PANZE",
@@ -140,7 +141,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CYN*VORTAC*134.71",
+		"updated": "CYN*VORTAC*134.71"
 	},
 	{
 		"name": "PARJR",
@@ -149,7 +150,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "DQO*VORTAC*080.95/11.86",
+		"updated": "DQO*VORTAC*080.95/11.86"
 	},
 	{
 		"name": "PARTE",
@@ -158,7 +159,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ODR*VOR*155.00",
+		"updated": "ODR*VOR*155.00"
 	},
 	{
 		"name": "PATCI",
@@ -167,7 +168,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "04/26/2010",
+		"updated": "04/26/2010"
 	},
 	{
 		"name": "PAUKI",
@@ -176,7 +177,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "DCA*VOR/DME*246.00/80.00",
+		"updated": "DCA*VOR/DME*246.00/80.00"
 	},
 	{
 		"name": "PAYEN",
@@ -185,7 +186,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/13/2017",
+		"updated": "02/13/2017"
 	},
 	{
 		"name": "PEAAY",
@@ -194,7 +195,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ORF*LD*226.79/6.26",
+		"updated": "ORF*LD*226.79/6.26"
 	},
 	{
 		"name": "PEAPS",
@@ -203,7 +204,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ATR*VOR/DME*032.98/15.23",
+		"updated": "ATR*VOR/DME*032.98/15.23"
 	},
 	{
 		"name": "PEARC",
@@ -212,7 +213,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "JYO*LD*351.29/3.40",
+		"updated": "JYO*LD*351.29/3.40"
 	},
 	{
 		"name": "PEARS",
@@ -221,7 +222,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ORF*VORTAC*216.00",
+		"updated": "ORF*VORTAC*216.00"
 	},
 	{
 		"name": "PEATA",
@@ -230,7 +231,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/23/2013",
+		"updated": "12/23/2013"
 	},
 	{
 		"name": "PEAVY",
@@ -239,7 +240,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/07/2012",
+		"updated": "11/07/2012"
 	},
 	{
 		"name": "PECIT",
@@ -248,7 +249,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "RDU*LD*234.14/13.47",
+		"updated": "RDU*LD*234.14/13.47"
 	},
 	{
 		"name": "PEEBE",
@@ -257,7 +258,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ROA*VOR/DME*321.42/30.56",
+		"updated": "ROA*VOR/DME*321.42/30.56"
 	},
 	{
 		"name": "PEEDS",
@@ -266,7 +267,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BAL*VORTAC*105.99",
+		"updated": "BAL*VORTAC*105.99"
 	},
 	{
 		"name": "PEEGE",
@@ -275,7 +276,7 @@
 		"state": "DIST. OF COLUMBIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "AML*VOR/DME*091.41/19.20",
+		"updated": "AML*VOR/DME*091.41/19.20"
 	},
 	{
 		"name": "PEETT",
@@ -284,7 +285,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/16/2014",
+		"updated": "01/16/2014"
 	},
 	{
 		"name": "PEFOC",
@@ -293,7 +294,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/07/2014",
+		"updated": "08/07/2014"
 	},
 	{
 		"name": "PEGBY",
@@ -302,7 +303,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "RIC*VORTAC*018.29/35.00",
+		"updated": "RIC*VORTAC*018.29/35.00"
 	},
 	{
 		"name": "PEKIC",
@@ -311,7 +312,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "05/27/2005",
+		"updated": "05/27/2005"
 	},
 	{
 		"name": "PEKME",
@@ -320,7 +321,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/16/2003",
+		"updated": "04/16/2003"
 	},
 	{
 		"name": "PEKNN",
@@ -329,7 +330,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "CTF*VOR/DME*033.45",
+		"updated": "CTF*VOR/DME*033.45"
 	},
 	{
 		"name": "PELTO",
@@ -338,7 +339,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HPW*VORTAC*197.94/87.16",
+		"updated": "HPW*VORTAC*197.94/87.16"
 	},
 	{
 		"name": "PELTS",
@@ -347,7 +348,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/29/2016",
+		"updated": "03/29/2016"
 	},
 	{
 		"name": "PEPAE",
@@ -356,7 +357,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "NKT*LD*054.49/2.90",
+		"updated": "NKT*LD*054.49/2.90"
 	},
 	{
 		"name": "PEPKE",
@@ -365,7 +366,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/16/2010",
+		"updated": "08/16/2010"
 	},
 	{
 		"name": "PEPRR",
@@ -374,7 +375,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "AML*VOR/DME*/11.12",
+		"updated": "AML*VOR/DME*/11.12"
 	},
 	{
 		"name": "PERKN",
@@ -383,7 +384,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/16/2014",
+		"updated": "12/16/2014"
 	},
 	{
 		"name": "PERKS",
@@ -392,7 +393,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HVQ*VOR/DME*078.54/77.41",
+		"updated": "HVQ*VOR/DME*078.54/77.41"
 	},
 	{
 		"name": "PERRI",
@@ -401,7 +402,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HVQ*VOR/DME*095.13/69.00",
+		"updated": "HVQ*VOR/DME*095.13/69.00"
 	},
 	{
 		"name": "PERSON",
@@ -410,7 +411,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HUR*NDB*000.00",
+		"updated": "HUR*NDB*000.00"
 	},
 	{
 		"name": "PERTE",
@@ -419,7 +420,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/26/2007",
+		"updated": "06/26/2007"
 	},
 	{
 		"name": "PETEF",
@@ -428,7 +429,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "IYQ*DD*E CRS/5.00",
+		"updated": "IYQ*DD*E CRS/5.00"
 	},
 	{
 		"name": "PEWFE",
@@ -437,7 +438,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/14/2009",
+		"updated": "09/14/2009"
 	},
 	{
 		"name": "PEZSY",
@@ -446,7 +447,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/26/2012",
+		"updated": "11/26/2012"
 	},
 	{
 		"name": "PFAIR",
@@ -455,7 +456,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/27/2004",
+		"updated": "09/27/2004"
 	},
 	{
 		"name": "PHATT",
@@ -464,7 +465,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/30/2015",
+		"updated": "06/30/2015"
 	},
 	{
 		"name": "PHERB",
@@ -473,7 +474,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/11/2015",
+		"updated": "03/11/2015"
 	},
 	{
 		"name": "PHILB",
@@ -482,7 +483,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/13/2006",
+		"updated": "04/13/2006"
 	},
 	{
 		"name": "PHLIP",
@@ -491,7 +492,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/04/2012",
+		"updated": "09/04/2012"
 	},
 	{
 		"name": "PHNTM",
@@ -500,7 +501,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "GSB*TACAN*261.49/20.00",
+		"updated": "GSB*TACAN*261.49/20.00"
 	},
 	{
 		"name": "PHOOW",
@@ -509,7 +510,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/02/2013",
+		"updated": "05/02/2013"
 	},
 	{
 		"name": "PICKE",
@@ -518,7 +519,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CYN*VORTAC*054.48/15.68",
+		"updated": "CYN*VORTAC*054.48/15.68"
 	},
 	{
 		"name": "PIDEE",
@@ -527,7 +528,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ISO*VORTAC*054.88/27.20",
+		"updated": "ISO*VORTAC*054.88/27.20"
 	},
 	{
 		"name": "PIDKE",
@@ -536,7 +537,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NCA*TACAN*201.00/12.00",
+		"updated": "NCA*TACAN*201.00/12.00"
 	},
 	{
 		"name": "PIDVE",
@@ -545,7 +546,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/20/2012",
+		"updated": "12/20/2012"
 	},
 	{
 		"name": "PIGBE",
@@ -554,7 +555,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/20/2009",
+		"updated": "05/20/2009"
 	},
 	{
 		"name": "PIGGS",
@@ -563,7 +564,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ROA*VOR/DME*148.82/29.99",
+		"updated": "ROA*VOR/DME*148.82/29.99"
 	},
 	{
 		"name": "PILOE",
@@ -572,7 +573,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "PINEY",
@@ -581,7 +582,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/10/2017",
+		"updated": "10/10/2017"
 	},
 	{
 		"name": "PJAAE",
@@ -590,7 +591,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/16/2013",
+		"updated": "05/16/2013"
 	},
 	{
 		"name": "PLDGE",
@@ -599,7 +600,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "PLEXI",
@@ -608,7 +609,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "DAN*VOR*265.00",
+		"updated": "DAN*VOR*265.00"
 	},
 	{
 		"name": "PLNZR",
@@ -617,7 +618,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "PXT*VORTAC*175.00/17.42",
+		"updated": "PXT*VORTAC*175.00/17.42"
 	},
 	{
 		"name": "PLUMO",
@@ -626,7 +627,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "LFI*TACAN*082.55/12.00",
+		"updated": "LFI*TACAN*082.55/12.00"
 	},
 	{
 		"name": "POBDE",
@@ -635,7 +636,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/13/2016",
+		"updated": "07/13/2016"
 	},
 	{
 		"name": "POBIC",
@@ -644,7 +645,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "POCAB",
@@ -653,7 +654,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/21/2014",
+		"updated": "02/21/2014"
 	},
 	{
 		"name": "POGKI",
@@ -662,7 +663,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/07/2005",
+		"updated": "09/07/2005"
 	},
 	{
 		"name": "POHIC",
@@ -671,7 +672,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/03/2009",
+		"updated": "11/03/2009"
 	},
 	{
 		"name": "POHIK",
@@ -680,7 +681,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/16/2014",
+		"updated": "12/16/2014"
 	},
 	{
 		"name": "POKEY",
@@ -689,7 +690,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "OOD*VORTAC*024.00/8.60",
+		"updated": "OOD*VORTAC*024.00/8.60"
 	},
 	{
 		"name": "POKIY",
@@ -698,7 +699,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BRV*VORTAC*314.42/5.70",
+		"updated": "BRV*VORTAC*314.42/5.70"
 	},
 	{
 		"name": "POLKK",
@@ -707,7 +708,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "05/11/2015",
+		"updated": "05/11/2015"
 	},
 	{
 		"name": "POLLA",
@@ -716,7 +717,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ADW*VORTAC*070.00/15.45",
+		"updated": "ADW*VORTAC*070.00/15.45"
 	},
 	{
 		"name": "PONDE",
@@ -725,7 +726,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "CYN*VORTAC*319.42",
+		"updated": "CYN*VORTAC*319.42"
 	},
 	{
 		"name": "PONSY",
@@ -734,7 +735,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/23/2013",
+		"updated": "12/23/2013"
 	},
 	{
 		"name": "POOCH",
@@ -743,7 +744,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/04/2016",
+		"updated": "04/04/2016"
 	},
 	{
 		"name": "POOLE",
@@ -752,7 +753,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "MRB*VORTAC*137.00",
+		"updated": "MRB*VORTAC*137.00"
 	},
 	{
 		"name": "POORK",
@@ -761,7 +762,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/03/2009",
+		"updated": "02/03/2009"
 	},
 	{
 		"name": "POSTY",
@@ -770,7 +771,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NCA*TACAN*019.00/0.50",
+		"updated": "NCA*TACAN*019.00/0.50"
 	},
 	{
 		"name": "POVAE",
@@ -779,7 +780,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/21/2003",
+		"updated": "05/21/2003"
 	},
 	{
 		"name": "POWLL",
@@ -788,7 +789,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "08/02/2016",
+		"updated": "08/02/2016"
 	},
 	{
 		"name": "POWTN",
@@ -797,7 +798,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/10/2014",
+		"updated": "11/10/2014"
 	},
 	{
 		"name": "PREAK",
@@ -806,7 +807,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/23/2015",
+		"updated": "09/23/2015"
 	},
 	{
 		"name": "PREZZ",
@@ -815,7 +816,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "ADW*VORTAC*190.77/13.00",
+		"updated": "ADW*VORTAC*190.77/13.00"
 	},
 	{
 		"name": "PRICE",
@@ -824,7 +825,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BAL*VORTAC*108.00/38.17",
+		"updated": "BAL*VORTAC*108.00/38.17"
 	},
 	{
 		"name": "PRILL",
@@ -833,7 +834,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NHK*TACAN*327.00/3.60",
+		"updated": "NHK*TACAN*327.00/3.60"
 	},
 	{
 		"name": "PRISM",
@@ -842,7 +843,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/24/2015",
+		"updated": "08/24/2015"
 	},
 	{
 		"name": "PROFS",
@@ -851,7 +852,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/09/2016",
+		"updated": "06/09/2016"
 	},
 	{
 		"name": "PROSE",
@@ -860,7 +861,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ROA*VOR/DME*069.68/18.00",
+		"updated": "ROA*VOR/DME*069.68/18.00"
 	},
 	{
 		"name": "PRSTN",
@@ -869,7 +870,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "DMP*LD*054.16/13.21",
+		"updated": "DMP*LD*054.16/13.21"
 	},
 	{
 		"name": "PRSTY",
@@ -878,7 +879,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ACY*LD*128.01/6.71",
+		"updated": "ACY*LD*128.01/6.71"
 	},
 	{
 		"name": "PSALM",
@@ -887,7 +888,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ORF*VORTAC*233.39/19.28",
+		"updated": "ORF*VORTAC*233.39/19.28"
 	},
 	{
 		"name": "PSOUT",
@@ -896,7 +897,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/06/2012",
+		"updated": "04/06/2012"
 	},
 	{
 		"name": "PTOMC",
@@ -905,7 +906,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/07/2014",
+		"updated": "04/07/2014"
 	},
 	{
 		"name": "PUBBS",
@@ -914,7 +915,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HPW*VORTAC*276.39",
+		"updated": "HPW*VORTAC*276.39"
 	},
 	{
 		"name": "PUFFE",
@@ -923,7 +924,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "ADW*VORTAC*/6.14",
+		"updated": "ADW*VORTAC*/6.14"
 	},
 	{
 		"name": "PUGLE",
@@ -932,7 +933,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/04/2015",
+		"updated": "05/04/2015"
 	},
 	{
 		"name": "PUJKE",
@@ -941,7 +942,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/03/2011",
+		"updated": "01/03/2011"
 	},
 	{
 		"name": "PULDY",
@@ -950,7 +951,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/19/2015",
+		"updated": "10/19/2015"
 	},
 	{
 		"name": "PUNGO",
@@ -959,7 +960,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "EWN*VOR/DME*050.00",
+		"updated": "EWN*VOR/DME*050.00"
 	},
 	{
 		"name": "PURME",
@@ -968,7 +969,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "RDU*LD*234.14/7.50",
+		"updated": "RDU*LD*234.14/7.50"
 	},
 	{
 		"name": "PUTIE",
@@ -977,7 +978,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NTU*TACAN*129.00/10.00",
+		"updated": "NTU*TACAN*129.00/10.00"
 	},
 	{
 		"name": "PUTTR",
@@ -986,7 +987,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "GSB*TACAN*258.00/40.00",
+		"updated": "GSB*TACAN*258.00/40.00"
 	},
 	{
 		"name": "PUTTS",
@@ -995,7 +996,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/31/2000",
+		"updated": "05/31/2000"
 	},
 	{
 		"name": "PUTTY",
@@ -1004,7 +1005,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "03/26/2002",
+		"updated": "03/26/2002"
 	},
 	{
 		"name": "PUXEE",
@@ -1013,7 +1014,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/30/2013",
+		"updated": "10/30/2013"
 	},
 	{
 		"name": "PUYIK",
@@ -1022,7 +1023,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/22/2010",
+		"updated": "11/22/2010"
 	},
 	{
 		"name": "PYTON",
@@ -1031,5 +1032,6 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/23/2017",
-	},
+		"updated": "02/23/2017"
+	}
+]

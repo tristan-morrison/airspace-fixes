@@ -1,3 +1,4 @@
+[
 	{
 		"name": "BAAAB",
 		"latitude": "30-9-30.16 N",
@@ -5,7 +6,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/19/2017",
+		"updated": "10/19/2017"
 	},
 	{
 		"name": "BAAGO",
@@ -14,7 +15,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "RND*VORTAC*143.00/7.50",
+		"updated": "RND*VORTAC*143.00/7.50"
 	},
 	{
 		"name": "BAAKE",
@@ -23,7 +24,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/26/2014",
+		"updated": "03/26/2014"
 	},
 	{
 		"name": "BAATS",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TNV*VOR/DME*015.31",
+		"updated": "TNV*VOR/DME*015.31"
 	},
 	{
 		"name": "BACAC",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/14/2013",
+		"updated": "05/14/2013"
 	},
 	{
 		"name": "BACOK",
@@ -50,7 +51,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/07/1998",
+		"updated": "08/07/1998"
 	},
 	{
 		"name": "BAKAY",
@@ -59,7 +60,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/20/2012",
+		"updated": "06/20/2012"
 	},
 	{
 		"name": "BALKK",
@@ -68,7 +69,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/13/2014",
+		"updated": "11/13/2014"
 	},
 	{
 		"name": "BALLD",
@@ -77,7 +78,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HCE*LD*174.70/15.00",
+		"updated": "HCE*LD*174.70/15.00"
 	},
 	{
 		"name": "BALTS",
@@ -86,7 +87,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "NQI*TACAN*319.00/12.00",
+		"updated": "NQI*TACAN*319.00/12.00"
 	},
 	{
 		"name": "BAMML",
@@ -95,7 +96,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/13/2014",
+		"updated": "07/13/2014"
 	},
 	{
 		"name": "BANVE",
@@ -104,7 +105,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/31/2009",
+		"updated": "03/31/2009"
 	},
 	{
 		"name": "BAPAY",
@@ -113,7 +114,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/28/2012",
+		"updated": "08/28/2012"
 	},
 	{
 		"name": "BAPRE",
@@ -122,7 +123,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/14/2015",
+		"updated": "07/14/2015"
 	},
 	{
 		"name": "BARBA",
@@ -131,7 +132,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "ACT*VORTAC*164.00/33.85",
+		"updated": "ACT*VORTAC*164.00/33.85"
 	},
 	{
 		"name": "BARRI",
@@ -140,7 +141,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFT*VORTAC*352.27/19.35",
+		"updated": "LFT*VORTAC*352.27/19.35"
 	},
 	{
 		"name": "BARSA",
@@ -149,7 +150,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "SAT*VORTAC*318.00/26.00",
+		"updated": "SAT*VORTAC*318.00/26.00"
 	},
 	{
 		"name": "BARUN",
@@ -158,7 +159,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PCU*VOR/DME*284.73",
+		"updated": "PCU*VOR/DME*284.73"
 	},
 	{
 		"name": "BASGE",
@@ -167,7 +168,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/01/2009",
+		"updated": "06/01/2009"
 	},
 	{
 		"name": "BASIS",
@@ -176,7 +177,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "AGJ*VORTAC*185.26/34.22",
+		"updated": "AGJ*VORTAC*185.26/34.22"
 	},
 	{
 		"name": "BASTO",
@@ -185,7 +186,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "IDU*VORTAC*281.28/39.80",
+		"updated": "IDU*VORTAC*281.28/39.80"
 	},
 	{
 		"name": "BAWWI",
@@ -194,7 +195,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "NGP*VORTAC*108.00/1.00",
+		"updated": "NGP*VORTAC*108.00/1.00"
 	},
 	{
 		"name": "BAXTR",
@@ -203,7 +204,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BPT*VOR/DME*179.00/5.00",
+		"updated": "BPT*VOR/DME*179.00/5.00"
 	},
 	{
 		"name": "BAYAS",
@@ -212,7 +213,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/20/2012",
+		"updated": "06/20/2012"
 	},
 	{
 		"name": "BAYED",
@@ -221,7 +222,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CWK*VORTAC*261.14/35.00",
+		"updated": "CWK*VORTAC*261.14/35.00"
 	},
 	{
 		"name": "BAYOU",
@@ -230,7 +231,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "GPT*VORTAC*/6.47",
+		"updated": "GPT*VORTAC*/6.47"
 	},
 	{
 		"name": "BAYUU",
@@ -239,7 +240,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "EFD*TACAN*/1.40",
+		"updated": "EFD*TACAN*/1.40"
 	},
 	{
 		"name": "BAYYY",
@@ -248,7 +249,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/25/2014",
+		"updated": "03/25/2014"
 	},
 	{
 		"name": "BAZBL",
@@ -257,7 +258,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LOA*VORTAC*180.97",
+		"updated": "LOA*VORTAC*180.97"
 	},
 	{
 		"name": "BBQUE",
@@ -266,7 +267,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/14/2014",
+		"updated": "03/14/2014"
 	},
 	{
 		"name": "BBURT",
@@ -275,7 +276,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/09/2014",
+		"updated": "03/09/2014"
 	},
 	{
 		"name": "BBYSE",
@@ -284,7 +285,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/06/2015",
+		"updated": "03/06/2015"
 	},
 	{
 		"name": "BDDRO",
@@ -293,7 +294,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BPT*VOR/DME*263.87/28.53",
+		"updated": "BPT*VOR/DME*263.87/28.53"
 	},
 	{
 		"name": "BEANE",
@@ -302,7 +303,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/14/2014",
+		"updated": "03/14/2014"
 	},
 	{
 		"name": "BEATL",
@@ -311,7 +312,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/11/2014",
+		"updated": "03/11/2014"
 	},
 	{
 		"name": "BEBAY",
@@ -320,7 +321,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/21/2003",
+		"updated": "05/21/2003"
 	},
 	{
 		"name": "BEBNE",
@@ -329,7 +330,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/02/2016",
+		"updated": "06/02/2016"
 	},
 	{
 		"name": "BEBSE",
@@ -338,7 +339,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/14/2012",
+		"updated": "09/14/2012"
 	},
 	{
 		"name": "BEBUY",
@@ -347,7 +348,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "EFD*TACAN*116.00/13.00",
+		"updated": "EFD*TACAN*116.00/13.00"
 	},
 	{
 		"name": "BEDDY",
@@ -356,7 +357,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFT*VORTAC*035.38/18.91",
+		"updated": "LFT*VORTAC*035.38/18.91"
 	},
 	{
 		"name": "BEDEI",
@@ -365,7 +366,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/07/1998",
+		"updated": "08/07/1998"
 	},
 	{
 		"name": "BEDIA",
@@ -374,7 +375,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/07/1998",
+		"updated": "08/07/1998"
 	},
 	{
 		"name": "BEDLM",
@@ -383,7 +384,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/11/2014",
+		"updated": "03/11/2014"
 	},
 	{
 		"name": "BEEEP",
@@ -392,7 +393,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/07/2014",
+		"updated": "03/07/2014"
 	},
 	{
 		"name": "BEEHE",
@@ -401,7 +402,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/14/2010",
+		"updated": "05/14/2010"
 	},
 	{
 		"name": "BEESO",
@@ -410,7 +411,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/19/2017",
+		"updated": "10/19/2017"
 	},
 	{
 		"name": "BEFAL",
@@ -419,7 +420,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/07/1998",
+		"updated": "08/07/1998"
 	},
 	{
 		"name": "BEFOR",
@@ -428,7 +429,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/07/1998",
+		"updated": "08/07/1998"
 	},
 	{
 		"name": "BEKYO",
@@ -437,7 +438,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/12/2017",
+		"updated": "12/12/2017"
 	},
 	{
 		"name": "BELLR",
@@ -446,7 +447,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "ELA*VOR/DME*141.32/23.48",
+		"updated": "ELA*VOR/DME*141.32/23.48"
 	},
 	{
 		"name": "BEMSS",
@@ -455,7 +456,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "HRV*VORTAC*224.00/22.00",
+		"updated": "HRV*VORTAC*224.00/22.00"
 	},
 	{
 		"name": "BENEY",
@@ -464,7 +465,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "SAT*VORTAC*285.00/30.00",
+		"updated": "SAT*VORTAC*285.00/30.00"
 	},
 	{
 		"name": "BENYA",
@@ -473,7 +474,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LRD*VORTAC*006.00/18.00",
+		"updated": "LRD*VORTAC*006.00/18.00"
 	},
 	{
 		"name": "BENZZ",
@@ -482,7 +483,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/20/2009",
+		"updated": "02/20/2009"
 	},
 	{
 		"name": "BEPEA",
@@ -491,7 +492,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/13/2014",
+		"updated": "03/13/2014"
 	},
 	{
 		"name": "BEPKY",
@@ -500,7 +501,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/30/2009",
+		"updated": "09/30/2009"
 	},
 	{
 		"name": "BEPUH",
@@ -509,7 +510,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/12/2009",
+		"updated": "07/12/2009"
 	},
 	{
 		"name": "BERIY",
@@ -518,7 +519,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "NQI*TACAN*312.90/3.50",
+		"updated": "NQI*TACAN*312.90/3.50"
 	},
 	{
 		"name": "BETGE",
@@ -527,7 +528,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "09/05/2013",
+		"updated": "09/05/2013"
 	},
 	{
 		"name": "BETTI",
@@ -536,7 +537,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "SAT*VORTAC*039.59/28.56",
+		"updated": "SAT*VORTAC*039.59/28.56"
 	},
 	{
 		"name": "BETVE",
@@ -545,7 +546,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/29/2003",
+		"updated": "08/29/2003"
 	},
 	{
 		"name": "BETZY",
@@ -554,7 +555,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PSX*VORTAC*218.00/44.43",
+		"updated": "PSX*VORTAC*218.00/44.43"
 	},
 	{
 		"name": "BEVPE",
@@ -563,7 +564,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/04/2009",
+		"updated": "05/04/2009"
 	},
 	{
 		"name": "BEYYE",
@@ -572,7 +573,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "NGP*VORTAC*028.00/1.50",
+		"updated": "NGP*VORTAC*028.00/1.50"
 	},
 	{
 		"name": "BEZJU",
@@ -581,7 +582,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "SJI*VORTAC*242.86",
+		"updated": "SJI*VORTAC*242.86"
 	},
 	{
 		"name": "BEZLE",
@@ -590,7 +591,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "IAH*VORTAC*214.00/30.80",
+		"updated": "IAH*VORTAC*214.00/30.80"
 	},
 	{
 		"name": "BFFET",
@@ -599,7 +600,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/07/2014",
+		"updated": "03/07/2014"
 	},
 	{
 		"name": "BFMCG",
@@ -608,7 +609,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "BFMCH",
@@ -617,7 +618,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "BFMCI",
@@ -626,7 +627,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "BFMCJ",
@@ -635,7 +636,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "BFMCK",
@@ -644,7 +645,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "BFMCL",
@@ -653,7 +654,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "BFMCM",
@@ -662,7 +663,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "BFMCN",
@@ -671,7 +672,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "BFMCO",
@@ -680,7 +681,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "BFMCP",
@@ -689,7 +690,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "BFMCQ",
@@ -698,7 +699,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "BFMLA",
@@ -707,7 +708,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/19/2017",
+		"updated": "01/19/2017"
 	},
 	{
 		"name": "BFMLB",
@@ -716,7 +717,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "BFMLC",
@@ -725,7 +726,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "BFMLD",
@@ -734,7 +735,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "BFMLE",
@@ -743,7 +744,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "BFMLF",
@@ -752,7 +753,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "BFMLG",
@@ -761,7 +762,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "BFMLH",
@@ -770,7 +771,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "BFMLI",
@@ -779,7 +780,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "BFMLJ",
@@ -788,7 +789,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "BFMLK",
@@ -797,7 +798,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "BFMLL",
@@ -806,7 +807,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "BFMLM",
@@ -815,7 +816,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "BFMLN",
@@ -824,7 +825,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "BFMLO",
@@ -833,7 +834,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "BFMLP",
@@ -842,7 +843,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "BFMLQ",
@@ -851,7 +852,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "07/17/1998",
+		"updated": "07/17/1998"
 	},
 	{
 		"name": "BGBUK",
@@ -860,7 +861,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/13/2014",
+		"updated": "03/13/2014"
 	},
 	{
 		"name": "BIBLY",
@@ -869,7 +870,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "06/22/2009",
+		"updated": "06/22/2009"
 	},
 	{
 		"name": "BIBRE",
@@ -878,7 +879,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/30/2015",
+		"updated": "08/30/2015"
 	},
 	{
 		"name": "BIGFT",
@@ -887,7 +888,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "KSY*TACAN*215.00/29.00",
+		"updated": "KSY*TACAN*215.00/29.00"
 	},
 	{
 		"name": "BIGTX",
@@ -896,7 +897,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PSX*VORTAC*273.92",
+		"updated": "PSX*VORTAC*273.92"
 	},
 	{
 		"name": "BIIGG",
@@ -905,7 +906,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TNV*VOR/DME*120.15/38.27",
+		"updated": "TNV*VOR/DME*120.15/38.27"
 	},
 	{
 		"name": "BIIRD",
@@ -914,7 +915,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BSM*LD*174.69/6.15",
+		"updated": "BSM*LD*174.69/6.15"
 	},
 	{
 		"name": "BILEE",
@@ -923,7 +924,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TNV*VOR/DME*334.40/55.04",
+		"updated": "TNV*VOR/DME*334.40/55.04"
 	},
 	{
 		"name": "BIMTE",
@@ -932,7 +933,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/20/2007",
+		"updated": "07/20/2007"
 	},
 	{
 		"name": "BISGE",
@@ -941,7 +942,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/31/2005",
+		"updated": "05/31/2005"
 	},
 	{
 		"name": "BISHE",
@@ -950,7 +951,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "IAH*VORTAC*127.00/9.41",
+		"updated": "IAH*VORTAC*127.00/9.41"
 	},
 	{
 		"name": "BISON",
@@ -959,7 +960,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CRP*VORTAC*054.00/18.00",
+		"updated": "CRP*VORTAC*054.00/18.00"
 	},
 	{
 		"name": "BISOR",
@@ -968,7 +969,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "NOG*TACAN*255.00/15.00",
+		"updated": "NOG*TACAN*255.00/15.00"
 	},
 	{
 		"name": "BISYA",
@@ -977,7 +978,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/20/2013",
+		"updated": "05/20/2013"
 	},
 	{
 		"name": "BITAY",
@@ -986,7 +987,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/28/2013",
+		"updated": "03/28/2013"
 	},
 	{
 		"name": "BITER",
@@ -995,7 +996,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "IDU*VORTAC*281.28/28.54",
+		"updated": "IDU*VORTAC*281.28/28.54"
 	},
 	{
 		"name": "BITTO",
@@ -1004,7 +1005,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/07/1998",
+		"updated": "08/07/1998"
 	},
 	{
 		"name": "BIYAL",
@@ -1013,7 +1014,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/26/2011",
+		"updated": "04/26/2011"
 	},
 	{
 		"name": "BLAME",
@@ -1022,7 +1023,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LRD*VORTAC*319.26/18.00",
+		"updated": "LRD*VORTAC*319.26/18.00"
 	},
 	{
 		"name": "BLATE",
@@ -1031,7 +1032,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/11/2012",
+		"updated": "04/11/2012"
 	},
 	{
 		"name": "BLATR",
@@ -1040,7 +1041,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/31/2009",
+		"updated": "03/31/2009"
 	},
 	{
 		"name": "BLATZ",
@@ -1049,7 +1050,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/07/1998",
+		"updated": "08/07/1998"
 	},
 	{
 		"name": "BLEAU",
@@ -1058,7 +1059,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/03/2014",
+		"updated": "04/03/2014"
 	},
 	{
 		"name": "BLING",
@@ -1067,7 +1068,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/26/2014",
+		"updated": "03/26/2014"
 	},
 	{
 		"name": "BLOKS",
@@ -1076,7 +1077,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "VCT*VOR/DME*176.00",
+		"updated": "VCT*VOR/DME*176.00"
 	},
 	{
 		"name": "BLTWY",
@@ -1085,7 +1086,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TNV*VOR/DME*049.02/35.01",
+		"updated": "TNV*VOR/DME*049.02/35.01"
 	},
 	{
 		"name": "BLUBL",
@@ -1094,7 +1095,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TNV*VOR/DME*266.38",
+		"updated": "TNV*VOR/DME*266.38"
 	},
 	{
 		"name": "BLUMS",
@@ -1103,7 +1104,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TNV*VOR/DME*149.00",
+		"updated": "TNV*VOR/DME*149.00"
 	},
 	{
 		"name": "BLURG",
@@ -1112,7 +1113,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/23/2017",
+		"updated": "10/23/2017"
 	},
 	{
 		"name": "BLUUZ",
@@ -1121,7 +1122,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/11/2014",
+		"updated": "03/11/2014"
 	},
 	{
 		"name": "BLVNS",
@@ -1130,7 +1131,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/31/2005",
+		"updated": "08/31/2005"
 	},
 	{
 		"name": "BNDIA",
@@ -1139,7 +1140,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/10/2015",
+		"updated": "01/10/2015"
 	},
 	{
 		"name": "BNDTO",
@@ -1148,7 +1149,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/26/2014",
+		"updated": "03/26/2014"
 	},
 	{
 		"name": "BOBKO",
@@ -1157,7 +1158,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/28/2000",
+		"updated": "08/28/2000"
 	},
 	{
 		"name": "BOBLE",
@@ -1166,7 +1167,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/16/2012",
+		"updated": "11/16/2012"
 	},
 	{
 		"name": "BOBPA",
@@ -1175,7 +1176,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HRL*VOR/DME*145.48/6.00",
+		"updated": "HRL*VOR/DME*145.48/6.00"
 	},
 	{
 		"name": "BOCCK",
@@ -1184,7 +1185,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TNV*VOR/DME*192.30",
+		"updated": "TNV*VOR/DME*192.30"
 	},
 	{
 		"name": "BODTA",
@@ -1193,7 +1194,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFK*VORTAC*082.00/12.00",
+		"updated": "LFK*VORTAC*082.00/12.00"
 	},
 	{
 		"name": "BOELO",
@@ -1202,7 +1203,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BPT*VOR/DME*298.53/7.75",
+		"updated": "BPT*VOR/DME*298.53/7.75"
 	},
 	{
 		"name": "BOFXO",
@@ -1211,7 +1212,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/22/2011",
+		"updated": "08/22/2011"
 	},
 	{
 		"name": "BOGGY",
@@ -1220,7 +1221,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "08/22/1985",
+		"updated": "08/22/1985"
 	},
 	{
 		"name": "BOGLY",
@@ -1229,7 +1230,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "NEW*LD*357.26/6.19",
+		"updated": "NEW*LD*357.26/6.19"
 	},
 	{
 		"name": "BOINT",
@@ -1238,7 +1239,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PSX*VORTAC*218.00/16.23",
+		"updated": "PSX*VORTAC*218.00/16.23"
 	},
 	{
 		"name": "BOKKE",
@@ -1247,7 +1248,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/11/2010",
+		"updated": "06/11/2010"
 	},
 	{
 		"name": "BOKPE",
@@ -1256,7 +1257,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/17/2013",
+		"updated": "06/17/2013"
 	},
 	{
 		"name": "BOLOS",
@@ -1265,7 +1266,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HUB*VOR/DME*109.53/37.62",
+		"updated": "HUB*VOR/DME*109.53/37.62"
 	},
 	{
 		"name": "BOMRS",
@@ -1274,7 +1275,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "12/22/2017",
+		"updated": "12/22/2017"
 	},
 	{
 		"name": "BONDD",
@@ -1283,7 +1284,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LOA*VORTAC*268.00/31.00",
+		"updated": "LOA*VORTAC*268.00/31.00"
 	},
 	{
 		"name": "BOPPR",
@@ -1292,7 +1293,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/11/2014",
+		"updated": "03/11/2014"
 	},
 	{
 		"name": "BORDE",
@@ -1301,7 +1302,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "BIX*TACAN*/4.91",
+		"updated": "BIX*TACAN*/4.91"
 	},
 	{
 		"name": "BORRN",
@@ -1310,7 +1311,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/04/2014",
+		"updated": "04/04/2014"
 	},
 	{
 		"name": "BORRO",
@@ -1319,7 +1320,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "IAH*VORTAC*237.46/26.00",
+		"updated": "IAH*VORTAC*237.46/26.00"
 	},
 	{
 		"name": "BOSCY",
@@ -1328,7 +1329,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "MLU*VORTAC*157.00/16.00",
+		"updated": "MLU*VORTAC*157.00/16.00"
 	},
 	{
 		"name": "BOSWU",
@@ -1337,7 +1338,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/04/2005",
+		"updated": "01/04/2005"
 	},
 	{
 		"name": "BOTLL",
@@ -1346,7 +1347,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/26/2014",
+		"updated": "03/26/2014"
 	},
 	{
 		"name": "BOTVE",
@@ -1355,7 +1356,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BRO*VORTAC*286.04/17.04",
+		"updated": "BRO*VORTAC*286.04/17.04"
 	},
 	{
 		"name": "BOUGR",
@@ -1364,7 +1365,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/23/2017",
+		"updated": "10/23/2017"
 	},
 	{
 		"name": "BOURG",
@@ -1373,7 +1374,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TBD*VOR/DME*121.50/16.30",
+		"updated": "TBD*VOR/DME*121.50/16.30"
 	},
 	{
 		"name": "BOVIN",
@@ -1382,7 +1383,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/23/2017",
+		"updated": "10/23/2017"
 	},
 	{
 		"name": "BOWFN",
@@ -1391,7 +1392,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/06/2015",
+		"updated": "03/06/2015"
 	},
 	{
 		"name": "BOWTZ",
@@ -1400,7 +1401,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/15/2014",
+		"updated": "12/15/2014"
 	},
 	{
 		"name": "BOWUN",
@@ -1409,7 +1410,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "THX*VORTAC*099.00/13.00",
+		"updated": "THX*VORTAC*099.00/13.00"
 	},
 	{
 		"name": "BOYAG",
@@ -1418,7 +1419,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/13/2004",
+		"updated": "01/13/2004"
 	},
 	{
 		"name": "BOYCE",
@@ -1427,7 +1428,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "AEX*VORTAC*298.72/11.32",
+		"updated": "AEX*VORTAC*298.72/11.32"
 	},
 	{
 		"name": "BOYZZ",
@@ -1436,7 +1437,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/15/2014",
+		"updated": "12/15/2014"
 	},
 	{
 		"name": "BOZAN",
@@ -1445,7 +1446,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFT*VORTAC*323.29/22.56",
+		"updated": "LFT*VORTAC*323.29/22.56"
 	},
 	{
 		"name": "BOZZZ",
@@ -1454,7 +1455,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/11/2014",
+		"updated": "03/11/2014"
 	},
 	{
 		"name": "BRAMA",
@@ -1463,7 +1464,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "NQI*TACAN*184.00/12.00",
+		"updated": "NQI*TACAN*184.00/12.00"
 	},
 	{
 		"name": "BRANO",
@@ -1472,7 +1473,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/31/1998",
+		"updated": "08/31/1998"
 	},
 	{
 		"name": "BRASY",
@@ -1481,7 +1482,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "VCT*VOR/DME*159.89/45.29",
+		"updated": "VCT*VOR/DME*159.89/45.29"
 	},
 	{
 		"name": "BRAUN",
@@ -1490,7 +1491,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "SAT*VORTAC*055.99/23.12",
+		"updated": "SAT*VORTAC*055.99/23.12"
 	},
 	{
 		"name": "BRAZA",
@@ -1499,7 +1500,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CWK*VORTAC*233.04",
+		"updated": "CWK*VORTAC*233.04"
 	},
 	{
 		"name": "BREDY",
@@ -1508,7 +1509,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "JCT*VORTAC*030.00/32.34",
+		"updated": "JCT*VORTAC*030.00/32.34"
 	},
 	{
 		"name": "BRIRR",
@@ -1517,7 +1518,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/07/2009",
+		"updated": "07/07/2009"
 	},
 	{
 		"name": "BRKAT",
@@ -1526,7 +1527,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/11/2014",
+		"updated": "03/11/2014"
 	},
 	{
 		"name": "BRKMN",
@@ -1535,7 +1536,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TNV*VOR/DME*057.66",
+		"updated": "TNV*VOR/DME*057.66"
 	},
 	{
 		"name": "BROWA",
@@ -1544,7 +1545,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/31/2017",
+		"updated": "10/31/2017"
 	},
 	{
 		"name": "BROWN",
@@ -1553,7 +1554,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LCH*VORTAC*199.92",
+		"updated": "LCH*VORTAC*199.92"
 	},
 	{
 		"name": "BRRES",
@@ -1562,7 +1563,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HOX*LD*106.49/5.93",
+		"updated": "HOX*LD*106.49/5.93"
 	},
 	{
 		"name": "BRRIG",
@@ -1571,7 +1572,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/07/1998",
+		"updated": "08/07/1998"
 	},
 	{
 		"name": "BRRNS",
@@ -1580,7 +1581,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/14/2014",
+		"updated": "03/14/2014"
 	},
 	{
 		"name": "BRWCK",
@@ -1589,7 +1590,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFK*VORTAC*118.16",
+		"updated": "LFK*VORTAC*118.16"
 	},
 	{
 		"name": "BRWER",
@@ -1598,7 +1599,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/28/2011",
+		"updated": "10/28/2011"
 	},
 	{
 		"name": "BRYIN",
@@ -1607,7 +1608,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CLL*VORTAC*016.45",
+		"updated": "CLL*VORTAC*016.45"
 	},
 	{
 		"name": "BRZZI",
@@ -1616,7 +1617,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/27/2015",
+		"updated": "01/27/2015"
 	},
 	{
 		"name": "BUBAY",
@@ -1625,7 +1626,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/21/2003",
+		"updated": "05/21/2003"
 	},
 	{
 		"name": "BUDAM",
@@ -1634,7 +1635,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFT*VORTAC*091.63/23.00",
+		"updated": "LFT*VORTAC*091.63/23.00"
 	},
 	{
 		"name": "BUEKR",
@@ -1643,7 +1644,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "12/07/2009",
+		"updated": "12/07/2009"
 	},
 	{
 		"name": "BUGLE",
@@ -1652,7 +1653,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "GCV*VORTAC*188.00",
+		"updated": "GCV*VORTAC*188.00"
 	},
 	{
 		"name": "BUGZY",
@@ -1661,7 +1662,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/25/2014",
+		"updated": "03/25/2014"
 	},
 	{
 		"name": "BUHOL",
@@ -1670,7 +1671,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "ELA*VOR/DME*096.99",
+		"updated": "ELA*VOR/DME*096.99"
 	},
 	{
 		"name": "BUMCO",
@@ -1679,7 +1680,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LOA*VORTAC*121.39",
+		"updated": "LOA*VORTAC*121.39"
 	},
 	{
 		"name": "BUNER",
@@ -1688,7 +1689,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "UPU*LD*130.96/16.20",
+		"updated": "UPU*LD*130.96/16.20"
 	},
 	{
 		"name": "BUNKE",
@@ -1697,7 +1698,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/04/2005",
+		"updated": "08/04/2005"
 	},
 	{
 		"name": "BUNNE",
@@ -1706,7 +1707,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/07/1998",
+		"updated": "08/07/1998"
 	},
 	{
 		"name": "BUNVE",
@@ -1715,7 +1716,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/25/2016",
+		"updated": "05/25/2016"
 	},
 	{
 		"name": "BURIN",
@@ -1724,7 +1725,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "GCV*VORTAC*137.45/9.00",
+		"updated": "GCV*VORTAC*137.45/9.00"
 	},
 	{
 		"name": "BUSTS",
@@ -1733,7 +1734,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "ACT*VORTAC*154.00",
+		"updated": "ACT*VORTAC*154.00"
 	},
 	{
 		"name": "BUTAC",
@@ -1742,7 +1743,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "BUUOY",
@@ -1751,7 +1752,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/31/2012",
+		"updated": "10/31/2012"
 	},
 	{
 		"name": "BUVAC",
@@ -1760,7 +1761,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/18/2003",
+		"updated": "04/18/2003"
 	},
 	{
 		"name": "BUVTE",
@@ -1769,7 +1770,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/14/2012",
+		"updated": "09/14/2012"
 	},
 	{
 		"name": "BUXQU",
@@ -1778,7 +1779,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/14/2000",
+		"updated": "03/14/2000"
 	},
 	{
 		"name": "BUYAT",
@@ -1787,7 +1788,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/20/2014",
+		"updated": "07/20/2014"
 	},
 	{
 		"name": "BUYAY",
@@ -1796,7 +1797,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/19/2004",
+		"updated": "11/19/2004"
 	},
 	{
 		"name": "BYSUN",
@@ -1805,5 +1806,6 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/11/2014",
-	},
+		"updated": "03/11/2014"
+	}
+]

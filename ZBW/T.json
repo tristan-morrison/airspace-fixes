@@ -1,3 +1,4 @@
+[
 	{
 		"name": "TAALE",
 		"latitude": "42-37-34.55 N",
@@ -5,7 +6,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/13/2012",
+		"updated": "07/13/2012"
 	},
 	{
 		"name": "TAAPS",
@@ -14,7 +15,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/23/2018",
+		"updated": "03/23/2018"
 	},
 	{
 		"name": "TAATE",
@@ -23,7 +24,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/13/2012",
+		"updated": "03/13/2012"
 	},
 	{
 		"name": "TABME",
@@ -32,7 +33,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/16/2013",
+		"updated": "01/16/2013"
 	},
 	{
 		"name": "TABOC",
@@ -41,7 +42,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "FOK*TACAN*243.01/1.10",
+		"updated": "FOK*TACAN*243.01/1.10"
 	},
 	{
 		"name": "TABUU",
@@ -50,7 +51,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/27/2010",
+		"updated": "12/27/2010"
 	},
 	{
 		"name": "TABVE",
@@ -59,7 +60,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/16/2013",
+		"updated": "01/16/2013"
 	},
 	{
 		"name": "TADBE",
@@ -68,7 +69,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/16/2013",
+		"updated": "01/16/2013"
 	},
 	{
 		"name": "TADCO",
@@ -77,7 +78,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/13/2004",
+		"updated": "12/13/2004"
 	},
 	{
 		"name": "TAFFY",
@@ -86,7 +87,7 @@
 		"state": "",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/10/2015",
+		"updated": "09/10/2015"
 	},
 	{
 		"name": "TAITS",
@@ -95,7 +96,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BOS*VOR/DME*015.29",
+		"updated": "BOS*VOR/DME*015.29"
 	},
 	{
 		"name": "TALCO",
@@ -104,7 +105,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DNY*VOR/DME*111.07",
+		"updated": "DNY*VOR/DME*111.07"
 	},
 	{
 		"name": "TALNO",
@@ -113,7 +114,7 @@
 		"state": "",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/20/2014",
+		"updated": "09/20/2014"
 	},
 	{
 		"name": "TANUE",
@@ -122,7 +123,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MRZ*LD*280.42/3.23",
+		"updated": "MRZ*LD*280.42/3.23"
 	},
 	{
 		"name": "TAPSE",
@@ -131,7 +132,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CON*VOR/DME*246.26/14.21",
+		"updated": "CON*VOR/DME*246.26/14.21"
 	},
 	{
 		"name": "TAPVO",
@@ -140,7 +141,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "WP",
-		"updated": "10/03/2011",
+		"updated": "10/03/2011"
 	},
 	{
 		"name": "TAQYU",
@@ -149,7 +150,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/10/2015",
+		"updated": "03/10/2015"
 	},
 	{
 		"name": "TAREE",
@@ -158,7 +159,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/24/2011",
+		"updated": "05/24/2011"
 	},
 	{
 		"name": "TARSE",
@@ -167,7 +168,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/19/2012",
+		"updated": "07/19/2012"
 	},
 	{
 		"name": "TASHA",
@@ -176,7 +177,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "WP",
-		"updated": "11/18/1987",
+		"updated": "11/18/1987"
 	},
 	{
 		"name": "TAYUN",
@@ -185,7 +186,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "TAYVO",
@@ -194,7 +195,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/03/2009",
+		"updated": "02/03/2009"
 	},
 	{
 		"name": "TAZZY",
@@ -203,7 +204,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "TEBOR",
@@ -212,7 +213,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "RKA*VOR/DME*336.28/38.19",
+		"updated": "RKA*VOR/DME*336.28/38.19"
 	},
 	{
 		"name": "TEBUC",
@@ -221,7 +222,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/06/2009",
+		"updated": "11/06/2009"
 	},
 	{
 		"name": "TECOG",
@@ -230,7 +231,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/19/2009",
+		"updated": "05/19/2009"
 	},
 	{
 		"name": "TEDEE",
@@ -239,7 +240,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BAF*VORTAC*039.11/21.00",
+		"updated": "BAF*VORTAC*039.11/21.00"
 	},
 	{
 		"name": "TEETO",
@@ -248,7 +249,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/17/2014",
+		"updated": "11/17/2014"
 	},
 	{
 		"name": "TEGOC",
@@ -257,7 +258,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "MW",
-		"updated": "02/13/2017",
+		"updated": "02/13/2017"
 	},
 	{
 		"name": "TEKKK",
@@ -266,7 +267,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/15/2013",
+		"updated": "01/15/2013"
 	},
 	{
 		"name": "TEKTE",
@@ -275,7 +276,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/24/2010",
+		"updated": "04/24/2010"
 	},
 	{
 		"name": "TELLE",
@@ -284,7 +285,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/16/2006",
+		"updated": "10/16/2006"
 	},
 	{
 		"name": "TENEE",
@@ -293,7 +294,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/03/2005",
+		"updated": "02/03/2005"
 	},
 	{
 		"name": "TERIA",
@@ -302,7 +303,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/23/2014",
+		"updated": "09/23/2014"
 	},
 	{
 		"name": "TESCO",
@@ -311,7 +312,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "TETAE",
@@ -320,7 +321,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/18/2010",
+		"updated": "06/18/2010"
 	},
 	{
 		"name": "TEVME",
@@ -329,7 +330,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "FMH*TACAN*/7.00",
+		"updated": "FMH*TACAN*/7.00"
 	},
 	{
 		"name": "TEWKS",
@@ -338,7 +339,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/06/2017",
+		"updated": "09/06/2017"
 	},
 	{
 		"name": "TEYRU",
@@ -347,7 +348,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "THEEO",
@@ -356,7 +357,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "LGA*VOR/DME*051.22",
+		"updated": "LGA*VOR/DME*051.22"
 	},
 	{
 		"name": "THROP",
@@ -365,7 +366,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/23/2018",
+		"updated": "03/23/2018"
 	},
 	{
 		"name": "THUMB",
@@ -374,7 +375,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "HTO*VORTAC*010.00/36.29",
+		"updated": "HTO*VORTAC*010.00/36.29"
 	},
 	{
 		"name": "TICBU",
@@ -383,7 +384,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BGR*VORTAC*238.66/22.00",
+		"updated": "BGR*VORTAC*238.66/22.00"
 	},
 	{
 		"name": "TIDUE",
@@ -392,7 +393,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/25/2009",
+		"updated": "03/25/2009"
 	},
 	{
 		"name": "TIFZY",
@@ -401,7 +402,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/30/2009",
+		"updated": "12/30/2009"
 	},
 	{
 		"name": "TIGSE",
@@ -410,7 +411,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/27/2010",
+		"updated": "07/27/2010"
 	},
 	{
 		"name": "TIMDE",
@@ -419,7 +420,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/13/2011",
+		"updated": "01/13/2011"
 	},
 	{
 		"name": "TIMKE",
@@ -428,7 +429,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CAM*VOR/DME*247.98/13.96",
+		"updated": "CAM*VOR/DME*247.98/13.96"
 	},
 	{
 		"name": "TIMVE",
@@ -437,7 +438,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/18/2013",
+		"updated": "01/18/2013"
 	},
 	{
 		"name": "TIPKE",
@@ -446,7 +447,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/23/2010",
+		"updated": "04/23/2010"
 	},
 	{
 		"name": "TIVME",
@@ -455,7 +456,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/06/2009",
+		"updated": "11/06/2009"
 	},
 	{
 		"name": "TIYUL",
@@ -464,7 +465,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/13/2008",
+		"updated": "08/13/2008"
 	},
 	{
 		"name": "TJAYS",
@@ -473,7 +474,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BTV*VOR/DME*088.67",
+		"updated": "BTV*VOR/DME*088.67"
 	},
 	{
 		"name": "TJAYY",
@@ -482,7 +483,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/15/2013",
+		"updated": "01/15/2013"
 	},
 	{
 		"name": "TKMAN",
@@ -491,7 +492,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/04/2016",
+		"updated": "04/04/2016"
 	},
 	{
 		"name": "TNNIS",
@@ -500,7 +501,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/15/2011",
+		"updated": "04/15/2011"
 	},
 	{
 		"name": "TNUCK",
@@ -509,7 +510,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "WP",
-		"updated": "11/02/1995",
+		"updated": "11/02/1995"
 	},
 	{
 		"name": "TOBKE",
@@ -518,7 +519,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/17/2015",
+		"updated": "09/17/2015"
 	},
 	{
 		"name": "TOLMY",
@@ -527,7 +528,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/10/2012",
+		"updated": "07/10/2012"
 	},
 	{
 		"name": "TOMES",
@@ -536,7 +537,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BAF*VORTAC*279.00/11.24",
+		"updated": "BAF*VORTAC*279.00/11.24"
 	},
 	{
 		"name": "TOMIE",
@@ -545,7 +546,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MHT*VOR/DME*003.00/18.47",
+		"updated": "MHT*VOR/DME*003.00/18.47"
 	},
 	{
 		"name": "TONNI",
@@ -554,7 +555,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "LWM*VOR/DME*150.73",
+		"updated": "LWM*VOR/DME*150.73"
 	},
 	{
 		"name": "TONOE",
@@ -563,7 +564,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/14/2013",
+		"updated": "11/14/2013"
 	},
 	{
 		"name": "TONYA",
@@ -572,7 +573,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "GDM*VOR/DME*081.38",
+		"updated": "GDM*VOR/DME*081.38"
 	},
 	{
 		"name": "TOPPS",
@@ -581,7 +582,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MLT*VOR/DME*134.00",
+		"updated": "MLT*VOR/DME*134.00"
 	},
 	{
 		"name": "TOPTO",
@@ -590,7 +591,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "TORPY",
@@ -599,7 +600,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/04/2014",
+		"updated": "06/04/2014"
 	},
 	{
 		"name": "TORVE",
@@ -608,7 +609,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/07/2011",
+		"updated": "03/07/2011"
 	},
 	{
 		"name": "TOSPE",
@@ -617,7 +618,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/17/2015",
+		"updated": "09/17/2015"
 	},
 	{
 		"name": "TOTTU",
@@ -626,7 +627,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "GDM*VOR/DME*022.91/13.16",
+		"updated": "GDM*VOR/DME*022.91/13.16"
 	},
 	{
 		"name": "TOVYA",
@@ -635,7 +636,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/23/2010",
+		"updated": "04/23/2010"
 	},
 	{
 		"name": "TRAIT",
@@ -644,7 +645,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "SEY*VOR/DME*309.56/16.98",
+		"updated": "SEY*VOR/DME*309.56/16.98"
 	},
 	{
 		"name": "TRANZ",
@@ -653,7 +654,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*333.02/5.18",
+		"updated": "DPK*VOR/DME*333.02/5.18"
 	},
 	{
 		"name": "TRASE",
@@ -662,7 +663,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/09/2010",
+		"updated": "02/09/2010"
 	},
 	{
 		"name": "TRCCY",
@@ -671,7 +672,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/26/2010",
+		"updated": "02/26/2010"
 	},
 	{
 		"name": "TRESA",
@@ -680,7 +681,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CMK*VOR/DME*355.56",
+		"updated": "CMK*VOR/DME*355.56"
 	},
 	{
 		"name": "TRIBS",
@@ -689,7 +690,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/26/2011",
+		"updated": "08/26/2011"
 	},
 	{
 		"name": "TRIDO",
@@ -698,7 +699,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/23/2014",
+		"updated": "05/23/2014"
 	},
 	{
 		"name": "TRIKY",
@@ -707,7 +708,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BTV*VOR/DME*310.74",
+		"updated": "BTV*VOR/DME*310.74"
 	},
 	{
 		"name": "TRINT",
@@ -716,7 +717,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "TROSI",
@@ -725,7 +726,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "TROYY",
@@ -734,7 +735,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PUT*VOR/DME*030.28/7.81",
+		"updated": "PUT*VOR/DME*030.28/7.81"
 	},
 	{
 		"name": "TRUDE",
@@ -743,7 +744,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BDR*VOR/DME*354.52",
+		"updated": "BDR*VOR/DME*354.52"
 	},
 	{
 		"name": "TTATT",
@@ -752,7 +753,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/16/2006",
+		"updated": "10/16/2006"
 	},
 	{
 		"name": "TTERI",
@@ -761,7 +762,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/28/2014",
+		"updated": "09/28/2014"
 	},
 	{
 		"name": "TUBUY",
@@ -770,7 +771,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/23/2007",
+		"updated": "07/23/2007"
 	},
 	{
 		"name": "TUDVE",
@@ -779,7 +780,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ITH*VOR/DME*/1.26",
+		"updated": "ITH*VOR/DME*/1.26"
 	},
 	{
 		"name": "TUGME",
@@ -788,7 +789,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "TUHSY",
@@ -797,7 +798,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "TUKUY",
@@ -806,7 +807,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "TULSE",
@@ -815,7 +816,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "TULUE",
@@ -824,7 +825,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/08/2008",
+		"updated": "10/08/2008"
 	},
 	{
 		"name": "TUMAE",
@@ -833,7 +834,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/27/2012",
+		"updated": "09/27/2012"
 	},
 	{
 		"name": "TUMPS",
@@ -842,7 +843,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "SYR*VORTAC*180.00/8.48",
+		"updated": "SYR*VORTAC*180.00/8.48"
 	},
 	{
 		"name": "TUNKE",
@@ -851,7 +852,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "MW",
-		"updated": "07/15/2014",
+		"updated": "07/15/2014"
 	},
 	{
 		"name": "TUNUY",
@@ -860,7 +861,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/19/2011",
+		"updated": "05/19/2011"
 	},
 	{
 		"name": "TUPER",
@@ -869,7 +870,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/08/2016",
+		"updated": "09/08/2016"
 	},
 	{
 		"name": "TURES",
@@ -878,7 +879,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/10/2002",
+		"updated": "04/10/2002"
 	},
 	{
 		"name": "TURTE",
@@ -887,7 +888,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/02/2012",
+		"updated": "04/02/2012"
 	},
 	{
 		"name": "TURVE",
@@ -896,7 +897,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/28/2017",
+		"updated": "06/28/2017"
 	},
 	{
 		"name": "TURYN",
@@ -905,7 +906,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/25/2010",
+		"updated": "04/25/2010"
 	},
 	{
 		"name": "TUSAE",
@@ -914,7 +915,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/06/2009",
+		"updated": "11/06/2009"
 	},
 	{
 		"name": "TUSKY",
@@ -923,7 +924,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "YQI*VOR/DME*268.98/42.88",
+		"updated": "YQI*VOR/DME*268.98/42.88"
 	},
 	{
 		"name": "TUSON",
@@ -932,7 +933,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DNY*VOR/DME*095.99/26.00",
+		"updated": "DNY*VOR/DME*095.99/26.00"
 	},
 	{
 		"name": "TUSUY",
@@ -941,7 +942,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/04/2008",
+		"updated": "12/04/2008"
 	},
 	{
 		"name": "TUTDU",
@@ -950,7 +951,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "TUTOR",
@@ -959,7 +960,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PVD*VOR/DME*115.00/21.61",
+		"updated": "PVD*VOR/DME*115.00/21.61"
 	},
 	{
 		"name": "TUYOP",
@@ -968,7 +969,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/06/2009",
+		"updated": "11/06/2009"
 	},
 	{
 		"name": "TUYUC",
@@ -977,7 +978,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/23/2007",
+		"updated": "07/23/2007"
 	},
 	{
 		"name": "TYCHO",
@@ -986,5 +987,6 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/21/2011",
-	},
+		"updated": "06/21/2011"
+	}
+]

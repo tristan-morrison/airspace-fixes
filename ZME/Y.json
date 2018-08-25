@@ -1,3 +1,4 @@
+[
 	{
 		"name": "YABUS",
 		"latitude": "33-31-32.33 N",
@@ -5,7 +6,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "YABUV",
@@ -14,7 +15,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/26/2012",
+		"updated": "09/26/2012"
 	},
 	{
 		"name": "YADUP",
@@ -23,7 +24,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/14/2009",
+		"updated": "01/14/2009"
 	},
 	{
 		"name": "YAFAY",
@@ -32,7 +33,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/18/2001",
+		"updated": "01/18/2001"
 	},
 	{
 		"name": "YAGUK",
@@ -41,7 +42,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/02/2014",
+		"updated": "04/02/2014"
 	},
 	{
 		"name": "YAGUT",
@@ -50,7 +51,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/14/2009",
+		"updated": "01/14/2009"
 	},
 	{
 		"name": "YALUL",
@@ -59,7 +60,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "YAMSS",
@@ -68,7 +69,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "YANUS",
@@ -77,7 +78,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "CCT*VORTAC*254.93/29.95",
+		"updated": "CCT*VORTAC*254.93/29.95"
 	},
 	{
 		"name": "YANUV",
@@ -86,7 +87,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/15/2012",
+		"updated": "11/15/2012"
 	},
 	{
 		"name": "YARUY",
@@ -95,7 +96,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2011",
+		"updated": "07/25/2011"
 	},
 	{
 		"name": "YASDU",
@@ -104,7 +105,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/17/2013",
+		"updated": "04/17/2013"
 	},
 	{
 		"name": "YASUB",
@@ -113,7 +114,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/08/2008",
+		"updated": "12/08/2008"
 	},
 	{
 		"name": "YASUK",
@@ -122,7 +123,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/12/2008",
+		"updated": "06/12/2008"
 	},
 	{
 		"name": "YASXU",
@@ -131,7 +132,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/28/2008",
+		"updated": "04/28/2008"
 	},
 	{
 		"name": "YAYDI",
@@ -140,7 +141,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/01/2016",
+		"updated": "08/01/2016"
 	},
 	{
 		"name": "YAYUP",
@@ -149,7 +150,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/22/2016",
+		"updated": "01/22/2016"
 	},
 	{
 		"name": "YECUB",
@@ -158,7 +159,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/22/2014",
+		"updated": "04/22/2014"
 	},
 	{
 		"name": "YECUD",
@@ -167,7 +168,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/25/2013",
+		"updated": "01/25/2013"
 	},
 	{
 		"name": "YEGUG",
@@ -176,7 +177,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/29/2013",
+		"updated": "10/29/2013"
 	},
 	{
 		"name": "YEKUD",
@@ -185,7 +186,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/17/2013",
+		"updated": "05/17/2013"
 	},
 	{
 		"name": "YELLM",
@@ -194,7 +195,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "09/24/2013",
+		"updated": "09/24/2013"
 	},
 	{
 		"name": "YELUN",
@@ -203,7 +204,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/28/2008",
+		"updated": "04/28/2008"
 	},
 	{
 		"name": "YEMJU",
@@ -212,7 +213,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/29/2011",
+		"updated": "03/29/2011"
 	},
 	{
 		"name": "YEMQA",
@@ -221,7 +222,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/27/2014",
+		"updated": "01/27/2014"
 	},
 	{
 		"name": "YEYDU",
@@ -230,7 +231,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "YIDGE",
@@ -239,7 +240,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/26/2013",
+		"updated": "03/26/2013"
 	},
 	{
 		"name": "YIGLO",
@@ -248,7 +249,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "YIGUL",
@@ -257,7 +258,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/19/2017",
+		"updated": "09/19/2017"
 	},
 	{
 		"name": "YIGUY",
@@ -266,7 +267,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/27/2011",
+		"updated": "03/27/2011"
 	},
 	{
 		"name": "YIKUL",
@@ -275,7 +276,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/11/2010",
+		"updated": "06/11/2010"
 	},
 	{
 		"name": "YILUL",
@@ -284,7 +285,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/02/2011",
+		"updated": "05/02/2011"
 	},
 	{
 		"name": "YILUN",
@@ -293,7 +294,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/29/2015",
+		"updated": "12/29/2015"
 	},
 	{
 		"name": "YIPBU",
@@ -302,7 +303,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/01/2010",
+		"updated": "11/01/2010"
 	},
 	{
 		"name": "YIPUB",
@@ -311,7 +312,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/18/2008",
+		"updated": "08/18/2008"
 	},
 	{
 		"name": "YISUB",
@@ -320,7 +321,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/11/2011",
+		"updated": "07/11/2011"
 	},
 	{
 		"name": "YISUN",
@@ -329,7 +330,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "CGI*LD*107.82/0.48",
+		"updated": "CGI*LD*107.82/0.48"
 	},
 	{
 		"name": "YITUT",
@@ -338,7 +339,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/05/2014",
+		"updated": "02/05/2014"
 	},
 	{
 		"name": "YIXYU",
@@ -347,7 +348,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "YODLY",
@@ -356,7 +357,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/11/2012",
+		"updated": "05/11/2012"
 	},
 	{
 		"name": "YOFOB",
@@ -365,7 +366,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/19/2011",
+		"updated": "08/19/2011"
 	},
 	{
 		"name": "YOGOV",
@@ -374,7 +375,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/29/2013",
+		"updated": "01/29/2013"
 	},
 	{
 		"name": "YOJIM",
@@ -383,7 +384,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/08/2013",
+		"updated": "08/08/2013"
 	},
 	{
 		"name": "YOKOJ",
@@ -392,7 +393,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/06/2001",
+		"updated": "07/06/2001"
 	},
 	{
 		"name": "YOKUN",
@@ -401,7 +402,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/24/2013",
+		"updated": "04/24/2013"
 	},
 	{
 		"name": "YOKUS",
@@ -410,7 +411,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "YONUD",
@@ -419,7 +420,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SQS*VORTAC*168.68/9.00",
+		"updated": "SQS*VORTAC*168.68/9.00"
 	},
 	{
 		"name": "YOPKU",
@@ -428,7 +429,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/23/2013",
+		"updated": "05/23/2013"
 	},
 	{
 		"name": "YOQED",
@@ -437,7 +438,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/01/2001",
+		"updated": "11/01/2001"
 	},
 	{
 		"name": "YORTY",
@@ -446,7 +447,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "NMM*TACAN*331.00/10.00",
+		"updated": "NMM*TACAN*331.00/10.00"
 	},
 	{
 		"name": "YORUK",
@@ -455,7 +456,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "CKV*VOR/DME*/3.00",
+		"updated": "CKV*VOR/DME*/3.00"
 	},
 	{
 		"name": "YORUN",
@@ -464,7 +465,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/26/2008",
+		"updated": "03/26/2008"
 	},
 	{
 		"name": "YOSNU",
@@ -473,7 +474,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MSL*VORTAC*153.48/7.00",
+		"updated": "MSL*VORTAC*153.48/7.00"
 	},
 	{
 		"name": "YOSUB",
@@ -482,7 +483,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/28/2009",
+		"updated": "05/28/2009"
 	},
 	{
 		"name": "YOVUB",
@@ -491,7 +492,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "03/27/2011",
+		"updated": "03/27/2011"
 	},
 	{
 		"name": "YOWLO",
@@ -500,7 +501,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "YOYVO",
@@ -509,7 +510,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/17/2018",
+		"updated": "04/17/2018"
 	},
 	{
 		"name": "YRBRO",
@@ -518,7 +519,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2012",
+		"updated": "06/15/2012"
 	},
 	{
 		"name": "YUBUG",
@@ -527,7 +528,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/03/2014",
+		"updated": "06/03/2014"
 	},
 	{
 		"name": "YUBUT",
@@ -536,7 +537,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "YUBUY",
@@ -545,7 +546,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/30/2017",
+		"updated": "06/30/2017"
 	},
 	{
 		"name": "YUBYU",
@@ -554,7 +555,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/30/2013",
+		"updated": "04/30/2013"
 	},
 	{
 		"name": "YUCBA",
@@ -563,7 +564,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "YUCBU",
@@ -572,7 +573,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2011",
+		"updated": "06/16/2011"
 	},
 	{
 		"name": "YUCDO",
@@ -581,7 +582,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/01/2009",
+		"updated": "04/01/2009"
 	},
 	{
 		"name": "YUDNU",
@@ -590,7 +591,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "YUDUT",
@@ -599,7 +600,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/15/2014",
+		"updated": "08/15/2014"
 	},
 	{
 		"name": "YUGPU",
@@ -608,7 +609,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HLI*VORTAC*255.99/10.00",
+		"updated": "HLI*VORTAC*255.99/10.00"
 	},
 	{
 		"name": "YUHHO",
@@ -617,7 +618,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/18/2004",
+		"updated": "10/18/2004"
 	},
 	{
 		"name": "YUNUR",
@@ -626,7 +627,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/05/2014",
+		"updated": "02/05/2014"
 	},
 	{
 		"name": "YUTUT",
@@ -635,7 +636,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "YUUNS",
@@ -644,7 +645,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "YUZZY",
@@ -653,7 +654,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/18/2009",
+		"updated": "05/18/2009"
 	},
 	{
 		"name": "YYALL",
@@ -662,5 +663,6 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/28/2014",
-	},
+		"updated": "05/28/2014"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "VACTE",
 		"latitude": "28-6-10.16 N",
@@ -5,7 +6,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/05/2012",
+		"updated": "08/05/2012"
 	},
 	{
 		"name": "VADDO",
@@ -14,7 +15,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "VALCH",
@@ -23,7 +24,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/15/2008",
+		"updated": "07/15/2008"
 	},
 	{
 		"name": "VALKA",
@@ -32,7 +33,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "TRV*VORTAC*350.17/15.00",
+		"updated": "TRV*VORTAC*350.17/15.00"
 	},
 	{
 		"name": "VALLY",
@@ -41,7 +42,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "VKZ*VOR/DME*057.89/67.72",
+		"updated": "VKZ*VOR/DME*057.89/67.72"
 	},
 	{
 		"name": "VALWX",
@@ -50,7 +51,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/30/2016",
+		"updated": "06/30/2016"
 	},
 	{
 		"name": "VANUY",
@@ -59,7 +60,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "03/18/2013",
+		"updated": "03/18/2013"
 	},
 	{
 		"name": "VAPOR",
@@ -68,7 +69,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "VIN*LD*E CRS/13.77",
+		"updated": "VIN*LD*E CRS/13.77"
 	},
 	{
 		"name": "VASES",
@@ -77,7 +78,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "LBV*VORTAC*265.00",
+		"updated": "LBV*VORTAC*265.00"
 	},
 	{
 		"name": "VASQZ",
@@ -86,7 +87,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "LBV*VORTAC*042.26/10.00",
+		"updated": "LBV*VORTAC*042.26/10.00"
 	},
 	{
 		"name": "VAULT",
@@ -95,7 +96,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/28/2017",
+		"updated": "06/28/2017"
 	},
 	{
 		"name": "VAYQO",
@@ -104,7 +105,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/03/2001",
+		"updated": "08/03/2001"
 	},
 	{
 		"name": "VECIE",
@@ -113,7 +114,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "12/17/2010",
+		"updated": "12/17/2010"
 	},
 	{
 		"name": "VEGIE",
@@ -122,7 +123,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "HST*TACAN*294.00/38.00",
+		"updated": "HST*TACAN*294.00/38.00"
 	},
 	{
 		"name": "VEPCO",
@@ -131,7 +132,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "GEM*LD*NW CRS/7.61",
+		"updated": "GEM*LD*NW CRS/7.61"
 	},
 	{
 		"name": "VICHY",
@@ -140,7 +141,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/03/2015",
+		"updated": "08/03/2015"
 	},
 	{
 		"name": "VICLB",
@@ -149,7 +150,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "02/16/2010",
+		"updated": "02/16/2010"
 	},
 	{
 		"name": "VICUV",
@@ -158,7 +159,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/09/2007",
+		"updated": "04/09/2007"
 	},
 	{
 		"name": "VIGGO",
@@ -167,7 +168,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "12/29/2008",
+		"updated": "12/29/2008"
 	},
 	{
 		"name": "VIOLA",
@@ -176,7 +177,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "LBV*VORTAC*277.49",
+		"updated": "LBV*VORTAC*277.49"
 	},
 	{
 		"name": "VIZAF",
@@ -185,7 +186,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "11/09/2009",
+		"updated": "11/09/2009"
 	},
 	{
 		"name": "VNDAL",
@@ -194,7 +195,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "12/29/2009",
+		"updated": "12/29/2009"
 	},
 	{
 		"name": "VOYUT",
@@ -203,7 +204,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/11/2012",
+		"updated": "07/11/2012"
 	},
 	{
 		"name": "VPACH",
@@ -212,7 +213,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "08/19/2009",
+		"updated": "08/19/2009"
 	},
 	{
 		"name": "VPBOV",
@@ -221,7 +222,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "07/14/2003",
+		"updated": "07/14/2003"
 	},
 	{
 		"name": "VPCLE",
@@ -230,7 +231,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "08/30/2001",
+		"updated": "08/30/2001"
 	},
 	{
 		"name": "VPCNY",
@@ -239,7 +240,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "07/14/2003",
+		"updated": "07/14/2003"
 	},
 	{
 		"name": "VPCTE",
@@ -248,7 +249,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "08/30/2001",
+		"updated": "08/30/2001"
 	},
 	{
 		"name": "VPDUT",
@@ -257,7 +258,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "07/14/2003",
+		"updated": "07/14/2003"
 	},
 	{
 		"name": "VPDZE",
@@ -266,7 +267,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "08/30/2001",
+		"updated": "08/30/2001"
 	},
 	{
 		"name": "VPEDY",
@@ -275,7 +276,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "12/22/2003",
+		"updated": "12/22/2003"
 	},
 	{
 		"name": "VPFAH",
@@ -284,7 +285,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "08/28/2001",
+		"updated": "08/28/2001"
 	},
 	{
 		"name": "VPGPE",
@@ -293,7 +294,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "07/14/2003",
+		"updated": "07/14/2003"
 	},
 	{
 		"name": "VPHRO",
@@ -302,7 +303,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "08/30/2001",
+		"updated": "08/30/2001"
 	},
 	{
 		"name": "VPIBR",
@@ -311,7 +312,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "08/30/2001",
+		"updated": "08/30/2001"
 	},
 	{
 		"name": "VPKER",
@@ -320,7 +321,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "07/14/2003",
+		"updated": "07/14/2003"
 	},
 	{
 		"name": "VPKOE",
@@ -329,7 +330,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "08/28/2001",
+		"updated": "08/28/2001"
 	},
 	{
 		"name": "VPLEV",
@@ -338,7 +339,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "07/14/2003",
+		"updated": "07/14/2003"
 	},
 	{
 		"name": "VPLYY",
@@ -347,7 +348,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "08/30/2001",
+		"updated": "08/30/2001"
 	},
 	{
 		"name": "VPMBO",
@@ -356,7 +357,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "08/19/2009",
+		"updated": "08/19/2009"
 	},
 	{
 		"name": "VPOBA",
@@ -365,7 +366,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "07/14/2003",
+		"updated": "07/14/2003"
 	},
 	{
 		"name": "VPRBI",
@@ -374,7 +375,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "07/14/2003",
+		"updated": "07/14/2003"
 	},
 	{
 		"name": "VPRNL",
@@ -383,7 +384,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "07/14/2003",
+		"updated": "07/14/2003"
 	},
 	{
 		"name": "VPWMO",
@@ -392,7 +393,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "VFR",
-		"updated": "08/30/2001",
+		"updated": "08/30/2001"
 	},
 	{
 		"name": "VRGAS",
@@ -401,7 +402,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "EYW*VORTAC*100.12/37.28",
+		"updated": "EYW*VORTAC*100.12/37.28"
 	},
 	{
 		"name": "VRNON",
@@ -410,7 +411,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MW",
-		"updated": "06/20/2007",
+		"updated": "06/20/2007"
 	},
 	{
 		"name": "VURYU",
@@ -419,7 +420,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/07/2006",
+		"updated": "08/07/2006"
 	},
 	{
 		"name": "VUYUY",
@@ -428,7 +429,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/02/2014",
+		"updated": "04/02/2014"
 	},
 	{
 		"name": "VVMAX",
@@ -437,5 +438,6 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/07/2006",
-	},
+		"updated": "08/07/2006"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "SAAKO",
 		"latitude": "21-3-39.58 N",
@@ -5,7 +6,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "GTK*VORTAC*218.00/27.00",
+		"updated": "GTK*VORTAC*218.00/27.00"
 	},
 	{
 		"name": "SABEE",
@@ -14,7 +15,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PIE*VORTAC*156.70/55.66",
+		"updated": "PIE*VORTAC*156.70/55.66"
 	},
 	{
 		"name": "SABOT",
@@ -23,7 +24,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ORL*VORTAC*161.82/18.35",
+		"updated": "ORL*VORTAC*161.82/18.35"
 	},
 	{
 		"name": "SABRA",
@@ -32,7 +33,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/04/2006",
+		"updated": "08/04/2006"
 	},
 	{
 		"name": "SABRE",
@@ -41,7 +42,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/08/2008",
+		"updated": "04/08/2008"
 	},
 	{
 		"name": "SACCK",
@@ -50,7 +51,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/14/2014",
+		"updated": "08/14/2014"
 	},
 	{
 		"name": "SACRA",
@@ -59,7 +60,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/03/2015",
+		"updated": "08/03/2015"
 	},
 	{
 		"name": "SAGLE",
@@ -68,7 +69,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MW",
-		"updated": "01/12/2010",
+		"updated": "01/12/2010"
 	},
 	{
 		"name": "SAMPY",
@@ -77,7 +78,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/09/2009",
+		"updated": "06/09/2009"
 	},
 	{
 		"name": "SANNS",
@@ -86,7 +87,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZQA*VOR/DME*250.24/30.82",
+		"updated": "ZQA*VOR/DME*250.24/30.82"
 	},
 	{
 		"name": "SANOY",
@@ -95,7 +96,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "10/02/2007",
+		"updated": "10/02/2007"
 	},
 	{
 		"name": "SANZZ",
@@ -104,7 +105,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "12/20/2009",
+		"updated": "12/20/2009"
 	},
 	{
 		"name": "SAPPO",
@@ -113,7 +114,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "10/22/2009",
+		"updated": "10/22/2009"
 	},
 	{
 		"name": "SARCO",
@@ -122,7 +123,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "VKZ*VOR/DME*050.11",
+		"updated": "VKZ*VOR/DME*050.11"
 	},
 	{
 		"name": "SAWGA",
@@ -131,7 +132,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PIE*VORTAC*180.64/2.58",
+		"updated": "PIE*VORTAC*180.64/2.58"
 	},
 	{
 		"name": "SAXNN",
@@ -140,7 +141,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "EYW*VORTAC*235.00/10.00",
+		"updated": "EYW*VORTAC*235.00/10.00"
 	},
 	{
 		"name": "SAZBO",
@@ -149,7 +150,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "DHP*VORTAC*350.39",
+		"updated": "DHP*VORTAC*350.39"
 	},
 	{
 		"name": "SCATE",
@@ -158,7 +159,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "02/12/2012",
+		"updated": "02/12/2012"
 	},
 	{
 		"name": "SCHUZ",
@@ -167,7 +168,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/30/2011",
+		"updated": "06/30/2011"
 	},
 	{
 		"name": "SCOBY",
@@ -176,7 +177,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "05/28/2008",
+		"updated": "05/28/2008"
 	},
 	{
 		"name": "SEAAN",
@@ -185,7 +186,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZQA*VOR/DME*108.42/32.00",
+		"updated": "ZQA*VOR/DME*108.42/32.00"
 	},
 	{
 		"name": "SEAMO",
@@ -194,7 +195,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "11/10/2009",
+		"updated": "11/10/2009"
 	},
 	{
 		"name": "SEBLE",
@@ -203,7 +204,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "NQX*TACAN*224.00/11.00",
+		"updated": "NQX*TACAN*224.00/11.00"
 	},
 	{
 		"name": "SEBUG",
@@ -212,7 +213,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PTA*VOR/DME*023.16/70.53",
+		"updated": "PTA*VOR/DME*023.16/70.53"
 	},
 	{
 		"name": "SECOR",
@@ -221,7 +222,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/01/2006",
+		"updated": "08/01/2006"
 	},
 	{
 		"name": "SEGLE",
@@ -230,7 +231,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "10/29/2007",
+		"updated": "10/29/2007"
 	},
 	{
 		"name": "SEKAR",
@@ -239,7 +240,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZIN*NDB*106.81",
+		"updated": "ZIN*NDB*106.81"
 	},
 	{
 		"name": "SELMN",
@@ -248,7 +249,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PIE*VORTAC*127.34",
+		"updated": "PIE*VORTAC*127.34"
 	},
 	{
 		"name": "SENOY",
@@ -257,7 +258,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/04/2006",
+		"updated": "08/04/2006"
 	},
 	{
 		"name": "SERAY",
@@ -266,7 +267,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "CER*LD*185.48/13.79",
+		"updated": "CER*LD*185.48/13.79"
 	},
 	{
 		"name": "SERFS",
@@ -275,7 +276,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "LBV*VORTAC*265.00",
+		"updated": "LBV*VORTAC*265.00"
 	},
 	{
 		"name": "SESOC",
@@ -284,7 +285,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/11/2012",
+		"updated": "07/11/2012"
 	},
 	{
 		"name": "SETME",
@@ -293,7 +294,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "10/24/2007",
+		"updated": "10/24/2007"
 	},
 	{
 		"name": "SETUE",
@@ -302,7 +303,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "12/12/2017",
+		"updated": "12/12/2017"
 	},
 	{
 		"name": "SHALW",
@@ -311,7 +312,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/07/2006",
+		"updated": "08/07/2006"
 	},
 	{
 		"name": "SHANC",
@@ -320,7 +321,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "VKZ*VOR/DME*348.00/35.00",
+		"updated": "VKZ*VOR/DME*348.00/35.00"
 	},
 	{
 		"name": "SHANN",
@@ -329,7 +330,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "DCX*LD*124.47/16.70",
+		"updated": "DCX*LD*124.47/16.70"
 	},
 	{
 		"name": "SHAQQ",
@@ -338,7 +339,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "01/20/2006",
+		"updated": "01/20/2006"
 	},
 	{
 		"name": "SHBAG",
@@ -347,7 +348,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "10/24/2007",
+		"updated": "10/24/2007"
 	},
 	{
 		"name": "SHDEE",
@@ -356,7 +357,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "12/06/2011",
+		"updated": "12/06/2011"
 	},
 	{
 		"name": "SHEDS",
@@ -365,7 +366,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PHK*VOR/DME*010.19/31.52",
+		"updated": "PHK*VOR/DME*010.19/31.52"
 	},
 	{
 		"name": "SHFTY",
@@ -374,7 +375,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "02/08/2012",
+		"updated": "02/08/2012"
 	},
 	{
 		"name": "SHIRL",
@@ -383,7 +384,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/09/2009",
+		"updated": "06/09/2009"
 	},
 	{
 		"name": "SHOEZ",
@@ -392,7 +393,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZIN*NDB*080.03",
+		"updated": "ZIN*NDB*080.03"
 	},
 	{
 		"name": "SHOWW",
@@ -401,7 +402,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "SHRKY",
@@ -410,7 +411,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "11/10/2009",
+		"updated": "11/10/2009"
 	},
 	{
 		"name": "SHULA",
@@ -419,7 +420,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/07/2006",
+		"updated": "08/07/2006"
 	},
 	{
 		"name": "SHUTE",
@@ -428,7 +429,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "02/12/2012",
+		"updated": "02/12/2012"
 	},
 	{
 		"name": "SIGNL",
@@ -437,7 +438,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "DHP*VORTAC*334.68/84.78",
+		"updated": "DHP*VORTAC*334.68/84.78"
 	},
 	{
 		"name": "SIKOY",
@@ -446,7 +447,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "SYK*LD*274.99/6.47",
+		"updated": "SYK*LD*274.99/6.47"
 	},
 	{
 		"name": "SILIE",
@@ -455,7 +456,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "SILKY",
@@ -464,7 +465,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "OJP*LD*185.46/11.07",
+		"updated": "OJP*LD*185.46/11.07"
 	},
 	{
 		"name": "SIMMR",
@@ -473,7 +474,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "05/14/2007",
+		"updated": "05/14/2007"
 	},
 	{
 		"name": "SIMPL",
@@ -482,7 +483,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "01/20/2006",
+		"updated": "01/20/2006"
 	},
 	{
 		"name": "SINGL",
@@ -491,7 +492,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/08/2008",
+		"updated": "04/08/2008"
 	},
 	{
 		"name": "SIVHO",
@@ -500,7 +501,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "02/22/2010",
+		"updated": "02/22/2010"
 	},
 	{
 		"name": "SIVYO",
@@ -509,7 +510,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "FJD*LD*277.47/3.23",
+		"updated": "FJD*LD*277.47/3.23"
 	},
 	{
 		"name": "SIYOL",
@@ -518,7 +519,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "03/18/2013",
+		"updated": "03/18/2013"
 	},
 	{
 		"name": "SKHOT",
@@ -527,7 +528,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/08/2008",
+		"updated": "04/08/2008"
 	},
 	{
 		"name": "SKIPP",
@@ -536,7 +537,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "EYW*VORTAC*278.00/5.99",
+		"updated": "EYW*VORTAC*278.00/5.99"
 	},
 	{
 		"name": "SKIPS",
@@ -545,7 +546,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZBV*VORTAC*177.09/9.05",
+		"updated": "ZBV*VORTAC*177.09/9.05"
 	},
 	{
 		"name": "SKIWX",
@@ -554,7 +555,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "01/28/2016",
+		"updated": "01/28/2016"
 	},
 	{
 		"name": "SKORE",
@@ -563,7 +564,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "02/12/2012",
+		"updated": "02/12/2012"
 	},
 	{
 		"name": "SLEMA",
@@ -572,7 +573,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/08/2008",
+		"updated": "04/08/2008"
 	},
 	{
 		"name": "SLIDZ",
@@ -581,7 +582,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/13/2015",
+		"updated": "08/13/2015"
 	},
 	{
 		"name": "SLUKA",
@@ -590,7 +591,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/08/2008",
+		"updated": "04/08/2008"
 	},
 	{
 		"name": "SMERE",
@@ -599,7 +600,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "MLB*VOR/DME*189.18/21.38",
+		"updated": "MLB*VOR/DME*189.18/21.38"
 	},
 	{
 		"name": "SMGLR",
@@ -608,7 +609,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "11/10/2009",
+		"updated": "11/10/2009"
 	},
 	{
 		"name": "SMTTY",
@@ -617,7 +618,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/09/2008",
+		"updated": "04/09/2008"
 	},
 	{
 		"name": "SMUGS",
@@ -626,7 +627,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PHK*VOR/DME*041.00",
+		"updated": "PHK*VOR/DME*041.00"
 	},
 	{
 		"name": "SNAPE",
@@ -635,7 +636,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "UDL*LD*096.37/7.53",
+		"updated": "UDL*LD*096.37/7.53"
 	},
 	{
 		"name": "SNDLR",
@@ -644,7 +645,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "10/26/2009",
+		"updated": "10/26/2009"
 	},
 	{
 		"name": "SNOKE",
@@ -653,7 +654,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "02/20/2008",
+		"updated": "02/20/2008"
 	},
 	{
 		"name": "SNOMN",
@@ -662,7 +663,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/01/2006",
+		"updated": "08/01/2006"
 	},
 	{
 		"name": "SNORK",
@@ -671,7 +672,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "03/23/2015",
+		"updated": "03/23/2015"
 	},
 	{
 		"name": "SNSBK",
@@ -680,7 +681,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZFP*VOR/DME*269.08/40.00",
+		"updated": "ZFP*VOR/DME*269.08/40.00"
 	},
 	{
 		"name": "SOBAY",
@@ -689,7 +690,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PIE*VORTAC*132.00/11.00",
+		"updated": "PIE*VORTAC*132.00/11.00"
 	},
 	{
 		"name": "SOBPO",
@@ -698,7 +699,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/13/2014",
+		"updated": "06/13/2014"
 	},
 	{
 		"name": "SOKIE",
@@ -707,7 +708,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/13/2005",
+		"updated": "07/13/2005"
 	},
 	{
 		"name": "SOLEI",
@@ -716,7 +717,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "GTK*VORTAC*290.48/107.22",
+		"updated": "GTK*VORTAC*290.48/107.22"
 	},
 	{
 		"name": "SOMMY",
@@ -725,7 +726,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "EYW*VORTAC*077.26/41.80",
+		"updated": "EYW*VORTAC*077.26/41.80"
 	},
 	{
 		"name": "SONES",
@@ -734,7 +735,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PIE*VORTAC*178.01/6.55",
+		"updated": "PIE*VORTAC*178.01/6.55"
 	},
 	{
 		"name": "SOPHA",
@@ -743,7 +744,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "05/11/2016",
+		"updated": "05/11/2016"
 	},
 	{
 		"name": "SORGO",
@@ -752,7 +753,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "LAL*VORTAC*070.99/9.00",
+		"updated": "LAL*VORTAC*070.99/9.00"
 	},
 	{
 		"name": "SOUBY",
@@ -761,7 +762,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "VKZ*VOR/DME*315.00",
+		"updated": "VKZ*VOR/DME*315.00"
 	},
 	{
 		"name": "SPAAD",
@@ -770,7 +771,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "NQX*TACAN*155.00/11.00",
+		"updated": "NQX*TACAN*155.00/11.00"
 	},
 	{
 		"name": "SPACS",
@@ -779,7 +780,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/19/2010",
+		"updated": "06/19/2010"
 	},
 	{
 		"name": "SPECO",
@@ -788,7 +789,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "MCF*TACAN*053.00/5.00",
+		"updated": "MCF*TACAN*053.00/5.00"
 	},
 	{
 		"name": "SPNKE",
@@ -797,7 +798,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/15/2008",
+		"updated": "07/15/2008"
 	},
 	{
 		"name": "SPOUN",
@@ -806,7 +807,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "01/22/2009",
+		"updated": "01/22/2009"
 	},
 	{
 		"name": "SPURR",
@@ -815,7 +816,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "DDO*LD*185.47/6.39",
+		"updated": "DDO*LD*185.47/6.39"
 	},
 	{
 		"name": "SPYKS",
@@ -824,7 +825,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "10/26/2009",
+		"updated": "10/26/2009"
 	},
 	{
 		"name": "SRKUS",
@@ -833,7 +834,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "11/11/2010",
+		"updated": "11/11/2010"
 	},
 	{
 		"name": "SSCOT",
@@ -842,7 +843,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/07/2006",
+		"updated": "08/07/2006"
 	},
 	{
 		"name": "STANL",
@@ -851,7 +852,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "10/02/2006",
+		"updated": "10/02/2006"
 	},
 	{
 		"name": "STAPL",
@@ -860,7 +861,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/10/2012",
+		"updated": "04/10/2012"
 	},
 	{
 		"name": "STARK",
@@ -869,7 +870,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/30/2016",
+		"updated": "06/30/2016"
 	},
 	{
 		"name": "STARS",
@@ -878,7 +879,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/09/2013",
+		"updated": "08/09/2013"
 	},
 	{
 		"name": "STIFF",
@@ -887,7 +888,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZFP*VOR/DME*005.51/62.88",
+		"updated": "ZFP*VOR/DME*005.51/62.88"
 	},
 	{
 		"name": "STING",
@@ -896,7 +897,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "EYW*VORTAC*359.74/17.69",
+		"updated": "EYW*VORTAC*359.74/17.69"
 	},
 	{
 		"name": "STOOP",
@@ -905,7 +906,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PHK*VOR/DME*046.71",
+		"updated": "PHK*VOR/DME*046.71"
 	},
 	{
 		"name": "STRAP",
@@ -914,7 +915,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "EYW*VORTAC*037.00/18.69",
+		"updated": "EYW*VORTAC*037.00/18.69"
 	},
 	{
 		"name": "STRUD",
@@ -923,7 +924,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "GTK*VORTAC*321.85/65.61",
+		"updated": "GTK*VORTAC*321.85/65.61"
 	},
 	{
 		"name": "STRUG",
@@ -932,7 +933,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/09/2009",
+		"updated": "06/09/2009"
 	},
 	{
 		"name": "STUUU",
@@ -941,7 +942,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/11/2008",
+		"updated": "07/11/2008"
 	},
 	{
 		"name": "SUMEE",
@@ -950,7 +951,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "10/26/2009",
+		"updated": "10/26/2009"
 	},
 	{
 		"name": "SUNDY",
@@ -959,7 +960,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "01/14/2009",
+		"updated": "01/14/2009"
 	},
 	{
 		"name": "SUNFN",
@@ -968,7 +969,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "LAL*LD*273.85/3.46",
+		"updated": "LAL*LD*273.85/3.46"
 	},
 	{
 		"name": "SURFN",
@@ -977,7 +978,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PBI*VORTAC*025.38/37.71",
+		"updated": "PBI*VORTAC*025.38/37.71"
 	},
 	{
 		"name": "SUROY",
@@ -986,7 +987,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/10/2012",
+		"updated": "08/10/2012"
 	},
 	{
 		"name": "SUZEN",
@@ -995,7 +996,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "SWAGS",
@@ -1004,7 +1005,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PHK*VOR/DME*211.35/42.39",
+		"updated": "PHK*VOR/DME*211.35/42.39"
 	},
 	{
 		"name": "SWIMM",
@@ -1013,7 +1014,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZBV*VORTAC*135.30/18.50",
+		"updated": "ZBV*VORTAC*135.30/18.50"
 	},
 	{
 		"name": "SWOMP",
@@ -1022,7 +1023,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "10/20/2009",
+		"updated": "10/20/2009"
 	},
 	{
 		"name": "SYDNY",
@@ -1031,7 +1032,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZQA*VOR/DME*329.75/39.88",
+		"updated": "ZQA*VOR/DME*329.75/39.88"
 	},
 	{
 		"name": "SYKES",
@@ -1040,7 +1041,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "LAL*VORTAC*250.00/58.37",
+		"updated": "LAL*VORTAC*250.00/58.37"
 	},
 	{
 		"name": "SYRIL",
@@ -1049,5 +1050,6 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "11/26/2002",
-	},
+		"updated": "11/26/2002"
+	}
+]

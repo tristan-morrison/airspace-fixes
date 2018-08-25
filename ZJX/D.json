@@ -1,3 +1,4 @@
+[
 	{
 		"name": "DAALE",
 		"latitude": "32-50-13.38 N",
@@ -5,7 +6,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CHS*VORTAC*216.00/4.00",
+		"updated": "CHS*VORTAC*216.00/4.00"
 	},
 	{
 		"name": "DAASY",
@@ -14,7 +15,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/02/2011",
+		"updated": "06/02/2011"
 	},
 	{
 		"name": "DABBI",
@@ -23,7 +24,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/16/2013",
+		"updated": "10/16/2013"
 	},
 	{
 		"name": "DACAR",
@@ -32,7 +33,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "SZW*VORTAC*173.53/14.50",
+		"updated": "SZW*VORTAC*173.53/14.50"
 	},
 	{
 		"name": "DADES",
@@ -41,7 +42,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "PIE*VORTAC*045.00/35.59",
+		"updated": "PIE*VORTAC*045.00/35.59"
 	},
 	{
 		"name": "DADPE",
@@ -50,7 +51,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "03/16/2007",
+		"updated": "03/16/2007"
 	},
 	{
 		"name": "DAFIE",
@@ -59,7 +60,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/24/2007",
+		"updated": "10/24/2007"
 	},
 	{
 		"name": "DAGBE",
@@ -68,7 +69,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/02/2011",
+		"updated": "06/02/2011"
 	},
 	{
 		"name": "DALME",
@@ -77,7 +78,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "SSC*TACAN*223.12/1.80",
+		"updated": "SSC*TACAN*223.12/1.80"
 	},
 	{
 		"name": "DALTN",
@@ -86,7 +87,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CRG*VORTAC*341.88",
+		"updated": "CRG*VORTAC*341.88"
 	},
 	{
 		"name": "DALTY",
@@ -95,7 +96,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "DIZ*LD*005.47/13.91",
+		"updated": "DIZ*LD*005.47/13.91"
 	},
 	{
 		"name": "DANTE",
@@ -104,7 +105,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OCF*VORTAC*017.15",
+		"updated": "OCF*VORTAC*017.15"
 	},
 	{
 		"name": "DARBS",
@@ -113,7 +114,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "PIE*VORTAC*336.18/19.97",
+		"updated": "PIE*VORTAC*336.18/19.97"
 	},
 	{
 		"name": "DARED",
@@ -122,7 +123,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "RRS*VORTAC*229.99/27.45",
+		"updated": "RRS*VORTAC*229.99/27.45"
 	},
 	{
 		"name": "DARPE",
@@ -131,7 +132,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/14/2014",
+		"updated": "08/14/2014"
 	},
 	{
 		"name": "DATRY",
@@ -140,7 +141,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/14/2014",
+		"updated": "08/14/2014"
 	},
 	{
 		"name": "DAWWN",
@@ -149,7 +150,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/25/2016",
+		"updated": "07/25/2016"
 	},
 	{
 		"name": "DAYWU",
@@ -158,7 +159,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "11/15/2011",
+		"updated": "11/15/2011"
 	},
 	{
 		"name": "DBLNC",
@@ -167,7 +168,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "12/28/2017",
+		"updated": "12/28/2017"
 	},
 	{
 		"name": "DDAWN",
@@ -176,7 +177,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "01/26/2010",
+		"updated": "01/26/2010"
 	},
 	{
 		"name": "DDENA",
@@ -185,7 +186,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/02/2011",
+		"updated": "06/02/2011"
 	},
 	{
 		"name": "DDUNE",
@@ -194,7 +195,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "DWG*TACAN*180.00/8.00",
+		"updated": "DWG*TACAN*180.00/8.00"
 	},
 	{
 		"name": "DEBTS",
@@ -203,7 +204,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "MAI*VORTAC*044.00/14.00",
+		"updated": "MAI*VORTAC*044.00/14.00"
 	},
 	{
 		"name": "DEDDA",
@@ -212,7 +213,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/26/2013",
+		"updated": "08/26/2013"
 	},
 	{
 		"name": "DEFUN",
@@ -221,7 +222,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CEW*VORTAC*088.31/28.31",
+		"updated": "CEW*VORTAC*088.31/28.31"
 	},
 	{
 		"name": "DEKKE",
@@ -230,7 +231,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "03/26/2012",
+		"updated": "03/26/2012"
 	},
 	{
 		"name": "DELLL",
@@ -239,7 +240,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/13/2012",
+		"updated": "06/13/2012"
 	},
 	{
 		"name": "DEMIC",
@@ -248,7 +249,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "FLO*VORTAC*050.63/14.00",
+		"updated": "FLO*VORTAC*050.63/14.00"
 	},
 	{
 		"name": "DEQUE",
@@ -257,7 +258,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "SAV*VORTAC*322.00",
+		"updated": "SAV*VORTAC*322.00"
 	},
 	{
 		"name": "DERDE",
@@ -266,7 +267,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "DWG*TACAN*293.00/6.00",
+		"updated": "DWG*TACAN*293.00/6.00"
 	},
 	{
 		"name": "DERRA",
@@ -275,7 +276,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZJX",
 		"type": "WP",
-		"updated": "03/26/2002",
+		"updated": "03/26/2002"
 	},
 	{
 		"name": "DERTE",
@@ -284,7 +285,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "SSC*TACAN*/4.74",
+		"updated": "SSC*TACAN*/4.74"
 	},
 	{
 		"name": "DESEE",
@@ -293,7 +294,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "VAD*TACAN*360.00/1.70",
+		"updated": "VAD*TACAN*360.00/1.70"
 	},
 	{
 		"name": "DESKS",
@@ -302,7 +303,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "PZD*VOR/DME*029.76/12.04",
+		"updated": "PZD*VOR/DME*029.76/12.04"
 	},
 	{
 		"name": "DESNE",
@@ -311,7 +312,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/02/2011",
+		"updated": "06/02/2011"
 	},
 	{
 		"name": "DESTN",
@@ -320,7 +321,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CEW*VORTAC*161.09/26.89",
+		"updated": "CEW*VORTAC*161.09/26.89"
 	},
 	{
 		"name": "DETOO",
@@ -329,7 +330,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "VAD*TACAN*265.00/5.00",
+		"updated": "VAD*TACAN*265.00/5.00"
 	},
 	{
 		"name": "DETSE",
@@ -338,7 +339,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "DEWEL",
@@ -347,7 +348,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "DEWIX",
@@ -356,7 +357,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "05/19/2009",
+		"updated": "05/19/2009"
 	},
 	{
 		"name": "DEWUN",
@@ -365,7 +366,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "VAD*TACAN*265.00/10.00",
+		"updated": "VAD*TACAN*265.00/10.00"
 	},
 	{
 		"name": "DEWYY",
@@ -374,7 +375,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "03/02/2009",
+		"updated": "03/02/2009"
 	},
 	{
 		"name": "DEXBU",
@@ -383,7 +384,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "05/01/2015",
+		"updated": "05/01/2015"
 	},
 	{
 		"name": "DEYER",
@@ -392,7 +393,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "11/28/2012",
+		"updated": "11/28/2012"
 	},
 	{
 		"name": "DFOUR",
@@ -401,7 +402,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "VAD*TACAN*220.00/19.00",
+		"updated": "VAD*TACAN*220.00/19.00"
 	},
 	{
 		"name": "DIGGR",
@@ -410,7 +411,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OMN*VORTAC*191.00/15.00",
+		"updated": "OMN*VORTAC*191.00/15.00"
 	},
 	{
 		"name": "DIMON",
@@ -419,7 +420,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "NBC*TACAN*145.00/30.00",
+		"updated": "NBC*TACAN*145.00/30.00"
 	},
 	{
 		"name": "DINNS",
@@ -428,7 +429,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "JAX*LS*256.54",
+		"updated": "JAX*LS*256.54"
 	},
 	{
 		"name": "DIOLS",
@@ -437,7 +438,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/07/2015",
+		"updated": "07/07/2015"
 	},
 	{
 		"name": "DIPAY",
@@ -446,7 +447,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "02/15/2010",
+		"updated": "02/15/2010"
 	},
 	{
 		"name": "DIPDE",
@@ -455,7 +456,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/26/2013",
+		"updated": "08/26/2013"
 	},
 	{
 		"name": "DIPHY",
@@ -464,7 +465,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "04/16/2009",
+		"updated": "04/16/2009"
 	},
 	{
 		"name": "DIPZI",
@@ -473,7 +474,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "11/21/2008",
+		"updated": "11/21/2008"
 	},
 	{
 		"name": "DITME",
@@ -482,7 +483,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/14/2009",
+		"updated": "07/14/2009"
 	},
 	{
 		"name": "DIXYN",
@@ -491,7 +492,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CRG*VORTAC*312.08/12.01",
+		"updated": "CRG*VORTAC*312.08/12.01"
 	},
 	{
 		"name": "DIYAK",
@@ -500,7 +501,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OMN*VORTAC*123.50",
+		"updated": "OMN*VORTAC*123.50"
 	},
 	{
 		"name": "DMAIP",
@@ -509,7 +510,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "SSI*VORTAC*359.00/9.30",
+		"updated": "SSI*VORTAC*359.00/9.30"
 	},
 	{
 		"name": "DMFBJ",
@@ -518,7 +519,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "CN",
-		"updated": "10/29/2008",
+		"updated": "10/29/2008"
 	},
 	{
 		"name": "DNAHU",
@@ -527,7 +528,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "08/24/2015",
+		"updated": "08/24/2015"
 	},
 	{
 		"name": "DNESS",
@@ -536,7 +537,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "05/16/2013",
+		"updated": "05/16/2013"
 	},
 	{
 		"name": "DNMOR",
@@ -545,7 +546,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "ORL*VORTAC*247.61/5.99",
+		"updated": "ORL*VORTAC*247.61/5.99"
 	},
 	{
 		"name": "DOBOY",
@@ -554,7 +555,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "WP",
-		"updated": "SSI*VORTAC*034.70/14.90",
+		"updated": "SSI*VORTAC*034.70/14.90"
 	},
 	{
 		"name": "DOCGA",
@@ -563,7 +564,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "01/07/2010",
+		"updated": "01/07/2010"
 	},
 	{
 		"name": "DOCPE",
@@ -572,7 +573,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/24/2004",
+		"updated": "08/24/2004"
 	},
 	{
 		"name": "DODNY",
@@ -581,7 +582,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CTY*VORTAC*112.70",
+		"updated": "CTY*VORTAC*112.70"
 	},
 	{
 		"name": "DOGGI",
@@ -590,7 +591,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "SZW*VORTAC*001.62/30.53",
+		"updated": "SZW*VORTAC*001.62/30.53"
 	},
 	{
 		"name": "DOGRE",
@@ -599,7 +600,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/24/2005",
+		"updated": "08/24/2005"
 	},
 	{
 		"name": "DOMES",
@@ -608,7 +609,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/07/2005",
+		"updated": "07/07/2005"
 	},
 	{
 		"name": "DOMMM",
@@ -617,7 +618,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "05/14/2008",
+		"updated": "05/14/2008"
 	},
 	{
 		"name": "DOMPI",
@@ -626,7 +627,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "09/15/2009",
+		"updated": "09/15/2009"
 	},
 	{
 		"name": "DONAC",
@@ -635,7 +636,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "MAI*VORTAC*044.00/18.04",
+		"updated": "MAI*VORTAC*044.00/18.04"
 	},
 	{
 		"name": "DONEY",
@@ -644,7 +645,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "DONGS",
@@ -653,7 +654,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OMN*VORTAC*211.77/11.83",
+		"updated": "OMN*VORTAC*211.77/11.83"
 	},
 	{
 		"name": "DONHU",
@@ -662,7 +663,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "PIE*VORTAC*355.00/16.00",
+		"updated": "PIE*VORTAC*355.00/16.00"
 	},
 	{
 		"name": "DONNO",
@@ -671,7 +672,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "06/28/2016",
+		"updated": "06/28/2016"
 	},
 	{
 		"name": "DOOKY",
@@ -680,7 +681,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "01/23/2018",
+		"updated": "01/23/2018"
 	},
 	{
 		"name": "DORCE",
@@ -689,7 +690,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "VAN*VORTAC*193.00",
+		"updated": "VAN*VORTAC*193.00"
 	},
 	{
 		"name": "DORLY",
@@ -698,7 +699,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "01/01/2010",
+		"updated": "01/01/2010"
 	},
 	{
 		"name": "DOTMY",
@@ -707,7 +708,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "RBW*LD*049.06/6.33",
+		"updated": "RBW*LD*049.06/6.33"
 	},
 	{
 		"name": "DOUGH",
@@ -716,7 +717,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "FLO*VORTAC*262.03/67.19",
+		"updated": "FLO*VORTAC*262.03/67.19"
 	},
 	{
 		"name": "DOVER",
@@ -725,7 +726,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "ALD*VOR*216.31",
+		"updated": "ALD*VOR*216.31"
 	},
 	{
 		"name": "DOWGS",
@@ -734,7 +735,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "VAD*TACAN*338.00/27.00",
+		"updated": "VAD*TACAN*338.00/27.00"
 	},
 	{
 		"name": "DOZER",
@@ -743,7 +744,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "OZR*VOR/DME*268.00",
+		"updated": "OZR*VOR/DME*268.00"
 	},
 	{
 		"name": "DRABK",
@@ -752,7 +753,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/07/2005",
+		"updated": "07/07/2005"
 	},
 	{
 		"name": "DRAFT",
@@ -761,7 +762,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CTY*VORTAC*066.00",
+		"updated": "CTY*VORTAC*066.00"
 	},
 	{
 		"name": "DREBL",
@@ -770,7 +771,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "02/28/2000",
+		"updated": "02/28/2000"
 	},
 	{
 		"name": "DREWE",
@@ -779,7 +780,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "DRMAR",
@@ -788,7 +789,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "09/05/2013",
+		"updated": "09/05/2013"
 	},
 	{
 		"name": "DRUDJ",
@@ -797,7 +798,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CRG*VORTAC*171.00/99.40",
+		"updated": "CRG*VORTAC*171.00/99.40"
 	},
 	{
 		"name": "DSTEE",
@@ -806,7 +807,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "FLO*VORTAC*320.89/22.83",
+		"updated": "FLO*VORTAC*320.89/22.83"
 	},
 	{
 		"name": "DTREE",
@@ -815,7 +816,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "VAD*TACAN*265.00/2.00",
+		"updated": "VAD*TACAN*265.00/2.00"
 	},
 	{
 		"name": "DTSCA",
@@ -824,7 +825,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSCB",
@@ -833,7 +834,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSCC",
@@ -842,7 +843,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSCD",
@@ -851,7 +852,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSCE",
@@ -860,7 +861,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSCF",
@@ -869,7 +870,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSCG",
@@ -878,7 +879,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSCH",
@@ -887,7 +888,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSCI",
@@ -896,7 +897,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSCJ",
@@ -905,7 +906,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSCK",
@@ -914,7 +915,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSCL",
@@ -923,7 +924,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSCM",
@@ -932,7 +933,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSCN",
@@ -941,7 +942,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSCO",
@@ -950,7 +951,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSCP",
@@ -959,7 +960,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSCQ",
@@ -968,7 +969,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLA",
@@ -977,7 +978,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLB",
@@ -986,7 +987,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLC",
@@ -995,7 +996,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLD",
@@ -1004,7 +1005,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLE",
@@ -1013,7 +1014,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLF",
@@ -1022,7 +1023,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLG",
@@ -1031,7 +1032,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLH",
@@ -1040,7 +1041,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLI",
@@ -1049,7 +1050,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLJ",
@@ -1058,7 +1059,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLK",
@@ -1067,7 +1068,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLL",
@@ -1076,7 +1077,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLM",
@@ -1085,7 +1086,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLN",
@@ -1094,7 +1095,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLO",
@@ -1103,7 +1104,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLP",
@@ -1112,7 +1113,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSLQ",
@@ -1121,7 +1122,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSRA",
@@ -1130,7 +1131,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/28/2014",
+		"updated": "07/28/2014"
 	},
 	{
 		"name": "DTSRB",
@@ -1139,7 +1140,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSRC",
@@ -1148,7 +1149,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSRD",
@@ -1157,7 +1158,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/28/2014",
+		"updated": "07/28/2014"
 	},
 	{
 		"name": "DTSRE",
@@ -1166,7 +1167,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSRF",
@@ -1175,7 +1176,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSRG",
@@ -1184,7 +1185,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/28/2014",
+		"updated": "07/28/2014"
 	},
 	{
 		"name": "DTSRH",
@@ -1193,7 +1194,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSRI",
@@ -1202,7 +1203,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSRJ",
@@ -1211,7 +1212,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSRK",
@@ -1220,7 +1221,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSRL",
@@ -1229,7 +1230,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSRM",
@@ -1238,7 +1239,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSRN",
@@ -1247,7 +1248,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSRO",
@@ -1256,7 +1257,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSRP",
@@ -1265,7 +1266,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DTSRQ",
@@ -1274,7 +1275,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/23/2013",
+		"updated": "06/23/2013"
 	},
 	{
 		"name": "DUBTE",
@@ -1283,7 +1284,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "05/12/2015",
+		"updated": "05/12/2015"
 	},
 	{
 		"name": "DUCAN",
@@ -1292,7 +1293,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/25/2010",
+		"updated": "08/25/2010"
 	},
 	{
 		"name": "DUCGE",
@@ -1301,7 +1302,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "04/27/2010",
+		"updated": "04/27/2010"
 	},
 	{
 		"name": "DUCHY",
@@ -1310,7 +1311,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/26/2013",
+		"updated": "08/26/2013"
 	},
 	{
 		"name": "DUGVE",
@@ -1319,7 +1320,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "DUKME",
@@ -1328,7 +1329,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "RRS*VORTAC*155.29/5.00",
+		"updated": "RRS*VORTAC*155.29/5.00"
 	},
 	{
 		"name": "DUMMY",
@@ -1337,7 +1338,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "DBN*VORTAC*214.08",
+		"updated": "DBN*VORTAC*214.08"
 	},
 	{
 		"name": "DUMOY",
@@ -1346,7 +1347,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/24/2011",
+		"updated": "10/24/2011"
 	},
 	{
 		"name": "DUNGY",
@@ -1355,7 +1356,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "FLO*VORTAC*006.32/17.63",
+		"updated": "FLO*VORTAC*006.32/17.63"
 	},
 	{
 		"name": "DUNKN",
@@ -1364,7 +1365,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CRG*VORTAC*349.68/100.91",
+		"updated": "CRG*VORTAC*349.68/100.91"
 	},
 	{
 		"name": "DUNTE",
@@ -1373,7 +1374,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/26/2013",
+		"updated": "08/26/2013"
 	},
 	{
 		"name": "DURME",
@@ -1382,7 +1383,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "12/17/2007",
+		"updated": "12/17/2007"
 	},
 	{
 		"name": "DURTE",
@@ -1391,7 +1392,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/29/2013",
+		"updated": "08/29/2013"
 	},
 	{
 		"name": "DUSBE",
@@ -1400,7 +1401,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/24/2015",
+		"updated": "08/24/2015"
 	},
 	{
 		"name": "DUTEE",
@@ -1409,7 +1410,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "FLO*VORTAC*224.00/11.00",
+		"updated": "FLO*VORTAC*224.00/11.00"
 	},
 	{
 		"name": "DUTTY",
@@ -1418,7 +1419,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CRG*VORTAC*214.00/40.00",
+		"updated": "CRG*VORTAC*214.00/40.00"
 	},
 	{
 		"name": "DUVAT",
@@ -1427,7 +1428,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "EUF*VORTAC*088.00",
+		"updated": "EUF*VORTAC*088.00"
 	},
 	{
 		"name": "DUWOT",
@@ -1436,7 +1437,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "11/13/2009",
+		"updated": "11/13/2009"
 	},
 	{
 		"name": "DUYAL",
@@ -1445,7 +1446,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "CAE*VORTAC*094.05",
+		"updated": "CAE*VORTAC*094.05"
 	},
 	{
 		"name": "DUYER",
@@ -1454,7 +1455,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "12/01/2017",
+		"updated": "12/01/2017"
 	},
 	{
 		"name": "DUZJI",
@@ -1463,7 +1464,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "DWYTE",
@@ -1472,7 +1473,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "FLO*VORTAC*087.91/19.49",
+		"updated": "FLO*VORTAC*087.91/19.49"
 	},
 	{
 		"name": "DYEES",
@@ -1481,7 +1482,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "06/11/1993",
+		"updated": "06/11/1993"
 	},
 	{
 		"name": "DYMND",
@@ -1490,5 +1491,6 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "VAD*TACAN*266.00/22.00",
-	},
+		"updated": "VAD*TACAN*266.00/22.00"
+	}
+]

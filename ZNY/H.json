@@ -1,3 +1,4 @@
+[
 	{
 		"name": "HAAGN",
 		"latitude": "39-57-41.39 N",
@@ -5,7 +6,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ETX*VOR/DME*215.00/41.28",
+		"updated": "ETX*VOR/DME*215.00/41.28"
 	},
 	{
 		"name": "HAAYS",
@@ -14,7 +15,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HUO*VOR/DME*144.69/7.78",
+		"updated": "HUO*VOR/DME*144.69/7.78"
 	},
 	{
 		"name": "HAAYY",
@@ -23,7 +24,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/29/2015",
+		"updated": "12/29/2015"
 	},
 	{
 		"name": "HABER",
@@ -32,7 +33,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LRP*VOR/DME*139.42/9.44",
+		"updated": "LRP*VOR/DME*139.42/9.44"
 	},
 	{
 		"name": "HABOM",
@@ -41,7 +42,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/12/2012",
+		"updated": "09/12/2012"
 	},
 	{
 		"name": "HADAD",
@@ -50,7 +51,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/13/2013",
+		"updated": "05/13/2013"
 	},
 	{
 		"name": "HAGOD",
@@ -59,7 +60,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/19/2006",
+		"updated": "08/19/2006"
 	},
 	{
 		"name": "HAGRU",
@@ -68,7 +69,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/19/2006",
+		"updated": "08/19/2006"
 	},
 	{
 		"name": "HAILS",
@@ -77,7 +78,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LRP*VOR/DME*030.47",
+		"updated": "LRP*VOR/DME*030.47"
 	},
 	{
 		"name": "HALNI",
@@ -86,7 +87,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/07/2014",
+		"updated": "11/07/2014"
 	},
 	{
 		"name": "HALPA",
@@ -95,7 +96,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/02/2009",
+		"updated": "02/02/2009"
 	},
 	{
 		"name": "HALVE",
@@ -104,7 +105,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "PTW*VORTAC*120.35/14.34",
+		"updated": "PTW*VORTAC*120.35/14.34"
 	},
 	{
 		"name": "HAMMA",
@@ -113,7 +114,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/16/2012",
+		"updated": "08/16/2012"
 	},
 	{
 		"name": "HAMOR",
@@ -122,7 +123,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/08/2011",
+		"updated": "06/08/2011"
 	},
 	{
 		"name": "HAMPR",
@@ -131,7 +132,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/07/2011",
+		"updated": "12/07/2011"
 	},
 	{
 		"name": "HANRI",
@@ -140,7 +141,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/02/2008",
+		"updated": "05/02/2008"
 	},
 	{
 		"name": "HANSS",
@@ -149,7 +150,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/25/2015",
+		"updated": "08/25/2015"
 	},
 	{
 		"name": "HAPVY",
@@ -158,7 +159,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/23/2018",
+		"updated": "03/23/2018"
 	},
 	{
 		"name": "HARBO",
@@ -167,7 +168,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CYN*VORTAC*132.50",
+		"updated": "CYN*VORTAC*132.50"
 	},
 	{
 		"name": "HARLM",
@@ -176,7 +177,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "COL*VOR/DME*302.87/29.07",
+		"updated": "COL*VOR/DME*302.87/29.07"
 	},
 	{
 		"name": "HARRS",
@@ -185,7 +186,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SBJ*VOR/DME*237.25/21.36",
+		"updated": "SBJ*VOR/DME*237.25/21.36"
 	},
 	{
 		"name": "HARRY",
@@ -194,7 +195,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "BDR*VOR/DME*249.00",
+		"updated": "BDR*VOR/DME*249.00"
 	},
 	{
 		"name": "HARTY",
@@ -203,7 +204,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "STW*VOR/DME*305.33/11.00",
+		"updated": "STW*VOR/DME*305.33/11.00"
 	},
 	{
 		"name": "HASIS",
@@ -212,7 +213,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ETX*VOR/DME*011.77",
+		"updated": "ETX*VOR/DME*011.77"
 	},
 	{
 		"name": "HATBU",
@@ -221,7 +222,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/10/2011",
+		"updated": "06/10/2011"
 	},
 	{
 		"name": "HAVES",
@@ -230,7 +231,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/19/2006",
+		"updated": "08/19/2006"
 	},
 	{
 		"name": "HAVUM",
@@ -239,7 +240,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/19/2006",
+		"updated": "08/19/2006"
 	},
 	{
 		"name": "HAVVI",
@@ -248,7 +249,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/24/2012",
+		"updated": "07/24/2012"
 	},
 	{
 		"name": "HAWLY",
@@ -257,7 +258,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LGA*VOR/DME*321.71/71.57",
+		"updated": "LGA*VOR/DME*321.71/71.57"
 	},
 	{
 		"name": "HAWNS",
@@ -266,7 +267,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ETX*VOR/DME*347.95",
+		"updated": "ETX*VOR/DME*347.95"
 	},
 	{
 		"name": "HAXEL",
@@ -275,7 +276,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/13/2017",
+		"updated": "03/13/2017"
 	},
 	{
 		"name": "HAYED",
@@ -284,7 +285,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LVZ*VORTAC*255.00/18.21",
+		"updated": "LVZ*VORTAC*255.00/18.21"
 	},
 	{
 		"name": "HAYER",
@@ -293,7 +294,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "06/14/1991",
+		"updated": "06/14/1991"
 	},
 	{
 		"name": "HAZNN",
@@ -302,7 +303,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/05/2013",
+		"updated": "09/05/2013"
 	},
 	{
 		"name": "HEAPP",
@@ -311,7 +312,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LVZ*VORTAC*237.50/15.33",
+		"updated": "LVZ*VORTAC*237.50/15.33"
 	},
 	{
 		"name": "HEBAD",
@@ -320,7 +321,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/21/2009",
+		"updated": "05/21/2009"
 	},
 	{
 		"name": "HEBAR",
@@ -329,7 +330,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/25/2003",
+		"updated": "02/25/2003"
 	},
 	{
 		"name": "HEBIL",
@@ -338,7 +339,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/20/2015",
+		"updated": "03/20/2015"
 	},
 	{
 		"name": "HEDED",
@@ -347,7 +348,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/10/2011",
+		"updated": "06/10/2011"
 	},
 	{
 		"name": "HEDIB",
@@ -356,7 +357,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "HEERO",
@@ -365,7 +366,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/29/2011",
+		"updated": "08/29/2011"
 	},
 	{
 		"name": "HEGIN",
@@ -374,7 +375,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "RAV*VORTAC*060.00/8.07",
+		"updated": "RAV*VORTAC*060.00/8.07"
 	},
 	{
 		"name": "HELEP",
@@ -383,7 +384,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/06/2010",
+		"updated": "08/06/2010"
 	},
 	{
 		"name": "HELIN",
@@ -392,7 +393,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*243.77",
+		"updated": "DPK*VOR/DME*243.77"
 	},
 	{
 		"name": "HELOD",
@@ -401,7 +402,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/19/2006",
+		"updated": "08/19/2006"
 	},
 	{
 		"name": "HELOG",
@@ -410,7 +411,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/10/2002",
+		"updated": "06/10/2002"
 	},
 	{
 		"name": "HENEB",
@@ -419,7 +420,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/29/2005",
+		"updated": "06/29/2005"
 	},
 	{
 		"name": "HENIB",
@@ -428,7 +429,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/07/2006",
+		"updated": "03/07/2006"
 	},
 	{
 		"name": "HEPIS",
@@ -437,7 +438,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LVZ*VORTAC*063.52/24.46",
+		"updated": "LVZ*VORTAC*063.52/24.46"
 	},
 	{
 		"name": "HEPOP",
@@ -446,7 +447,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/26/2012",
+		"updated": "04/26/2012"
 	},
 	{
 		"name": "HEPVO",
@@ -455,7 +456,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/02/2017",
+		"updated": "11/02/2017"
 	},
 	{
 		"name": "HERDA",
@@ -464,7 +465,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HAR*VORTAC*347.57",
+		"updated": "HAR*VORTAC*347.57"
 	},
 	{
 		"name": "HERES",
@@ -473,7 +474,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "EMI*VORTAC*074.96/9.00",
+		"updated": "EMI*VORTAC*074.96/9.00"
 	},
 	{
 		"name": "HERHY",
@@ -482,7 +483,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "MXE*VORTAC*053.87/6.19",
+		"updated": "MXE*VORTAC*053.87/6.19"
 	},
 	{
 		"name": "HEROS",
@@ -491,7 +492,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/16/2004",
+		"updated": "01/16/2004"
 	},
 	{
 		"name": "HERUB",
@@ -500,7 +501,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/19/2017",
+		"updated": "04/19/2017"
 	},
 	{
 		"name": "HESIN",
@@ -509,7 +510,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/12/2011",
+		"updated": "12/12/2011"
 	},
 	{
 		"name": "HESIP",
@@ -518,7 +519,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/25/2005",
+		"updated": "04/25/2005"
 	},
 	{
 		"name": "HESOR",
@@ -527,7 +528,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/11/2008",
+		"updated": "08/11/2008"
 	},
 	{
 		"name": "HESPO",
@@ -536,7 +537,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/31/2002",
+		"updated": "01/31/2002"
 	},
 	{
 		"name": "HEVIR",
@@ -545,7 +546,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/21/2010",
+		"updated": "04/21/2010"
 	},
 	{
 		"name": "HEVNO",
@@ -554,7 +555,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/14/2013",
+		"updated": "08/14/2013"
 	},
 	{
 		"name": "HEVNU",
@@ -563,7 +564,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/12/2005",
+		"updated": "12/12/2005"
 	},
 	{
 		"name": "HEWFY",
@@ -572,7 +573,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/18/2008",
+		"updated": "06/18/2008"
 	},
 	{
 		"name": "HEXEF",
@@ -581,7 +582,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "04/10/2001",
+		"updated": "04/10/2001"
 	},
 	{
 		"name": "HIFAL",
@@ -590,7 +591,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/26/2002",
+		"updated": "09/26/2002"
 	},
 	{
 		"name": "HIGAD",
@@ -599,7 +600,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "GXU*VORTAC*004.00/6.00",
+		"updated": "GXU*VORTAC*004.00/6.00"
 	},
 	{
 		"name": "HIKES",
@@ -608,7 +609,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ARD*VOR/DME*293.61/33.38",
+		"updated": "ARD*VOR/DME*293.61/33.38"
 	},
 	{
 		"name": "HIKIM",
@@ -617,7 +618,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/12/2015",
+		"updated": "08/12/2015"
 	},
 	{
 		"name": "HILKI",
@@ -626,7 +627,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/04/2011",
+		"updated": "11/04/2011"
 	},
 	{
 		"name": "HILOG",
@@ -635,7 +636,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/16/2006",
+		"updated": "10/16/2006"
 	},
 	{
 		"name": "HIMAR",
@@ -644,7 +645,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/16/2006",
+		"updated": "10/16/2006"
 	},
 	{
 		"name": "HIMDA",
@@ -653,7 +654,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MW",
-		"updated": "09/06/2017",
+		"updated": "09/06/2017"
 	},
 	{
 		"name": "HIMVU",
@@ -662,7 +663,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/02/2008",
+		"updated": "09/02/2008"
 	},
 	{
 		"name": "HINDU",
@@ -671,7 +672,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "PTW*VORTAC*031.00/10.00",
+		"updated": "PTW*VORTAC*031.00/10.00"
 	},
 	{
 		"name": "HINSA",
@@ -680,7 +681,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/04/2006",
+		"updated": "12/04/2006"
 	},
 	{
 		"name": "HINTO",
@@ -689,7 +690,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HQA*LS*SE CRS",
+		"updated": "HQA*LS*SE CRS"
 	},
 	{
 		"name": "HIPSI",
@@ -698,7 +699,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/26/2015",
+		"updated": "02/26/2015"
 	},
 	{
 		"name": "HIPUT",
@@ -707,7 +708,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/05/2002",
+		"updated": "02/05/2002"
 	},
 	{
 		"name": "HIRIG",
@@ -716,7 +717,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/07/2014",
+		"updated": "11/07/2014"
 	},
 	{
 		"name": "HIVIL",
@@ -725,7 +726,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "HNNAH",
@@ -734,7 +735,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "VCN*VOR/DME*047.00/70.28",
+		"updated": "VCN*VOR/DME*047.00/70.28"
 	},
 	{
 		"name": "HOBIB",
@@ -743,7 +744,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/22/2006",
+		"updated": "08/22/2006"
 	},
 	{
 		"name": "HOBOD",
@@ -752,7 +753,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/04/2006",
+		"updated": "12/04/2006"
 	},
 	{
 		"name": "HOBOH",
@@ -761,7 +762,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/15/2016",
+		"updated": "09/15/2016"
 	},
 	{
 		"name": "HOBRA",
@@ -770,7 +771,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/18/2008",
+		"updated": "06/18/2008"
 	},
 	{
 		"name": "HODAB",
@@ -779,7 +780,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/22/2010",
+		"updated": "01/22/2010"
 	},
 	{
 		"name": "HODET",
@@ -788,7 +789,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/20/2011",
+		"updated": "04/20/2011"
 	},
 	{
 		"name": "HOGDI",
@@ -797,7 +798,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/23/2010",
+		"updated": "09/23/2010"
 	},
 	{
 		"name": "HOGGS",
@@ -806,7 +807,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CYN*VORTAC*162.00/15.91",
+		"updated": "CYN*VORTAC*162.00/15.91"
 	},
 	{
 		"name": "HOGIN",
@@ -815,7 +816,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/10/2017",
+		"updated": "01/10/2017"
 	},
 	{
 		"name": "HOGUL",
@@ -824,7 +825,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/21/2013",
+		"updated": "03/21/2013"
 	},
 	{
 		"name": "HOIST",
@@ -833,7 +834,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/12/2015",
+		"updated": "08/12/2015"
 	},
 	{
 		"name": "HOKIR",
@@ -842,7 +843,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/09/2008",
+		"updated": "06/09/2008"
 	},
 	{
 		"name": "HOLTU",
@@ -851,7 +852,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/07/2014",
+		"updated": "11/07/2014"
 	},
 	{
 		"name": "HOLUR",
@@ -860,7 +861,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "HOMWE",
@@ -869,7 +870,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/12/2010",
+		"updated": "08/12/2010"
 	},
 	{
 		"name": "HONEP",
@@ -878,7 +879,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/22/2006",
+		"updated": "08/22/2006"
 	},
 	{
 		"name": "HONOD",
@@ -887,7 +888,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MW",
-		"updated": "12/24/2014",
+		"updated": "12/24/2014"
 	},
 	{
 		"name": "HONPU",
@@ -896,7 +897,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/24/2015",
+		"updated": "03/24/2015"
 	},
 	{
 		"name": "HOOTH",
@@ -905,7 +906,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/29/2009",
+		"updated": "07/29/2009"
 	},
 	{
 		"name": "HOPAT",
@@ -914,7 +915,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "BWZ*VOR/DME*067.89",
+		"updated": "BWZ*VOR/DME*067.89"
 	},
 	{
 		"name": "HOPCE",
@@ -923,7 +924,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HUO*VOR/DME*235.01/8.15",
+		"updated": "HUO*VOR/DME*235.01/8.15"
 	},
 	{
 		"name": "HOPEA",
@@ -932,7 +933,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/10/2012",
+		"updated": "04/10/2012"
 	},
 	{
 		"name": "HOPED",
@@ -941,7 +942,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/03/2003",
+		"updated": "03/03/2003"
 	},
 	{
 		"name": "HOPPS",
@@ -950,7 +951,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SBJ*VOR/DME*308.74/33.88",
+		"updated": "SBJ*VOR/DME*308.74/33.88"
 	},
 	{
 		"name": "HOPSU",
@@ -959,7 +960,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/22/2006",
+		"updated": "08/22/2006"
 	},
 	{
 		"name": "HORBO",
@@ -968,7 +969,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MW",
-		"updated": "09/06/2017",
+		"updated": "09/06/2017"
 	},
 	{
 		"name": "HORDE",
@@ -977,7 +978,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/16/2012",
+		"updated": "08/16/2012"
 	},
 	{
 		"name": "HORVI",
@@ -986,7 +987,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HAR*VORTAC*141.90",
+		"updated": "HAR*VORTAC*141.90"
 	},
 	{
 		"name": "HOSBE",
@@ -995,7 +996,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/28/2012",
+		"updated": "06/28/2012"
 	},
 	{
 		"name": "HOSDU",
@@ -1004,7 +1005,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/22/2006",
+		"updated": "08/22/2006"
 	},
 	{
 		"name": "HOTEE",
@@ -1013,7 +1014,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/25/2011",
+		"updated": "08/25/2011"
 	},
 	{
 		"name": "HOTOX",
@@ -1022,7 +1023,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "RAV*VORTAC*060.00/13.47",
+		"updated": "RAV*VORTAC*060.00/13.47"
 	},
 	{
 		"name": "HOUTN",
@@ -1031,7 +1032,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "PTW*VORTAC*308.53",
+		"updated": "PTW*VORTAC*308.53"
 	},
 	{
 		"name": "HOWYA",
@@ -1040,7 +1041,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CRI*VOR/DME*276.87",
+		"updated": "CRI*VOR/DME*276.87"
 	},
 	{
 		"name": "HOXAG",
@@ -1049,7 +1050,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/22/2011",
+		"updated": "02/22/2011"
 	},
 	{
 		"name": "HUBTU",
@@ -1058,7 +1059,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/30/2009",
+		"updated": "12/30/2009"
 	},
 	{
 		"name": "HUGIE",
@@ -1067,7 +1068,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CFB*VOR/DME*132.38/28.90",
+		"updated": "CFB*VOR/DME*132.38/28.90"
 	},
 	{
 		"name": "HULBI",
@@ -1076,7 +1077,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "GDI*LD*314.13/3.83",
+		"updated": "GDI*LD*314.13/3.83"
 	},
 	{
 		"name": "HULEP",
@@ -1085,7 +1086,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/11/2008",
+		"updated": "08/11/2008"
 	},
 	{
 		"name": "HULRO",
@@ -1094,7 +1095,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/25/2017",
+		"updated": "04/25/2017"
 	},
 	{
 		"name": "HUMEL",
@@ -1103,7 +1104,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LRP*VOR/DME*084.32",
+		"updated": "LRP*VOR/DME*084.32"
 	},
 	{
 		"name": "HURPU",
@@ -1112,7 +1113,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/12/2011",
+		"updated": "04/12/2011"
 	},
 	{
 		"name": "HUTMO",
@@ -1121,7 +1122,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/05/2010",
+		"updated": "01/05/2010"
 	},
 	{
 		"name": "HUTOD",
@@ -1130,7 +1131,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/24/2017",
+		"updated": "08/24/2017"
 	},
 	{
 		"name": "HUXET",
@@ -1139,7 +1140,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/14/2008",
+		"updated": "10/14/2008"
 	},
 	{
 		"name": "HWANG",
@@ -1148,7 +1149,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ETX*VOR/DME*260.00/31.33",
+		"updated": "ETX*VOR/DME*260.00/31.33"
 	},
 	{
 		"name": "HYDRA",
@@ -1157,7 +1158,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "PTW*VORTAC*303.27/3.60",
+		"updated": "PTW*VORTAC*303.27/3.60"
 	},
 	{
 		"name": "HYLAN",
@@ -1166,7 +1167,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "06/17/1991",
+		"updated": "06/17/1991"
 	},
 	{
 		"name": "HYPER",
@@ -1175,5 +1176,6 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SEG*VOR/DME*201.40/68.19",
-	},
+		"updated": "SEG*VOR/DME*201.40/68.19"
+	}
+]

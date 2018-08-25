@@ -1,3 +1,4 @@
+[
 	{
 		"name": "TIMAE",
 		"latitude": "13-41-20.24 N",
@@ -5,7 +6,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UNZ*VORTAC*055.37/26.00",
+		"updated": "UNZ*VORTAC*055.37/26.00"
 	},
 	{
 		"name": "TOCOG",
@@ -14,5 +15,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UNZ*VORTAC*234.00/2.00",
-	},
+		"updated": "UNZ*VORTAC*234.00/2.00"
+	}
+]

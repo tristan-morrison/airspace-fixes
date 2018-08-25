@@ -1,3 +1,4 @@
+[
 	{
 		"name": "XAMAQ",
 		"latitude": "45-43-54.59 N",
@@ -5,7 +6,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "XAPJY",
@@ -14,7 +15,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "XAQJO",
@@ -23,7 +24,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "04/27/2009",
+		"updated": "04/27/2009"
 	},
 	{
 		"name": "XAQTO",
@@ -32,7 +33,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "XAYEJ",
@@ -41,7 +42,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "XEXXA",
@@ -50,7 +51,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "XOJPO",
@@ -59,7 +60,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "EHK*VOR/DME*151.92",
+		"updated": "EHK*VOR/DME*151.92"
 	},
 	{
 		"name": "XOYTY",
@@ -68,7 +69,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/01/2017",
+		"updated": "09/01/2017"
 	},
 	{
 		"name": "XULXU",
@@ -77,7 +78,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "TWF*VORTAC*068.00/3.00",
+		"updated": "TWF*VORTAC*068.00/3.00"
 	},
 	{
 		"name": "XUWHU",
@@ -86,5 +87,6 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "08/15/2011",
-	},
+		"updated": "08/15/2011"
+	}
+]

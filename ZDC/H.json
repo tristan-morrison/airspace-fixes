@@ -1,3 +1,4 @@
+[
 	{
 		"name": "HABKI",
 		"latitude": "36-34-17.29 N",
@@ -5,7 +6,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "HABMI",
@@ -14,7 +15,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ODR*VOR*056.04",
+		"updated": "ODR*VOR*056.04"
 	},
 	{
 		"name": "HABUR",
@@ -23,7 +24,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/21/2009",
+		"updated": "07/21/2009"
 	},
 	{
 		"name": "HACKO",
@@ -32,7 +33,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "VCN*VOR/DME*322.00",
+		"updated": "VCN*VOR/DME*322.00"
 	},
 	{
 		"name": "HADIN",
@@ -41,7 +42,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/28/2014",
+		"updated": "02/28/2014"
 	},
 	{
 		"name": "HADKA",
@@ -50,7 +51,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/23/2002",
+		"updated": "01/23/2002"
 	},
 	{
 		"name": "HADMI",
@@ -59,7 +60,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "UYK*LD*271.50/1.81",
+		"updated": "UYK*LD*271.50/1.81"
 	},
 	{
 		"name": "HADNI",
@@ -68,7 +69,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "PDP*LD*087.50/2.01",
+		"updated": "PDP*LD*087.50/2.01"
 	},
 	{
 		"name": "HADOR",
@@ -77,7 +78,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/20/2009",
+		"updated": "05/20/2009"
 	},
 	{
 		"name": "HADRU",
@@ -86,7 +87,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/18/2011",
+		"updated": "01/18/2011"
 	},
 	{
 		"name": "HAFNR",
@@ -95,7 +96,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "GVE*VORTAC*056.16/36.04",
+		"updated": "GVE*VORTAC*056.16/36.04"
 	},
 	{
 		"name": "HAGIB",
@@ -104,7 +105,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/13/2003",
+		"updated": "02/13/2003"
 	},
 	{
 		"name": "HAGLI",
@@ -113,7 +114,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/18/2011",
+		"updated": "01/18/2011"
 	},
 	{
 		"name": "HAGON",
@@ -122,7 +123,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/15/2011",
+		"updated": "07/15/2011"
 	},
 	{
 		"name": "HAGOR",
@@ -131,7 +132,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "MRB*VORTAC*006.00/22.00",
+		"updated": "MRB*VORTAC*006.00/22.00"
 	},
 	{
 		"name": "HAGSO",
@@ -140,7 +141,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/01/2008",
+		"updated": "12/01/2008"
 	},
 	{
 		"name": "HAIGS",
@@ -149,7 +150,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "THS*VORTAC*118.10",
+		"updated": "THS*VORTAC*118.10"
 	},
 	{
 		"name": "HAKDA",
@@ -158,7 +159,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/26/2002",
+		"updated": "11/26/2002"
 	},
 	{
 		"name": "HAKDY",
@@ -167,7 +168,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "HAKIS",
@@ -176,7 +177,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/23/2017",
+		"updated": "02/23/2017"
 	},
 	{
 		"name": "HAKOK",
@@ -185,7 +186,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "RDU*VORTAC*039.43/21.00",
+		"updated": "RDU*VORTAC*039.43/21.00"
 	},
 	{
 		"name": "HAKON",
@@ -194,7 +195,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/18/2011",
+		"updated": "10/18/2011"
 	},
 	{
 		"name": "HALAX",
@@ -203,7 +204,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/01/2008",
+		"updated": "12/01/2008"
 	},
 	{
 		"name": "HALLL",
@@ -212,7 +213,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/08/2015",
+		"updated": "01/08/2015"
 	},
 	{
 		"name": "HALNO",
@@ -221,7 +222,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "03/19/2015",
+		"updated": "03/19/2015"
 	},
 	{
 		"name": "HALPU",
@@ -230,7 +231,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "LDN*VORTAC*237.26/7.50",
+		"updated": "LDN*VORTAC*237.26/7.50"
 	},
 	{
 		"name": "HALTS",
@@ -239,7 +240,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "03/26/2002",
+		"updated": "03/26/2002"
 	},
 	{
 		"name": "HALUP",
@@ -248,7 +249,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/05/2007",
+		"updated": "03/05/2007"
 	},
 	{
 		"name": "HALVA",
@@ -257,7 +258,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/04/2015",
+		"updated": "03/04/2015"
 	},
 	{
 		"name": "HAMAT",
@@ -266,7 +267,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "HAMIM",
@@ -275,7 +276,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/03/2018",
+		"updated": "05/03/2018"
 	},
 	{
 		"name": "HAMMA",
@@ -284,7 +285,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/16/2012",
+		"updated": "08/16/2012"
 	},
 	{
 		"name": "HAMME",
@@ -293,7 +294,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/01/2013",
+		"updated": "07/01/2013"
 	},
 	{
 		"name": "HANEY",
@@ -302,7 +303,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "FAK*VORTAC*000.69/45.73",
+		"updated": "FAK*VORTAC*000.69/45.73"
 	},
 	{
 		"name": "HANKC",
@@ -311,7 +312,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/20/2015",
+		"updated": "10/20/2015"
 	},
 	{
 		"name": "HANOK",
@@ -320,7 +321,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/08/2003",
+		"updated": "09/08/2003"
 	},
 	{
 		"name": "HAPED",
@@ -329,7 +330,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/20/2009",
+		"updated": "07/20/2009"
 	},
 	{
 		"name": "HAPEN",
@@ -338,7 +339,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/06/2017",
+		"updated": "04/06/2017"
 	},
 	{
 		"name": "HAPRO",
@@ -347,7 +348,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/07/2017",
+		"updated": "04/07/2017"
 	},
 	{
 		"name": "HAPUP",
@@ -356,7 +357,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "ADW*VORTAC*/2.68",
+		"updated": "ADW*VORTAC*/2.68"
 	},
 	{
 		"name": "HARED",
@@ -365,7 +366,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/24/2002",
+		"updated": "01/24/2002"
 	},
 	{
 		"name": "HARLU",
@@ -374,7 +375,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/19/2016",
+		"updated": "07/19/2016"
 	},
 	{
 		"name": "HARMR",
@@ -383,7 +384,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "ADW*VORTAC*/12.00",
+		"updated": "ADW*VORTAC*/12.00"
 	},
 	{
 		"name": "HARPP",
@@ -392,7 +393,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "MRB*VORTAC*203.63",
+		"updated": "MRB*VORTAC*203.63"
 	},
 	{
 		"name": "HARRA",
@@ -401,7 +402,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HPW*VORTAC*025.00/5.00",
+		"updated": "HPW*VORTAC*025.00/5.00"
 	},
 	{
 		"name": "HARSH",
@@ -410,7 +411,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "HARVY",
@@ -419,7 +420,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "FAK*VORTAC*219.57/56.14",
+		"updated": "FAK*VORTAC*219.57/56.14"
 	},
 	{
 		"name": "HASBA",
@@ -428,7 +429,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ORF*VORTAC*358.23",
+		"updated": "ORF*VORTAC*358.23"
 	},
 	{
 		"name": "HASET",
@@ -437,7 +438,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "TYI*VORTAC*217.77/105.00",
+		"updated": "TYI*VORTAC*217.77/105.00"
 	},
 	{
 		"name": "HATAL",
@@ -446,7 +447,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "VWH*DD*326.50/8.00",
+		"updated": "VWH*DD*326.50/8.00"
 	},
 	{
 		"name": "HATIE",
@@ -455,7 +456,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ORF*VORTAC*209.76/9.50",
+		"updated": "ORF*VORTAC*209.76/9.50"
 	},
 	{
 		"name": "HATTY",
@@ -464,7 +465,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "FKN*VORTAC*153.00/69.00",
+		"updated": "FKN*VORTAC*153.00/69.00"
 	},
 	{
 		"name": "HATUP",
@@ -473,7 +474,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "HATVE",
@@ -482,7 +483,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NTU*TACAN*175.00/65.00",
+		"updated": "NTU*TACAN*175.00/65.00"
 	},
 	{
 		"name": "HAVEV",
@@ -491,7 +492,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "HAVGU",
@@ -500,7 +501,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/20/2009",
+		"updated": "07/20/2009"
 	},
 	{
 		"name": "HAVUB",
@@ -509,7 +510,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NTU*TACAN*193.00/11.00",
+		"updated": "NTU*TACAN*193.00/11.00"
 	},
 	{
 		"name": "HAWKI",
@@ -518,7 +519,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "EKN*VORTAC*202.08/27.02",
+		"updated": "EKN*VORTAC*202.08/27.02"
 	},
 	{
 		"name": "HAXAK",
@@ -527,7 +528,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BAL*VORTAC*/1.55",
+		"updated": "BAL*VORTAC*/1.55"
 	},
 	{
 		"name": "HAXEG",
@@ -536,7 +537,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/29/2015",
+		"updated": "01/29/2015"
 	},
 	{
 		"name": "HAYDO",
@@ -545,7 +546,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "SIE*VORTAC*292.99",
+		"updated": "SIE*VORTAC*292.99"
 	},
 	{
 		"name": "HAYGR",
@@ -554,7 +555,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/24/2015",
+		"updated": "08/24/2015"
 	},
 	{
 		"name": "HAYYU",
@@ -563,7 +564,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/23/2013",
+		"updated": "12/23/2013"
 	},
 	{
 		"name": "HBUDA",
@@ -572,7 +573,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/26/2015",
+		"updated": "01/26/2015"
 	},
 	{
 		"name": "HEAVE",
@@ -581,7 +582,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "HEBIR",
@@ -590,7 +591,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "HEBLA",
@@ -599,7 +600,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "HEBNO",
@@ -608,7 +609,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "SOP*LD*234.23/13.39",
+		"updated": "SOP*LD*234.23/13.39"
 	},
 	{
 		"name": "HECOO",
@@ -617,7 +618,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "03/26/2002",
+		"updated": "03/26/2002"
 	},
 	{
 		"name": "HEDGE",
@@ -626,7 +627,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ATR*VOR/DME*288.76/29.76",
+		"updated": "ATR*VOR/DME*288.76/29.76"
 	},
 	{
 		"name": "HEDUR",
@@ -635,7 +636,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/14/2003",
+		"updated": "01/14/2003"
 	},
 	{
 		"name": "HEDYY",
@@ -644,7 +645,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "TTA*LD*209.01/6.91",
+		"updated": "TTA*LD*209.01/6.91"
 	},
 	{
 		"name": "HEELS",
@@ -653,7 +654,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "LFI*TACAN*073.00/46.09",
+		"updated": "LFI*TACAN*073.00/46.09"
 	},
 	{
 		"name": "HEFLN",
@@ -662,7 +663,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/22/2014",
+		"updated": "09/22/2014"
 	},
 	{
 		"name": "HEGAT",
@@ -671,7 +672,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "EKN*VORTAC*309.19/7.70",
+		"updated": "EKN*VORTAC*309.19/7.70"
 	},
 	{
 		"name": "HEGIG",
@@ -680,7 +681,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NHK*TACAN*247.00/3.30",
+		"updated": "NHK*TACAN*247.00/3.30"
 	},
 	{
 		"name": "HEGIM",
@@ -689,7 +690,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/24/2017",
+		"updated": "04/24/2017"
 	},
 	{
 		"name": "HEGIR",
@@ -698,7 +699,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "NKT*TACAN*136.00/10.00",
+		"updated": "NKT*TACAN*136.00/10.00"
 	},
 	{
 		"name": "HEGNO",
@@ -707,7 +708,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/22/2015",
+		"updated": "09/22/2015"
 	},
 	{
 		"name": "HEGUX",
@@ -716,7 +717,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/11/2006",
+		"updated": "12/11/2006"
 	},
 	{
 		"name": "HEKAN",
@@ -725,7 +726,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NTU*TACAN*175.00/60.00",
+		"updated": "NTU*TACAN*175.00/60.00"
 	},
 	{
 		"name": "HEKLE",
@@ -734,7 +735,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "HEKMN",
@@ -743,7 +744,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/06/2012",
+		"updated": "04/06/2012"
 	},
 	{
 		"name": "HELBA",
@@ -752,7 +753,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/16/2002",
+		"updated": "07/16/2002"
 	},
 	{
 		"name": "HELEM",
@@ -761,7 +762,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NHK*TACAN*122.00/13.00",
+		"updated": "NHK*TACAN*122.00/13.00"
 	},
 	{
 		"name": "HELNA",
@@ -770,7 +771,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "FAY*VOR/DME*117.89",
+		"updated": "FAY*VOR/DME*117.89"
 	},
 	{
 		"name": "HEMAX",
@@ -779,7 +780,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/15/2001",
+		"updated": "03/15/2001"
 	},
 	{
 		"name": "HEMEV",
@@ -788,7 +789,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "LYH*VORTAC*282.85/9.98",
+		"updated": "LYH*VORTAC*282.85/9.98"
 	},
 	{
 		"name": "HEMME",
@@ -797,7 +798,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/10/2014",
+		"updated": "11/10/2014"
 	},
 	{
 		"name": "HEMTA",
@@ -806,7 +807,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/09/2011",
+		"updated": "05/09/2011"
 	},
 	{
 		"name": "HENBY",
@@ -815,7 +816,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ROA*VOR/DME*180.63/37.46",
+		"updated": "ROA*VOR/DME*180.63/37.46"
 	},
 	{
 		"name": "HENEG",
@@ -824,7 +825,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/22/2002",
+		"updated": "01/22/2002"
 	},
 	{
 		"name": "HENET",
@@ -833,7 +834,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/11/2018",
+		"updated": "01/11/2018"
 	},
 	{
 		"name": "HENIP",
@@ -842,7 +843,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "11/06/2014",
+		"updated": "11/06/2014"
 	},
 	{
 		"name": "HEPKA",
@@ -851,7 +852,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "HEPLA",
@@ -860,7 +861,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "CN",
-		"updated": "10/08/2010",
+		"updated": "10/08/2010"
 	},
 	{
 		"name": "HEROO",
@@ -869,7 +870,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "HEROR",
@@ -878,7 +879,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/17/2009",
+		"updated": "09/17/2009"
 	},
 	{
 		"name": "HESEE",
@@ -887,7 +888,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/02/2013",
+		"updated": "05/02/2013"
 	},
 	{
 		"name": "HESGI",
@@ -896,7 +897,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "MRB*VORTAC*005.68",
+		"updated": "MRB*VORTAC*005.68"
 	},
 	{
 		"name": "HESKU",
@@ -905,7 +906,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/13/2016",
+		"updated": "07/13/2016"
 	},
 	{
 		"name": "HESLO",
@@ -914,7 +915,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/25/2007",
+		"updated": "10/25/2007"
 	},
 	{
 		"name": "HESUV",
@@ -923,7 +924,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/07/2017",
+		"updated": "08/07/2017"
 	},
 	{
 		"name": "HEVED",
@@ -932,7 +933,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "LIB*VORTAC*335.62/25.15",
+		"updated": "LIB*VORTAC*335.62/25.15"
 	},
 	{
 		"name": "HEVEN",
@@ -941,7 +942,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "MRB*VORTAC*352.81",
+		"updated": "MRB*VORTAC*352.81"
 	},
 	{
 		"name": "HEVSO",
@@ -950,7 +951,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/12/2010",
+		"updated": "03/12/2010"
 	},
 	{
 		"name": "HEXEP",
@@ -959,7 +960,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "CN",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "HHANK",
@@ -968,7 +969,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/27/2011",
+		"updated": "09/27/2011"
 	},
 	{
 		"name": "HHARP",
@@ -977,7 +978,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/01/2012",
+		"updated": "06/01/2012"
 	},
 	{
 		"name": "HHOBB",
@@ -986,7 +987,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NTU*TACAN*080.00/10.00",
+		"updated": "NTU*TACAN*080.00/10.00"
 	},
 	{
 		"name": "HHOLZ",
@@ -995,7 +996,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/01/2013",
+		"updated": "07/01/2013"
 	},
 	{
 		"name": "HIBAN",
@@ -1004,7 +1005,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/13/2011",
+		"updated": "06/13/2011"
 	},
 	{
 		"name": "HIBOM",
@@ -1013,7 +1014,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/18/2011",
+		"updated": "01/18/2011"
 	},
 	{
 		"name": "HIFRE",
@@ -1022,7 +1023,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "HIGAD",
@@ -1031,7 +1032,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "GXU*VORTAC*004.00/6.00",
+		"updated": "GXU*VORTAC*004.00/6.00"
 	},
 	{
 		"name": "HIGAL",
@@ -1040,7 +1041,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HPW*VORTAC*098.32",
+		"updated": "HPW*VORTAC*098.32"
 	},
 	{
 		"name": "HIGAP",
@@ -1049,7 +1050,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BRV*VORTAC*122.00/10.00",
+		"updated": "BRV*VORTAC*122.00/10.00"
 	},
 	{
 		"name": "HIGDI",
@@ -1058,7 +1059,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/08/2010",
+		"updated": "10/08/2010"
 	},
 	{
 		"name": "HIGPO",
@@ -1067,7 +1068,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/22/2014",
+		"updated": "09/22/2014"
 	},
 	{
 		"name": "HIGRU",
@@ -1076,7 +1077,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/13/2003",
+		"updated": "02/13/2003"
 	},
 	{
 		"name": "HIICH",
@@ -1085,7 +1086,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/04/2015",
+		"updated": "05/04/2015"
 	},
 	{
 		"name": "HIJOK",
@@ -1094,7 +1095,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/05/2013",
+		"updated": "08/05/2013"
 	},
 	{
 		"name": "HIKOR",
@@ -1103,7 +1104,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/11/2018",
+		"updated": "04/11/2018"
 	},
 	{
 		"name": "HIKPO",
@@ -1112,7 +1113,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/11/2009",
+		"updated": "09/11/2009"
 	},
 	{
 		"name": "HILNU",
@@ -1121,7 +1122,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/26/2011",
+		"updated": "09/26/2011"
 	},
 	{
 		"name": "HILSI",
@@ -1130,7 +1131,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/30/2013",
+		"updated": "10/30/2013"
 	},
 	{
 		"name": "HIMBA",
@@ -1139,7 +1140,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/11/2012",
+		"updated": "01/11/2012"
 	},
 	{
 		"name": "HIMDA",
@@ -1148,7 +1149,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MW",
-		"updated": "09/06/2017",
+		"updated": "09/06/2017"
 	},
 	{
 		"name": "HIMEM",
@@ -1157,7 +1158,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/28/2000",
+		"updated": "12/28/2000"
 	},
 	{
 		"name": "HIMRA",
@@ -1166,7 +1167,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/06/2008",
+		"updated": "10/06/2008"
 	},
 	{
 		"name": "HINDS",
@@ -1175,7 +1176,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "OOD*VORTAC*002.00/14.40",
+		"updated": "OOD*VORTAC*002.00/14.40"
 	},
 	{
 		"name": "HIPMA",
@@ -1184,7 +1185,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/14/2016",
+		"updated": "11/14/2016"
 	},
 	{
 		"name": "HIRCK",
@@ -1193,7 +1194,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/11/2015",
+		"updated": "12/11/2015"
 	},
 	{
 		"name": "HIRDU",
@@ -1202,7 +1203,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "ORF*VORTAC*095.00/50.00",
+		"updated": "ORF*VORTAC*095.00/50.00"
 	},
 	{
 		"name": "HIRTO",
@@ -1211,7 +1212,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "RDU*VORTAC*317.19/3.00",
+		"updated": "RDU*VORTAC*317.19/3.00"
 	},
 	{
 		"name": "HISAM",
@@ -1220,7 +1221,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NGU*TACAN*/5.68",
+		"updated": "NGU*TACAN*/5.68"
 	},
 	{
 		"name": "HITAN",
@@ -1229,7 +1230,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/13/2017",
+		"updated": "02/13/2017"
 	},
 	{
 		"name": "HITEK",
@@ -1238,7 +1239,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/16/2006",
+		"updated": "02/16/2006"
 	},
 	{
 		"name": "HIVAR",
@@ -1247,7 +1248,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/26/2008",
+		"updated": "03/26/2008"
 	},
 	{
 		"name": "HIVDO",
@@ -1256,7 +1257,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/12/2010",
+		"updated": "03/12/2010"
 	},
 	{
 		"name": "HIVLU",
@@ -1265,7 +1266,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/14/2011",
+		"updated": "06/14/2011"
 	},
 	{
 		"name": "HIXOX",
@@ -1274,7 +1275,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/14/2018",
+		"updated": "02/14/2018"
 	},
 	{
 		"name": "HMBGR",
@@ -1283,7 +1284,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/16/2015",
+		"updated": "03/16/2015"
 	},
 	{
 		"name": "HOAGE",
@@ -1292,7 +1293,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "MRB*VORTAC*222.88/18.99",
+		"updated": "MRB*VORTAC*222.88/18.99"
 	},
 	{
 		"name": "HOBLU",
@@ -1301,7 +1302,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NTU*TACAN*223.00/15.00",
+		"updated": "NTU*TACAN*223.00/15.00"
 	},
 	{
 		"name": "HOBNU",
@@ -1310,7 +1311,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/05/2018",
+		"updated": "03/05/2018"
 	},
 	{
 		"name": "HOBOS",
@@ -1319,7 +1320,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ROA*VOR/DME*039.00/27.21",
+		"updated": "ROA*VOR/DME*039.00/27.21"
 	},
 	{
 		"name": "HOBVU",
@@ -1328,7 +1329,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/04/2014",
+		"updated": "04/04/2014"
 	},
 	{
 		"name": "HODFU",
@@ -1337,7 +1338,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/17/2017",
+		"updated": "10/17/2017"
 	},
 	{
 		"name": "HODOG",
@@ -1346,7 +1347,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/27/2010",
+		"updated": "04/27/2010"
 	},
 	{
 		"name": "HODOR",
@@ -1355,7 +1356,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ISO*VORTAC*304.61",
+		"updated": "ISO*VORTAC*304.61"
 	},
 	{
 		"name": "HODVI",
@@ -1364,7 +1365,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/14/2018",
+		"updated": "02/14/2018"
 	},
 	{
 		"name": "HOGEY",
@@ -1373,7 +1374,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "VCN*VOR/DME*256.52",
+		"updated": "VCN*VOR/DME*256.52"
 	},
 	{
 		"name": "HOGIL",
@@ -1382,7 +1383,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "HOGVO",
@@ -1391,7 +1392,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/30/2016",
+		"updated": "11/30/2016"
 	},
 	{
 		"name": "HOJPA",
@@ -1400,7 +1401,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "GSO*VORTAC*108.00/30.32",
+		"updated": "GSO*VORTAC*108.00/30.32"
 	},
 	{
 		"name": "HOKEB",
@@ -1409,7 +1410,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/20/2009",
+		"updated": "07/20/2009"
 	},
 	{
 		"name": "HOKEE",
@@ -1418,7 +1419,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ODR*VOR*155.00",
+		"updated": "ODR*VOR*155.00"
 	},
 	{
 		"name": "HOKIB",
@@ -1427,7 +1428,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ORF*VORTAC*309.09/0.55",
+		"updated": "ORF*VORTAC*309.09/0.55"
 	},
 	{
 		"name": "HOKMU",
@@ -1436,7 +1437,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "FAY*VOR/DME*008.81/12.00",
+		"updated": "FAY*VOR/DME*008.81/12.00"
 	},
 	{
 		"name": "HOLAD",
@@ -1445,7 +1446,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/24/2011",
+		"updated": "06/24/2011"
 	},
 	{
 		"name": "HOLEY",
@@ -1454,7 +1455,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "CYN*VORTAC*307.00",
+		"updated": "CYN*VORTAC*307.00"
 	},
 	{
 		"name": "HOLIO",
@@ -1463,7 +1464,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "HOMFY",
@@ -1472,7 +1473,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "02/08/2010",
+		"updated": "02/08/2010"
 	},
 	{
 		"name": "HOMGU",
@@ -1481,7 +1482,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "UVM*LE*125.20/3.09",
+		"updated": "UVM*LE*125.20/3.09"
 	},
 	{
 		"name": "HOMUB",
@@ -1490,7 +1491,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/16/2010",
+		"updated": "11/16/2010"
 	},
 	{
 		"name": "HOMUL",
@@ -1499,7 +1500,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "06/08/2017",
+		"updated": "06/08/2017"
 	},
 	{
 		"name": "HOMUS",
@@ -1508,7 +1509,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NKT*TACAN*045.00/5.00",
+		"updated": "NKT*TACAN*045.00/5.00"
 	},
 	{
 		"name": "HONNR",
@@ -1517,7 +1518,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ESL*VOR/DME*282.27/11.55",
+		"updated": "ESL*VOR/DME*282.27/11.55"
 	},
 	{
 		"name": "HONTA",
@@ -1526,7 +1527,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/10/2014",
+		"updated": "11/10/2014"
 	},
 	{
 		"name": "HONVO",
@@ -1535,7 +1536,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/12/2011",
+		"updated": "07/12/2011"
 	},
 	{
 		"name": "HOOCH",
@@ -1544,7 +1545,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "MXE*VORTAC*098.18",
+		"updated": "MXE*VORTAC*098.18"
 	},
 	{
 		"name": "HOODE",
@@ -1553,7 +1554,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "GVE*VORTAC*003.21/26.55",
+		"updated": "GVE*VORTAC*003.21/26.55"
 	},
 	{
 		"name": "HOOKZ",
@@ -1562,7 +1563,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/07/2012",
+		"updated": "11/07/2012"
 	},
 	{
 		"name": "HOOOK",
@@ -1571,7 +1572,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/13/2017",
+		"updated": "11/13/2017"
 	},
 	{
 		"name": "HOOSR",
@@ -1580,7 +1581,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "AML*VOR/DME*/17.49",
+		"updated": "AML*VOR/DME*/17.49"
 	},
 	{
 		"name": "HOOTE",
@@ -1589,7 +1590,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/14/2009",
+		"updated": "09/14/2009"
 	},
 	{
 		"name": "HOPEE",
@@ -1598,7 +1599,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ADW*VORTAC*014.50/5.00",
+		"updated": "ADW*VORTAC*014.50/5.00"
 	},
 	{
 		"name": "HOPEM",
@@ -1607,7 +1608,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/22/2013",
+		"updated": "03/22/2013"
 	},
 	{
 		"name": "HOPIM",
@@ -1616,7 +1617,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ISO*VORTAC*302.00/10.00",
+		"updated": "ISO*VORTAC*302.00/10.00"
 	},
 	{
 		"name": "HORAN",
@@ -1625,7 +1626,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/12/2017",
+		"updated": "05/12/2017"
 	},
 	{
 		"name": "HORKU",
@@ -1634,7 +1635,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NKT*TACAN*320.00/14.00",
+		"updated": "NKT*TACAN*320.00/14.00"
 	},
 	{
 		"name": "HORNR",
@@ -1643,7 +1644,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/11/2014",
+		"updated": "06/11/2014"
 	},
 	{
 		"name": "HORSA",
@@ -1652,7 +1653,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/30/2013",
+		"updated": "10/30/2013"
 	},
 	{
 		"name": "HORTO",
@@ -1661,7 +1662,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/01/2015",
+		"updated": "05/01/2015"
 	},
 	{
 		"name": "HORTU",
@@ -1670,7 +1671,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/07/2005",
+		"updated": "09/07/2005"
 	},
 	{
 		"name": "HORUN",
@@ -1679,7 +1680,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/21/2003",
+		"updated": "11/21/2003"
 	},
 	{
 		"name": "HOSFE",
@@ -1688,7 +1689,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/19/2009",
+		"updated": "07/19/2009"
 	},
 	{
 		"name": "HOSIN",
@@ -1697,7 +1698,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/21/2003",
+		"updated": "11/21/2003"
 	},
 	{
 		"name": "HOTTZ",
@@ -1706,7 +1707,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/16/2014",
+		"updated": "12/16/2014"
 	},
 	{
 		"name": "HOVNI",
@@ -1715,7 +1716,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ISO*VORTAC*069.37/12.00",
+		"updated": "ISO*VORTAC*069.37/12.00"
 	},
 	{
 		"name": "HOWIE",
@@ -1724,7 +1725,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "CYN*VORTAC*226.13/17.40",
+		"updated": "CYN*VORTAC*226.13/17.40"
 	},
 	{
 		"name": "HOWLL",
@@ -1733,7 +1734,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/16/2014",
+		"updated": "12/16/2014"
 	},
 	{
 		"name": "HOXQU",
@@ -1742,7 +1743,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "SIE*VORTAC*243.99",
+		"updated": "SIE*VORTAC*243.99"
 	},
 	{
 		"name": "HOYAS",
@@ -1751,7 +1752,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/30/2015",
+		"updated": "09/30/2015"
 	},
 	{
 		"name": "HUBBS",
@@ -1760,7 +1761,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "OTT*VORTAC*184.00/44.84",
+		"updated": "OTT*VORTAC*184.00/44.84"
 	},
 	{
 		"name": "HUBUL",
@@ -1769,7 +1770,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/06/2011",
+		"updated": "06/06/2011"
 	},
 	{
 		"name": "HUDEX",
@@ -1778,7 +1779,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "HUDGI",
@@ -1787,7 +1788,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/10/2012",
+		"updated": "04/10/2012"
 	},
 	{
 		"name": "HUGEE",
@@ -1796,7 +1797,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "05/10/2013",
+		"updated": "05/10/2013"
 	},
 	{
 		"name": "HUGHS",
@@ -1805,7 +1806,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/11/2014",
+		"updated": "06/11/2014"
 	},
 	{
 		"name": "HUKID",
@@ -1814,7 +1815,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "HUKOR",
@@ -1823,7 +1824,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/16/2014",
+		"updated": "04/16/2014"
 	},
 	{
 		"name": "HULAN",
@@ -1832,7 +1833,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/26/2017",
+		"updated": "09/26/2017"
 	},
 	{
 		"name": "HULIP",
@@ -1841,7 +1842,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/02/2006",
+		"updated": "06/02/2006"
 	},
 	{
 		"name": "HULIR",
@@ -1850,7 +1851,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/15/2015",
+		"updated": "09/15/2015"
 	},
 	{
 		"name": "HULIV",
@@ -1859,7 +1860,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/15/2013",
+		"updated": "07/15/2013"
 	},
 	{
 		"name": "HULVI",
@@ -1868,7 +1869,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "ADW*VORTAC*010.42/13.00",
+		"updated": "ADW*VORTAC*010.42/13.00"
 	},
 	{
 		"name": "HUMAL",
@@ -1877,7 +1878,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "HUMIV",
@@ -1886,7 +1887,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/07/2014",
+		"updated": "08/07/2014"
 	},
 	{
 		"name": "HUNNN",
@@ -1895,7 +1896,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/29/2014",
+		"updated": "12/29/2014"
 	},
 	{
 		"name": "HUNOP",
@@ -1904,7 +1905,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/18/2011",
+		"updated": "07/18/2011"
 	},
 	{
 		"name": "HUNUL",
@@ -1913,7 +1914,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/04/2015",
+		"updated": "03/04/2015"
 	},
 	{
 		"name": "HUPOV",
@@ -1922,7 +1923,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "04/03/2008",
+		"updated": "04/03/2008"
 	},
 	{
 		"name": "HURIC",
@@ -1931,7 +1932,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/07/2012",
+		"updated": "11/07/2012"
 	},
 	{
 		"name": "HURLU",
@@ -1940,7 +1941,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/06/2015",
+		"updated": "10/06/2015"
 	},
 	{
 		"name": "HURPI",
@@ -1949,7 +1950,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/03/2009",
+		"updated": "11/03/2009"
 	},
 	{
 		"name": "HURTT",
@@ -1958,7 +1959,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "SBV*VORTAC*334.00",
+		"updated": "SBV*VORTAC*334.00"
 	},
 	{
 		"name": "HURTZ",
@@ -1967,7 +1968,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BAL*VORTAC*104.63/12.11",
+		"updated": "BAL*VORTAC*104.63/12.11"
 	},
 	{
 		"name": "HUSEL",
@@ -1976,7 +1977,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BAL*VORTAC*280.51",
+		"updated": "BAL*VORTAC*280.51"
 	},
 	{
 		"name": "HUSER",
@@ -1985,7 +1986,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "HUSLO",
@@ -1994,7 +1995,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/03/2016",
+		"updated": "02/03/2016"
 	},
 	{
 		"name": "HUTSU",
@@ -2003,7 +2004,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "HUTUM",
@@ -2012,7 +2013,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/17/2011",
+		"updated": "11/17/2011"
 	},
 	{
 		"name": "HUVIT",
@@ -2021,7 +2022,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "04/19/2013",
+		"updated": "04/19/2013"
 	},
 	{
 		"name": "HUVOX",
@@ -2030,7 +2031,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "HUXOL",
@@ -2039,7 +2040,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/05/2017",
+		"updated": "12/05/2017"
 	},
 	{
 		"name": "HYALO",
@@ -2048,7 +2049,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/27/2000",
+		"updated": "07/27/2000"
 	},
 	{
 		"name": "HYDRS",
@@ -2057,7 +2058,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/07/2010",
+		"updated": "10/07/2010"
 	},
 	{
 		"name": "HYILL",
@@ -2066,5 +2067,6 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "MXE*VORTAC*086.66",
-	},
+		"updated": "MXE*VORTAC*086.66"
+	}
+]

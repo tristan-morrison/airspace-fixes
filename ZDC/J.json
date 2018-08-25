@@ -1,3 +1,4 @@
+[
 	{
 		"name": "JAAWY",
 		"latitude": "38-15-48.05 N",
@@ -5,7 +6,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/05/2011",
+		"updated": "12/05/2011"
 	},
 	{
 		"name": "JABAM",
@@ -14,7 +15,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/26/2001",
+		"updated": "03/26/2001"
 	},
 	{
 		"name": "JABES",
@@ -23,7 +24,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/08/2013",
+		"updated": "07/08/2013"
 	},
 	{
 		"name": "JABRR",
@@ -32,7 +33,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/12/2015",
+		"updated": "08/12/2015"
 	},
 	{
 		"name": "JABUP",
@@ -41,7 +42,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NTU*TACAN*154.00/11.00",
+		"updated": "NTU*TACAN*154.00/11.00"
 	},
 	{
 		"name": "JADAD",
@@ -50,7 +51,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NGU*TACAN*100.89/10.00",
+		"updated": "NGU*TACAN*100.89/10.00"
 	},
 	{
 		"name": "JADEE",
@@ -59,7 +60,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "RDU*VORTAC*039.00/51.00",
+		"updated": "RDU*VORTAC*039.00/51.00"
 	},
 	{
 		"name": "JADEG",
@@ -68,7 +69,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NKT*TACAN*045.01/1.50",
+		"updated": "NKT*TACAN*045.01/1.50"
 	},
 	{
 		"name": "JADIM",
@@ -77,7 +78,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/05/2012",
+		"updated": "01/05/2012"
 	},
 	{
 		"name": "JADMI",
@@ -86,7 +87,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "12/16/2014",
+		"updated": "12/16/2014"
 	},
 	{
 		"name": "JADNN",
@@ -95,7 +96,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/11/2014",
+		"updated": "06/11/2014"
 	},
 	{
 		"name": "JAGAG",
@@ -104,7 +105,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/11/2001",
+		"updated": "04/11/2001"
 	},
 	{
 		"name": "JAGEM",
@@ -113,7 +114,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "TYI*VORTAC*016.32/34.00",
+		"updated": "TYI*VORTAC*016.32/34.00"
 	},
 	{
 		"name": "JAGNI",
@@ -122,7 +123,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "11/06/2014",
+		"updated": "11/06/2014"
 	},
 	{
 		"name": "JAGNO",
@@ -131,7 +132,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "CCV*VORTAC*042.31/20.79",
+		"updated": "CCV*VORTAC*042.31/20.79"
 	},
 	{
 		"name": "JAGOB",
@@ -140,7 +141,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/14/2003",
+		"updated": "01/14/2003"
 	},
 	{
 		"name": "JAGOT",
@@ -149,7 +150,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NHK*TACAN*122.00/5.60",
+		"updated": "NHK*TACAN*122.00/5.60"
 	},
 	{
 		"name": "JAGUX",
@@ -158,7 +159,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/10/2017",
+		"updated": "07/10/2017"
 	},
 	{
 		"name": "JAIKE",
@@ -167,7 +168,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/22/2001",
+		"updated": "10/22/2001"
 	},
 	{
 		"name": "JALAD",
@@ -176,7 +177,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "JALBA",
@@ -185,7 +186,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "JALDI",
@@ -194,7 +195,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "JALTO",
@@ -203,7 +204,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "PDP*LD*087.50/6.12",
+		"updated": "PDP*LD*087.50/6.12"
 	},
 	{
 		"name": "JAMBE",
@@ -212,7 +213,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/03/2014",
+		"updated": "10/03/2014"
 	},
 	{
 		"name": "JAMIE",
@@ -221,7 +222,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "SBY*VORTAC*218.01/49.24",
+		"updated": "SBY*VORTAC*218.01/49.24"
 	},
 	{
 		"name": "JAMOD",
@@ -230,7 +231,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "04/07/2009",
+		"updated": "04/07/2009"
 	},
 	{
 		"name": "JANBI",
@@ -239,7 +240,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ACY*VORTAC*027.00/3.56",
+		"updated": "ACY*VORTAC*027.00/3.56"
 	},
 	{
 		"name": "JANET",
@@ -248,7 +249,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "03/26/2002",
+		"updated": "03/26/2002"
 	},
 	{
 		"name": "JANIV",
@@ -257,7 +258,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/16/2015",
+		"updated": "07/16/2015"
 	},
 	{
 		"name": "JANNS",
@@ -266,7 +267,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BAL*VORTAC*/13.00",
+		"updated": "BAL*VORTAC*/13.00"
 	},
 	{
 		"name": "JANOV",
@@ -275,7 +276,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MR",
-		"updated": "GXU*VORTAC*201.00/14.00",
+		"updated": "GXU*VORTAC*201.00/14.00"
 	},
 	{
 		"name": "JAPMI",
@@ -284,7 +285,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/22/2010",
+		"updated": "01/22/2010"
 	},
 	{
 		"name": "JARAL",
@@ -293,7 +294,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "DCA*LD*186.49/2.90",
+		"updated": "DCA*LD*186.49/2.90"
 	},
 	{
 		"name": "JARBA",
@@ -302,7 +303,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/15/2013",
+		"updated": "08/15/2013"
 	},
 	{
 		"name": "JARHD",
@@ -311,7 +312,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "JARON",
@@ -320,7 +321,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "SBY*VORTAC*200.00/27.65",
+		"updated": "SBY*VORTAC*200.00/27.65"
 	},
 	{
 		"name": "JASAX",
@@ -329,7 +330,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ODR*VOR*056.04",
+		"updated": "ODR*VOR*056.04"
 	},
 	{
 		"name": "JASEN",
@@ -338,7 +339,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "LDN*VORTAC*057.83/20.06",
+		"updated": "LDN*VORTAC*057.83/20.06"
 	},
 	{
 		"name": "JASRA",
@@ -347,7 +348,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/17/2010",
+		"updated": "11/17/2010"
 	},
 	{
 		"name": "JASUK",
@@ -356,7 +357,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/15/2004",
+		"updated": "09/15/2004"
 	},
 	{
 		"name": "JASUX",
@@ -365,7 +366,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/23/2004",
+		"updated": "11/23/2004"
 	},
 	{
 		"name": "JATIR",
@@ -374,7 +375,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/20/2009",
+		"updated": "07/20/2009"
 	},
 	{
 		"name": "JAVDA",
@@ -383,7 +384,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NTU*TACAN*129.00/11.00",
+		"updated": "NTU*TACAN*129.00/11.00"
 	},
 	{
 		"name": "JAVIK",
@@ -392,7 +393,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BRV*VORTAC*306.72",
+		"updated": "BRV*VORTAC*306.72"
 	},
 	{
 		"name": "JAVIX",
@@ -401,7 +402,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "GSB*TACAN*/0.90",
+		"updated": "GSB*TACAN*/0.90"
 	},
 	{
 		"name": "JAVLU",
@@ -410,7 +411,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "11/06/2014",
+		"updated": "11/06/2014"
 	},
 	{
 		"name": "JAVVA",
@@ -419,7 +420,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "DAN*VOR*012.66",
+		"updated": "DAN*VOR*012.66"
 	},
 	{
 		"name": "JAWAN",
@@ -428,7 +429,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "LFI*TACAN*082.55/1.20",
+		"updated": "LFI*TACAN*082.55/1.20"
 	},
 	{
 		"name": "JAWES",
@@ -437,7 +438,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HPW*VORTAC*139.80",
+		"updated": "HPW*VORTAC*139.80"
 	},
 	{
 		"name": "JAXOR",
@@ -446,7 +447,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/23/2002",
+		"updated": "01/23/2002"
 	},
 	{
 		"name": "JAXSN",
@@ -455,7 +456,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "RIC*VORTAC*245.52/85.00",
+		"updated": "RIC*VORTAC*245.52/85.00"
 	},
 	{
 		"name": "JAXXS",
@@ -464,7 +465,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/29/2017",
+		"updated": "09/29/2017"
 	},
 	{
 		"name": "JAYBO",
@@ -473,7 +474,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BAL*VORTAC*133.24/35.34",
+		"updated": "BAL*VORTAC*133.24/35.34"
 	},
 	{
 		"name": "JAYOH",
@@ -482,7 +483,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "FAK*VORTAC*040.49/74.53",
+		"updated": "FAK*VORTAC*040.49/74.53"
 	},
 	{
 		"name": "JAYRR",
@@ -491,7 +492,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "DAN*VOR*189.24",
+		"updated": "DAN*VOR*189.24"
 	},
 	{
 		"name": "JAYSI",
@@ -500,7 +501,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "ORF*VORTAC*088.00/55.00",
+		"updated": "ORF*VORTAC*088.00/55.00"
 	},
 	{
 		"name": "JBAAY",
@@ -509,7 +510,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/16/2015",
+		"updated": "10/16/2015"
 	},
 	{
 		"name": "JCOBY",
@@ -518,7 +519,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/11/2015",
+		"updated": "03/11/2015"
 	},
 	{
 		"name": "JDUBB",
@@ -527,7 +528,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/04/2016",
+		"updated": "04/04/2016"
 	},
 	{
 		"name": "JEANS",
@@ -536,7 +537,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BAL*VORTAC*286.53/5.34",
+		"updated": "BAL*VORTAC*286.53/5.34"
 	},
 	{
 		"name": "JEANY",
@@ -545,7 +546,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ROA*VOR/DME*151.67",
+		"updated": "ROA*VOR/DME*151.67"
 	},
 	{
 		"name": "JEBAT",
@@ -554,7 +555,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/16/2002",
+		"updated": "07/16/2002"
 	},
 	{
 		"name": "JEBIX",
@@ -563,7 +564,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "LHZ*LD*225.48/3.08",
+		"updated": "LHZ*LD*225.48/3.08"
 	},
 	{
 		"name": "JEBOR",
@@ -572,7 +573,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NKT*TACAN*320.00/6.00",
+		"updated": "NKT*TACAN*320.00/6.00"
 	},
 	{
 		"name": "JEDEL",
@@ -581,7 +582,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/15/2003",
+		"updated": "10/15/2003"
 	},
 	{
 		"name": "JEDOB",
@@ -590,7 +591,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/20/2012",
+		"updated": "12/20/2012"
 	},
 	{
 		"name": "JEDSO",
@@ -599,7 +600,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ECG*VOR/DME*049.53/6.03",
+		"updated": "ECG*VOR/DME*049.53/6.03"
 	},
 	{
 		"name": "JEFCO",
@@ -608,7 +609,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HCM*VORTAC*169.72",
+		"updated": "HCM*VORTAC*169.72"
 	},
 	{
 		"name": "JEFSN",
@@ -617,7 +618,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "05/11/2015",
+		"updated": "05/11/2015"
 	},
 	{
 		"name": "JEGMU",
@@ -626,7 +627,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/24/2002",
+		"updated": "01/24/2002"
 	},
 	{
 		"name": "JEGUD",
@@ -635,7 +636,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/12/2014",
+		"updated": "08/12/2014"
 	},
 	{
 		"name": "JEGUX",
@@ -644,7 +645,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/09/2013",
+		"updated": "01/09/2013"
 	},
 	{
 		"name": "JEKOT",
@@ -653,7 +654,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/12/2011",
+		"updated": "07/12/2011"
 	},
 	{
 		"name": "JEKVO",
@@ -662,7 +663,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/11/2009",
+		"updated": "09/11/2009"
 	},
 	{
 		"name": "JELEB",
@@ -671,7 +672,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/07/2008",
+		"updated": "12/07/2008"
 	},
 	{
 		"name": "JELIK",
@@ -680,7 +681,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/13/2002",
+		"updated": "02/13/2002"
 	},
 	{
 		"name": "JEMAD",
@@ -689,7 +690,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/05/2013",
+		"updated": "03/05/2013"
 	},
 	{
 		"name": "JEMES",
@@ -698,7 +699,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/04/2012",
+		"updated": "09/04/2012"
 	},
 	{
 		"name": "JEMET",
@@ -707,7 +708,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "04/28/2010",
+		"updated": "04/28/2010"
 	},
 	{
 		"name": "JEMMY",
@@ -716,7 +717,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "JENGA",
@@ -725,7 +726,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/03/2016",
+		"updated": "02/03/2016"
 	},
 	{
 		"name": "JENIE",
@@ -734,7 +735,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "OUW*DD*N CRS/0.08",
+		"updated": "OUW*DD*N CRS/0.08"
 	},
 	{
 		"name": "JENOK",
@@ -743,7 +744,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/25/2007",
+		"updated": "06/25/2007"
 	},
 	{
 		"name": "JEPTU",
@@ -752,7 +753,7 @@
 		"state": "DIST. OF COLUMBIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/22/2002",
+		"updated": "01/22/2002"
 	},
 	{
 		"name": "JEPUG",
@@ -761,7 +762,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "VCN*VOR/DME*328.17/11.59",
+		"updated": "VCN*VOR/DME*328.17/11.59"
 	},
 	{
 		"name": "JEPUS",
@@ -770,7 +771,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/03/2009",
+		"updated": "11/03/2009"
 	},
 	{
 		"name": "JEREB",
@@ -779,7 +780,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "TYI*VORTAC*013.93/9.85",
+		"updated": "TYI*VORTAC*013.93/9.85"
 	},
 	{
 		"name": "JEREE",
@@ -788,7 +789,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "OOD*VORTAC*016.00/21.50",
+		"updated": "OOD*VORTAC*016.00/21.50"
 	},
 	{
 		"name": "JERES",
@@ -797,7 +798,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "EMI*VORTAC*300.00/23.82",
+		"updated": "EMI*VORTAC*300.00/23.82"
 	},
 	{
 		"name": "JERMI",
@@ -806,7 +807,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NGU*TACAN*101.85/4.80",
+		"updated": "NGU*TACAN*101.85/4.80"
 	},
 	{
 		"name": "JERUG",
@@ -815,7 +816,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "ADW*VORTAC*183.00/2.70",
+		"updated": "ADW*VORTAC*183.00/2.70"
 	},
 	{
 		"name": "JESTY",
@@ -824,7 +825,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HPW*VORTAC*298.32",
+		"updated": "HPW*VORTAC*298.32"
 	},
 	{
 		"name": "JETAB",
@@ -833,7 +834,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/24/2011",
+		"updated": "06/24/2011"
 	},
 	{
 		"name": "JETEN",
@@ -842,7 +843,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/28/2000",
+		"updated": "12/28/2000"
 	},
 	{
 		"name": "JETIS",
@@ -851,7 +852,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/22/2014",
+		"updated": "09/22/2014"
 	},
 	{
 		"name": "JETIT",
@@ -860,7 +861,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HCM*VORTAC*174.46",
+		"updated": "HCM*VORTAC*174.46"
 	},
 	{
 		"name": "JETMO",
@@ -869,7 +870,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "AML*VOR/DME*299.95/5.40",
+		"updated": "AML*VOR/DME*299.95/5.40"
 	},
 	{
 		"name": "JETNA",
@@ -878,7 +879,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/09/2015",
+		"updated": "01/09/2015"
 	},
 	{
 		"name": "JETTA",
@@ -887,7 +888,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BAL*VORTAC*166.95/22.55",
+		"updated": "BAL*VORTAC*166.95/22.55"
 	},
 	{
 		"name": "JETZO",
@@ -896,7 +897,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/28/2007",
+		"updated": "03/28/2007"
 	},
 	{
 		"name": "JEVGA",
@@ -905,7 +906,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BAL*VORTAC*242.12",
+		"updated": "BAL*VORTAC*242.12"
 	},
 	{
 		"name": "JEXOV",
@@ -914,7 +915,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ROA*VOR/DME*148.83/22.00",
+		"updated": "ROA*VOR/DME*148.83/22.00"
 	},
 	{
 		"name": "JFRSN",
@@ -923,7 +924,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/21/2014",
+		"updated": "02/21/2014"
 	},
 	{
 		"name": "JHALL",
@@ -932,7 +933,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ORF*VORTAC*044.40/11.79",
+		"updated": "ORF*VORTAC*044.40/11.79"
 	},
 	{
 		"name": "JHONY",
@@ -941,7 +942,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/27/2000",
+		"updated": "07/27/2000"
 	},
 	{
 		"name": "JIBUS",
@@ -950,7 +951,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/05/2014",
+		"updated": "02/05/2014"
 	},
 	{
 		"name": "JIDNO",
@@ -959,7 +960,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/16/2010",
+		"updated": "11/16/2010"
 	},
 	{
 		"name": "JIDOM",
@@ -968,7 +969,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/12/2006",
+		"updated": "10/12/2006"
 	},
 	{
 		"name": "JIDON",
@@ -977,7 +978,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "JIGEL",
@@ -986,7 +987,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/21/2014",
+		"updated": "02/21/2014"
 	},
 	{
 		"name": "JIGEP",
@@ -995,7 +996,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/22/2015",
+		"updated": "09/22/2015"
 	},
 	{
 		"name": "JIGUP",
@@ -1004,7 +1005,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/11/2009",
+		"updated": "09/11/2009"
 	},
 	{
 		"name": "JIHDI",
@@ -1013,7 +1014,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "JNX*LD*212.45/5.27",
+		"updated": "JNX*LD*212.45/5.27"
 	},
 	{
 		"name": "JIIMS",
@@ -1022,7 +1023,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/06/2012",
+		"updated": "04/06/2012"
 	},
 	{
 		"name": "JIKDA",
@@ -1031,7 +1032,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/05/2003",
+		"updated": "12/05/2003"
 	},
 	{
 		"name": "JIKIR",
@@ -1040,7 +1041,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "EWN*VOR/DME*046.00/2.00",
+		"updated": "EWN*VOR/DME*046.00/2.00"
 	},
 	{
 		"name": "JIKMA",
@@ -1049,7 +1050,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/21/2003",
+		"updated": "05/21/2003"
 	},
 	{
 		"name": "JIKON",
@@ -1058,7 +1059,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/02/2003",
+		"updated": "01/02/2003"
 	},
 	{
 		"name": "JILAR",
@@ -1067,7 +1068,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/17/2010",
+		"updated": "03/17/2010"
 	},
 	{
 		"name": "JILES",
@@ -1076,7 +1077,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "OTT*VORTAC*276.00/15.37",
+		"updated": "OTT*VORTAC*276.00/15.37"
 	},
 	{
 		"name": "JIMAR",
@@ -1085,7 +1086,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "FKN*VORTAC*249.11/50.00",
+		"updated": "FKN*VORTAC*249.11/50.00"
 	},
 	{
 		"name": "JIMBE",
@@ -1094,7 +1095,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "RIC*VORTAC*018.29/38.00",
+		"updated": "RIC*VORTAC*018.29/38.00"
 	},
 	{
 		"name": "JIMEK",
@@ -1103,7 +1104,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/26/2017",
+		"updated": "09/26/2017"
 	},
 	{
 		"name": "JIMES",
@@ -1112,7 +1113,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "ADW*VORTAC*145.00/6.00",
+		"updated": "ADW*VORTAC*145.00/6.00"
 	},
 	{
 		"name": "JIMIL",
@@ -1121,7 +1122,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/19/2010",
+		"updated": "03/19/2010"
 	},
 	{
 		"name": "JIMME",
@@ -1130,7 +1131,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/18/2007",
+		"updated": "01/18/2007"
 	},
 	{
 		"name": "JIMMY",
@@ -1139,7 +1140,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ORF*VORTAC*041.00/11.81",
+		"updated": "ORF*VORTAC*041.00/11.81"
 	},
 	{
 		"name": "JIMVE",
@@ -1148,7 +1149,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/02/2013",
+		"updated": "05/02/2013"
 	},
 	{
 		"name": "JINIR",
@@ -1157,7 +1158,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/16/2017",
+		"updated": "08/16/2017"
 	},
 	{
 		"name": "JINLU",
@@ -1166,7 +1167,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/15/2011",
+		"updated": "07/15/2011"
 	},
 	{
 		"name": "JIPKE",
@@ -1175,7 +1176,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/28/2010",
+		"updated": "09/28/2010"
 	},
 	{
 		"name": "JIPSI",
@@ -1184,7 +1185,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/01/2011",
+		"updated": "08/01/2011"
 	},
 	{
 		"name": "JIRLA",
@@ -1193,7 +1194,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "08/20/2010",
+		"updated": "08/20/2010"
 	},
 	{
 		"name": "JIROX",
@@ -1202,7 +1203,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/15/2011",
+		"updated": "07/15/2011"
 	},
 	{
 		"name": "JIRUS",
@@ -1211,7 +1212,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/16/2010",
+		"updated": "11/16/2010"
 	},
 	{
 		"name": "JISEL",
@@ -1220,7 +1221,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "VCN*VOR/DME*101.00/60.00",
+		"updated": "VCN*VOR/DME*101.00/60.00"
 	},
 	{
 		"name": "JISOT",
@@ -1229,7 +1230,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "LIB*VORTAC*029.00/27.00",
+		"updated": "LIB*VORTAC*029.00/27.00"
 	},
 	{
 		"name": "JITGU",
@@ -1238,7 +1239,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/05/2013",
+		"updated": "08/05/2013"
 	},
 	{
 		"name": "JITIV",
@@ -1247,7 +1248,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "GVE*VORTAC*293.20",
+		"updated": "GVE*VORTAC*293.20"
 	},
 	{
 		"name": "JITUK",
@@ -1256,7 +1257,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/08/2012",
+		"updated": "08/08/2012"
 	},
 	{
 		"name": "JIVKU",
@@ -1265,7 +1266,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/07/2017",
+		"updated": "04/07/2017"
 	},
 	{
 		"name": "JIVMI",
@@ -1274,7 +1275,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BAL*VORTAC*050.96",
+		"updated": "BAL*VORTAC*050.96"
 	},
 	{
 		"name": "JIXOS",
@@ -1283,7 +1284,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "04/19/2013",
+		"updated": "04/19/2013"
 	},
 	{
 		"name": "JIXOX",
@@ -1292,7 +1293,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/30/2007",
+		"updated": "08/30/2007"
 	},
 	{
 		"name": "JNALL",
@@ -1301,7 +1302,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/04/2015",
+		"updated": "03/04/2015"
 	},
 	{
 		"name": "JNIFR",
@@ -1310,7 +1311,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/03/2009",
+		"updated": "11/03/2009"
 	},
 	{
 		"name": "JOANZ",
@@ -1319,7 +1320,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/04/2014",
+		"updated": "02/04/2014"
 	},
 	{
 		"name": "JOBAR",
@@ -1328,7 +1329,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/29/2016",
+		"updated": "12/29/2016"
 	},
 	{
 		"name": "JOBDI",
@@ -1337,7 +1338,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/22/2015",
+		"updated": "09/22/2015"
 	},
 	{
 		"name": "JODIR",
@@ -1346,7 +1347,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NGU*TACAN*110.00/4.00",
+		"updated": "NGU*TACAN*110.00/4.00"
 	},
 	{
 		"name": "JODKA",
@@ -1355,7 +1356,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "GVE*VORTAC*092.11/20.47",
+		"updated": "GVE*VORTAC*092.11/20.47"
 	},
 	{
 		"name": "JODOC",
@@ -1364,7 +1365,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ORF*VORTAC*180.00/20.00",
+		"updated": "ORF*VORTAC*180.00/20.00"
 	},
 	{
 		"name": "JODSI",
@@ -1373,7 +1374,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/25/2017",
+		"updated": "08/25/2017"
 	},
 	{
 		"name": "JODUS",
@@ -1382,7 +1383,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/27/2010",
+		"updated": "07/27/2010"
 	},
 	{
 		"name": "JOEBE",
@@ -1391,7 +1392,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "JNX*LD*SW CRS/6.00",
+		"updated": "JNX*LD*SW CRS/6.00"
 	},
 	{
 		"name": "JOGIR",
@@ -1400,7 +1401,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ACY*VORTAC*308.54/13.00",
+		"updated": "ACY*VORTAC*308.54/13.00"
 	},
 	{
 		"name": "JOGTA",
@@ -1409,7 +1410,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NKT*TACAN*320.00/2.00",
+		"updated": "NKT*TACAN*320.00/2.00"
 	},
 	{
 		"name": "JOHOF",
@@ -1418,7 +1419,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/16/2014",
+		"updated": "12/16/2014"
 	},
 	{
 		"name": "JOKNI",
@@ -1427,7 +1428,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "SZK*DD*252.25/1.42",
+		"updated": "SZK*DD*252.25/1.42"
 	},
 	{
 		"name": "JOLOS",
@@ -1436,7 +1437,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "ADW*VORTAC*145.00/1.50",
+		"updated": "ADW*VORTAC*145.00/1.50"
 	},
 	{
 		"name": "JOLRU",
@@ -1445,7 +1446,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NHK*NDB*245.00",
+		"updated": "NHK*NDB*245.00"
 	},
 	{
 		"name": "JOLTY",
@@ -1454,7 +1455,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "JOMES",
@@ -1463,7 +1464,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/15/2013",
+		"updated": "07/15/2013"
 	},
 	{
 		"name": "JOMIP",
@@ -1472,7 +1473,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "JOMUG",
@@ -1481,7 +1482,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/11/2012",
+		"updated": "01/11/2012"
 	},
 	{
 		"name": "JOMUS",
@@ -1490,7 +1491,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/18/2011",
+		"updated": "01/18/2011"
 	},
 	{
 		"name": "JONAR",
@@ -1499,7 +1500,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "CN",
-		"updated": "02/10/2011",
+		"updated": "02/10/2011"
 	},
 	{
 		"name": "JONDE",
@@ -1508,7 +1509,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/26/2010",
+		"updated": "02/26/2010"
 	},
 	{
 		"name": "JONDI",
@@ -1517,7 +1518,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "RDU*VORTAC*/12.62",
+		"updated": "RDU*VORTAC*/12.62"
 	},
 	{
 		"name": "JONGO",
@@ -1526,7 +1527,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/30/2015",
+		"updated": "11/30/2015"
 	},
 	{
 		"name": "JONIR",
@@ -1535,7 +1536,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "JNX*LD*212.45/3.52",
+		"updated": "JNX*LD*212.45/3.52"
 	},
 	{
 		"name": "JONNS",
@@ -1544,7 +1545,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "06/14/1991",
+		"updated": "06/14/1991"
 	},
 	{
 		"name": "JONSE",
@@ -1553,7 +1554,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ORF*VORTAC*209.76/3.50",
+		"updated": "ORF*VORTAC*209.76/3.50"
 	},
 	{
 		"name": "JONSI",
@@ -1562,7 +1563,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "GRA*LD*038.19/0.50",
+		"updated": "GRA*LD*038.19/0.50"
 	},
 	{
 		"name": "JONTI",
@@ -1571,7 +1572,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/05/2018",
+		"updated": "03/05/2018"
 	},
 	{
 		"name": "JONUM",
@@ -1580,7 +1581,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/03/2012",
+		"updated": "05/03/2012"
 	},
 	{
 		"name": "JONVA",
@@ -1589,7 +1590,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ISO*VORTAC*325.59/19.29",
+		"updated": "ISO*VORTAC*325.59/19.29"
 	},
 	{
 		"name": "JOOEY",
@@ -1598,7 +1599,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/16/2015",
+		"updated": "10/16/2015"
 	},
 	{
 		"name": "JOPAG",
@@ -1607,7 +1608,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/26/2011",
+		"updated": "09/26/2011"
 	},
 	{
 		"name": "JOPIS",
@@ -1616,7 +1617,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/05/2012",
+		"updated": "04/05/2012"
 	},
 	{
 		"name": "JOPOT",
@@ -1625,7 +1626,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/01/2011",
+		"updated": "08/01/2011"
 	},
 	{
 		"name": "JORGI",
@@ -1634,7 +1635,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "JOROX",
@@ -1643,7 +1644,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/01/2008",
+		"updated": "12/01/2008"
 	},
 	{
 		"name": "JOSCH",
@@ -1652,7 +1653,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "TYI*VORTAC*195.97/42.40",
+		"updated": "TYI*VORTAC*195.97/42.40"
 	},
 	{
 		"name": "JOSEM",
@@ -1661,7 +1662,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ENO*VORTAC*263.91/14.41",
+		"updated": "ENO*VORTAC*263.91/14.41"
 	},
 	{
 		"name": "JOSRU",
@@ -1670,7 +1671,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/13/2008",
+		"updated": "08/13/2008"
 	},
 	{
 		"name": "JOTIB",
@@ -1679,7 +1680,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "JLS*LE*230.91/2.76",
+		"updated": "JLS*LE*230.91/2.76"
 	},
 	{
 		"name": "JOTMO",
@@ -1688,7 +1689,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "JOTOB",
@@ -1697,7 +1698,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/02/2008",
+		"updated": "12/02/2008"
 	},
 	{
 		"name": "JOTUP",
@@ -1706,7 +1707,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "FDK*VOR*232.80",
+		"updated": "FDK*VOR*232.80"
 	},
 	{
 		"name": "JOUKS",
@@ -1715,7 +1716,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/29/2015",
+		"updated": "12/29/2015"
 	},
 	{
 		"name": "JOVAM",
@@ -1724,7 +1725,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/25/2017",
+		"updated": "01/25/2017"
 	},
 	{
 		"name": "JOVOL",
@@ -1733,7 +1734,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/26/2008",
+		"updated": "03/26/2008"
 	},
 	{
 		"name": "JOVUR",
@@ -1742,7 +1743,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/13/2006",
+		"updated": "04/13/2006"
 	},
 	{
 		"name": "JOXOX",
@@ -1751,7 +1752,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/07/2005",
+		"updated": "09/07/2005"
 	},
 	{
 		"name": "JOZRE",
@@ -1760,7 +1761,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/30/2001",
+		"updated": "01/30/2001"
 	},
 	{
 		"name": "JRAYE",
@@ -1769,7 +1770,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "LFI*TACAN*073.00/20.00",
+		"updated": "LFI*TACAN*073.00/20.00"
 	},
 	{
 		"name": "JROBB",
@@ -1778,7 +1779,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/16/2014",
+		"updated": "12/16/2014"
 	},
 	{
 		"name": "JUBIG",
@@ -1787,7 +1788,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NCA*TACAN*177.00/5.00",
+		"updated": "NCA*TACAN*177.00/5.00"
 	},
 	{
 		"name": "JUBJI",
@@ -1796,7 +1797,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "11/16/1998",
+		"updated": "11/16/1998"
 	},
 	{
 		"name": "JUBOL",
@@ -1805,7 +1806,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/30/2013",
+		"updated": "01/30/2013"
 	},
 	{
 		"name": "JUBOP",
@@ -1814,7 +1815,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BCB*LE*NW CRS/11.12",
+		"updated": "BCB*LE*NW CRS/11.12"
 	},
 	{
 		"name": "JUBVI",
@@ -1823,7 +1824,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/31/2008",
+		"updated": "03/31/2008"
 	},
 	{
 		"name": "JUDDE",
@@ -1832,7 +1833,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "VCN*VOR/DME*144.66/18.44",
+		"updated": "VCN*VOR/DME*144.66/18.44"
 	},
 	{
 		"name": "JUDED",
@@ -1841,7 +1842,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "OTT*VORTAC*184.00/11.25",
+		"updated": "OTT*VORTAC*184.00/11.25"
 	},
 	{
 		"name": "JUDGG",
@@ -1850,7 +1851,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/04/2014",
+		"updated": "02/04/2014"
 	},
 	{
 		"name": "JUDKO",
@@ -1859,7 +1860,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/08/2009",
+		"updated": "07/08/2009"
 	},
 	{
 		"name": "JUDLU",
@@ -1868,7 +1869,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HCM*VORTAC*106.85/6.00",
+		"updated": "HCM*VORTAC*106.85/6.00"
 	},
 	{
 		"name": "JUDUL",
@@ -1877,7 +1878,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/14/2018",
+		"updated": "02/14/2018"
 	},
 	{
 		"name": "JUDUM",
@@ -1886,7 +1887,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "JUGMO",
@@ -1895,7 +1896,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BAL*VORTAC*100.12",
+		"updated": "BAL*VORTAC*100.12"
 	},
 	{
 		"name": "JUGPI",
@@ -1904,7 +1905,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/09/2011",
+		"updated": "06/09/2011"
 	},
 	{
 		"name": "JUGRO",
@@ -1913,7 +1914,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "11/06/2014",
+		"updated": "11/06/2014"
 	},
 	{
 		"name": "JUKIK",
@@ -1922,7 +1923,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "AML*VOR/DME*211.54",
+		"updated": "AML*VOR/DME*211.54"
 	},
 	{
 		"name": "JULID",
@@ -1931,7 +1932,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/11/2012",
+		"updated": "05/11/2012"
 	},
 	{
 		"name": "JULNU",
@@ -1940,7 +1941,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/17/2011",
+		"updated": "11/17/2011"
 	},
 	{
 		"name": "JULSI",
@@ -1949,7 +1950,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "SIE*VORTAC*235.66/6.82",
+		"updated": "SIE*VORTAC*235.66/6.82"
 	},
 	{
 		"name": "JULTO",
@@ -1958,7 +1959,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NKT*TACAN*240.00/3.00",
+		"updated": "NKT*TACAN*240.00/3.00"
 	},
 	{
 		"name": "JULUS",
@@ -1967,7 +1968,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NHK*TACAN*327.00/12.00",
+		"updated": "NHK*TACAN*327.00/12.00"
 	},
 	{
 		"name": "JUMDO",
@@ -1976,7 +1977,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/01/2008",
+		"updated": "12/01/2008"
 	},
 	{
 		"name": "JUMIT",
@@ -1985,7 +1986,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/21/2011",
+		"updated": "10/21/2011"
 	},
 	{
 		"name": "JUMIX",
@@ -1994,7 +1995,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NHK*TACAN*222.00/13.00",
+		"updated": "NHK*TACAN*222.00/13.00"
 	},
 	{
 		"name": "JUMPE",
@@ -2003,7 +2004,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ADW*VORTAC*001.86/2.90",
+		"updated": "ADW*VORTAC*001.86/2.90"
 	},
 	{
 		"name": "JUNIA",
@@ -2012,7 +2013,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "PNE*LS*240.40",
+		"updated": "PNE*LS*240.40"
 	},
 	{
 		"name": "JUNIR",
@@ -2021,7 +2022,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/26/2017",
+		"updated": "09/26/2017"
 	},
 	{
 		"name": "JUNIT",
@@ -2030,7 +2031,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "RIC*VORTAC*073.99/11.01",
+		"updated": "RIC*VORTAC*073.99/11.01"
 	},
 	{
 		"name": "JUNKI",
@@ -2039,7 +2040,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HPW*VORTAC*237.23/12.34",
+		"updated": "HPW*VORTAC*237.23/12.34"
 	},
 	{
 		"name": "JUNRA",
@@ -2048,7 +2049,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/07/2012",
+		"updated": "04/07/2012"
 	},
 	{
 		"name": "JURAD",
@@ -2057,7 +2058,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/28/2010",
+		"updated": "07/28/2010"
 	},
 	{
 		"name": "JURTI",
@@ -2066,7 +2067,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BAL*VORTAC*/5.98",
+		"updated": "BAL*VORTAC*/5.98"
 	},
 	{
 		"name": "JURVY",
@@ -2075,7 +2076,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "07/17/2007",
+		"updated": "07/17/2007"
 	},
 	{
 		"name": "JUSBO",
@@ -2084,7 +2085,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/16/2010",
+		"updated": "11/16/2010"
 	},
 	{
 		"name": "JUSPO",
@@ -2093,7 +2094,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "JUTAL",
@@ -2102,7 +2103,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/22/2015",
+		"updated": "09/22/2015"
 	},
 	{
 		"name": "JUTSO",
@@ -2111,7 +2112,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/07/2008",
+		"updated": "12/07/2008"
 	},
 	{
 		"name": "JUVPO",
@@ -2120,7 +2121,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HPW*VORTAC*237.23",
+		"updated": "HPW*VORTAC*237.23"
 	},
 	{
 		"name": "JUVUT",
@@ -2129,7 +2130,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "ADW*VORTAC*014.50/12.00",
+		"updated": "ADW*VORTAC*014.50/12.00"
 	},
 	{
 		"name": "JUXOR",
@@ -2138,7 +2139,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/16/2010",
+		"updated": "08/16/2010"
 	},
 	{
 		"name": "JWASH",
@@ -2147,5 +2148,6 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/09/2012",
-	},
+		"updated": "04/09/2012"
+	}
+]

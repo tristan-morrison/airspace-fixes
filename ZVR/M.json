@@ -1,3 +1,4 @@
+[
 	{
 		"name": "MAJUW",
 		"latitude": "42-30-5.27 N",
@@ -5,7 +6,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "CN",
-		"updated": "02/21/2001",
+		"updated": "02/21/2001"
 	},
 	{
 		"name": "METPA",
@@ -14,5 +15,6 @@
 		"state": "",
 		"artcc": "ZVR",
 		"type": "RP",
-		"updated": "10/06/2016",
-	},
+		"updated": "10/06/2016"
+	}
+]

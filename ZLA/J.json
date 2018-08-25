@@ -1,3 +1,4 @@
+[
 	{
 		"name": "JAABB",
 		"latitude": "33-42-7.69 N",
@@ -5,7 +6,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/05/2017",
+		"updated": "01/05/2017"
 	},
 	{
 		"name": "JAAKI",
@@ -14,7 +15,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/26/2016",
+		"updated": "09/26/2016"
 	},
 	{
 		"name": "JAASK",
@@ -23,7 +24,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/20/2017",
+		"updated": "03/20/2017"
 	},
 	{
 		"name": "JABAL",
@@ -32,7 +33,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "05/22/2013",
+		"updated": "05/22/2013"
 	},
 	{
 		"name": "JABNA",
@@ -41,7 +42,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/08/2002",
+		"updated": "03/08/2002"
 	},
 	{
 		"name": "JABUB",
@@ -50,7 +51,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/03/2017",
+		"updated": "03/03/2017"
 	},
 	{
 		"name": "JACKK",
@@ -59,7 +60,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/19/2011",
+		"updated": "12/19/2011"
 	},
 	{
 		"name": "JADUV",
@@ -68,7 +69,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/11/2008",
+		"updated": "12/11/2008"
 	},
 	{
 		"name": "JAFFU",
@@ -77,7 +78,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "JAGEG",
@@ -86,7 +87,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/14/2003",
+		"updated": "04/14/2003"
 	},
 	{
 		"name": "JAGLO",
@@ -95,7 +96,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "ELB*VOR/DME*215.00/14.94",
+		"updated": "ELB*VOR/DME*215.00/14.94"
 	},
 	{
 		"name": "JAGSI",
@@ -104,7 +105,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "PDZ*VORTAC*355.83/37.30",
+		"updated": "PDZ*VORTAC*355.83/37.30"
 	},
 	{
 		"name": "JAGUK",
@@ -113,7 +114,7 @@
 		"state": "UTAH",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "07/31/2017",
+		"updated": "07/31/2017"
 	},
 	{
 		"name": "JAJEE",
@@ -122,7 +123,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/03/2017",
+		"updated": "03/03/2017"
 	},
 	{
 		"name": "JAKCI",
@@ -131,7 +132,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "11/04/2011",
+		"updated": "11/04/2011"
 	},
 	{
 		"name": "JAKEB",
@@ -140,7 +141,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/02/2003",
+		"updated": "01/02/2003"
 	},
 	{
 		"name": "JAKER",
@@ -149,7 +150,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/04/2003",
+		"updated": "09/04/2003"
 	},
 	{
 		"name": "JAKLO",
@@ -158,7 +159,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/28/2009",
+		"updated": "04/28/2009"
 	},
 	{
 		"name": "JAKOP",
@@ -167,7 +168,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "JAKOS",
@@ -176,7 +177,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "08/11/2008",
+		"updated": "08/11/2008"
 	},
 	{
 		"name": "JAKPU",
@@ -185,7 +186,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "HWG*LD*NW CRS/3.50",
+		"updated": "HWG*LD*NW CRS/3.50"
 	},
 	{
 		"name": "JALMA",
@@ -194,7 +195,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "GCN*VOR/DME*340.85/36.00",
+		"updated": "GCN*VOR/DME*340.85/36.00"
 	},
 	{
 		"name": "JALOT",
@@ -203,7 +204,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "POM*VORTAC*209.09",
+		"updated": "POM*VORTAC*209.09"
 	},
 	{
 		"name": "JAMIA",
@@ -212,7 +213,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/18/2017",
+		"updated": "04/18/2017"
 	},
 	{
 		"name": "JAMMD",
@@ -221,7 +222,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/29/2010",
+		"updated": "04/29/2010"
 	},
 	{
 		"name": "JAMON",
@@ -230,7 +231,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "IPL*VORTAC*344.52/27.49",
+		"updated": "IPL*VORTAC*344.52/27.49"
 	},
 	{
 		"name": "JAMPO",
@@ -239,7 +240,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "JAMVU",
@@ -248,7 +249,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/28/2009",
+		"updated": "04/28/2009"
 	},
 	{
 		"name": "JANAD",
@@ -257,7 +258,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "08/01/2005",
+		"updated": "08/01/2005"
 	},
 	{
 		"name": "JANEN",
@@ -266,7 +267,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/23/2003",
+		"updated": "12/23/2003"
 	},
 	{
 		"name": "JANNY",
@@ -275,7 +276,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "PMD*VORTAC*240.00/15.00",
+		"updated": "PMD*VORTAC*240.00/15.00"
 	},
 	{
 		"name": "JAPAR",
@@ -284,7 +285,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "EHF*VORTAC*123.00/25.30",
+		"updated": "EHF*VORTAC*123.00/25.30"
 	},
 	{
 		"name": "JAPTI",
@@ -293,7 +294,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "11/04/2011",
+		"updated": "11/04/2011"
 	},
 	{
 		"name": "JARDO",
@@ -302,7 +303,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "ELB*VOR/DME*095.00/24.61",
+		"updated": "ELB*VOR/DME*095.00/24.61"
 	},
 	{
 		"name": "JARIK",
@@ -311,7 +312,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "05/13/2011",
+		"updated": "05/13/2011"
 	},
 	{
 		"name": "JARIS",
@@ -320,7 +321,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MW",
-		"updated": "02/24/2015",
+		"updated": "02/24/2015"
 	},
 	{
 		"name": "JARMO",
@@ -329,7 +330,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "NKX*TACAN*064.19/13.00",
+		"updated": "NKX*TACAN*064.19/13.00"
 	},
 	{
 		"name": "JAROZ",
@@ -338,7 +339,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "BLH*VORTAC*080.49/15.00",
+		"updated": "BLH*VORTAC*080.49/15.00"
 	},
 	{
 		"name": "JARZO",
@@ -347,7 +348,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/27/2016",
+		"updated": "12/27/2016"
 	},
 	{
 		"name": "JASER",
@@ -356,7 +357,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "POM*VORTAC*117.99",
+		"updated": "POM*VORTAC*117.99"
 	},
 	{
 		"name": "JASSE",
@@ -365,7 +366,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/22/2016",
+		"updated": "01/22/2016"
 	},
 	{
 		"name": "JATID",
@@ -374,7 +375,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "07/10/2002",
+		"updated": "07/10/2002"
 	},
 	{
 		"name": "JATLU",
@@ -383,7 +384,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/26/2010",
+		"updated": "02/26/2010"
 	},
 	{
 		"name": "JAVPU",
@@ -392,7 +393,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "07/10/2002",
+		"updated": "07/10/2002"
 	},
 	{
 		"name": "JAVSI",
@@ -401,7 +402,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "10/21/2002",
+		"updated": "10/21/2002"
 	},
 	{
 		"name": "JAWSY",
@@ -410,7 +411,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "EED*VORTAC*076.64/25.00",
+		"updated": "EED*VORTAC*076.64/25.00"
 	},
 	{
 		"name": "JAXEV",
@@ -419,7 +420,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "08/04/2008",
+		"updated": "08/04/2008"
 	},
 	{
 		"name": "JAXIT",
@@ -428,7 +429,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/01/2017",
+		"updated": "09/01/2017"
 	},
 	{
 		"name": "JAYSN",
@@ -437,7 +438,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "08/29/2011",
+		"updated": "08/29/2011"
 	},
 	{
 		"name": "JCKIE",
@@ -446,7 +447,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/03/2017",
+		"updated": "03/03/2017"
 	},
 	{
 		"name": "JEBBB",
@@ -455,7 +456,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/18/2005",
+		"updated": "01/18/2005"
 	},
 	{
 		"name": "JEBEL",
@@ -464,7 +465,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "PKE*VORTAC*066.78/15.00",
+		"updated": "PKE*VORTAC*066.78/15.00"
 	},
 	{
 		"name": "JEBNO",
@@ -473,7 +474,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "PRB*VORTAC*076.57/12.50",
+		"updated": "PRB*VORTAC*076.57/12.50"
 	},
 	{
 		"name": "JEBUR",
@@ -482,7 +483,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "NID*TACAN*133.00/11.00",
+		"updated": "NID*TACAN*133.00/11.00"
 	},
 	{
 		"name": "JEDEV",
@@ -491,7 +492,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "NYL*TACAN*219.00/9.00",
+		"updated": "NYL*TACAN*219.00/9.00"
 	},
 	{
 		"name": "JEDGI",
@@ -500,7 +501,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "PRB*VORTAC*178.50/12.50",
+		"updated": "PRB*VORTAC*178.50/12.50"
 	},
 	{
 		"name": "JEDID",
@@ -509,7 +510,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "EDW*VORTAC*223.22/5.90",
+		"updated": "EDW*VORTAC*223.22/5.90"
 	},
 	{
 		"name": "JEDNA",
@@ -518,7 +519,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/19/2014",
+		"updated": "09/19/2014"
 	},
 	{
 		"name": "JEDPO",
@@ -527,7 +528,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "11/14/2016",
+		"updated": "11/14/2016"
 	},
 	{
 		"name": "JEEVS",
@@ -536,7 +537,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/11/2016",
+		"updated": "09/11/2016"
 	},
 	{
 		"name": "JEEYU",
@@ -545,7 +546,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/03/2017",
+		"updated": "03/03/2017"
 	},
 	{
 		"name": "JEFFY",
@@ -554,7 +555,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "LHS*VORTAC*328.65",
+		"updated": "LHS*VORTAC*328.65"
 	},
 	{
 		"name": "JEGAV",
@@ -563,7 +564,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "NYL*TACAN*170.00/9.00",
+		"updated": "NYL*TACAN*170.00/9.00"
 	},
 	{
 		"name": "JEGEX",
@@ -572,7 +573,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "RIV*TACAN*286.00/5.00",
+		"updated": "RIV*TACAN*286.00/5.00"
 	},
 	{
 		"name": "JEHLI",
@@ -581,7 +582,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "TNP*VORTAC*075.35/10.00",
+		"updated": "TNP*VORTAC*075.35/10.00"
 	},
 	{
 		"name": "JEKOR",
@@ -590,7 +591,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/19/2016",
+		"updated": "02/19/2016"
 	},
 	{
 		"name": "JELGO",
@@ -599,7 +600,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "TQQ*VORTAC*137.22/18.00",
+		"updated": "TQQ*VORTAC*137.22/18.00"
 	},
 	{
 		"name": "JELIR",
@@ -608,7 +609,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "LSV*TACAN*/3.80",
+		"updated": "LSV*TACAN*/3.80"
 	},
 	{
 		"name": "JELUX",
@@ -617,7 +618,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/23/2015",
+		"updated": "12/23/2015"
 	},
 	{
 		"name": "JEMAN",
@@ -626,7 +627,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "NKX*TACAN*091.00/16.00",
+		"updated": "NKX*TACAN*091.00/16.00"
 	},
 	{
 		"name": "JEMIS",
@@ -635,7 +636,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MW",
-		"updated": "03/06/2014",
+		"updated": "03/06/2014"
 	},
 	{
 		"name": "JEMOD",
@@ -644,7 +645,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MW",
-		"updated": "10/29/2007",
+		"updated": "10/29/2007"
 	},
 	{
 		"name": "JENAR",
@@ -653,7 +654,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "LSV*TACAN*030.00/7.00",
+		"updated": "LSV*TACAN*030.00/7.00"
 	},
 	{
 		"name": "JENID",
@@ -662,7 +663,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/08/2014",
+		"updated": "04/08/2014"
 	},
 	{
 		"name": "JEPRS",
@@ -671,7 +672,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/03/2017",
+		"updated": "03/03/2017"
 	},
 	{
 		"name": "JERAR",
@@ -680,7 +681,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/19/2011",
+		"updated": "01/19/2011"
 	},
 	{
 		"name": "JERID",
@@ -689,7 +690,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "PMD*VORTAC*298.00/21.24",
+		"updated": "PMD*VORTAC*298.00/21.24"
 	},
 	{
 		"name": "JERKI",
@@ -698,7 +699,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "06/24/2005",
+		"updated": "06/24/2005"
 	},
 	{
 		"name": "JEROD",
@@ -707,7 +708,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "11/25/2002",
+		"updated": "11/25/2002"
 	},
 	{
 		"name": "JERUM",
@@ -716,7 +717,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/23/2015",
+		"updated": "12/23/2015"
 	},
 	{
 		"name": "JESEB",
@@ -725,7 +726,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "NYL*TACAN*170.00/5.00",
+		"updated": "NYL*TACAN*170.00/5.00"
 	},
 	{
 		"name": "JESEX",
@@ -734,7 +735,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "HDF*VOR*309.99",
+		"updated": "HDF*VOR*309.99"
 	},
 	{
 		"name": "JESJI",
@@ -743,7 +744,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "06/02/2010",
+		"updated": "06/02/2010"
 	},
 	{
 		"name": "JESPI",
@@ -752,7 +753,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/29/2009",
+		"updated": "04/29/2009"
 	},
 	{
 		"name": "JESVO",
@@ -761,7 +762,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "TQQ*VORTAC*140.70/18.00",
+		"updated": "TQQ*VORTAC*140.70/18.00"
 	},
 	{
 		"name": "JETHK",
@@ -770,7 +771,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/27/2016",
+		"updated": "12/27/2016"
 	},
 	{
 		"name": "JETSA",
@@ -779,7 +780,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "OSS*LD*071.00/8.32",
+		"updated": "OSS*LD*071.00/8.32"
 	},
 	{
 		"name": "JETTI",
@@ -788,7 +789,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "07/09/2007",
+		"updated": "07/09/2007"
 	},
 	{
 		"name": "JEVOK",
@@ -797,7 +798,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/20/2016",
+		"updated": "09/20/2016"
 	},
 	{
 		"name": "JEXIX",
@@ -806,7 +807,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/19/2011",
+		"updated": "01/19/2011"
 	},
 	{
 		"name": "JEXOT",
@@ -815,7 +816,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/20/2016",
+		"updated": "09/20/2016"
 	},
 	{
 		"name": "JEZOB",
@@ -824,7 +825,7 @@
 		"state": "UTAH",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "MMM*VORTAC*043.17/47.91",
+		"updated": "MMM*VORTAC*043.17/47.91"
 	},
 	{
 		"name": "JEZZE",
@@ -833,7 +834,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "10/18/2006",
+		"updated": "10/18/2006"
 	},
 	{
 		"name": "JIBCU",
@@ -842,7 +843,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "07/10/2002",
+		"updated": "07/10/2002"
 	},
 	{
 		"name": "JIBOP",
@@ -851,7 +852,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "06/10/2010",
+		"updated": "06/10/2010"
 	},
 	{
 		"name": "JIBUN",
@@ -860,7 +861,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "NYL*TACAN*022.00/10.00",
+		"updated": "NYL*TACAN*022.00/10.00"
 	},
 	{
 		"name": "JIDOV",
@@ -869,7 +870,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "05/22/2013",
+		"updated": "05/22/2013"
 	},
 	{
 		"name": "JIDPI",
@@ -878,7 +879,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/28/2018",
+		"updated": "02/28/2018"
 	},
 	{
 		"name": "JIDUL",
@@ -887,7 +888,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/18/2017",
+		"updated": "04/18/2017"
 	},
 	{
 		"name": "JIGAV",
@@ -896,7 +897,7 @@
 		"state": "UTAH",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "11/04/2010",
+		"updated": "11/04/2010"
 	},
 	{
 		"name": "JIIVE",
@@ -905,7 +906,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/05/2017",
+		"updated": "01/05/2017"
 	},
 	{
 		"name": "JIKUB",
@@ -914,7 +915,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/29/2011",
+		"updated": "03/29/2011"
 	},
 	{
 		"name": "JILAN",
@@ -923,7 +924,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/21/2016",
+		"updated": "09/21/2016"
 	},
 	{
 		"name": "JILMU",
@@ -932,7 +933,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "08/16/2006",
+		"updated": "08/16/2006"
 	},
 	{
 		"name": "JIMUK",
@@ -941,7 +942,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "NYL*TACAN*342.00/15.00",
+		"updated": "NYL*TACAN*342.00/15.00"
 	},
 	{
 		"name": "JINAT",
@@ -950,7 +951,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "VNY*VOR/DME*/11.40",
+		"updated": "VNY*VOR/DME*/11.40"
 	},
 	{
 		"name": "JIPEM",
@@ -959,7 +960,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "06/24/2005",
+		"updated": "06/24/2005"
 	},
 	{
 		"name": "JIPOP",
@@ -968,7 +969,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "EDW*VORTAC*223.00/13.00",
+		"updated": "EDW*VORTAC*223.00/13.00"
 	},
 	{
 		"name": "JIREM",
@@ -977,7 +978,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "MW",
-		"updated": "TQQ*VORTAC*140.70/14.00",
+		"updated": "TQQ*VORTAC*140.70/14.00"
 	},
 	{
 		"name": "JIRPU",
@@ -986,7 +987,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/19/2016",
+		"updated": "02/19/2016"
 	},
 	{
 		"name": "JISOP",
@@ -995,7 +996,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "08/10/2006",
+		"updated": "08/10/2006"
 	},
 	{
 		"name": "JITAX",
@@ -1004,7 +1005,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "06/17/2011",
+		"updated": "06/17/2011"
 	},
 	{
 		"name": "JITEG",
@@ -1013,7 +1014,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "11/16/2010",
+		"updated": "11/16/2010"
 	},
 	{
 		"name": "JITKA",
@@ -1022,7 +1023,7 @@
 		"state": "UTAH",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "MMM*VORTAC*043.17/38.98",
+		"updated": "MMM*VORTAC*043.17/38.98"
 	},
 	{
 		"name": "JITLA",
@@ -1031,7 +1032,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/14/2018",
+		"updated": "03/14/2018"
 	},
 	{
 		"name": "JITSU",
@@ -1040,7 +1041,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/27/2016",
+		"updated": "12/27/2016"
 	},
 	{
 		"name": "JIVIK",
@@ -1049,7 +1050,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "UTI*VOR/DME*196.00/9.50",
+		"updated": "UTI*VOR/DME*196.00/9.50"
 	},
 	{
 		"name": "JJAWS",
@@ -1058,7 +1059,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/27/2017",
+		"updated": "02/27/2017"
 	},
 	{
 		"name": "JJOEL",
@@ -1067,7 +1068,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "JJONN",
@@ -1076,7 +1077,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "MKZ*LD*250.99/15.86",
+		"updated": "MKZ*LD*250.99/15.86"
 	},
 	{
 		"name": "JMANN",
@@ -1085,7 +1086,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/02/2018",
+		"updated": "04/02/2018"
 	},
 	{
 		"name": "JNBOY",
@@ -1094,7 +1095,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/03/2017",
+		"updated": "03/03/2017"
 	},
 	{
 		"name": "JODIP",
@@ -1103,7 +1104,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/14/2005",
+		"updated": "01/14/2005"
 	},
 	{
 		"name": "JOEES",
@@ -1112,7 +1113,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/27/2016",
+		"updated": "12/27/2016"
 	},
 	{
 		"name": "JOEKR",
@@ -1121,7 +1122,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/27/2016",
+		"updated": "12/27/2016"
 	},
 	{
 		"name": "JOELZ",
@@ -1130,7 +1131,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/27/2016",
+		"updated": "12/27/2016"
 	},
 	{
 		"name": "JOFRY",
@@ -1139,7 +1140,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/27/2017",
+		"updated": "02/27/2017"
 	},
 	{
 		"name": "JOGEV",
@@ -1148,7 +1149,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "LSV*TACAN*030.00/3.80",
+		"updated": "LSV*TACAN*030.00/3.80"
 	},
 	{
 		"name": "JOGIT",
@@ -1157,7 +1158,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "POM*VORTAC*164.00",
+		"updated": "POM*VORTAC*164.00"
 	},
 	{
 		"name": "JOGMU",
@@ -1166,7 +1167,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "10/16/2006",
+		"updated": "10/16/2006"
 	},
 	{
 		"name": "JOHHN",
@@ -1175,7 +1176,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/27/2016",
+		"updated": "12/27/2016"
 	},
 	{
 		"name": "JOKUR",
@@ -1184,7 +1185,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "DAG*VORTAC*046.58/10.00",
+		"updated": "DAG*VORTAC*046.58/10.00"
 	},
 	{
 		"name": "JOKUS",
@@ -1193,7 +1194,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "HWG*LD*NW CRS/12.62",
+		"updated": "HWG*LD*NW CRS/12.62"
 	},
 	{
 		"name": "JOLPO",
@@ -1202,7 +1203,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/26/2016",
+		"updated": "09/26/2016"
 	},
 	{
 		"name": "JOLRI",
@@ -1211,7 +1212,7 @@
 		"state": "OHIO",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/27/2018",
+		"updated": "02/27/2018"
 	},
 	{
 		"name": "JOMIX",
@@ -1220,7 +1221,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "05/13/2011",
+		"updated": "05/13/2011"
 	},
 	{
 		"name": "JONDA",
@@ -1229,7 +1230,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "IPL*VORTAC*250.04/30.00",
+		"updated": "IPL*VORTAC*250.04/30.00"
 	},
 	{
 		"name": "JOPDO",
@@ -1238,7 +1239,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/04/2008",
+		"updated": "12/04/2008"
 	},
 	{
 		"name": "JOPON",
@@ -1247,7 +1248,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "06/24/2005",
+		"updated": "06/24/2005"
 	},
 	{
 		"name": "JOPUM",
@@ -1256,7 +1257,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/01/2017",
+		"updated": "09/01/2017"
 	},
 	{
 		"name": "JORRJ",
@@ -1265,7 +1266,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/16/2016",
+		"updated": "09/16/2016"
 	},
 	{
 		"name": "JOSOP",
@@ -1274,7 +1275,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/14/2018",
+		"updated": "03/14/2018"
 	},
 	{
 		"name": "JOSUL",
@@ -1283,7 +1284,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "LAX*VORTAC*322.89/20.98",
+		"updated": "LAX*VORTAC*322.89/20.98"
 	},
 	{
 		"name": "JOTNU",
@@ -1292,7 +1293,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "TNP*VORTAC*028.00/17.51",
+		"updated": "TNP*VORTAC*028.00/17.51"
 	},
 	{
 		"name": "JOVBA",
@@ -1301,7 +1302,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "10/17/2011",
+		"updated": "10/17/2011"
 	},
 	{
 		"name": "JRDDN",
@@ -1310,7 +1311,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/27/2016",
+		"updated": "12/27/2016"
 	},
 	{
 		"name": "JRGSN",
@@ -1319,7 +1320,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/27/2017",
+		"updated": "02/27/2017"
 	},
 	{
 		"name": "JUBIM",
@@ -1328,7 +1329,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "JUDAP",
@@ -1337,7 +1338,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "MW",
-		"updated": "08/19/2010",
+		"updated": "08/19/2010"
 	},
 	{
 		"name": "JUDDU",
@@ -1346,7 +1347,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "JUDLO",
@@ -1355,7 +1356,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "SLI*VORTAC*020.17/6.31",
+		"updated": "SLI*VORTAC*020.17/6.31"
 	},
 	{
 		"name": "JUDOH",
@@ -1364,7 +1365,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/24/2017",
+		"updated": "01/24/2017"
 	},
 	{
 		"name": "JUGAL",
@@ -1373,7 +1374,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/28/2012",
+		"updated": "03/28/2012"
 	},
 	{
 		"name": "JUGLI",
@@ -1382,7 +1383,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "LAX*VORTAC*068.00/32.24",
+		"updated": "LAX*VORTAC*068.00/32.24"
 	},
 	{
 		"name": "JULAS",
@@ -1391,7 +1392,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "NRS*TACAN*078.00/1.00",
+		"updated": "NRS*TACAN*078.00/1.00"
 	},
 	{
 		"name": "JULLI",
@@ -1400,7 +1401,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "HQB*LD*071.00/16.18",
+		"updated": "HQB*LD*071.00/16.18"
 	},
 	{
 		"name": "JUMPA",
@@ -1409,7 +1410,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "PDZ*VORTAC*130.00/22.00",
+		"updated": "PDZ*VORTAC*130.00/22.00"
 	},
 	{
 		"name": "JUMPP",
@@ -1418,7 +1419,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/03/2017",
+		"updated": "03/03/2017"
 	},
 	{
 		"name": "JUNNO",
@@ -1427,7 +1428,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "BLD*VORTAC*344.00/44.00",
+		"updated": "BLD*VORTAC*344.00/44.00"
 	},
 	{
 		"name": "JUNOR",
@@ -1436,7 +1437,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/29/2016",
+		"updated": "12/29/2016"
 	},
 	{
 		"name": "JUPEX",
@@ -1445,7 +1446,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "BFL*LD*121.32/7.57",
+		"updated": "BFL*LD*121.32/7.57"
 	},
 	{
 		"name": "JURAT",
@@ -1454,7 +1455,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/23/2016",
+		"updated": "02/23/2016"
 	},
 	{
 		"name": "JUREX",
@@ -1463,7 +1464,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "10/18/2006",
+		"updated": "10/18/2006"
 	},
 	{
 		"name": "JUROR",
@@ -1472,7 +1473,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/26/2009",
+		"updated": "02/26/2009"
 	},
 	{
 		"name": "JURPE",
@@ -1481,7 +1482,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "CFN*LD*071.01/30.35",
+		"updated": "CFN*LD*071.01/30.35"
 	},
 	{
 		"name": "JUTGA",
@@ -1490,7 +1491,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "08/09/2006",
+		"updated": "08/09/2006"
 	},
 	{
 		"name": "JUTIG",
@@ -1499,7 +1500,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "NYL*TACAN*219.00/4.00",
+		"updated": "NYL*TACAN*219.00/4.00"
 	},
 	{
 		"name": "JUTTY",
@@ -1508,7 +1509,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "TTE*VOR/DME*192.35",
+		"updated": "TTE*VOR/DME*192.35"
 	},
 	{
 		"name": "JUUSE",
@@ -1517,7 +1518,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/28/2017",
+		"updated": "02/28/2017"
 	},
 	{
 		"name": "JUVNO",
@@ -1526,7 +1527,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/19/2011",
+		"updated": "01/19/2011"
 	},
 	{
 		"name": "JUXAT",
@@ -1535,7 +1536,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/21/2016",
+		"updated": "09/21/2016"
 	},
 	{
 		"name": "JUXIX",
@@ -1544,7 +1545,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/02/2009",
+		"updated": "01/02/2009"
 	},
 	{
 		"name": "JWARD",
@@ -1553,5 +1554,6 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/19/2011",
-	},
+		"updated": "12/19/2011"
+	}
+]

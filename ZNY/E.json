@@ -1,3 +1,4 @@
+[
 	{
 		"name": "EBBEE",
 		"latitude": "40-33-38.92 N",
@@ -5,7 +6,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "JFK*LD*224.76/6.07",
+		"updated": "JFK*LD*224.76/6.07"
 	},
 	{
 		"name": "EBEGE",
@@ -14,7 +15,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/17/2006",
+		"updated": "08/17/2006"
 	},
 	{
 		"name": "EBELE",
@@ -23,7 +24,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MR",
-		"updated": "GXU*VORTAC*201.00/1.10",
+		"updated": "GXU*VORTAC*201.00/1.10"
 	},
 	{
 		"name": "EBOXY",
@@ -32,7 +33,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "ECAVI",
@@ -41,7 +42,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "03/26/2002",
+		"updated": "03/26/2002"
 	},
 	{
 		"name": "ECBES",
@@ -50,7 +51,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "CN",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "ECCOR",
@@ -59,7 +60,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MW",
-		"updated": "09/06/2017",
+		"updated": "09/06/2017"
 	},
 	{
 		"name": "ECEDI",
@@ -68,7 +69,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/20/2013",
+		"updated": "03/20/2013"
 	},
 	{
 		"name": "ECOCA",
@@ -77,7 +78,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "THS*VORTAC*087.96/8.00",
+		"updated": "THS*VORTAC*087.96/8.00"
 	},
 	{
 		"name": "ECOSE",
@@ -86,7 +87,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "03/26/2002",
+		"updated": "03/26/2002"
 	},
 	{
 		"name": "ECZEL",
@@ -95,7 +96,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/21/2003",
+		"updated": "02/21/2003"
 	},
 	{
 		"name": "EDDEK",
@@ -104,7 +105,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "EDDER",
@@ -113,7 +114,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ITH*VOR/DME*127.88",
+		"updated": "ITH*VOR/DME*127.88"
 	},
 	{
 		"name": "EFECO",
@@ -122,7 +123,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "DQO*VORTAC*349.31",
+		"updated": "DQO*VORTAC*349.31"
 	},
 	{
 		"name": "EGIBE",
@@ -131,7 +132,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MR",
-		"updated": "NEL*TACAN*160.00/1.00",
+		"updated": "NEL*TACAN*160.00/1.00"
 	},
 	{
 		"name": "EGNER",
@@ -140,7 +141,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "06/17/1991",
+		"updated": "06/17/1991"
 	},
 	{
 		"name": "EGUSE",
@@ -149,7 +150,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/15/2009",
+		"updated": "09/15/2009"
 	},
 	{
 		"name": "EGYPT",
@@ -158,7 +159,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "FJC*VORTAC*270.00",
+		"updated": "FJC*VORTAC*270.00"
 	},
 	{
 		"name": "EHLUN",
@@ -167,7 +168,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/26/2010",
+		"updated": "02/26/2010"
 	},
 	{
 		"name": "EHPUZ",
@@ -176,7 +177,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/10/2009",
+		"updated": "07/10/2009"
 	},
 	{
 		"name": "EITEE",
@@ -185,7 +186,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/10/2017",
+		"updated": "01/10/2017"
 	},
 	{
 		"name": "EJEBA",
@@ -194,7 +195,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/10/2011",
+		"updated": "03/10/2011"
 	},
 	{
 		"name": "EKETE",
@@ -203,7 +204,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/28/2010",
+		"updated": "04/28/2010"
 	},
 	{
 		"name": "EKSIC",
@@ -212,7 +213,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/29/2009",
+		"updated": "10/29/2009"
 	},
 	{
 		"name": "ELCAM",
@@ -221,7 +222,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/23/2018",
+		"updated": "03/23/2018"
 	},
 	{
 		"name": "ELEXY",
@@ -230,7 +231,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/21/2013",
+		"updated": "08/21/2013"
 	},
 	{
 		"name": "ELIOT",
@@ -239,7 +240,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "BWZ*VOR/DME*286.00",
+		"updated": "BWZ*VOR/DME*286.00"
 	},
 	{
 		"name": "ELIZE",
@@ -248,7 +249,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "ELJEZ",
@@ -257,7 +258,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/22/2014",
+		"updated": "12/22/2014"
 	},
 	{
 		"name": "ELREQ",
@@ -266,7 +267,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/23/2007",
+		"updated": "03/23/2007"
 	},
 	{
 		"name": "ELVAE",
@@ -275,7 +276,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "COL*VOR/DME*350.25/15.05",
+		"updated": "COL*VOR/DME*350.25/15.05"
 	},
 	{
 		"name": "EMAKO",
@@ -284,7 +285,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/27/2008",
+		"updated": "05/27/2008"
 	},
 	{
 		"name": "EMATE",
@@ -293,7 +294,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/17/2006",
+		"updated": "08/17/2006"
 	},
 	{
 		"name": "EMBAY",
@@ -302,7 +303,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CRI*VOR/DME*263.09",
+		"updated": "CRI*VOR/DME*263.09"
 	},
 	{
 		"name": "EMJAY",
@@ -311,7 +312,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "JFK*VOR/DME*156.00/39.93",
+		"updated": "JFK*VOR/DME*156.00/39.93"
 	},
 	{
 		"name": "EMPYR",
@@ -320,7 +321,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SBJ*VOR/DME*117.00/24.68",
+		"updated": "SBJ*VOR/DME*117.00/24.68"
 	},
 	{
 		"name": "EMQUE",
@@ -329,7 +330,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/02/2008",
+		"updated": "05/02/2008"
 	},
 	{
 		"name": "EMRSN",
@@ -338,7 +339,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/31/2015",
+		"updated": "08/31/2015"
 	},
 	{
 		"name": "EMUNY",
@@ -347,7 +348,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "GXU*VORTAC*332.38",
+		"updated": "GXU*VORTAC*332.38"
 	},
 	{
 		"name": "ENAPI",
@@ -356,7 +357,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/10/2017",
+		"updated": "01/10/2017"
 	},
 	{
 		"name": "ENVUH",
@@ -365,7 +366,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "03/26/2002",
+		"updated": "03/26/2002"
 	},
 	{
 		"name": "EPAHA",
@@ -374,7 +375,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/05/2010",
+		"updated": "01/05/2010"
 	},
 	{
 		"name": "EPEYI",
@@ -383,7 +384,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "ERHOW",
@@ -392,7 +393,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "ERINN",
@@ -401,7 +402,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ULW*VOR/DME*/11.06",
+		"updated": "ULW*VOR/DME*/11.06"
 	},
 	{
 		"name": "ERORE",
@@ -410,7 +411,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/02/2012",
+		"updated": "10/02/2012"
 	},
 	{
 		"name": "ESAAL",
@@ -419,7 +420,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LRP*VOR/DME*271.77/7.00",
+		"updated": "LRP*VOR/DME*271.77/7.00"
 	},
 	{
 		"name": "ESEBY",
@@ -428,7 +429,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ITH*VOR/DME*314.00/2.40",
+		"updated": "ITH*VOR/DME*314.00/2.40"
 	},
 	{
 		"name": "ESJAY",
@@ -437,7 +438,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CMK*VOR/DME*275.00",
+		"updated": "CMK*VOR/DME*275.00"
 	},
 	{
 		"name": "ESTOO",
@@ -446,7 +447,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/11/2009",
+		"updated": "09/11/2009"
 	},
 	{
 		"name": "ETATE",
@@ -455,7 +456,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/17/2006",
+		"updated": "08/17/2006"
 	},
 	{
 		"name": "ETINY",
@@ -464,7 +465,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "ETSIW",
@@ -473,7 +474,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/10/2009",
+		"updated": "07/10/2009"
 	},
 	{
 		"name": "ETUVY",
@@ -482,7 +483,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/20/2011",
+		"updated": "04/20/2011"
 	},
 	{
 		"name": "EUMIG",
@@ -491,7 +492,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/20/2013",
+		"updated": "03/20/2013"
 	},
 	{
 		"name": "EVAMY",
@@ -500,7 +501,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/24/2012",
+		"updated": "07/24/2012"
 	},
 	{
 		"name": "EVEGE",
@@ -509,7 +510,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "EVITT",
@@ -518,7 +519,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SBJ*VOR/DME*272.88/15.47",
+		"updated": "SBJ*VOR/DME*272.88/15.47"
 	},
 	{
 		"name": "EWOKO",
@@ -527,7 +528,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/29/2009",
+		"updated": "10/29/2009"
 	},
 	{
 		"name": "EXAGE",
@@ -536,7 +537,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LVZ*VORTAC*094.00/7.36",
+		"updated": "LVZ*VORTAC*094.00/7.36"
 	},
 	{
 		"name": "EXLAV",
@@ -545,7 +546,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/24/2017",
+		"updated": "08/24/2017"
 	},
 	{
 		"name": "EXPRS",
@@ -554,7 +555,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/26/2002",
+		"updated": "09/26/2002"
 	},
 	{
 		"name": "EXTOL",
@@ -563,7 +564,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ROC*VOR/DME*132.33",
+		"updated": "ROC*VOR/DME*132.33"
 	},
 	{
 		"name": "EXXES",
@@ -572,7 +573,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "JFK*VOR/DME*165.00/80.00",
+		"updated": "JFK*VOR/DME*165.00/80.00"
 	},
 	{
 		"name": "EYMON",
@@ -581,7 +582,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/30/2001",
+		"updated": "01/30/2001"
 	},
 	{
 		"name": "EYRIE",
@@ -590,7 +591,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/26/2002",
+		"updated": "09/26/2002"
 	},
 	{
 		"name": "EZABO",
@@ -599,7 +600,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/17/2014",
+		"updated": "04/17/2014"
 	},
 	{
 		"name": "EZIMO",
@@ -608,7 +609,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "EZUCE",
@@ -617,7 +618,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/17/2008",
+		"updated": "06/17/2008"
 	},
 	{
 		"name": "EZUMO",
@@ -626,5 +627,6 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/20/2011",
-	},
+		"updated": "04/20/2011"
+	}
+]

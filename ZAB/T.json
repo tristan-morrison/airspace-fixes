@@ -1,3 +1,4 @@
+[
 	{
 		"name": "TABHU",
 		"latitude": "31-35-14.9 N",
@@ -5,7 +6,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/19/2011",
+		"updated": "07/19/2011"
 	},
 	{
 		"name": "TACOH",
@@ -14,7 +15,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/25/2012",
+		"updated": "11/25/2012"
 	},
 	{
 		"name": "TACOZ",
@@ -23,7 +24,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "TACUB",
@@ -32,7 +33,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "AVQ*NDB*274.81",
+		"updated": "AVQ*NDB*274.81"
 	},
 	{
 		"name": "TACYU",
@@ -41,7 +42,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/30/2005",
+		"updated": "12/30/2005"
 	},
 	{
 		"name": "TAFOY",
@@ -50,7 +51,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "FTI*VORTAC*215.48",
+		"updated": "FTI*VORTAC*215.48"
 	},
 	{
 		"name": "TAGGS",
@@ -59,7 +60,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*078.90/40.00",
+		"updated": "PXR*VORTAC*078.90/40.00"
 	},
 	{
 		"name": "TAGOC",
@@ -68,7 +69,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/14/2005",
+		"updated": "01/14/2005"
 	},
 	{
 		"name": "TALEN",
@@ -77,7 +78,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CME*VORTAC*180.00/35.00",
+		"updated": "CME*VORTAC*180.00/35.00"
 	},
 	{
 		"name": "TALLR",
@@ -86,7 +87,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/24/2013",
+		"updated": "10/24/2013"
 	},
 	{
 		"name": "TAMEY",
@@ -95,7 +96,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/21/2014",
+		"updated": "03/21/2014"
 	},
 	{
 		"name": "TANER",
@@ -104,7 +105,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ABQ*VORTAC*315.90/57.79",
+		"updated": "ABQ*VORTAC*315.90/57.79"
 	},
 	{
 		"name": "TANKZ",
@@ -113,7 +114,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "LUF*TACAN*281.32/37.95",
+		"updated": "LUF*TACAN*281.32/37.95"
 	},
 	{
 		"name": "TAPDE",
@@ -122,7 +123,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ZUN*VORTAC*073.01/39.00",
+		"updated": "ZUN*VORTAC*073.01/39.00"
 	},
 	{
 		"name": "TAPGE",
@@ -131,7 +132,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/14/2009",
+		"updated": "07/14/2009"
 	},
 	{
 		"name": "TATUY",
@@ -140,7 +141,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/11/2006",
+		"updated": "08/11/2006"
 	},
 	{
 		"name": "TAWNE",
@@ -149,7 +150,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "FLG*VOR/DME*082.50/15.00",
+		"updated": "FLG*VOR/DME*082.50/15.00"
 	},
 	{
 		"name": "TBOON",
@@ -158,7 +159,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "TDOWN",
@@ -167,7 +168,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/19/2011",
+		"updated": "12/19/2011"
 	},
 	{
 		"name": "TEAJA",
@@ -176,7 +177,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/06/2017",
+		"updated": "06/06/2017"
 	},
 	{
 		"name": "TECZA",
@@ -185,7 +186,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ABQ*VORTAC*128.34",
+		"updated": "ABQ*VORTAC*128.34"
 	},
 	{
 		"name": "TEDDI",
@@ -194,7 +195,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*054.40/36.00",
+		"updated": "PXR*VORTAC*054.40/36.00"
 	},
 	{
 		"name": "TEEES",
@@ -203,7 +204,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/14/2015",
+		"updated": "08/14/2015"
 	},
 	{
 		"name": "TEENR",
@@ -212,7 +213,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "TEICH",
@@ -221,7 +222,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/28/2011",
+		"updated": "10/28/2011"
 	},
 	{
 		"name": "TEKUY",
@@ -230,7 +231,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/13/2009",
+		"updated": "01/13/2009"
 	},
 	{
 		"name": "TELGE",
@@ -239,7 +240,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*120.00/67.27",
+		"updated": "PXR*VORTAC*120.00/67.27"
 	},
 	{
 		"name": "TELIE",
@@ -248,7 +249,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "TELKE",
@@ -257,7 +258,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/14/2014",
+		"updated": "02/14/2014"
 	},
 	{
 		"name": "TELOY",
@@ -266,7 +267,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TAS*VORTAC*173.92/12.42",
+		"updated": "TAS*VORTAC*173.92/12.42"
 	},
 	{
 		"name": "TELRE",
@@ -275,7 +276,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/06/2011",
+		"updated": "12/06/2011"
 	},
 	{
 		"name": "TELVE",
@@ -284,7 +285,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/13/2015",
+		"updated": "05/13/2015"
 	},
 	{
 		"name": "TESLE",
@@ -293,7 +294,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "AHA*LD*258.03/21.47",
+		"updated": "AHA*LD*258.03/21.47"
 	},
 	{
 		"name": "TEXAZ",
@@ -302,7 +303,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/13/2015",
+		"updated": "05/13/2015"
 	},
 	{
 		"name": "TEYYI",
@@ -311,7 +312,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/13/2009",
+		"updated": "01/13/2009"
 	},
 	{
 		"name": "TGOLD",
@@ -320,7 +321,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/06/2014",
+		"updated": "10/06/2014"
 	},
 	{
 		"name": "THOMM",
@@ -329,7 +330,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*006.00/39.00",
+		"updated": "PXR*VORTAC*006.00/39.00"
 	},
 	{
 		"name": "TIBQU",
@@ -338,7 +339,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/27/2013",
+		"updated": "06/27/2013"
 	},
 	{
 		"name": "TIFME",
@@ -347,7 +348,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/26/2017",
+		"updated": "12/26/2017"
 	},
 	{
 		"name": "TIMGE",
@@ -356,7 +357,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/22/2017",
+		"updated": "08/22/2017"
 	},
 	{
 		"name": "TINIZ",
@@ -365,7 +366,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/16/2009",
+		"updated": "03/16/2009"
 	},
 	{
 		"name": "TIRON",
@@ -374,7 +375,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "LUF*TACAN*266.86/27.15",
+		"updated": "LUF*TACAN*266.86/27.15"
 	},
 	{
 		"name": "TISKE",
@@ -383,7 +384,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/31/2016",
+		"updated": "10/31/2016"
 	},
 	{
 		"name": "TITFE",
@@ -392,7 +393,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/03/2010",
+		"updated": "12/03/2010"
 	},
 	{
 		"name": "TIXIE",
@@ -401,7 +402,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/19/2010",
+		"updated": "11/19/2010"
 	},
 	{
 		"name": "TKILA",
@@ -410,7 +411,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/06/2014",
+		"updated": "03/06/2014"
 	},
 	{
 		"name": "TLMAN",
@@ -419,7 +420,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/13/2010",
+		"updated": "12/13/2010"
 	},
 	{
 		"name": "TMACK",
@@ -428,7 +429,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TCS*VORTAC*260.48/38.54",
+		"updated": "TCS*VORTAC*260.48/38.54"
 	},
 	{
 		"name": "TNTOE",
@@ -437,7 +438,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/25/2012",
+		"updated": "11/25/2012"
 	},
 	{
 		"name": "TODRE",
@@ -446,7 +447,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CWJ*LD*E CRS/14.66",
+		"updated": "CWJ*LD*E CRS/14.66"
 	},
 	{
 		"name": "TOGIE",
@@ -455,7 +456,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*338.30/17.00",
+		"updated": "HMN*TACAN*338.30/17.00"
 	},
 	{
 		"name": "TOHQU",
@@ -464,7 +465,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/16/2017",
+		"updated": "10/16/2017"
 	},
 	{
 		"name": "TOLDE",
@@ -473,7 +474,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CVS*TACAN*136.20/12.00",
+		"updated": "CVS*TACAN*136.20/12.00"
 	},
 	{
 		"name": "TOMBS",
@@ -482,7 +483,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DAO*NDB*018.37",
+		"updated": "DAO*NDB*018.37"
 	},
 	{
 		"name": "TONUC",
@@ -491,7 +492,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/01/2012",
+		"updated": "06/01/2012"
 	},
 	{
 		"name": "TOPAN",
@@ -500,7 +501,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CME*VORTAC*067.48/9.16",
+		"updated": "CME*VORTAC*067.48/9.16"
 	},
 	{
 		"name": "TOPEE",
@@ -509,7 +510,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/15/2003",
+		"updated": "04/15/2003"
 	},
 	{
 		"name": "TORAE",
@@ -518,7 +519,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/19/2010",
+		"updated": "11/19/2010"
 	},
 	{
 		"name": "TORQE",
@@ -527,7 +528,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/23/2015",
+		"updated": "08/23/2015"
 	},
 	{
 		"name": "TORRI",
@@ -536,7 +537,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "BWS*VOR/DME*340.00/10.00",
+		"updated": "BWS*VOR/DME*340.00/10.00"
 	},
 	{
 		"name": "TORTS",
@@ -545,7 +546,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*VORTAC*288.49/16.05",
+		"updated": "TUS*VORTAC*288.49/16.05"
 	},
 	{
 		"name": "TOSOY",
@@ -554,7 +555,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/10/2015",
+		"updated": "05/10/2015"
 	},
 	{
 		"name": "TOSYU",
@@ -563,7 +564,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/30/2005",
+		"updated": "12/30/2005"
 	},
 	{
 		"name": "TOTEC",
@@ -572,7 +573,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*143.44/39.90",
+		"updated": "PXR*VORTAC*143.44/39.90"
 	},
 	{
 		"name": "TOTIE",
@@ -581,7 +582,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "AHA*LD*258.03/7.22",
+		"updated": "AHA*LD*258.03/7.22"
 	},
 	{
 		"name": "TOXIE",
@@ -590,7 +591,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/04/2012",
+		"updated": "01/04/2012"
 	},
 	{
 		"name": "TOYOP",
@@ -599,7 +600,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/02/2006",
+		"updated": "06/02/2006"
 	},
 	{
 		"name": "TRACC",
@@ -608,7 +609,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PIO*VOR/DME*341.95",
+		"updated": "PIO*VOR/DME*341.95"
 	},
 	{
 		"name": "TRAGZ",
@@ -617,7 +618,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/04/2001",
+		"updated": "09/04/2001"
 	},
 	{
 		"name": "TRALS",
@@ -626,7 +627,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*360.00/53.00",
+		"updated": "HMN*TACAN*360.00/53.00"
 	},
 	{
 		"name": "TRAMY",
@@ -635,7 +636,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/30/2012",
+		"updated": "10/30/2012"
 	},
 	{
 		"name": "TRICO",
@@ -644,7 +645,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "DMA*TACAN*110.00/16.00",
+		"updated": "DMA*TACAN*110.00/16.00"
 	},
 	{
 		"name": "TUCOB",
@@ -653,7 +654,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/21/2004",
+		"updated": "07/21/2004"
 	},
 	{
 		"name": "TUCUY",
@@ -662,7 +663,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/17/2007",
+		"updated": "01/17/2007"
 	},
 	{
 		"name": "TUKEE",
@@ -671,7 +672,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*143.44/8.80",
+		"updated": "PXR*VORTAC*143.44/8.80"
 	},
 	{
 		"name": "TUKKO",
@@ -680,7 +681,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/31/2008",
+		"updated": "03/31/2008"
 	},
 	{
 		"name": "TUKLE",
@@ -689,7 +690,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/19/2010",
+		"updated": "11/19/2010"
 	},
 	{
 		"name": "TULEE",
@@ -698,7 +699,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*010.00/17.00",
+		"updated": "HMN*TACAN*010.00/17.00"
 	},
 	{
 		"name": "TUPBO",
@@ -707,7 +708,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/19/2011",
+		"updated": "07/19/2011"
 	},
 	{
 		"name": "TURQE",
@@ -716,7 +717,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "EWM*VORTAC*010.78/35.63",
+		"updated": "EWM*VORTAC*010.78/35.63"
 	},
 	{
 		"name": "TXSAS",
@@ -725,7 +726,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/14/2014",
+		"updated": "02/14/2014"
 	},
 	{
 		"name": "TYILR",
@@ -734,7 +735,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "TYLAN",
@@ -743,7 +744,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "EWM*VORTAC*132.05",
+		"updated": "EWM*VORTAC*132.05"
 	},
 	{
 		"name": "TYLIK",
@@ -752,7 +753,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/19/2012",
+		"updated": "04/19/2012"
 	},
 	{
 		"name": "TYWEB",
@@ -761,7 +762,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/06/2014",
+		"updated": "03/06/2014"
 	},
 	{
 		"name": "TYYNE",
@@ -770,5 +771,6 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/03/2012",
-	},
+		"updated": "04/03/2012"
+	}
+]

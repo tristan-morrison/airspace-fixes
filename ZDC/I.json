@@ -1,3 +1,4 @@
+[
 	{
 		"name": "IBEKE",
 		"latitude": "34-24-7.43 N",
@@ -5,7 +6,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/15/2010",
+		"updated": "08/15/2010"
 	},
 	{
 		"name": "IBODY",
@@ -14,7 +15,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "12/23/2013",
+		"updated": "12/23/2013"
 	},
 	{
 		"name": "IBUWE",
@@ -23,7 +24,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/06/2007",
+		"updated": "09/06/2007"
 	},
 	{
 		"name": "IBXAL",
@@ -32,7 +33,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "ICABO",
@@ -41,7 +42,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/21/2009",
+		"updated": "07/21/2009"
 	},
 	{
 		"name": "ICACO",
@@ -50,7 +51,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/31/2008",
+		"updated": "03/31/2008"
 	},
 	{
 		"name": "ICAVE",
@@ -59,7 +60,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "ICCOR",
@@ -68,7 +69,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "ICDUV",
@@ -77,7 +78,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "ICENO",
@@ -86,7 +87,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "ICIYU",
@@ -95,7 +96,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/18/2012",
+		"updated": "04/18/2012"
 	},
 	{
 		"name": "ICNAK",
@@ -104,7 +105,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "ICORE",
@@ -113,7 +114,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/26/2017",
+		"updated": "09/26/2017"
 	},
 	{
 		"name": "ICUKY",
@@ -122,7 +123,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "IDGER",
@@ -131,7 +132,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "PXT*VORTAC*183.00/14.00",
+		"updated": "PXT*VORTAC*183.00/14.00"
 	},
 	{
 		"name": "IDOGE",
@@ -140,7 +141,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NGU*TACAN*110.00/3.00",
+		"updated": "NGU*TACAN*110.00/3.00"
 	},
 	{
 		"name": "IDONE",
@@ -149,7 +150,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/11/2014",
+		"updated": "06/11/2014"
 	},
 	{
 		"name": "IDORE",
@@ -158,7 +159,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/25/2014",
+		"updated": "07/25/2014"
 	},
 	{
 		"name": "IDUNE",
@@ -167,7 +168,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/18/2014",
+		"updated": "04/18/2014"
 	},
 	{
 		"name": "IDWAP",
@@ -176,7 +177,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ECG*VOR/DME*270.11/19.29",
+		"updated": "ECG*VOR/DME*270.11/19.29"
 	},
 	{
 		"name": "IDZAT",
@@ -185,7 +186,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/18/2011",
+		"updated": "07/18/2011"
 	},
 	{
 		"name": "IFAVU",
@@ -194,7 +195,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "MOL*VOR/DME*293.61/17.25",
+		"updated": "MOL*VOR/DME*293.61/17.25"
 	},
 	{
 		"name": "IFDOS",
@@ -203,7 +204,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/15/2010",
+		"updated": "08/15/2010"
 	},
 	{
 		"name": "IFESO",
@@ -212,7 +213,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "11/16/1998",
+		"updated": "11/16/1998"
 	},
 	{
 		"name": "IFKIN",
@@ -221,7 +222,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/27/2009",
+		"updated": "03/27/2009"
 	},
 	{
 		"name": "IFPIG",
@@ -230,7 +231,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/18/2011",
+		"updated": "01/18/2011"
 	},
 	{
 		"name": "IGAGE",
@@ -239,7 +240,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "10/30/2013",
+		"updated": "10/30/2013"
 	},
 	{
 		"name": "IGANE",
@@ -248,7 +249,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/18/2011",
+		"updated": "01/18/2011"
 	},
 	{
 		"name": "IGAYA",
@@ -257,7 +258,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/10/2009",
+		"updated": "08/10/2009"
 	},
 	{
 		"name": "IGEDE",
@@ -266,7 +267,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/17/2010",
+		"updated": "11/17/2010"
 	},
 	{
 		"name": "IGFIL",
@@ -275,7 +276,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BCB*LE*NW CRS/6.47",
+		"updated": "BCB*LE*NW CRS/6.47"
 	},
 	{
 		"name": "IGGGY",
@@ -284,7 +285,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/01/2012",
+		"updated": "06/01/2012"
 	},
 	{
 		"name": "IJADE",
@@ -293,7 +294,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "HRJ*LE*227.95/6.12",
+		"updated": "HRJ*LE*227.95/6.12"
 	},
 	{
 		"name": "IKTOW",
@@ -302,7 +303,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "LIB*VORTAC*142.39/32.19",
+		"updated": "LIB*VORTAC*142.39/32.19"
 	},
 	{
 		"name": "IKUGE",
@@ -311,7 +312,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "DOV*TACAN*028.36/0.80",
+		"updated": "DOV*TACAN*028.36/0.80"
 	},
 	{
 		"name": "ILLSA",
@@ -320,7 +321,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/16/2014",
+		"updated": "01/16/2014"
 	},
 	{
 		"name": "ILTOJ",
@@ -329,7 +330,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/19/2015",
+		"updated": "03/19/2015"
 	},
 	{
 		"name": "ILUXY",
@@ -338,7 +339,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/08/2013",
+		"updated": "07/08/2013"
 	},
 	{
 		"name": "IMASE",
@@ -347,7 +348,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/15/2003",
+		"updated": "10/15/2003"
 	},
 	{
 		"name": "IMELL",
@@ -356,7 +357,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "03/26/2002",
+		"updated": "03/26/2002"
 	},
 	{
 		"name": "IMHEM",
@@ -365,7 +366,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/19/2009",
+		"updated": "07/19/2009"
 	},
 	{
 		"name": "IMIYU",
@@ -374,7 +375,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "IMORE",
@@ -383,7 +384,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NTU*TACAN*064.00/5.00",
+		"updated": "NTU*TACAN*064.00/5.00"
 	},
 	{
 		"name": "IMULE",
@@ -392,7 +393,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MW",
-		"updated": "09/06/2017",
+		"updated": "09/06/2017"
 	},
 	{
 		"name": "INIMY",
@@ -401,7 +402,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/03/2012",
+		"updated": "05/03/2012"
 	},
 	{
 		"name": "INJUN",
@@ -410,7 +411,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "FAY*VOR/DME*282.00/12.00",
+		"updated": "FAY*VOR/DME*282.00/12.00"
 	},
 	{
 		"name": "INLYT",
@@ -419,7 +420,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NGU*TACAN*110.00/10.00",
+		"updated": "NGU*TACAN*110.00/10.00"
 	},
 	{
 		"name": "INNER",
@@ -428,7 +429,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NTU*TACAN*223.00/3.00",
+		"updated": "NTU*TACAN*223.00/3.00"
 	},
 	{
 		"name": "INNEZ",
@@ -437,7 +438,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CYN*VORTAC*273.99/16.17",
+		"updated": "CYN*VORTAC*273.99/16.17"
 	},
 	{
 		"name": "INSAC",
@@ -446,7 +447,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "SBV*VORTAC*031.94/34.83",
+		"updated": "SBV*VORTAC*031.94/34.83"
 	},
 	{
 		"name": "IPAYA",
@@ -455,7 +456,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/01/2005",
+		"updated": "03/01/2005"
 	},
 	{
 		"name": "IPBEH",
@@ -464,7 +465,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/29/2001",
+		"updated": "05/29/2001"
 	},
 	{
 		"name": "IPKOH",
@@ -473,7 +474,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "IPSIQ",
@@ -482,7 +483,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/10/2014",
+		"updated": "11/10/2014"
 	},
 	{
 		"name": "IQJAZ",
@@ -491,7 +492,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "EMV*LE*155.40",
+		"updated": "EMV*LE*155.40"
 	},
 	{
 		"name": "IRAKE",
@@ -500,7 +501,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ISO*VORTAC*033.96/22.00",
+		"updated": "ISO*VORTAC*033.96/22.00"
 	},
 	{
 		"name": "IRAXE",
@@ -509,7 +510,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/07/2015",
+		"updated": "01/07/2015"
 	},
 	{
 		"name": "IROKT",
@@ -518,7 +519,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/06/2012",
+		"updated": "04/06/2012"
 	},
 	{
 		"name": "IRONS",
@@ -527,7 +528,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "OTT*VORTAC*248.46",
+		"updated": "OTT*VORTAC*248.46"
 	},
 	{
 		"name": "IROXE",
@@ -536,7 +537,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "LDN*VORTAC*056.00/19.00",
+		"updated": "LDN*VORTAC*056.00/19.00"
 	},
 	{
 		"name": "IRULE",
@@ -545,7 +546,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/08/2013",
+		"updated": "07/08/2013"
 	},
 	{
 		"name": "IRUPE",
@@ -554,7 +555,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/05/2018",
+		"updated": "04/05/2018"
 	},
 	{
 		"name": "IRWOX",
@@ -563,7 +564,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "FAY*VOR/DME*002.27/14.73",
+		"updated": "FAY*VOR/DME*002.27/14.73"
 	},
 	{
 		"name": "ISILE",
@@ -572,7 +573,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "ADW*VORTAC*014.50/1.30",
+		"updated": "ADW*VORTAC*014.50/1.30"
 	},
 	{
 		"name": "ISSIG",
@@ -581,7 +582,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/27/2007",
+		"updated": "06/27/2007"
 	},
 	{
 		"name": "ISUBE",
@@ -590,7 +591,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "EPR*LD*283.39/12.08",
+		"updated": "EPR*LD*283.39/12.08"
 	},
 	{
 		"name": "ISUJU",
@@ -599,7 +600,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/26/2012",
+		"updated": "03/26/2012"
 	},
 	{
 		"name": "ITARE",
@@ -608,7 +609,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/19/2008",
+		"updated": "02/19/2008"
 	},
 	{
 		"name": "ITGUY",
@@ -617,7 +618,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NJM*TACAN*042.00/2.00",
+		"updated": "NJM*TACAN*042.00/2.00"
 	},
 	{
 		"name": "ITIBE",
@@ -626,7 +627,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "08/28/2015",
+		"updated": "08/28/2015"
 	},
 	{
 		"name": "ITOLE",
@@ -635,7 +636,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "ITOTE",
@@ -644,7 +645,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "ITQUH",
@@ -653,7 +654,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/24/2010",
+		"updated": "06/24/2010"
 	},
 	{
 		"name": "ITTEM",
@@ -662,7 +663,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/23/2013",
+		"updated": "12/23/2013"
 	},
 	{
 		"name": "ITUPE",
@@ -671,7 +672,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/03/2001",
+		"updated": "04/03/2001"
 	},
 	{
 		"name": "IVADE",
@@ -680,7 +681,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/28/2017",
+		"updated": "11/28/2017"
 	},
 	{
 		"name": "IVOTY",
@@ -689,7 +690,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "IVVVY",
@@ -698,7 +699,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BRV*VORTAC*008.74/25.00",
+		"updated": "BRV*VORTAC*008.74/25.00"
 	},
 	{
 		"name": "IWOSE",
@@ -707,7 +708,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/21/2011",
+		"updated": "10/21/2011"
 	},
 	{
 		"name": "IXUME",
@@ -716,7 +717,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZDC",
 		"type": "WP",
-		"updated": "03/26/2002",
+		"updated": "03/26/2002"
 	},
 	{
 		"name": "IYBAY",
@@ -725,7 +726,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "09/28/2010",
+		"updated": "09/28/2010"
 	},
 	{
 		"name": "IYEPU",
@@ -734,7 +735,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "IYHUD",
@@ -743,7 +744,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/10/2011",
+		"updated": "02/10/2011"
 	},
 	{
 		"name": "IYPET",
@@ -752,7 +753,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/12/2013",
+		"updated": "09/12/2013"
 	},
 	{
 		"name": "IZUMI",
@@ -761,5 +762,6 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "MRB*VORTAC*127.00",
-	},
+		"updated": "MRB*VORTAC*127.00"
+	}
+]

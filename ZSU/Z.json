@@ -1,3 +1,4 @@
+[
 	{
 		"name": "ZABOR",
 		"latitude": "21-23-27.4 N",
@@ -5,7 +6,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "04/10/2008",
+		"updated": "04/10/2008"
 	},
 	{
 		"name": "ZADAV",
@@ -14,7 +15,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "MAZ*VOR/DME*276.15/20.00",
+		"updated": "MAZ*VOR/DME*276.15/20.00"
 	},
 	{
 		"name": "ZASPU",
@@ -23,7 +24,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "CLA*LD*281.14/3.19",
+		"updated": "CLA*LD*281.14/3.19"
 	},
 	{
 		"name": "ZATOG",
@@ -32,7 +33,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "11/24/2008",
+		"updated": "11/24/2008"
 	},
 	{
 		"name": "ZIDUG",
@@ -41,7 +42,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "11/24/2008",
+		"updated": "11/24/2008"
 	},
 	{
 		"name": "ZNDER",
@@ -50,7 +51,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "11/24/2008",
+		"updated": "11/24/2008"
 	},
 	{
 		"name": "ZUGOD",
@@ -59,7 +60,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "11/24/2008",
+		"updated": "11/24/2008"
 	},
 	{
 		"name": "ZULRO",
@@ -68,5 +69,6 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*262.00/1.55",
-	},
+		"updated": "SJU*VORTAC*262.00/1.55"
+	}
+]

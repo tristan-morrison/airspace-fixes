@@ -1,3 +1,4 @@
+[
 	{
 		"name": "WADAS",
 		"latitude": "27-20-35.38 N",
@@ -5,7 +6,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "01/04/2012",
+		"updated": "01/04/2012"
 	},
 	{
 		"name": "WADSI",
@@ -14,7 +15,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ORL*VORTAC*211.85",
+		"updated": "ORL*VORTAC*211.85"
 	},
 	{
 		"name": "WAGEV",
@@ -23,7 +24,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "05/03/2016",
+		"updated": "05/03/2016"
 	},
 	{
 		"name": "WAKED",
@@ -32,7 +33,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/01/2006",
+		"updated": "06/01/2006"
 	},
 	{
 		"name": "WALIK",
@@ -41,7 +42,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZFP*VOR/DME*289.99/55.63",
+		"updated": "ZFP*VOR/DME*289.99/55.63"
 	},
 	{
 		"name": "WALIP",
@@ -50,7 +51,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/07/2006",
+		"updated": "08/07/2006"
 	},
 	{
 		"name": "WANUM",
@@ -59,7 +60,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/20/2012",
+		"updated": "06/20/2012"
 	},
 	{
 		"name": "WATPU",
@@ -68,7 +69,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/20/2012",
+		"updated": "06/20/2012"
 	},
 	{
 		"name": "WATUR",
@@ -77,7 +78,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "10/29/2007",
+		"updated": "10/29/2007"
 	},
 	{
 		"name": "WAVUN",
@@ -86,7 +87,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "05/30/2006",
+		"updated": "05/30/2006"
 	},
 	{
 		"name": "WEBUN",
@@ -95,7 +96,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MW",
-		"updated": "02/18/2016",
+		"updated": "02/18/2016"
 	},
 	{
 		"name": "WEDGG",
@@ -104,7 +105,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/19/2011",
+		"updated": "07/19/2011"
 	},
 	{
 		"name": "WELIT",
@@ -113,7 +114,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "WELKS",
@@ -122,7 +123,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZQA*VOR/DME*209.16/10.00",
+		"updated": "ZQA*VOR/DME*209.16/10.00"
 	},
 	{
 		"name": "WEMBA",
@@ -131,7 +132,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/10/2011",
+		"updated": "06/10/2011"
 	},
 	{
 		"name": "WEMEN",
@@ -140,7 +141,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "TRV*VORTAC*117.66/16.01",
+		"updated": "TRV*VORTAC*117.66/16.01"
 	},
 	{
 		"name": "WEMSO",
@@ -149,7 +150,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/06/2014",
+		"updated": "06/06/2014"
 	},
 	{
 		"name": "WEPOM",
@@ -158,7 +159,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/06/2014",
+		"updated": "06/06/2014"
 	},
 	{
 		"name": "WERGO",
@@ -167,7 +168,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MW",
-		"updated": "02/27/2017",
+		"updated": "02/27/2017"
 	},
 	{
 		"name": "WERPI",
@@ -176,7 +177,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "12/09/2010",
+		"updated": "12/09/2010"
 	},
 	{
 		"name": "WESAG",
@@ -185,7 +186,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "09/15/2005",
+		"updated": "09/15/2005"
 	},
 	{
 		"name": "WESMA",
@@ -194,7 +195,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MW",
-		"updated": "03/05/2008",
+		"updated": "03/05/2008"
 	},
 	{
 		"name": "WETTN",
@@ -203,7 +204,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/11/2017",
+		"updated": "04/11/2017"
 	},
 	{
 		"name": "WEVER",
@@ -212,7 +213,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "DHP*VORTAC*248.30/34.00",
+		"updated": "DHP*VORTAC*248.30/34.00"
 	},
 	{
 		"name": "WEVUL",
@@ -221,7 +222,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "05/14/2007",
+		"updated": "05/14/2007"
 	},
 	{
 		"name": "WEXIX",
@@ -230,7 +231,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/07/2014",
+		"updated": "07/07/2014"
 	},
 	{
 		"name": "WHELM",
@@ -239,7 +240,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PHK*VOR/DME*068.00",
+		"updated": "PHK*VOR/DME*068.00"
 	},
 	{
 		"name": "WHIIF",
@@ -248,7 +249,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/19/2011",
+		"updated": "07/19/2011"
 	},
 	{
 		"name": "WHING",
@@ -257,7 +258,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PIE*VORTAC*117.00",
+		"updated": "PIE*VORTAC*117.00"
 	},
 	{
 		"name": "WHITD",
@@ -266,7 +267,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "WHITL",
@@ -275,7 +276,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "05/01/2007",
+		"updated": "05/01/2007"
 	},
 	{
 		"name": "WIBGA",
@@ -284,7 +285,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/17/2014",
+		"updated": "07/17/2014"
 	},
 	{
 		"name": "WIERS",
@@ -293,7 +294,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZBV*VORTAC*299.71/9.07",
+		"updated": "ZBV*VORTAC*299.71/9.07"
 	},
 	{
 		"name": "WIGUS",
@@ -302,7 +303,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "12/09/2010",
+		"updated": "12/09/2010"
 	},
 	{
 		"name": "WIKIN",
@@ -311,7 +312,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "WIKIR",
@@ -320,7 +321,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ADI*LD*096.38/12.38",
+		"updated": "ADI*LD*096.38/12.38"
 	},
 	{
 		"name": "WILBA",
@@ -329,7 +330,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PBI*LD*278.77/14.69",
+		"updated": "PBI*LD*278.77/14.69"
 	},
 	{
 		"name": "WILYY",
@@ -338,7 +339,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/09/2008",
+		"updated": "04/09/2008"
 	},
 	{
 		"name": "WIMEX",
@@ -347,7 +348,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "CYY*VOR/DME*018.33/17.97",
+		"updated": "CYY*VOR/DME*018.33/17.97"
 	},
 	{
 		"name": "WINCO",
@@ -356,7 +357,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PHK*VOR/DME*214.66",
+		"updated": "PHK*VOR/DME*214.66"
 	},
 	{
 		"name": "WINWA",
@@ -365,7 +366,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "11/10/2011",
+		"updated": "11/10/2011"
 	},
 	{
 		"name": "WINWX",
@@ -374,7 +375,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "01/28/2016",
+		"updated": "01/28/2016"
 	},
 	{
 		"name": "WIRGA",
@@ -383,7 +384,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/13/2011",
+		"updated": "06/13/2011"
 	},
 	{
 		"name": "WIRPO",
@@ -392,7 +393,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "HST*TACAN*236.00/1.60",
+		"updated": "HST*TACAN*236.00/1.60"
 	},
 	{
 		"name": "WITAR",
@@ -401,7 +402,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "01/23/2007",
+		"updated": "01/23/2007"
 	},
 	{
 		"name": "WITOB",
@@ -410,7 +411,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/09/2008",
+		"updated": "04/09/2008"
 	},
 	{
 		"name": "WIXUX",
@@ -419,7 +420,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/09/2017",
+		"updated": "07/09/2017"
 	},
 	{
 		"name": "WLACE",
@@ -428,7 +429,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/11/2008",
+		"updated": "07/11/2008"
 	},
 	{
 		"name": "WLKER",
@@ -437,7 +438,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZFP*VOR/DME*023.91/44.62",
+		"updated": "ZFP*VOR/DME*023.91/44.62"
 	},
 	{
 		"name": "WOBKI",
@@ -446,7 +447,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "02/15/2010",
+		"updated": "02/15/2010"
 	},
 	{
 		"name": "WOBKU",
@@ -455,7 +456,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/07/2014",
+		"updated": "07/07/2014"
 	},
 	{
 		"name": "WODIX",
@@ -464,7 +465,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "12/29/2008",
+		"updated": "12/29/2008"
 	},
 	{
 		"name": "WOLDI",
@@ -473,7 +474,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "CER*LD*185.48/2.90",
+		"updated": "CER*LD*185.48/2.90"
 	},
 	{
 		"name": "WOLFO",
@@ -482,7 +483,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/11/2006",
+		"updated": "04/11/2006"
 	},
 	{
 		"name": "WOLOB",
@@ -491,7 +492,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "03/21/2013",
+		"updated": "03/21/2013"
 	},
 	{
 		"name": "WOMRI",
@@ -500,7 +501,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/09/2014",
+		"updated": "04/09/2014"
 	},
 	{
 		"name": "WONAR",
@@ -509,7 +510,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "03/18/2013",
+		"updated": "03/18/2013"
 	},
 	{
 		"name": "WOODZ",
@@ -518,7 +519,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/09/2008",
+		"updated": "04/09/2008"
 	},
 	{
 		"name": "WOOZE",
@@ -527,7 +528,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "VKZ*VOR/DME*107.75/80.25",
+		"updated": "VKZ*VOR/DME*107.75/80.25"
 	},
 	{
 		"name": "WOPDU",
@@ -536,7 +537,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "02/24/2009",
+		"updated": "02/24/2009"
 	},
 	{
 		"name": "WOPOP",
@@ -545,7 +546,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZFP*VOR/DME*023.91/10.00",
+		"updated": "ZFP*VOR/DME*023.91/10.00"
 	},
 	{
 		"name": "WORPP",
@@ -554,7 +555,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "LBV*VORTAC*157.00/60.27",
+		"updated": "LBV*VORTAC*157.00/60.27"
 	},
 	{
 		"name": "WOSAV",
@@ -563,7 +564,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/13/2011",
+		"updated": "06/13/2011"
 	},
 	{
 		"name": "WRECK",
@@ -572,7 +573,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "GTK*VORTAC*288.76/132.91",
+		"updated": "GTK*VORTAC*288.76/132.91"
 	},
 	{
 		"name": "WRTRS",
@@ -581,7 +582,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/15/2008",
+		"updated": "07/15/2008"
 	},
 	{
 		"name": "WSSKY",
@@ -590,7 +591,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/09/2008",
+		"updated": "04/09/2008"
 	},
 	{
 		"name": "WSTEN",
@@ -599,7 +600,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZFP*VOR/DME*300.89/17.05",
+		"updated": "ZFP*VOR/DME*300.89/17.05"
 	},
 	{
 		"name": "WUBKU",
@@ -608,7 +609,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/11/2016",
+		"updated": "08/11/2016"
 	},
 	{
 		"name": "WUBUR",
@@ -617,7 +618,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "TRV*VORTAC*167.05/7.00",
+		"updated": "TRV*VORTAC*167.05/7.00"
 	},
 	{
 		"name": "WUDDY",
@@ -626,7 +627,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "11/21/2010",
+		"updated": "11/21/2010"
 	},
 	{
 		"name": "WUDIP",
@@ -635,7 +636,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "DHP*VORTAC*302.87/25.00",
+		"updated": "DHP*VORTAC*302.87/25.00"
 	},
 	{
 		"name": "WUKVU",
@@ -644,7 +645,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "09/12/2013",
+		"updated": "09/12/2013"
 	},
 	{
 		"name": "WULFF",
@@ -653,7 +654,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/11/2008",
+		"updated": "07/11/2008"
 	},
 	{
 		"name": "WUNUT",
@@ -662,7 +663,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "05/16/2014",
+		"updated": "05/16/2014"
 	},
 	{
 		"name": "WUPEL",
@@ -671,7 +672,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/09/2017",
+		"updated": "07/09/2017"
 	},
 	{
 		"name": "WUPOS",
@@ -680,7 +681,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/12/2013",
+		"updated": "08/12/2013"
 	},
 	{
 		"name": "WURIK",
@@ -689,7 +690,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/12/2013",
+		"updated": "08/12/2013"
 	},
 	{
 		"name": "WURNO",
@@ -698,7 +699,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "12/05/2007",
+		"updated": "12/05/2007"
 	},
 	{
 		"name": "WUSIX",
@@ -707,7 +708,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "12/05/2008",
+		"updated": "12/05/2008"
 	},
 	{
 		"name": "WUUDD",
@@ -716,7 +717,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/19/2011",
+		"updated": "07/19/2011"
 	},
 	{
 		"name": "WUXUT",
@@ -725,7 +726,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PIE*VORTAC*164.22/6.30",
+		"updated": "PIE*VORTAC*164.22/6.30"
 	},
 	{
 		"name": "WYCOF",
@@ -734,7 +735,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/15/2008",
+		"updated": "07/15/2008"
 	},
 	{
 		"name": "WYNER",
@@ -743,5 +744,6 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "01/22/2009",
-	},
+		"updated": "01/22/2009"
+	}
+]

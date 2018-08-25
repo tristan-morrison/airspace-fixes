@@ -1,3 +1,4 @@
+[
 	{
 		"name": "RABET",
 		"latitude": "40-15-40.34 N",
@@ -5,7 +6,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*096.00/44.00",
+		"updated": "CHE*VOR/DME*096.00/44.00"
 	},
 	{
 		"name": "RACCO",
@@ -14,7 +15,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "RACER",
@@ -23,7 +24,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "JNC*VOR/DME*341.22",
+		"updated": "JNC*VOR/DME*341.22"
 	},
 	{
 		"name": "RADIO",
@@ -32,7 +33,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*168.00/36.33",
+		"updated": "PUB*VORTAC*168.00/36.33"
 	},
 	{
 		"name": "RAFTR",
@@ -41,7 +42,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ASE*LE*330.63/6.00",
+		"updated": "ASE*LE*330.63/6.00"
 	},
 	{
 		"name": "RALFF",
@@ -50,7 +51,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/28/2008",
+		"updated": "07/28/2008"
 	},
 	{
 		"name": "RALFI",
@@ -59,7 +60,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "RALPE",
@@ -68,7 +69,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/08/2006",
+		"updated": "06/08/2006"
 	},
 	{
 		"name": "RAMMS",
@@ -77,7 +78,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAR*VOR/DME*142.42/55.17",
+		"updated": "LAR*VOR/DME*142.42/55.17"
 	},
 	{
 		"name": "RANKE",
@@ -86,7 +87,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/29/2007",
+		"updated": "10/29/2007"
 	},
 	{
 		"name": "RANPE",
@@ -95,7 +96,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/03/2015",
+		"updated": "11/03/2015"
 	},
 	{
 		"name": "RAPDS",
@@ -104,7 +105,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "RASCO",
@@ -113,7 +114,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/03/2007",
+		"updated": "12/03/2007"
 	},
 	{
 		"name": "RASPS",
@@ -122,7 +123,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/19/2018",
+		"updated": "03/19/2018"
 	},
 	{
 		"name": "RAWAH",
@@ -131,7 +132,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "RAYDR",
@@ -140,7 +141,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "RAYME",
@@ -149,7 +150,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SNY*VOR/DME*215.92/48.55",
+		"updated": "SNY*VOR/DME*215.92/48.55"
 	},
 	{
 		"name": "RAYMN",
@@ -158,7 +159,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "JNC*VOR/DME*018.40/18.67",
+		"updated": "JNC*VOR/DME*018.40/18.67"
 	},
 	{
 		"name": "RAZED",
@@ -167,7 +168,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/27/2016",
+		"updated": "09/27/2016"
 	},
 	{
 		"name": "REAGN",
@@ -176,7 +177,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/11/2013",
+		"updated": "02/11/2013"
 	},
 	{
 		"name": "RECRD",
@@ -185,7 +186,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "REDHI",
@@ -194,7 +195,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/08/2006",
+		"updated": "06/08/2006"
 	},
 	{
 		"name": "REEFF",
@@ -203,7 +204,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "REMAE",
@@ -212,7 +213,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/17/2006",
+		"updated": "02/17/2006"
 	},
 	{
 		"name": "RENAE",
@@ -221,7 +222,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "JNC*VOR/DME*341.00",
+		"updated": "JNC*VOR/DME*341.00"
 	},
 	{
 		"name": "RENRE",
@@ -230,7 +231,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CYS*VORTAC*267.37/10.00",
+		"updated": "CYS*VORTAC*267.37/10.00"
 	},
 	{
 		"name": "RESER",
@@ -239,7 +240,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RSK*VORTAC*057.14/30.93",
+		"updated": "RSK*VORTAC*057.14/30.93"
 	},
 	{
 		"name": "REVME",
@@ -248,7 +249,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HDN*LD*283.72/15.03",
+		"updated": "HDN*LD*283.72/15.03"
 	},
 	{
 		"name": "REVNE",
@@ -257,7 +258,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/20/2010",
+		"updated": "09/20/2010"
 	},
 	{
 		"name": "RGINA",
@@ -266,7 +267,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RSK*VORTAC*099.55/42.39",
+		"updated": "RSK*VORTAC*099.55/42.39"
 	},
 	{
 		"name": "RHILY",
@@ -275,7 +276,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RAP*VORTAC*326.00/16.90",
+		"updated": "RAP*VORTAC*326.00/16.90"
 	},
 	{
 		"name": "RHONE",
@@ -284,7 +285,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "JNC*VOR/DME*033.20",
+		"updated": "JNC*VOR/DME*033.20"
 	},
 	{
 		"name": "RHYSS",
@@ -293,7 +294,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "TBC*VORTAC*060.31/20.00",
+		"updated": "TBC*VORTAC*060.31/20.00"
 	},
 	{
 		"name": "RIBOY",
@@ -302,7 +303,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/11/2013",
+		"updated": "02/11/2013"
 	},
 	{
 		"name": "RICAS",
@@ -311,7 +312,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "VAZ*DD*NE CRS/7.02",
+		"updated": "VAZ*DD*NE CRS/7.02"
 	},
 	{
 		"name": "RICCO",
@@ -320,7 +321,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/17/2011",
+		"updated": "03/17/2011"
 	},
 	{
 		"name": "RIDJE",
@@ -329,7 +330,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAR*VOR/DME*161.59/49.29",
+		"updated": "LAR*VOR/DME*161.59/49.29"
 	},
 	{
 		"name": "RIFMN",
@@ -338,7 +339,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "JNC*VOR/DME*282.54/50.87",
+		"updated": "JNC*VOR/DME*282.54/50.87"
 	},
 	{
 		"name": "RIFPU",
@@ -347,7 +348,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/08/2010",
+		"updated": "11/08/2010"
 	},
 	{
 		"name": "RIKKK",
@@ -356,7 +357,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "RIKOC",
@@ -365,7 +366,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ASE*LE*330.63/2.34",
+		"updated": "ASE*LE*330.63/2.34"
 	},
 	{
 		"name": "RINDE",
@@ -374,7 +375,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/22/2003",
+		"updated": "04/22/2003"
 	},
 	{
 		"name": "RINKR",
@@ -383,7 +384,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "RISHO",
@@ -392,7 +393,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "TKO*VORTAC*240.84/35.00",
+		"updated": "TKO*VORTAC*240.84/35.00"
 	},
 	{
 		"name": "RIVGE",
@@ -401,7 +402,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/19/2002",
+		"updated": "11/19/2002"
 	},
 	{
 		"name": "RIYNO",
@@ -410,7 +411,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "JNC*VOR/DME*059.97/51.53",
+		"updated": "JNC*VOR/DME*059.97/51.53"
 	},
 	{
 		"name": "RIYOP",
@@ -419,7 +420,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SNY*VOR/DME*077.89/11.00",
+		"updated": "SNY*VOR/DME*077.89/11.00"
 	},
 	{
 		"name": "RIZAL",
@@ -428,7 +429,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RSK*VORTAC*332.83/16.75",
+		"updated": "RSK*VORTAC*332.83/16.75"
 	},
 	{
 		"name": "RKYMT",
@@ -437,7 +438,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "RNGLE",
@@ -446,7 +447,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/08/2009",
+		"updated": "06/08/2009"
 	},
 	{
 		"name": "RNOLD",
@@ -455,7 +456,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DXU*LD*172.51/14.59",
+		"updated": "DXU*LD*172.51/14.59"
 	},
 	{
 		"name": "ROBIT",
@@ -464,7 +465,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/03/2011",
+		"updated": "08/03/2011"
 	},
 	{
 		"name": "ROBVY",
@@ -473,7 +474,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/01/2013",
+		"updated": "11/01/2013"
 	},
 	{
 		"name": "ROCCK",
@@ -482,7 +483,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BRK*VOR/DME*262.29",
+		"updated": "BRK*VOR/DME*262.29"
 	},
 	{
 		"name": "ROCCS",
@@ -491,7 +492,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "ROCNO",
@@ -500,7 +501,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RAP*VORTAC*275.03/40.00",
+		"updated": "RAP*VORTAC*275.03/40.00"
 	},
 	{
 		"name": "RODDS",
@@ -509,7 +510,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*219.00/14.02",
+		"updated": "ALS*VORTAC*219.00/14.02"
 	},
 	{
 		"name": "RODDY",
@@ -518,7 +519,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*267.20/45.00",
+		"updated": "PUB*VORTAC*267.20/45.00"
 	},
 	{
 		"name": "RODIE",
@@ -527,7 +528,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/06/2002",
+		"updated": "11/06/2002"
 	},
 	{
 		"name": "ROKXX",
@@ -536,7 +537,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/08/2014",
+		"updated": "10/08/2014"
 	},
 	{
 		"name": "ROLAE",
@@ -545,7 +546,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "BKF*TACAN*315.45/6.00",
+		"updated": "BKF*TACAN*315.45/6.00"
 	},
 	{
 		"name": "ROLFS",
@@ -554,7 +555,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "ROLQE",
@@ -563,7 +564,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/16/2003",
+		"updated": "01/16/2003"
 	},
 	{
 		"name": "ROMBE",
@@ -572,7 +573,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "BKF*TACAN*315.45/12.00",
+		"updated": "BKF*TACAN*315.45/12.00"
 	},
 	{
 		"name": "ROMLY",
@@ -581,7 +582,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HBU*VOR/DME*067.22/15.00",
+		"updated": "HBU*VOR/DME*067.22/15.00"
 	},
 	{
 		"name": "RONBE",
@@ -590,7 +591,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HBU*VOR/DME*050.00/57.00",
+		"updated": "HBU*VOR/DME*050.00/57.00"
 	},
 	{
 		"name": "RONNN",
@@ -599,7 +600,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "ROOLL",
@@ -608,7 +609,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/22/2016",
+		"updated": "01/22/2016"
 	},
 	{
 		"name": "ROOOL",
@@ -617,7 +618,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "ROTOR",
@@ -626,7 +627,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BFF*VORTAC*010.00/10.00",
+		"updated": "BFF*VORTAC*010.00/10.00"
 	},
 	{
 		"name": "ROUGH",
@@ -635,7 +636,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RSK*VORTAC*243.19/78.74",
+		"updated": "RSK*VORTAC*243.19/78.74"
 	},
 	{
 		"name": "ROVEE",
@@ -644,7 +645,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/14/2008",
+		"updated": "08/14/2008"
 	},
 	{
 		"name": "ROYYL",
@@ -653,7 +654,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "ROZEL",
@@ -662,7 +663,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "HCT*VORTAC*124.90/12.90",
+		"updated": "HCT*VORTAC*124.90/12.90"
 	},
 	{
 		"name": "RRIVR",
@@ -671,7 +672,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*019.65/19.73",
+		"updated": "DBL*VOR/DME*019.65/19.73"
 	},
 	{
 		"name": "RROSE",
@@ -680,7 +681,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/11/2017",
+		"updated": "12/11/2017"
 	},
 	{
 		"name": "RSDXF",
@@ -689,7 +690,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "11/29/2011",
+		"updated": "11/29/2011"
 	},
 	{
 		"name": "RUGTE",
@@ -698,7 +699,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/11/2013",
+		"updated": "06/11/2013"
 	},
 	{
 		"name": "RULER",
@@ -707,7 +708,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RAP*VORTAC*237.69/16.72",
+		"updated": "RAP*VORTAC*237.69/16.72"
 	},
 	{
 		"name": "RUPYO",
@@ -716,7 +717,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/08/2006",
+		"updated": "06/08/2006"
 	},
 	{
 		"name": "RUSOC",
@@ -725,7 +726,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RIL*VOR/DME*306.26/5.10",
+		"updated": "RIL*VOR/DME*306.26/5.10"
 	},
 	{
 		"name": "RUUSH",
@@ -734,7 +735,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "RCA*TACAN*043.00/15.00",
+		"updated": "RCA*TACAN*043.00/15.00"
 	},
 	{
 		"name": "RUVAE",
@@ -743,7 +744,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/03/2008",
+		"updated": "09/03/2008"
 	},
 	{
 		"name": "RYLIE",
@@ -752,5 +753,6 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GCK*VORTAC*285.00/57.90",
-	},
+		"updated": "GCK*VORTAC*285.00/57.90"
+	}
+]

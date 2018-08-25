@@ -1,3 +1,4 @@
+[
 	{
 		"name": "WABAL",
 		"latitude": "43-1-16.43 N",
@@ -5,7 +6,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "11/21/2000",
+		"updated": "11/21/2000"
 	},
 	{
 		"name": "WABEL",
@@ -14,7 +15,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/01/2013",
+		"updated": "08/01/2013"
 	},
 	{
 		"name": "WABKU",
@@ -23,7 +24,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/16/2009",
+		"updated": "01/16/2009"
 	},
 	{
 		"name": "WABNO",
@@ -32,7 +33,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/22/2009",
+		"updated": "09/22/2009"
 	},
 	{
 		"name": "WABOB",
@@ -41,7 +42,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "WACKS",
@@ -50,7 +51,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PLL*VOR/DME*293.71",
+		"updated": "PLL*VOR/DME*293.71"
 	},
 	{
 		"name": "WADLI",
@@ -59,7 +60,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/30/2001",
+		"updated": "10/30/2001"
 	},
 	{
 		"name": "WADLL",
@@ -68,7 +69,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/02/2013",
+		"updated": "05/02/2013"
 	},
 	{
 		"name": "WAGET",
@@ -77,7 +78,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/16/2010",
+		"updated": "11/16/2010"
 	},
 	{
 		"name": "WAGIT",
@@ -86,7 +87,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/27/2009",
+		"updated": "04/27/2009"
 	},
 	{
 		"name": "WAGMI",
@@ -95,7 +96,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/22/2009",
+		"updated": "05/22/2009"
 	},
 	{
 		"name": "WAGOR",
@@ -104,7 +105,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BMI*VOR/DME*286.19/5.00",
+		"updated": "BMI*VOR/DME*286.19/5.00"
 	},
 	{
 		"name": "WAGTU",
@@ -113,7 +114,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/08/2007",
+		"updated": "08/08/2007"
 	},
 	{
 		"name": "WAINE",
@@ -122,7 +123,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*VORTAC*318.90/5.90",
+		"updated": "FWA*VORTAC*318.90/5.90"
 	},
 	{
 		"name": "WAITS",
@@ -131,7 +132,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*270.43/15.53",
+		"updated": "BAE*VOR/DME*270.43/15.53"
 	},
 	{
 		"name": "WAKDI",
@@ -140,7 +141,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BDF*VORTAC*281.84/19.04",
+		"updated": "BDF*VORTAC*281.84/19.04"
 	},
 	{
 		"name": "WALKS",
@@ -149,7 +150,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VIO*VOR/DME*352.58/13.66",
+		"updated": "VIO*VOR/DME*352.58/13.66"
 	},
 	{
 		"name": "WALUM",
@@ -158,7 +159,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "WAMEL",
@@ -167,7 +168,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DLL*VORTAC*289.70/39.33",
+		"updated": "DLL*VORTAC*289.70/39.33"
 	},
 	{
 		"name": "WAMOG",
@@ -176,7 +177,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/27/2018",
+		"updated": "02/27/2018"
 	},
 	{
 		"name": "WANIP",
@@ -185,7 +186,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/20/2006",
+		"updated": "11/20/2006"
 	},
 	{
 		"name": "WANLU",
@@ -194,7 +195,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/03/2014",
+		"updated": "02/03/2014"
 	},
 	{
 		"name": "WANVU",
@@ -203,7 +204,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "WAPAB",
@@ -212,7 +213,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "WAPEL",
@@ -221,7 +222,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "IOW*VOR/DME*141.61/22.65",
+		"updated": "IOW*VOR/DME*141.61/22.65"
 	},
 	{
 		"name": "WAPIX",
@@ -230,7 +231,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/22/2008",
+		"updated": "12/22/2008"
 	},
 	{
 		"name": "WAPON",
@@ -239,7 +240,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/05/2016",
+		"updated": "05/05/2016"
 	},
 	{
 		"name": "WARBD",
@@ -248,7 +249,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OSH*VORTAC*139.00/7.00",
+		"updated": "OSH*VORTAC*139.00/7.00"
 	},
 	{
 		"name": "WARMU",
@@ -257,7 +258,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "09/29/2009",
+		"updated": "09/29/2009"
 	},
 	{
 		"name": "WAROS",
@@ -266,7 +267,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/15/2004",
+		"updated": "01/15/2004"
 	},
 	{
 		"name": "WARPI",
@@ -275,7 +276,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*081.16/7.49",
+		"updated": "OBK*VOR/DME*081.16/7.49"
 	},
 	{
 		"name": "WARTS",
@@ -284,7 +285,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*327.00/14.75",
+		"updated": "DPA*VOR/DME*327.00/14.75"
 	},
 	{
 		"name": "WARUT",
@@ -293,7 +294,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/13/2010",
+		"updated": "08/13/2010"
 	},
 	{
 		"name": "WASCO",
@@ -302,7 +303,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*348.22",
+		"updated": "DPA*VOR/DME*348.22"
 	},
 	{
 		"name": "WASIK",
@@ -311,7 +312,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/19/2002",
+		"updated": "11/19/2002"
 	},
 	{
 		"name": "WASOG",
@@ -320,7 +321,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/09/2014",
+		"updated": "09/09/2014"
 	},
 	{
 		"name": "WASOR",
@@ -329,7 +330,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/03/2004",
+		"updated": "02/03/2004"
 	},
 	{
 		"name": "WASTU",
@@ -338,7 +339,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CGT*VORTAC*069.38",
+		"updated": "CGT*VORTAC*069.38"
 	},
 	{
 		"name": "WATAG",
@@ -347,7 +348,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MZV*VOR/DME*142.41",
+		"updated": "MZV*VOR/DME*142.41"
 	},
 	{
 		"name": "WATSN",
@@ -356,7 +357,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OLK*VOR*278.32",
+		"updated": "OLK*VOR*278.32"
 	},
 	{
 		"name": "WAUCA",
@@ -365,7 +366,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*212.07",
+		"updated": "BAE*VOR/DME*212.07"
 	},
 	{
 		"name": "WAUKE",
@@ -374,7 +375,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*026.61/16.02",
+		"updated": "OBK*VOR/DME*026.61/16.02"
 	},
 	{
 		"name": "WAVBI",
@@ -383,7 +384,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "WAVEB",
@@ -392,7 +393,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/30/2013",
+		"updated": "07/30/2013"
 	},
 	{
 		"name": "WAVGO",
@@ -401,7 +402,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/08/2008",
+		"updated": "08/08/2008"
 	},
 	{
 		"name": "WAVIE",
@@ -410,7 +411,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "TSL*LD*092.90/13.25",
+		"updated": "TSL*LD*092.90/13.25"
 	},
 	{
 		"name": "WAVPA",
@@ -419,7 +420,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/18/2011",
+		"updated": "02/18/2011"
 	},
 	{
 		"name": "WAVUM",
@@ -428,7 +429,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "IOW*VOR/DME*359.43",
+		"updated": "IOW*VOR/DME*359.43"
 	},
 	{
 		"name": "WAWLU",
@@ -437,7 +438,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "WAXEV",
@@ -446,7 +447,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/17/2010",
+		"updated": "11/17/2010"
 	},
 	{
 		"name": "WEARS",
@@ -455,7 +456,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RBS*VOR/DME*089.40/24.77",
+		"updated": "RBS*VOR/DME*089.40/24.77"
 	},
 	{
 		"name": "WEAVE",
@@ -464,7 +465,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JVL*LS*223.52",
+		"updated": "JVL*LS*223.52"
 	},
 	{
 		"name": "WEBAG",
@@ -473,7 +474,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/27/2007",
+		"updated": "06/27/2007"
 	},
 	{
 		"name": "WEBOM",
@@ -482,7 +483,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/15/2009",
+		"updated": "05/15/2009"
 	},
 	{
 		"name": "WEBOR",
@@ -491,7 +492,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/30/2018",
+		"updated": "03/30/2018"
 	},
 	{
 		"name": "WEBUX",
@@ -500,7 +501,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/05/2010",
+		"updated": "06/05/2010"
 	},
 	{
 		"name": "WEDEX",
@@ -509,7 +510,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "WEDIN",
@@ -518,7 +519,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BUU*VOR/DME*102.23/2.60",
+		"updated": "BUU*VOR/DME*102.23/2.60"
 	},
 	{
 		"name": "WEEPS",
@@ -527,7 +528,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2015",
+		"updated": "11/18/2015"
 	},
 	{
 		"name": "WEGOM",
@@ -536,7 +537,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/27/2011",
+		"updated": "04/27/2011"
 	},
 	{
 		"name": "WEGPU",
@@ -545,7 +546,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/21/2016",
+		"updated": "01/21/2016"
 	},
 	{
 		"name": "WEGUN",
@@ -554,7 +555,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/05/2018",
+		"updated": "04/05/2018"
 	},
 	{
 		"name": "WEKAR",
@@ -563,7 +564,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/28/2008",
+		"updated": "10/28/2008"
 	},
 	{
 		"name": "WEKEM",
@@ -572,7 +573,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "WEKIT",
@@ -581,7 +582,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/25/2013",
+		"updated": "03/25/2013"
 	},
 	{
 		"name": "WELCM",
@@ -590,7 +591,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "WELDO",
@@ -599,7 +600,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OKK*VORTAC*186.82/25.37",
+		"updated": "OKK*VORTAC*186.82/25.37"
 	},
 	{
 		"name": "WELEV",
@@ -608,7 +609,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ABU*LD*093.01/18.71",
+		"updated": "ABU*LD*093.01/18.71"
 	},
 	{
 		"name": "WELMA",
@@ -617,7 +618,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CID*VOR/DME*190.99",
+		"updated": "CID*VOR/DME*190.99"
 	},
 	{
 		"name": "WELOT",
@@ -626,7 +627,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PIA*VORTAC*101.48/8.41",
+		"updated": "PIA*VORTAC*101.48/8.41"
 	},
 	{
 		"name": "WENAT",
@@ -635,7 +636,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/13/2011",
+		"updated": "06/13/2011"
 	},
 	{
 		"name": "WENBU",
@@ -644,7 +645,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*253.27",
+		"updated": "BAE*VOR/DME*253.27"
 	},
 	{
 		"name": "WENGO",
@@ -653,7 +654,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/18/2011",
+		"updated": "03/18/2011"
 	},
 	{
 		"name": "WENGS",
@@ -662,7 +663,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DNV*VORTAC*100.00",
+		"updated": "DNV*VORTAC*100.00"
 	},
 	{
 		"name": "WENIN",
@@ -671,7 +672,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/24/2009",
+		"updated": "03/24/2009"
 	},
 	{
 		"name": "WENOT",
@@ -680,7 +681,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/18/2011",
+		"updated": "02/18/2011"
 	},
 	{
 		"name": "WENUL",
@@ -689,7 +690,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/01/2014",
+		"updated": "04/01/2014"
 	},
 	{
 		"name": "WEPAX",
@@ -698,7 +699,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/03/2004",
+		"updated": "02/03/2004"
 	},
 	{
 		"name": "WEPTA",
@@ -707,7 +708,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CVA*VORTAC*083.01/58.96",
+		"updated": "CVA*VORTAC*083.01/58.96"
 	},
 	{
 		"name": "WERBI",
@@ -716,7 +717,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "WERBU",
@@ -725,7 +726,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MZZ*VOR/DME*013.78",
+		"updated": "MZZ*VOR/DME*013.78"
 	},
 	{
 		"name": "WESAK",
@@ -734,7 +735,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/17/2016",
+		"updated": "05/17/2016"
 	},
 	{
 		"name": "WESUG",
@@ -743,7 +744,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "GIJ*VORTAC*353.47",
+		"updated": "GIJ*VORTAC*353.47"
 	},
 	{
 		"name": "WETEV",
@@ -752,7 +753,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BDF*VORTAC*198.02/7.82",
+		"updated": "BDF*VORTAC*198.02/7.82"
 	},
 	{
 		"name": "WETOK",
@@ -761,7 +762,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/26/2013",
+		"updated": "06/26/2013"
 	},
 	{
 		"name": "WETVA",
@@ -770,7 +771,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "MR",
-		"updated": "GUS*VORTAC*232.00",
+		"updated": "GUS*VORTAC*232.00"
 	},
 	{
 		"name": "WEVDA",
@@ -779,7 +780,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2016",
+		"updated": "11/18/2016"
 	},
 	{
 		"name": "WEVGU",
@@ -788,7 +789,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2016",
+		"updated": "11/18/2016"
 	},
 	{
 		"name": "WEVSO",
@@ -797,7 +798,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/22/2009",
+		"updated": "03/22/2009"
 	},
 	{
 		"name": "WGNER",
@@ -806,7 +807,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*VORTAC*198.02/15.00",
+		"updated": "FWA*VORTAC*198.02/15.00"
 	},
 	{
 		"name": "WHAIL",
@@ -815,7 +816,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*181.24",
+		"updated": "DPA*VOR/DME*181.24"
 	},
 	{
 		"name": "WHALL",
@@ -824,7 +825,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MKG*VORTAC*328.00/19.37",
+		"updated": "MKG*VORTAC*328.00/19.37"
 	},
 	{
 		"name": "WHETT",
@@ -833,7 +834,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JOT*VOR/DME*104.00/82.00",
+		"updated": "JOT*VOR/DME*104.00/82.00"
 	},
 	{
 		"name": "WHIET",
@@ -842,7 +843,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OLK*VOR*278.65",
+		"updated": "OLK*VOR*278.65"
 	},
 	{
 		"name": "WIDKI",
@@ -851,7 +852,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*302.18/8.53",
+		"updated": "BAE*VOR/DME*302.18/8.53"
 	},
 	{
 		"name": "WIDNO",
@@ -860,7 +861,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/24/2009",
+		"updated": "03/24/2009"
 	},
 	{
 		"name": "WIDOS",
@@ -869,7 +870,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "WIGBA",
@@ -878,7 +879,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/22/2009",
+		"updated": "03/22/2009"
 	},
 	{
 		"name": "WIGIH",
@@ -887,7 +888,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "WIGOR",
@@ -896,7 +897,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/20/2009",
+		"updated": "01/20/2009"
 	},
 	{
 		"name": "WIGTO",
@@ -905,7 +906,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/12/2004",
+		"updated": "01/12/2004"
 	},
 	{
 		"name": "WIJDY",
@@ -914,7 +915,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/02/2012",
+		"updated": "04/02/2012"
 	},
 	{
 		"name": "WIKDO",
@@ -923,7 +924,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/04/2011",
+		"updated": "07/04/2011"
 	},
 	{
 		"name": "WIKES",
@@ -932,7 +933,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/07/2008",
+		"updated": "11/07/2008"
 	},
 	{
 		"name": "WIKOK",
@@ -941,7 +942,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/04/2008",
+		"updated": "12/04/2008"
 	},
 	{
 		"name": "WIKPI",
@@ -950,7 +951,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/27/2011",
+		"updated": "04/27/2011"
 	},
 	{
 		"name": "WILAG",
@@ -959,7 +960,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "WILAT",
@@ -968,7 +969,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/30/2001",
+		"updated": "10/30/2001"
 	},
 	{
 		"name": "WILLA",
@@ -977,7 +978,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/27/2018",
+		"updated": "03/27/2018"
 	},
 	{
 		"name": "WILLT",
@@ -986,7 +987,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*150.91",
+		"updated": "OBK*VOR/DME*150.91"
 	},
 	{
 		"name": "WILOK",
@@ -995,7 +996,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/10/2011",
+		"updated": "03/10/2011"
 	},
 	{
 		"name": "WILTI",
@@ -1004,7 +1005,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "WILZZ",
@@ -1013,7 +1014,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/02/2017",
+		"updated": "10/02/2017"
 	},
 	{
 		"name": "WIMZY",
@@ -1022,7 +1023,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "WINAM",
@@ -1031,7 +1032,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/05/2016",
+		"updated": "10/05/2016"
 	},
 	{
 		"name": "WINNE",
@@ -1040,7 +1041,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OSH*VORTAC*164.55/9.00",
+		"updated": "OSH*VORTAC*164.55/9.00"
 	},
 	{
 		"name": "WIPED",
@@ -1049,7 +1050,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*162.56/23.82",
+		"updated": "BAE*VOR/DME*162.56/23.82"
 	},
 	{
 		"name": "WIPEP",
@@ -1058,7 +1059,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ELX*VOR/DME*061.03/7.56",
+		"updated": "ELX*VOR/DME*061.03/7.56"
 	},
 	{
 		"name": "WIPIL",
@@ -1067,7 +1068,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/13/2011",
+		"updated": "04/13/2011"
 	},
 	{
 		"name": "WIRAG",
@@ -1076,7 +1077,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "WIRDA",
@@ -1085,7 +1086,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/24/2016",
+		"updated": "06/24/2016"
 	},
 	{
 		"name": "WIREP",
@@ -1094,7 +1095,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/06/2012",
+		"updated": "07/06/2012"
 	},
 	{
 		"name": "WIROD",
@@ -1103,7 +1104,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/13/2012",
+		"updated": "06/13/2012"
 	},
 	{
 		"name": "WIRON",
@@ -1112,7 +1113,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/30/2011",
+		"updated": "01/30/2011"
 	},
 	{
 		"name": "WIROT",
@@ -1121,7 +1122,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/22/2016",
+		"updated": "02/22/2016"
 	},
 	{
 		"name": "WIRTO",
@@ -1130,7 +1131,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/24/2011",
+		"updated": "10/24/2011"
 	},
 	{
 		"name": "WISGA",
@@ -1139,7 +1140,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/15/2011",
+		"updated": "09/15/2011"
 	},
 	{
 		"name": "WISIL",
@@ -1148,7 +1149,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RADAR",
-		"updated": "03/29/2017",
+		"updated": "03/29/2017"
 	},
 	{
 		"name": "WISMO",
@@ -1157,7 +1158,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PMM*VOR/DME*177.00/9.00",
+		"updated": "PMM*VOR/DME*177.00/9.00"
 	},
 	{
 		"name": "WISON",
@@ -1166,7 +1167,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/20/2009",
+		"updated": "01/20/2009"
 	},
 	{
 		"name": "WITAL",
@@ -1175,7 +1176,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/05/2010",
+		"updated": "04/05/2010"
 	},
 	{
 		"name": "WITAT",
@@ -1184,7 +1185,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BDF*VORTAC*064.52",
+		"updated": "BDF*VORTAC*064.52"
 	},
 	{
 		"name": "WITEL",
@@ -1193,7 +1194,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/24/2018",
+		"updated": "04/24/2018"
 	},
 	{
 		"name": "WITES",
@@ -1202,7 +1203,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/20/2001",
+		"updated": "09/20/2001"
 	},
 	{
 		"name": "WITGO",
@@ -1211,7 +1212,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JVL*VOR/DME*220.60/8.00",
+		"updated": "JVL*VOR/DME*220.60/8.00"
 	},
 	{
 		"name": "WITOK",
@@ -1220,7 +1221,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "WITOL",
@@ -1229,7 +1230,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "LNR*VOR/DME*286.09/26.52",
+		"updated": "LNR*VOR/DME*286.09/26.52"
 	},
 	{
 		"name": "WITSU",
@@ -1238,7 +1239,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*044.46",
+		"updated": "BAE*VOR/DME*044.46"
 	},
 	{
 		"name": "WIVEV",
@@ -1247,7 +1248,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "WIVIS",
@@ -1256,7 +1257,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/27/2007",
+		"updated": "06/27/2007"
 	},
 	{
 		"name": "WIVIX",
@@ -1265,7 +1266,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/03/2016",
+		"updated": "05/03/2016"
 	},
 	{
 		"name": "WIVLI",
@@ -1274,7 +1275,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "WIZEH",
@@ -1283,7 +1284,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/08/2007",
+		"updated": "08/08/2007"
 	},
 	{
 		"name": "WLLOW",
@@ -1292,7 +1293,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/16/2009",
+		"updated": "04/16/2009"
 	},
 	{
 		"name": "WLTER",
@@ -1301,7 +1302,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VIO*VOR/DME*260.40/25.22",
+		"updated": "VIO*VOR/DME*260.40/25.22"
 	},
 	{
 		"name": "WOBEP",
@@ -1310,7 +1311,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2016",
+		"updated": "05/24/2016"
 	},
 	{
 		"name": "WODKA",
@@ -1319,7 +1320,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ASW*LD*E CRS/6.54",
+		"updated": "ASW*LD*E CRS/6.54"
 	},
 	{
 		"name": "WODRO",
@@ -1328,7 +1329,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/26/2016",
+		"updated": "09/26/2016"
 	},
 	{
 		"name": "WOFMY",
@@ -1337,7 +1338,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "HIC*VOR/DME*112.04/15.00",
+		"updated": "HIC*VOR/DME*112.04/15.00"
 	},
 	{
 		"name": "WOGEJ",
@@ -1346,7 +1347,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/13/2001",
+		"updated": "12/13/2001"
 	},
 	{
 		"name": "WOGOG",
@@ -1355,7 +1356,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/07/2008",
+		"updated": "11/07/2008"
 	},
 	{
 		"name": "WOGPO",
@@ -1364,7 +1365,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/24/2009",
+		"updated": "03/24/2009"
 	},
 	{
 		"name": "WOGUR",
@@ -1373,7 +1374,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/23/2009",
+		"updated": "03/23/2009"
 	},
 	{
 		"name": "WOKBO",
@@ -1382,7 +1383,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/23/2009",
+		"updated": "03/23/2009"
 	},
 	{
 		"name": "WOKLA",
@@ -1391,7 +1392,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "EON*VORTAC*047.15",
+		"updated": "EON*VORTAC*047.15"
 	},
 	{
 		"name": "WOKNO",
@@ -1400,7 +1401,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FAH*VOR/DME*172.46/17.36",
+		"updated": "FAH*VOR/DME*172.46/17.36"
 	},
 	{
 		"name": "WOLEG",
@@ -1409,7 +1410,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/11/2010",
+		"updated": "08/11/2010"
 	},
 	{
 		"name": "WOLFF",
@@ -1418,7 +1419,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JOT*VOR/DME*312.66",
+		"updated": "JOT*VOR/DME*312.66"
 	},
 	{
 		"name": "WOLIM",
@@ -1427,7 +1428,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MZV*VOR/DME*148.84",
+		"updated": "MZV*VOR/DME*148.84"
 	},
 	{
 		"name": "WOMEN",
@@ -1436,7 +1437,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OSH*VORTAC*005.99/1.80",
+		"updated": "OSH*VORTAC*005.99/1.80"
 	},
 	{
 		"name": "WONPU",
@@ -1445,7 +1446,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "WONUM",
@@ -1454,7 +1455,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/25/2014",
+		"updated": "08/25/2014"
 	},
 	{
 		"name": "WORDY",
@@ -1463,7 +1464,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DNV*VORTAC*349.36/23.16",
+		"updated": "DNV*VORTAC*349.36/23.16"
 	},
 	{
 		"name": "WOREG",
@@ -1472,7 +1473,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/21/2007",
+		"updated": "07/21/2007"
 	},
 	{
 		"name": "WORNO",
@@ -1481,7 +1482,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "CMI*VORTAC*317.16",
+		"updated": "CMI*VORTAC*317.16"
 	},
 	{
 		"name": "WOROX",
@@ -1490,7 +1491,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/05/2010",
+		"updated": "04/05/2010"
 	},
 	{
 		"name": "WOSMU",
@@ -1499,7 +1500,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/27/2012",
+		"updated": "06/27/2012"
 	},
 	{
 		"name": "WOTMO",
@@ -1508,7 +1509,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2016",
+		"updated": "05/24/2016"
 	},
 	{
 		"name": "WOTRI",
@@ -1517,7 +1518,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/01/2016",
+		"updated": "07/01/2016"
 	},
 	{
 		"name": "WOUDE",
@@ -1526,7 +1527,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/17/2010",
+		"updated": "11/17/2010"
 	},
 	{
 		"name": "WOVKA",
@@ -1535,7 +1536,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ELX*VOR/DME*249.44/3.10",
+		"updated": "ELX*VOR/DME*249.44/3.10"
 	},
 	{
 		"name": "WOXIN",
@@ -1544,7 +1545,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2013",
+		"updated": "08/19/2013"
 	},
 	{
 		"name": "WOXOG",
@@ -1553,7 +1554,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MZZ*VOR/DME*293.71",
+		"updated": "MZZ*VOR/DME*293.71"
 	},
 	{
 		"name": "WREST",
@@ -1562,7 +1563,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DLL*VORTAC*093.99/16.46",
+		"updated": "DLL*VORTAC*093.99/16.46"
 	},
 	{
 		"name": "WUBUP",
@@ -1571,7 +1572,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/16/2011",
+		"updated": "02/16/2011"
 	},
 	{
 		"name": "WUBUV",
@@ -1580,7 +1581,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/06/2011",
+		"updated": "05/06/2011"
 	},
 	{
 		"name": "WUBZU",
@@ -1589,7 +1590,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/06/2008",
+		"updated": "10/06/2008"
 	},
 	{
 		"name": "WUGBU",
@@ -1598,7 +1599,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/15/2011",
+		"updated": "09/15/2011"
 	},
 	{
 		"name": "WUGIX",
@@ -1607,7 +1608,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BYW*LD*271.36/2.06",
+		"updated": "BYW*LD*271.36/2.06"
 	},
 	{
 		"name": "WUKOM",
@@ -1616,7 +1617,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2016",
+		"updated": "11/18/2016"
 	},
 	{
 		"name": "WUKOV",
@@ -1625,7 +1626,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/05/2010",
+		"updated": "06/05/2010"
 	},
 	{
 		"name": "WULIN",
@@ -1634,7 +1635,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "WULUS",
@@ -1643,7 +1644,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/20/2009",
+		"updated": "01/20/2009"
 	},
 	{
 		"name": "WUNTZ",
@@ -1652,7 +1653,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/25/2016",
+		"updated": "05/25/2016"
 	},
 	{
 		"name": "WUPAL",
@@ -1661,7 +1662,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "WUPOR",
@@ -1670,7 +1671,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/03/2012",
+		"updated": "12/03/2012"
 	},
 	{
 		"name": "WURAX",
@@ -1679,7 +1680,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "WURID",
@@ -1688,7 +1689,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/29/2008",
+		"updated": "07/29/2008"
 	},
 	{
 		"name": "WURKO",
@@ -1697,7 +1698,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "11/21/2000",
+		"updated": "11/21/2000"
 	},
 	{
 		"name": "WURNU",
@@ -1706,7 +1707,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/31/2017",
+		"updated": "07/31/2017"
 	},
 	{
 		"name": "WURSU",
@@ -1715,7 +1716,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BMI*LD*110.89/3.21",
+		"updated": "BMI*LD*110.89/3.21"
 	},
 	{
 		"name": "WURVI",
@@ -1724,7 +1725,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/19/2012",
+		"updated": "01/19/2012"
 	},
 	{
 		"name": "WUTMU",
@@ -1733,7 +1734,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/24/2011",
+		"updated": "10/24/2011"
 	},
 	{
 		"name": "WUTRU",
@@ -1742,7 +1743,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/02/2006",
+		"updated": "02/02/2006"
 	},
 	{
 		"name": "WUTSI",
@@ -1751,7 +1752,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/05/2010",
+		"updated": "04/05/2010"
 	},
 	{
 		"name": "WUVMO",
@@ -1760,7 +1761,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "WUXUX",
@@ -1769,7 +1770,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "CN",
-		"updated": "06/13/2007",
+		"updated": "06/13/2007"
 	},
 	{
 		"name": "WUYFI",
@@ -1778,7 +1779,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/29/2013",
+		"updated": "10/29/2013"
 	},
 	{
 		"name": "WUZGA",
@@ -1787,7 +1788,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "WUZMU",
@@ -1796,7 +1797,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/18/2010",
+		"updated": "02/18/2010"
 	},
 	{
 		"name": "WYDIK",
@@ -1805,7 +1806,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/26/2016",
+		"updated": "05/26/2016"
 	},
 	{
 		"name": "WYNDE",
@@ -1814,7 +1815,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/26/2018",
+		"updated": "02/26/2018"
 	},
 	{
 		"name": "WYNET",
@@ -1823,7 +1824,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BDF*VORTAC*003.37/16.31",
+		"updated": "BDF*VORTAC*003.37/16.31"
 	},
 	{
 		"name": "WYZZE",
@@ -1832,5 +1833,6 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/03/2007",
-	},
+		"updated": "05/03/2007"
+	}
+]

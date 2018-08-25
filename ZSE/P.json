@@ -1,3 +1,4 @@
+[
 	{
 		"name": "PAAGE",
 		"latitude": "46-25-22 N",
@@ -5,7 +6,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/10/2014",
+		"updated": "04/10/2014"
 	},
 	{
 		"name": "PAAPR",
@@ -14,7 +15,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/04/2013",
+		"updated": "03/04/2013"
 	},
 	{
 		"name": "PACCE",
@@ -23,7 +24,7 @@
 		"state": "MONTANA",
 		"artcc": "ZSE",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "PAIDS",
@@ -32,7 +33,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PSC*VOR/DME*273.28/15.00",
+		"updated": "PSC*VOR/DME*273.28/15.00"
 	},
 	{
 		"name": "PAIGE",
@@ -41,7 +42,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "SKA*TACAN*/5.44",
+		"updated": "SKA*TACAN*/5.44"
 	},
 	{
 		"name": "PAJUM",
@@ -50,7 +51,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/04/2016",
+		"updated": "11/04/2016"
 	},
 	{
 		"name": "PANGL",
@@ -59,7 +60,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "02/16/2006",
+		"updated": "02/16/2006"
 	},
 	{
 		"name": "PANOC",
@@ -68,7 +69,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "CBU*TACAN*097.07/19.00",
+		"updated": "CBU*TACAN*097.07/19.00"
 	},
 	{
 		"name": "PAPLE",
@@ -77,7 +78,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "OED*VORTAC*216.14/17.00",
+		"updated": "OED*VORTAC*216.14/17.00"
 	},
 	{
 		"name": "PAPPS",
@@ -86,7 +87,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PSC*VOR/DME*268.28/32.51",
+		"updated": "PSC*VOR/DME*268.28/32.51"
 	},
 	{
 		"name": "PARNO",
@@ -95,7 +96,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "SEA*VORTAC*327.71/30.71",
+		"updated": "SEA*VORTAC*327.71/30.71"
 	},
 	{
 		"name": "PASBE",
@@ -104,7 +105,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/28/2007",
+		"updated": "12/28/2007"
 	},
 	{
 		"name": "PASST",
@@ -113,7 +114,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "02/20/2002",
+		"updated": "02/20/2002"
 	},
 	{
 		"name": "PAWLI",
@@ -122,7 +123,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/30/2009",
+		"updated": "06/30/2009"
 	},
 	{
 		"name": "PAWYO",
@@ -131,7 +132,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/28/2017",
+		"updated": "04/28/2017"
 	},
 	{
 		"name": "PEBIC",
@@ -140,7 +141,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "PEDME",
@@ -149,7 +150,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "DSD*VORTAC*178.03/17.00",
+		"updated": "DSD*VORTAC*178.03/17.00"
 	},
 	{
 		"name": "PEGTY",
@@ -158,7 +159,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/09/2008",
+		"updated": "06/09/2008"
 	},
 	{
 		"name": "PEKAA",
@@ -167,7 +168,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "07/24/2000",
+		"updated": "07/24/2000"
 	},
 	{
 		"name": "PELLY",
@@ -176,7 +177,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "MWH*VOR/DME*145.14/5.98",
+		"updated": "MWH*VOR/DME*145.14/5.98"
 	},
 	{
 		"name": "PEMRE",
@@ -185,7 +186,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "MW",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "PENAE",
@@ -194,7 +195,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PUW*VOR/DME*033.44/26.14",
+		"updated": "PUW*VOR/DME*033.44/26.14"
 	},
 	{
 		"name": "PEREZ",
@@ -203,7 +204,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "LMT*VORTAC*141.90/35.00",
+		"updated": "LMT*VORTAC*141.90/35.00"
 	},
 	{
 		"name": "PERTT",
@@ -212,7 +213,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ELN*VOR/DME*217.01",
+		"updated": "ELN*VOR/DME*217.01"
 	},
 	{
 		"name": "PETEZ",
@@ -221,7 +222,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "MQG*VOR/DME*053.65/11.59",
+		"updated": "MQG*VOR/DME*053.65/11.59"
 	},
 	{
 		"name": "PEWYE",
@@ -230,7 +231,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "05/11/2012",
+		"updated": "05/11/2012"
 	},
 	{
 		"name": "PIANO",
@@ -239,7 +240,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ALW*VOR/DME*183.49",
+		"updated": "ALW*VOR/DME*183.49"
 	},
 	{
 		"name": "PIBME",
@@ -248,7 +249,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "05/15/2014",
+		"updated": "05/15/2014"
 	},
 	{
 		"name": "PICON",
@@ -257,7 +258,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "CEC*VORTAC*165.75/5.00",
+		"updated": "CEC*VORTAC*165.75/5.00"
 	},
 	{
 		"name": "PIGME",
@@ -266,7 +267,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/25/2013",
+		"updated": "06/25/2013"
 	},
 	{
 		"name": "PIGMO",
@@ -275,7 +276,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/25/2016",
+		"updated": "10/25/2016"
 	},
 	{
 		"name": "PIGVE",
@@ -284,7 +285,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ELN*VOR/DME*003.11/7.00",
+		"updated": "ELN*VOR/DME*003.11/7.00"
 	},
 	{
 		"name": "PIIKZ",
@@ -293,7 +294,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/24/2017",
+		"updated": "04/24/2017"
 	},
 	{
 		"name": "PIKEZ",
@@ -302,7 +303,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/14/2013",
+		"updated": "01/14/2013"
 	},
 	{
 		"name": "PIKYI",
@@ -311,7 +312,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/08/2006",
+		"updated": "06/08/2006"
 	},
 	{
 		"name": "PINTR",
@@ -320,7 +321,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "02/28/2013",
+		"updated": "02/28/2013"
 	},
 	{
 		"name": "PIQRI",
@@ -329,7 +330,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "BTG*VORTAC*070.34/10.00",
+		"updated": "BTG*VORTAC*070.34/10.00"
 	},
 	{
 		"name": "PITER",
@@ -338,7 +339,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "UBG*VOR/DME*334.00/32.71",
+		"updated": "UBG*VOR/DME*334.00/32.71"
 	},
 	{
 		"name": "PITOE",
@@ -347,7 +348,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "PITON",
@@ -356,7 +357,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "OED*VORTAC*316.00/9.00",
+		"updated": "OED*VORTAC*316.00/9.00"
 	},
 	{
 		"name": "PITVE",
@@ -365,7 +366,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/15/2002",
+		"updated": "11/15/2002"
 	},
 	{
 		"name": "PIVLY",
@@ -374,7 +375,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/23/2015",
+		"updated": "04/23/2015"
 	},
 	{
 		"name": "PIYOL",
@@ -383,7 +384,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "MQG*VOR/DME*143.67/13.00",
+		"updated": "MQG*VOR/DME*143.67/13.00"
 	},
 	{
 		"name": "PIZZE",
@@ -392,7 +393,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "YVR*VOR/DME*104.00/50.00",
+		"updated": "YVR*VOR/DME*104.00/50.00"
 	},
 	{
 		"name": "PLUSS",
@@ -401,7 +402,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "MWH*VOR/DME*238.96/9.81",
+		"updated": "MWH*VOR/DME*238.96/9.81"
 	},
 	{
 		"name": "PLYAT",
@@ -410,7 +411,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ENI*VORTAC*330.00/79.50",
+		"updated": "ENI*VORTAC*330.00/79.50"
 	},
 	{
 		"name": "PNELA",
@@ -419,7 +420,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/21/2014",
+		"updated": "09/21/2014"
 	},
 	{
 		"name": "POBIY",
@@ -428,7 +429,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "COE*VOR/DME*231.57/14.27",
+		"updated": "COE*VOR/DME*231.57/14.27"
 	},
 	{
 		"name": "POCIC",
@@ -437,7 +438,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "09/27/2010",
+		"updated": "09/27/2010"
 	},
 	{
 		"name": "POCIT",
@@ -446,7 +447,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "DSD*VORTAC*143.46/35.00",
+		"updated": "DSD*VORTAC*143.46/35.00"
 	},
 	{
 		"name": "PORIE",
@@ -455,7 +456,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "PORSY",
@@ -464,7 +465,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/17/2014",
+		"updated": "03/17/2014"
 	},
 	{
 		"name": "PORTL",
@@ -473,7 +474,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "CVO*VOR/DME*060.31",
+		"updated": "CVO*VOR/DME*060.31"
 	},
 	{
 		"name": "POTEE",
@@ -482,7 +483,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/11/2013",
+		"updated": "03/11/2013"
 	},
 	{
 		"name": "POTOR",
@@ -491,7 +492,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "MQG*VOR/DME*246.00/17.71",
+		"updated": "MQG*VOR/DME*246.00/17.71"
 	},
 	{
 		"name": "POWEL",
@@ -500,7 +501,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "IMB*VOR/DME*225.00",
+		"updated": "IMB*VOR/DME*225.00"
 	},
 	{
 		"name": "POWLZ",
@@ -509,7 +510,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "BTG*VORTAC*205.41/9.04",
+		"updated": "BTG*VORTAC*205.41/9.04"
 	},
 	{
 		"name": "PPAUL",
@@ -518,7 +519,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/08/2014",
+		"updated": "10/08/2014"
 	},
 	{
 		"name": "PREBE",
@@ -527,7 +528,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/04/2014",
+		"updated": "08/04/2014"
 	},
 	{
 		"name": "PRUCE",
@@ -536,7 +537,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "05/27/2009",
+		"updated": "05/27/2009"
 	},
 	{
 		"name": "PSARO",
@@ -545,7 +546,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/28/2013",
+		"updated": "08/28/2013"
 	},
 	{
 		"name": "PTERA",
@@ -554,7 +555,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/14/2013",
+		"updated": "01/14/2013"
 	},
 	{
 		"name": "PUBBB",
@@ -563,7 +564,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/28/2013",
+		"updated": "08/28/2013"
 	},
 	{
 		"name": "PUBBO",
@@ -572,7 +573,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "PUBSE",
@@ -581,7 +582,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/16/2011",
+		"updated": "03/16/2011"
 	},
 	{
 		"name": "PUCIV",
@@ -590,7 +591,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/06/2008",
+		"updated": "08/06/2008"
 	},
 	{
 		"name": "PUGIC",
@@ -599,7 +600,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "HQM*VORTAC*147.61/21.00",
+		"updated": "HQM*VORTAC*147.61/21.00"
 	},
 	{
 		"name": "PUKAJ",
@@ -608,7 +609,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "05/15/2014",
+		"updated": "05/15/2014"
 	},
 	{
 		"name": "PULLI",
@@ -617,7 +618,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "PULOE",
@@ -626,7 +627,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "PULYI",
@@ -635,7 +636,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "AST*VOR/DME*327.81/19.00",
+		"updated": "AST*VOR/DME*327.81/19.00"
 	},
 	{
 		"name": "PUMIE",
@@ -644,7 +645,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "MFR*LD*NW CRS/5.77",
+		"updated": "MFR*LD*NW CRS/5.77"
 	},
 	{
 		"name": "PUNRE",
@@ -653,7 +654,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/23/2010",
+		"updated": "09/23/2010"
 	},
 	{
 		"name": "PUPIE",
@@ -662,7 +663,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/15/2012",
+		"updated": "08/15/2012"
 	},
 	{
 		"name": "PUTZZ",
@@ -671,7 +672,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/15/2013",
+		"updated": "04/15/2013"
 	},
 	{
 		"name": "PUYNO",
@@ -680,5 +681,6 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/01/2017",
-	},
+		"updated": "12/01/2017"
+	}
+]

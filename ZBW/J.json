@@ -1,3 +1,4 @@
+[
 	{
 		"name": "JAAZZ",
 		"latitude": "42-48-16.57 N",
@@ -5,7 +6,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "LWM*VOR/DME*294.91",
+		"updated": "LWM*VOR/DME*294.91"
 	},
 	{
 		"name": "JABAG",
@@ -14,7 +15,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/30/2009",
+		"updated": "09/30/2009"
 	},
 	{
 		"name": "JABMU",
@@ -23,7 +24,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "JAFFY",
@@ -32,7 +33,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BDR*VOR/DME*192.00",
+		"updated": "BDR*VOR/DME*192.00"
 	},
 	{
 		"name": "JAGAD",
@@ -41,7 +42,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/05/2009",
+		"updated": "11/05/2009"
 	},
 	{
 		"name": "JAGRA",
@@ -50,7 +51,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "SEY*VOR/DME*047.54",
+		"updated": "SEY*VOR/DME*047.54"
 	},
 	{
 		"name": "JAGSU",
@@ -59,7 +60,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BNX*LD*142.43",
+		"updated": "BNX*LD*142.43"
 	},
 	{
 		"name": "JAITE",
@@ -68,7 +69,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/15/2013",
+		"updated": "01/15/2013"
 	},
 	{
 		"name": "JAKUT",
@@ -77,7 +78,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/02/2012",
+		"updated": "10/02/2012"
 	},
 	{
 		"name": "JALMI",
@@ -86,7 +87,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/22/2005",
+		"updated": "12/22/2005"
 	},
 	{
 		"name": "JAMDI",
@@ -95,7 +96,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/11/2005",
+		"updated": "07/11/2005"
 	},
 	{
 		"name": "JAMLU",
@@ -104,7 +105,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/11/2005",
+		"updated": "07/11/2005"
 	},
 	{
 		"name": "JAMMA",
@@ -113,7 +114,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CAM*VOR/DME*077.33",
+		"updated": "CAM*VOR/DME*077.33"
 	},
 	{
 		"name": "JAMOS",
@@ -122,7 +123,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/14/2013",
+		"updated": "11/14/2013"
 	},
 	{
 		"name": "JAMSA",
@@ -131,7 +132,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/16/2013",
+		"updated": "01/16/2013"
 	},
 	{
 		"name": "JANAG",
@@ -140,7 +141,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/26/2002",
+		"updated": "11/26/2002"
 	},
 	{
 		"name": "JANID",
@@ -149,7 +150,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "HFD*VOR/DME*327.00",
+		"updated": "HFD*VOR/DME*327.00"
 	},
 	{
 		"name": "JANIR",
@@ -158,7 +159,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/24/2011",
+		"updated": "06/24/2011"
 	},
 	{
 		"name": "JANOB",
@@ -167,7 +168,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/13/2012",
+		"updated": "03/13/2012"
 	},
 	{
 		"name": "JANOL",
@@ -176,7 +177,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/15/2012",
+		"updated": "10/15/2012"
 	},
 	{
 		"name": "JANUD",
@@ -185,7 +186,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "VOE*LD*145.83/19.95",
+		"updated": "VOE*LD*145.83/19.95"
 	},
 	{
 		"name": "JAPUT",
@@ -194,7 +195,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/23/2009",
+		"updated": "10/23/2009"
 	},
 	{
 		"name": "JASDU",
@@ -203,7 +204,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/13/2011",
+		"updated": "01/13/2011"
 	},
 	{
 		"name": "JASID",
@@ -212,7 +213,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/05/2009",
+		"updated": "11/05/2009"
 	},
 	{
 		"name": "JASOR",
@@ -221,7 +222,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/29/2009",
+		"updated": "09/29/2009"
 	},
 	{
 		"name": "JATEV",
@@ -230,7 +231,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/04/2015",
+		"updated": "11/04/2015"
 	},
 	{
 		"name": "JAVTU",
@@ -239,7 +240,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/03/2013",
+		"updated": "05/03/2013"
 	},
 	{
 		"name": "JAVUN",
@@ -248,7 +249,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/27/2010",
+		"updated": "07/27/2010"
 	},
 	{
 		"name": "JAWZZ",
@@ -257,7 +258,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/23/2017",
+		"updated": "02/23/2017"
 	},
 	{
 		"name": "JAYHA",
@@ -266,7 +267,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/04/2014",
+		"updated": "06/04/2014"
 	},
 	{
 		"name": "JAYNA",
@@ -275,7 +276,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/04/2016",
+		"updated": "04/04/2016"
 	},
 	{
 		"name": "JAYSE",
@@ -284,7 +285,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "LWM*VOR/DME*204.83",
+		"updated": "LWM*VOR/DME*204.83"
 	},
 	{
 		"name": "JCACY",
@@ -293,7 +294,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/22/2005",
+		"updated": "12/22/2005"
 	},
 	{
 		"name": "JEBIM",
@@ -302,7 +303,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/06/2006",
+		"updated": "03/06/2006"
 	},
 	{
 		"name": "JEBIV",
@@ -311,7 +312,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/02/2012",
+		"updated": "04/02/2012"
 	},
 	{
 		"name": "JEBUN",
@@ -320,7 +321,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/05/2009",
+		"updated": "11/05/2009"
 	},
 	{
 		"name": "JEDRU",
@@ -329,7 +330,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/03/2005",
+		"updated": "02/03/2005"
 	},
 	{
 		"name": "JEDUM",
@@ -338,7 +339,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/23/2012",
+		"updated": "05/23/2012"
 	},
 	{
 		"name": "JEEET",
@@ -347,7 +348,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "JEENE",
@@ -356,7 +357,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "07/16/1996",
+		"updated": "07/16/1996"
 	},
 	{
 		"name": "JEGDO",
@@ -365,7 +366,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/13/2013",
+		"updated": "05/13/2013"
 	},
 	{
 		"name": "JEGIS",
@@ -374,7 +375,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/21/2007",
+		"updated": "05/21/2007"
 	},
 	{
 		"name": "JEGUB",
@@ -383,7 +384,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/29/2016",
+		"updated": "04/29/2016"
 	},
 	{
 		"name": "JEKDI",
@@ -392,7 +393,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "JEKEG",
@@ -401,7 +402,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/05/2009",
+		"updated": "11/05/2009"
 	},
 	{
 		"name": "JEKOP",
@@ -410,7 +411,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/25/2015",
+		"updated": "08/25/2015"
 	},
 	{
 		"name": "JELUB",
@@ -419,7 +420,7 @@
 		"state": "",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/07/2010",
+		"updated": "07/07/2010"
 	},
 	{
 		"name": "JEMKA",
@@ -428,7 +429,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/03/2013",
+		"updated": "05/03/2013"
 	},
 	{
 		"name": "JEMUV",
@@ -437,7 +438,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/30/2007",
+		"updated": "01/30/2007"
 	},
 	{
 		"name": "JENAB",
@@ -446,7 +447,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/07/2003",
+		"updated": "01/07/2003"
 	},
 	{
 		"name": "JENAX",
@@ -455,7 +456,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/16/2003",
+		"updated": "01/16/2003"
 	},
 	{
 		"name": "JENBE",
@@ -464,7 +465,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/21/2010",
+		"updated": "01/21/2010"
 	},
 	{
 		"name": "JENDI",
@@ -473,7 +474,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "JERDA",
@@ -482,7 +483,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "RME*LD*147.07/4.28",
+		"updated": "RME*LD*147.07/4.28"
 	},
 	{
 		"name": "JESBI",
@@ -491,7 +492,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "MW",
-		"updated": "06/27/2009",
+		"updated": "06/27/2009"
 	},
 	{
 		"name": "JESOD",
@@ -500,7 +501,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/08/2008",
+		"updated": "10/08/2008"
 	},
 	{
 		"name": "JESUL",
@@ -509,7 +510,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BHB*LD*043.61/3.06",
+		"updated": "BHB*LD*043.61/3.06"
 	},
 	{
 		"name": "JETAK",
@@ -518,7 +519,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/12/2011",
+		"updated": "01/12/2011"
 	},
 	{
 		"name": "JETAM",
@@ -527,7 +528,7 @@
 		"state": "",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/27/2009",
+		"updated": "05/27/2009"
 	},
 	{
 		"name": "JETAX",
@@ -536,7 +537,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*312.57",
+		"updated": "DPK*VOR/DME*312.57"
 	},
 	{
 		"name": "JETIX",
@@ -545,7 +546,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BDL*LD*238.38/4.87",
+		"updated": "BDL*LD*238.38/4.87"
 	},
 	{
 		"name": "JEVUL",
@@ -554,7 +555,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/16/2013",
+		"updated": "01/16/2013"
 	},
 	{
 		"name": "JEWIT",
@@ -563,7 +564,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "HFD*VOR/DME*096.96/32.61",
+		"updated": "HFD*VOR/DME*096.96/32.61"
 	},
 	{
 		"name": "JEXAT",
@@ -572,7 +573,7 @@
 		"state": "",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/19/2017",
+		"updated": "06/19/2017"
 	},
 	{
 		"name": "JEXEN",
@@ -581,7 +582,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/08/2012",
+		"updated": "08/08/2012"
 	},
 	{
 		"name": "JEYPY",
@@ -590,7 +591,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/10/2012",
+		"updated": "07/10/2012"
 	},
 	{
 		"name": "JFFFF",
@@ -599,7 +600,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/02/2012",
+		"updated": "08/02/2012"
 	},
 	{
 		"name": "JFUND",
@@ -608,7 +609,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/27/2014",
+		"updated": "09/27/2014"
 	},
 	{
 		"name": "JIBOT",
@@ -617,7 +618,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/10/2012",
+		"updated": "07/10/2012"
 	},
 	{
 		"name": "JIDAB",
@@ -626,7 +627,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/02/2007",
+		"updated": "04/02/2007"
 	},
 	{
 		"name": "JIDPA",
@@ -635,7 +636,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/19/2001",
+		"updated": "12/19/2001"
 	},
 	{
 		"name": "JIDSO",
@@ -644,7 +645,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "VOE*LD*SE CRS/7.00",
+		"updated": "VOE*LD*SE CRS/7.00"
 	},
 	{
 		"name": "JIGIB",
@@ -653,7 +654,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "MW",
-		"updated": "02/13/2017",
+		"updated": "02/13/2017"
 	},
 	{
 		"name": "JIGRI",
@@ -662,7 +663,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/28/2002",
+		"updated": "01/28/2002"
 	},
 	{
 		"name": "JIKOR",
@@ -671,7 +672,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/21/2008",
+		"updated": "10/21/2008"
 	},
 	{
 		"name": "JIKUK",
@@ -680,7 +681,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PUT*VOR/DME*165.83/24.99",
+		"updated": "PUT*VOR/DME*165.83/24.99"
 	},
 	{
 		"name": "JILBU",
@@ -689,7 +690,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CON*VOR/DME*008.45",
+		"updated": "CON*VOR/DME*008.45"
 	},
 	{
 		"name": "JIMEX",
@@ -698,7 +699,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/16/2002",
+		"updated": "05/16/2002"
 	},
 	{
 		"name": "JIMGU",
@@ -707,7 +708,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/16/2013",
+		"updated": "01/16/2013"
 	},
 	{
 		"name": "JIMUG",
@@ -716,7 +717,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "JINOG",
@@ -725,7 +726,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/12/2011",
+		"updated": "01/12/2011"
 	},
 	{
 		"name": "JIPDO",
@@ -734,7 +735,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BTV*VOR/DME*102.89",
+		"updated": "BTV*VOR/DME*102.89"
 	},
 	{
 		"name": "JIRUN",
@@ -743,7 +744,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "JISMI",
@@ -752,7 +753,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/06/2007",
+		"updated": "04/06/2007"
 	},
 	{
 		"name": "JISUR",
@@ -761,7 +762,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "JIVKI",
@@ -770,7 +771,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/05/2013",
+		"updated": "11/05/2013"
 	},
 	{
 		"name": "JJIMY",
@@ -779,7 +780,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PSM*VOR/DME*215.84/42.48",
+		"updated": "PSM*VOR/DME*215.84/42.48"
 	},
 	{
 		"name": "JMMIE",
@@ -788,7 +789,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/02/2012",
+		"updated": "08/02/2012"
 	},
 	{
 		"name": "JNFER",
@@ -797,7 +798,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/02/2012",
+		"updated": "08/02/2012"
 	},
 	{
 		"name": "JOBAP",
@@ -806,7 +807,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/03/2011",
+		"updated": "06/03/2011"
 	},
 	{
 		"name": "JOBBY",
@@ -815,7 +816,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BML*VOR/DME*178.00/14.20",
+		"updated": "BML*VOR/DME*178.00/14.20"
 	},
 	{
 		"name": "JOBDO",
@@ -824,7 +825,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/05/2009",
+		"updated": "11/05/2009"
 	},
 	{
 		"name": "JOBEB",
@@ -833,7 +834,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/18/2015",
+		"updated": "12/18/2015"
 	},
 	{
 		"name": "JOBEE",
@@ -842,7 +843,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/24/2011",
+		"updated": "10/24/2011"
 	},
 	{
 		"name": "JOBEL",
@@ -851,7 +852,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "GGT*VORTAC*314.36",
+		"updated": "GGT*VORTAC*314.36"
 	},
 	{
 		"name": "JOBSI",
@@ -860,7 +861,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/12/2011",
+		"updated": "04/12/2011"
 	},
 	{
 		"name": "JODLE",
@@ -869,7 +870,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MVY*VOR/DME*230.00/3.00",
+		"updated": "MVY*VOR/DME*230.00/3.00"
 	},
 	{
 		"name": "JODOB",
@@ -878,7 +879,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "GGT*VORTAC*000.56",
+		"updated": "GGT*VORTAC*000.56"
 	},
 	{
 		"name": "JOESS",
@@ -887,7 +888,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/02/2012",
+		"updated": "08/02/2012"
 	},
 	{
 		"name": "JOEYL",
@@ -896,7 +897,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/31/2012",
+		"updated": "10/31/2012"
 	},
 	{
 		"name": "JOGEG",
@@ -905,7 +906,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "MW",
-		"updated": "02/13/2017",
+		"updated": "02/13/2017"
 	},
 	{
 		"name": "JOGIL",
@@ -914,7 +915,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/07/2005",
+		"updated": "09/07/2005"
 	},
 	{
 		"name": "JOGIM",
@@ -923,7 +924,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CAM*VOR/DME*016.00/23.20",
+		"updated": "CAM*VOR/DME*016.00/23.20"
 	},
 	{
 		"name": "JOGIN",
@@ -932,7 +933,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "MR",
-		"updated": "ART*VORTAC*146.05",
+		"updated": "ART*VORTAC*146.05"
 	},
 	{
 		"name": "JOGRU",
@@ -941,7 +942,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/12/2009",
+		"updated": "11/12/2009"
 	},
 	{
 		"name": "JOGTU",
@@ -950,7 +951,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CCC*VOR/DME*339.00/11.09",
+		"updated": "CCC*VOR/DME*339.00/11.09"
 	},
 	{
 		"name": "JOHNE",
@@ -959,7 +960,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*348.79",
+		"updated": "DPK*VOR/DME*348.79"
 	},
 	{
 		"name": "JOHNZ",
@@ -968,7 +969,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MHT*VOR/DME*252.81/16.34",
+		"updated": "MHT*VOR/DME*252.81/16.34"
 	},
 	{
 		"name": "JOKDO",
@@ -977,7 +978,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/03/2008",
+		"updated": "12/03/2008"
 	},
 	{
 		"name": "JONNN",
@@ -986,7 +987,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BTV*VOR/DME*310.29/37.75",
+		"updated": "BTV*VOR/DME*310.29/37.75"
 	},
 	{
 		"name": "JOODY",
@@ -995,7 +996,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/27/2014",
+		"updated": "09/27/2014"
 	},
 	{
 		"name": "JOPVO",
@@ -1004,7 +1005,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PUT*VOR/DME*111.00/15.73",
+		"updated": "PUT*VOR/DME*111.00/15.73"
 	},
 	{
 		"name": "JOPVU",
@@ -1013,7 +1014,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MHT*VOR/DME*199.86",
+		"updated": "MHT*VOR/DME*199.86"
 	},
 	{
 		"name": "JORAB",
@@ -1022,7 +1023,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/21/2008",
+		"updated": "10/21/2008"
 	},
 	{
 		"name": "JORAR",
@@ -1031,7 +1032,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/14/2012",
+		"updated": "09/14/2012"
 	},
 	{
 		"name": "JORDN",
@@ -1040,7 +1041,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "HTO*VORTAC*078.86/20.00",
+		"updated": "HTO*VORTAC*078.86/20.00"
 	},
 	{
 		"name": "JOREX",
@@ -1049,7 +1050,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "RUT*VOR/DME*196.70/12.00",
+		"updated": "RUT*VOR/DME*196.70/12.00"
 	},
 	{
 		"name": "JORNU",
@@ -1058,7 +1059,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/22/2015",
+		"updated": "01/22/2015"
 	},
 	{
 		"name": "JOTOV",
@@ -1067,7 +1068,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/20/2004",
+		"updated": "04/20/2004"
 	},
 	{
 		"name": "JOVUM",
@@ -1076,7 +1077,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/05/2009",
+		"updated": "11/05/2009"
 	},
 	{
 		"name": "JOXEB",
@@ -1085,7 +1086,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/07/2011",
+		"updated": "03/07/2011"
 	},
 	{
 		"name": "JOXET",
@@ -1094,7 +1095,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/17/2012",
+		"updated": "01/17/2012"
 	},
 	{
 		"name": "JOYED",
@@ -1103,7 +1104,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/20/2016",
+		"updated": "04/20/2016"
 	},
 	{
 		"name": "JRVIS",
@@ -1112,7 +1113,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BTV*VOR/DME*036.00/16.15",
+		"updated": "BTV*VOR/DME*036.00/16.15"
 	},
 	{
 		"name": "JSSIE",
@@ -1121,7 +1122,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/24/2012",
+		"updated": "07/24/2012"
 	},
 	{
 		"name": "JSTER",
@@ -1130,7 +1131,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/15/2013",
+		"updated": "01/15/2013"
 	},
 	{
 		"name": "JSTNN",
@@ -1139,7 +1140,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/17/2014",
+		"updated": "11/17/2014"
 	},
 	{
 		"name": "JTOWN",
@@ -1148,7 +1149,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/05/2015",
+		"updated": "11/05/2015"
 	},
 	{
 		"name": "JUBAM",
@@ -1157,7 +1158,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/14/2013",
+		"updated": "11/14/2013"
 	},
 	{
 		"name": "JUBBB",
@@ -1166,7 +1167,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BOS*VOR/DME*024.18/4.00",
+		"updated": "BOS*VOR/DME*024.18/4.00"
 	},
 	{
 		"name": "JUBEB",
@@ -1175,7 +1176,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/20/2015",
+		"updated": "03/20/2015"
 	},
 	{
 		"name": "JUBIV",
@@ -1184,7 +1185,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BJA*TACAN*149.51/3.46",
+		"updated": "BJA*TACAN*149.51/3.46"
 	},
 	{
 		"name": "JUBUB",
@@ -1193,7 +1194,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/12/2002",
+		"updated": "04/12/2002"
 	},
 	{
 		"name": "JUBUM",
@@ -1202,7 +1203,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/27/2010",
+		"updated": "07/27/2010"
 	},
 	{
 		"name": "JUDDS",
@@ -1211,7 +1212,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CMK*VOR/DME*056.95/30.13",
+		"updated": "CMK*VOR/DME*056.95/30.13"
 	},
 	{
 		"name": "JUDMU",
@@ -1220,7 +1221,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/02/2014",
+		"updated": "10/02/2014"
 	},
 	{
 		"name": "JUDOV",
@@ -1229,7 +1230,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/13/2008",
+		"updated": "08/13/2008"
 	},
 	{
 		"name": "JUDOX",
@@ -1238,7 +1239,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/05/2009",
+		"updated": "11/05/2009"
 	},
 	{
 		"name": "JUFOH",
@@ -1247,7 +1248,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "JUGES",
@@ -1256,7 +1257,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/03/2014",
+		"updated": "11/03/2014"
 	},
 	{
 		"name": "JUGVI",
@@ -1265,7 +1266,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/05/2009",
+		"updated": "11/05/2009"
 	},
 	{
 		"name": "JUKBA",
@@ -1274,7 +1275,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/05/2007",
+		"updated": "03/05/2007"
 	},
 	{
 		"name": "JUKSA",
@@ -1283,7 +1284,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/27/2010",
+		"updated": "07/27/2010"
 	},
 	{
 		"name": "JUKUD",
@@ -1292,7 +1293,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/28/2002",
+		"updated": "01/28/2002"
 	},
 	{
 		"name": "JUKVI",
@@ -1301,7 +1302,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/05/2009",
+		"updated": "11/05/2009"
 	},
 	{
 		"name": "JUMGO",
@@ -1310,7 +1311,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MAD*VOR/DME*344.92/10.49",
+		"updated": "MAD*VOR/DME*344.92/10.49"
 	},
 	{
 		"name": "JUMPR",
@@ -1319,7 +1320,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PVD*VOR/DME*180.00",
+		"updated": "PVD*VOR/DME*180.00"
 	},
 	{
 		"name": "JUMUM",
@@ -1328,7 +1329,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/04/2008",
+		"updated": "12/04/2008"
 	},
 	{
 		"name": "JUNCA",
@@ -1337,7 +1338,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/22/2015",
+		"updated": "01/22/2015"
 	},
 	{
 		"name": "JUNEL",
@@ -1346,7 +1347,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/25/2015",
+		"updated": "03/25/2015"
 	},
 	{
 		"name": "JUNPU",
@@ -1355,7 +1356,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "JUPEV",
@@ -1364,7 +1365,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/03/2010",
+		"updated": "08/03/2010"
 	},
 	{
 		"name": "JUPOT",
@@ -1373,7 +1374,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/26/2002",
+		"updated": "11/26/2002"
 	},
 	{
 		"name": "JURDO",
@@ -1382,7 +1383,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PQI*VOR/DME*290.66/3.30",
+		"updated": "PQI*VOR/DME*290.66/3.30"
 	},
 	{
 		"name": "JURGI",
@@ -1391,7 +1392,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "JURGO",
@@ -1400,7 +1401,7 @@
 		"state": "",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/23/2009",
+		"updated": "11/23/2009"
 	},
 	{
 		"name": "JURIL",
@@ -1409,7 +1410,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/05/2008",
+		"updated": "12/05/2008"
 	},
 	{
 		"name": "JUSIN",
@@ -1418,7 +1419,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/26/2010",
+		"updated": "02/26/2010"
 	},
 	{
 		"name": "JUSIX",
@@ -1427,7 +1428,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/03/2005",
+		"updated": "02/03/2005"
 	},
 	{
 		"name": "JUSOV",
@@ -1436,7 +1437,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/04/2014",
+		"updated": "06/04/2014"
 	},
 	{
 		"name": "JUTEK",
@@ -1445,7 +1446,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BTV*VOR/DME*014.00/20.10",
+		"updated": "BTV*VOR/DME*014.00/20.10"
 	},
 	{
 		"name": "JUTRU",
@@ -1454,7 +1455,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/09/2008",
+		"updated": "12/09/2008"
 	},
 	{
 		"name": "JUVAM",
@@ -1463,7 +1464,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/13/2008",
+		"updated": "08/13/2008"
 	},
 	{
 		"name": "JUVBI",
@@ -1472,7 +1473,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/09/2008",
+		"updated": "12/09/2008"
 	},
 	{
 		"name": "JUVIM",
@@ -1481,7 +1482,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/30/2016",
+		"updated": "12/30/2016"
 	},
 	{
 		"name": "JUVIN",
@@ -1490,7 +1491,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/13/2012",
+		"updated": "03/13/2012"
 	},
 	{
 		"name": "JUXAN",
@@ -1499,5 +1500,6 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/28/2009",
-	},
+		"updated": "09/28/2009"
+	}
+]

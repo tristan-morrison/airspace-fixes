@@ -1,3 +1,4 @@
+[
 	{
 		"name": "ZADEK",
 		"latitude": "13-28-22.82 N",
@@ -5,7 +6,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*061.83/2.50",
+		"updated": "UNZ*VORTAC*061.83/2.50"
 	},
 	{
 		"name": "ZAXUS",
@@ -14,7 +15,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "AWD*LD*242.96/5.40",
+		"updated": "AWD*LD*242.96/5.40"
 	},
 	{
 		"name": "ZEEKE",
@@ -23,7 +24,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*169.00/7.00",
+		"updated": "UNZ*VORTAC*169.00/7.00"
 	},
 	{
 		"name": "ZEKUR",
@@ -32,7 +33,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "SN*NDB*065.76",
+		"updated": "SN*NDB*065.76"
 	},
 	{
 		"name": "ZOVIK",
@@ -41,7 +42,7 @@
 		"state": "N MARIANA ISLANDS",
 		"artcc": "ZUA",
 		"type": "RNAV",
-		"updated": "12/05/2011",
+		"updated": "12/05/2011"
 	},
 	{
 		"name": "ZUKIE",
@@ -50,5 +51,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UNZ*VORTAC*054.25/26.00",
-	},
+		"updated": "UNZ*VORTAC*054.25/26.00"
+	}
+]

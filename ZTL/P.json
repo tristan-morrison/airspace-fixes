@@ -1,3 +1,4 @@
+[
 	{
 		"name": "PABSE",
 		"latitude": "31-53-24.22 N",
@@ -5,7 +6,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/29/2016",
+		"updated": "07/29/2016"
 	},
 	{
 		"name": "PACIR",
@@ -14,7 +15,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/30/2012",
+		"updated": "01/30/2012"
 	},
 	{
 		"name": "PACIY",
@@ -23,7 +24,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/04/2008",
+		"updated": "08/04/2008"
 	},
 	{
 		"name": "PACKO",
@@ -32,7 +33,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "HMV*VORTAC*310.73/35.00",
+		"updated": "HMV*VORTAC*310.73/35.00"
 	},
 	{
 		"name": "PACOK",
@@ -41,7 +42,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/13/2009",
+		"updated": "03/13/2009"
 	},
 	{
 		"name": "PADGT",
@@ -50,7 +51,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/17/2016",
+		"updated": "05/17/2016"
 	},
 	{
 		"name": "PADVY",
@@ -59,7 +60,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "PAGAN",
@@ -68,7 +69,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "LIB*VORTAC*305.31/23.98",
+		"updated": "LIB*VORTAC*305.31/23.98"
 	},
 	{
 		"name": "PAGIY",
@@ -77,7 +78,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/02/2007",
+		"updated": "02/02/2007"
 	},
 	{
 		"name": "PAGMY",
@@ -86,7 +87,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "MR",
-		"updated": "AWS*NDB*118.30",
+		"updated": "AWS*NDB*118.30"
 	},
 	{
 		"name": "PAIRA",
@@ -95,7 +96,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/31/2014",
+		"updated": "01/31/2014"
 	},
 	{
 		"name": "PAKUL",
@@ -104,7 +105,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GSO*VORTAC*228.00/19.00",
+		"updated": "GSO*VORTAC*228.00/19.00"
 	},
 	{
 		"name": "PALER",
@@ -113,7 +114,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HCH*VOR/DME*213.00/35.60",
+		"updated": "HCH*VOR/DME*213.00/35.60"
 	},
 	{
 		"name": "PARQR",
@@ -122,7 +123,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/16/2017",
+		"updated": "06/16/2017"
 	},
 	{
 		"name": "PARRR",
@@ -131,7 +132,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/20/2007",
+		"updated": "12/20/2007"
 	},
 	{
 		"name": "PARVY",
@@ -140,7 +141,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "AHN*VOR/DME*238.20/10.05",
+		"updated": "AHN*VOR/DME*238.20/10.05"
 	},
 	{
 		"name": "PASHN",
@@ -149,7 +150,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RQZ*VORTAC*313.29/24.00",
+		"updated": "RQZ*VORTAC*313.29/24.00"
 	},
 	{
 		"name": "PATDA",
@@ -158,7 +159,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "ROA*VOR/DME*270.52",
+		"updated": "ROA*VOR/DME*270.52"
 	},
 	{
 		"name": "PATTE",
@@ -167,7 +168,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/27/2010",
+		"updated": "02/27/2010"
 	},
 	{
 		"name": "PAYKN",
@@ -176,7 +177,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/24/2015",
+		"updated": "06/24/2015"
 	},
 	{
 		"name": "PAYOK",
@@ -185,7 +186,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "LGC*VORTAC*053.31/26.98",
+		"updated": "LGC*VORTAC*053.31/26.98"
 	},
 	{
 		"name": "PDMNT",
@@ -194,7 +195,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/10/2016",
+		"updated": "11/10/2016"
 	},
 	{
 		"name": "PEARI",
@@ -203,7 +204,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "FT*NDB*211.95",
+		"updated": "FT*NDB*211.95"
 	},
 	{
 		"name": "PECAT",
@@ -212,7 +213,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "ATL*VORTAC*192.46/19.83",
+		"updated": "ATL*VORTAC*192.46/19.83"
 	},
 	{
 		"name": "PECDI",
@@ -221,7 +222,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/15/2011",
+		"updated": "06/15/2011"
 	},
 	{
 		"name": "PECIS",
@@ -230,7 +231,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/11/2012",
+		"updated": "06/11/2012"
 	},
 	{
 		"name": "PECOC",
@@ -239,7 +240,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/15/2011",
+		"updated": "11/15/2011"
 	},
 	{
 		"name": "PEDAL",
@@ -248,7 +249,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "SPA*VORTAC*255.75/31.69",
+		"updated": "SPA*VORTAC*255.75/31.69"
 	},
 	{
 		"name": "PEECH",
@@ -257,7 +258,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CSG*VORTAC*218.00",
+		"updated": "CSG*VORTAC*218.00"
 	},
 	{
 		"name": "PEEKS",
@@ -266,7 +267,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "HCH*VOR/DME*135.60/18.66",
+		"updated": "HCH*VOR/DME*135.60/18.66"
 	},
 	{
 		"name": "PEGTE",
@@ -275,7 +276,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GSO*VORTAC*245.78/39.76",
+		"updated": "GSO*VORTAC*245.78/39.76"
 	},
 	{
 		"name": "PELAM",
@@ -284,7 +285,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "SPA*VORTAC*255.75/15.26",
+		"updated": "SPA*VORTAC*255.75/15.26"
 	},
 	{
 		"name": "PELZE",
@@ -293,7 +294,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "SPA*VORTAC*231.30/41.16",
+		"updated": "SPA*VORTAC*231.30/41.16"
 	},
 	{
 		"name": "PENCE",
@@ -302,7 +303,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "SOT*VORTAC*305.00/26.78",
+		"updated": "SOT*VORTAC*305.00/26.78"
 	},
 	{
 		"name": "PENCL",
@@ -311,7 +312,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/17/2016",
+		"updated": "05/17/2016"
 	},
 	{
 		"name": "PENFI",
@@ -320,7 +321,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "AHN*VOR/DME*163.15/12.61",
+		"updated": "AHN*VOR/DME*163.15/12.61"
 	},
 	{
 		"name": "PENNE",
@@ -329,7 +330,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/03/2009",
+		"updated": "02/03/2009"
 	},
 	{
 		"name": "PEPNE",
@@ -338,7 +339,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/15/2011",
+		"updated": "07/15/2011"
 	},
 	{
 		"name": "PERGE",
@@ -347,7 +348,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/15/2014",
+		"updated": "04/15/2014"
 	},
 	{
 		"name": "PERVE",
@@ -356,7 +357,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/16/2007",
+		"updated": "10/16/2007"
 	},
 	{
 		"name": "PETBE",
@@ -365,7 +366,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/15/2011",
+		"updated": "07/15/2011"
 	},
 	{
 		"name": "PETIC",
@@ -374,7 +375,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/15/2011",
+		"updated": "07/15/2011"
 	},
 	{
 		"name": "PETOC",
@@ -383,7 +384,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "MGM*VORTAC*045.43/7.00",
+		"updated": "MGM*VORTAC*045.43/7.00"
 	},
 	{
 		"name": "PETON",
@@ -392,7 +393,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GRD*VORTAC*356.36/23.69",
+		"updated": "GRD*VORTAC*356.36/23.69"
 	},
 	{
 		"name": "PETRY",
@@ -401,7 +402,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "MGM*VORTAC*126.00/21.00",
+		"updated": "MGM*VORTAC*126.00/21.00"
 	},
 	{
 		"name": "PEYLI",
@@ -410,7 +411,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/11/2013",
+		"updated": "07/11/2013"
 	},
 	{
 		"name": "PEYTI",
@@ -419,7 +420,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/26/2005",
+		"updated": "01/26/2005"
 	},
 	{
 		"name": "PGAAA",
@@ -428,7 +429,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/20/2007",
+		"updated": "12/20/2007"
 	},
 	{
 		"name": "PHAYE",
@@ -437,7 +438,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/24/2015",
+		"updated": "06/24/2015"
 	},
 	{
 		"name": "PHENS",
@@ -446,7 +447,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "MR",
-		"updated": "LSF*VOR/DME*338.34/12.42",
+		"updated": "LSF*VOR/DME*338.34/12.42"
 	},
 	{
 		"name": "PHIIL",
@@ -455,7 +456,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/09/2016",
+		"updated": "09/09/2016"
 	},
 	{
 		"name": "PHINZ",
@@ -464,7 +465,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/20/2011",
+		"updated": "05/20/2011"
 	},
 	{
 		"name": "PHYLL",
@@ -473,7 +474,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "VNA*VORTAC*299.48/20.22",
+		"updated": "VNA*VORTAC*299.48/20.22"
 	},
 	{
 		"name": "PIBGE",
@@ -482,7 +483,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/27/2010",
+		"updated": "04/27/2010"
 	},
 	{
 		"name": "PIBTE",
@@ -491,7 +492,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/17/2010",
+		"updated": "04/17/2010"
 	},
 	{
 		"name": "PICKS",
@@ -500,7 +501,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "MVC*VORTAC*045.00",
+		"updated": "MVC*VORTAC*045.00"
 	},
 	{
 		"name": "PICKT",
@@ -509,7 +510,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/09/2016",
+		"updated": "05/09/2016"
 	},
 	{
 		"name": "PIDMY",
@@ -518,7 +519,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/07/2013",
+		"updated": "11/07/2013"
 	},
 	{
 		"name": "PIGON",
@@ -527,7 +528,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "MGM*VORTAC*201.00/43.42",
+		"updated": "MGM*VORTAC*201.00/43.42"
 	},
 	{
 		"name": "PIKIE",
@@ -536,7 +537,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/07/2016",
+		"updated": "11/07/2016"
 	},
 	{
 		"name": "PILRE",
@@ -545,7 +546,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/06/2012",
+		"updated": "09/06/2012"
 	},
 	{
 		"name": "PIMDE",
@@ -554,7 +555,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/27/2005",
+		"updated": "06/27/2005"
 	},
 	{
 		"name": "PINGG",
@@ -563,7 +564,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/21/2017",
+		"updated": "08/21/2017"
 	},
 	{
 		"name": "PINKS",
@@ -572,7 +573,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*043.53/12.95",
+		"updated": "DCU*VOR/DME*043.53/12.95"
 	},
 	{
 		"name": "PIROE",
@@ -581,7 +582,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/11/2012",
+		"updated": "06/11/2012"
 	},
 	{
 		"name": "PIRVE",
@@ -590,7 +591,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/13/2011",
+		"updated": "01/13/2011"
 	},
 	{
 		"name": "PISUE",
@@ -599,7 +600,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/14/2003",
+		"updated": "01/14/2003"
 	},
 	{
 		"name": "PITTE",
@@ -608,7 +609,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "HRS*VORTAC*026.00",
+		"updated": "HRS*VORTAC*026.00"
 	},
 	{
 		"name": "PITTY",
@@ -617,7 +618,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CLT*VOR/DME*286.00/45.00",
+		"updated": "CLT*VOR/DME*286.00/45.00"
 	},
 	{
 		"name": "PIZZO",
@@ -626,7 +627,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CSG*VORTAC*009.44/28.49",
+		"updated": "CSG*VORTAC*009.44/28.49"
 	},
 	{
 		"name": "PLAIR",
@@ -635,7 +636,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "DBN*VORTAC*001.39/29.38",
+		"updated": "DBN*VORTAC*001.39/29.38"
 	},
 	{
 		"name": "PLMMR",
@@ -644,7 +645,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/17/2016",
+		"updated": "05/17/2016"
 	},
 	{
 		"name": "PLUUM",
@@ -653,7 +654,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "BZM*VOR/DME*114.93",
+		"updated": "BZM*VOR/DME*114.93"
 	},
 	{
 		"name": "PMPAS",
@@ -662,7 +663,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/20/2007",
+		"updated": "12/20/2007"
 	},
 	{
 		"name": "PNTHA",
@@ -671,7 +672,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/09/2015",
+		"updated": "12/09/2015"
 	},
 	{
 		"name": "POBYI",
@@ -680,7 +681,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/15/2011",
+		"updated": "02/15/2011"
 	},
 	{
 		"name": "POGGO",
@@ -689,7 +690,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/28/2009",
+		"updated": "05/28/2009"
 	},
 	{
 		"name": "POGPE",
@@ -698,7 +699,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/23/2018",
+		"updated": "02/23/2018"
 	},
 	{
 		"name": "POLLK",
@@ -707,7 +708,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "SEM*LD*148.81/6.23",
+		"updated": "SEM*LD*148.81/6.23"
 	},
 	{
 		"name": "POLLL",
@@ -716,7 +717,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/29/2014",
+		"updated": "01/29/2014"
 	},
 	{
 		"name": "PONBE",
@@ -725,7 +726,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/11/2010",
+		"updated": "08/11/2010"
 	},
 	{
 		"name": "PONGG",
@@ -734,7 +735,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "PONTI",
@@ -743,7 +744,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GSO*VORTAC*221.00/30.00",
+		"updated": "GSO*VORTAC*221.00/30.00"
 	},
 	{
 		"name": "PONZE",
@@ -752,7 +753,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/12/2016",
+		"updated": "05/12/2016"
 	},
 	{
 		"name": "POOBA",
@@ -761,7 +762,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/22/2017",
+		"updated": "08/22/2017"
 	},
 	{
 		"name": "POORE",
@@ -770,7 +771,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/13/2016",
+		"updated": "05/13/2016"
 	},
 	{
 		"name": "POSEC",
@@ -779,7 +780,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/15/2009",
+		"updated": "09/15/2009"
 	},
 	{
 		"name": "POSEY",
@@ -788,7 +789,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "POSIY",
@@ -797,7 +798,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/26/2005",
+		"updated": "01/26/2005"
 	},
 	{
 		"name": "POTAR",
@@ -806,7 +807,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "VNA*VORTAC*299.48/32.84",
+		"updated": "VNA*VORTAC*299.48/32.84"
 	},
 	{
 		"name": "POUFS",
@@ -815,7 +816,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/07/2017",
+		"updated": "07/07/2017"
 	},
 	{
 		"name": "POUNC",
@@ -824,7 +825,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/17/2016",
+		"updated": "05/17/2016"
 	},
 	{
 		"name": "POVGY",
@@ -833,7 +834,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/01/2016",
+		"updated": "06/01/2016"
 	},
 	{
 		"name": "POWER",
@@ -842,7 +843,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "LOZ*VOR/DME*144.00",
+		"updated": "LOZ*VOR/DME*144.00"
 	},
 	{
 		"name": "POYTU",
@@ -851,7 +852,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/22/2011",
+		"updated": "09/22/2011"
 	},
 	{
 		"name": "PPAGE",
@@ -860,7 +861,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/03/2010",
+		"updated": "05/03/2010"
 	},
 	{
 		"name": "PPEGE",
@@ -869,7 +870,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/25/2009",
+		"updated": "08/25/2009"
 	},
 	{
 		"name": "PRATZ",
@@ -878,7 +879,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CSG*VORTAC*086.08/33.20",
+		"updated": "CSG*VORTAC*086.08/33.20"
 	},
 	{
 		"name": "PRDUE",
@@ -887,7 +888,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "VNA*VORTAC*314.31",
+		"updated": "VNA*VORTAC*314.31"
 	},
 	{
 		"name": "PREST",
@@ -896,7 +897,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "CSG*VORTAC*146.10",
+		"updated": "CSG*VORTAC*146.10"
 	},
 	{
 		"name": "PRMAN",
@@ -905,7 +906,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "PKU*LD*094.98/19.49",
+		"updated": "PKU*LD*094.98/19.49"
 	},
 	{
 		"name": "PRODS",
@@ -914,7 +915,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/18/2016",
+		"updated": "08/18/2016"
 	},
 	{
 		"name": "PRONE",
@@ -923,7 +924,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RQZ*VORTAC*079.92",
+		"updated": "RQZ*VORTAC*079.92"
 	},
 	{
 		"name": "PROVE",
@@ -932,7 +933,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "SBV*VORTAC*251.56",
+		"updated": "SBV*VORTAC*251.56"
 	},
 	{
 		"name": "PROVN",
@@ -941,7 +942,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/10/2016",
+		"updated": "11/10/2016"
 	},
 	{
 		"name": "PUJJY",
@@ -950,7 +951,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "PUJ*LD*131.45/6.02",
+		"updated": "PUJ*LD*131.45/6.02"
 	},
 	{
 		"name": "PUMOE",
@@ -959,7 +960,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/11/2009",
+		"updated": "11/11/2009"
 	},
 	{
 		"name": "PUMPR",
@@ -968,7 +969,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "AHN*VOR/DME*199.01/16.00",
+		"updated": "AHN*VOR/DME*199.01/16.00"
 	},
 	{
 		"name": "PUNJI",
@@ -977,7 +978,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/06/2017",
+		"updated": "03/06/2017"
 	},
 	{
 		"name": "PUPDG",
@@ -986,7 +987,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "PUTIC",
@@ -995,7 +996,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "MR",
-		"updated": "LDK*VORTAC*055.00/1.50",
+		"updated": "LDK*VORTAC*055.00/1.50"
 	},
 	{
 		"name": "PUTUE",
@@ -1004,7 +1005,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/29/2013",
+		"updated": "10/29/2013"
 	},
 	{
 		"name": "PUVIY",
@@ -1013,7 +1014,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "RMG*VORTAC*348.56/10.48",
+		"updated": "RMG*VORTAC*348.56/10.48"
 	},
 	{
 		"name": "PUVNE",
@@ -1022,5 +1023,6 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/22/2010",
-	},
+		"updated": "04/22/2010"
+	}
+]

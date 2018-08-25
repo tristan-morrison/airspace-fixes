@@ -1,3 +1,4 @@
+[
 	{
 		"name": "HAADN",
 		"latitude": "41-34-53.03 N",
@@ -5,7 +6,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/28/2014",
+		"updated": "05/28/2014"
 	},
 	{
 		"name": "HAAKK",
@@ -14,7 +15,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "LFD*VOR/DME*294.62/12.71",
+		"updated": "LFD*VOR/DME*294.62/12.71"
 	},
 	{
 		"name": "HAAYQ",
@@ -23,7 +24,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/25/2016",
+		"updated": "05/25/2016"
 	},
 	{
 		"name": "HABKO",
@@ -32,7 +33,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/20/2009",
+		"updated": "05/20/2009"
 	},
 	{
 		"name": "HADAK",
@@ -41,7 +42,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/04/2001",
+		"updated": "01/04/2001"
 	},
 	{
 		"name": "HADGI",
@@ -50,7 +51,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/25/2002",
+		"updated": "09/25/2002"
 	},
 	{
 		"name": "HADPA",
@@ -59,7 +60,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/19/2003",
+		"updated": "03/19/2003"
 	},
 	{
 		"name": "HADUN",
@@ -68,7 +69,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/25/2011",
+		"updated": "10/25/2011"
 	},
 	{
 		"name": "HAGBO",
@@ -77,7 +78,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/21/2007",
+		"updated": "07/21/2007"
 	},
 	{
 		"name": "HAGIN",
@@ -86,7 +87,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/08/2011",
+		"updated": "09/08/2011"
 	},
 	{
 		"name": "HAGOK",
@@ -95,7 +96,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/18/2011",
+		"updated": "02/18/2011"
 	},
 	{
 		"name": "HAKAV",
@@ -104,7 +105,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BRL*VOR/DME*127.35/14.00",
+		"updated": "BRL*VOR/DME*127.35/14.00"
 	},
 	{
 		"name": "HAKAX",
@@ -113,7 +114,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/28/2009",
+		"updated": "06/28/2009"
 	},
 	{
 		"name": "HAKBO",
@@ -122,7 +123,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/25/2002",
+		"updated": "09/25/2002"
 	},
 	{
 		"name": "HAKES",
@@ -131,7 +132,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JWJ*VOR/DME*159.80",
+		"updated": "JWJ*VOR/DME*159.80"
 	},
 	{
 		"name": "HALBU",
@@ -140,7 +141,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/22/2005",
+		"updated": "08/22/2005"
 	},
 	{
 		"name": "HALIE",
@@ -149,7 +150,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "EON*VORTAC*060.42",
+		"updated": "EON*VORTAC*060.42"
 	},
 	{
 		"name": "HAMKO",
@@ -158,7 +159,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/07/2017",
+		"updated": "04/07/2017"
 	},
 	{
 		"name": "HAMTA",
@@ -167,7 +168,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/05/2016",
+		"updated": "05/05/2016"
 	},
 	{
 		"name": "HAMTN",
@@ -176,7 +177,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DLL*VORTAC*059.99",
+		"updated": "DLL*VORTAC*059.99"
 	},
 	{
 		"name": "HAMTO",
@@ -185,7 +186,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OXI*VOR/DME*122.76/35.60",
+		"updated": "OXI*VOR/DME*122.76/35.60"
 	},
 	{
 		"name": "HANEK",
@@ -194,7 +195,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "11/21/2000",
+		"updated": "11/21/2000"
 	},
 	{
 		"name": "HANKS",
@@ -203,7 +204,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/27/2007",
+		"updated": "06/27/2007"
 	},
 	{
 		"name": "HANNI",
@@ -212,7 +213,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "HANOD",
@@ -221,7 +222,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/25/2002",
+		"updated": "09/25/2002"
 	},
 	{
 		"name": "HANSO",
@@ -230,7 +231,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VQX*LD*093.88/17.05",
+		"updated": "VQX*LD*093.88/17.05"
 	},
 	{
 		"name": "HAPEX",
@@ -239,7 +240,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "HAPIG",
@@ -248,7 +249,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/22/2009",
+		"updated": "05/22/2009"
 	},
 	{
 		"name": "HAPLU",
@@ -257,7 +258,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/05/2016",
+		"updated": "05/05/2016"
 	},
 	{
 		"name": "HAPOX",
@@ -266,7 +267,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/05/2007",
+		"updated": "10/05/2007"
 	},
 	{
 		"name": "HAPUR",
@@ -275,7 +276,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ELX*VOR/DME*148.63/9.00",
+		"updated": "ELX*VOR/DME*148.63/9.00"
 	},
 	{
 		"name": "HAREE",
@@ -284,7 +285,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*130.39",
+		"updated": "OBK*VOR/DME*130.39"
 	},
 	{
 		"name": "HARGU",
@@ -293,7 +294,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "HARIE",
@@ -302,7 +303,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*156.13",
+		"updated": "DPA*VOR/DME*156.13"
 	},
 	{
 		"name": "HARIR",
@@ -311,7 +312,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/06/2003",
+		"updated": "08/06/2003"
 	},
 	{
 		"name": "HARIS",
@@ -320,7 +321,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/29/2014",
+		"updated": "09/29/2014"
 	},
 	{
 		"name": "HARRL",
@@ -329,7 +330,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*117.17",
+		"updated": "DPA*VOR/DME*117.17"
 	},
 	{
 		"name": "HARRT",
@@ -338,7 +339,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "GIJ*VORTAC*271.00/47.72",
+		"updated": "GIJ*VORTAC*271.00/47.72"
 	},
 	{
 		"name": "HASAL",
@@ -347,7 +348,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RFD*VOR/DME*289.15",
+		"updated": "RFD*VOR/DME*289.15"
 	},
 	{
 		"name": "HASTE",
@@ -356,7 +357,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PMM*VOR/DME*073.18/43.40",
+		"updated": "PMM*VOR/DME*073.18/43.40"
 	},
 	{
 		"name": "HATNY",
@@ -365,7 +366,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "10/23/2008",
+		"updated": "10/23/2008"
 	},
 	{
 		"name": "HAUCK",
@@ -374,7 +375,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/31/2017",
+		"updated": "07/31/2017"
 	},
 	{
 		"name": "HAUNT",
@@ -383,7 +384,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CVA*VORTAC*035.64/21.00",
+		"updated": "CVA*VORTAC*035.64/21.00"
 	},
 	{
 		"name": "HAUPO",
@@ -392,7 +393,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/30/2008",
+		"updated": "09/30/2008"
 	},
 	{
 		"name": "HAVLI",
@@ -401,7 +402,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/25/2005",
+		"updated": "01/25/2005"
 	},
 	{
 		"name": "HAWKN",
@@ -410,7 +411,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*000.55/11.00",
+		"updated": "BAE*VOR/DME*000.55/11.00"
 	},
 	{
 		"name": "HAXEP",
@@ -419,7 +420,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/16/2010",
+		"updated": "02/16/2010"
 	},
 	{
 		"name": "HAXOM",
@@ -428,7 +429,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/25/2002",
+		"updated": "09/25/2002"
 	},
 	{
 		"name": "HAXUT",
@@ -437,7 +438,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "HAZIL",
@@ -446,7 +447,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VZE*LD*092.89/12.69",
+		"updated": "VZE*LD*092.89/12.69"
 	},
 	{
 		"name": "HAZKU",
@@ -455,7 +456,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*VORTAC*245.00/19.73",
+		"updated": "FWA*VORTAC*245.00/19.73"
 	},
 	{
 		"name": "HEALY",
@@ -464,7 +465,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/25/2012",
+		"updated": "05/25/2012"
 	},
 	{
 		"name": "HEBEL",
@@ -473,7 +474,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PMM*VOR/DME*090.95/33.07",
+		"updated": "PMM*VOR/DME*090.95/33.07"
 	},
 	{
 		"name": "HEBKU",
@@ -482,7 +483,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*084.78",
+		"updated": "DPA*VOR/DME*084.78"
 	},
 	{
 		"name": "HEBOD",
@@ -491,7 +492,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2011",
+		"updated": "05/24/2011"
 	},
 	{
 		"name": "HECMU",
@@ -500,7 +501,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "GUS*VORTAC*232.00/1.40",
+		"updated": "GUS*VORTAC*232.00/1.40"
 	},
 	{
 		"name": "HEDOC",
@@ -509,7 +510,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "HEDOT",
@@ -518,7 +519,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "11/21/2000",
+		"updated": "11/21/2000"
 	},
 	{
 		"name": "HEDUT",
@@ -527,7 +528,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "HEFER",
@@ -536,7 +537,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/03/2007",
+		"updated": "05/03/2007"
 	},
 	{
 		"name": "HEGBI",
@@ -545,7 +546,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/09/2013",
+		"updated": "01/09/2013"
 	},
 	{
 		"name": "HEGUD",
@@ -554,7 +555,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/24/2011",
+		"updated": "02/24/2011"
 	},
 	{
 		"name": "HEKRO",
@@ -563,7 +564,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/02/2006",
+		"updated": "02/02/2006"
 	},
 	{
 		"name": "HELAB",
@@ -572,7 +573,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/14/2007",
+		"updated": "03/14/2007"
 	},
 	{
 		"name": "HELEG",
@@ -581,7 +582,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/09/2008",
+		"updated": "10/09/2008"
 	},
 	{
 		"name": "HEMMY",
@@ -590,7 +591,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "HEMTI",
@@ -599,7 +600,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/21/2003",
+		"updated": "08/21/2003"
 	},
 	{
 		"name": "HEMUL",
@@ -608,7 +609,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/19/2003",
+		"updated": "03/19/2003"
 	},
 	{
 		"name": "HENIS",
@@ -617,7 +618,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/19/2003",
+		"updated": "03/19/2003"
 	},
 	{
 		"name": "HEPAX",
@@ -626,7 +627,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/24/2005",
+		"updated": "08/24/2005"
 	},
 	{
 		"name": "HERGA",
@@ -635,7 +636,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/21/2009",
+		"updated": "08/21/2009"
 	},
 	{
 		"name": "HERLU",
@@ -644,7 +645,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/24/2009",
+		"updated": "09/24/2009"
 	},
 	{
 		"name": "HERRS",
@@ -653,7 +654,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MSN*VORTAC*351.44/3.00",
+		"updated": "MSN*VORTAC*351.44/3.00"
 	},
 	{
 		"name": "HERUL",
@@ -662,7 +663,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/06/2003",
+		"updated": "08/06/2003"
 	},
 	{
 		"name": "HERVY",
@@ -671,7 +672,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*253.00/25.90",
+		"updated": "DPA*VOR/DME*253.00/25.90"
 	},
 	{
 		"name": "HERWK",
@@ -680,7 +681,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/25/2016",
+		"updated": "05/25/2016"
 	},
 	{
 		"name": "HESAN",
@@ -689,7 +690,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/06/2010",
+		"updated": "04/06/2010"
 	},
 	{
 		"name": "HESMO",
@@ -698,7 +699,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/24/2016",
+		"updated": "06/24/2016"
 	},
 	{
 		"name": "HETAM",
@@ -707,7 +708,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/12/2012",
+		"updated": "03/12/2012"
 	},
 	{
 		"name": "HETUP",
@@ -716,7 +717,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "HEVDA",
@@ -725,7 +726,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/30/2013",
+		"updated": "07/30/2013"
 	},
 	{
 		"name": "HEVEM",
@@ -734,7 +735,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/01/2013",
+		"updated": "08/01/2013"
 	},
 	{
 		"name": "HEVEP",
@@ -743,7 +744,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/05/2016",
+		"updated": "05/05/2016"
 	},
 	{
 		"name": "HEVMI",
@@ -752,7 +753,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/16/2007",
+		"updated": "08/16/2007"
 	},
 	{
 		"name": "HEVPI",
@@ -761,7 +762,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/01/2006",
+		"updated": "06/01/2006"
 	},
 	{
 		"name": "HEVRA",
@@ -770,7 +771,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/11/2005",
+		"updated": "07/11/2005"
 	},
 	{
 		"name": "HEVUS",
@@ -779,7 +780,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/13/2012",
+		"updated": "06/13/2012"
 	},
 	{
 		"name": "HEVYD",
@@ -788,7 +789,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/27/2018",
+		"updated": "03/27/2018"
 	},
 	{
 		"name": "HEWRI",
@@ -797,7 +798,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/25/2008",
+		"updated": "11/25/2008"
 	},
 	{
 		"name": "HHHUL",
@@ -806,7 +807,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/01/2014",
+		"updated": "04/01/2014"
 	},
 	{
 		"name": "HIATT",
@@ -815,7 +816,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/30/2013",
+		"updated": "07/30/2013"
 	},
 	{
 		"name": "HIBAK",
@@ -824,7 +825,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/20/2009",
+		"updated": "07/20/2009"
 	},
 	{
 		"name": "HIBAT",
@@ -833,7 +834,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/25/2015",
+		"updated": "02/25/2015"
 	},
 	{
 		"name": "HIBEG",
@@ -842,7 +843,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/30/2011",
+		"updated": "01/30/2011"
 	},
 	{
 		"name": "HIBEV",
@@ -851,7 +852,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/29/2014",
+		"updated": "09/29/2014"
 	},
 	{
 		"name": "HIBIB",
@@ -860,7 +861,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/29/2014",
+		"updated": "09/29/2014"
 	},
 	{
 		"name": "HIBKA",
@@ -869,7 +870,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/25/2008",
+		"updated": "11/25/2008"
 	},
 	{
 		"name": "HIBUN",
@@ -878,7 +879,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/16/2010",
+		"updated": "02/16/2010"
 	},
 	{
 		"name": "HIDEM",
@@ -887,7 +888,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2016",
+		"updated": "11/18/2016"
 	},
 	{
 		"name": "HIFBA",
@@ -896,7 +897,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/16/2006",
+		"updated": "08/16/2006"
 	},
 	{
 		"name": "HIGEK",
@@ -905,7 +906,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*012.81/10.61",
+		"updated": "OBK*VOR/DME*012.81/10.61"
 	},
 	{
 		"name": "HIGUH",
@@ -914,7 +915,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/03/2012",
+		"updated": "01/03/2012"
 	},
 	{
 		"name": "HIHRY",
@@ -923,7 +924,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "HIKUW",
@@ -932,7 +933,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/09/2012",
+		"updated": "07/09/2012"
 	},
 	{
 		"name": "HILLS",
@@ -941,7 +942,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CGT*VORTAC*014.67",
+		"updated": "CGT*VORTAC*014.67"
 	},
 	{
 		"name": "HILLZ",
@@ -950,7 +951,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FNO*LD*209.65/6.29",
+		"updated": "FNO*LD*209.65/6.29"
 	},
 	{
 		"name": "HILND",
@@ -959,7 +960,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/20/2013",
+		"updated": "05/20/2013"
 	},
 	{
 		"name": "HILRO",
@@ -968,7 +969,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DLL*VORTAC*284.00/21.20",
+		"updated": "DLL*VORTAC*284.00/21.20"
 	},
 	{
 		"name": "HIMGO",
@@ -977,7 +978,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/24/2015",
+		"updated": "08/24/2015"
 	},
 	{
 		"name": "HIMLI",
@@ -986,7 +987,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/22/2013",
+		"updated": "03/22/2013"
 	},
 	{
 		"name": "HIMLO",
@@ -995,7 +996,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/29/2008",
+		"updated": "07/29/2008"
 	},
 	{
 		"name": "HINCK",
@@ -1004,7 +1005,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*253.00/15.13",
+		"updated": "DPA*VOR/DME*253.00/15.13"
 	},
 	{
 		"name": "HINGI",
@@ -1013,7 +1014,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OKK*VORTAC*349.96/14.10",
+		"updated": "OKK*VORTAC*349.96/14.10"
 	},
 	{
 		"name": "HINSN",
@@ -1022,7 +1023,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/03/2013",
+		"updated": "12/03/2013"
 	},
 	{
 		"name": "HIPOP",
@@ -1031,7 +1032,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/22/2009",
+		"updated": "05/22/2009"
 	},
 	{
 		"name": "HIPUB",
@@ -1040,7 +1041,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/14/2008",
+		"updated": "10/14/2008"
 	},
 	{
 		"name": "HIREX",
@@ -1049,7 +1050,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/28/2011",
+		"updated": "03/28/2011"
 	},
 	{
 		"name": "HIRIL",
@@ -1058,7 +1059,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/22/2013",
+		"updated": "03/22/2013"
 	},
 	{
 		"name": "HIRIR",
@@ -1067,7 +1068,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OSH*VORTAC*164.55/2.00",
+		"updated": "OSH*VORTAC*164.55/2.00"
 	},
 	{
 		"name": "HIRUM",
@@ -1076,7 +1077,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "LNR*VOR/DME*302.97/10.00",
+		"updated": "LNR*VOR/DME*302.97/10.00"
 	},
 	{
 		"name": "HISKO",
@@ -1085,7 +1086,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/22/2009",
+		"updated": "03/22/2009"
 	},
 	{
 		"name": "HISUB",
@@ -1094,7 +1095,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*000.55/35.00",
+		"updated": "BAE*VOR/DME*000.55/35.00"
 	},
 	{
 		"name": "HITAX",
@@ -1103,7 +1104,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/26/2016",
+		"updated": "04/26/2016"
 	},
 	{
 		"name": "HITOB",
@@ -1112,7 +1113,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MDW*LD*317.55/4.09",
+		"updated": "MDW*LD*317.55/4.09"
 	},
 	{
 		"name": "HITOM",
@@ -1121,7 +1122,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/29/2017",
+		"updated": "06/29/2017"
 	},
 	{
 		"name": "HITPO",
@@ -1130,7 +1131,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/05/2018",
+		"updated": "04/05/2018"
 	},
 	{
 		"name": "HITVU",
@@ -1139,7 +1140,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CMI*VORTAC*321.80/6.84",
+		"updated": "CMI*VORTAC*321.80/6.84"
 	},
 	{
 		"name": "HIVAX",
@@ -1148,7 +1149,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CGT*VORTAC*083.90/5.90",
+		"updated": "CGT*VORTAC*083.90/5.90"
 	},
 	{
 		"name": "HIWAY",
@@ -1157,7 +1158,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OLK*VOR*114.44",
+		"updated": "OLK*VOR*114.44"
 	},
 	{
 		"name": "HIXEG",
@@ -1166,7 +1167,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/29/2013",
+		"updated": "07/29/2013"
 	},
 	{
 		"name": "HIXEM",
@@ -1175,7 +1176,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/15/2015",
+		"updated": "07/15/2015"
 	},
 	{
 		"name": "HLMIT",
@@ -1184,7 +1185,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/26/2016",
+		"updated": "05/26/2016"
 	},
 	{
 		"name": "HOBAD",
@@ -1193,7 +1194,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/30/2001",
+		"updated": "10/30/2001"
 	},
 	{
 		"name": "HOBAR",
@@ -1202,7 +1203,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JOT*VOR/DME*087.95/50.00",
+		"updated": "JOT*VOR/DME*087.95/50.00"
 	},
 	{
 		"name": "HOBAX",
@@ -1211,7 +1212,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/27/2009",
+		"updated": "07/27/2009"
 	},
 	{
 		"name": "HOBDI",
@@ -1220,7 +1221,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/27/2009",
+		"updated": "07/27/2009"
 	},
 	{
 		"name": "HOBEL",
@@ -1229,7 +1230,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MXT*LD*137.57/4.23",
+		"updated": "MXT*LD*137.57/4.23"
 	},
 	{
 		"name": "HOBGO",
@@ -1238,7 +1239,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/09/2012",
+		"updated": "07/09/2012"
 	},
 	{
 		"name": "HOBIG",
@@ -1247,7 +1248,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DLL*VORTAC*128.98",
+		"updated": "DLL*VORTAC*128.98"
 	},
 	{
 		"name": "HOBLT",
@@ -1256,7 +1257,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "LOT*LE*269.73/4.46",
+		"updated": "LOT*LE*269.73/4.46"
 	},
 	{
 		"name": "HOBPU",
@@ -1265,7 +1266,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "HODAT",
@@ -1274,7 +1275,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/04/2015",
+		"updated": "11/04/2015"
 	},
 	{
 		"name": "HODRA",
@@ -1283,7 +1284,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/30/2011",
+		"updated": "01/30/2011"
 	},
 	{
 		"name": "HODUG",
@@ -1292,7 +1293,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/24/2018",
+		"updated": "04/24/2018"
 	},
 	{
 		"name": "HOGIE",
@@ -1301,7 +1302,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/05/2011",
+		"updated": "05/05/2011"
 	},
 	{
 		"name": "HOGMI",
@@ -1310,7 +1311,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*113.51",
+		"updated": "BAE*VOR/DME*113.51"
 	},
 	{
 		"name": "HOKIX",
@@ -1319,7 +1320,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/15/2011",
+		"updated": "09/15/2011"
 	},
 	{
 		"name": "HOKUD",
@@ -1328,7 +1329,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2016",
+		"updated": "05/24/2016"
 	},
 	{
 		"name": "HOLLY",
@@ -1337,7 +1338,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ALO*VOR/DME*062.00/10.00",
+		"updated": "ALO*VOR/DME*062.00/10.00"
 	},
 	{
 		"name": "HOMNY",
@@ -1346,7 +1347,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "HOMUT",
@@ -1355,7 +1356,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/04/2015",
+		"updated": "11/04/2015"
 	},
 	{
 		"name": "HONHU",
@@ -1364,7 +1365,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2016",
+		"updated": "05/24/2016"
 	},
 	{
 		"name": "HONPA",
@@ -1373,7 +1374,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/11/2005",
+		"updated": "07/11/2005"
 	},
 	{
 		"name": "HONSE",
@@ -1382,7 +1383,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VIO*VOR/DME*354.58/2.85",
+		"updated": "VIO*VOR/DME*354.58/2.85"
 	},
 	{
 		"name": "HONUR",
@@ -1391,7 +1392,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "HOONS",
@@ -1400,7 +1401,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OLK*VOR*158.45",
+		"updated": "OLK*VOR*158.45"
 	},
 	{
 		"name": "HOPES",
@@ -1409,7 +1410,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/12/2017",
+		"updated": "01/12/2017"
 	},
 	{
 		"name": "HOPIR",
@@ -1418,7 +1419,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/17/2005",
+		"updated": "10/17/2005"
 	},
 	{
 		"name": "HOPSS",
@@ -1427,7 +1428,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "HORAH",
@@ -1436,7 +1437,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/08/2015",
+		"updated": "09/08/2015"
 	},
 	{
 		"name": "HOSAV",
@@ -1445,7 +1446,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/20/2010",
+		"updated": "05/20/2010"
 	},
 	{
 		"name": "HOSEN",
@@ -1454,7 +1455,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "HOSIX",
@@ -1463,7 +1464,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/20/2009",
+		"updated": "01/20/2009"
 	},
 	{
 		"name": "HOSLA",
@@ -1472,7 +1473,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/23/2004",
+		"updated": "09/23/2004"
 	},
 	{
 		"name": "HOSLI",
@@ -1481,7 +1482,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/11/2014",
+		"updated": "03/11/2014"
 	},
 	{
 		"name": "HOSSA",
@@ -1490,7 +1491,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "HOTIR",
@@ -1499,7 +1500,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/18/2011",
+		"updated": "02/18/2011"
 	},
 	{
 		"name": "HOTNA",
@@ -1508,7 +1509,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "11/21/2000",
+		"updated": "11/21/2000"
 	},
 	{
 		"name": "HOTPU",
@@ -1517,7 +1518,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/12/2001",
+		"updated": "04/12/2001"
 	},
 	{
 		"name": "HOTRA",
@@ -1526,7 +1527,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "HOTTS",
@@ -1535,7 +1536,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/27/2018",
+		"updated": "03/27/2018"
 	},
 	{
 		"name": "HOVEP",
@@ -1544,7 +1545,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/06/2003",
+		"updated": "08/06/2003"
 	},
 	{
 		"name": "HOVRA",
@@ -1553,7 +1554,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/25/2014",
+		"updated": "08/25/2014"
 	},
 	{
 		"name": "HOVUB",
@@ -1562,7 +1563,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*056.29",
+		"updated": "DPA*VOR/DME*056.29"
 	},
 	{
 		"name": "HOXON",
@@ -1571,7 +1572,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/16/2007",
+		"updated": "03/16/2007"
 	},
 	{
 		"name": "HOXUR",
@@ -1580,7 +1581,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "HUBAN",
@@ -1589,7 +1590,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/06/2003",
+		"updated": "08/06/2003"
 	},
 	{
 		"name": "HUBLI",
@@ -1598,7 +1599,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/08/2008",
+		"updated": "12/08/2008"
 	},
 	{
 		"name": "HUBOP",
@@ -1607,7 +1608,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OKK*VORTAC*203.51/11.97",
+		"updated": "OKK*VORTAC*203.51/11.97"
 	},
 	{
 		"name": "HUDAK",
@@ -1616,7 +1617,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/27/2009",
+		"updated": "07/27/2009"
 	},
 	{
 		"name": "HUDUM",
@@ -1625,7 +1626,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/18/2016",
+		"updated": "02/18/2016"
 	},
 	{
 		"name": "HUFYE",
@@ -1634,7 +1635,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/23/2007",
+		"updated": "01/23/2007"
 	},
 	{
 		"name": "HUGSU",
@@ -1643,7 +1644,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/09/2013",
+		"updated": "01/09/2013"
 	},
 	{
 		"name": "HUGUD",
@@ -1652,7 +1653,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/22/2008",
+		"updated": "12/22/2008"
 	},
 	{
 		"name": "HUKPO",
@@ -1661,7 +1662,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/09/2013",
+		"updated": "01/09/2013"
 	},
 	{
 		"name": "HUKVU",
@@ -1670,7 +1671,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/31/2017",
+		"updated": "07/31/2017"
 	},
 	{
 		"name": "HULAM",
@@ -1679,7 +1680,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/12/2006",
+		"updated": "01/12/2006"
 	},
 	{
 		"name": "HULIB",
@@ -1688,7 +1689,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/13/2010",
+		"updated": "08/13/2010"
 	},
 	{
 		"name": "HULLS",
@@ -1697,7 +1698,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/30/2008",
+		"updated": "09/30/2008"
 	},
 	{
 		"name": "HULOL",
@@ -1706,7 +1707,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "HULOT",
@@ -1715,7 +1716,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "HULOX",
@@ -1724,7 +1725,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "GMF*LD*253.65/1.56",
+		"updated": "GMF*LD*253.65/1.56"
 	},
 	{
 		"name": "HUMBI",
@@ -1733,7 +1734,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/15/2010",
+		"updated": "02/15/2010"
 	},
 	{
 		"name": "HUMUL",
@@ -1742,7 +1743,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BMI*VOR/DME*338.73",
+		"updated": "BMI*VOR/DME*338.73"
 	},
 	{
 		"name": "HUMVI",
@@ -1751,7 +1752,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2016",
+		"updated": "11/18/2016"
 	},
 	{
 		"name": "HUNKA",
@@ -1760,7 +1761,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "HUNYO",
@@ -1769,7 +1770,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "03/06/1996",
+		"updated": "03/06/1996"
 	},
 	{
 		"name": "HUPAD",
@@ -1778,7 +1779,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CMI*VORTAC*292.32",
+		"updated": "CMI*VORTAC*292.32"
 	},
 	{
 		"name": "HUPED",
@@ -1787,7 +1788,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "MR",
-		"updated": "GUS*VORTAC*041.00",
+		"updated": "GUS*VORTAC*041.00"
 	},
 	{
 		"name": "HURGU",
@@ -1796,7 +1797,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2016",
+		"updated": "11/18/2016"
 	},
 	{
 		"name": "HURST",
@@ -1805,7 +1806,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DLL*VORTAC*317.53/30.00",
+		"updated": "DLL*VORTAC*317.53/30.00"
 	},
 	{
 		"name": "HUSBO",
@@ -1814,7 +1815,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CVA*VORTAC*215.76/4.00",
+		"updated": "CVA*VORTAC*215.76/4.00"
 	},
 	{
 		"name": "HUTGU",
@@ -1823,7 +1824,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/15/2011",
+		"updated": "09/15/2011"
 	},
 	{
 		"name": "HUUNT",
@@ -1832,7 +1833,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/06/2009",
+		"updated": "04/06/2009"
 	},
 	{
 		"name": "HUVED",
@@ -1841,7 +1842,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "HUWFA",
@@ -1850,7 +1851,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2016",
+		"updated": "05/24/2016"
 	},
 	{
 		"name": "HUXID",
@@ -1859,7 +1860,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/24/2011",
+		"updated": "10/24/2011"
 	},
 	{
 		"name": "HUXUR",
@@ -1868,7 +1869,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/27/2009",
+		"updated": "07/27/2009"
 	},
 	{
 		"name": "HUZVU",
@@ -1877,7 +1878,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/27/2012",
+		"updated": "06/27/2012"
 	},
 	{
 		"name": "HYYDE",
@@ -1886,7 +1887,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "HZLET",
@@ -1895,5 +1896,6 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*015.76",
-	},
+		"updated": "DPA*VOR/DME*015.76"
+	}
+]

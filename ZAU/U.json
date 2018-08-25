@@ -1,3 +1,4 @@
+[
 	{
 		"name": "UBEXE",
 		"latitude": "41-55-9.63 N",
@@ -5,7 +6,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/06/2000",
+		"updated": "10/06/2000"
 	},
 	{
 		"name": "UBHIT",
@@ -14,7 +15,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "UBHOD",
@@ -23,7 +24,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/26/2000",
+		"updated": "04/26/2000"
 	},
 	{
 		"name": "UBTEY",
@@ -32,7 +33,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/13/2010",
+		"updated": "08/13/2010"
 	},
 	{
 		"name": "UCILU",
@@ -41,7 +42,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/20/2009",
+		"updated": "01/20/2009"
 	},
 	{
 		"name": "UCJUC",
@@ -50,7 +51,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/06/2000",
+		"updated": "11/06/2000"
 	},
 	{
 		"name": "UCLID",
@@ -59,7 +60,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "UCOCI",
@@ -68,7 +69,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "UCORO",
@@ -77,7 +78,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/04/2007",
+		"updated": "09/04/2007"
 	},
 	{
 		"name": "UCXOR",
@@ -86,7 +87,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/26/2016",
+		"updated": "09/26/2016"
 	},
 	{
 		"name": "UDEKE",
@@ -95,7 +96,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/15/2011",
+		"updated": "09/15/2011"
 	},
 	{
 		"name": "UDIYO",
@@ -104,7 +105,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/22/2008",
+		"updated": "12/22/2008"
 	},
 	{
 		"name": "UDLAQ",
@@ -113,7 +114,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/13/2001",
+		"updated": "12/13/2001"
 	},
 	{
 		"name": "UDOCA",
@@ -122,7 +123,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/20/2009",
+		"updated": "01/20/2009"
 	},
 	{
 		"name": "UDOMY",
@@ -131,7 +132,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/17/2010",
+		"updated": "11/17/2010"
 	},
 	{
 		"name": "UDOYL",
@@ -140,7 +141,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RFD*VOR/DME*190.55",
+		"updated": "RFD*VOR/DME*190.55"
 	},
 	{
 		"name": "UDUPY",
@@ -149,7 +150,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/12/2007",
+		"updated": "12/12/2007"
 	},
 	{
 		"name": "UDZOW",
@@ -158,7 +159,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/12/2000",
+		"updated": "04/12/2000"
 	},
 	{
 		"name": "UECKR",
@@ -167,7 +168,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/01/2014",
+		"updated": "04/01/2014"
 	},
 	{
 		"name": "UFDIM",
@@ -176,7 +177,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/30/2011",
+		"updated": "03/30/2011"
 	},
 	{
 		"name": "UGFAM",
@@ -185,7 +186,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/24/2016",
+		"updated": "06/24/2016"
 	},
 	{
 		"name": "UGGLY",
@@ -194,7 +195,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/24/2015",
+		"updated": "08/24/2015"
 	},
 	{
 		"name": "UGULE",
@@ -203,7 +204,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BRL*VOR/DME*287.58/7.92",
+		"updated": "BRL*VOR/DME*287.58/7.92"
 	},
 	{
 		"name": "UGURE",
@@ -212,7 +213,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "UHCEF",
@@ -221,7 +222,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/05/2013",
+		"updated": "08/05/2013"
 	},
 	{
 		"name": "UHDAX",
@@ -230,7 +231,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/05/2008",
+		"updated": "11/05/2008"
 	},
 	{
 		"name": "UJAVO",
@@ -239,7 +240,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/25/2012",
+		"updated": "04/25/2012"
 	},
 	{
 		"name": "UJBAZ",
@@ -248,7 +249,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/13/2001",
+		"updated": "12/13/2001"
 	},
 	{
 		"name": "UJBEC",
@@ -257,7 +258,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/02/2012",
+		"updated": "04/02/2012"
 	},
 	{
 		"name": "UJEAN",
@@ -266,7 +267,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/25/2016",
+		"updated": "05/25/2016"
 	},
 	{
 		"name": "UJGAR",
@@ -275,7 +276,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2016",
+		"updated": "05/24/2016"
 	},
 	{
 		"name": "UJPUH",
@@ -284,7 +285,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2016",
+		"updated": "05/24/2016"
 	},
 	{
 		"name": "UJUSU",
@@ -293,7 +294,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "UKANE",
@@ -302,7 +303,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/12/2007",
+		"updated": "12/12/2007"
 	},
 	{
 		"name": "UKAYE",
@@ -311,7 +312,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "UKOCI",
@@ -320,7 +321,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "UKRIC",
@@ -329,7 +330,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/04/2010",
+		"updated": "03/04/2010"
 	},
 	{
 		"name": "UKUNE",
@@ -338,7 +339,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*020.75",
+		"updated": "DPA*VOR/DME*020.75"
 	},
 	{
 		"name": "UKXIK",
@@ -347,7 +348,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/31/2017",
+		"updated": "07/31/2017"
 	},
 	{
 		"name": "ULECO",
@@ -356,7 +357,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/03/2012",
+		"updated": "01/03/2012"
 	},
 	{
 		"name": "ULHUV",
@@ -365,7 +366,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/10/2002",
+		"updated": "04/10/2002"
 	},
 	{
 		"name": "UMTAY",
@@ -374,7 +375,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/03/2011",
+		"updated": "08/03/2011"
 	},
 	{
 		"name": "UMUZI",
@@ -383,7 +384,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*027.01",
+		"updated": "DPA*VOR/DME*027.01"
 	},
 	{
 		"name": "UNBAR",
@@ -392,7 +393,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*VORTAC*005.00",
+		"updated": "FWA*VORTAC*005.00"
 	},
 	{
 		"name": "UNFAV",
@@ -401,7 +402,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/31/2016",
+		"updated": "08/31/2016"
 	},
 	{
 		"name": "UNSUN",
@@ -410,7 +411,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VIO*VOR/DME*100.44/18.53",
+		"updated": "VIO*VOR/DME*100.44/18.53"
 	},
 	{
 		"name": "UNUDE",
@@ -419,7 +420,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/20/2006",
+		"updated": "11/20/2006"
 	},
 	{
 		"name": "UNWED",
@@ -428,7 +429,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "UPBEM",
@@ -437,7 +438,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/09/2013",
+		"updated": "07/09/2013"
 	},
 	{
 		"name": "UPECA",
@@ -446,7 +447,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/22/2009",
+		"updated": "09/22/2009"
 	},
 	{
 		"name": "UPGEF",
@@ -455,7 +456,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/26/2013",
+		"updated": "06/26/2013"
 	},
 	{
 		"name": "UPIWE",
@@ -464,7 +465,7 @@
 		"state": "OHIO",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/08/2008",
+		"updated": "12/08/2008"
 	},
 	{
 		"name": "UPJON",
@@ -473,7 +474,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "AZO*VOR/DME*353.16/5.63",
+		"updated": "AZO*VOR/DME*353.16/5.63"
 	},
 	{
 		"name": "UPUKE",
@@ -482,7 +483,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BVT*VORTAC*143.00/5.00",
+		"updated": "BVT*VORTAC*143.00/5.00"
 	},
 	{
 		"name": "UQITY",
@@ -491,7 +492,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/29/2013",
+		"updated": "10/29/2013"
 	},
 	{
 		"name": "UQRIK",
@@ -500,7 +501,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/19/2012",
+		"updated": "01/19/2012"
 	},
 	{
 		"name": "UQXAR",
@@ -509,7 +510,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OKK*VORTAC*204.00/22.02",
+		"updated": "OKK*VORTAC*204.00/22.02"
 	},
 	{
 		"name": "URORE",
@@ -518,7 +519,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/30/2011",
+		"updated": "01/30/2011"
 	},
 	{
 		"name": "URRBS",
@@ -527,7 +528,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/30/2012",
+		"updated": "07/30/2012"
 	},
 	{
 		"name": "USAGE",
@@ -536,7 +537,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*193.48",
+		"updated": "DPA*VOR/DME*193.48"
 	},
 	{
 		"name": "USGUW",
@@ -545,7 +546,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/01/2013",
+		"updated": "08/01/2013"
 	},
 	{
 		"name": "USOCI",
@@ -554,7 +555,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/29/2008",
+		"updated": "07/29/2008"
 	},
 	{
 		"name": "USOYE",
@@ -563,7 +564,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/20/2009",
+		"updated": "01/20/2009"
 	},
 	{
 		"name": "USTIS",
@@ -572,7 +573,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/25/2016",
+		"updated": "05/25/2016"
 	},
 	{
 		"name": "USUTE",
@@ -581,7 +582,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/11/2008",
+		"updated": "06/11/2008"
 	},
 	{
 		"name": "UTKUW",
@@ -590,7 +591,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "UTULY",
@@ -599,7 +600,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "UTXIH",
@@ -608,7 +609,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "IOW*VOR/DME*141.61/27.00",
+		"updated": "IOW*VOR/DME*141.61/27.00"
 	},
 	{
 		"name": "UVOKY",
@@ -617,7 +618,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/26/2012",
+		"updated": "04/26/2012"
 	},
 	{
 		"name": "UVOVE",
@@ -626,7 +627,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/06/2011",
+		"updated": "05/06/2011"
 	},
 	{
 		"name": "UVUCU",
@@ -635,7 +636,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/03/2011",
+		"updated": "08/03/2011"
 	},
 	{
 		"name": "UWEVY",
@@ -644,7 +645,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/16/2002",
+		"updated": "09/16/2002"
 	},
 	{
 		"name": "UWKIC",
@@ -653,7 +654,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "CN",
-		"updated": "04/28/2011",
+		"updated": "04/28/2011"
 	},
 	{
 		"name": "UWPED",
@@ -662,7 +663,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/19/2018",
+		"updated": "04/19/2018"
 	},
 	{
 		"name": "UYAGU",
@@ -671,7 +672,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/05/2013",
+		"updated": "08/05/2013"
 	},
 	{
 		"name": "UYEKU",
@@ -680,7 +681,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/16/2012",
+		"updated": "05/16/2012"
 	},
 	{
 		"name": "UYELO",
@@ -689,7 +690,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/03/2007",
+		"updated": "05/03/2007"
 	},
 	{
 		"name": "UYOLA",
@@ -698,7 +699,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OTM*VOR/DME*304.03/8.85",
+		"updated": "OTM*VOR/DME*304.03/8.85"
 	},
 	{
 		"name": "UYUNA",
@@ -707,7 +708,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/16/2011",
+		"updated": "03/16/2011"
 	},
 	{
 		"name": "UZEPA",
@@ -716,7 +717,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/29/2015",
+		"updated": "01/29/2015"
 	},
 	{
 		"name": "UZSIJ",
@@ -725,5 +726,6 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "IOW*VOR/DME*207.90/27.00",
-	},
+		"updated": "IOW*VOR/DME*207.90/27.00"
+	}
+]

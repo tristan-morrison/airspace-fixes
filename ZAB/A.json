@@ -1,3 +1,4 @@
+[
 	{
 		"name": "ACAGU",
 		"latitude": "36-48-58.34 N",
@@ -5,7 +6,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TBE*VOR/DME*131.62/32.88",
+		"updated": "TBE*VOR/DME*131.62/32.88"
 	},
 	{
 		"name": "ACELI",
@@ -14,7 +15,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/04/2003",
+		"updated": "09/04/2003"
 	},
 	{
 		"name": "ACERO",
@@ -23,7 +24,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/11/2013",
+		"updated": "07/11/2013"
 	},
 	{
 		"name": "ACMIE",
@@ -32,7 +33,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/13/2014",
+		"updated": "03/13/2014"
 	},
 	{
 		"name": "ACOMA",
@@ -41,7 +42,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ONM*VORTAC*305.00",
+		"updated": "ONM*VORTAC*305.00"
 	},
 	{
 		"name": "ACRES",
@@ -50,7 +51,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*137.00/30.00",
+		"updated": "HMN*TACAN*137.00/30.00"
 	},
 	{
 		"name": "ADABY",
@@ -59,7 +60,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "02/15/1996",
+		"updated": "02/15/1996"
 	},
 	{
 		"name": "ADOZO",
@@ -68,7 +69,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CIM*VORTAC*181.47/5.30",
+		"updated": "CIM*VORTAC*181.47/5.30"
 	},
 	{
 		"name": "ADWOT",
@@ -77,7 +78,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/13/2009",
+		"updated": "01/13/2009"
 	},
 	{
 		"name": "ADYAN",
@@ -86,7 +87,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "IWA*VORTAC*055.22/95.00",
+		"updated": "IWA*VORTAC*055.22/95.00"
 	},
 	{
 		"name": "ADYOS",
@@ -95,7 +96,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/18/2012",
+		"updated": "11/18/2012"
 	},
 	{
 		"name": "AEJAY",
@@ -104,7 +105,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "AFXUR",
@@ -113,7 +114,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/12/2009",
+		"updated": "05/12/2009"
 	},
 	{
 		"name": "AGAZY",
@@ -122,7 +123,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PEQ*VOR/DME*229.55",
+		"updated": "PEQ*VOR/DME*229.55"
 	},
 	{
 		"name": "AGERE",
@@ -131,7 +132,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/03/2010",
+		"updated": "09/03/2010"
 	},
 	{
 		"name": "AGGLA",
@@ -140,7 +141,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "AGOPE",
@@ -149,7 +150,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/01/2012",
+		"updated": "04/01/2012"
 	},
 	{
 		"name": "AGUAS",
@@ -158,7 +159,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "EWM*VORTAC*163.87",
+		"updated": "EWM*VORTAC*163.87"
 	},
 	{
 		"name": "AHHIC",
@@ -167,7 +168,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "CN",
-		"updated": "12/21/1999",
+		"updated": "12/21/1999"
 	},
 	{
 		"name": "AHPAZ",
@@ -176,7 +177,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "CN",
-		"updated": "12/21/1999",
+		"updated": "12/21/1999"
 	},
 	{
 		"name": "AKACU",
@@ -185,7 +186,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "OLS*VOR/DME*172.32/4.17",
+		"updated": "OLS*VOR/DME*172.32/4.17"
 	},
 	{
 		"name": "AKADE",
@@ -194,7 +195,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/19/2011",
+		"updated": "12/19/2011"
 	},
 	{
 		"name": "AKASE",
@@ -203,7 +204,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/28/2016",
+		"updated": "11/28/2016"
 	},
 	{
 		"name": "AKIXE",
@@ -212,7 +213,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/16/2010",
+		"updated": "11/16/2010"
 	},
 	{
 		"name": "AKYIV",
@@ -221,7 +222,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/26/2011",
+		"updated": "10/26/2011"
 	},
 	{
 		"name": "ALBNY",
@@ -230,7 +231,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "IWA*VORTAC*121.81/2.45",
+		"updated": "IWA*VORTAC*121.81/2.45"
 	},
 	{
 		"name": "ALEYI",
@@ -239,7 +240,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/28/2003",
+		"updated": "10/28/2003"
 	},
 	{
 		"name": "ALEYS",
@@ -248,7 +249,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*193.92",
+		"updated": "PXR*VORTAC*193.92"
 	},
 	{
 		"name": "ALIBY",
@@ -257,7 +258,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SSO*VORTAC*092.00/78.46",
+		"updated": "SSO*VORTAC*092.00/78.46"
 	},
 	{
 		"name": "ALIEE",
@@ -266,7 +267,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/23/2012",
+		"updated": "04/23/2012"
 	},
 	{
 		"name": "ALKEM",
@@ -275,7 +276,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "09/15/2016",
+		"updated": "09/15/2016"
 	},
 	{
 		"name": "ALLIB",
@@ -284,7 +285,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/02/2017",
+		"updated": "03/02/2017"
 	},
 	{
 		"name": "ALLIS",
@@ -293,7 +294,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "BXK*VORTAC*077.40/10.00",
+		"updated": "BXK*VORTAC*077.40/10.00"
 	},
 	{
 		"name": "ALMON",
@@ -302,7 +303,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TFD*VORTAC*133.00/36.67",
+		"updated": "TFD*VORTAC*133.00/36.67"
 	},
 	{
 		"name": "ALOGE",
@@ -311,7 +312,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "AHA*LD*258.03/3.62",
+		"updated": "AHA*LD*258.03/3.62"
 	},
 	{
 		"name": "ALVRZ",
@@ -320,7 +321,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/13/2014",
+		"updated": "03/13/2014"
 	},
 	{
 		"name": "AMACO",
@@ -329,7 +330,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/29/2010",
+		"updated": "11/29/2010"
 	},
 	{
 		"name": "AMBRR",
@@ -338,7 +339,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "IWA*VORTAC*256.00/35.00",
+		"updated": "IWA*VORTAC*256.00/35.00"
 	},
 	{
 		"name": "AMRRA",
@@ -347,7 +348,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "AMUKI",
@@ -356,7 +357,7 @@
 		"state": "",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "11/15/2007",
+		"updated": "11/15/2007"
 	},
 	{
 		"name": "AMXUK",
@@ -365,7 +366,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/05/2011",
+		"updated": "01/05/2011"
 	},
 	{
 		"name": "ANCHO",
@@ -374,7 +375,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*357.00/45.00",
+		"updated": "HMN*TACAN*357.00/45.00"
 	},
 	{
 		"name": "ANEKE",
@@ -383,7 +384,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/30/2008",
+		"updated": "05/30/2008"
 	},
 	{
 		"name": "ANGRY",
@@ -392,7 +393,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/04/2001",
+		"updated": "09/04/2001"
 	},
 	{
 		"name": "ANIMA",
@@ -401,7 +402,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DMN*VORTAC*233.67/51.08",
+		"updated": "DMN*VORTAC*233.67/51.08"
 	},
 	{
 		"name": "ANJIE",
@@ -410,7 +411,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "ELP*VORTAC*115.00/10.00",
+		"updated": "ELP*VORTAC*115.00/10.00"
 	},
 	{
 		"name": "ANNDD",
@@ -419,7 +420,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/12/2009",
+		"updated": "05/12/2009"
 	},
 	{
 		"name": "ANNES",
@@ -428,7 +429,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CIM*VORTAC*037.00/11.00",
+		"updated": "CIM*VORTAC*037.00/11.00"
 	},
 	{
 		"name": "ANNTI",
@@ -437,7 +438,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "ANZEL",
@@ -446,7 +447,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "APACI",
@@ -455,7 +456,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/17/2007",
+		"updated": "01/17/2007"
 	},
 	{
 		"name": "APEMY",
@@ -464,7 +465,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "APUVE",
@@ -473,7 +474,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/16/2015",
+		"updated": "07/16/2015"
 	},
 	{
 		"name": "AQZED",
@@ -482,7 +483,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "ARABE",
@@ -491,7 +492,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "GUP*VORTAC*190.00/10.00",
+		"updated": "GUP*VORTAC*190.00/10.00"
 	},
 	{
 		"name": "ARERE",
@@ -500,7 +501,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/06/2001",
+		"updated": "04/06/2001"
 	},
 	{
 		"name": "ARJAY",
@@ -509,7 +510,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CVS*TACAN*215.00/20.00",
+		"updated": "CVS*TACAN*215.00/20.00"
 	},
 	{
 		"name": "ARLIN",
@@ -518,7 +519,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "BXK*VORTAC*131.38",
+		"updated": "BXK*VORTAC*131.38"
 	},
 	{
 		"name": "AROYO",
@@ -527,7 +528,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ONM*VORTAC*329.78",
+		"updated": "ONM*VORTAC*329.78"
 	},
 	{
 		"name": "ARRIN",
@@ -536,7 +537,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "ONM*VORTAC*240.00/55.00",
+		"updated": "ONM*VORTAC*240.00/55.00"
 	},
 	{
 		"name": "ARSON",
@@ -545,7 +546,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "BXK*VORTAC*205.00/52.00",
+		"updated": "BXK*VORTAC*205.00/52.00"
 	},
 	{
 		"name": "ARUJU",
@@ -554,7 +555,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/05/2010",
+		"updated": "05/05/2010"
 	},
 	{
 		"name": "ARULY",
@@ -563,7 +564,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*154.52",
+		"updated": "PXR*VORTAC*154.52"
 	},
 	{
 		"name": "ARUZI",
@@ -572,7 +573,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/26/2013",
+		"updated": "03/26/2013"
 	},
 	{
 		"name": "ARVEY",
@@ -581,7 +582,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "OLS*VOR/DME*326.00/18.03",
+		"updated": "OLS*VOR/DME*326.00/18.03"
 	},
 	{
 		"name": "ASIDE",
@@ -590,7 +591,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "ASONE",
@@ -599,7 +600,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*LD*SE CRS/0.49",
+		"updated": "TUS*LD*SE CRS/0.49"
 	},
 	{
 		"name": "ASOYA",
@@ -608,7 +609,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DHT*VORTAC*247.13/48.28",
+		"updated": "DHT*VORTAC*247.13/48.28"
 	},
 	{
 		"name": "ASTAH",
@@ -617,7 +618,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/06/2014",
+		"updated": "03/06/2014"
 	},
 	{
 		"name": "ATEGE",
@@ -626,7 +627,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "LUF*TACAN*315.00/12.00",
+		"updated": "LUF*TACAN*315.00/12.00"
 	},
 	{
 		"name": "ATGIY",
@@ -635,7 +636,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/14/2009",
+		"updated": "07/14/2009"
 	},
 	{
 		"name": "ATKNN",
@@ -644,7 +645,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/14/2014",
+		"updated": "02/14/2014"
 	},
 	{
 		"name": "ATOGE",
@@ -653,7 +654,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/19/2007",
+		"updated": "07/19/2007"
 	},
 	{
 		"name": "ATOMK",
@@ -662,7 +663,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/18/2012",
+		"updated": "11/18/2012"
 	},
 	{
 		"name": "ATUCU",
@@ -671,7 +672,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/04/2003",
+		"updated": "09/04/2003"
 	},
 	{
 		"name": "AUXFL",
@@ -680,7 +681,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/06/2017",
+		"updated": "06/06/2017"
 	},
 	{
 		"name": "AVANS",
@@ -689,7 +690,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "INW*VORTAC*100.59/18.25",
+		"updated": "INW*VORTAC*100.59/18.25"
 	},
 	{
 		"name": "AVENT",
@@ -698,7 +699,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*336.00/15.87",
+		"updated": "PXR*VORTAC*336.00/15.87"
 	},
 	{
 		"name": "AVOME",
@@ -707,7 +708,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/06/2001",
+		"updated": "04/06/2001"
 	},
 	{
 		"name": "AVONA",
@@ -716,7 +717,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*259.87/17.86",
+		"updated": "PXR*VORTAC*259.87/17.86"
 	},
 	{
 		"name": "AWASH",
@@ -725,7 +726,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ABQ*VORTAC*316.00/16.00",
+		"updated": "ABQ*VORTAC*316.00/16.00"
 	},
 	{
 		"name": "AWRES",
@@ -734,7 +735,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CVS*TACAN*/1.11",
+		"updated": "CVS*TACAN*/1.11"
 	},
 	{
 		"name": "AXARY",
@@ -743,7 +744,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DMN*VORTAC*093.57/10.00",
+		"updated": "DMN*VORTAC*093.57/10.00"
 	},
 	{
 		"name": "AXEPE",
@@ -752,7 +753,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CNM*VORTAC*223.50/19.00",
+		"updated": "CNM*VORTAC*223.50/19.00"
 	},
 	{
 		"name": "AXESE",
@@ -761,7 +762,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/16/2010",
+		"updated": "11/16/2010"
 	},
 	{
 		"name": "AXIPE",
@@ -770,7 +771,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/01/2001",
+		"updated": "11/01/2001"
 	},
 	{
 		"name": "AYOPE",
@@ -779,7 +780,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/27/2013",
+		"updated": "06/27/2013"
 	},
 	{
 		"name": "AYUNI",
@@ -788,7 +789,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/21/2004",
+		"updated": "07/21/2004"
 	},
 	{
 		"name": "AZCAF",
@@ -797,7 +798,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/16/2011",
+		"updated": "12/16/2011"
 	},
 	{
 		"name": "AZCRD",
@@ -806,7 +807,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "AZEKE",
@@ -815,7 +816,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "TFD*VORTAC*071.05/19.00",
+		"updated": "TFD*VORTAC*071.05/19.00"
 	},
 	{
 		"name": "AZNUP",
@@ -824,5 +825,6 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/05/2005",
-	},
+		"updated": "04/05/2005"
+	}
+]

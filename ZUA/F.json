@@ -1,3 +1,4 @@
+[
 	{
 		"name": "FABHA",
 		"latitude": "14-2-37.61 N",
@@ -5,7 +6,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UAM*TACAN*051.00/45.00",
+		"updated": "UAM*TACAN*051.00/45.00"
 	},
 	{
 		"name": "FAPAM",
@@ -14,7 +15,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RNAV",
-		"updated": "03/20/2003",
+		"updated": "03/20/2003"
 	},
 	{
 		"name": "FAXEL",
@@ -23,7 +24,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UAM*TACAN*240.00/2.50",
+		"updated": "UAM*TACAN*240.00/2.50"
 	},
 	{
 		"name": "FAYZR",
@@ -32,7 +33,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UNZ*VORTAC*052.55/13.00",
+		"updated": "UNZ*VORTAC*052.55/13.00"
 	},
 	{
 		"name": "FIGOR",
@@ -41,7 +42,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*169.00/9.00",
+		"updated": "UNZ*VORTAC*169.00/9.00"
 	},
 	{
 		"name": "FIPMU",
@@ -50,7 +51,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "SN*NDB*216.24",
+		"updated": "SN*NDB*216.24"
 	},
 	{
 		"name": "FISON",
@@ -59,7 +60,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RNAV",
-		"updated": "03/20/2003",
+		"updated": "03/20/2003"
 	},
 	{
 		"name": "FOLAP",
@@ -68,7 +69,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*239.00/19.00",
+		"updated": "UNZ*VORTAC*239.00/19.00"
 	},
 	{
 		"name": "FOMOD",
@@ -77,5 +78,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UAM*TACAN*246.00/7.00",
-	},
+		"updated": "UAM*TACAN*246.00/7.00"
+	}
+]

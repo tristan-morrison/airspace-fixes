@@ -1,3 +1,4 @@
+[
 	{
 		"name": "VACHI",
 		"latitude": "18-35-28.55 N",
@@ -5,7 +6,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/09/2008",
+		"updated": "04/09/2008"
 	},
 	{
 		"name": "VADUC",
@@ -14,7 +15,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LRP*VOR/DME*269.53/11.00",
+		"updated": "LRP*VOR/DME*269.53/11.00"
 	},
 	{
 		"name": "VAFKU",
@@ -23,7 +24,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ULW*VOR/DME*041.32/30.17",
+		"updated": "ULW*VOR/DME*041.32/30.17"
 	},
 	{
 		"name": "VALID",
@@ -32,7 +33,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HUO*VOR/DME*348.49/8.00",
+		"updated": "HUO*VOR/DME*348.49/8.00"
 	},
 	{
 		"name": "VALLO",
@@ -41,7 +42,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "EWC*VOR/DME*102.47/127.05",
+		"updated": "EWC*VOR/DME*102.47/127.05"
 	},
 	{
 		"name": "VANER",
@@ -50,7 +51,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SBJ*VOR/DME*083.43",
+		"updated": "SBJ*VOR/DME*083.43"
 	},
 	{
 		"name": "VANEY",
@@ -59,7 +60,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "VAYCU",
@@ -68,7 +69,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/28/2010",
+		"updated": "02/28/2010"
 	},
 	{
 		"name": "VAYRE",
@@ -77,7 +78,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "RAV*VORTAC*113.51/7.78",
+		"updated": "RAV*VORTAC*113.51/7.78"
 	},
 	{
 		"name": "VEGAA",
@@ -86,7 +87,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/02/2014",
+		"updated": "06/02/2014"
 	},
 	{
 		"name": "VEHSY",
@@ -95,7 +96,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/17/2008",
+		"updated": "06/17/2008"
 	},
 	{
 		"name": "VERDE",
@@ -104,7 +105,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "JNN*LD*038.83/7.28",
+		"updated": "JNN*LD*038.83/7.28"
 	},
 	{
 		"name": "VERGE",
@@ -113,7 +114,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LGA*VOR/DME*221.00/10.53",
+		"updated": "LGA*VOR/DME*221.00/10.53"
 	},
 	{
 		"name": "VERRU",
@@ -122,7 +123,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/29/2005",
+		"updated": "06/29/2005"
 	},
 	{
 		"name": "VERVI",
@@ -131,7 +132,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/06/2017",
+		"updated": "01/06/2017"
 	},
 	{
 		"name": "VESPE",
@@ -140,7 +141,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "GGT*VORTAC*283.50/12.47",
+		"updated": "GGT*VORTAC*283.50/12.47"
 	},
 	{
 		"name": "VESRA",
@@ -149,7 +150,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/20/2009",
+		"updated": "10/20/2009"
 	},
 	{
 		"name": "VETSY",
@@ -158,7 +159,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/29/2005",
+		"updated": "06/29/2005"
 	},
 	{
 		"name": "VEWOR",
@@ -167,7 +168,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "VIBES",
@@ -176,7 +177,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "FJC*VORTAC*298.28/7.00",
+		"updated": "FJC*VORTAC*298.28/7.00"
 	},
 	{
 		"name": "VIDTU",
@@ -185,7 +186,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/02/2004",
+		"updated": "12/02/2004"
 	},
 	{
 		"name": "VILCU",
@@ -194,7 +195,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ITH*VOR/DME*236.48/10.67",
+		"updated": "ITH*VOR/DME*236.48/10.67"
 	},
 	{
 		"name": "VINGS",
@@ -203,7 +204,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SBJ*VOR/DME*080.24",
+		"updated": "SBJ*VOR/DME*080.24"
 	},
 	{
 		"name": "VINNY",
@@ -212,7 +213,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "BAL*VORTAC*015.00/35.07",
+		"updated": "BAL*VORTAC*015.00/35.07"
 	},
 	{
 		"name": "VINSO",
@@ -221,7 +222,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/11/2008",
+		"updated": "04/11/2008"
 	},
 	{
 		"name": "VIRST",
@@ -230,7 +231,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/15/2016",
+		"updated": "09/15/2016"
 	},
 	{
 		"name": "VISBY",
@@ -239,7 +240,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LRP*VOR/DME*058.76",
+		"updated": "LRP*VOR/DME*058.76"
 	},
 	{
 		"name": "VOKYO",
@@ -248,7 +249,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/19/2009",
+		"updated": "05/19/2009"
 	},
 	{
 		"name": "VOLLU",
@@ -257,7 +258,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*320.00",
+		"updated": "DPK*VOR/DME*320.00"
 	},
 	{
 		"name": "VOYLU",
@@ -266,7 +267,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SAX*VORTAC*208.76/6.33",
+		"updated": "SAX*VORTAC*208.76/6.33"
 	},
 	{
 		"name": "VRNAH",
@@ -275,5 +276,6 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ITH*LS*144.52",
-	},
+		"updated": "ITH*LS*144.52"
+	}
+]

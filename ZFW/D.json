@@ -1,3 +1,4 @@
+[
 	{
 		"name": "DABSE",
 		"latitude": "35-18-23.46 N",
@@ -5,7 +6,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/19/2016",
+		"updated": "04/19/2016"
 	},
 	{
 		"name": "DAJCA",
@@ -14,7 +15,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "WP",
-		"updated": "06/11/2002",
+		"updated": "06/11/2002"
 	},
 	{
 		"name": "DALBY",
@@ -23,7 +24,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/27/2004",
+		"updated": "07/27/2004"
 	},
 	{
 		"name": "DALLN",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "UWX*LD*176.26/7.50",
+		"updated": "UWX*LD*176.26/7.50"
 	},
 	{
 		"name": "DANAY",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/07/2011",
+		"updated": "03/07/2011"
 	},
 	{
 		"name": "DANKS",
@@ -50,7 +51,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "IFI*VORTAC*252.18/65.42",
+		"updated": "IFI*VORTAC*252.18/65.42"
 	},
 	{
 		"name": "DAPCA",
@@ -59,7 +60,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/27/2012",
+		"updated": "07/27/2012"
 	},
 	{
 		"name": "DARRB",
@@ -68,7 +69,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "DARTZ",
@@ -77,7 +78,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TTT*VOR/DME*155.52/36.82",
+		"updated": "TTT*VOR/DME*155.52/36.82"
 	},
 	{
 		"name": "DASTE",
@@ -86,7 +87,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/17/2015",
+		"updated": "02/17/2015"
 	},
 	{
 		"name": "DATGE",
@@ -95,7 +96,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MQP*VORTAC*142.00/13.90",
+		"updated": "MQP*VORTAC*142.00/13.90"
 	},
 	{
 		"name": "DATLE",
@@ -104,7 +105,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "OVW*LD*132.64/5.04",
+		"updated": "OVW*LD*132.64/5.04"
 	},
 	{
 		"name": "DATTA",
@@ -113,7 +114,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "IRW*VORTAC*241.04/33.98",
+		"updated": "IRW*VORTAC*241.04/33.98"
 	},
 	{
 		"name": "DAWGZ",
@@ -122,7 +123,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/13/2014",
+		"updated": "07/13/2014"
 	},
 	{
 		"name": "DAWKS",
@@ -131,7 +132,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/27/2014",
+		"updated": "05/27/2014"
 	},
 	{
 		"name": "DAXPO",
@@ -140,7 +141,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/08/2006",
+		"updated": "06/08/2006"
 	},
 	{
 		"name": "DAYAY",
@@ -149,7 +150,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/23/2018",
+		"updated": "02/23/2018"
 	},
 	{
 		"name": "DAYZZ",
@@ -158,7 +159,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "PKQ*LD*176.26/7.50",
+		"updated": "PKQ*LD*176.26/7.50"
 	},
 	{
 		"name": "DBLSS",
@@ -167,7 +168,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/07/2015",
+		"updated": "05/07/2015"
 	},
 	{
 		"name": "DEBII",
@@ -176,7 +177,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "03/31/2008",
+		"updated": "03/31/2008"
 	},
 	{
 		"name": "DEBKY",
@@ -185,7 +186,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/16/2010",
+		"updated": "05/16/2010"
 	},
 	{
 		"name": "DECAP",
@@ -194,7 +195,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "BYP*VORTAC*064.19/9.06",
+		"updated": "BYP*VORTAC*064.19/9.06"
 	},
 	{
 		"name": "DECKK",
@@ -203,7 +204,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "IRW*VORTAC*143.87",
+		"updated": "IRW*VORTAC*143.87"
 	},
 	{
 		"name": "DECOD",
@@ -212,7 +213,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "BYP*VORTAC*064.19/49.86",
+		"updated": "BYP*VORTAC*064.19/49.86"
 	},
 	{
 		"name": "DECRA",
@@ -221,7 +222,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "BXN*LD*S CRS/4.97",
+		"updated": "BXN*LD*S CRS/4.97"
 	},
 	{
 		"name": "DEDWT",
@@ -230,7 +231,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "DEEEH",
@@ -239,7 +240,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "DEENS",
@@ -248,7 +249,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "PRX*VOR/DME*056.85",
+		"updated": "PRX*VOR/DME*056.85"
 	},
 	{
 		"name": "DEEPS",
@@ -257,7 +258,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/12/2016",
+		"updated": "09/12/2016"
 	},
 	{
 		"name": "DEKEC",
@@ -266,7 +267,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "HOB*VORTAC*035.53/18.00",
+		"updated": "HOB*VORTAC*035.53/18.00"
 	},
 	{
 		"name": "DELMO",
@@ -275,7 +276,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "JEN*VORTAC*037.86/51.85",
+		"updated": "JEN*VORTAC*037.86/51.85"
 	},
 	{
 		"name": "DENIM",
@@ -284,7 +285,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "WP",
-		"updated": "MAF*VORTAC*169.11/14.51",
+		"updated": "MAF*VORTAC*169.11/14.51"
 	},
 	{
 		"name": "DENTS",
@@ -293,7 +294,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/01/2001",
+		"updated": "11/01/2001"
 	},
 	{
 		"name": "DERFF",
@@ -302,7 +303,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/03/2012",
+		"updated": "10/03/2012"
 	},
 	{
 		"name": "DERIC",
@@ -311,7 +312,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MAF*VORTAC*117.02/19.00",
+		"updated": "MAF*VORTAC*117.02/19.00"
 	},
 	{
 		"name": "DERRY",
@@ -320,7 +321,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "WP",
-		"updated": "07/13/1995",
+		"updated": "07/13/1995"
 	},
 	{
 		"name": "DESDE",
@@ -329,7 +330,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MLC*VORTAC*188.10/15.00",
+		"updated": "MLC*VORTAC*188.10/15.00"
 	},
 	{
 		"name": "DESPE",
@@ -338,7 +339,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/11/2007",
+		"updated": "05/11/2007"
 	},
 	{
 		"name": "DEVLN",
@@ -347,7 +348,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "TIK*TACAN*179.00/6.80",
+		"updated": "TIK*TACAN*179.00/6.80"
 	},
 	{
 		"name": "DEWEY",
@@ -356,7 +357,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MAF*VORTAC*102.00/38.00",
+		"updated": "MAF*VORTAC*102.00/38.00"
 	},
 	{
 		"name": "DHART",
@@ -365,7 +366,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "SWB*VOR/DME*006.63/86.30",
+		"updated": "SWB*VOR/DME*006.63/86.30"
 	},
 	{
 		"name": "DHOBI",
@@ -374,7 +375,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "01/23/2017",
+		"updated": "01/23/2017"
 	},
 	{
 		"name": "DICKA",
@@ -383,7 +384,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/30/2012",
+		"updated": "07/30/2012"
 	},
 	{
 		"name": "DICKH",
@@ -392,7 +393,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "PWA*VOR/DME*168.01/5.00",
+		"updated": "PWA*VOR/DME*168.01/5.00"
 	},
 	{
 		"name": "DIDCE",
@@ -401,7 +402,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/24/2012",
+		"updated": "05/24/2012"
 	},
 	{
 		"name": "DIDRE",
@@ -410,7 +411,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/09/2007",
+		"updated": "05/09/2007"
 	},
 	{
 		"name": "DIETZ",
@@ -419,7 +420,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "JEN*VORTAC*045.91",
+		"updated": "JEN*VORTAC*045.91"
 	},
 	{
 		"name": "DIGHT",
@@ -428,7 +429,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/27/2014",
+		"updated": "05/27/2014"
 	},
 	{
 		"name": "DIGSE",
@@ -437,7 +438,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/27/2014",
+		"updated": "05/27/2014"
 	},
 	{
 		"name": "DILBE",
@@ -446,7 +447,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/27/2012",
+		"updated": "07/27/2012"
 	},
 	{
 		"name": "DIMPL",
@@ -455,7 +456,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/27/2014",
+		"updated": "05/27/2014"
 	},
 	{
 		"name": "DIRRK",
@@ -464,7 +465,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "09/13/2016",
+		"updated": "09/13/2016"
 	},
 	{
 		"name": "DITSY",
@@ -473,7 +474,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/08/2016",
+		"updated": "02/08/2016"
 	},
 	{
 		"name": "DIVER",
@@ -482,7 +483,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "LBB*VORTAC*101.80/17.00",
+		"updated": "LBB*VORTAC*101.80/17.00"
 	},
 	{
 		"name": "DIVEY",
@@ -491,7 +492,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/12/2005",
+		"updated": "08/12/2005"
 	},
 	{
 		"name": "DIVVR",
@@ -500,7 +501,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "RRA*LD*SE CRS/6.99",
+		"updated": "RRA*LD*SE CRS/6.99"
 	},
 	{
 		"name": "DIYES",
@@ -509,7 +510,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/26/2007",
+		"updated": "12/26/2007"
 	},
 	{
 		"name": "DMKNU",
@@ -518,7 +519,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "CN",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "DNBRB",
@@ -527,7 +528,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "CN",
-		"updated": "07/08/2011",
+		"updated": "07/08/2011"
 	},
 	{
 		"name": "DNBVB",
@@ -536,7 +537,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "CN",
-		"updated": "03/28/2011",
+		"updated": "03/28/2011"
 	},
 	{
 		"name": "DNGSB",
@@ -545,7 +546,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "CN",
-		"updated": "07/08/2011",
+		"updated": "07/08/2011"
 	},
 	{
 		"name": "DOBKE",
@@ -554,7 +555,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "LTS*VORTAC*113.00/6.00",
+		"updated": "LTS*VORTAC*113.00/6.00"
 	},
 	{
 		"name": "DOBYE",
@@ -563,7 +564,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MLU*VORTAC*026.00/6.00",
+		"updated": "MLU*VORTAC*026.00/6.00"
 	},
 	{
 		"name": "DOCAV",
@@ -572,7 +573,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/29/2004",
+		"updated": "06/29/2004"
 	},
 	{
 		"name": "DOCEK",
@@ -581,7 +582,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "BYP*VORTAC*156.77/28.75",
+		"updated": "BYP*VORTAC*156.77/28.75"
 	},
 	{
 		"name": "DOCKK",
@@ -590,7 +591,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "12/17/2015",
+		"updated": "12/17/2015"
 	},
 	{
 		"name": "DOCTA",
@@ -599,7 +600,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "11/08/2017",
+		"updated": "11/08/2017"
 	},
 	{
 		"name": "DODBE",
@@ -608,7 +609,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ELD*VOR/DME*339.79/11.00",
+		"updated": "ELD*VOR/DME*339.79/11.00"
 	},
 	{
 		"name": "DODDY",
@@ -617,7 +618,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MWP*LE*238.90/6.01",
+		"updated": "MWP*LE*238.90/6.01"
 	},
 	{
 		"name": "DODJE",
@@ -626,7 +627,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "FUZ*VORTAC*134.00/47.20",
+		"updated": "FUZ*VORTAC*134.00/47.20"
 	},
 	{
 		"name": "DOGGE",
@@ -635,7 +636,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXK*VORTAC*200.79/18.37",
+		"updated": "TXK*VORTAC*200.79/18.37"
 	},
 	{
 		"name": "DOJED",
@@ -644,7 +645,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/28/2014",
+		"updated": "07/28/2014"
 	},
 	{
 		"name": "DOLEY",
@@ -653,7 +654,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ACT*VORTAC*045.83/55.08",
+		"updated": "ACT*VORTAC*045.83/55.08"
 	},
 	{
 		"name": "DOMCO",
@@ -662,7 +663,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "MLC*VORTAC*188.10/20.00",
+		"updated": "MLC*VORTAC*188.10/20.00"
 	},
 	{
 		"name": "DOMLE",
@@ -671,7 +672,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "02/14/2010",
+		"updated": "02/14/2010"
 	},
 	{
 		"name": "DOMPE",
@@ -680,7 +681,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MR",
-		"updated": "MQP*VORTAC*078.58/28.14",
+		"updated": "MQP*VORTAC*078.58/28.14"
 	},
 	{
 		"name": "DONAW",
@@ -689,7 +690,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "DONIE",
@@ -698,7 +699,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "FUZ*VORTAC*129.36/106.27",
+		"updated": "FUZ*VORTAC*129.36/106.27"
 	},
 	{
 		"name": "DONMO",
@@ -707,7 +708,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/16/2014",
+		"updated": "06/16/2014"
 	},
 	{
 		"name": "DOPEY",
@@ -716,7 +717,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "SPS*VORTAC*114.77/39.00",
+		"updated": "SPS*VORTAC*114.77/39.00"
 	},
 	{
 		"name": "DOPME",
@@ -725,7 +726,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/07/2010",
+		"updated": "04/07/2010"
 	},
 	{
 		"name": "DOSXX",
@@ -734,7 +735,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/07/2014",
+		"updated": "07/07/2014"
 	},
 	{
 		"name": "DOZME",
@@ -743,7 +744,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "WP",
-		"updated": "07/26/1995",
+		"updated": "07/26/1995"
 	},
 	{
 		"name": "DRAAK",
@@ -752,7 +753,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "PPZ*LD*356.27/16.41",
+		"updated": "PPZ*LD*356.27/16.41"
 	},
 	{
 		"name": "DRANE",
@@ -761,7 +762,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ELD*VOR/DME*229.00/14.00",
+		"updated": "ELD*VOR/DME*229.00/14.00"
 	},
 	{
 		"name": "DRBOB",
@@ -770,7 +771,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "08/28/2000",
+		"updated": "08/28/2000"
 	},
 	{
 		"name": "DRILL",
@@ -779,7 +780,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ACT*VORTAC*050.44/28.00",
+		"updated": "ACT*VORTAC*050.44/28.00"
 	},
 	{
 		"name": "DRRTH",
@@ -788,7 +789,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/14/2014",
+		"updated": "07/14/2014"
 	},
 	{
 		"name": "DRSET",
@@ -797,7 +798,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/07/2014",
+		"updated": "07/07/2014"
 	},
 	{
 		"name": "DRYYE",
@@ -806,7 +807,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/07/2014",
+		"updated": "07/07/2014"
 	},
 	{
 		"name": "DSHRT",
@@ -815,7 +816,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "INK*VORTAC*150.46/3.89",
+		"updated": "INK*VORTAC*150.46/3.89"
 	},
 	{
 		"name": "DUBBE",
@@ -824,7 +825,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "06/16/2014",
+		"updated": "06/16/2014"
 	},
 	{
 		"name": "DUBOW",
@@ -833,7 +834,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXK*VORTAC*156.31/16.49",
+		"updated": "TXK*VORTAC*156.31/16.49"
 	},
 	{
 		"name": "DUCAG",
@@ -842,7 +843,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "UIM*VOR/DME*191.91/20.58",
+		"updated": "UIM*VOR/DME*191.91/20.58"
 	},
 	{
 		"name": "DUCAL",
@@ -851,7 +852,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/21/2004",
+		"updated": "07/21/2004"
 	},
 	{
 		"name": "DUFFA",
@@ -860,7 +861,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "ACT*VORTAC*288.26",
+		"updated": "ACT*VORTAC*288.26"
 	},
 	{
 		"name": "DUKLE",
@@ -869,7 +870,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "MW",
-		"updated": "08/24/2011",
+		"updated": "08/24/2011"
 	},
 	{
 		"name": "DULSE",
@@ -878,7 +879,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "05/31/2006",
+		"updated": "05/31/2006"
 	},
 	{
 		"name": "DUMMO",
@@ -887,7 +888,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "BGS*VORTAC*180.26/6.00",
+		"updated": "BGS*VORTAC*180.26/6.00"
 	},
 	{
 		"name": "DUMPS",
@@ -896,7 +897,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "SPS*VORTAC*254.33/106.87",
+		"updated": "SPS*VORTAC*254.33/106.87"
 	},
 	{
 		"name": "DUMPY",
@@ -905,7 +906,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "CVE*VOR/DME*118.00/24.36",
+		"updated": "CVE*VOR/DME*118.00/24.36"
 	},
 	{
 		"name": "DUREQ",
@@ -914,7 +915,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/30/2012",
+		"updated": "07/30/2012"
 	},
 	{
 		"name": "DUSME",
@@ -923,7 +924,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "10/20/2005",
+		"updated": "10/20/2005"
 	},
 	{
 		"name": "DUYAD",
@@ -932,7 +933,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "04/12/2005",
+		"updated": "04/12/2005"
 	},
 	{
 		"name": "DUZEE",
@@ -941,7 +942,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "TXO*VORTAC*147.00/12.00",
+		"updated": "TXO*VORTAC*147.00/12.00"
 	},
 	{
 		"name": "DWINE",
@@ -950,7 +951,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "IRW*VORTAC*090.11/69.02",
+		"updated": "IRW*VORTAC*090.11/69.02"
 	},
 	{
 		"name": "DWNTN",
@@ -959,7 +960,7 @@
 		"state": "TEXAS",
 		"artcc": "ZFW",
 		"type": "RNAV",
-		"updated": "07/13/2014",
+		"updated": "07/13/2014"
 	},
 	{
 		"name": "DYETT",
@@ -968,5 +969,6 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZFW",
 		"type": "RP",
-		"updated": "INK*VORTAC*330.99",
-	},
+		"updated": "INK*VORTAC*330.99"
+	}
+]

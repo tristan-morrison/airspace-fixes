@@ -1,3 +1,4 @@
+[
 	{
 		"name": "UBOLE",
 		"latitude": "38-43-20.58 N",
@@ -5,7 +6,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "ADW*VORTAC*125.00/12.00",
+		"updated": "ADW*VORTAC*125.00/12.00"
 	},
 	{
 		"name": "UBWAY",
@@ -14,7 +15,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "UCELU",
@@ -23,7 +24,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/29/2015",
+		"updated": "01/29/2015"
 	},
 	{
 		"name": "UCGEL",
@@ -32,7 +33,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "CCV*VORTAC*051.69/10.59",
+		"updated": "CCV*VORTAC*051.69/10.59"
 	},
 	{
 		"name": "UCINE",
@@ -41,7 +42,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "OTT*VORTAC*184.00/67.58",
+		"updated": "OTT*VORTAC*184.00/67.58"
 	},
 	{
 		"name": "UCORE",
@@ -50,7 +51,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "12/02/2008",
+		"updated": "12/02/2008"
 	},
 	{
 		"name": "UCPIP",
@@ -59,7 +60,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "UCREK",
@@ -68,7 +69,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/19/2013",
+		"updated": "08/19/2013"
 	},
 	{
 		"name": "UDADE",
@@ -77,7 +78,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/11/2014",
+		"updated": "06/11/2014"
 	},
 	{
 		"name": "UDAKY",
@@ -86,7 +87,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/23/2001",
+		"updated": "03/23/2001"
 	},
 	{
 		"name": "UDEYO",
@@ -95,7 +96,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/13/2008",
+		"updated": "08/13/2008"
 	},
 	{
 		"name": "UDINY",
@@ -104,7 +105,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/24/2011",
+		"updated": "06/24/2011"
 	},
 	{
 		"name": "UDIYU",
@@ -113,7 +114,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "CSN*VORTAC*037.35/26.15",
+		"updated": "CSN*VORTAC*037.35/26.15"
 	},
 	{
 		"name": "UDNEW",
@@ -122,7 +123,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/10/2004",
+		"updated": "08/10/2004"
 	},
 	{
 		"name": "UDUCY",
@@ -131,7 +132,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MW",
-		"updated": "04/26/2010",
+		"updated": "04/26/2010"
 	},
 	{
 		"name": "UDUDE",
@@ -140,7 +141,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "BRV*VORTAC*030.34",
+		"updated": "BRV*VORTAC*030.34"
 	},
 	{
 		"name": "UDUNE",
@@ -149,7 +150,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/05/2009",
+		"updated": "11/05/2009"
 	},
 	{
 		"name": "UFACA",
@@ -158,7 +159,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/30/2001",
+		"updated": "01/30/2001"
 	},
 	{
 		"name": "UFAKY",
@@ -167,7 +168,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/24/2001",
+		"updated": "08/24/2001"
 	},
 	{
 		"name": "UFATU",
@@ -176,7 +177,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/10/2007",
+		"updated": "05/10/2007"
 	},
 	{
 		"name": "UFEMI",
@@ -185,7 +186,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/04/2015",
+		"updated": "03/04/2015"
 	},
 	{
 		"name": "UFERI",
@@ -194,7 +195,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/16/2013",
+		"updated": "08/16/2013"
 	},
 	{
 		"name": "UFEYA",
@@ -203,7 +204,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/17/2011",
+		"updated": "11/17/2011"
 	},
 	{
 		"name": "UFFIN",
@@ -212,7 +213,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "SBV*VORTAC*251.56/24.28",
+		"updated": "SBV*VORTAC*251.56/24.28"
 	},
 	{
 		"name": "UFISA",
@@ -221,7 +222,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "OAJ*LD*232.39/18.93",
+		"updated": "OAJ*LD*232.39/18.93"
 	},
 	{
 		"name": "UHAWO",
@@ -230,7 +231,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/28/2017",
+		"updated": "04/28/2017"
 	},
 	{
 		"name": "UHBEK",
@@ -239,7 +240,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "CN",
-		"updated": "03/11/2011",
+		"updated": "03/11/2011"
 	},
 	{
 		"name": "UHHOZ",
@@ -248,7 +249,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "11/03/2009",
+		"updated": "11/03/2009"
 	},
 	{
 		"name": "UHIRO",
@@ -257,7 +258,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/16/2014",
+		"updated": "04/16/2014"
 	},
 	{
 		"name": "UHOZO",
@@ -266,7 +267,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/16/2017",
+		"updated": "08/16/2017"
 	},
 	{
 		"name": "UHULU",
@@ -275,7 +276,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/16/2017",
+		"updated": "08/16/2017"
 	},
 	{
 		"name": "UJEFO",
@@ -284,7 +285,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "PUT*VOR/DME*169.58",
+		"updated": "PUT*VOR/DME*169.58"
 	},
 	{
 		"name": "UJORO",
@@ -293,7 +294,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/27/2013",
+		"updated": "09/27/2013"
 	},
 	{
 		"name": "UKAME",
@@ -302,7 +303,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/06/2013",
+		"updated": "03/06/2013"
 	},
 	{
 		"name": "UKAMY",
@@ -311,7 +312,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ECG*VOR/DME*250.00/19.81",
+		"updated": "ECG*VOR/DME*250.00/19.81"
 	},
 	{
 		"name": "UKIEY",
@@ -320,7 +321,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ENO*VORTAC*330.54/12.18",
+		"updated": "ENO*VORTAC*330.54/12.18"
 	},
 	{
 		"name": "ULAKE",
@@ -329,7 +330,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "DAN*VOR*262.06",
+		"updated": "DAN*VOR*262.06"
 	},
 	{
 		"name": "ULVAQ",
@@ -338,7 +339,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "UMABY",
@@ -347,7 +348,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/19/2011",
+		"updated": "07/19/2011"
 	},
 	{
 		"name": "UNBLE",
@@ -356,7 +357,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "UNCUT",
@@ -365,7 +366,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "10/30/2013",
+		"updated": "10/30/2013"
 	},
 	{
 		"name": "UNNAC",
@@ -374,7 +375,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "CCV*VORTAC*323.00/36.01",
+		"updated": "CCV*VORTAC*323.00/36.01"
 	},
 	{
 		"name": "UPBID",
@@ -383,7 +384,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/23/2011",
+		"updated": "05/23/2011"
 	},
 	{
 		"name": "UQOMY",
@@ -392,7 +393,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/19/2011",
+		"updated": "07/19/2011"
 	},
 	{
 		"name": "UQYOP",
@@ -401,7 +402,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "CN",
-		"updated": "06/07/2011",
+		"updated": "06/07/2011"
 	},
 	{
 		"name": "URESY",
@@ -410,7 +411,7 @@
 		"state": "DELAWARE",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/25/2017",
+		"updated": "08/25/2017"
 	},
 	{
 		"name": "URRIE",
@@ -419,7 +420,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ISO*VORTAC*212.26",
+		"updated": "ISO*VORTAC*212.26"
 	},
 	{
 		"name": "USAAY",
@@ -428,7 +429,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "USHEE",
@@ -437,7 +438,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "02/13/2017",
+		"updated": "02/13/2017"
 	},
 	{
 		"name": "USSEL",
@@ -446,7 +447,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "LYH*VORTAC*127.99/7.49",
+		"updated": "LYH*VORTAC*127.99/7.49"
 	},
 	{
 		"name": "USTIN",
@@ -455,7 +456,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "ENO*VORTAC*326.01",
+		"updated": "ENO*VORTAC*326.01"
 	},
 	{
 		"name": "USUYA",
@@ -464,7 +465,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NHK*TACAN*122.00/12.00",
+		"updated": "NHK*TACAN*122.00/12.00"
 	},
 	{
 		"name": "UTECU",
@@ -473,7 +474,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/20/2012",
+		"updated": "04/20/2012"
 	},
 	{
 		"name": "UWOGI",
@@ -482,7 +483,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "09/06/2007",
+		"updated": "09/06/2007"
 	},
 	{
 		"name": "UXEWE",
@@ -491,7 +492,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "SBV*VORTAC*202.89/21.00",
+		"updated": "SBV*VORTAC*202.89/21.00"
 	},
 	{
 		"name": "UXUXY",
@@ -500,7 +501,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "05/01/2017",
+		"updated": "05/01/2017"
 	},
 	{
 		"name": "UYATE",
@@ -509,7 +510,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "04/11/2018",
+		"updated": "04/11/2018"
 	},
 	{
 		"name": "UYEGI",
@@ -518,7 +519,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "NCA*TACAN*201.00/6.50",
+		"updated": "NCA*TACAN*201.00/6.50"
 	},
 	{
 		"name": "UZJOX",
@@ -527,5 +528,6 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "06/20/2011",
-	},
+		"updated": "06/20/2011"
+	}
+]

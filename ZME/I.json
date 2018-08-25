@@ -1,3 +1,4 @@
+[
 	{
 		"name": "IBCUM",
 		"latitude": "35-45-9.82 N",
@@ -5,7 +6,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/18/2008",
+		"updated": "06/18/2008"
 	},
 	{
 		"name": "IBEFY",
@@ -14,7 +15,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/17/2013",
+		"updated": "05/17/2013"
 	},
 	{
 		"name": "IBETE",
@@ -23,7 +24,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/09/2007",
+		"updated": "07/09/2007"
 	},
 	{
 		"name": "IBIYA",
@@ -32,7 +33,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/08/2014",
+		"updated": "10/08/2014"
 	},
 	{
 		"name": "IBRAQ",
@@ -41,7 +42,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/03/2013",
+		"updated": "11/03/2013"
 	},
 	{
 		"name": "IBUFY",
@@ -50,7 +51,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/30/2013",
+		"updated": "09/30/2013"
 	},
 	{
 		"name": "IBUXE",
@@ -59,7 +60,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/07/2006",
+		"updated": "08/07/2006"
 	},
 	{
 		"name": "IBUYU",
@@ -68,7 +69,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "ICABA",
@@ -77,7 +78,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/02/2011",
+		"updated": "11/02/2011"
 	},
 	{
 		"name": "ICAVY",
@@ -86,7 +87,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "OTB*VOR/DME*358.25",
+		"updated": "OTB*VOR/DME*358.25"
 	},
 	{
 		"name": "ICJIX",
@@ -95,7 +96,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MAW*VORTAC*198.09/25.29",
+		"updated": "MAW*VORTAC*198.09/25.29"
 	},
 	{
 		"name": "ICXAV",
@@ -104,7 +105,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/02/2001",
+		"updated": "07/02/2001"
 	},
 	{
 		"name": "IDADE",
@@ -113,7 +114,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/03/2014",
+		"updated": "06/03/2014"
 	},
 	{
 		"name": "IDAGE",
@@ -122,7 +123,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/17/2002",
+		"updated": "04/17/2002"
 	},
 	{
 		"name": "IDASE",
@@ -131,7 +132,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "IDEYA",
@@ -140,7 +141,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "IDICO",
@@ -149,7 +150,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/30/2013",
+		"updated": "04/30/2013"
 	},
 	{
 		"name": "IDIRE",
@@ -158,7 +159,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/02/2016",
+		"updated": "11/02/2016"
 	},
 	{
 		"name": "IDIVE",
@@ -167,7 +168,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/29/2002",
+		"updated": "01/29/2002"
 	},
 	{
 		"name": "IDOBE",
@@ -176,7 +177,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "IDOMY",
@@ -185,7 +186,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/19/2012",
+		"updated": "10/19/2012"
 	},
 	{
 		"name": "IGIHI",
@@ -194,7 +195,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MHZ*VORTAC*/8.00",
+		"updated": "MHZ*VORTAC*/8.00"
 	},
 	{
 		"name": "IGLOO",
@@ -203,7 +204,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LIT*VORTAC*012.58/71.74",
+		"updated": "LIT*VORTAC*012.58/71.74"
 	},
 	{
 		"name": "IHAVE",
@@ -212,7 +213,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2016",
+		"updated": "07/25/2016"
 	},
 	{
 		"name": "IHRUH",
@@ -221,7 +222,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GLH*VOR/DME*255.67",
+		"updated": "GLH*VOR/DME*255.67"
 	},
 	{
 		"name": "IHSAB",
@@ -230,7 +231,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "09/12/2002",
+		"updated": "09/12/2002"
 	},
 	{
 		"name": "IHTEM",
@@ -239,7 +240,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/17/2008",
+		"updated": "06/17/2008"
 	},
 	{
 		"name": "IJAPU",
@@ -248,7 +249,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/02/2009",
+		"updated": "11/02/2009"
 	},
 	{
 		"name": "IJOFU",
@@ -257,7 +258,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/28/2010",
+		"updated": "03/28/2010"
 	},
 	{
 		"name": "IJUFO",
@@ -266,7 +267,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "CNG*VOR/DME*136.70/7.90",
+		"updated": "CNG*VOR/DME*136.70/7.90"
 	},
 	{
 		"name": "IJVOB",
@@ -275,7 +276,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "IKGEV",
@@ -284,7 +285,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/13/2017",
+		"updated": "01/13/2017"
 	},
 	{
 		"name": "ILAKE",
@@ -293,7 +294,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/21/2003",
+		"updated": "05/21/2003"
 	},
 	{
 		"name": "ILEND",
@@ -302,7 +303,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "LRF*TACAN*261.00/20.00",
+		"updated": "LRF*TACAN*261.00/20.00"
 	},
 	{
 		"name": "ILOSE",
@@ -311,7 +312,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/03/2009",
+		"updated": "09/03/2009"
 	},
 	{
 		"name": "ILOYA",
@@ -320,7 +321,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "11/16/2016",
+		"updated": "11/16/2016"
 	},
 	{
 		"name": "IMABE",
@@ -329,7 +330,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/30/2013",
+		"updated": "09/30/2013"
 	},
 	{
 		"name": "IMOXY",
@@ -338,7 +339,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/19/2011",
+		"updated": "08/19/2011"
 	},
 	{
 		"name": "IMOYO",
@@ -347,7 +348,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/23/2009",
+		"updated": "02/23/2009"
 	},
 	{
 		"name": "IMUDE",
@@ -356,7 +357,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/17/2009",
+		"updated": "12/17/2009"
 	},
 	{
 		"name": "IMURE",
@@ -365,7 +366,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/01/2010",
+		"updated": "11/01/2010"
 	},
 	{
 		"name": "INAYO",
@@ -374,7 +375,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/30/2013",
+		"updated": "09/30/2013"
 	},
 	{
 		"name": "INGOT",
@@ -383,7 +384,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/02/2016",
+		"updated": "11/02/2016"
 	},
 	{
 		"name": "INICA",
@@ -392,7 +393,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*307.51/22.83",
+		"updated": "BNA*VORTAC*307.51/22.83"
 	},
 	{
 		"name": "INNAM",
@@ -401,7 +402,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HRO*VOR/DME*091.82/36.53",
+		"updated": "HRO*VOR/DME*091.82/36.53"
 	},
 	{
 		"name": "INOTE",
@@ -410,7 +411,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RZC*VORTAC*220.66/15.00",
+		"updated": "RZC*VORTAC*220.66/15.00"
 	},
 	{
 		"name": "INOVE",
@@ -419,7 +420,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "IGB*VORTAC*106.00/18.00",
+		"updated": "IGB*VORTAC*106.00/18.00"
 	},
 	{
 		"name": "IPEPE",
@@ -428,7 +429,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*052.37",
+		"updated": "MEM*VORTAC*052.37"
 	},
 	{
 		"name": "IPUDE",
@@ -437,7 +438,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "04/28/2008",
+		"updated": "04/28/2008"
 	},
 	{
 		"name": "IRIXE",
@@ -446,7 +447,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/03/2016",
+		"updated": "05/03/2016"
 	},
 	{
 		"name": "IRJEX",
@@ -455,7 +456,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/22/2001",
+		"updated": "08/22/2001"
 	},
 	{
 		"name": "IRURE",
@@ -464,7 +465,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/11/2003",
+		"updated": "06/11/2003"
 	},
 	{
 		"name": "ISUKY",
@@ -473,7 +474,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "CNG*VOR/DME*041.48/20.57",
+		"updated": "CNG*VOR/DME*041.48/20.57"
 	},
 	{
 		"name": "ISVIF",
@@ -482,7 +483,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/09/2001",
+		"updated": "01/09/2001"
 	},
 	{
 		"name": "ITFAP",
@@ -491,7 +492,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/16/2001",
+		"updated": "01/16/2001"
 	},
 	{
 		"name": "ITIYO",
@@ -500,7 +501,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/04/2007",
+		"updated": "01/04/2007"
 	},
 	{
 		"name": "ITIYU",
@@ -509,7 +510,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "12/10/2015",
+		"updated": "12/10/2015"
 	},
 	{
 		"name": "ITOXE",
@@ -518,7 +519,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/17/2009",
+		"updated": "12/17/2009"
 	},
 	{
 		"name": "ITUSE",
@@ -527,7 +528,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*137.00/6.00",
+		"updated": "CBM*VORTAC*137.00/6.00"
 	},
 	{
 		"name": "ITVOW",
@@ -536,7 +537,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/09/2014",
+		"updated": "09/09/2014"
 	},
 	{
 		"name": "ITYOJ",
@@ -545,7 +546,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/18/2017",
+		"updated": "08/18/2017"
 	},
 	{
 		"name": "ITZEB",
@@ -554,7 +555,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "IVOYI",
@@ -563,7 +564,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LFH*DD*S CRS/0.29",
+		"updated": "LFH*DD*S CRS/0.29"
 	},
 	{
 		"name": "IVQUC",
@@ -572,7 +573,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MON*VOR/DME*119.00/23.78",
+		"updated": "MON*VOR/DME*119.00/23.78"
 	},
 	{
 		"name": "IVUDE",
@@ -581,7 +582,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "IVWEL",
@@ -590,7 +591,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "01/30/2001",
+		"updated": "01/30/2001"
 	},
 	{
 		"name": "IVZOB",
@@ -599,7 +600,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/06/2013",
+		"updated": "09/06/2013"
 	},
 	{
 		"name": "IWFIM",
@@ -608,7 +609,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "01/30/2001",
+		"updated": "01/30/2001"
 	},
 	{
 		"name": "IWNOP",
@@ -617,7 +618,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/27/2018",
+		"updated": "04/27/2018"
 	},
 	{
 		"name": "IWPAB",
@@ -626,7 +627,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/27/2018",
+		"updated": "04/27/2018"
 	},
 	{
 		"name": "IXASY",
@@ -635,7 +636,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "FSM*VORTAC*/17.01",
+		"updated": "FSM*VORTAC*/17.01"
 	},
 	{
 		"name": "IXBER",
@@ -644,7 +645,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/06/2013",
+		"updated": "06/06/2013"
 	},
 	{
 		"name": "IXDIL",
@@ -653,7 +654,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GLH*VOR/DME*269.80/9.82",
+		"updated": "GLH*VOR/DME*269.80/9.82"
 	},
 	{
 		"name": "IXEYA",
@@ -662,7 +663,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "FSM*VORTAC*125.75/8.00",
+		"updated": "FSM*VORTAC*125.75/8.00"
 	},
 	{
 		"name": "IXGAK",
@@ -671,7 +672,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "IXMIX",
@@ -680,7 +681,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/15/2010",
+		"updated": "06/15/2010"
 	},
 	{
 		"name": "IXNEL",
@@ -689,7 +690,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "FSM*VORTAC*359.07/8.00",
+		"updated": "FSM*VORTAC*359.07/8.00"
 	},
 	{
 		"name": "IXPUK",
@@ -698,7 +699,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "IXUFO",
@@ -707,7 +708,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "IXUSY",
@@ -716,7 +717,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "PGO*VORTAC*354.49/13.50",
+		"updated": "PGO*VORTAC*354.49/13.50"
 	},
 	{
 		"name": "IXXEW",
@@ -725,7 +726,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/04/2014",
+		"updated": "02/04/2014"
 	},
 	{
 		"name": "IXYIS",
@@ -734,7 +735,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "IYACY",
@@ -743,7 +744,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "IYASO",
@@ -752,7 +753,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/28/2007",
+		"updated": "12/28/2007"
 	},
 	{
 		"name": "IYHUW",
@@ -761,7 +762,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/01/2010",
+		"updated": "11/01/2010"
 	},
 	{
 		"name": "IYIGO",
@@ -770,7 +771,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/22/2013",
+		"updated": "04/22/2013"
 	},
 	{
 		"name": "IYJOR",
@@ -779,7 +780,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "IYOGO",
@@ -788,7 +789,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "IYTEL",
@@ -797,7 +798,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "PBF*VOR/DME*128.33/8.00",
+		"updated": "PBF*VOR/DME*128.33/8.00"
 	},
 	{
 		"name": "IYUCI",
@@ -806,7 +807,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "IYUGU",
@@ -815,7 +816,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/25/2008",
+		"updated": "03/25/2008"
 	},
 	{
 		"name": "IYUNE",
@@ -824,7 +825,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "PBF*VOR/DME*244.34/8.00",
+		"updated": "PBF*VOR/DME*244.34/8.00"
 	},
 	{
 		"name": "IYXAV",
@@ -833,7 +834,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "IYXIH",
@@ -842,7 +843,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "02/06/2012",
+		"updated": "02/06/2012"
 	},
 	{
 		"name": "IZELU",
@@ -851,7 +852,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/03/2009",
+		"updated": "09/03/2009"
 	},
 	{
 		"name": "IZOVU",
@@ -860,7 +861,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/28/2010",
+		"updated": "03/28/2010"
 	},
 	{
 		"name": "IZPUF",
@@ -869,5 +870,6 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HRO*VOR/DME*294.36/5.60",
-	},
+		"updated": "HRO*VOR/DME*294.36/5.60"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "HABEX",
 		"latitude": "39-37-1.04 N",
@@ -5,7 +6,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/23/2014",
+		"updated": "10/23/2014"
 	},
 	{
 		"name": "HABIN",
@@ -14,7 +15,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/01/2011",
+		"updated": "03/01/2011"
 	},
 	{
 		"name": "HABVO",
@@ -23,7 +24,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/15/2013",
+		"updated": "08/15/2013"
 	},
 	{
 		"name": "HADCI",
@@ -32,7 +33,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/27/2005",
+		"updated": "12/27/2005"
 	},
 	{
 		"name": "HADID",
@@ -41,7 +42,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "JST*VOR/DME*326.01/6.10",
+		"updated": "JST*VOR/DME*326.01/6.10"
 	},
 	{
 		"name": "HAFTY",
@@ -50,7 +51,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/06/2012",
+		"updated": "08/06/2012"
 	},
 	{
 		"name": "HAGAR",
@@ -59,7 +60,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "TDT*VORTAC*257.41/40.62",
+		"updated": "TDT*VORTAC*257.41/40.62"
 	},
 	{
 		"name": "HAGEM",
@@ -68,7 +69,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/20/2001",
+		"updated": "12/20/2001"
 	},
 	{
 		"name": "HAGUD",
@@ -77,7 +78,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DJB*VOR/DME*101.60/79.61",
+		"updated": "DJB*VOR/DME*101.60/79.61"
 	},
 	{
 		"name": "HAGVI",
@@ -86,7 +87,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/14/2008",
+		"updated": "03/14/2008"
 	},
 	{
 		"name": "HAKEK",
@@ -95,7 +96,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "HAKIK",
@@ -104,7 +105,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/02/2014",
+		"updated": "10/02/2014"
 	},
 	{
 		"name": "HAKOT",
@@ -113,7 +114,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/19/2012",
+		"updated": "04/19/2012"
 	},
 	{
 		"name": "HAKSU",
@@ -122,7 +123,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "HALBA",
@@ -131,7 +132,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/08/2005",
+		"updated": "08/08/2005"
 	},
 	{
 		"name": "HALIN",
@@ -140,7 +141,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MMJ*DME*/8.12",
+		"updated": "MMJ*DME*/8.12"
 	},
 	{
 		"name": "HALOK",
@@ -149,7 +150,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/18/2014",
+		"updated": "09/18/2014"
 	},
 	{
 		"name": "HALOS",
@@ -158,7 +159,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "ELZ*VORTAC*/4.92",
+		"updated": "ELZ*VORTAC*/4.92"
 	},
 	{
 		"name": "HAMBU",
@@ -167,7 +168,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/11/2008",
+		"updated": "08/11/2008"
 	},
 	{
 		"name": "HAMEE",
@@ -176,7 +177,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "HAMIT",
@@ -185,7 +186,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/06/2017",
+		"updated": "06/06/2017"
 	},
 	{
 		"name": "HAMUK",
@@ -194,7 +195,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "MR",
-		"updated": "MTC*TACAN*/0.83",
+		"updated": "MTC*TACAN*/0.83"
 	},
 	{
 		"name": "HANKK",
@@ -203,7 +204,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "BUF*VOR/DME*099.27/65.82",
+		"updated": "BUF*VOR/DME*099.27/65.82"
 	},
 	{
 		"name": "HANKY",
@@ -212,7 +213,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/30/2018",
+		"updated": "03/30/2018"
 	},
 	{
 		"name": "HANTY",
@@ -221,7 +222,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "BFD*VOR/DME*323.00/6.00",
+		"updated": "BFD*VOR/DME*323.00/6.00"
 	},
 	{
 		"name": "HAPAB",
@@ -230,7 +231,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/02/2014",
+		"updated": "10/02/2014"
 	},
 	{
 		"name": "HARBI",
@@ -239,7 +240,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "HARBS",
@@ -248,7 +249,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "TOL*TACAN*/10.88",
+		"updated": "TOL*TACAN*/10.88"
 	},
 	{
 		"name": "HARDR",
@@ -257,7 +258,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/19/2018",
+		"updated": "04/19/2018"
 	},
 	{
 		"name": "HARLA",
@@ -266,7 +267,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "HUU*LD*215.71/15.39",
+		"updated": "HUU*LD*215.71/15.39"
 	},
 	{
 		"name": "HARRO",
@@ -275,7 +276,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "FNT*VORTAC*093.39/10.00",
+		"updated": "FNT*VORTAC*093.39/10.00"
 	},
 	{
 		"name": "HARTZ",
@@ -284,7 +285,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "SVM*VORTAC*215.00/18.30",
+		"updated": "SVM*VORTAC*215.00/18.30"
 	},
 	{
 		"name": "HARWL",
@@ -293,7 +294,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "JXN*VOR/DME*093.54/11.79",
+		"updated": "JXN*VOR/DME*093.54/11.79"
 	},
 	{
 		"name": "HASAG",
@@ -302,7 +303,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "HASLE",
@@ -311,7 +312,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/21/2011",
+		"updated": "03/21/2011"
 	},
 	{
 		"name": "HASRI",
@@ -320,7 +321,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/15/2009",
+		"updated": "09/15/2009"
 	},
 	{
 		"name": "HAULN",
@@ -329,7 +330,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "HAVEN",
@@ -338,7 +339,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "JXN*VOR/DME*034.00/19.37",
+		"updated": "JXN*VOR/DME*034.00/19.37"
 	},
 	{
 		"name": "HAVIN",
@@ -347,7 +348,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/13/2009",
+		"updated": "04/13/2009"
 	},
 	{
 		"name": "HAVOL",
@@ -356,7 +357,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "BSV*VOR/DME*181.99/15.93",
+		"updated": "BSV*VOR/DME*181.99/15.93"
 	},
 	{
 		"name": "HAVRA",
@@ -365,7 +366,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "HAVRU",
@@ -374,7 +375,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "HAXAC",
@@ -383,7 +384,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/28/2014",
+		"updated": "07/28/2014"
 	},
 	{
 		"name": "HAXDU",
@@ -392,7 +393,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/28/2014",
+		"updated": "07/28/2014"
 	},
 	{
 		"name": "HAXUP",
@@ -401,7 +402,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/31/2005",
+		"updated": "05/31/2005"
 	},
 	{
 		"name": "HAYNZ",
@@ -410,7 +411,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/26/2009",
+		"updated": "10/26/2009"
 	},
 	{
 		"name": "HAZEN",
@@ -419,7 +420,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MBS*VOR/DME*125.03/7.00",
+		"updated": "MBS*VOR/DME*125.03/7.00"
 	},
 	{
 		"name": "HAZIT",
@@ -428,7 +429,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/28/2018",
+		"updated": "03/28/2018"
 	},
 	{
 		"name": "HEADZ",
@@ -437,7 +438,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "HEBUB",
@@ -446,7 +447,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "FNT*VORTAC*016.27/2.70",
+		"updated": "FNT*VORTAC*016.27/2.70"
 	},
 	{
 		"name": "HEBUS",
@@ -455,7 +456,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/19/2012",
+		"updated": "04/19/2012"
 	},
 	{
 		"name": "HEDIN",
@@ -464,7 +465,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/10/2002",
+		"updated": "09/10/2002"
 	},
 	{
 		"name": "HEDMI",
@@ -473,7 +474,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/15/2012",
+		"updated": "03/15/2012"
 	},
 	{
 		"name": "HEDSI",
@@ -482,7 +483,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/07/2005",
+		"updated": "03/07/2005"
 	},
 	{
 		"name": "HEDUM",
@@ -491,7 +492,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/31/2018",
+		"updated": "01/31/2018"
 	},
 	{
 		"name": "HEFJA",
@@ -500,7 +501,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "AGC*VOR/DME*276.52/17.52",
+		"updated": "AGC*VOR/DME*276.52/17.52"
 	},
 	{
 		"name": "HEGAD",
@@ -509,7 +510,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/10/2002",
+		"updated": "09/10/2002"
 	},
 	{
 		"name": "HEGDU",
@@ -518,7 +519,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/10/2016",
+		"updated": "11/10/2016"
 	},
 	{
 		"name": "HEGEL",
@@ -527,7 +528,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "07/05/1990",
+		"updated": "07/05/1990"
 	},
 	{
 		"name": "HEGLO",
@@ -536,7 +537,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/22/2006",
+		"updated": "12/22/2006"
 	},
 	{
 		"name": "HEGTO",
@@ -545,7 +546,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "HEINZ",
@@ -554,7 +555,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/26/2009",
+		"updated": "10/26/2009"
 	},
 	{
 		"name": "HEKOS",
@@ -563,7 +564,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/11/2014",
+		"updated": "02/11/2014"
 	},
 	{
 		"name": "HEKPA",
@@ -572,7 +573,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/24/2016",
+		"updated": "02/24/2016"
 	},
 	{
 		"name": "HELET",
@@ -581,7 +582,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/12/2008",
+		"updated": "06/12/2008"
 	},
 	{
 		"name": "HELFY",
@@ -590,7 +591,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "HEMIC",
@@ -599,7 +600,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "HEMIS",
@@ -608,7 +609,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/24/2016",
+		"updated": "06/24/2016"
 	},
 	{
 		"name": "HEMOK",
@@ -617,7 +618,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/21/2004",
+		"updated": "07/21/2004"
 	},
 	{
 		"name": "HEMUK",
@@ -626,7 +627,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/03/2016",
+		"updated": "05/03/2016"
 	},
 	{
 		"name": "HENDX",
@@ -635,7 +636,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "HENKO",
@@ -644,7 +645,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/29/2009",
+		"updated": "09/29/2009"
 	},
 	{
 		"name": "HEPUG",
@@ -653,7 +654,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "CKB*VOR/DME*/6.30",
+		"updated": "CKB*VOR/DME*/6.30"
 	},
 	{
 		"name": "HERAK",
@@ -662,7 +663,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MFD*VORTAC*086.51",
+		"updated": "MFD*VORTAC*086.51"
 	},
 	{
 		"name": "HERBA",
@@ -671,7 +672,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "HERDI",
@@ -680,7 +681,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "HEREV",
@@ -689,7 +690,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "ACO*VOR/DME*114.00/22.75",
+		"updated": "ACO*VOR/DME*114.00/22.75"
 	},
 	{
 		"name": "HERIK",
@@ -698,7 +699,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/19/2006",
+		"updated": "08/19/2006"
 	},
 	{
 		"name": "HERMA",
@@ -707,7 +708,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "JHW*VOR/DME*266.29/16.06",
+		"updated": "JHW*VOR/DME*266.29/16.06"
 	},
 	{
 		"name": "HESES",
@@ -716,7 +717,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "HESVU",
@@ -725,7 +726,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "HEVOB",
@@ -734,7 +735,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "TOL*TACAN*248.00/7.00",
+		"updated": "TOL*TACAN*248.00/7.00"
 	},
 	{
 		"name": "HEVRU",
@@ -743,7 +744,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/16/2008",
+		"updated": "10/16/2008"
 	},
 	{
 		"name": "HEXAT",
@@ -752,7 +753,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/22/2006",
+		"updated": "12/22/2006"
 	},
 	{
 		"name": "HEXIV",
@@ -761,7 +762,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/14/2013",
+		"updated": "05/14/2013"
 	},
 	{
 		"name": "HEYYY",
@@ -770,7 +771,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "EPA*LD*095.73/21.41",
+		"updated": "EPA*LD*095.73/21.41"
 	},
 	{
 		"name": "HHAYY",
@@ -779,7 +780,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/17/2018",
+		"updated": "04/17/2018"
 	},
 	{
 		"name": "HHERB",
@@ -788,7 +789,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "HPI*LD*057.96/11.71",
+		"updated": "HPI*LD*057.96/11.71"
 	},
 	{
 		"name": "HHIPP",
@@ -797,7 +798,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/20/2014",
+		"updated": "09/20/2014"
 	},
 	{
 		"name": "HHRNT",
@@ -806,7 +807,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/31/2017",
+		"updated": "07/31/2017"
 	},
 	{
 		"name": "HHUNT",
@@ -815,7 +816,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "HIBBI",
@@ -824,7 +825,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "HICKR",
@@ -833,7 +834,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "HIDON",
@@ -842,7 +843,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/07/2009",
+		"updated": "07/07/2009"
 	},
 	{
 		"name": "HIDUB",
@@ -851,7 +852,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/19/2018",
+		"updated": "04/19/2018"
 	},
 	{
 		"name": "HIGIG",
@@ -860,7 +861,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/01/2017",
+		"updated": "12/01/2017"
 	},
 	{
 		"name": "HIGUL",
@@ -869,7 +870,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/31/2012",
+		"updated": "05/31/2012"
 	},
 	{
 		"name": "HIKDO",
@@ -878,7 +879,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/30/2017",
+		"updated": "11/30/2017"
 	},
 	{
 		"name": "HIKNO",
@@ -887,7 +888,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/11/2008",
+		"updated": "08/11/2008"
 	},
 	{
 		"name": "HIKOP",
@@ -896,7 +897,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/16/2008",
+		"updated": "10/16/2008"
 	},
 	{
 		"name": "HILEK",
@@ -905,7 +906,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/16/2008",
+		"updated": "10/16/2008"
 	},
 	{
 		"name": "HIMAB",
@@ -914,7 +915,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/14/2008",
+		"updated": "10/14/2008"
 	},
 	{
 		"name": "HIMEK",
@@ -923,7 +924,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/02/2014",
+		"updated": "10/02/2014"
 	},
 	{
 		"name": "HIMEL",
@@ -932,7 +933,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/12/2011",
+		"updated": "08/12/2011"
 	},
 	{
 		"name": "HIMEX",
@@ -941,7 +942,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DTW*LD*215.69/15.61",
+		"updated": "DTW*LD*215.69/15.61"
 	},
 	{
 		"name": "HIMEZ",
@@ -950,7 +951,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DJB*VOR/DME*001.59",
+		"updated": "DJB*VOR/DME*001.59"
 	},
 	{
 		"name": "HINIG",
@@ -959,7 +960,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/08/2015",
+		"updated": "10/08/2015"
 	},
 	{
 		"name": "HINKS",
@@ -968,7 +969,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "JST*VOR/DME*326.01/3.00",
+		"updated": "JST*VOR/DME*326.01/3.00"
 	},
 	{
 		"name": "HINON",
@@ -977,7 +978,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MOP*VOR/DME*090.61",
+		"updated": "MOP*VOR/DME*090.61"
 	},
 	{
 		"name": "HINPO",
@@ -986,7 +987,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/31/2009",
+		"updated": "12/31/2009"
 	},
 	{
 		"name": "HIPKA",
@@ -995,7 +996,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "HJT*LD*215.68/3.61",
+		"updated": "HJT*LD*215.68/3.61"
 	},
 	{
 		"name": "HIPRA",
@@ -1004,7 +1005,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/22/2016",
+		"updated": "04/22/2016"
 	},
 	{
 		"name": "HIRED",
@@ -1013,7 +1014,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/13/2018",
+		"updated": "04/13/2018"
 	},
 	{
 		"name": "HIRES",
@@ -1022,7 +1023,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/19/2018",
+		"updated": "04/19/2018"
 	},
 	{
 		"name": "HIRIN",
@@ -1031,7 +1032,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/01/2012",
+		"updated": "06/01/2012"
 	},
 	{
 		"name": "HIRIP",
@@ -1040,7 +1041,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/16/2018",
+		"updated": "02/16/2018"
 	},
 	{
 		"name": "HIROY",
@@ -1049,7 +1050,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/02/2013",
+		"updated": "05/02/2013"
 	},
 	{
 		"name": "HISGU",
@@ -1058,7 +1059,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/08/2015",
+		"updated": "10/08/2015"
 	},
 	{
 		"name": "HISOM",
@@ -1067,7 +1068,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "ZZV*VOR/DME*109.11/16.87",
+		"updated": "ZZV*VOR/DME*109.11/16.87"
 	},
 	{
 		"name": "HITBO",
@@ -1076,7 +1077,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/30/2001",
+		"updated": "10/30/2001"
 	},
 	{
 		"name": "HITMO",
@@ -1085,7 +1086,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/19/2009",
+		"updated": "06/19/2009"
 	},
 	{
 		"name": "HITOX",
@@ -1094,7 +1095,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/12/2004",
+		"updated": "04/12/2004"
 	},
 	{
 		"name": "HIVIR",
@@ -1103,7 +1104,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/28/2013",
+		"updated": "02/28/2013"
 	},
 	{
 		"name": "HIVIT",
@@ -1112,7 +1113,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "HIVKO",
@@ -1121,7 +1122,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "HIVSA",
@@ -1130,7 +1131,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/11/2014",
+		"updated": "03/11/2014"
 	},
 	{
 		"name": "HIVTO",
@@ -1139,7 +1140,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/21/2006",
+		"updated": "08/21/2006"
 	},
 	{
 		"name": "HKRSN",
@@ -1148,7 +1149,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "HLIWD",
@@ -1157,7 +1158,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "HOBKA",
@@ -1166,7 +1167,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/22/2002",
+		"updated": "07/22/2002"
 	},
 	{
 		"name": "HOCCY",
@@ -1175,7 +1176,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/20/2017",
+		"updated": "07/20/2017"
 	},
 	{
 		"name": "HOCKE",
@@ -1184,7 +1185,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/11/2014",
+		"updated": "09/11/2014"
 	},
 	{
 		"name": "HODOS",
@@ -1193,7 +1194,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/02/2016",
+		"updated": "09/02/2016"
 	},
 	{
 		"name": "HODPI",
@@ -1202,7 +1203,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/29/2014",
+		"updated": "09/29/2014"
 	},
 	{
 		"name": "HOEMR",
@@ -1211,7 +1212,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MFD*VORTAC*092.00/32.00",
+		"updated": "MFD*VORTAC*092.00/32.00"
 	},
 	{
 		"name": "HOKIP",
@@ -1220,7 +1221,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/02/2014",
+		"updated": "10/02/2014"
 	},
 	{
 		"name": "HOKSU",
@@ -1229,7 +1230,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/09/2016",
+		"updated": "06/09/2016"
 	},
 	{
 		"name": "HOKVO",
@@ -1238,7 +1239,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/09/2016",
+		"updated": "06/09/2016"
 	},
 	{
 		"name": "HOLOE",
@@ -1247,7 +1248,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "ESL*VOR/DME*033.43",
+		"updated": "ESL*VOR/DME*033.43"
 	},
 	{
 		"name": "HOLSA",
@@ -1256,7 +1257,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/09/2016",
+		"updated": "06/09/2016"
 	},
 	{
 		"name": "HOLUX",
@@ -1265,7 +1266,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/19/2017",
+		"updated": "07/19/2017"
 	},
 	{
 		"name": "HOMEE",
@@ -1274,7 +1275,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "IHD*VORTAC*002.32/32.20",
+		"updated": "IHD*VORTAC*002.32/32.20"
 	},
 	{
 		"name": "HOMEV",
@@ -1283,7 +1284,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/06/2010",
+		"updated": "12/06/2010"
 	},
 	{
 		"name": "HOMIE",
@@ -1292,7 +1293,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "TOL*TACAN*248.00/15.00",
+		"updated": "TOL*TACAN*248.00/15.00"
 	},
 	{
 		"name": "HOMPA",
@@ -1301,7 +1302,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/11/2015",
+		"updated": "03/11/2015"
 	},
 	{
 		"name": "HONLU",
@@ -1310,7 +1311,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "ETG*VORTAC*276.48/22.00",
+		"updated": "ETG*VORTAC*276.48/22.00"
 	},
 	{
 		"name": "HONOR",
@@ -1319,7 +1320,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DXO*VOR/DME*/18.31",
+		"updated": "DXO*VOR/DME*/18.31"
 	},
 	{
 		"name": "HOPDI",
@@ -1328,7 +1329,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/22/2006",
+		"updated": "08/22/2006"
 	},
 	{
 		"name": "HORNE",
@@ -1337,7 +1338,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "ULW*VOR/DME*317.39/30.71",
+		"updated": "ULW*VOR/DME*317.39/30.71"
 	},
 	{
 		"name": "HOSIG",
@@ -1346,7 +1347,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/10/2015",
+		"updated": "03/10/2015"
 	},
 	{
 		"name": "HOTAS",
@@ -1355,7 +1356,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/03/2016",
+		"updated": "05/03/2016"
 	},
 	{
 		"name": "HOTNU",
@@ -1364,7 +1365,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/08/2015",
+		"updated": "10/08/2015"
 	},
 	{
 		"name": "HOTUG",
@@ -1373,7 +1374,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/03/2016",
+		"updated": "05/03/2016"
 	},
 	{
 		"name": "HOTUK",
@@ -1382,7 +1383,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/28/2018",
+		"updated": "03/28/2018"
 	},
 	{
 		"name": "HOUSR",
@@ -1391,7 +1392,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "AIR*VOR/DME*229.46/14.00",
+		"updated": "AIR*VOR/DME*229.46/14.00"
 	},
 	{
 		"name": "HOVBU",
@@ -1400,7 +1401,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/23/2006",
+		"updated": "08/23/2006"
 	},
 	{
 		"name": "HOVIB",
@@ -1409,7 +1410,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "HOVIS",
@@ -1418,7 +1419,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "BFD*VOR/DME*324.22/1.94",
+		"updated": "BFD*VOR/DME*324.22/1.94"
 	},
 	{
 		"name": "HOXIE",
@@ -1427,7 +1428,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "SLT*VORTAC*022.00/21.78",
+		"updated": "SLT*VORTAC*022.00/21.78"
 	},
 	{
 		"name": "HOXOP",
@@ -1436,7 +1437,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "HOYTV",
@@ -1445,7 +1446,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/16/2010",
+		"updated": "06/16/2010"
 	},
 	{
 		"name": "HOZDE",
@@ -1454,7 +1455,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/26/2015",
+		"updated": "01/26/2015"
 	},
 	{
 		"name": "HOZIR",
@@ -1463,7 +1464,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/20/2014",
+		"updated": "09/20/2014"
 	},
 	{
 		"name": "HRRON",
@@ -1472,7 +1473,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/06/2016",
+		"updated": "10/06/2016"
 	},
 	{
 		"name": "HRRSH",
@@ -1481,7 +1482,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/31/2017",
+		"updated": "07/31/2017"
 	},
 	{
 		"name": "HTROD",
@@ -1490,7 +1491,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "HUBNI",
@@ -1499,7 +1500,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/11/2014",
+		"updated": "09/11/2014"
 	},
 	{
 		"name": "HUCCY",
@@ -1508,7 +1509,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "FNT*VORTAC*240.04",
+		"updated": "FNT*VORTAC*240.04"
 	},
 	{
 		"name": "HUDDZ",
@@ -1517,7 +1518,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MFD*VORTAC*010.87",
+		"updated": "MFD*VORTAC*010.87"
 	},
 	{
 		"name": "HUDON",
@@ -1526,7 +1527,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "JST*VOR/DME*074.00/39.30",
+		"updated": "JST*VOR/DME*074.00/39.30"
 	},
 	{
 		"name": "HUDOR",
@@ -1535,7 +1536,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/04/2017",
+		"updated": "04/04/2017"
 	},
 	{
 		"name": "HUDUG",
@@ -1544,7 +1545,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/16/2008",
+		"updated": "10/16/2008"
 	},
 	{
 		"name": "HUGIX",
@@ -1553,7 +1554,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/18/2012",
+		"updated": "04/18/2012"
 	},
 	{
 		"name": "HULDO",
@@ -1562,7 +1563,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "AGC*VOR/DME*073.76",
+		"updated": "AGC*VOR/DME*073.76"
 	},
 	{
 		"name": "HULKA",
@@ -1571,7 +1572,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "SVM*VORTAC*120.87",
+		"updated": "SVM*VORTAC*120.87"
 	},
 	{
 		"name": "HULSE",
@@ -1580,7 +1581,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "JFN*VOR/DME*223.00/19.11",
+		"updated": "JFN*VOR/DME*223.00/19.11"
 	},
 	{
 		"name": "HUMOP",
@@ -1589,7 +1590,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/21/2010",
+		"updated": "12/21/2010"
 	},
 	{
 		"name": "HUNGA",
@@ -1598,7 +1599,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "HURES",
@@ -1607,7 +1608,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/16/2017",
+		"updated": "05/16/2017"
 	},
 	{
 		"name": "HURID",
@@ -1616,7 +1617,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "HUROB",
@@ -1625,7 +1626,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/29/2015",
+		"updated": "01/29/2015"
 	},
 	{
 		"name": "HURON",
@@ -1634,7 +1635,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "CRL*VOR/DME*/4.03",
+		"updated": "CRL*VOR/DME*/4.03"
 	},
 	{
 		"name": "HURRT",
@@ -1643,7 +1644,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/06/2016",
+		"updated": "10/06/2016"
 	},
 	{
 		"name": "HURTA",
@@ -1652,7 +1653,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "ROC*VOR/DME*235.53",
+		"updated": "ROC*VOR/DME*235.53"
 	},
 	{
 		"name": "HUSGI",
@@ -1661,7 +1662,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/21/2009",
+		"updated": "01/21/2009"
 	},
 	{
 		"name": "HUSIS",
@@ -1670,7 +1671,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "HUSVU",
@@ -1679,7 +1680,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/13/2015",
+		"updated": "05/13/2015"
 	},
 	{
 		"name": "HUUVR",
@@ -1688,7 +1689,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/13/2018",
+		"updated": "03/13/2018"
 	},
 	{
 		"name": "HUZXU",
@@ -1697,7 +1698,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "HWLER",
@@ -1706,7 +1707,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DXO*VOR/DME*214.12/16.73",
+		"updated": "DXO*VOR/DME*214.12/16.73"
 	},
 	{
 		"name": "HWYYN",
@@ -1715,7 +1716,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "CN",
-		"updated": "02/17/2010",
+		"updated": "02/17/2010"
 	},
 	{
 		"name": "HYETO",
@@ -1724,7 +1725,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "EWC*VOR/DME*186.87",
+		"updated": "EWC*VOR/DME*186.87"
 	},
 	{
 		"name": "HYMLI",
@@ -1733,7 +1734,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "TOL*TACAN*/5.11",
+		"updated": "TOL*TACAN*/5.11"
 	},
 	{
 		"name": "HYPED",
@@ -1742,5 +1743,6 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2018",
-	},
+		"updated": "03/29/2018"
+	}
+]

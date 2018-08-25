@@ -1,3 +1,4 @@
+[
 	{
 		"name": "VAMPS",
 		"latitude": "47-21-53.62 N",
@@ -5,7 +6,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "SEA*VORTAC*088.37/14.07",
+		"updated": "SEA*VORTAC*088.37/14.07"
 	},
 	{
 		"name": "VANTZ",
@@ -14,7 +15,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "UBG*VOR/DME*129.61/26.60",
+		"updated": "UBG*VOR/DME*129.61/26.60"
 	},
 	{
 		"name": "VASHN",
@@ -23,7 +24,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/14/2013",
+		"updated": "01/14/2013"
 	},
 	{
 		"name": "VAUGN",
@@ -32,7 +33,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "EUG*VORTAC*204.50/14.00",
+		"updated": "EUG*VORTAC*204.50/14.00"
 	},
 	{
 		"name": "VECCU",
@@ -41,7 +42,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "LTJ*VOR/DME*080.00/10.03",
+		"updated": "LTJ*VOR/DME*080.00/10.03"
 	},
 	{
 		"name": "VECUC",
@@ -50,7 +51,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/04/2009",
+		"updated": "08/04/2009"
 	},
 	{
 		"name": "VECUS",
@@ -59,7 +60,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/06/2016",
+		"updated": "10/06/2016"
 	},
 	{
 		"name": "VEDUC",
@@ -68,7 +69,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/03/2016",
+		"updated": "10/03/2016"
 	},
 	{
 		"name": "VEGGN",
@@ -77,7 +78,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/21/2014",
+		"updated": "09/21/2014"
 	},
 	{
 		"name": "VENJU",
@@ -86,7 +87,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/06/2016",
+		"updated": "10/06/2016"
 	},
 	{
 		"name": "VERNN",
@@ -95,7 +96,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "RDM*LD*046.67/7.60",
+		"updated": "RDM*LD*046.67/7.60"
 	},
 	{
 		"name": "VESYU",
@@ -104,7 +105,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/06/2008",
+		"updated": "08/06/2008"
 	},
 	{
 		"name": "VESZY",
@@ -113,7 +114,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/19/2010",
+		"updated": "04/19/2010"
 	},
 	{
 		"name": "VEZAM",
@@ -122,7 +123,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/13/2016",
+		"updated": "10/13/2016"
 	},
 	{
 		"name": "VIBSU",
@@ -131,7 +132,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/25/2016",
+		"updated": "10/25/2016"
 	},
 	{
 		"name": "VIDAS",
@@ -140,7 +141,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "EUG*VORTAC*063.88/25.00",
+		"updated": "EUG*VORTAC*063.88/25.00"
 	},
 	{
 		"name": "VIMFY",
@@ -149,7 +150,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/31/2011",
+		"updated": "01/31/2011"
 	},
 	{
 		"name": "VIPRE",
@@ -158,7 +159,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "UBG*VOR/DME*300.83",
+		"updated": "UBG*VOR/DME*300.83"
 	},
 	{
 		"name": "VIRTU",
@@ -167,7 +168,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PSC*VOR/DME*233.78/10.86",
+		"updated": "PSC*VOR/DME*233.78/10.86"
 	},
 	{
 		"name": "VOKUB",
@@ -176,7 +177,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/21/2017",
+		"updated": "08/21/2017"
 	},
 	{
 		"name": "VOLEW",
@@ -185,7 +186,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ACV*LD*135.75/10.26",
+		"updated": "ACV*LD*135.75/10.26"
 	},
 	{
 		"name": "VOLON",
@@ -194,7 +195,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/17/2017",
+		"updated": "08/17/2017"
 	},
 	{
 		"name": "VOMAC",
@@ -203,7 +204,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "FOT*VORTAC*063.16/14.37",
+		"updated": "FOT*VORTAC*063.16/14.37"
 	},
 	{
 		"name": "VOODU",
@@ -212,7 +213,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/28/2013",
+		"updated": "08/28/2013"
 	},
 	{
 		"name": "VOPUY",
@@ -221,7 +222,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "MW",
-		"updated": "03/11/2013",
+		"updated": "03/11/2013"
 	},
 	{
 		"name": "VOSKY",
@@ -230,7 +231,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/15/2010",
+		"updated": "04/15/2010"
 	},
 	{
 		"name": "VPBKD",
@@ -239,7 +240,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "03/02/2017",
+		"updated": "03/02/2017"
 	},
 	{
 		"name": "VPBPL",
@@ -248,7 +249,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPBRI",
@@ -257,7 +258,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPBSH",
@@ -266,7 +267,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPCAM",
@@ -275,7 +276,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPDOM",
@@ -284,7 +285,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPEFD",
@@ -293,7 +294,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPFOX",
@@ -302,7 +303,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPGIG",
@@ -311,7 +312,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPGMD",
@@ -320,7 +321,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPHCB",
@@ -329,7 +330,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPJPT",
@@ -338,7 +339,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPKNT",
@@ -347,7 +348,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "03/02/2017",
+		"updated": "03/02/2017"
 	},
 	{
 		"name": "VPLSH",
@@ -356,7 +357,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPLSN",
@@ -365,7 +366,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPLTP",
@@ -374,7 +375,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPMBY",
@@ -383,7 +384,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPMCN",
@@ -392,7 +393,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPMLB",
@@ -401,7 +402,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPNBD",
@@ -410,7 +411,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPORO",
@@ -419,7 +420,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "06/13/2013",
+		"updated": "06/13/2013"
 	},
 	{
 		"name": "VPPMR",
@@ -428,7 +429,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPSNO",
@@ -437,7 +438,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPSUM",
@@ -446,7 +447,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPTRS",
@@ -455,7 +456,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "10/17/2017",
+		"updated": "10/17/2017"
 	},
 	{
 		"name": "VPVMC",
@@ -464,7 +465,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPWIN",
@@ -473,7 +474,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPWSC",
@@ -482,7 +483,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VPWSF",
@@ -491,7 +492,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "VFR",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "VUCUS",
@@ -500,7 +501,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/29/2007",
+		"updated": "01/29/2007"
 	},
 	{
 		"name": "VUCUV",
@@ -509,7 +510,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/25/2015",
+		"updated": "06/25/2015"
 	},
 	{
 		"name": "VUHZE",
@@ -518,7 +519,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "01/31/2011",
+		"updated": "01/31/2011"
 	},
 	{
 		"name": "VUNUC",
@@ -527,5 +528,6 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/14/2008",
-	},
+		"updated": "11/14/2008"
+	}
+]

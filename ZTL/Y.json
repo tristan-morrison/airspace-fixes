@@ -1,3 +1,4 @@
+[
 	{
 		"name": "YAALL",
 		"latitude": "33-47-36.3 N",
@@ -5,7 +6,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "VUZ*VORTAC*282.41/30.00",
+		"updated": "VUZ*VORTAC*282.41/30.00"
 	},
 	{
 		"name": "YABBA",
@@ -14,7 +15,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/22/2017",
+		"updated": "08/22/2017"
 	},
 	{
 		"name": "YACUD",
@@ -23,7 +24,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/15/2010",
+		"updated": "04/15/2010"
 	},
 	{
 		"name": "YACUR",
@@ -32,7 +33,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "YADKI",
@@ -41,7 +42,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GSO*VORTAC*297.00/50.00",
+		"updated": "GSO*VORTAC*297.00/50.00"
 	},
 	{
 		"name": "YAKUB",
@@ -50,7 +51,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/27/2015",
+		"updated": "02/27/2015"
 	},
 	{
 		"name": "YALBU",
@@ -59,7 +60,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/25/2013",
+		"updated": "09/25/2013"
 	},
 	{
 		"name": "YALUK",
@@ -68,7 +69,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "11/06/2014",
+		"updated": "11/06/2014"
 	},
 	{
 		"name": "YARBE",
@@ -77,7 +78,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "MGM*VORTAC*045.43/44.39",
+		"updated": "MGM*VORTAC*045.43/44.39"
 	},
 	{
 		"name": "YARCU",
@@ -86,7 +87,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/15/2014",
+		"updated": "04/15/2014"
 	},
 	{
 		"name": "YASLU",
@@ -95,7 +96,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/19/2008",
+		"updated": "03/19/2008"
 	},
 	{
 		"name": "YATES",
@@ -104,7 +105,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "OPN*LD*120.77/5.01",
+		"updated": "OPN*LD*120.77/5.01"
 	},
 	{
 		"name": "YAVUL",
@@ -113,7 +114,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GQO*VORTAC*188.29/48.60",
+		"updated": "GQO*VORTAC*188.29/48.60"
 	},
 	{
 		"name": "YEBUB",
@@ -122,7 +123,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/10/2010",
+		"updated": "08/10/2010"
 	},
 	{
 		"name": "YEBUT",
@@ -131,7 +132,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/11/2013",
+		"updated": "07/11/2013"
 	},
 	{
 		"name": "YECCU",
@@ -140,7 +141,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/05/2014",
+		"updated": "09/05/2014"
 	},
 	{
 		"name": "YEGMY",
@@ -149,7 +150,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/02/2007",
+		"updated": "02/02/2007"
 	},
 	{
 		"name": "YEGNU",
@@ -158,7 +159,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/25/2011",
+		"updated": "10/25/2011"
 	},
 	{
 		"name": "YELKS",
@@ -167,7 +168,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/03/2016",
+		"updated": "02/03/2016"
 	},
 	{
 		"name": "YENYU",
@@ -176,7 +177,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/27/2013",
+		"updated": "02/27/2013"
 	},
 	{
 		"name": "YEOLD",
@@ -185,7 +186,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "YEPUK",
@@ -194,7 +195,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/02/2009",
+		"updated": "02/02/2009"
 	},
 	{
 		"name": "YESVU",
@@ -203,7 +204,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "RMG*VORTAC*058.77/19.35",
+		"updated": "RMG*VORTAC*058.77/19.35"
 	},
 	{
 		"name": "YETPO",
@@ -212,7 +213,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/14/2011",
+		"updated": "12/14/2011"
 	},
 	{
 		"name": "YIBUR",
@@ -221,7 +222,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/14/2010",
+		"updated": "07/14/2010"
 	},
 	{
 		"name": "YIBYI",
@@ -230,7 +231,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "YICUT",
@@ -239,7 +240,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/11/2016",
+		"updated": "07/11/2016"
 	},
 	{
 		"name": "YIDPO",
@@ -248,7 +249,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/21/2011",
+		"updated": "04/21/2011"
 	},
 	{
 		"name": "YIGUB",
@@ -257,7 +258,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/22/2011",
+		"updated": "09/22/2011"
 	},
 	{
 		"name": "YIGUG",
@@ -266,7 +267,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/21/2011",
+		"updated": "07/21/2011"
 	},
 	{
 		"name": "YILUG",
@@ -275,7 +276,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/27/2012",
+		"updated": "02/27/2012"
 	},
 	{
 		"name": "YINNZ",
@@ -284,7 +285,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/02/2013",
+		"updated": "04/02/2013"
 	},
 	{
 		"name": "YIRUP",
@@ -293,7 +294,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/01/2014",
+		"updated": "04/01/2014"
 	},
 	{
 		"name": "YIVUS",
@@ -302,7 +303,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/25/2013",
+		"updated": "09/25/2013"
 	},
 	{
 		"name": "YNGUN",
@@ -311,7 +312,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/25/2015",
+		"updated": "06/25/2015"
 	},
 	{
 		"name": "YOBUD",
@@ -320,7 +321,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "VXV*VORTAC*287.00/17.00",
+		"updated": "VXV*VORTAC*287.00/17.00"
 	},
 	{
 		"name": "YOBUY",
@@ -329,7 +330,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/02/2009",
+		"updated": "02/02/2009"
 	},
 	{
 		"name": "YODRU",
@@ -338,7 +339,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/19/2012",
+		"updated": "03/19/2012"
 	},
 	{
 		"name": "YODUL",
@@ -347,7 +348,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "04/22/2014",
+		"updated": "04/22/2014"
 	},
 	{
 		"name": "YOKUS",
@@ -356,7 +357,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "YOLGU",
@@ -365,7 +366,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "MCN*VORTAC*/2.92",
+		"updated": "MCN*VORTAC*/2.92"
 	},
 	{
 		"name": "YONTO",
@@ -374,7 +375,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/07/2010",
+		"updated": "06/07/2010"
 	},
 	{
 		"name": "YONUN",
@@ -383,7 +384,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/29/2007",
+		"updated": "10/29/2007"
 	},
 	{
 		"name": "YOPLU",
@@ -392,7 +393,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "06/15/2011",
+		"updated": "06/15/2011"
 	},
 	{
 		"name": "YORUR",
@@ -401,7 +402,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/08/2008",
+		"updated": "12/08/2008"
 	},
 	{
 		"name": "YOSSU",
@@ -410,7 +411,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "12/14/2011",
+		"updated": "12/14/2011"
 	},
 	{
 		"name": "YOSTR",
@@ -419,7 +420,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "EPR*LD*283.39/22.49",
+		"updated": "EPR*LD*283.39/22.49"
 	},
 	{
 		"name": "YOSVU",
@@ -428,7 +429,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/03/2014",
+		"updated": "10/03/2014"
 	},
 	{
 		"name": "YOUYU",
@@ -437,7 +438,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "09/07/2017",
+		"updated": "09/07/2017"
 	},
 	{
 		"name": "YOYNU",
@@ -446,7 +447,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "10/15/2007",
+		"updated": "10/15/2007"
 	},
 	{
 		"name": "YUCUB",
@@ -455,7 +456,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/11/2013",
+		"updated": "07/11/2013"
 	},
 	{
 		"name": "YUGUC",
@@ -464,7 +465,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "HRS*VORTAC*314.21/30.39",
+		"updated": "HRS*VORTAC*314.21/30.39"
 	},
 	{
 		"name": "YUKUG",
@@ -473,7 +474,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "01/04/2013",
+		"updated": "01/04/2013"
 	},
 	{
 		"name": "YUMMY",
@@ -482,7 +483,7 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RP",
-		"updated": "GZG*VOR/DME*248.00/31.85",
+		"updated": "GZG*VOR/DME*248.00/31.85"
 	},
 	{
 		"name": "YUNUC",
@@ -491,7 +492,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "07/05/2013",
+		"updated": "07/05/2013"
 	},
 	{
 		"name": "YURII",
@@ -500,7 +501,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "08/22/2017",
+		"updated": "08/22/2017"
 	},
 	{
 		"name": "YURSU",
@@ -509,7 +510,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "05/04/2011",
+		"updated": "05/04/2011"
 	},
 	{
 		"name": "YURUR",
@@ -518,7 +519,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "02/02/2007",
+		"updated": "02/02/2007"
 	},
 	{
 		"name": "YUTUC",
@@ -527,7 +528,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "09/25/2013",
+		"updated": "09/25/2013"
 	},
 	{
 		"name": "YUUNS",
@@ -536,7 +537,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "YUYPY",
@@ -545,5 +546,6 @@
 		"state": "VIRGINIA",
 		"artcc": "ZTL",
 		"type": "RNAV",
-		"updated": "03/19/2012",
-	},
+		"updated": "03/19/2012"
+	}
+]

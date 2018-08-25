@@ -1,3 +1,4 @@
+[
 	{
 		"name": "CABRI",
 		"latitude": "9-28-29.76 N",
@@ -5,7 +6,7 @@
 		"state": "",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "YP*NDB/DME*254.12/5.68",
+		"updated": "YP*NDB/DME*254.12/5.68"
 	},
 	{
 		"name": "CAMPS",
@@ -14,7 +15,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "OGG*VORTAC*204.34/17.67",
+		"updated": "OGG*VORTAC*204.34/17.67"
 	},
 	{
 		"name": "CANON",
@@ -23,7 +24,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "SOK*VORTAC*277.00/180.00",
+		"updated": "SOK*VORTAC*277.00/180.00"
 	},
 	{
 		"name": "CAPRA",
@@ -32,7 +33,7 @@
 		"state": "",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "TUT*VORTAC*/18.00",
+		"updated": "TUT*VORTAC*/18.00"
 	},
 	{
 		"name": "CAPVI",
@@ -41,7 +42,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "02/22/2017",
+		"updated": "02/22/2017"
 	},
 	{
 		"name": "CARRP",
@@ -50,7 +51,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "HNL*VORTAC*204.21/162.94",
+		"updated": "HNL*VORTAC*204.21/162.94"
 	},
 	{
 		"name": "CEDRI",
@@ -59,7 +60,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "04/17/2002",
+		"updated": "04/17/2002"
 	},
 	{
 		"name": "CEKOB",
@@ -68,7 +69,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/09/2002",
+		"updated": "07/09/2002"
 	},
 	{
 		"name": "CFCHF",
@@ -77,7 +78,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "CN",
-		"updated": "03/06/2017",
+		"updated": "03/06/2017"
 	},
 	{
 		"name": "CFDRM",
@@ -86,7 +87,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "CN",
-		"updated": "03/06/2017",
+		"updated": "03/06/2017"
 	},
 	{
 		"name": "CFFVB",
@@ -95,7 +96,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "CN",
-		"updated": "02/24/2012",
+		"updated": "02/24/2012"
 	},
 	{
 		"name": "CFLSP",
@@ -104,7 +105,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "CN",
-		"updated": "02/10/2012",
+		"updated": "02/10/2012"
 	},
 	{
 		"name": "CFPJK",
@@ -113,7 +114,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "CN",
-		"updated": "05/30/2017",
+		"updated": "05/30/2017"
 	},
 	{
 		"name": "CFPPX",
@@ -122,7 +123,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "CN",
-		"updated": "02/24/2012",
+		"updated": "02/24/2012"
 	},
 	{
 		"name": "CFRRC",
@@ -131,7 +132,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "CN",
-		"updated": "02/22/2017",
+		"updated": "02/22/2017"
 	},
 	{
 		"name": "CHAIN",
@@ -140,7 +141,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "LNY*VORTAC*359.99/12.70",
+		"updated": "LNY*VORTAC*359.99/12.70"
 	},
 	{
 		"name": "CHOKL",
@@ -149,7 +150,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "01/13/2011",
+		"updated": "01/13/2011"
 	},
 	{
 		"name": "CHOKO",
@@ -158,7 +159,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZHN",
 		"type": "WP",
-		"updated": "07/12/1991",
+		"updated": "07/12/1991"
 	},
 	{
 		"name": "CIDAL",
@@ -167,7 +168,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "MR",
-		"updated": "NBS*TACAN*322.00/10.00",
+		"updated": "NBS*TACAN*322.00/10.00"
 	},
 	{
 		"name": "CIDOP",
@@ -176,7 +177,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "MR",
-		"updated": "NBS*TACAN*322.00/4.00",
+		"updated": "NBS*TACAN*322.00/4.00"
 	},
 	{
 		"name": "CIGAK",
@@ -185,7 +186,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "KOA*VORTAC*191.00/11.66",
+		"updated": "KOA*VORTAC*191.00/11.66"
 	},
 	{
 		"name": "CIGEP",
@@ -194,7 +195,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "HNL*VORTAC*/13.94",
+		"updated": "HNL*VORTAC*/13.94"
 	},
 	{
 		"name": "CILBO",
@@ -203,7 +204,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "SOK*VORTAC*092.00/62.00",
+		"updated": "SOK*VORTAC*092.00/62.00"
 	},
 	{
 		"name": "CIXUK",
@@ -212,7 +213,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "01/27/2011",
+		"updated": "01/27/2011"
 	},
 	{
 		"name": "CLORI",
@@ -221,7 +222,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "CKH*VORTAC*086.00/16.00",
+		"updated": "CKH*VORTAC*086.00/16.00"
 	},
 	{
 		"name": "CLUTS",
@@ -230,7 +231,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "OGG*VORTAC*026.83/159.43",
+		"updated": "OGG*VORTAC*026.83/159.43"
 	},
 	{
 		"name": "CLYYD",
@@ -239,7 +240,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "MW",
-		"updated": "08/19/2010",
+		"updated": "08/19/2010"
 	},
 	{
 		"name": "COBAL",
@@ -248,7 +249,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZHN",
 		"type": "MW",
-		"updated": "04/08/1999",
+		"updated": "04/08/1999"
 	},
 	{
 		"name": "COBIK",
@@ -257,7 +258,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "03/19/2003",
+		"updated": "03/19/2003"
 	},
 	{
 		"name": "CODDY",
@@ -266,7 +267,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "ITO*VORTAC*345.00/103.00",
+		"updated": "ITO*VORTAC*345.00/103.00"
 	},
 	{
 		"name": "COEST",
@@ -275,7 +276,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "05/26/2011",
+		"updated": "05/26/2011"
 	},
 	{
 		"name": "COGDA",
@@ -284,7 +285,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/09/2002",
+		"updated": "07/09/2002"
 	},
 	{
 		"name": "COLIS",
@@ -293,7 +294,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "05/10/2002",
+		"updated": "05/10/2002"
 	},
 	{
 		"name": "CONED",
@@ -302,7 +303,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "08/29/2011",
+		"updated": "08/29/2011"
 	},
 	{
 		"name": "COOKE",
@@ -311,7 +312,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "ITO*VORTAC*345.00/27.00",
+		"updated": "ITO*VORTAC*345.00/27.00"
 	},
 	{
 		"name": "COPTA",
@@ -320,7 +321,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "MR",
-		"updated": "HHI*NDB*174.28",
+		"updated": "HHI*NDB*174.28"
 	},
 	{
 		"name": "CORGA",
@@ -329,7 +330,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "COVSU",
@@ -338,7 +339,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "06/03/2011",
+		"updated": "06/03/2011"
 	},
 	{
 		"name": "CRISI",
@@ -347,7 +348,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "HNL*VORTAC*125.00/70.13",
+		"updated": "HNL*VORTAC*125.00/70.13"
 	},
 	{
 		"name": "CRONE",
@@ -356,7 +357,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZHN",
 		"type": "MW",
-		"updated": "02/18/1999",
+		"updated": "02/18/1999"
 	},
 	{
 		"name": "CUBIG",
@@ -365,7 +366,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "05/10/2012",
+		"updated": "05/10/2012"
 	},
 	{
 		"name": "CUTLE",
@@ -374,5 +375,6 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "UPP*VORTAC*082.00/125.00",
-	},
+		"updated": "UPP*VORTAC*082.00/125.00"
+	}
+]

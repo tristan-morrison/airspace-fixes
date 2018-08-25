@@ -1,3 +1,4 @@
+[
 	{
 		"name": "RAKAP",
 		"latitude": "43-25-3.1548 N",
@@ -5,7 +6,7 @@
 		"state": "",
 		"artcc": "ZYZ",
 		"type": "RNAV",
-		"updated": "11/12/2016",
+		"updated": "11/12/2016"
 	},
 	{
 		"name": "RIBIR",
@@ -14,5 +15,6 @@
 		"state": "",
 		"artcc": "ZYZ",
 		"type": "RP",
-		"updated": "SSM*VOR/DME*129.34/10.00",
-	},
+		"updated": "SSM*VOR/DME*129.34/10.00"
+	}
+]

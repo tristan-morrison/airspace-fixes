@@ -1,3 +1,4 @@
+[
 	{
 		"name": "DAKES",
 		"latitude": "17-2-52.99 N",
@@ -5,7 +6,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "COY*VOR/DME*263.07",
+		"updated": "COY*VOR/DME*263.07"
 	},
 	{
 		"name": "DANDE",
@@ -14,7 +15,7 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "PJM*VOR/DME*236.53/44.63",
+		"updated": "PJM*VOR/DME*236.53/44.63"
 	},
 	{
 		"name": "DAWIN",
@@ -23,7 +24,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "08/20/2009",
+		"updated": "08/20/2009"
 	},
 	{
 		"name": "DEEDY",
@@ -32,7 +33,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "BQN*VORTAC*089.04",
+		"updated": "BQN*VORTAC*089.04"
 	},
 	{
 		"name": "DEKKA",
@@ -41,7 +42,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "MR",
-		"updated": "SJU*VORTAC*259.00/40.00",
+		"updated": "SJU*VORTAC*259.00/40.00"
 	},
 	{
 		"name": "DENGE",
@@ -50,7 +51,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "MR",
-		"updated": "SJU*VORTAC*179.00/38.00",
+		"updated": "SJU*VORTAC*179.00/38.00"
 	},
 	{
 		"name": "DONKE",
@@ -59,7 +60,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*344.71/11.00",
+		"updated": "SJU*VORTAC*344.71/11.00"
 	},
 	{
 		"name": "DOSAO",
@@ -68,7 +69,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "BQN*VORTAC*052.42/5.00",
+		"updated": "BQN*VORTAC*052.42/5.00"
 	},
 	{
 		"name": "DRADO",
@@ -77,7 +78,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "DRINK",
@@ -86,7 +87,7 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*097.00/54.68",
+		"updated": "SJU*VORTAC*097.00/54.68"
 	},
 	{
 		"name": "DROUN",
@@ -95,5 +96,6 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "WP",
-		"updated": "11/02/1998",
-	},
+		"updated": "11/02/1998"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "GUMGE",
 		"latitude": "13-5-7.48 N",
@@ -5,5 +6,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*127.00/35.00",
-	},
+		"updated": "UNZ*VORTAC*127.00/35.00"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "CATGA",
 		"latitude": "46-28-19.54 N",
@@ -5,7 +6,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZYZ",
 		"type": "RP",
-		"updated": "SSM*VOR/DME*303.74/7.27",
+		"updated": "SSM*VOR/DME*303.74/7.27"
 	},
 	{
 		"name": "COALE",
@@ -14,7 +15,7 @@
 		"state": "",
 		"artcc": "ZYZ",
 		"type": "RP",
-		"updated": "10/06/2016",
+		"updated": "10/06/2016"
 	},
 	{
 		"name": "COLTS",
@@ -23,7 +24,7 @@
 		"state": "",
 		"artcc": "ZYZ",
 		"type": "RNAV",
-		"updated": "04/03/2018",
+		"updated": "04/03/2018"
 	},
 	{
 		"name": "CWSKQ",
@@ -32,5 +33,6 @@
 		"state": "MICHIGAN",
 		"artcc": "ZYZ",
 		"type": "CN",
-		"updated": "11/17/2010",
-	},
+		"updated": "11/17/2010"
+	}
+]

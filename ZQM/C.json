@@ -1,3 +1,4 @@
+[
 	{
 		"name": "CFDTW",
 		"latitude": "42-31-58.8 N",
@@ -5,5 +6,6 @@
 		"state": "MICHIGAN",
 		"artcc": "ZQM",
 		"type": "CN",
-		"updated": "04/17/2018",
-	},
+		"updated": "04/17/2018"
+	}
+]

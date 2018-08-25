@@ -1,3 +1,4 @@
+[
 	{
 		"name": "BABAC",
 		"latitude": "41-0-40.7 N",
@@ -5,7 +6,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "BABAW",
@@ -14,7 +15,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/07/2008",
+		"updated": "11/07/2008"
 	},
 	{
 		"name": "BABJY",
@@ -23,7 +24,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/27/2007",
+		"updated": "06/27/2007"
 	},
 	{
 		"name": "BABUU",
@@ -32,7 +33,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "BACEN",
@@ -41,7 +42,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/20/2007",
+		"updated": "11/20/2007"
 	},
 	{
 		"name": "BADAN",
@@ -50,7 +51,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BJB*VOR*304.80",
+		"updated": "BJB*VOR*304.80"
 	},
 	{
 		"name": "BADER",
@@ -59,7 +60,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BRL*VOR/DME*127.35/33.17",
+		"updated": "BRL*VOR/DME*127.35/33.17"
 	},
 	{
 		"name": "BAGEL",
@@ -68,7 +69,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "GSH*VORTAC*091.55/18.68",
+		"updated": "GSH*VORTAC*091.55/18.68"
 	},
 	{
 		"name": "BAGOE",
@@ -77,7 +78,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OSH*VORTAC*166.00/20.00",
+		"updated": "OSH*VORTAC*166.00/20.00"
 	},
 	{
 		"name": "BAIRY",
@@ -86,7 +87,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "SXH*LD*272.86/25.78",
+		"updated": "SXH*LD*272.86/25.78"
 	},
 	{
 		"name": "BAKBE",
@@ -95,7 +96,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/16/2002",
+		"updated": "09/16/2002"
 	},
 	{
 		"name": "BAKKS",
@@ -104,7 +105,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JVL*VOR/DME*214.00/7.00",
+		"updated": "JVL*VOR/DME*214.00/7.00"
 	},
 	{
 		"name": "BALAC",
@@ -113,7 +114,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/30/2004",
+		"updated": "07/30/2004"
 	},
 	{
 		"name": "BALLA",
@@ -122,7 +123,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "GSH*VORTAC*089.62/16.03",
+		"updated": "GSH*VORTAC*089.62/16.03"
 	},
 	{
 		"name": "BALMS",
@@ -131,7 +132,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "BAMBB",
@@ -140,7 +141,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/26/2009",
+		"updated": "10/26/2009"
 	},
 	{
 		"name": "BANER",
@@ -149,7 +150,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CGT*VORTAC*286.62",
+		"updated": "CGT*VORTAC*286.62"
 	},
 	{
 		"name": "BARRW",
@@ -158,7 +159,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CMI*VORTAC*232.00/2.00",
+		"updated": "CMI*VORTAC*232.00/2.00"
 	},
 	{
 		"name": "BASHH",
@@ -167,7 +168,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "IAC*LD*093.00/13.60",
+		"updated": "IAC*LD*093.00/13.60"
 	},
 	{
 		"name": "BASPE",
@@ -176,7 +177,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/16/2002",
+		"updated": "09/16/2002"
 	},
 	{
 		"name": "BATAM",
@@ -185,7 +186,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RBS*VOR/DME*105.48",
+		"updated": "RBS*VOR/DME*105.48"
 	},
 	{
 		"name": "BATBE",
@@ -194,7 +195,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/22/2003",
+		"updated": "04/22/2003"
 	},
 	{
 		"name": "BATHE",
@@ -203,7 +204,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2016",
+		"updated": "11/18/2016"
 	},
 	{
 		"name": "BATLE",
@@ -212,7 +213,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BVT*VORTAC*143.00/7.00",
+		"updated": "BVT*VORTAC*143.00/7.00"
 	},
 	{
 		"name": "BATOL",
@@ -221,7 +222,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "LFD*VOR/DME*319.00",
+		"updated": "LFD*VOR/DME*319.00"
 	},
 	{
 		"name": "BAULK",
@@ -230,7 +231,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DBQ*VORTAC*049.15/28.45",
+		"updated": "DBQ*VORTAC*049.15/28.45"
 	},
 	{
 		"name": "BAXKO",
@@ -239,7 +240,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/26/2008",
+		"updated": "03/26/2008"
 	},
 	{
 		"name": "BAYAK",
@@ -248,7 +249,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/26/2007",
+		"updated": "06/26/2007"
 	},
 	{
 		"name": "BAYZE",
@@ -257,7 +258,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "LJT*VOR/DME*137.02",
+		"updated": "LJT*VOR/DME*137.02"
 	},
 	{
 		"name": "BEARZ",
@@ -266,7 +267,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "EON*VORTAC*051.00",
+		"updated": "EON*VORTAC*051.00"
 	},
 	{
 		"name": "BEBEE",
@@ -275,7 +276,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ORD*VOR/DME*125.01",
+		"updated": "ORD*VOR/DME*125.01"
 	},
 	{
 		"name": "BEDJO",
@@ -284,7 +285,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/01/2011",
+		"updated": "03/01/2011"
 	},
 	{
 		"name": "BEERI",
@@ -293,7 +294,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*306.79/63.00",
+		"updated": "BAE*VOR/DME*306.79/63.00"
 	},
 	{
 		"name": "BEHTY",
@@ -302,7 +303,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/15/2010",
+		"updated": "02/15/2010"
 	},
 	{
 		"name": "BEIGE",
@@ -311,7 +312,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CID*VOR/DME*259.45/17.91",
+		"updated": "CID*VOR/DME*259.45/17.91"
 	},
 	{
 		"name": "BEJAE",
@@ -320,7 +321,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PMM*VOR/DME*090.90/45.77",
+		"updated": "PMM*VOR/DME*090.90/45.77"
 	},
 	{
 		"name": "BEKFY",
@@ -329,7 +330,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/25/2014",
+		"updated": "08/25/2014"
 	},
 	{
 		"name": "BEKKI",
@@ -338,7 +339,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "BEKRE",
@@ -347,7 +348,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2011",
+		"updated": "05/24/2011"
 	},
 	{
 		"name": "BELDE",
@@ -356,7 +357,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/22/2003",
+		"updated": "04/22/2003"
 	},
 	{
 		"name": "BELMY",
@@ -365,7 +366,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/15/2001",
+		"updated": "03/15/2001"
 	},
 	{
 		"name": "BELRE",
@@ -374,7 +375,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/06/2012",
+		"updated": "06/06/2012"
 	},
 	{
 		"name": "BEMSE",
@@ -383,7 +384,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/07/2017",
+		"updated": "04/07/2017"
 	},
 	{
 		"name": "BENAT",
@@ -392,7 +393,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ELX*VOR/DME*265.82/8.00",
+		"updated": "ELX*VOR/DME*265.82/8.00"
 	},
 	{
 		"name": "BENAY",
@@ -401,7 +402,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "07/30/2004",
+		"updated": "07/30/2004"
 	},
 	{
 		"name": "BENJO",
@@ -410,7 +411,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*VORTAC*005.00",
+		"updated": "FWA*VORTAC*005.00"
 	},
 	{
 		"name": "BENKY",
@@ -419,7 +420,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PNT*VOR/DME*358.53",
+		"updated": "PNT*VOR/DME*358.53"
 	},
 	{
 		"name": "BENNR",
@@ -428,7 +429,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/24/2015",
+		"updated": "08/24/2015"
 	},
 	{
 		"name": "BEPKE",
@@ -437,7 +438,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/27/2010",
+		"updated": "04/27/2010"
 	},
 	{
 		"name": "BERNE",
@@ -446,7 +447,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*VORTAC*148.00/23.00",
+		"updated": "FWA*VORTAC*148.00/23.00"
 	},
 	{
 		"name": "BESIE",
@@ -455,7 +456,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*191.00/41.71",
+		"updated": "BAE*VOR/DME*191.00/41.71"
 	},
 	{
 		"name": "BETEL",
@@ -464,7 +465,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*VORTAC*176.00/16.00",
+		"updated": "FWA*VORTAC*176.00/16.00"
 	},
 	{
 		"name": "BETTA",
@@ -473,7 +474,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "BEUKE",
@@ -482,7 +483,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "MR",
-		"updated": "GUS*VORTAC*/15.00",
+		"updated": "GUS*VORTAC*/15.00"
 	},
 	{
 		"name": "BEVRE",
@@ -491,7 +492,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/23/2016",
+		"updated": "02/23/2016"
 	},
 	{
 		"name": "BGLRI",
@@ -500,7 +501,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/27/2018",
+		"updated": "03/27/2018"
 	},
 	{
 		"name": "BGRAY",
@@ -509,7 +510,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/01/2013",
+		"updated": "07/01/2013"
 	},
 	{
 		"name": "BHAWK",
@@ -518,7 +519,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/20/2015",
+		"updated": "08/20/2015"
 	},
 	{
 		"name": "BIBAC",
@@ -527,7 +528,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/16/2004",
+		"updated": "08/16/2004"
 	},
 	{
 		"name": "BIBKE",
@@ -536,7 +537,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/06/2014",
+		"updated": "03/06/2014"
 	},
 	{
 		"name": "BIBME",
@@ -545,7 +546,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FLD*LE*181.99/1.56",
+		"updated": "FLD*LE*181.99/1.56"
 	},
 	{
 		"name": "BICAB",
@@ -554,7 +555,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/22/2018",
+		"updated": "01/22/2018"
 	},
 	{
 		"name": "BICAD",
@@ -563,7 +564,7 @@
 		"state": "INDIANA",
 		"artcc": "ZID",
 		"type": "RNAV",
-		"updated": "08/16/2004",
+		"updated": "08/16/2004"
 	},
 	{
 		"name": "BIKBE",
@@ -572,7 +573,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/05/2007",
+		"updated": "10/05/2007"
 	},
 	{
 		"name": "BIKLE",
@@ -581,7 +582,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PMM*VOR/DME*073.48/18.90",
+		"updated": "PMM*VOR/DME*073.48/18.90"
 	},
 	{
 		"name": "BILCO",
@@ -590,7 +591,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*359.26/8.31",
+		"updated": "OBK*VOR/DME*359.26/8.31"
 	},
 	{
 		"name": "BILOX",
@@ -599,7 +600,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "IOW*VOR/DME*057.00/33.09",
+		"updated": "IOW*VOR/DME*057.00/33.09"
 	},
 	{
 		"name": "BIRRM",
@@ -608,7 +609,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/08/2007",
+		"updated": "08/08/2007"
 	},
 	{
 		"name": "BITLE",
@@ -617,7 +618,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/16/2002",
+		"updated": "09/16/2002"
 	},
 	{
 		"name": "BITTN",
@@ -626,7 +627,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*190.00/15.00",
+		"updated": "BAE*VOR/DME*190.00/15.00"
 	},
 	{
 		"name": "BITTR",
@@ -635,7 +636,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PMM*VOR/DME*010.19/39.96",
+		"updated": "PMM*VOR/DME*010.19/39.96"
 	},
 	{
 		"name": "BIXBY",
@@ -644,7 +645,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "11/20/2000",
+		"updated": "11/20/2000"
 	},
 	{
 		"name": "BIZZE",
@@ -653,7 +654,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/03/2007",
+		"updated": "05/03/2007"
 	},
 	{
 		"name": "BLACO",
@@ -662,7 +663,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "BLBBY",
@@ -671,7 +672,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VIO*VOR/DME*238.66/2.86",
+		"updated": "VIO*VOR/DME*238.66/2.86"
 	},
 	{
 		"name": "BLIMY",
@@ -680,7 +681,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CVA*VORTAC*038.00/16.00",
+		"updated": "CVA*VORTAC*038.00/16.00"
 	},
 	{
 		"name": "BLLUE",
@@ -689,7 +690,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "AXC*VORTAC*028.95/27.00",
+		"updated": "AXC*VORTAC*028.95/27.00"
 	},
 	{
 		"name": "BLOKR",
@@ -698,7 +699,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "BLUTO",
@@ -707,7 +708,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*081.10/40.95",
+		"updated": "DPA*VOR/DME*081.10/40.95"
 	},
 	{
 		"name": "BNITO",
@@ -716,7 +717,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "IZJ*LD*273.87/18.29",
+		"updated": "IZJ*LD*273.87/18.29"
 	},
 	{
 		"name": "BOBBB",
@@ -725,7 +726,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*176.89",
+		"updated": "DPA*VOR/DME*176.89"
 	},
 	{
 		"name": "BOCAL",
@@ -734,7 +735,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/30/2004",
+		"updated": "07/30/2004"
 	},
 	{
 		"name": "BOCAY",
@@ -743,7 +744,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "LNR*VOR/DME*166.18",
+		"updated": "LNR*VOR/DME*166.18"
 	},
 	{
 		"name": "BOCCI",
@@ -752,7 +753,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "BOCIJ",
@@ -761,7 +762,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/22/2009",
+		"updated": "06/22/2009"
 	},
 	{
 		"name": "BODVE",
@@ -770,7 +771,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DJK*LD*SW CRS/1.03",
+		"updated": "DJK*LD*SW CRS/1.03"
 	},
 	{
 		"name": "BOHRR",
@@ -779,7 +780,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VIO*VOR/DME*171.00/12.24",
+		"updated": "VIO*VOR/DME*171.00/12.24"
 	},
 	{
 		"name": "BOJAK",
@@ -788,7 +789,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RBS*VOR/DME*005.91/65.20",
+		"updated": "RBS*VOR/DME*005.91/65.20"
 	},
 	{
 		"name": "BOJOE",
@@ -797,7 +798,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BMI*VOR/DME*285.47/11.12",
+		"updated": "BMI*VOR/DME*285.47/11.12"
 	},
 	{
 		"name": "BOLRR",
@@ -806,7 +807,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "BOMER",
@@ -815,7 +816,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JOT*VOR/DME*359.08/9.91",
+		"updated": "JOT*VOR/DME*359.08/9.91"
 	},
 	{
 		"name": "BONOT",
@@ -824,7 +825,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*162.56/15.25",
+		"updated": "BAE*VOR/DME*162.56/15.25"
 	},
 	{
 		"name": "BONOY",
@@ -833,7 +834,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OKK*VORTAC*132.00/2.10",
+		"updated": "OKK*VORTAC*132.00/2.10"
 	},
 	{
 		"name": "BONZO",
@@ -842,7 +843,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*132.39",
+		"updated": "OBK*VOR/DME*132.39"
 	},
 	{
 		"name": "BOOKK",
@@ -851,7 +852,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "BOONE",
@@ -860,7 +861,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "IKK*VOR/DME*059.57",
+		"updated": "IKK*VOR/DME*059.57"
 	},
 	{
 		"name": "BOOTE",
@@ -869,7 +870,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/10/2007",
+		"updated": "04/10/2007"
 	},
 	{
 		"name": "BOOTR",
@@ -878,7 +879,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "IZJ*LD*273.87/15.15",
+		"updated": "IZJ*LD*273.87/15.15"
 	},
 	{
 		"name": "BOPIJ",
@@ -887,7 +888,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OXI*VOR/DME*337.00/4.00",
+		"updated": "OXI*VOR/DME*337.00/4.00"
 	},
 	{
 		"name": "BOSSY",
@@ -896,7 +897,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "EON*VORTAC*150.00/42.26",
+		"updated": "EON*VORTAC*150.00/42.26"
 	},
 	{
 		"name": "BOSWL",
@@ -905,7 +906,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "EON*VORTAC*150.00/47.96",
+		"updated": "EON*VORTAC*150.00/47.96"
 	},
 	{
 		"name": "BOTIW",
@@ -914,7 +915,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/30/2013",
+		"updated": "07/30/2013"
 	},
 	{
 		"name": "BOVME",
@@ -923,7 +924,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/24/2005",
+		"updated": "08/24/2005"
 	},
 	{
 		"name": "BOWZO",
@@ -932,7 +933,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*046.26/31.02",
+		"updated": "OBK*VOR/DME*046.26/31.02"
 	},
 	{
 		"name": "BOZOS",
@@ -941,7 +942,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/16/2016",
+		"updated": "05/16/2016"
 	},
 	{
 		"name": "BRAIK",
@@ -950,7 +951,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*096.82/26.38",
+		"updated": "OBK*VOR/DME*096.82/26.38"
 	},
 	{
 		"name": "BRANS",
@@ -959,7 +960,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/08/2011",
+		"updated": "09/08/2011"
 	},
 	{
 		"name": "BRATN",
@@ -968,7 +969,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MZZ*VOR/DME*227.19/29.71",
+		"updated": "MZZ*VOR/DME*227.19/29.71"
 	},
 	{
 		"name": "BRAVE",
@@ -977,7 +978,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*119.00/48.26",
+		"updated": "BAE*VOR/DME*119.00/48.26"
 	},
 	{
 		"name": "BRBIE",
@@ -986,7 +987,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/26/2015",
+		"updated": "01/26/2015"
 	},
 	{
 		"name": "BREWR",
@@ -995,7 +996,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/08/2004",
+		"updated": "09/08/2004"
 	},
 	{
 		"name": "BRIBE",
@@ -1004,7 +1005,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DBQ*VORTAC*050.79",
+		"updated": "DBQ*VORTAC*050.79"
 	},
 	{
 		"name": "BRIDY",
@@ -1013,7 +1014,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/25/2014",
+		"updated": "08/25/2014"
 	},
 	{
 		"name": "BRIER",
@@ -1022,7 +1023,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/05/2016",
+		"updated": "05/05/2016"
 	},
 	{
 		"name": "BRIMM",
@@ -1031,7 +1032,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/17/2016",
+		"updated": "05/17/2016"
 	},
 	{
 		"name": "BRIZE",
@@ -1040,7 +1041,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RFD*VOR/DME*197.21",
+		"updated": "RFD*VOR/DME*197.21"
 	},
 	{
 		"name": "BRONZ",
@@ -1049,7 +1050,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PMM*VOR/DME*111.62/21.35",
+		"updated": "PMM*VOR/DME*111.62/21.35"
 	},
 	{
 		"name": "BROOG",
@@ -1058,7 +1059,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "BROTS",
@@ -1067,7 +1068,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*111.00",
+		"updated": "BAE*VOR/DME*111.00"
 	},
 	{
 		"name": "BRTMN",
@@ -1076,7 +1077,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "BRUNE",
@@ -1085,7 +1086,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PIA*VORTAC*238.81/9.00",
+		"updated": "PIA*VORTAC*238.81/9.00"
 	},
 	{
 		"name": "BRYTO",
@@ -1094,7 +1095,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*VORTAC*358.99",
+		"updated": "FWA*VORTAC*358.99"
 	},
 	{
 		"name": "BSPRO",
@@ -1103,7 +1104,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/26/2016",
+		"updated": "04/26/2016"
 	},
 	{
 		"name": "BTKUS",
@@ -1112,7 +1113,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/25/2012",
+		"updated": "05/25/2012"
 	},
 	{
 		"name": "BUBEE",
@@ -1121,7 +1122,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CVA*VORTAC*214.90/12.78",
+		"updated": "CVA*VORTAC*214.90/12.78"
 	},
 	{
 		"name": "BUBLE",
@@ -1130,7 +1131,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RBS*VOR/DME*147.00",
+		"updated": "RBS*VOR/DME*147.00"
 	},
 	{
 		"name": "BUCGA",
@@ -1139,7 +1140,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/25/2005",
+		"updated": "05/25/2005"
 	},
 	{
 		"name": "BUCKA",
@@ -1148,7 +1149,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/25/2008",
+		"updated": "11/25/2008"
 	},
 	{
 		"name": "BUCLA",
@@ -1157,7 +1158,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/28/2008",
+		"updated": "05/28/2008"
 	},
 	{
 		"name": "BUCRA",
@@ -1166,7 +1167,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MZZ*VOR/DME*323.00/3.00",
+		"updated": "MZZ*VOR/DME*323.00/3.00"
 	},
 	{
 		"name": "BUFAL",
@@ -1175,7 +1176,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MZV*VOR/DME*280.47/10.01",
+		"updated": "MZV*VOR/DME*280.47/10.01"
 	},
 	{
 		"name": "BUFFO",
@@ -1184,7 +1185,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "MR",
-		"updated": "GUS*VORTAC*301.00/30.00",
+		"updated": "GUS*VORTAC*301.00/30.00"
 	},
 	{
 		"name": "BUFOR",
@@ -1193,7 +1194,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "ELX*VOR/DME*224.00/12.60",
+		"updated": "ELX*VOR/DME*224.00/12.60"
 	},
 	{
 		"name": "BUGSE",
@@ -1202,7 +1203,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*196.92",
+		"updated": "OBK*VOR/DME*196.92"
 	},
 	{
 		"name": "BUKKE",
@@ -1211,7 +1212,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "11/14/1994",
+		"updated": "11/14/1994"
 	},
 	{
 		"name": "BULLY",
@@ -1220,7 +1221,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/19/2018",
+		"updated": "04/19/2018"
 	},
 	{
 		"name": "BULLZ",
@@ -1229,7 +1230,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RFD*VOR/DME*052.70",
+		"updated": "RFD*VOR/DME*052.70"
 	},
 	{
 		"name": "BUMRE",
@@ -1238,7 +1239,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "BURKE",
@@ -1247,7 +1248,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MED*LD*272.86/22.08",
+		"updated": "MED*LD*272.86/22.08"
 	},
 	{
 		"name": "BURKK",
@@ -1256,7 +1257,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BDF*VORTAC*261.83/75.44",
+		"updated": "BDF*VORTAC*261.83/75.44"
 	},
 	{
 		"name": "BURLI",
@@ -1265,7 +1266,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "MR",
-		"updated": "GUS*VORTAC*230.00/15.00",
+		"updated": "GUS*VORTAC*230.00/15.00"
 	},
 	{
 		"name": "BURNN",
@@ -1274,7 +1275,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*318.00/26.89",
+		"updated": "BAE*VOR/DME*318.00/26.89"
 	},
 	{
 		"name": "BURNS",
@@ -1283,7 +1284,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BRL*VOR/DME*240.27",
+		"updated": "BRL*VOR/DME*240.27"
 	},
 	{
 		"name": "BURRA",
@@ -1292,7 +1293,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "IRS*NDB*056.43",
+		"updated": "IRS*NDB*056.43"
 	},
 	{
 		"name": "BURUU",
@@ -1301,7 +1302,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "BUSSE",
@@ -1310,7 +1311,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/20/2015",
+		"updated": "08/20/2015"
 	},
 	{
 		"name": "BUSSY",
@@ -1319,7 +1320,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "TNU*VOR/DME*159.00",
+		"updated": "TNU*VOR/DME*159.00"
 	},
 	{
 		"name": "BXCNB",
@@ -1328,7 +1329,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "CN",
-		"updated": "11/12/2010",
+		"updated": "11/12/2010"
 	},
 	{
 		"name": "BYLAW",
@@ -1337,5 +1338,6 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
-	},
+		"updated": "08/19/2015"
+	}
+]

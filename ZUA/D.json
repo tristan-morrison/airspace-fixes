@@ -1,3 +1,4 @@
+[
 	{
 		"name": "DALPE",
 		"latitude": "13-23-23.67 N",
@@ -5,7 +6,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RNAV",
-		"updated": "08/03/2006",
+		"updated": "08/03/2006"
 	},
 	{
 		"name": "DAMQY",
@@ -14,7 +15,7 @@
 		"state": "N MARIANA ISLANDS",
 		"artcc": "ZUA",
 		"type": "RNAV",
-		"updated": "08/06/2009",
+		"updated": "08/06/2009"
 	},
 	{
 		"name": "DUCFI",
@@ -23,7 +24,7 @@
 		"state": "N MARIANA ISLANDS",
 		"artcc": "ZUA",
 		"type": "RNAV",
-		"updated": "08/06/2009",
+		"updated": "08/06/2009"
 	},
 	{
 		"name": "DWAFF",
@@ -32,5 +33,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UNZ*VORTAC*055.37/30.00",
-	},
+		"updated": "UNZ*VORTAC*055.37/30.00"
+	}
+]

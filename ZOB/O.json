@@ -1,3 +1,4 @@
+[
 	{
 		"name": "OASTS",
 		"latitude": "41-41-14.9 N",
@@ -5,7 +6,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "OBEGE",
@@ -14,7 +15,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MBS*VOR/DME*102.00/15.00",
+		"updated": "MBS*VOR/DME*102.00/15.00"
 	},
 	{
 		"name": "OBEID",
@@ -23,7 +24,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "AIR*VOR/DME*114.00/36.60",
+		"updated": "AIR*VOR/DME*114.00/36.60"
 	},
 	{
 		"name": "OBIDE",
@@ -32,7 +33,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/07/2009",
+		"updated": "04/07/2009"
 	},
 	{
 		"name": "OBIHI",
@@ -41,7 +42,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/14/2008",
+		"updated": "03/14/2008"
 	},
 	{
 		"name": "OBILY",
@@ -50,7 +51,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/05/2011",
+		"updated": "05/05/2011"
 	},
 	{
 		"name": "OBKUW",
@@ -59,7 +60,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/25/2000",
+		"updated": "08/25/2000"
 	},
 	{
 		"name": "OBLOW",
@@ -68,7 +69,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "OBONE",
@@ -77,7 +78,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/13/2004",
+		"updated": "02/13/2004"
 	},
 	{
 		"name": "OBOSE",
@@ -86,7 +87,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/12/2008",
+		"updated": "06/12/2008"
 	},
 	{
 		"name": "OBOZE",
@@ -95,7 +96,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/06/2011",
+		"updated": "06/06/2011"
 	},
 	{
 		"name": "OBRLN",
@@ -104,7 +105,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MFD*VORTAC*338.43",
+		"updated": "MFD*VORTAC*338.43"
 	},
 	{
 		"name": "OBUBY",
@@ -113,7 +114,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/08/2017",
+		"updated": "08/08/2017"
 	},
 	{
 		"name": "OBZOF",
@@ -122,7 +123,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DXO*VOR/DME*093.49",
+		"updated": "DXO*VOR/DME*093.49"
 	},
 	{
 		"name": "OCASA",
@@ -131,7 +132,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/20/2012",
+		"updated": "04/20/2012"
 	},
 	{
 		"name": "OCLIG",
@@ -140,7 +141,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/11/2015",
+		"updated": "03/11/2015"
 	},
 	{
 		"name": "OCOCE",
@@ -149,7 +150,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "OCOPO",
@@ -158,7 +159,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/21/2009",
+		"updated": "01/21/2009"
 	},
 	{
 		"name": "OCTAS",
@@ -167,7 +168,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "YQG*VOR/DME*100.88/17.00",
+		"updated": "YQG*VOR/DME*100.88/17.00"
 	},
 	{
 		"name": "OCTEC",
@@ -176,7 +177,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "OCTEN",
@@ -185,7 +186,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/12/2005",
+		"updated": "04/12/2005"
 	},
 	{
 		"name": "OCUGA",
@@ -194,7 +195,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "BSV*VOR/DME*029.92",
+		"updated": "BSV*VOR/DME*029.92"
 	},
 	{
 		"name": "ODNEF",
@@ -203,7 +204,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/17/2015",
+		"updated": "09/17/2015"
 	},
 	{
 		"name": "ODPAE",
@@ -212,7 +213,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/03/2016",
+		"updated": "05/03/2016"
 	},
 	{
 		"name": "ODPOJ",
@@ -221,7 +222,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/04/2012",
+		"updated": "09/04/2012"
 	},
 	{
 		"name": "ODRAW",
@@ -230,7 +231,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "ODUSY",
@@ -239,7 +240,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/24/2013",
+		"updated": "06/24/2013"
 	},
 	{
 		"name": "ODVEJ",
@@ -248,7 +249,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "OFOYE",
@@ -257,7 +258,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "OFUZU",
@@ -266,7 +267,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/03/2014",
+		"updated": "12/03/2014"
 	},
 	{
 		"name": "OGEVY",
@@ -275,7 +276,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/06/2014",
+		"updated": "02/06/2014"
 	},
 	{
 		"name": "OGPUE",
@@ -284,7 +285,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/13/2014",
+		"updated": "03/13/2014"
 	},
 	{
 		"name": "OGRUE",
@@ -293,7 +294,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/09/2014",
+		"updated": "04/09/2014"
 	},
 	{
 		"name": "OGUGY",
@@ -302,7 +303,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/16/2013",
+		"updated": "04/16/2013"
 	},
 	{
 		"name": "OGVOE",
@@ -311,7 +312,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/28/2014",
+		"updated": "08/28/2014"
 	},
 	{
 		"name": "OGWIT",
@@ -320,7 +321,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/10/2015",
+		"updated": "03/10/2015"
 	},
 	{
 		"name": "OHEWY",
@@ -329,7 +330,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "SLT*VORTAC*240.00/36.03",
+		"updated": "SLT*VORTAC*240.00/36.03"
 	},
 	{
 		"name": "OHLLY",
@@ -338,7 +339,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/03/2018",
+		"updated": "04/03/2018"
 	},
 	{
 		"name": "OHOJY",
@@ -347,7 +348,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "OHZUF",
@@ -356,7 +357,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "FBC*VORTAC*012.09/10.00",
+		"updated": "FBC*VORTAC*012.09/10.00"
 	},
 	{
 		"name": "OJACE",
@@ -365,7 +366,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "FBC*VORTAC*147.87/10.00",
+		"updated": "FBC*VORTAC*147.87/10.00"
 	},
 	{
 		"name": "OJGIX",
@@ -374,7 +375,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "OJIVO",
@@ -383,7 +384,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/10/2002",
+		"updated": "04/10/2002"
 	},
 	{
 		"name": "OJMEF",
@@ -392,7 +393,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/26/2015",
+		"updated": "02/26/2015"
 	},
 	{
 		"name": "OJYUS",
@@ -401,7 +402,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/20/2014",
+		"updated": "02/20/2014"
 	},
 	{
 		"name": "OKEWI",
@@ -410,7 +411,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "OKICY",
@@ -419,7 +420,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/25/2015",
+		"updated": "09/25/2015"
 	},
 	{
 		"name": "OKLND",
@@ -428,7 +429,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/28/2018",
+		"updated": "03/28/2018"
 	},
 	{
 		"name": "OKUBE",
@@ -437,7 +438,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/14/2004",
+		"updated": "04/14/2004"
 	},
 	{
 		"name": "OKWIV",
@@ -446,7 +447,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/21/2016",
+		"updated": "09/21/2016"
 	},
 	{
 		"name": "OLOCI",
@@ -455,7 +456,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/15/2010",
+		"updated": "11/15/2010"
 	},
 	{
 		"name": "OLSTE",
@@ -464,7 +465,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MBS*LS*232.61",
+		"updated": "MBS*LS*232.61"
 	},
 	{
 		"name": "OMADE",
@@ -473,7 +474,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/02/2006",
+		"updated": "08/02/2006"
 	},
 	{
 		"name": "OMEVE",
@@ -482,7 +483,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/14/2004",
+		"updated": "04/14/2004"
 	},
 	{
 		"name": "OMFAY",
@@ -491,7 +492,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "OMISE",
@@ -500,7 +501,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/26/2016",
+		"updated": "07/26/2016"
 	},
 	{
 		"name": "OMOSE",
@@ -509,7 +510,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/09/2014",
+		"updated": "04/09/2014"
 	},
 	{
 		"name": "OMTEE",
@@ -518,7 +519,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/05/2003",
+		"updated": "03/05/2003"
 	},
 	{
 		"name": "OMUSY",
@@ -527,7 +528,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/16/2018",
+		"updated": "04/16/2018"
 	},
 	{
 		"name": "ONCET",
@@ -536,7 +537,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/25/2014",
+		"updated": "07/25/2014"
 	},
 	{
 		"name": "ONEMY",
@@ -545,7 +546,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/11/2011",
+		"updated": "01/11/2011"
 	},
 	{
 		"name": "ONERR",
@@ -554,7 +555,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/05/2016",
+		"updated": "10/05/2016"
 	},
 	{
 		"name": "ONERY",
@@ -563,7 +564,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/29/2001",
+		"updated": "06/29/2001"
 	},
 	{
 		"name": "ONMME",
@@ -572,7 +573,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/06/2018",
+		"updated": "03/06/2018"
 	},
 	{
 		"name": "ONNEX",
@@ -581,7 +582,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/23/2015",
+		"updated": "02/23/2015"
 	},
 	{
 		"name": "ONZIT",
@@ -590,7 +591,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/26/2013",
+		"updated": "12/26/2013"
 	},
 	{
 		"name": "OPDEQ",
@@ -599,7 +600,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "OPEMY",
@@ -608,7 +609,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/06/2001",
+		"updated": "08/06/2001"
 	},
 	{
 		"name": "OPIBY",
@@ -617,7 +618,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/25/2002",
+		"updated": "01/25/2002"
 	},
 	{
 		"name": "OPNUF",
@@ -626,7 +627,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/24/2001",
+		"updated": "08/24/2001"
 	},
 	{
 		"name": "OQONI",
@@ -635,7 +636,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/04/2008",
+		"updated": "06/04/2008"
 	},
 	{
 		"name": "ORECO",
@@ -644,7 +645,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/13/2012",
+		"updated": "03/13/2012"
 	},
 	{
 		"name": "OREST",
@@ -653,7 +654,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "CIP*VOR/DME*091.90/19.54",
+		"updated": "CIP*VOR/DME*091.90/19.54"
 	},
 	{
 		"name": "OREYO",
@@ -662,7 +663,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/30/2018",
+		"updated": "03/30/2018"
 	},
 	{
 		"name": "ORIMY",
@@ -671,7 +672,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/25/2002",
+		"updated": "01/25/2002"
 	},
 	{
 		"name": "ORNOW",
@@ -680,7 +681,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/24/2001",
+		"updated": "08/24/2001"
 	},
 	{
 		"name": "ORUYI",
@@ -689,7 +690,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "TOL*TACAN*080.00/6.00",
+		"updated": "TOL*TACAN*080.00/6.00"
 	},
 	{
 		"name": "ORYUJ",
@@ -698,7 +699,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/20/2014",
+		"updated": "02/20/2014"
 	},
 	{
 		"name": "OSAMY",
@@ -707,7 +708,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "OSASY",
@@ -716,7 +717,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/05/2001",
+		"updated": "10/05/2001"
 	},
 	{
 		"name": "OSELY",
@@ -725,7 +726,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/02/2001",
+		"updated": "10/02/2001"
 	},
 	{
 		"name": "OSIWO",
@@ -734,7 +735,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/10/2002",
+		"updated": "05/10/2002"
 	},
 	{
 		"name": "OSIZO",
@@ -743,7 +744,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/11/2011",
+		"updated": "01/11/2011"
 	},
 	{
 		"name": "OSKER",
@@ -752,7 +753,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DWC*LD*035.71/10.78",
+		"updated": "DWC*LD*035.71/10.78"
 	},
 	{
 		"name": "OSMOE",
@@ -761,7 +762,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "OSSAR",
@@ -770,7 +771,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/11/2005",
+		"updated": "02/11/2005"
 	},
 	{
 		"name": "OTANE",
@@ -779,7 +780,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/06/2017",
+		"updated": "12/06/2017"
 	},
 	{
 		"name": "OTBUE",
@@ -788,7 +789,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "MR",
-		"updated": "TOL*TACAN*/15.00",
+		"updated": "TOL*TACAN*/15.00"
 	},
 	{
 		"name": "OTCAK",
@@ -797,7 +798,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/04/2008",
+		"updated": "06/04/2008"
 	},
 	{
 		"name": "OTIKE",
@@ -806,7 +807,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/02/2016",
+		"updated": "09/02/2016"
 	},
 	{
 		"name": "OTILE",
@@ -815,7 +816,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/06/2017",
+		"updated": "12/06/2017"
 	},
 	{
 		"name": "OTNEE",
@@ -824,7 +825,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/28/2014",
+		"updated": "09/28/2014"
 	},
 	{
 		"name": "OTNOE",
@@ -833,7 +834,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/28/2008",
+		"updated": "02/28/2008"
 	},
 	{
 		"name": "OTOCE",
@@ -842,7 +843,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DJB*VOR/DME*028.82/12.59",
+		"updated": "DJB*VOR/DME*028.82/12.59"
 	},
 	{
 		"name": "OTOGE",
@@ -851,7 +852,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/13/2008",
+		"updated": "02/13/2008"
 	},
 	{
 		"name": "OTOWN",
@@ -860,7 +861,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "IHD*VORTAC*260.16/20.55",
+		"updated": "IHD*VORTAC*260.16/20.55"
 	},
 	{
 		"name": "OUZOS",
@@ -869,7 +870,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "OVITE",
@@ -878,7 +879,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/11/2008",
+		"updated": "08/11/2008"
 	},
 	{
 		"name": "OVUHU",
@@ -887,7 +888,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/05/2014",
+		"updated": "11/05/2014"
 	},
 	{
 		"name": "OWOSO",
@@ -896,7 +897,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "FNT*VORTAC*286.00/15.74",
+		"updated": "FNT*VORTAC*286.00/15.74"
 	},
 	{
 		"name": "OXESE",
@@ -905,7 +906,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/06/2010",
+		"updated": "12/06/2010"
 	},
 	{
 		"name": "OXMAN",
@@ -914,7 +915,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/04/2014",
+		"updated": "02/04/2014"
 	},
 	{
 		"name": "OXWUP",
@@ -923,7 +924,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/01/2011",
+		"updated": "03/01/2011"
 	},
 	{
 		"name": "OYEPA",
@@ -932,7 +933,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/10/2008",
+		"updated": "10/10/2008"
 	},
 	{
 		"name": "OYITI",
@@ -941,7 +942,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "OYNEM",
@@ -950,7 +951,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "11/10/2009",
+		"updated": "11/10/2009"
 	},
 	{
 		"name": "OYVAA",
@@ -959,5 +960,6 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/18/2018",
-	},
+		"updated": "04/18/2018"
+	}
+]

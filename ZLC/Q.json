@@ -1,3 +1,4 @@
+[
 	{
 		"name": "QAGDO",
 		"latitude": "42-42-57.56 N",
@@ -5,7 +6,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "TWF*VORTAC*346.02/14.20",
+		"updated": "TWF*VORTAC*346.02/14.20"
 	},
 	{
 		"name": "QATQI",
@@ -14,7 +15,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/11/2012",
+		"updated": "09/11/2012"
 	},
 	{
 		"name": "QATSA",
@@ -23,7 +24,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "DIK*VORTAC*244.86/25.00",
+		"updated": "DIK*VORTAC*244.86/25.00"
 	},
 	{
 		"name": "QAXUG",
@@ -32,7 +33,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/27/2011",
+		"updated": "01/27/2011"
 	},
 	{
 		"name": "QIGVO",
@@ -41,7 +42,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/27/2009",
+		"updated": "04/27/2009"
 	},
 	{
 		"name": "QIVHY",
@@ -50,7 +51,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "QUDUC",
@@ -59,7 +60,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/01/2012",
+		"updated": "10/01/2012"
 	},
 	{
 		"name": "QUERY",
@@ -68,7 +69,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BZN*VOR/DME*186.20/38.54",
+		"updated": "BZN*VOR/DME*186.20/38.54"
 	},
 	{
 		"name": "QUIPA",
@@ -77,7 +78,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/27/2007",
+		"updated": "08/27/2007"
 	},
 	{
 		"name": "QUIRT",
@@ -86,7 +87,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "DNW*VOR/DME*266.55/12.15",
+		"updated": "DNW*VOR/DME*266.55/12.15"
 	},
 	{
 		"name": "QUMGY",
@@ -95,7 +96,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/11/2013",
+		"updated": "03/11/2013"
 	},
 	{
 		"name": "QWENN",
@@ -104,5 +105,6 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/27/2007",
-	},
+		"updated": "08/27/2007"
+	}
+]

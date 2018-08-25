@@ -1,3 +1,4 @@
+[
 	{
 		"name": "NAILL",
 		"latitude": "18-35-36.21 N",
@@ -5,7 +6,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "NEGON",
@@ -14,7 +15,7 @@
 		"state": "",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "02/27/2012",
+		"updated": "02/27/2012"
 	},
 	{
 		"name": "NIFEF",
@@ -23,7 +24,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "01/24/2001",
+		"updated": "01/24/2001"
 	},
 	{
 		"name": "NIIMO",
@@ -32,7 +33,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "MR",
-		"updated": "SJU*VORTAC*281.00/40.00",
+		"updated": "SJU*VORTAC*281.00/40.00"
 	},
 	{
 		"name": "NOMUE",
@@ -41,5 +42,6 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "COY*VOR/DME*336.00/37.72",
-	},
+		"updated": "COY*VOR/DME*336.00/37.72"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "EARLE",
 		"latitude": "40-25-34.58 N",
@@ -5,7 +6,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/11/2017",
+		"updated": "07/11/2017"
 	},
 	{
 		"name": "EARND",
@@ -14,7 +15,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/29/2015",
+		"updated": "01/29/2015"
 	},
 	{
 		"name": "EATUN",
@@ -23,7 +24,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VIO*VOR/DME*355.20",
+		"updated": "VIO*VOR/DME*355.20"
 	},
 	{
 		"name": "EBABE",
@@ -32,7 +33,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/18/2011",
+		"updated": "02/18/2011"
 	},
 	{
 		"name": "EBACO",
@@ -41,7 +42,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "EBAKE",
@@ -50,7 +51,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/26/2007",
+		"updated": "01/26/2007"
 	},
 	{
 		"name": "EBENS",
@@ -59,7 +60,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "IAC*LD*093.00/10.46",
+		"updated": "IAC*LD*093.00/10.46"
 	},
 	{
 		"name": "EBGIN",
@@ -68,7 +69,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "EBORE",
@@ -77,7 +78,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/22/2009",
+		"updated": "10/22/2009"
 	},
 	{
 		"name": "EBSUH",
@@ -86,7 +87,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/04/2014",
+		"updated": "09/04/2014"
 	},
 	{
 		"name": "ECAVU",
@@ -95,7 +96,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/15/2018",
+		"updated": "02/15/2018"
 	},
 	{
 		"name": "ECEBI",
@@ -104,7 +105,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/25/2005",
+		"updated": "05/25/2005"
 	},
 	{
 		"name": "EDAGE",
@@ -113,7 +114,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "EDAKE",
@@ -122,7 +123,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/04/2001",
+		"updated": "01/04/2001"
 	},
 	{
 		"name": "EDALE",
@@ -131,7 +132,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "EDAVE",
@@ -140,7 +141,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "EDBIY",
@@ -149,7 +150,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/29/2014",
+		"updated": "09/29/2014"
 	},
 	{
 		"name": "EDCEJ",
@@ -158,7 +159,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/22/2008",
+		"updated": "02/22/2008"
 	},
 	{
 		"name": "EDENN",
@@ -167,7 +168,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DLL*VORTAC*079.00",
+		"updated": "DLL*VORTAC*079.00"
 	},
 	{
 		"name": "EDENS",
@@ -176,7 +177,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/25/2016",
+		"updated": "05/25/2016"
 	},
 	{
 		"name": "EDMEW",
@@ -185,7 +186,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OKK*VORTAC*203.52/16.18",
+		"updated": "OKK*VORTAC*203.52/16.18"
 	},
 	{
 		"name": "EDOGE",
@@ -194,7 +195,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/13/2011",
+		"updated": "09/13/2011"
 	},
 	{
 		"name": "EDXUR",
@@ -203,7 +204,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/30/2013",
+		"updated": "07/30/2013"
 	},
 	{
 		"name": "EDZIV",
@@ -212,7 +213,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/10/2002",
+		"updated": "04/10/2002"
 	},
 	{
 		"name": "EEDEE",
@@ -221,7 +222,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "MR",
-		"updated": "VOK*TACAN*097.00/1.50",
+		"updated": "VOK*TACAN*097.00/1.50"
 	},
 	{
 		"name": "EEJAY",
@@ -230,7 +231,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/19/2002",
+		"updated": "11/19/2002"
 	},
 	{
 		"name": "EERAE",
@@ -239,7 +240,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/26/2013",
+		"updated": "08/26/2013"
 	},
 	{
 		"name": "EGACA",
@@ -248,7 +249,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "EGADY",
@@ -257,7 +258,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/01/2011",
+		"updated": "08/01/2011"
 	},
 	{
 		"name": "EGEVE",
@@ -266,7 +267,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2011",
+		"updated": "05/24/2011"
 	},
 	{
 		"name": "EGGED",
@@ -275,7 +276,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "EGLUQ",
@@ -284,7 +285,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/18/2013",
+		"updated": "07/18/2013"
 	},
 	{
 		"name": "EGROW",
@@ -293,7 +294,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "LHJ*LD*N CRS/4.62",
+		"updated": "LHJ*LD*N CRS/4.62"
 	},
 	{
 		"name": "EHAQY",
@@ -302,7 +303,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/31/2002",
+		"updated": "12/31/2002"
 	},
 	{
 		"name": "EHEJE",
@@ -311,7 +312,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "CN",
-		"updated": "03/29/2011",
+		"updated": "03/29/2011"
 	},
 	{
 		"name": "EHPEK",
@@ -320,7 +321,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/18/2010",
+		"updated": "02/18/2010"
 	},
 	{
 		"name": "EHUHY",
@@ -329,7 +330,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/11/2000",
+		"updated": "04/11/2000"
 	},
 	{
 		"name": "EHULY",
@@ -338,7 +339,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/15/2010",
+		"updated": "02/15/2010"
 	},
 	{
 		"name": "EJAJY",
@@ -347,7 +348,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "03/18/2011",
+		"updated": "03/18/2011"
 	},
 	{
 		"name": "EJGUD",
@@ -356,7 +357,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/18/2010",
+		"updated": "02/18/2010"
 	},
 	{
 		"name": "EJIYU",
@@ -365,7 +366,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/15/2012",
+		"updated": "05/15/2012"
 	},
 	{
 		"name": "EJIZU",
@@ -374,7 +375,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/15/2010",
+		"updated": "02/15/2010"
 	},
 	{
 		"name": "EJKAX",
@@ -383,7 +384,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/04/2010",
+		"updated": "04/04/2010"
 	},
 	{
 		"name": "EKEXE",
@@ -392,7 +393,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "CN",
-		"updated": "01/12/2006",
+		"updated": "01/12/2006"
 	},
 	{
 		"name": "EKQOR",
@@ -401,7 +402,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/02/2013",
+		"updated": "08/02/2013"
 	},
 	{
 		"name": "EKYOR",
@@ -410,7 +411,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/31/2011",
+		"updated": "01/31/2011"
 	},
 	{
 		"name": "ELANR",
@@ -419,7 +420,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/29/2014",
+		"updated": "05/29/2014"
 	},
 	{
 		"name": "ELCUC",
@@ -428,7 +429,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*349.51/13.76",
+		"updated": "DPA*VOR/DME*349.51/13.76"
 	},
 	{
 		"name": "ELGIJ",
@@ -437,7 +438,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MSN*VORTAC*353.35/10.00",
+		"updated": "MSN*VORTAC*353.35/10.00"
 	},
 	{
 		"name": "ELLYN",
@@ -446,7 +447,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/24/2017",
+		"updated": "01/24/2017"
 	},
 	{
 		"name": "ELOKE",
@@ -455,7 +456,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/26/2016",
+		"updated": "04/26/2016"
 	},
 	{
 		"name": "ELUNE",
@@ -464,7 +465,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/16/2002",
+		"updated": "09/16/2002"
 	},
 	{
 		"name": "ELUYE",
@@ -473,7 +474,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/25/2005",
+		"updated": "05/25/2005"
 	},
 	{
 		"name": "ELWUD",
@@ -482,7 +483,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "WP",
-		"updated": "CVA*VORTAC*324.67/15.24",
+		"updated": "CVA*VORTAC*324.67/15.24"
 	},
 	{
 		"name": "EMAKY",
@@ -491,7 +492,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/05/2016",
+		"updated": "05/05/2016"
 	},
 	{
 		"name": "EMEWO",
@@ -500,7 +501,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/08/2011",
+		"updated": "09/08/2011"
 	},
 	{
 		"name": "EMMLY",
@@ -509,7 +510,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "EMQIB",
@@ -518,7 +519,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/25/2014",
+		"updated": "08/25/2014"
 	},
 	{
 		"name": "EMTEE",
@@ -527,7 +528,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RBS*VOR/DME*166.00",
+		"updated": "RBS*VOR/DME*166.00"
 	},
 	{
 		"name": "ENAME",
@@ -536,7 +537,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CVA*VORTAC*083.00/23.04",
+		"updated": "CVA*VORTAC*083.00/23.04"
 	},
 	{
 		"name": "ENDEE",
@@ -545,7 +546,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "ENEGY",
@@ -554,7 +555,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/17/2018",
+		"updated": "04/17/2018"
 	},
 	{
 		"name": "ENEXE",
@@ -563,7 +564,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/04/2015",
+		"updated": "11/04/2015"
 	},
 	{
 		"name": "ENKOW",
@@ -572,7 +573,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "ENOYE",
@@ -581,7 +582,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "CMI*VORTAC*296.58/12.00",
+		"updated": "CMI*VORTAC*296.58/12.00"
 	},
 	{
 		"name": "ENRUW",
@@ -590,7 +591,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "EPABE",
@@ -599,7 +600,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*205.51",
+		"updated": "DPA*VOR/DME*205.51"
 	},
 	{
 		"name": "EPEKE",
@@ -608,7 +609,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/22/2008",
+		"updated": "02/22/2008"
 	},
 	{
 		"name": "EPEPE",
@@ -617,7 +618,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/22/2005",
+		"updated": "08/22/2005"
 	},
 	{
 		"name": "EQAZI",
@@ -626,7 +627,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/06/2008",
+		"updated": "10/06/2008"
 	},
 	{
 		"name": "EQIRU",
@@ -635,7 +636,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/06/2008",
+		"updated": "10/06/2008"
 	},
 	{
 		"name": "EQQED",
@@ -644,7 +645,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DLL*LE*S CRS/6.90",
+		"updated": "DLL*LE*S CRS/6.90"
 	},
 	{
 		"name": "ERACK",
@@ -653,7 +654,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/08/2015",
+		"updated": "10/08/2015"
 	},
 	{
 		"name": "ERAGE",
@@ -662,7 +663,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OSH*VORTAC*111.18/26.00",
+		"updated": "OSH*VORTAC*111.18/26.00"
 	},
 	{
 		"name": "ERNEY",
@@ -671,7 +672,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DNV*VORTAC*026.00",
+		"updated": "DNV*VORTAC*026.00"
 	},
 	{
 		"name": "ERNNY",
@@ -680,7 +681,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ORD*VOR/DME*036.03/26.77",
+		"updated": "ORD*VOR/DME*036.03/26.77"
 	},
 	{
 		"name": "ERZEH",
@@ -689,7 +690,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/19/2000",
+		"updated": "06/19/2000"
 	},
 	{
 		"name": "ESEVE",
@@ -698,7 +699,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "ESILE",
@@ -707,7 +708,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/26/2018",
+		"updated": "02/26/2018"
 	},
 	{
 		"name": "ESOGE",
@@ -716,7 +717,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/19/2003",
+		"updated": "03/19/2003"
 	},
 	{
 		"name": "ESSPO",
@@ -725,7 +726,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/30/2008",
+		"updated": "09/30/2008"
 	},
 	{
 		"name": "ESSSS",
@@ -734,7 +735,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "SAJ*LD*272.99/22.90",
+		"updated": "SAJ*LD*272.99/22.90"
 	},
 	{
 		"name": "ESYIJ",
@@ -743,7 +744,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/22/2013",
+		"updated": "03/22/2013"
 	},
 	{
 		"name": "ETEVE",
@@ -752,7 +753,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/16/2002",
+		"updated": "09/16/2002"
 	},
 	{
 		"name": "ETHNL",
@@ -761,7 +762,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/28/2009",
+		"updated": "06/28/2009"
 	},
 	{
 		"name": "ETKUC",
@@ -770,7 +771,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "03/23/2009",
+		"updated": "03/23/2009"
 	},
 	{
 		"name": "ETUVE",
@@ -779,7 +780,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "GSH*VORTAC*/23.00",
+		"updated": "GSH*VORTAC*/23.00"
 	},
 	{
 		"name": "EVEPY",
@@ -788,7 +789,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/11/2011",
+		"updated": "07/11/2011"
 	},
 	{
 		"name": "EVERY",
@@ -797,7 +798,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BMI*VOR/DME*267.29",
+		"updated": "BMI*VOR/DME*267.29"
 	},
 	{
 		"name": "EVMOQ",
@@ -806,7 +807,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/13/2001",
+		"updated": "12/13/2001"
 	},
 	{
 		"name": "EVOTE",
@@ -815,7 +816,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "GIJ*VORTAC*077.00/50.00",
+		"updated": "GIJ*VORTAC*077.00/50.00"
 	},
 	{
 		"name": "EVRSN",
@@ -824,7 +825,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/25/2012",
+		"updated": "05/25/2012"
 	},
 	{
 		"name": "EWAWI",
@@ -833,7 +834,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*302.18/20.00",
+		"updated": "BAE*VOR/DME*302.18/20.00"
 	},
 	{
 		"name": "EWEDI",
@@ -842,7 +843,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OTM*VOR/DME*287.00/10.00",
+		"updated": "OTM*VOR/DME*287.00/10.00"
 	},
 	{
 		"name": "EWGUF",
@@ -851,7 +852,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/13/2001",
+		"updated": "12/13/2001"
 	},
 	{
 		"name": "EWITT",
@@ -860,7 +861,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RBS*VOR/DME*230.61/37.01",
+		"updated": "RBS*VOR/DME*230.61/37.01"
 	},
 	{
 		"name": "EXARR",
@@ -869,7 +870,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/28/2014",
+		"updated": "01/28/2014"
 	},
 	{
 		"name": "EXCAP",
@@ -878,7 +879,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "GIJ*VORTAC*290.16/19.79",
+		"updated": "GIJ*VORTAC*290.16/19.79"
 	},
 	{
 		"name": "EXEKE",
@@ -887,7 +888,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/25/2002",
+		"updated": "09/25/2002"
 	},
 	{
 		"name": "EXEMP",
@@ -896,7 +897,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OSH*VORTAC*096.00/14.00",
+		"updated": "OSH*VORTAC*096.00/14.00"
 	},
 	{
 		"name": "EXIDE",
@@ -905,7 +906,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/17/2005",
+		"updated": "10/17/2005"
 	},
 	{
 		"name": "EXPEN",
@@ -914,7 +915,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "TNU*VOR/DME*236.01/17.00",
+		"updated": "TNU*VOR/DME*236.01/17.00"
 	},
 	{
 		"name": "EXSAT",
@@ -923,7 +924,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/23/2007",
+		"updated": "02/23/2007"
 	},
 	{
 		"name": "EXSOP",
@@ -932,7 +933,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/23/2016",
+		"updated": "02/23/2016"
 	},
 	{
 		"name": "EXUGE",
@@ -941,7 +942,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/06/2012",
+		"updated": "06/06/2012"
 	},
 	{
 		"name": "EXUKE",
@@ -950,7 +951,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/04/2000",
+		"updated": "12/04/2000"
 	},
 	{
 		"name": "EYDUF",
@@ -959,7 +960,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/09/2012",
+		"updated": "07/09/2012"
 	},
 	{
 		"name": "EYEZI",
@@ -968,7 +969,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/25/2009",
+		"updated": "09/25/2009"
 	},
 	{
 		"name": "EYING",
@@ -977,7 +978,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2016",
+		"updated": "11/18/2016"
 	},
 	{
 		"name": "EYLAR",
@@ -986,7 +987,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/30/2003",
+		"updated": "06/30/2003"
 	},
 	{
 		"name": "EYOLU",
@@ -995,7 +996,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/19/2007",
+		"updated": "07/19/2007"
 	},
 	{
 		"name": "EYPUB",
@@ -1004,7 +1005,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/17/2010",
+		"updated": "02/17/2010"
 	},
 	{
 		"name": "EYUCE",
@@ -1013,7 +1014,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "ALO*LD*E CRS/14.00",
+		"updated": "ALO*LD*E CRS/14.00"
 	},
 	{
 		"name": "EYVAC",
@@ -1022,7 +1023,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/28/2009",
+		"updated": "06/28/2009"
 	},
 	{
 		"name": "EZAYE",
@@ -1031,7 +1032,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/06/2009",
+		"updated": "04/06/2009"
 	},
 	{
 		"name": "EZRAH",
@@ -1040,7 +1041,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "EZZRA",
@@ -1049,5 +1050,6 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
-	},
+		"updated": "08/19/2015"
+	}
+]

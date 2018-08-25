@@ -1,3 +1,4 @@
+[
 	{
 		"name": "TABEE",
 		"latitude": "64-41-29.27 N",
@@ -5,7 +6,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EIL*TACAN*/2.40",
+		"updated": "EIL*TACAN*/2.40"
 	},
 	{
 		"name": "TACKT",
@@ -14,7 +15,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "06/13/2017",
+		"updated": "06/13/2017"
 	},
 	{
 		"name": "TADYU",
@@ -23,7 +24,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/01/2006",
+		"updated": "08/01/2006"
 	},
 	{
 		"name": "TAGER",
@@ -32,7 +33,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "TKA*VOR/DME*176.09/38.97",
+		"updated": "TKA*VOR/DME*176.09/38.97"
 	},
 	{
 		"name": "TAHHI",
@@ -41,7 +42,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/14/2011",
+		"updated": "03/14/2011"
 	},
 	{
 		"name": "TAJAN",
@@ -50,7 +51,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "CZF*DME*/6.00",
+		"updated": "CZF*DME*/6.00"
 	},
 	{
 		"name": "TAKME",
@@ -59,7 +60,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "09/24/2014",
+		"updated": "09/24/2014"
 	},
 	{
 		"name": "TAKOC",
@@ -68,7 +69,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "GKN*VOR/DME*233.49/15.10",
+		"updated": "GKN*VOR/DME*233.49/15.10"
 	},
 	{
 		"name": "TAKUU",
@@ -77,7 +78,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "02/27/1998",
+		"updated": "02/27/1998"
 	},
 	{
 		"name": "TALYN",
@@ -86,7 +87,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OME*VOR/DME*338.71/20.00",
+		"updated": "OME*VOR/DME*338.71/20.00"
 	},
 	{
 		"name": "TAMMO",
@@ -95,7 +96,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "02/24/1993",
+		"updated": "02/24/1993"
 	},
 	{
 		"name": "TANIE",
@@ -104,7 +105,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*VORTAC*210.11/64.76",
+		"updated": "AKN*VORTAC*210.11/64.76"
 	},
 	{
 		"name": "TANPE",
@@ -113,7 +114,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/03/2008",
+		"updated": "03/03/2008"
 	},
 	{
 		"name": "TASAE",
@@ -122,7 +123,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/26/2006",
+		"updated": "05/26/2006"
 	},
 	{
 		"name": "TATBE",
@@ -131,7 +132,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "YAK*VOR/DME*/17.00",
+		"updated": "YAK*VOR/DME*/17.00"
 	},
 	{
 		"name": "TATTA",
@@ -140,7 +141,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "FAI*VORTAC*335.29/40.00",
+		"updated": "FAI*VORTAC*335.29/40.00"
 	},
 	{
 		"name": "TAUTS",
@@ -149,7 +150,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/27/2014",
+		"updated": "10/27/2014"
 	},
 	{
 		"name": "TAVPE",
@@ -158,7 +159,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/21/2008",
+		"updated": "07/21/2008"
 	},
 	{
 		"name": "TAVUE",
@@ -167,7 +168,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/18/2014",
+		"updated": "11/18/2014"
 	},
 	{
 		"name": "TAWMO",
@@ -176,7 +177,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/12/2004",
+		"updated": "07/12/2004"
 	},
 	{
 		"name": "TAYKU",
@@ -185,7 +186,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/01/2003",
+		"updated": "12/01/2003"
 	},
 	{
 		"name": "TAYTA",
@@ -194,7 +195,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "06/19/1996",
+		"updated": "06/19/1996"
 	},
 	{
 		"name": "TAYUC",
@@ -203,7 +204,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/06/2008",
+		"updated": "08/06/2008"
 	},
 	{
 		"name": "TAZLI",
@@ -212,7 +213,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BGQ*VORTAC*103.19/38.00",
+		"updated": "BGQ*VORTAC*103.19/38.00"
 	},
 	{
 		"name": "TBEAR",
@@ -221,7 +222,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/13/2018",
+		"updated": "02/13/2018"
 	},
 	{
 		"name": "TBONE",
@@ -230,7 +231,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "EDF*TACAN*212.43/49.15",
+		"updated": "EDF*TACAN*212.43/49.15"
 	},
 	{
 		"name": "TDGNY",
@@ -239,7 +240,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "CN",
-		"updated": "06/17/2002",
+		"updated": "06/17/2002"
 	},
 	{
 		"name": "TDNBG",
@@ -248,7 +249,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "CN",
-		"updated": "06/17/2002",
+		"updated": "06/17/2002"
 	},
 	{
 		"name": "TDNSS",
@@ -257,7 +258,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "CN",
-		"updated": "06/17/2002",
+		"updated": "06/17/2002"
 	},
 	{
 		"name": "TEBCY",
@@ -266,7 +267,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/03/2007",
+		"updated": "05/03/2007"
 	},
 	{
 		"name": "TECLY",
@@ -275,7 +276,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/12/2004",
+		"updated": "07/12/2004"
 	},
 	{
 		"name": "TECOD",
@@ -284,7 +285,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/13/2011",
+		"updated": "12/13/2011"
 	},
 	{
 		"name": "TECON",
@@ -293,7 +294,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "CDB*VORTAC*114.00/24.99",
+		"updated": "CDB*VORTAC*114.00/24.99"
 	},
 	{
 		"name": "TECWA",
@@ -302,7 +303,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/25/2009",
+		"updated": "09/25/2009"
 	},
 	{
 		"name": "TEGDE",
@@ -311,7 +312,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "EAV*NDB*357.62",
+		"updated": "EAV*NDB*357.62"
 	},
 	{
 		"name": "TEGNE",
@@ -320,7 +321,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "12/09/2013",
+		"updated": "12/09/2013"
 	},
 	{
 		"name": "TEKME",
@@ -329,7 +330,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BRW*VOR/DME*044.00/1.52",
+		"updated": "BRW*VOR/DME*044.00/1.52"
 	},
 	{
 		"name": "TEKOC",
@@ -338,7 +339,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/02/2008",
+		"updated": "04/02/2008"
 	},
 	{
 		"name": "TEKUC",
@@ -347,7 +348,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/21/2007",
+		"updated": "09/21/2007"
 	},
 	{
 		"name": "TEMPS",
@@ -356,7 +357,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "WP",
-		"updated": "10/02/1995",
+		"updated": "10/02/1995"
 	},
 	{
 		"name": "TERNN",
@@ -365,7 +366,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/18/2016",
+		"updated": "05/18/2016"
 	},
 	{
 		"name": "TESMA",
@@ -374,7 +375,7 @@
 		"state": "",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/05/2016",
+		"updated": "12/05/2016"
 	},
 	{
 		"name": "TESPE",
@@ -383,7 +384,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "CDB*VORTAC*/72.07",
+		"updated": "CDB*VORTAC*/72.07"
 	},
 	{
 		"name": "TESUE",
@@ -392,7 +393,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ODK*VOR/DME*236.98/3.07",
+		"updated": "ODK*VOR/DME*236.98/3.07"
 	},
 	{
 		"name": "TEYUT",
@@ -401,7 +402,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/19/2012",
+		"updated": "03/19/2012"
 	},
 	{
 		"name": "THEPS",
@@ -410,7 +411,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "UNK*VOR/DME*315.45/16.00",
+		"updated": "UNK*VOR/DME*315.45/16.00"
 	},
 	{
 		"name": "TIBOY",
@@ -419,7 +420,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ORT*VORTAC*056.12/25.33",
+		"updated": "ORT*VORTAC*056.12/25.33"
 	},
 	{
 		"name": "TICCU",
@@ -428,7 +429,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ADK*NDB/DME*060.44/22.96",
+		"updated": "ADK*NDB/DME*060.44/22.96"
 	},
 	{
 		"name": "TICUR",
@@ -437,7 +438,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/29/2008",
+		"updated": "07/29/2008"
 	},
 	{
 		"name": "TIEKL",
@@ -446,7 +447,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/01/2012",
+		"updated": "11/01/2012"
 	},
 	{
 		"name": "TIGUE",
@@ -455,7 +456,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/26/2011",
+		"updated": "10/26/2011"
 	},
 	{
 		"name": "TIKGU",
@@ -464,7 +465,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/14/2016",
+		"updated": "03/14/2016"
 	},
 	{
 		"name": "TIKOW",
@@ -473,7 +474,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/12/2004",
+		"updated": "07/12/2004"
 	},
 	{
 		"name": "TILOY",
@@ -482,7 +483,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "TINOC",
@@ -491,7 +492,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/13/2005",
+		"updated": "10/13/2005"
 	},
 	{
 		"name": "TINUC",
@@ -500,7 +501,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/12/2007",
+		"updated": "04/12/2007"
 	},
 	{
 		"name": "TIPEH",
@@ -509,7 +510,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/17/2006",
+		"updated": "02/17/2006"
 	},
 	{
 		"name": "TIQUL",
@@ -518,7 +519,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/23/2008",
+		"updated": "10/23/2008"
 	},
 	{
 		"name": "TIRNE",
@@ -527,7 +528,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "FAI*VORTAC*032.01/50.00",
+		"updated": "FAI*VORTAC*032.01/50.00"
 	},
 	{
 		"name": "TITOC",
@@ -536,7 +537,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/27/2005",
+		"updated": "06/27/2005"
 	},
 	{
 		"name": "TITUY",
@@ -545,7 +546,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/05/2007",
+		"updated": "10/05/2007"
 	},
 	{
 		"name": "TIVSE",
@@ -554,7 +555,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "TMSON",
@@ -563,7 +564,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/01/2012",
+		"updated": "11/01/2012"
 	},
 	{
 		"name": "TNAKY",
@@ -572,7 +573,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/23/2016",
+		"updated": "08/23/2016"
 	},
 	{
 		"name": "TOBOY",
@@ -581,7 +582,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/03/2013",
+		"updated": "07/03/2013"
 	},
 	{
 		"name": "TOCOT",
@@ -590,7 +591,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/13/2005",
+		"updated": "10/13/2005"
 	},
 	{
 		"name": "TODCO",
@@ -599,7 +600,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/03/2008",
+		"updated": "03/03/2008"
 	},
 	{
 		"name": "TODME",
@@ -608,7 +609,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "CN",
-		"updated": "06/25/2003",
+		"updated": "06/25/2003"
 	},
 	{
 		"name": "TOFYE",
@@ -617,7 +618,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "CN",
-		"updated": "06/25/2003",
+		"updated": "06/25/2003"
 	},
 	{
 		"name": "TOGGU",
@@ -626,7 +627,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OME*LD*278.74/1.04",
+		"updated": "OME*LD*278.74/1.04"
 	},
 	{
 		"name": "TOKEE",
@@ -635,7 +636,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ANN*VOR/DME*289.55/80.00",
+		"updated": "ANN*VOR/DME*289.55/80.00"
 	},
 	{
 		"name": "TOLCI",
@@ -644,7 +645,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MW",
-		"updated": "11/23/2015",
+		"updated": "11/23/2015"
 	},
 	{
 		"name": "TOLLO",
@@ -653,7 +654,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENN*VORTAC*343.54/31.00",
+		"updated": "ENN*VORTAC*343.54/31.00"
 	},
 	{
 		"name": "TOMMM",
@@ -662,7 +663,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/13/2011",
+		"updated": "12/13/2011"
 	},
 	{
 		"name": "TOMMY",
@@ -671,7 +672,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "AKN*VORTAC*026.00/43.00",
+		"updated": "AKN*VORTAC*026.00/43.00"
 	},
 	{
 		"name": "TONGS",
@@ -680,7 +681,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/14/2011",
+		"updated": "03/14/2011"
 	},
 	{
 		"name": "TOORR",
@@ -689,7 +690,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "02/29/2012",
+		"updated": "02/29/2012"
 	},
 	{
 		"name": "TOPQI",
@@ -698,7 +699,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/24/2009",
+		"updated": "09/24/2009"
 	},
 	{
 		"name": "TORSK",
@@ -707,7 +708,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/27/2014",
+		"updated": "10/27/2014"
 	},
 	{
 		"name": "TORTE",
@@ -716,7 +717,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "TED*VOR/DME*253.04/57.14",
+		"updated": "TED*VOR/DME*253.04/57.14"
 	},
 	{
 		"name": "TOSIN",
@@ -725,7 +726,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "GKN*VOR/DME*161.08/25.00",
+		"updated": "GKN*VOR/DME*161.08/25.00"
 	},
 	{
 		"name": "TOSPY",
@@ -734,7 +735,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "CN",
-		"updated": "06/25/2003",
+		"updated": "06/25/2003"
 	},
 	{
 		"name": "TOSUE",
@@ -743,7 +744,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/16/2009",
+		"updated": "12/16/2009"
 	},
 	{
 		"name": "TOTLE",
@@ -752,7 +753,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/13/2017",
+		"updated": "04/13/2017"
 	},
 	{
 		"name": "TOTSE",
@@ -761,7 +762,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/09/2017",
+		"updated": "08/09/2017"
 	},
 	{
 		"name": "TOYKU",
@@ -770,7 +771,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HSL*VOR/DME*086.04/12.00",
+		"updated": "HSL*VOR/DME*086.04/12.00"
 	},
 	{
 		"name": "TOYNO",
@@ -779,7 +780,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/29/2008",
+		"updated": "07/29/2008"
 	},
 	{
 		"name": "TOYUP",
@@ -788,7 +789,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/01/2016",
+		"updated": "12/01/2016"
 	},
 	{
 		"name": "TRAID",
@@ -797,7 +798,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "11/29/2012",
+		"updated": "11/29/2012"
 	},
 	{
 		"name": "TRDWL",
@@ -806,7 +807,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "04/19/2018",
+		"updated": "04/19/2018"
 	},
 	{
 		"name": "TROLS",
@@ -815,7 +816,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EDF*TACAN*242.05/4.20",
+		"updated": "EDF*TACAN*242.05/4.20"
 	},
 	{
 		"name": "TRONN",
@@ -824,7 +825,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SRI*NDB/DME*286.61/5.98",
+		"updated": "SRI*NDB/DME*286.61/5.98"
 	},
 	{
 		"name": "TRPLN",
@@ -833,7 +834,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/21/2015",
+		"updated": "10/21/2015"
 	},
 	{
 		"name": "TRUDI",
@@ -842,7 +843,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BIG*VORTAC*017.00/5.00",
+		"updated": "BIG*VORTAC*017.00/5.00"
 	},
 	{
 		"name": "TRUKE",
@@ -851,7 +852,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "EHM*NDB/DME*001.75/5.97",
+		"updated": "EHM*NDB/DME*001.75/5.97"
 	},
 	{
 		"name": "TRUMN",
@@ -860,7 +861,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/25/2009",
+		"updated": "09/25/2009"
 	},
 	{
 		"name": "TTAUN",
@@ -869,7 +870,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/08/2008",
+		"updated": "05/08/2008"
 	},
 	{
 		"name": "TUBDE",
@@ -878,7 +879,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "OTZ*LD*W CRS/11.31",
+		"updated": "OTZ*LD*W CRS/11.31"
 	},
 	{
 		"name": "TUBNE",
@@ -887,7 +888,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "FAI*VORTAC*099.00/72.55",
+		"updated": "FAI*VORTAC*099.00/72.55"
 	},
 	{
 		"name": "TUBRE",
@@ -896,7 +897,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/08/2016",
+		"updated": "08/08/2016"
 	},
 	{
 		"name": "TUCCI",
@@ -905,7 +906,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/09/2009",
+		"updated": "09/09/2009"
 	},
 	{
 		"name": "TUCDU",
@@ -914,7 +915,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "06/16/2009",
+		"updated": "06/16/2009"
 	},
 	{
 		"name": "TUCKS",
@@ -923,7 +924,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "HOM*VOR/DME*301.00",
+		"updated": "HOM*VOR/DME*301.00"
 	},
 	{
 		"name": "TUCOD",
@@ -932,7 +933,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "PSG*DD*344.00/10.18",
+		"updated": "PSG*DD*344.00/10.18"
 	},
 	{
 		"name": "TUCUL",
@@ -941,7 +942,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "08/01/2007",
+		"updated": "08/01/2007"
 	},
 	{
 		"name": "TUDUE",
@@ -950,7 +951,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "07/29/2008",
+		"updated": "07/29/2008"
 	},
 	{
 		"name": "TUJVE",
@@ -959,7 +960,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/20/2011",
+		"updated": "05/20/2011"
 	},
 	{
 		"name": "TULLI",
@@ -968,7 +969,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ANC*LD*W CRS/6.67",
+		"updated": "ANC*LD*W CRS/6.67"
 	},
 	{
 		"name": "TULOC",
@@ -977,7 +978,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "10/23/2008",
+		"updated": "10/23/2008"
 	},
 	{
 		"name": "TUNDA",
@@ -986,7 +987,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "BRW*VOR/DME*088.25/72.00",
+		"updated": "BRW*VOR/DME*088.25/72.00"
 	},
 	{
 		"name": "TUNLL",
@@ -995,7 +996,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "12/21/2015",
+		"updated": "12/21/2015"
 	},
 	{
 		"name": "TUNND",
@@ -1004,7 +1005,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "MR",
-		"updated": "LUR*NDB/DME*050.00/6.00",
+		"updated": "LUR*NDB/DME*050.00/6.00"
 	},
 	{
 		"name": "TURKS",
@@ -1013,7 +1014,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "SQM*NDB*307.96",
+		"updated": "SQM*NDB*307.96"
 	},
 	{
 		"name": "TURTY",
@@ -1022,7 +1023,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "05/12/2016",
+		"updated": "05/12/2016"
 	},
 	{
 		"name": "TUVVO",
@@ -1031,7 +1032,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "FYU*VORTAC*318.74/65.86",
+		"updated": "FYU*VORTAC*318.74/65.86"
 	},
 	{
 		"name": "TUXTY",
@@ -1040,7 +1041,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "03/11/2009",
+		"updated": "03/11/2009"
 	},
 	{
 		"name": "TUYOC",
@@ -1049,7 +1050,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "AKN*VORTAC*115.77/35.00",
+		"updated": "AKN*VORTAC*115.77/35.00"
 	},
 	{
 		"name": "TUYOY",
@@ -1058,7 +1059,7 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RNAV",
-		"updated": "09/09/2009",
+		"updated": "09/09/2009"
 	},
 	{
 		"name": "TWIGI",
@@ -1067,5 +1068,6 @@
 		"state": "ALASKA",
 		"artcc": "ZAN",
 		"type": "RP",
-		"updated": "ENA*VOR/DME*265.53/8.00",
-	},
+		"updated": "ENA*VOR/DME*265.53/8.00"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "IBIGE",
 		"latitude": "35-47-23.37 N",
@@ -5,7 +6,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/31/2008",
+		"updated": "03/31/2008"
 	},
 	{
 		"name": "IBOBE",
@@ -14,7 +15,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/13/2009",
+		"updated": "05/13/2009"
 	},
 	{
 		"name": "ICBAH",
@@ -23,7 +24,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "CN",
-		"updated": "05/14/2009",
+		"updated": "05/14/2009"
 	},
 	{
 		"name": "ICOGU",
@@ -32,7 +33,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/17/2007",
+		"updated": "01/17/2007"
 	},
 	{
 		"name": "IFADE",
@@ -41,7 +42,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/17/2011",
+		"updated": "06/17/2011"
 	},
 	{
 		"name": "IFEPU",
@@ -50,7 +51,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "FST*VORTAC*116.00/8.00",
+		"updated": "FST*VORTAC*116.00/8.00"
 	},
 	{
 		"name": "IFNUR",
@@ -59,7 +60,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*143.44/18.01",
+		"updated": "PXR*VORTAC*143.44/18.01"
 	},
 	{
 		"name": "IFURI",
@@ -68,7 +69,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "IGAXE",
@@ -77,7 +78,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "GBN*VORTAC*115.00/18.00",
+		"updated": "GBN*VORTAC*115.00/18.00"
 	},
 	{
 		"name": "IHIKY",
@@ -86,7 +87,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "IKOZE",
@@ -95,7 +96,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "ILEEN",
@@ -104,7 +105,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*VORTAC*123.04/20.00",
+		"updated": "TUS*VORTAC*123.04/20.00"
 	},
 	{
 		"name": "ILELE",
@@ -113,7 +114,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/19/2009",
+		"updated": "10/19/2009"
 	},
 	{
 		"name": "ILIKE",
@@ -122,7 +123,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SYQ*LD*258.06/14.76",
+		"updated": "SYQ*LD*258.06/14.76"
 	},
 	{
 		"name": "ILOVE",
@@ -131,7 +132,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "ILOZA",
@@ -140,7 +141,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/30/2010",
+		"updated": "11/30/2010"
 	},
 	{
 		"name": "IMEGY",
@@ -149,7 +150,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/26/2014",
+		"updated": "02/26/2014"
 	},
 	{
 		"name": "IMIRE",
@@ -158,7 +159,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/28/2004",
+		"updated": "05/28/2004"
 	},
 	{
 		"name": "IMMAS",
@@ -167,7 +168,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/11/2011",
+		"updated": "08/11/2011"
 	},
 	{
 		"name": "IMOBE",
@@ -176,7 +177,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/30/2010",
+		"updated": "11/30/2010"
 	},
 	{
 		"name": "INEGE",
@@ -185,7 +186,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "BGD*VORTAC*173.48/12.00",
+		"updated": "BGD*VORTAC*173.48/12.00"
 	},
 	{
 		"name": "INFER",
@@ -194,7 +195,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*212.00/9.00",
+		"updated": "HMN*TACAN*212.00/9.00"
 	},
 	{
 		"name": "INKLE",
@@ -203,7 +204,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "OLS*VOR/DME*316.00/14.03",
+		"updated": "OLS*VOR/DME*316.00/14.03"
 	},
 	{
 		"name": "INNKA",
@@ -212,7 +213,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DHT*VORTAC*106.00/14.00",
+		"updated": "DHT*VORTAC*106.00/14.00"
 	},
 	{
 		"name": "IPATE",
@@ -221,7 +222,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/27/2014",
+		"updated": "08/27/2014"
 	},
 	{
 		"name": "IPHIB",
@@ -230,7 +231,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/05/2010",
+		"updated": "05/05/2010"
 	},
 	{
 		"name": "IPIME",
@@ -239,7 +240,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "BGD*VORTAC*050.00/10.00",
+		"updated": "BGD*VORTAC*050.00/10.00"
 	},
 	{
 		"name": "IPNUC",
@@ -248,7 +249,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CME*VORTAC*150.73/17.00",
+		"updated": "CME*VORTAC*150.73/17.00"
 	},
 	{
 		"name": "IPXUJ",
@@ -257,7 +258,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "CN",
-		"updated": "05/14/2009",
+		"updated": "05/14/2009"
 	},
 	{
 		"name": "IRECU",
@@ -266,7 +267,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SJN*VORTAC*283.53/31.00",
+		"updated": "SJN*VORTAC*283.53/31.00"
 	},
 	{
 		"name": "IREVE",
@@ -275,7 +276,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TCC*VORTAC*058.34/18.00",
+		"updated": "TCC*VORTAC*058.34/18.00"
 	},
 	{
 		"name": "IRODY",
@@ -284,7 +285,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DRK*VORTAC*349.00/12.50",
+		"updated": "DRK*VORTAC*349.00/12.50"
 	},
 	{
 		"name": "IRULY",
@@ -293,7 +294,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "CN",
-		"updated": "12/24/2002",
+		"updated": "12/24/2002"
 	},
 	{
 		"name": "ISOCO",
@@ -302,7 +303,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "ISSEP",
@@ -311,7 +312,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/23/2011",
+		"updated": "02/23/2011"
 	},
 	{
 		"name": "ISTOW",
@@ -320,7 +321,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/17/2011",
+		"updated": "10/17/2011"
 	},
 	{
 		"name": "ITBOW",
@@ -329,7 +330,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/25/2005",
+		"updated": "02/25/2005"
 	},
 	{
 		"name": "ITEMM",
@@ -338,7 +339,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SSO*VORTAC*273.10/70.00",
+		"updated": "SSO*VORTAC*273.10/70.00"
 	},
 	{
 		"name": "ITUCO",
@@ -347,7 +348,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/30/2005",
+		"updated": "09/30/2005"
 	},
 	{
 		"name": "ITUNE",
@@ -356,7 +357,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/29/2012",
+		"updated": "11/29/2012"
 	},
 	{
 		"name": "IVVRY",
@@ -365,7 +366,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "IWA*VORTAC*122.24/14.90",
+		"updated": "IWA*VORTAC*122.24/14.90"
 	},
 	{
 		"name": "IWEDU",
@@ -374,7 +375,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/17/2011",
+		"updated": "06/17/2011"
 	},
 	{
 		"name": "IXAKE",
@@ -383,7 +384,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/19/2012",
+		"updated": "06/19/2012"
 	},
 	{
 		"name": "IXUHU",
@@ -392,7 +393,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/05/2011",
+		"updated": "01/05/2011"
 	},
 	{
 		"name": "IYTEY",
@@ -401,7 +402,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/26/2011",
+		"updated": "08/26/2011"
 	},
 	{
 		"name": "IZMIR",
@@ -410,7 +411,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DUG*VORTAC*051.23/10.00",
+		"updated": "DUG*VORTAC*051.23/10.00"
 	},
 	{
 		"name": "IZOSI",
@@ -419,7 +420,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DUG*VORTAC*286.38/10.00",
+		"updated": "DUG*VORTAC*286.38/10.00"
 	},
 	{
 		"name": "IZSAH",
@@ -428,7 +429,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "CN",
-		"updated": "12/21/1999",
+		"updated": "12/21/1999"
 	},
 	{
 		"name": "IZTIR",
@@ -437,7 +438,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*054.40/45.99",
+		"updated": "PXR*VORTAC*054.40/45.99"
 	},
 	{
 		"name": "IZUTU",
@@ -446,7 +447,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "CN",
-		"updated": "12/21/1999",
+		"updated": "12/21/1999"
 	},
 	{
 		"name": "IZZOM",
@@ -455,7 +456,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SJN*VORTAC*059.46/5.00",
+		"updated": "SJN*VORTAC*059.46/5.00"
 	},
 	{
 		"name": "IZZYY",
@@ -464,7 +465,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MW",
-		"updated": "10/26/2016",
+		"updated": "10/26/2016"
 	},
 	{
 		"name": "IZZZO",
@@ -473,5 +474,6 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/11/2014",
-	},
+		"updated": "08/11/2014"
+	}
+]

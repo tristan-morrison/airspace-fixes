@@ -1,3 +1,4 @@
+[
 	{
 		"name": "MEKSO",
 		"latitude": "45-47-21.0807 N",
@@ -5,7 +6,7 @@
 		"state": "",
 		"artcc": "ZUL",
 		"type": "RNAV",
-		"updated": "11/09/2016",
+		"updated": "11/09/2016"
 	},
 	{
 		"name": "MENKO",
@@ -14,7 +15,7 @@
 		"state": "",
 		"artcc": "ZUL",
 		"type": "RNAV",
-		"updated": "09/23/2014",
+		"updated": "09/23/2014"
 	},
 	{
 		"name": "MIGLO",
@@ -23,7 +24,7 @@
 		"state": "",
 		"artcc": "ZUL",
 		"type": "RNAV",
-		"updated": "11/09/2016",
+		"updated": "11/09/2016"
 	},
 	{
 		"name": "MIILS",
@@ -32,5 +33,6 @@
 		"state": "",
 		"artcc": "ZUL",
 		"type": "RNAV",
-		"updated": "10/06/2016",
-	},
+		"updated": "10/06/2016"
+	}
+]

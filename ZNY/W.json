@@ -1,3 +1,4 @@
+[
 	{
 		"name": "WABAT",
 		"latitude": "40-50-8.96 N",
@@ -5,7 +6,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/25/2005",
+		"updated": "04/25/2005"
 	},
 	{
 		"name": "WABEP",
@@ -14,7 +15,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/20/2011",
+		"updated": "04/20/2011"
 	},
 	{
 		"name": "WACCY",
@@ -23,7 +24,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/25/2015",
+		"updated": "06/25/2015"
 	},
 	{
 		"name": "WACKI",
@@ -32,7 +33,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/16/2012",
+		"updated": "08/16/2012"
 	},
 	{
 		"name": "WADOX",
@@ -41,7 +42,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/24/2015",
+		"updated": "03/24/2015"
 	},
 	{
 		"name": "WAGGS",
@@ -50,7 +51,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "06/14/1991",
+		"updated": "06/14/1991"
 	},
 	{
 		"name": "WAIVY",
@@ -59,7 +60,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "PSB*VORTAC*130.98/5.50",
+		"updated": "PSB*VORTAC*130.98/5.50"
 	},
 	{
 		"name": "WAKUG",
@@ -68,7 +69,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/24/2017",
+		"updated": "04/24/2017"
 	},
 	{
 		"name": "WALOB",
@@ -77,7 +78,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "WALUB",
@@ -86,7 +87,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/08/2009",
+		"updated": "12/08/2009"
 	},
 	{
 		"name": "WAMCA",
@@ -95,7 +96,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "PNE*LS*240.40",
+		"updated": "PNE*LS*240.40"
 	},
 	{
 		"name": "WAMUV",
@@ -104,7 +105,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/12/2011",
+		"updated": "12/12/2011"
 	},
 	{
 		"name": "WANES",
@@ -113,7 +114,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "TEB*VOR/DME*305.00/10.80",
+		"updated": "TEB*VOR/DME*305.00/10.80"
 	},
 	{
 		"name": "WANUT",
@@ -122,7 +123,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "FQM*VOR/DME*249.73/14.98",
+		"updated": "FQM*VOR/DME*249.73/14.98"
 	},
 	{
 		"name": "WANVA",
@@ -131,7 +132,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SAX*VORTAC*084.31/12.61",
+		"updated": "SAX*VORTAC*084.31/12.61"
 	},
 	{
 		"name": "WAPKO",
@@ -140,7 +141,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/18/2006",
+		"updated": "08/18/2006"
 	},
 	{
 		"name": "WARIN",
@@ -149,7 +150,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LGA*VOR/DME*/2.92",
+		"updated": "LGA*VOR/DME*/2.92"
 	},
 	{
 		"name": "WAROG",
@@ -158,7 +159,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/12/2011",
+		"updated": "12/12/2011"
 	},
 	{
 		"name": "WARRD",
@@ -167,7 +168,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ARD*VOR/DME*083.02",
+		"updated": "ARD*VOR/DME*083.02"
 	},
 	{
 		"name": "WASIB",
@@ -176,7 +177,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "WASIG",
@@ -185,7 +186,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/10/2011",
+		"updated": "03/10/2011"
 	},
 	{
 		"name": "WASUR",
@@ -194,7 +195,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/12/2006",
+		"updated": "12/12/2006"
 	},
 	{
 		"name": "WATSO",
@@ -203,7 +204,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "MIP*VORTAC*289.21/7.75",
+		"updated": "MIP*VORTAC*289.21/7.75"
 	},
 	{
 		"name": "WAUHO",
@@ -212,7 +213,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/10/2017",
+		"updated": "01/10/2017"
 	},
 	{
 		"name": "WAVAK",
@@ -221,7 +222,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/06/2017",
+		"updated": "11/06/2017"
 	},
 	{
 		"name": "WAVAX",
@@ -230,7 +231,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "IPT*LD*085.96/5.97",
+		"updated": "IPT*LD*085.96/5.97"
 	},
 	{
 		"name": "WAVEY",
@@ -239,7 +240,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "JFK*VOR/DME*156.00/29.47",
+		"updated": "JFK*VOR/DME*156.00/29.47"
 	},
 	{
 		"name": "WAYVS",
@@ -248,7 +249,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/10/2017",
+		"updated": "01/10/2017"
 	},
 	{
 		"name": "WEBBB",
@@ -257,7 +258,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/09/2008",
+		"updated": "04/09/2008"
 	},
 	{
 		"name": "WEBTI",
@@ -266,7 +267,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/30/2012",
+		"updated": "05/30/2012"
 	},
 	{
 		"name": "WECOL",
@@ -275,7 +276,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HNK*VOR/DME*159.48/19.50",
+		"updated": "HNK*VOR/DME*159.48/19.50"
 	},
 	{
 		"name": "WEDPU",
@@ -284,7 +285,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/21/2017",
+		"updated": "08/21/2017"
 	},
 	{
 		"name": "WEDUB",
@@ -293,7 +294,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/23/2006",
+		"updated": "08/23/2006"
 	},
 	{
 		"name": "WEFIX",
@@ -302,7 +303,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MW",
-		"updated": "11/21/2017",
+		"updated": "11/21/2017"
 	},
 	{
 		"name": "WEISS",
@@ -311,7 +312,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ETX*VOR/DME*004.38",
+		"updated": "ETX*VOR/DME*004.38"
 	},
 	{
 		"name": "WEJTI",
@@ -320,7 +321,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/09/2010",
+		"updated": "02/09/2010"
 	},
 	{
 		"name": "WEKAS",
@@ -329,7 +330,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SAX*VORTAC*185.14/3.91",
+		"updated": "SAX*VORTAC*185.14/3.91"
 	},
 	{
 		"name": "WELDD",
@@ -338,7 +339,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/21/2016",
+		"updated": "04/21/2016"
 	},
 	{
 		"name": "WELTZ",
@@ -347,7 +348,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "JHW*VOR/DME*114.00",
+		"updated": "JHW*VOR/DME*114.00"
 	},
 	{
 		"name": "WENAN",
@@ -356,7 +357,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/10/2017",
+		"updated": "01/10/2017"
 	},
 	{
 		"name": "WENDA",
@@ -365,7 +366,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/16/2006",
+		"updated": "10/16/2006"
 	},
 	{
 		"name": "WEPLA",
@@ -374,7 +375,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/11/2008",
+		"updated": "08/11/2008"
 	},
 	{
 		"name": "WEPNA",
@@ -383,7 +384,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "PTW*VORTAC*286.89/19.49",
+		"updated": "PTW*VORTAC*286.89/19.49"
 	},
 	{
 		"name": "WERIN",
@@ -392,7 +393,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/10/2002",
+		"updated": "06/10/2002"
 	},
 	{
 		"name": "WESIP",
@@ -401,7 +402,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/24/2017",
+		"updated": "08/24/2017"
 	},
 	{
 		"name": "WETKA",
@@ -410,7 +411,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/09/2014",
+		"updated": "12/09/2014"
 	},
 	{
 		"name": "WEXIN",
@@ -419,7 +420,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "IZK*LD*045.37/5.97",
+		"updated": "IZK*LD*045.37/5.97"
 	},
 	{
 		"name": "WHEYY",
@@ -428,7 +429,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/26/2002",
+		"updated": "09/26/2002"
 	},
 	{
 		"name": "WHITE",
@@ -437,7 +438,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "COL*VOR/DME*204.00",
+		"updated": "COL*VOR/DME*204.00"
 	},
 	{
 		"name": "WHITT",
@@ -446,7 +447,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LVZ*VORTAC*189.65/14.39",
+		"updated": "LVZ*VORTAC*189.65/14.39"
 	},
 	{
 		"name": "WHITZ",
@@ -455,7 +456,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "MR",
-		"updated": "RBV*VORTAC*269.00/3.00",
+		"updated": "RBV*VORTAC*269.00/3.00"
 	},
 	{
 		"name": "WHOOS",
@@ -464,7 +465,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/15/2016",
+		"updated": "09/15/2016"
 	},
 	{
 		"name": "WIBUM",
@@ -473,7 +474,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/28/2009",
+		"updated": "01/28/2009"
 	},
 	{
 		"name": "WIGOM",
@@ -482,7 +483,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LGA*VOR/DME*226.02/3.00",
+		"updated": "LGA*VOR/DME*226.02/3.00"
 	},
 	{
 		"name": "WIKKI",
@@ -491,7 +492,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ULW*VOR/DME*058.10/15.00",
+		"updated": "ULW*VOR/DME*058.10/15.00"
 	},
 	{
 		"name": "WIKMO",
@@ -500,7 +501,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/24/2012",
+		"updated": "07/24/2012"
 	},
 	{
 		"name": "WIKUM",
@@ -509,7 +510,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/13/2017",
+		"updated": "03/13/2017"
 	},
 	{
 		"name": "WILEN",
@@ -518,7 +519,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LRP*VOR/DME*296.24/11.00",
+		"updated": "LRP*VOR/DME*296.24/11.00"
 	},
 	{
 		"name": "WILLL",
@@ -527,7 +528,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/23/2014",
+		"updated": "04/23/2014"
 	},
 	{
 		"name": "WILSS",
@@ -536,7 +537,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HAR*VORTAC*275.43",
+		"updated": "HAR*VORTAC*275.43"
 	},
 	{
 		"name": "WIMOX",
@@ -545,7 +546,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/13/2017",
+		"updated": "03/13/2017"
 	},
 	{
 		"name": "WIMTU",
@@ -554,7 +555,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/30/2016",
+		"updated": "08/30/2016"
 	},
 	{
 		"name": "WINGO",
@@ -563,7 +564,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/10/2011",
+		"updated": "06/10/2011"
 	},
 	{
 		"name": "WINGZ",
@@ -572,7 +573,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "BDA*VOR/DME*118.10/178.80",
+		"updated": "BDA*VOR/DME*118.10/178.80"
 	},
 	{
 		"name": "WINKK",
@@ -581,7 +582,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CYN*VORTAC*100.00/19.36",
+		"updated": "CYN*VORTAC*100.00/19.36"
 	},
 	{
 		"name": "WIPAS",
@@ -590,7 +591,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/23/2006",
+		"updated": "08/23/2006"
 	},
 	{
 		"name": "WIRAK",
@@ -599,7 +600,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/24/2008",
+		"updated": "12/24/2008"
 	},
 	{
 		"name": "WIRKO",
@@ -608,7 +609,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/25/2012",
+		"updated": "04/25/2012"
 	},
 	{
 		"name": "WISAL",
@@ -617,7 +618,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/04/2011",
+		"updated": "11/04/2011"
 	},
 	{
 		"name": "WITAD",
@@ -626,7 +627,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/30/2012",
+		"updated": "05/30/2012"
 	},
 	{
 		"name": "WITEV",
@@ -635,7 +636,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/23/2006",
+		"updated": "08/23/2006"
 	},
 	{
 		"name": "WITGI",
@@ -644,7 +645,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/23/2004",
+		"updated": "02/23/2004"
 	},
 	{
 		"name": "WITKN",
@@ -653,7 +654,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/27/2000",
+		"updated": "09/27/2000"
 	},
 	{
 		"name": "WIVUS",
@@ -662,7 +663,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/17/2003",
+		"updated": "03/17/2003"
 	},
 	{
 		"name": "WOBKA",
@@ -671,7 +672,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/28/2006",
+		"updated": "09/28/2006"
 	},
 	{
 		"name": "WOGUB",
@@ -680,7 +681,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/24/2006",
+		"updated": "08/24/2006"
 	},
 	{
 		"name": "WOKPU",
@@ -689,7 +690,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/04/2011",
+		"updated": "11/04/2011"
 	},
 	{
 		"name": "WOKUS",
@@ -698,7 +699,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/27/2010",
+		"updated": "01/27/2010"
 	},
 	{
 		"name": "WOKVU",
@@ -707,7 +708,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "WOLDO",
@@ -716,7 +717,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/24/2006",
+		"updated": "08/24/2006"
 	},
 	{
 		"name": "WOLES",
@@ -725,7 +726,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/26/2005",
+		"updated": "07/26/2005"
 	},
 	{
 		"name": "WOMKO",
@@ -734,7 +735,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/14/2013",
+		"updated": "08/14/2013"
 	},
 	{
 		"name": "WOMLO",
@@ -743,7 +744,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/24/2006",
+		"updated": "08/24/2006"
 	},
 	{
 		"name": "WOMOD",
@@ -752,7 +753,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/19/2017",
+		"updated": "04/19/2017"
 	},
 	{
 		"name": "WONEP",
@@ -761,7 +762,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "WONGS",
@@ -770,7 +771,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LVZ*VORTAC*349.41/23.32",
+		"updated": "LVZ*VORTAC*349.41/23.32"
 	},
 	{
 		"name": "WONNU",
@@ -779,7 +780,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/18/2012",
+		"updated": "10/18/2012"
 	},
 	{
 		"name": "WONOT",
@@ -788,7 +789,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/19/2017",
+		"updated": "04/19/2017"
 	},
 	{
 		"name": "WOPUR",
@@ -797,7 +798,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/06/2017",
+		"updated": "11/06/2017"
 	},
 	{
 		"name": "WOREX",
@@ -806,7 +807,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "UNV*LS*063.76",
+		"updated": "UNV*LS*063.76"
 	},
 	{
 		"name": "WOSAR",
@@ -815,7 +816,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "WOSIT",
@@ -824,7 +825,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/28/2009",
+		"updated": "01/28/2009"
 	},
 	{
 		"name": "WOTIB",
@@ -833,7 +834,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/12/2011",
+		"updated": "04/12/2011"
 	},
 	{
 		"name": "WOVNA",
@@ -842,7 +843,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "WOVNO",
@@ -851,7 +852,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "WOXAV",
@@ -860,7 +861,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/26/2012",
+		"updated": "04/26/2012"
 	},
 	{
 		"name": "WOXZU",
@@ -869,7 +870,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "07/18/2013",
+		"updated": "07/18/2013"
 	},
 	{
 		"name": "WRENN",
@@ -878,7 +879,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*322.00",
+		"updated": "DPK*VOR/DME*322.00"
 	},
 	{
 		"name": "WRSKI",
@@ -887,7 +888,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/29/2017",
+		"updated": "09/29/2017"
 	},
 	{
 		"name": "WTHRS",
@@ -896,7 +897,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/10/2017",
+		"updated": "01/10/2017"
 	},
 	{
 		"name": "WUDAB",
@@ -905,7 +906,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "WUDGO",
@@ -914,7 +915,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/02/2012",
+		"updated": "10/02/2012"
 	},
 	{
 		"name": "WUDUL",
@@ -923,7 +924,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SFK*VOR/DME*044.37/14.00",
+		"updated": "SFK*VOR/DME*044.37/14.00"
 	},
 	{
 		"name": "WUGAL",
@@ -932,7 +933,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "JFK*VOR/DME*052.00/7.00",
+		"updated": "JFK*VOR/DME*052.00/7.00"
 	},
 	{
 		"name": "WUGTU",
@@ -941,7 +942,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/30/2016",
+		"updated": "08/30/2016"
 	},
 	{
 		"name": "WUKAL",
@@ -950,7 +951,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/21/2017",
+		"updated": "04/21/2017"
 	},
 	{
 		"name": "WULVI",
@@ -959,7 +960,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/17/2014",
+		"updated": "06/17/2014"
 	},
 	{
 		"name": "WUNDR",
@@ -968,7 +969,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SFK*VOR/DME*188.76/21.77",
+		"updated": "SFK*VOR/DME*188.76/21.77"
 	},
 	{
 		"name": "WUNIG",
@@ -977,7 +978,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/11/2017",
+		"updated": "12/11/2017"
 	},
 	{
 		"name": "WUNOK",
@@ -986,7 +987,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/24/2017",
+		"updated": "08/24/2017"
 	},
 	{
 		"name": "WUPMA",
@@ -995,7 +996,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "WUPUN",
@@ -1004,7 +1005,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/08/2016",
+		"updated": "09/08/2016"
 	},
 	{
 		"name": "WURAT",
@@ -1013,7 +1014,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/24/2006",
+		"updated": "08/24/2006"
 	},
 	{
 		"name": "WUSIP",
@@ -1022,7 +1023,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/19/2012",
+		"updated": "06/19/2012"
 	},
 	{
 		"name": "WUSOB",
@@ -1031,7 +1032,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/18/2009",
+		"updated": "11/18/2009"
 	},
 	{
 		"name": "WUSUS",
@@ -1040,7 +1041,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/24/2012",
+		"updated": "07/24/2012"
 	},
 	{
 		"name": "WUVPU",
@@ -1049,7 +1050,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "WUZYU",
@@ -1058,7 +1059,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/02/2008",
+		"updated": "05/02/2008"
 	},
 	{
 		"name": "WYOLA",
@@ -1067,5 +1068,6 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "MXE*VORTAC*067.96/10.77",
-	},
+		"updated": "MXE*VORTAC*067.96/10.77"
+	}
+]

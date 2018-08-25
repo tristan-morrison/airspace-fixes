@@ -1,3 +1,4 @@
+[
 	{
 		"name": "LACKA",
 		"latitude": "37-57-11.15 N",
@@ -5,7 +6,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "GCK*VORTAC*269.76/11.00",
+		"updated": "GCK*VORTAC*269.76/11.00"
 	},
 	{
 		"name": "LADSY",
@@ -14,7 +15,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "10/23/2012",
+		"updated": "10/23/2012"
 	},
 	{
 		"name": "LADYD",
@@ -23,7 +24,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "RNI*LD*274.12/14.08",
+		"updated": "RNI*LD*274.12/14.08"
 	},
 	{
 		"name": "LAGLE",
@@ -32,7 +33,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/05/2008",
+		"updated": "03/05/2008"
 	},
 	{
 		"name": "LAKLE",
@@ -41,7 +42,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/31/2005",
+		"updated": "05/31/2005"
 	},
 	{
 		"name": "LAMOI",
@@ -50,7 +51,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "12/10/2010",
+		"updated": "12/10/2010"
 	},
 	{
 		"name": "LAMOO",
@@ -59,7 +60,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/16/2009",
+		"updated": "03/16/2009"
 	},
 	{
 		"name": "LANEZ",
@@ -68,7 +69,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "DGD*VORTAC*353.00",
+		"updated": "DGD*VORTAC*353.00"
 	},
 	{
 		"name": "LARCS",
@@ -77,7 +78,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "VIH*VOR/DME*247.80/27.10",
+		"updated": "VIH*VOR/DME*247.80/27.10"
 	},
 	{
 		"name": "LARKO",
@@ -86,7 +87,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "PER*VORTAC*195.00/39.42",
+		"updated": "PER*VORTAC*195.00/39.42"
 	},
 	{
 		"name": "LARPY",
@@ -95,7 +96,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/09/2007",
+		"updated": "08/09/2007"
 	},
 	{
 		"name": "LASDE",
@@ -104,7 +105,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "RTT*LE*N CRS/10.99",
+		"updated": "RTT*LE*N CRS/10.99"
 	},
 	{
 		"name": "LASKI",
@@ -113,7 +114,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "CNU*VOR/DME*287.76/63.80",
+		"updated": "CNU*VOR/DME*287.76/63.80"
 	},
 	{
 		"name": "LASSI",
@@ -122,7 +123,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/19/2007",
+		"updated": "07/19/2007"
 	},
 	{
 		"name": "LASSO",
@@ -131,7 +132,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ANX*VORTAC*357.68/27.29",
+		"updated": "ANX*VORTAC*357.68/27.29"
 	},
 	{
 		"name": "LASTS",
@@ -140,7 +141,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "IFI*VORTAC*063.00/37.39",
+		"updated": "IFI*VORTAC*063.00/37.39"
 	},
 	{
 		"name": "LATHA",
@@ -149,7 +150,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "AXC*VORTAC*276.43/16.54",
+		"updated": "AXC*VORTAC*276.43/16.54"
 	},
 	{
 		"name": "LATOC",
@@ -158,7 +159,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "LBL*VORTAC*075.23/30.38",
+		"updated": "LBL*VORTAC*075.23/30.38"
 	},
 	{
 		"name": "LAUSN",
@@ -167,7 +168,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/31/2013",
+		"updated": "01/31/2013"
 	},
 	{
 		"name": "LAXKE",
@@ -176,7 +177,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/17/2007",
+		"updated": "07/17/2007"
 	},
 	{
 		"name": "LAYIC",
@@ -185,7 +186,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "LBL*VORTAC*075.23/13.00",
+		"updated": "LBL*VORTAC*075.23/13.00"
 	},
 	{
 		"name": "LEBOH",
@@ -194,7 +195,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/28/2010",
+		"updated": "05/28/2010"
 	},
 	{
 		"name": "LEBOY",
@@ -203,7 +204,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "STL*VORTAC*352.00/34.59",
+		"updated": "STL*VORTAC*352.00/34.59"
 	},
 	{
 		"name": "LEBSE",
@@ -212,7 +213,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "12/28/2007",
+		"updated": "12/28/2007"
 	},
 	{
 		"name": "LECNI",
@@ -221,7 +222,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "LEEAN",
@@ -230,7 +231,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "CSX*VOR/DME*143.16/33.90",
+		"updated": "CSX*VOR/DME*143.16/33.90"
 	},
 	{
 		"name": "LEGAL",
@@ -239,7 +240,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "PWE*VORTAC*189.02/40.00",
+		"updated": "PWE*VORTAC*189.02/40.00"
 	},
 	{
 		"name": "LEHMN",
@@ -248,7 +249,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/24/2005",
+		"updated": "08/24/2005"
 	},
 	{
 		"name": "LENDE",
@@ -257,7 +258,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/05/2007",
+		"updated": "07/05/2007"
 	},
 	{
 		"name": "LENIC",
@@ -266,7 +267,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/28/2010",
+		"updated": "03/28/2010"
 	},
 	{
 		"name": "LENIN",
@@ -275,7 +276,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SLN*VORTAC*177.00/22.00",
+		"updated": "SLN*VORTAC*177.00/22.00"
 	},
 	{
 		"name": "LENOX",
@@ -284,7 +285,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "VIH*VOR/DME*149.82",
+		"updated": "VIH*VOR/DME*149.82"
 	},
 	{
 		"name": "LENXX",
@@ -293,7 +294,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/06/2012",
+		"updated": "08/06/2012"
 	},
 	{
 		"name": "LEONA",
@@ -302,7 +303,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "MR",
-		"updated": "MCI*VORTAC*310.79/39.89",
+		"updated": "MCI*VORTAC*310.79/39.89"
 	},
 	{
 		"name": "LEPTE",
@@ -311,7 +312,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "MR",
-		"updated": "END*VORTAC*144.00/9.30",
+		"updated": "END*VORTAC*144.00/9.30"
 	},
 	{
 		"name": "LETAA",
@@ -320,7 +321,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "LETRR",
@@ -329,7 +330,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/27/2012",
+		"updated": "11/27/2012"
 	},
 	{
 		"name": "LEXIN",
@@ -338,7 +339,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ANX*VORTAC*041.34",
+		"updated": "ANX*VORTAC*041.34"
 	},
 	{
 		"name": "LEYDE",
@@ -347,7 +348,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/14/2008",
+		"updated": "05/14/2008"
 	},
 	{
 		"name": "LFRED",
@@ -356,7 +357,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/27/2014",
+		"updated": "05/27/2014"
 	},
 	{
 		"name": "LIBEY",
@@ -365,7 +366,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/19/2003",
+		"updated": "02/19/2003"
 	},
 	{
 		"name": "LICHT",
@@ -374,7 +375,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SGF*LD*198.79/5.02",
+		"updated": "SGF*LD*198.79/5.02"
 	},
 	{
 		"name": "LICKO",
@@ -383,7 +384,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "09/09/2005",
+		"updated": "09/09/2005"
 	},
 	{
 		"name": "LICOL",
@@ -392,7 +393,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "AXC*VORTAC*284.02",
+		"updated": "AXC*VORTAC*284.02"
 	},
 	{
 		"name": "LICYI",
@@ -401,7 +402,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/19/2002",
+		"updated": "11/19/2002"
 	},
 	{
 		"name": "LIDPE",
@@ -410,7 +411,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "07/28/2017",
+		"updated": "07/28/2017"
 	},
 	{
 		"name": "LIISA",
@@ -419,7 +420,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/28/2012",
+		"updated": "08/28/2012"
 	},
 	{
 		"name": "LINLE",
@@ -428,7 +429,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "MR",
-		"updated": "END*VORTAC*182.00/15.00",
+		"updated": "END*VORTAC*182.00/15.00"
 	},
 	{
 		"name": "LINPE",
@@ -437,7 +438,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "01/04/2012",
+		"updated": "01/04/2012"
 	},
 	{
 		"name": "LITCH",
@@ -446,7 +447,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "VLA*VORTAC*297.98",
+		"updated": "VLA*VORTAC*297.98"
 	},
 	{
 		"name": "LITIC",
@@ -455,7 +456,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "12/01/2005",
+		"updated": "12/01/2005"
 	},
 	{
 		"name": "LIVSY",
@@ -464,7 +465,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/27/2012",
+		"updated": "06/27/2012"
 	},
 	{
 		"name": "LIYIT",
@@ -473,7 +474,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/09/2007",
+		"updated": "08/09/2007"
 	},
 	{
 		"name": "LIYPE",
@@ -482,7 +483,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/23/2007",
+		"updated": "02/23/2007"
 	},
 	{
 		"name": "LIZZK",
@@ -491,7 +492,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "LOAMY",
@@ -500,7 +501,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "IRK*VORTAC*058.65/40.93",
+		"updated": "IRK*VORTAC*058.65/40.93"
 	},
 	{
 		"name": "LOCER",
@@ -509,7 +510,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/26/2012",
+		"updated": "03/26/2012"
 	},
 	{
 		"name": "LOFTY",
@@ -518,7 +519,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "VLA*VORTAC*298.00",
+		"updated": "VLA*VORTAC*298.00"
 	},
 	{
 		"name": "LOJOV",
@@ -527,7 +528,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "SGF*VORTAC*024.05/49.88",
+		"updated": "SGF*VORTAC*024.05/49.88"
 	},
 	{
 		"name": "LOLCU",
@@ -536,7 +537,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/16/2006",
+		"updated": "05/16/2006"
 	},
 	{
 		"name": "LOMAC",
@@ -545,7 +546,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "BVO*VOR/DME*179.00/23.12",
+		"updated": "BVO*VOR/DME*179.00/23.12"
 	},
 	{
 		"name": "LONGG",
@@ -554,7 +555,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "MR",
-		"updated": "IFI*VORTAC*275.00/26.00",
+		"updated": "IFI*VORTAC*275.00/26.00"
 	},
 	{
 		"name": "LORLE",
@@ -563,7 +564,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "CSX*VOR/DME*326.21/40.00",
+		"updated": "CSX*VOR/DME*326.21/40.00"
 	},
 	{
 		"name": "LORNY",
@@ -572,7 +573,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "MW",
-		"updated": "04/30/2007",
+		"updated": "04/30/2007"
 	},
 	{
 		"name": "LOTTT",
@@ -581,7 +582,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "MR",
-		"updated": "TIK*TACAN*/5.14",
+		"updated": "TIK*TACAN*/5.14"
 	},
 	{
 		"name": "LOVEE",
@@ -590,7 +591,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "BUM*VORTAC*153.85/21.00",
+		"updated": "BUM*VORTAC*153.85/21.00"
 	},
 	{
 		"name": "LOVRE",
@@ -599,7 +600,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/20/2005",
+		"updated": "06/20/2005"
 	},
 	{
 		"name": "LOYAL",
@@ -608,7 +609,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "MR",
-		"updated": "IFI*VORTAC*272.00/28.00",
+		"updated": "IFI*VORTAC*272.00/28.00"
 	},
 	{
 		"name": "LOYEB",
@@ -617,7 +618,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/25/2014",
+		"updated": "02/25/2014"
 	},
 	{
 		"name": "LUCAZ",
@@ -626,7 +627,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "EOS*VOR/DME*102.00/22.00",
+		"updated": "EOS*VOR/DME*102.00/22.00"
 	},
 	{
 		"name": "LUCGY",
@@ -635,7 +636,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/16/2003",
+		"updated": "06/16/2003"
 	},
 	{
 		"name": "LUGIF",
@@ -644,7 +645,7 @@
 		"state": "IOWA",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/27/2018",
+		"updated": "03/27/2018"
 	},
 	{
 		"name": "LUHVY",
@@ -653,7 +654,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/04/2002",
+		"updated": "02/04/2002"
 	},
 	{
 		"name": "LUKEE",
@@ -662,7 +663,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "PER*VORTAC*144.00",
+		"updated": "PER*VORTAC*144.00"
 	},
 	{
 		"name": "LULYI",
@@ -671,7 +672,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/07/2007",
+		"updated": "05/07/2007"
 	},
 	{
 		"name": "LUMUQ",
@@ -680,7 +681,7 @@
 		"state": "TEXAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "06/20/2013",
+		"updated": "06/20/2013"
 	},
 	{
 		"name": "LUNCH",
@@ -689,7 +690,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ANX*VORTAC*133.62/18.00",
+		"updated": "ANX*VORTAC*133.62/18.00"
 	},
 	{
 		"name": "LUNGY",
@@ -698,7 +699,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/24/2005",
+		"updated": "08/24/2005"
 	},
 	{
 		"name": "LURRE",
@@ -707,7 +708,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/12/2008",
+		"updated": "02/12/2008"
 	},
 	{
 		"name": "LUSGY",
@@ -716,7 +717,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "MMB*VORTAC*062.00/7.00",
+		"updated": "MMB*VORTAC*062.00/7.00"
 	},
 	{
 		"name": "LUSIY",
@@ -725,7 +726,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "03/05/2008",
+		"updated": "03/05/2008"
 	},
 	{
 		"name": "LUSLY",
@@ -734,7 +735,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "CMI*VORTAC*212.00",
+		"updated": "CMI*VORTAC*212.00"
 	},
 	{
 		"name": "LUSSO",
@@ -743,7 +744,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "LUUBE",
@@ -752,7 +753,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "08/06/2012",
+		"updated": "08/06/2012"
 	},
 	{
 		"name": "LUYIR",
@@ -761,7 +762,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "VIH*VOR/DME*267.94/27.99",
+		"updated": "VIH*VOR/DME*267.94/27.99"
 	},
 	{
 		"name": "LUYIY",
@@ -770,7 +771,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "EMP*VORTAC*126.00/7.00",
+		"updated": "EMP*VORTAC*126.00/7.00"
 	},
 	{
 		"name": "LWEIS",
@@ -779,7 +780,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "05/04/2016",
+		"updated": "05/04/2016"
 	},
 	{
 		"name": "LYGHT",
@@ -788,7 +789,7 @@
 		"state": "KANSAS",
 		"artcc": "ZKC",
 		"type": "RNAV",
-		"updated": "11/26/2002",
+		"updated": "11/26/2002"
 	},
 	{
 		"name": "LYMES",
@@ -797,7 +798,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "ANX*VORTAC*357.68",
+		"updated": "ANX*VORTAC*357.68"
 	},
 	{
 		"name": "LYMON",
@@ -806,5 +807,6 @@
 		"state": "ILLINOIS",
 		"artcc": "ZKC",
 		"type": "RP",
-		"updated": "BIB*VORTAC*134.29",
-	},
+		"updated": "BIB*VORTAC*134.29"
+	}
+]

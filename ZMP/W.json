@@ -1,3 +1,4 @@
+[
 	{
 		"name": "WABAM",
 		"latitude": "44-17-0.48 N",
@@ -5,7 +6,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PIR*VORTAC*151.12/7.00",
+		"updated": "PIR*VORTAC*151.12/7.00"
 	},
 	{
 		"name": "WABBS",
@@ -14,7 +15,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "HKZ*LD*NW CRS/3.16",
+		"updated": "HKZ*LD*NW CRS/3.16"
 	},
 	{
 		"name": "WABEX",
@@ -23,7 +24,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "04/01/2011",
+		"updated": "04/01/2011"
 	},
 	{
 		"name": "WABIL",
@@ -32,7 +33,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/05/2008",
+		"updated": "03/05/2008"
 	},
 	{
 		"name": "WABIV",
@@ -41,7 +42,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2009",
+		"updated": "06/28/2009"
 	},
 	{
 		"name": "WABNY",
@@ -50,7 +51,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "11/24/2015",
+		"updated": "11/24/2015"
 	},
 	{
 		"name": "WABOT",
@@ -59,7 +60,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/23/2004",
+		"updated": "09/23/2004"
 	},
 	{
 		"name": "WADGA",
@@ -68,7 +69,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/14/2013",
+		"updated": "06/14/2013"
 	},
 	{
 		"name": "WADIM",
@@ -77,7 +78,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DVL*VOR/DME*180.00/15.00",
+		"updated": "DVL*VOR/DME*180.00/15.00"
 	},
 	{
 		"name": "WADRI",
@@ -86,7 +87,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FSD*VORTAC*109.85/3.64",
+		"updated": "FSD*VORTAC*109.85/3.64"
 	},
 	{
 		"name": "WAFLE",
@@ -95,7 +96,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OSH*VORTAC*044.00",
+		"updated": "OSH*VORTAC*044.00"
 	},
 	{
 		"name": "WAFTS",
@@ -104,7 +105,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/19/2017",
+		"updated": "12/19/2017"
 	},
 	{
 		"name": "WAGIK",
@@ -113,7 +114,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MKT*VOR/DME*238.18/28.00",
+		"updated": "MKT*VOR/DME*238.18/28.00"
 	},
 	{
 		"name": "WAGLO",
@@ -122,7 +123,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/07/2010",
+		"updated": "04/07/2010"
 	},
 	{
 		"name": "WAGNI",
@@ -131,7 +132,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FAR*VOR/DME*101.00/10.00",
+		"updated": "FAR*VOR/DME*101.00/10.00"
 	},
 	{
 		"name": "WAGNO",
@@ -140,7 +141,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/04/2003",
+		"updated": "06/04/2003"
 	},
 	{
 		"name": "WAGNR",
@@ -149,7 +150,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*103.00/16.81",
+		"updated": "GEP*VORTAC*103.00/16.81"
 	},
 	{
 		"name": "WAGUX",
@@ -158,7 +159,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "WAKAN",
@@ -167,7 +168,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "MW",
-		"updated": "03/10/2014",
+		"updated": "03/10/2014"
 	},
 	{
 		"name": "WAKEP",
@@ -176,7 +177,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "WAKMA",
@@ -185,7 +186,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/20/2014",
+		"updated": "02/20/2014"
 	},
 	{
 		"name": "WAKNA",
@@ -194,7 +195,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "AEL*VOR/DME*353.00/1.90",
+		"updated": "AEL*VOR/DME*353.00/1.90"
 	},
 	{
 		"name": "WAKUV",
@@ -203,7 +204,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/18/2012",
+		"updated": "12/18/2012"
 	},
 	{
 		"name": "WALDI",
@@ -212,7 +213,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SSM*VOR/DME*267.26/10.00",
+		"updated": "SSM*VOR/DME*267.26/10.00"
 	},
 	{
 		"name": "WALDU",
@@ -221,7 +222,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/24/2004",
+		"updated": "05/24/2004"
 	},
 	{
 		"name": "WALGO",
@@ -230,7 +231,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/18/2002",
+		"updated": "01/18/2002"
 	},
 	{
 		"name": "WALIB",
@@ -239,7 +240,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/03/2012",
+		"updated": "01/03/2012"
 	},
 	{
 		"name": "WALUR",
@@ -248,7 +249,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/15/2002",
+		"updated": "01/15/2002"
 	},
 	{
 		"name": "WAMAG",
@@ -257,7 +258,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/05/2008",
+		"updated": "03/05/2008"
 	},
 	{
 		"name": "WAMDU",
@@ -266,7 +267,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/14/2010",
+		"updated": "02/14/2010"
 	},
 	{
 		"name": "WAMET",
@@ -275,7 +276,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "CBF*LD*176.47/12.26",
+		"updated": "CBF*LD*176.47/12.26"
 	},
 	{
 		"name": "WAMGA",
@@ -284,7 +285,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "RDR*TACAN*/1.80",
+		"updated": "RDR*TACAN*/1.80"
 	},
 	{
 		"name": "WAMOM",
@@ -293,7 +294,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "11/04/2013",
+		"updated": "11/04/2013"
 	},
 	{
 		"name": "WAMZU",
@@ -302,7 +303,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/19/2012",
+		"updated": "04/19/2012"
 	},
 	{
 		"name": "WANAP",
@@ -311,7 +312,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/16/2008",
+		"updated": "10/16/2008"
 	},
 	{
 		"name": "WANBI",
@@ -320,7 +321,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/22/2010",
+		"updated": "03/22/2010"
 	},
 	{
 		"name": "WANPO",
@@ -329,7 +330,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/05/2015",
+		"updated": "01/05/2015"
 	},
 	{
 		"name": "WANRI",
@@ -338,7 +339,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "INL*VOR/DME*176.31/14.00",
+		"updated": "INL*VOR/DME*176.31/14.00"
 	},
 	{
 		"name": "WANSO",
@@ -347,7 +348,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/02/2008",
+		"updated": "01/02/2008"
 	},
 	{
 		"name": "WANUY",
@@ -356,7 +357,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/14/2012",
+		"updated": "11/14/2012"
 	},
 	{
 		"name": "WAPAL",
@@ -365,7 +366,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/21/2014",
+		"updated": "02/21/2014"
 	},
 	{
 		"name": "WAPEB",
@@ -374,7 +375,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SUX*VORTAC*132.00/10.00",
+		"updated": "SUX*VORTAC*132.00/10.00"
 	},
 	{
 		"name": "WAPIR",
@@ -383,7 +384,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "WAPKU",
@@ -392,7 +393,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/06/2012",
+		"updated": "09/06/2012"
 	},
 	{
 		"name": "WAPSA",
@@ -401,7 +402,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2013",
+		"updated": "05/30/2013"
 	},
 	{
 		"name": "WARAP",
@@ -410,7 +411,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/16/2018",
+		"updated": "04/16/2018"
 	},
 	{
 		"name": "WARIL",
@@ -419,7 +420,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/17/2011",
+		"updated": "05/17/2011"
 	},
 	{
 		"name": "WARNI",
@@ -428,7 +429,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/01/2018",
+		"updated": "05/01/2018"
 	},
 	{
 		"name": "WARTA",
@@ -437,7 +438,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/04/2011",
+		"updated": "10/04/2011"
 	},
 	{
 		"name": "WARWF",
@@ -446,7 +447,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MNM*VOR/DME*212.12/17.69",
+		"updated": "MNM*VOR/DME*212.12/17.69"
 	},
 	{
 		"name": "WASHR",
@@ -455,7 +456,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIS*VOR/DME*332.52/34.00",
+		"updated": "BIS*VOR/DME*332.52/34.00"
 	},
 	{
 		"name": "WASHY",
@@ -464,7 +465,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PJL*LD*NW CRS/7.77",
+		"updated": "PJL*LD*NW CRS/7.77"
 	},
 	{
 		"name": "WASOS",
@@ -473,7 +474,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "IDJ*VOR/DME*305.78/6.35",
+		"updated": "IDJ*VOR/DME*305.78/6.35"
 	},
 	{
 		"name": "WASPS",
@@ -482,7 +483,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "IWD*VORTAC*280.44/32.00",
+		"updated": "IWD*VORTAC*280.44/32.00"
 	},
 	{
 		"name": "WASWK",
@@ -491,7 +492,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/10/2014",
+		"updated": "07/10/2014"
 	},
 	{
 		"name": "WATAM",
@@ -500,7 +501,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/13/2017",
+		"updated": "06/13/2017"
 	},
 	{
 		"name": "WATGI",
@@ -509,7 +510,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/24/2014",
+		"updated": "03/24/2014"
 	},
 	{
 		"name": "WATKU",
@@ -518,7 +519,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/14/2013",
+		"updated": "03/14/2013"
 	},
 	{
 		"name": "WATOL",
@@ -527,7 +528,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/02/2005",
+		"updated": "05/02/2005"
 	},
 	{
 		"name": "WATTY",
@@ -536,7 +537,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DSM*VORTAC*317.61/18.97",
+		"updated": "DSM*VORTAC*317.61/18.97"
 	},
 	{
 		"name": "WAVUK",
@@ -545,7 +546,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/03/2009",
+		"updated": "01/03/2009"
 	},
 	{
 		"name": "WAYZA",
@@ -554,7 +555,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "HKZ*LD*301.33/14.36",
+		"updated": "HKZ*LD*301.33/14.36"
 	},
 	{
 		"name": "WBSTR",
@@ -563,7 +564,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/14/2015",
+		"updated": "01/14/2015"
 	},
 	{
 		"name": "WDBRY",
@@ -572,7 +573,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/14/2015",
+		"updated": "01/14/2015"
 	},
 	{
 		"name": "WEASL",
@@ -581,7 +582,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FCM*VOR/DME*097.17/22.50",
+		"updated": "FCM*VOR/DME*097.17/22.50"
 	},
 	{
 		"name": "WEBKI",
@@ -590,7 +591,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/29/2012",
+		"updated": "11/29/2012"
 	},
 	{
 		"name": "WEBOB",
@@ -599,7 +600,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/22/2016",
+		"updated": "11/22/2016"
 	},
 	{
 		"name": "WEBYE",
@@ -608,7 +609,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ODI*VORTAC*121.05/30.49",
+		"updated": "ODI*VORTAC*121.05/30.49"
 	},
 	{
 		"name": "WECQO",
@@ -617,7 +618,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/22/2007",
+		"updated": "08/22/2007"
 	},
 	{
 		"name": "WEDAM",
@@ -626,7 +627,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/25/2013",
+		"updated": "06/25/2013"
 	},
 	{
 		"name": "WEDKA",
@@ -635,7 +636,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/24/2017",
+		"updated": "04/24/2017"
 	},
 	{
 		"name": "WEDNE",
@@ -644,7 +645,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "WEDNU",
@@ -653,7 +654,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/18/2012",
+		"updated": "05/18/2012"
 	},
 	{
 		"name": "WEDOR",
@@ -662,7 +663,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/17/2013",
+		"updated": "12/17/2013"
 	},
 	{
 		"name": "WEDPI",
@@ -671,7 +672,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2006",
+		"updated": "02/09/2006"
 	},
 	{
 		"name": "WEDUL",
@@ -680,7 +681,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/13/2005",
+		"updated": "06/13/2005"
 	},
 	{
 		"name": "WEDVA",
@@ -689,7 +690,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/14/2013",
+		"updated": "06/14/2013"
 	},
 	{
 		"name": "WEGAB",
@@ -698,7 +699,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/15/2008",
+		"updated": "10/15/2008"
 	},
 	{
 		"name": "WEKER",
@@ -707,7 +708,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "WEKOM",
@@ -716,7 +717,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "APN*VORTAC*090.00/15.00",
+		"updated": "APN*VORTAC*090.00/15.00"
 	},
 	{
 		"name": "WEKOV",
@@ -725,7 +726,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/23/2011",
+		"updated": "05/23/2011"
 	},
 	{
 		"name": "WELEB",
@@ -734,7 +735,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "WELEK",
@@ -743,7 +744,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MHE*VOR/DME*336.54/13.95",
+		"updated": "MHE*VOR/DME*336.54/13.95"
 	},
 	{
 		"name": "WELIK",
@@ -752,7 +753,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/05/2015",
+		"updated": "05/05/2015"
 	},
 	{
 		"name": "WELKO",
@@ -761,7 +762,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MBL*VOR/DME*176.88",
+		"updated": "MBL*VOR/DME*176.88"
 	},
 	{
 		"name": "WELOG",
@@ -770,7 +771,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MOT*VORTAC*257.68/15.40",
+		"updated": "MOT*VORTAC*257.68/15.40"
 	},
 	{
 		"name": "WELOK",
@@ -779,7 +780,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/20/2014",
+		"updated": "09/20/2014"
 	},
 	{
 		"name": "WELTE",
@@ -788,7 +789,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*349.00",
+		"updated": "OVR*VORTAC*349.00"
 	},
 	{
 		"name": "WELVI",
@@ -797,7 +798,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MBS*VOR/DME*356.00/27.15",
+		"updated": "MBS*VOR/DME*356.00/27.15"
 	},
 	{
 		"name": "WELVO",
@@ -806,7 +807,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/21/2011",
+		"updated": "12/21/2011"
 	},
 	{
 		"name": "WEMAN",
@@ -815,7 +816,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DLH*VORTAC*046.21/36.00",
+		"updated": "DLH*VORTAC*046.21/36.00"
 	},
 	{
 		"name": "WEMSU",
@@ -824,7 +825,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/19/2012",
+		"updated": "04/19/2012"
 	},
 	{
 		"name": "WEMUP",
@@ -833,7 +834,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "TVF*VOR/DME*/12.00",
+		"updated": "TVF*VOR/DME*/12.00"
 	},
 	{
 		"name": "WENEG",
@@ -842,7 +843,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/20/2012",
+		"updated": "07/20/2012"
 	},
 	{
 		"name": "WENEK",
@@ -851,7 +852,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/29/2017",
+		"updated": "09/29/2017"
 	},
 	{
 		"name": "WENIB",
@@ -860,7 +861,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RZN*VOR/DME*293.26/35.13",
+		"updated": "RZN*VOR/DME*293.26/35.13"
 	},
 	{
 		"name": "WENNR",
@@ -869,7 +870,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FAR*VOR/DME*104.43/75.00",
+		"updated": "FAR*VOR/DME*104.43/75.00"
 	},
 	{
 		"name": "WENTZ",
@@ -878,7 +879,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/31/2017",
+		"updated": "05/31/2017"
 	},
 	{
 		"name": "WENUN",
@@ -887,7 +888,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/15/2016",
+		"updated": "06/15/2016"
 	},
 	{
 		"name": "WENVI",
@@ -896,7 +897,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "WEPDA",
@@ -905,7 +906,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/13/2016",
+		"updated": "04/13/2016"
 	},
 	{
 		"name": "WEPIM",
@@ -914,7 +915,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/02/2008",
+		"updated": "12/02/2008"
 	},
 	{
 		"name": "WEPVO",
@@ -923,7 +924,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/25/2016",
+		"updated": "02/25/2016"
 	},
 	{
 		"name": "WERAM",
@@ -932,7 +933,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/23/2012",
+		"updated": "03/23/2012"
 	},
 	{
 		"name": "WERAV",
@@ -941,7 +942,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/30/2008",
+		"updated": "07/30/2008"
 	},
 	{
 		"name": "WERIR",
@@ -950,7 +951,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/22/2016",
+		"updated": "11/22/2016"
 	},
 	{
 		"name": "WEROK",
@@ -959,7 +960,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/19/2008",
+		"updated": "08/19/2008"
 	},
 	{
 		"name": "WERUL",
@@ -968,7 +969,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/18/2012",
+		"updated": "09/18/2012"
 	},
 	{
 		"name": "WESAP",
@@ -977,7 +978,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/19/2006",
+		"updated": "01/19/2006"
 	},
 	{
 		"name": "WESBA",
@@ -986,7 +987,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/20/2008",
+		"updated": "11/20/2008"
 	},
 	{
 		"name": "WESBY",
@@ -995,7 +996,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FAR*VOR/DME*358.66/15.68",
+		"updated": "FAR*VOR/DME*358.66/15.68"
 	},
 	{
 		"name": "WESIX",
@@ -1004,7 +1005,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/03/2016",
+		"updated": "10/03/2016"
 	},
 	{
 		"name": "WESUD",
@@ -1013,7 +1014,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/27/2009",
+		"updated": "10/27/2009"
 	},
 	{
 		"name": "WESUS",
@@ -1022,7 +1023,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/10/2013",
+		"updated": "06/10/2013"
 	},
 	{
 		"name": "WETMA",
@@ -1031,7 +1032,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/10/2014",
+		"updated": "09/10/2014"
 	},
 	{
 		"name": "WETMO",
@@ -1040,7 +1041,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/18/2012",
+		"updated": "09/18/2012"
 	},
 	{
 		"name": "WETOS",
@@ -1049,7 +1050,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "LNK*VORTAC*005.00/2.00",
+		"updated": "LNK*VORTAC*005.00/2.00"
 	},
 	{
 		"name": "WETUB",
@@ -1058,7 +1059,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/12/2014",
+		"updated": "09/12/2014"
 	},
 	{
 		"name": "WETUG",
@@ -1067,7 +1068,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/03/2011",
+		"updated": "01/03/2011"
 	},
 	{
 		"name": "WEVBA",
@@ -1076,7 +1077,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "WEVNU",
@@ -1085,7 +1086,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/04/2014",
+		"updated": "11/04/2014"
 	},
 	{
 		"name": "WEWNY",
@@ -1094,7 +1095,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "WEXEL",
@@ -1103,7 +1104,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/20/2012",
+		"updated": "03/20/2012"
 	},
 	{
 		"name": "WEXOR",
@@ -1112,7 +1113,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MAY*LD*W CRS/6.46",
+		"updated": "MAY*LD*W CRS/6.46"
 	},
 	{
 		"name": "WHIPP",
@@ -1121,7 +1122,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MOP*VOR/DME*073.00",
+		"updated": "MOP*VOR/DME*073.00"
 	},
 	{
 		"name": "WHISK",
@@ -1130,7 +1131,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*085.00/17.46",
+		"updated": "GEP*VORTAC*085.00/17.46"
 	},
 	{
 		"name": "WHOOP",
@@ -1139,7 +1140,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ASP*VOR/DME*252.60",
+		"updated": "ASP*VOR/DME*252.60"
 	},
 	{
 		"name": "WHOSO",
@@ -1148,7 +1149,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/13/2014",
+		"updated": "03/13/2014"
 	},
 	{
 		"name": "WIBAM",
@@ -1157,7 +1158,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/26/2007",
+		"updated": "06/26/2007"
 	},
 	{
 		"name": "WIBIL",
@@ -1166,7 +1167,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/13/2005",
+		"updated": "06/13/2005"
 	},
 	{
 		"name": "WIBIX",
@@ -1175,7 +1176,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/21/2009",
+		"updated": "01/21/2009"
 	},
 	{
 		"name": "WIBUD",
@@ -1184,7 +1185,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "WICFI",
@@ -1193,7 +1194,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/31/2005",
+		"updated": "10/31/2005"
 	},
 	{
 		"name": "WICKA",
@@ -1202,7 +1203,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "HON*VORTAC*032.70/53.62",
+		"updated": "HON*VORTAC*032.70/53.62"
 	},
 	{
 		"name": "WIDIS",
@@ -1211,7 +1212,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RWF*VOR/DME*053.88/38.00",
+		"updated": "RWF*VOR/DME*053.88/38.00"
 	},
 	{
 		"name": "WIEDS",
@@ -1220,7 +1221,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DLH*VORTAC*310.00/60.00",
+		"updated": "DLH*VORTAC*310.00/60.00"
 	},
 	{
 		"name": "WIGAG",
@@ -1229,7 +1230,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIS*VOR/DME*/16.00",
+		"updated": "BIS*VOR/DME*/16.00"
 	},
 	{
 		"name": "WIGRO",
@@ -1238,7 +1239,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "LNK*VORTAC*353.93/20.00",
+		"updated": "LNK*VORTAC*353.93/20.00"
 	},
 	{
 		"name": "WIHFY",
@@ -1247,7 +1248,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/20/2009",
+		"updated": "02/20/2009"
 	},
 	{
 		"name": "WIKAP",
@@ -1256,7 +1257,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/28/2009",
+		"updated": "04/28/2009"
 	},
 	{
 		"name": "WIKBU",
@@ -1265,7 +1266,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "WILAV",
@@ -1274,7 +1275,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/09/2008",
+		"updated": "10/09/2008"
 	},
 	{
 		"name": "WILCX",
@@ -1283,7 +1284,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/15/2011",
+		"updated": "06/15/2011"
 	},
 	{
 		"name": "WILDD",
@@ -1292,7 +1293,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*103.00/126.03",
+		"updated": "GEP*VORTAC*103.00/126.03"
 	},
 	{
 		"name": "WILES",
@@ -1301,7 +1302,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FOD*VORTAC*289.82/12.00",
+		"updated": "FOD*VORTAC*289.82/12.00"
 	},
 	{
 		"name": "WILOP",
@@ -1310,7 +1311,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "TKO*VORTAC*340.80/15.00",
+		"updated": "TKO*VORTAC*340.80/15.00"
 	},
 	{
 		"name": "WILRT",
@@ -1319,7 +1320,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/23/2011",
+		"updated": "05/23/2011"
 	},
 	{
 		"name": "WILTN",
@@ -1328,7 +1329,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIS*VOR/DME*332.53/20.00",
+		"updated": "BIS*VOR/DME*332.53/20.00"
 	},
 	{
 		"name": "WIMAG",
@@ -1337,7 +1338,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/02/2013",
+		"updated": "01/02/2013"
 	},
 	{
 		"name": "WIMJY",
@@ -1346,7 +1347,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GPZ*VOR/DME*356.25/13.73",
+		"updated": "GPZ*VOR/DME*356.25/13.73"
 	},
 	{
 		"name": "WIMQE",
@@ -1355,7 +1356,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/22/2007",
+		"updated": "08/22/2007"
 	},
 	{
 		"name": "WIMRA",
@@ -1364,7 +1365,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/20/2012",
+		"updated": "03/20/2012"
 	},
 	{
 		"name": "WIMTO",
@@ -1373,7 +1374,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIS*VOR/DME*/17.00",
+		"updated": "BIS*VOR/DME*/17.00"
 	},
 	{
 		"name": "WIMUS",
@@ -1382,7 +1383,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/21/2009",
+		"updated": "01/21/2009"
 	},
 	{
 		"name": "WINDD",
@@ -1391,7 +1392,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "WINEL",
@@ -1400,7 +1401,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/09/2011",
+		"updated": "05/09/2011"
 	},
 	{
 		"name": "WINEP",
@@ -1409,7 +1410,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ESC*VOR/DME*157.49/12.00",
+		"updated": "ESC*VOR/DME*157.49/12.00"
 	},
 	{
 		"name": "WINFY",
@@ -1418,7 +1419,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIS*VOR/DME*271.00/2.87",
+		"updated": "BIS*VOR/DME*271.00/2.87"
 	},
 	{
 		"name": "WINIV",
@@ -1427,7 +1428,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/15/2011",
+		"updated": "06/15/2011"
 	},
 	{
 		"name": "WINLI",
@@ -1436,7 +1437,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/24/2011",
+		"updated": "05/24/2011"
 	},
 	{
 		"name": "WINUL",
@@ -1445,7 +1446,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/21/2009",
+		"updated": "01/21/2009"
 	},
 	{
 		"name": "WINUV",
@@ -1454,7 +1455,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/07/2008",
+		"updated": "04/07/2008"
 	},
 	{
 		"name": "WIPAD",
@@ -1463,7 +1464,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/18/2011",
+		"updated": "07/18/2011"
 	},
 	{
 		"name": "WIPLY",
@@ -1472,7 +1473,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2013",
+		"updated": "06/28/2013"
 	},
 	{
 		"name": "WIRDE",
@@ -1481,7 +1482,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FAR*VOR/DME*115.76/15.00",
+		"updated": "FAR*VOR/DME*115.76/15.00"
 	},
 	{
 		"name": "WIRES",
@@ -1490,7 +1491,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "MIB*TACAN*302.00/25.00",
+		"updated": "MIB*TACAN*302.00/25.00"
 	},
 	{
 		"name": "WIRIX",
@@ -1499,7 +1500,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/13/2012",
+		"updated": "06/13/2012"
 	},
 	{
 		"name": "WIRPI",
@@ -1508,7 +1509,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/15/2011",
+		"updated": "12/15/2011"
 	},
 	{
 		"name": "WIRSA",
@@ -1517,7 +1518,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DLH*VORTAC*078.11/15.00",
+		"updated": "DLH*VORTAC*078.11/15.00"
 	},
 	{
 		"name": "WIRUV",
@@ -1526,7 +1527,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GFK*VOR/DME*097.23/18.80",
+		"updated": "GFK*VOR/DME*097.23/18.80"
 	},
 	{
 		"name": "WISBU",
@@ -1535,7 +1536,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/23/2013",
+		"updated": "01/23/2013"
 	},
 	{
 		"name": "WISCN",
@@ -1544,7 +1545,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/20/2014",
+		"updated": "09/20/2014"
 	},
 	{
 		"name": "WISEK",
@@ -1553,7 +1554,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIS*VOR/DME*117.24/36.00",
+		"updated": "BIS*VOR/DME*117.24/36.00"
 	},
 	{
 		"name": "WITKI",
@@ -1562,7 +1563,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "WITPU",
@@ -1571,7 +1572,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/15/2013",
+		"updated": "04/15/2013"
 	},
 	{
 		"name": "WITUD",
@@ -1580,7 +1581,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/02/2008",
+		"updated": "12/02/2008"
 	},
 	{
 		"name": "WITVU",
@@ -1589,7 +1590,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/15/2016",
+		"updated": "06/15/2016"
 	},
 	{
 		"name": "WIVEY",
@@ -1598,7 +1599,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DSM*VORTAC*189.12/13.18",
+		"updated": "DSM*VORTAC*189.12/13.18"
 	},
 	{
 		"name": "WIVFO",
@@ -1607,7 +1608,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2006",
+		"updated": "02/09/2006"
 	},
 	{
 		"name": "WIVKA",
@@ -1616,7 +1617,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/29/2013",
+		"updated": "04/29/2013"
 	},
 	{
 		"name": "WIVTA",
@@ -1625,7 +1626,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/14/2013",
+		"updated": "02/14/2013"
 	},
 	{
 		"name": "WIXAG",
@@ -1634,7 +1635,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/08/2006",
+		"updated": "06/08/2006"
 	},
 	{
 		"name": "WIZNU",
@@ -1643,7 +1644,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/17/2011",
+		"updated": "05/17/2011"
 	},
 	{
 		"name": "WLCHS",
@@ -1652,7 +1653,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/19/2018",
+		"updated": "04/19/2018"
 	},
 	{
 		"name": "WLSTN",
@@ -1661,7 +1662,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*072.00/101.76",
+		"updated": "GEP*VORTAC*072.00/101.76"
 	},
 	{
 		"name": "WOBAX",
@@ -1670,7 +1671,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/23/2014",
+		"updated": "09/23/2014"
 	},
 	{
 		"name": "WOBEV",
@@ -1679,7 +1680,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/20/2012",
+		"updated": "07/20/2012"
 	},
 	{
 		"name": "WOBGI",
@@ -1688,7 +1689,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/27/2011",
+		"updated": "04/27/2011"
 	},
 	{
 		"name": "WODER",
@@ -1697,7 +1698,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/18/2002",
+		"updated": "01/18/2002"
 	},
 	{
 		"name": "WODEV",
@@ -1706,7 +1707,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/27/2001",
+		"updated": "08/27/2001"
 	},
 	{
 		"name": "WODIV",
@@ -1715,7 +1716,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "WODOT",
@@ -1724,7 +1725,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/29/2015",
+		"updated": "06/29/2015"
 	},
 	{
 		"name": "WODPO",
@@ -1733,7 +1734,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/28/2015",
+		"updated": "07/28/2015"
 	},
 	{
 		"name": "WODTY",
@@ -1742,7 +1743,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ABR*VOR/DME*345.02/36.00",
+		"updated": "ABR*VOR/DME*345.02/36.00"
 	},
 	{
 		"name": "WOFOC",
@@ -1751,7 +1752,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/29/2012",
+		"updated": "11/29/2012"
 	},
 	{
 		"name": "WOFPE",
@@ -1760,7 +1761,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/03/2009",
+		"updated": "03/03/2009"
 	},
 	{
 		"name": "WOGGU",
@@ -1769,7 +1770,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/31/2005",
+		"updated": "10/31/2005"
 	},
 	{
 		"name": "WOKAB",
@@ -1778,7 +1779,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/25/2013",
+		"updated": "06/25/2013"
 	},
 	{
 		"name": "WOKIP",
@@ -1787,7 +1788,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/19/2010",
+		"updated": "08/19/2010"
 	},
 	{
 		"name": "WOKOG",
@@ -1796,7 +1797,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "WOKOL",
@@ -1805,7 +1806,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/07/2013",
+		"updated": "06/07/2013"
 	},
 	{
 		"name": "WOKOS",
@@ -1814,7 +1815,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "CWA*LD*257.37/3.49",
+		"updated": "CWA*LD*257.37/3.49"
 	},
 	{
 		"name": "WOKUN",
@@ -1823,7 +1824,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ASX*LE*S CRS/4.60",
+		"updated": "ASX*LE*S CRS/4.60"
 	},
 	{
 		"name": "WOLFE",
@@ -1832,7 +1833,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "OFF*TACAN*133.00/6.00",
+		"updated": "OFF*TACAN*133.00/6.00"
 	},
 	{
 		"name": "WOLIR",
@@ -1841,7 +1842,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "WOLTA",
@@ -1850,7 +1851,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/08/2017",
+		"updated": "06/08/2017"
 	},
 	{
 		"name": "WOLUV",
@@ -1859,7 +1860,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FAR*VOR/DME*160.21/7.00",
+		"updated": "FAR*VOR/DME*160.21/7.00"
 	},
 	{
 		"name": "WOLVA",
@@ -1868,7 +1869,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/11/2012",
+		"updated": "08/11/2012"
 	},
 	{
 		"name": "WOLVS",
@@ -1877,7 +1878,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MSP*VOR/DME*074.90/29.00",
+		"updated": "MSP*VOR/DME*074.90/29.00"
 	},
 	{
 		"name": "WOMAD",
@@ -1886,7 +1887,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/19/2010",
+		"updated": "08/19/2010"
 	},
 	{
 		"name": "WOMAM",
@@ -1895,7 +1896,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/26/2011",
+		"updated": "05/26/2011"
 	},
 	{
 		"name": "WOMOP",
@@ -1904,7 +1905,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PLN*VORTAC*188.64/23.00",
+		"updated": "PLN*VORTAC*188.64/23.00"
 	},
 	{
 		"name": "WONDD",
@@ -1913,7 +1914,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OTG*VOR/DME*101.22/5.43",
+		"updated": "OTG*VOR/DME*101.22/5.43"
 	},
 	{
 		"name": "WONID",
@@ -1922,7 +1923,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/04/2014",
+		"updated": "02/04/2014"
 	},
 	{
 		"name": "WONOD",
@@ -1931,7 +1932,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/07/2011",
+		"updated": "11/07/2011"
 	},
 	{
 		"name": "WONSI",
@@ -1940,7 +1941,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "MW",
-		"updated": "03/10/2014",
+		"updated": "03/10/2014"
 	},
 	{
 		"name": "WONUG",
@@ -1949,7 +1950,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/24/2011",
+		"updated": "10/24/2011"
 	},
 	{
 		"name": "WONUV",
@@ -1958,7 +1959,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/25/2013",
+		"updated": "04/25/2013"
 	},
 	{
 		"name": "WOODA",
@@ -1967,7 +1968,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "WOOHU",
@@ -1976,7 +1977,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "WOOOD",
@@ -1985,7 +1986,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/11/2005",
+		"updated": "07/11/2005"
 	},
 	{
 		"name": "WOPGA",
@@ -1994,7 +1995,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "MW",
-		"updated": "03/10/2014",
+		"updated": "03/10/2014"
 	},
 	{
 		"name": "WOPIK",
@@ -2003,7 +2004,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MCW*VOR/DME*/5.20",
+		"updated": "MCW*VOR/DME*/5.20"
 	},
 	{
 		"name": "WOPOB",
@@ -2012,7 +2013,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/08/2017",
+		"updated": "06/08/2017"
 	},
 	{
 		"name": "WOPUW",
@@ -2021,7 +2022,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/06/2000",
+		"updated": "10/06/2000"
 	},
 	{
 		"name": "WORBI",
@@ -2030,7 +2031,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/15/2012",
+		"updated": "11/15/2012"
 	},
 	{
 		"name": "WOREB",
@@ -2039,7 +2040,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/19/2012",
+		"updated": "04/19/2012"
 	},
 	{
 		"name": "WORMA",
@@ -2048,7 +2049,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/28/2015",
+		"updated": "07/28/2015"
 	},
 	{
 		"name": "WORMU",
@@ -2057,7 +2058,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ATY*LD*354.24/2.93",
+		"updated": "ATY*LD*354.24/2.93"
 	},
 	{
 		"name": "WORSI",
@@ -2066,7 +2067,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/31/2015",
+		"updated": "08/31/2015"
 	},
 	{
 		"name": "WOTIM",
@@ -2075,7 +2076,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "WOTPA",
@@ -2084,7 +2085,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/13/2015",
+		"updated": "07/13/2015"
 	},
 	{
 		"name": "WOTVI",
@@ -2093,7 +2094,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MCW*VOR/DME*075.34/9.00",
+		"updated": "MCW*VOR/DME*075.34/9.00"
 	},
 	{
 		"name": "WOTVO",
@@ -2102,7 +2103,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/21/2013",
+		"updated": "03/21/2013"
 	},
 	{
 		"name": "WOVED",
@@ -2111,7 +2112,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DVL*VOR/DME*129.68/5.84",
+		"updated": "DVL*VOR/DME*129.68/5.84"
 	},
 	{
 		"name": "WOVER",
@@ -2120,7 +2121,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/04/2017",
+		"updated": "08/04/2017"
 	},
 	{
 		"name": "WOVET",
@@ -2129,7 +2130,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OSH*VORTAC*358.00",
+		"updated": "OSH*VORTAC*358.00"
 	},
 	{
 		"name": "WOVLA",
@@ -2138,7 +2139,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "06/30/2011",
+		"updated": "06/30/2011"
 	},
 	{
 		"name": "WOVOP",
@@ -2147,7 +2148,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/09/2014",
+		"updated": "06/09/2014"
 	},
 	{
 		"name": "WOVUR",
@@ -2156,7 +2157,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "WOWLU",
@@ -2165,7 +2166,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/04/2010",
+		"updated": "04/04/2010"
 	},
 	{
 		"name": "WOXEB",
@@ -2174,7 +2175,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*236.12/11.83",
+		"updated": "GEP*VORTAC*236.12/11.83"
 	},
 	{
 		"name": "WOXER",
@@ -2183,7 +2184,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/13/2005",
+		"updated": "06/13/2005"
 	},
 	{
 		"name": "WOXIG",
@@ -2192,7 +2193,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/26/2012",
+		"updated": "11/26/2012"
 	},
 	{
 		"name": "WOXOM",
@@ -2201,7 +2202,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BKX*LD*295.51/2.77",
+		"updated": "BKX*LD*295.51/2.77"
 	},
 	{
 		"name": "WPACA",
@@ -2210,7 +2211,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/24/2017",
+		"updated": "02/24/2017"
 	},
 	{
 		"name": "WRICK",
@@ -2219,7 +2220,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RZN*VOR/DME*230.94/2.20",
+		"updated": "RZN*VOR/DME*230.94/2.20"
 	},
 	{
 		"name": "WRSAW",
@@ -2228,7 +2229,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/14/2016",
+		"updated": "11/14/2016"
 	},
 	{
 		"name": "WUBED",
@@ -2237,7 +2238,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "HML*VORTAC*173.87/8.66",
+		"updated": "HML*VORTAC*173.87/8.66"
 	},
 	{
 		"name": "WUBER",
@@ -2246,7 +2247,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*252.00",
+		"updated": "OVR*VORTAC*252.00"
 	},
 	{
 		"name": "WUBIL",
@@ -2255,7 +2256,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/23/2011",
+		"updated": "05/23/2011"
 	},
 	{
 		"name": "WUBMO",
@@ -2264,7 +2265,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OFK*VOR/DME*/2.63",
+		"updated": "OFK*VOR/DME*/2.63"
 	},
 	{
 		"name": "WUBSO",
@@ -2273,7 +2274,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/11/2013",
+		"updated": "07/11/2013"
 	},
 	{
 		"name": "WUDIM",
@@ -2282,7 +2283,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "APN*VORTAC*194.00/1.60",
+		"updated": "APN*VORTAC*194.00/1.60"
 	},
 	{
 		"name": "WUDOP",
@@ -2291,7 +2292,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/19/2009",
+		"updated": "06/19/2009"
 	},
 	{
 		"name": "WUFEF",
@@ -2300,7 +2301,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/29/2006",
+		"updated": "09/29/2006"
 	},
 	{
 		"name": "WUGAX",
@@ -2309,7 +2310,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "WUGBI",
@@ -2318,7 +2319,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/11/2013",
+		"updated": "04/11/2013"
 	},
 	{
 		"name": "WUGRA",
@@ -2327,7 +2328,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/17/2010",
+		"updated": "11/17/2010"
 	},
 	{
 		"name": "WUKDI",
@@ -2336,7 +2337,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DWN*VORTAC*160.00/16.50",
+		"updated": "DWN*VORTAC*160.00/16.50"
 	},
 	{
 		"name": "WUKES",
@@ -2345,7 +2346,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/21/2014",
+		"updated": "10/21/2014"
 	},
 	{
 		"name": "WUKIK",
@@ -2354,7 +2355,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/20/2012",
+		"updated": "07/20/2012"
 	},
 	{
 		"name": "WUKPI",
@@ -2363,7 +2364,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/16/2017",
+		"updated": "05/16/2017"
 	},
 	{
 		"name": "WUKTU",
@@ -2372,7 +2373,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/17/2013",
+		"updated": "12/17/2013"
 	},
 	{
 		"name": "WUKVA",
@@ -2381,7 +2382,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/19/2017",
+		"updated": "12/19/2017"
 	},
 	{
 		"name": "WULAB",
@@ -2390,7 +2391,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/30/2011",
+		"updated": "03/30/2011"
 	},
 	{
 		"name": "WULAM",
@@ -2399,7 +2400,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "INN*LD*SE CRS/16.26",
+		"updated": "INN*LD*SE CRS/16.26"
 	},
 	{
 		"name": "WULEP",
@@ -2408,7 +2409,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FGT*VORTAC*257.98",
+		"updated": "FGT*VORTAC*257.98"
 	},
 	{
 		"name": "WULOS",
@@ -2417,7 +2418,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/04/2014",
+		"updated": "02/04/2014"
 	},
 	{
 		"name": "WULTU",
@@ -2426,7 +2427,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "HIC*VOR/DME*047.39/12.51",
+		"updated": "HIC*VOR/DME*047.39/12.51"
 	},
 	{
 		"name": "WUMBO",
@@ -2435,7 +2436,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "EAU*VORTAC*175.54/12.00",
+		"updated": "EAU*VORTAC*175.54/12.00"
 	},
 	{
 		"name": "WUMGA",
@@ -2444,7 +2445,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/19/2006",
+		"updated": "07/19/2006"
 	},
 	{
 		"name": "WUMIP",
@@ -2453,7 +2454,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/13/2012",
+		"updated": "02/13/2012"
 	},
 	{
 		"name": "WUMIR",
@@ -2462,7 +2463,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/14/2013",
+		"updated": "02/14/2013"
 	},
 	{
 		"name": "WUMPI",
@@ -2471,7 +2472,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/14/2013",
+		"updated": "02/14/2013"
 	},
 	{
 		"name": "WUMRO",
@@ -2480,7 +2481,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2013",
+		"updated": "06/28/2013"
 	},
 	{
 		"name": "WUMTE",
@@ -2489,7 +2490,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "WUNAS",
@@ -2498,7 +2499,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "WUNIT",
@@ -2507,7 +2508,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "WUNLI",
@@ -2516,7 +2517,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/05/2016",
+		"updated": "04/05/2016"
 	},
 	{
 		"name": "WUNOT",
@@ -2525,7 +2526,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*058.00/23.99",
+		"updated": "OVR*VORTAC*058.00/23.99"
 	},
 	{
 		"name": "WUNOV",
@@ -2534,7 +2535,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/08/2017",
+		"updated": "06/08/2017"
 	},
 	{
 		"name": "WUNTA",
@@ -2543,7 +2544,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/05/2007",
+		"updated": "10/05/2007"
 	},
 	{
 		"name": "WUNTI",
@@ -2552,7 +2553,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "WUNYE",
@@ -2561,7 +2562,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "WUPAP",
@@ -2570,7 +2571,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "WUPIK",
@@ -2579,7 +2580,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/09/2011",
+		"updated": "09/09/2011"
 	},
 	{
 		"name": "WUPON",
@@ -2588,7 +2589,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/25/2005",
+		"updated": "11/25/2005"
 	},
 	{
 		"name": "WUQPU",
@@ -2597,7 +2598,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/17/2008",
+		"updated": "01/17/2008"
 	},
 	{
 		"name": "WUQWE",
@@ -2606,7 +2607,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "WURLU",
@@ -2615,7 +2616,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "WURPU",
@@ -2624,7 +2625,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "JWJ*VOR/DME*259.53/46.92",
+		"updated": "JWJ*VOR/DME*259.53/46.92"
 	},
 	{
 		"name": "WURUV",
@@ -2633,7 +2634,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "JMS*VOR/DME*349.00/12.00",
+		"updated": "JMS*VOR/DME*349.00/12.00"
 	},
 	{
 		"name": "WUSCO",
@@ -2642,7 +2643,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/15/2008",
+		"updated": "05/15/2008"
 	},
 	{
 		"name": "WUSIK",
@@ -2651,7 +2652,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GFK*LD*354.03/1.52",
+		"updated": "GFK*LD*354.03/1.52"
 	},
 	{
 		"name": "WUSKA",
@@ -2660,7 +2661,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/08/2011",
+		"updated": "03/08/2011"
 	},
 	{
 		"name": "WUSMI",
@@ -2669,7 +2670,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/28/2012",
+		"updated": "03/28/2012"
 	},
 	{
 		"name": "WUSPO",
@@ -2678,7 +2679,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/26/2015",
+		"updated": "02/26/2015"
 	},
 	{
 		"name": "WUTED",
@@ -2687,7 +2688,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/17/2011",
+		"updated": "10/17/2011"
 	},
 	{
 		"name": "WUTKI",
@@ -2696,7 +2697,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/05/2012",
+		"updated": "06/05/2012"
 	},
 	{
 		"name": "WUTON",
@@ -2705,7 +2706,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/25/2005",
+		"updated": "11/25/2005"
 	},
 	{
 		"name": "WUTSO",
@@ -2714,7 +2715,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GFK*VOR/DME*353.82/17.74",
+		"updated": "GFK*VOR/DME*353.82/17.74"
 	},
 	{
 		"name": "WUTUT",
@@ -2723,7 +2724,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/07/2010",
+		"updated": "04/07/2010"
 	},
 	{
 		"name": "WUVAM",
@@ -2732,7 +2733,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/05/2016",
+		"updated": "08/05/2016"
 	},
 	{
 		"name": "WUVIS",
@@ -2741,7 +2742,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "WUVRA",
@@ -2750,7 +2751,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/26/2011",
+		"updated": "04/26/2011"
 	},
 	{
 		"name": "WUVTI",
@@ -2759,7 +2760,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "WUXER",
@@ -2768,7 +2769,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "LSE*VOR/DME*322.00/14.00",
+		"updated": "LSE*VOR/DME*322.00/14.00"
 	},
 	{
 		"name": "WUXUL",
@@ -2777,7 +2778,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "WUYFO",
@@ -2786,7 +2787,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SSM*VOR/DME*267.26/28.41",
+		"updated": "SSM*VOR/DME*267.26/28.41"
 	},
 	{
 		"name": "WWEGA",
@@ -2795,7 +2796,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/30/2011",
+		"updated": "03/30/2011"
 	},
 	{
 		"name": "WYKOF",
@@ -2804,5 +2805,6 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/18/2012",
-	},
+		"updated": "05/18/2012"
+	}
+]

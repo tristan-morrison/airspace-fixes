@@ -1,3 +1,4 @@
+[
 	{
 		"name": "UBAYU",
 		"latitude": "42-3-26.89 N",
@@ -5,7 +6,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/03/2007",
+		"updated": "01/03/2007"
 	},
 	{
 		"name": "UBBUF",
@@ -14,7 +15,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*187.00/18.00",
+		"updated": "ALS*VORTAC*187.00/18.00"
 	},
 	{
 		"name": "UBODE",
@@ -23,7 +24,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/23/2012",
+		"updated": "04/23/2012"
 	},
 	{
 		"name": "UCEPO",
@@ -32,7 +33,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/27/2008",
+		"updated": "10/27/2008"
 	},
 	{
 		"name": "UCHOZ",
@@ -41,7 +42,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "UCIGA",
@@ -50,7 +51,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/10/2017",
+		"updated": "08/10/2017"
 	},
 	{
 		"name": "UCISE",
@@ -59,7 +60,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/03/2008",
+		"updated": "09/03/2008"
 	},
 	{
 		"name": "UCUTI",
@@ -68,7 +69,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "UDEGE",
@@ -77,7 +78,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/21/2015",
+		"updated": "08/21/2015"
 	},
 	{
 		"name": "UFVOD",
@@ -86,7 +87,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/30/2010",
+		"updated": "05/30/2010"
 	},
 	{
 		"name": "UGEYU",
@@ -95,7 +96,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/20/2009",
+		"updated": "03/20/2009"
 	},
 	{
 		"name": "UHIKI",
@@ -104,7 +105,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/04/2014",
+		"updated": "08/04/2014"
 	},
 	{
 		"name": "UJOPO",
@@ -113,7 +114,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "UJYOY",
@@ -122,7 +123,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*021.00/17.00",
+		"updated": "ALS*VORTAC*021.00/17.00"
 	},
 	{
 		"name": "UKDAW",
@@ -131,7 +132,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/26/2008",
+		"updated": "08/26/2008"
 	},
 	{
 		"name": "UNCEE",
@@ -140,7 +141,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/03/2014",
+		"updated": "07/03/2014"
 	},
 	{
 		"name": "UNLAP",
@@ -149,7 +150,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RSK*VORTAC*351.10/28.43",
+		"updated": "RSK*VORTAC*351.10/28.43"
 	},
 	{
 		"name": "UPZIV",
@@ -158,7 +159,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "USDEQ",
@@ -167,7 +168,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "FZR*LD*351.99/0.34",
+		"updated": "FZR*LD*351.99/0.34"
 	},
 	{
 		"name": "USETY",
@@ -176,7 +177,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/03/2016",
+		"updated": "05/03/2016"
 	},
 	{
 		"name": "USOPE",
@@ -185,7 +186,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "UTUCA",
@@ -194,7 +195,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SNY*VOR/DME*022.00/10.00",
+		"updated": "SNY*VOR/DME*022.00/10.00"
 	},
 	{
 		"name": "UVTUH",
@@ -203,7 +204,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SXW*VOR/DME*000.72/11.85",
+		"updated": "SXW*VOR/DME*000.72/11.85"
 	},
 	{
 		"name": "UXAYU",
@@ -212,7 +213,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/07/2011",
+		"updated": "12/07/2011"
 	},
 	{
 		"name": "UYICA",
@@ -221,7 +222,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "UYICI",
@@ -230,7 +231,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "11/08/2010",
+		"updated": "11/08/2010"
 	},
 	{
 		"name": "UYOGI",
@@ -239,7 +240,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LBF*VOR/DME*234.08/47.00",
+		"updated": "LBF*VOR/DME*234.08/47.00"
 	},
 	{
 		"name": "UYOTU",
@@ -248,7 +249,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "UYPOF",
@@ -257,7 +258,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "UYRAG",
@@ -266,7 +267,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*075.55/33.50",
+		"updated": "CHE*VOR/DME*075.55/33.50"
 	},
 	{
 		"name": "UYRIG",
@@ -275,7 +276,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/16/2009",
+		"updated": "04/16/2009"
 	},
 	{
 		"name": "UYUXI",
@@ -284,7 +285,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "UZIGO",
@@ -293,5 +294,6 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
-	},
+		"updated": "11/02/1998"
+	}
+]

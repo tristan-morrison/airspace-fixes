@@ -1,3 +1,4 @@
+[
 	{
 		"name": "MDBUG",
 		"latitude": "13-43-59.49 N",
@@ -5,7 +6,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UNZ*VORTAC*054.25/30.00",
+		"updated": "UNZ*VORTAC*054.25/30.00"
 	},
 	{
 		"name": "MEMKE",
@@ -14,7 +15,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "AWD*LD*242.96/14.12",
+		"updated": "AWD*LD*242.96/14.12"
 	},
 	{
 		"name": "MOBKE",
@@ -23,7 +24,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "GUM*LD*242.95/5.78",
+		"updated": "GUM*LD*242.95/5.78"
 	},
 	{
 		"name": "MOGOE",
@@ -32,7 +33,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "AJA*NDB*060.51",
+		"updated": "AJA*NDB*060.51"
 	},
 	{
 		"name": "MOMRE",
@@ -41,5 +42,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*061.83/1.30",
-	},
+		"updated": "UNZ*VORTAC*061.83/1.30"
+	}
+]

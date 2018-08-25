@@ -1,3 +1,4 @@
+[
 	{
 		"name": "OBIKE",
 		"latitude": "19-20-28.62 N",
@@ -5,7 +6,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "08/20/2009",
+		"updated": "08/20/2009"
 	},
 	{
 		"name": "ODEZZ",
@@ -14,7 +15,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "08/07/2002",
+		"updated": "08/07/2002"
 	},
 	{
 		"name": "OGDAW",
@@ -23,7 +24,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "01/24/2001",
+		"updated": "01/24/2001"
 	},
 	{
 		"name": "OLGAH",
@@ -32,7 +33,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "MR",
-		"updated": "NRR*TACAN*237.93/36.16",
+		"updated": "NRR*TACAN*237.93/36.16"
 	},
 	{
 		"name": "OMMAR",
@@ -41,7 +42,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "01/21/2015",
+		"updated": "01/21/2015"
 	},
 	{
 		"name": "OPAUL",
@@ -50,7 +51,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "08/20/2009",
+		"updated": "08/20/2009"
 	},
 	{
 		"name": "ORAJO",
@@ -59,7 +60,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*262.00/3.15",
+		"updated": "SJU*VORTAC*262.00/3.15"
 	},
 	{
 		"name": "OSSEL",
@@ -68,5 +69,6 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "STT*VOR/DME*163.45/15.00",
-	},
+		"updated": "STT*VOR/DME*163.45/15.00"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "KABYE",
 		"latitude": "40-13-22.01 N",
@@ -5,7 +6,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "AHC*VOR/DME*087.63/10.65",
+		"updated": "AHC*VOR/DME*087.63/10.65"
 	},
 	{
 		"name": "KACBY",
@@ -14,7 +15,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/01/2017",
+		"updated": "08/01/2017"
 	},
 	{
 		"name": "KAESS",
@@ -23,7 +24,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/13/2015",
+		"updated": "01/13/2015"
 	},
 	{
 		"name": "KAISR",
@@ -32,7 +33,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "FRA*VORTAC*013.00/10.00",
+		"updated": "FRA*VORTAC*013.00/10.00"
 	},
 	{
 		"name": "KALIN",
@@ -41,7 +42,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "WP",
-		"updated": "05/14/1997",
+		"updated": "05/14/1997"
 	},
 	{
 		"name": "KAQTU",
@@ -50,7 +51,7 @@
 		"state": "N MARIANA ISLANDS",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*035.00/23.00",
+		"updated": "UNZ*VORTAC*035.00/23.00"
 	},
 	{
 		"name": "KARME",
@@ -59,7 +60,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "KARNN",
@@ -68,7 +69,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "MOD*VOR/DME*191.39/32.42",
+		"updated": "MOD*VOR/DME*191.39/32.42"
 	},
 	{
 		"name": "KATFH",
@@ -77,7 +78,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/24/2014",
+		"updated": "11/24/2014"
 	},
 	{
 		"name": "KATHZ",
@@ -86,7 +87,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "KATQO",
@@ -95,7 +96,7 @@
 		"state": "GUAM",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*035.00/87.00",
+		"updated": "UNZ*VORTAC*035.00/87.00"
 	},
 	{
 		"name": "KATSO",
@@ -104,7 +105,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "LIN*VOR/DME*029.00/23.97",
+		"updated": "LIN*VOR/DME*029.00/23.97"
 	},
 	{
 		"name": "KAVBE",
@@ -113,7 +114,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "05/04/2009",
+		"updated": "05/04/2009"
 	},
 	{
 		"name": "KAVLE",
@@ -122,7 +123,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "KAVRE",
@@ -131,7 +132,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/14/2006",
+		"updated": "08/14/2006"
 	},
 	{
 		"name": "KAYAA",
@@ -140,7 +141,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/28/2014",
+		"updated": "08/28/2014"
 	},
 	{
 		"name": "KAYEG",
@@ -149,7 +150,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SMF*LD*345.75/3.16",
+		"updated": "SMF*LD*345.75/3.16"
 	},
 	{
 		"name": "KAYEX",
@@ -158,7 +159,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/24/2014",
+		"updated": "11/24/2014"
 	},
 	{
 		"name": "KAZWY",
@@ -167,7 +168,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "04/15/2008",
+		"updated": "04/15/2008"
 	},
 	{
 		"name": "KEALA",
@@ -176,7 +177,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "KEARN",
@@ -185,7 +186,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "UKI*LE*314.34/9.62",
+		"updated": "UKI*LE*314.34/9.62"
 	},
 	{
 		"name": "KECEP",
@@ -194,7 +195,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "09/26/2003",
+		"updated": "09/26/2003"
 	},
 	{
 		"name": "KEEFE",
@@ -203,7 +204,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "MYV*VOR/DME*057.87/21.65",
+		"updated": "MYV*VOR/DME*057.87/21.65"
 	},
 	{
 		"name": "KEENR",
@@ -212,7 +213,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "03/02/2015",
+		"updated": "03/02/2015"
 	},
 	{
 		"name": "KEKDE",
@@ -221,7 +222,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "03/02/2010",
+		"updated": "03/02/2010"
 	},
 	{
 		"name": "KEKDY",
@@ -230,7 +231,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "04/15/2008",
+		"updated": "04/15/2008"
 	},
 	{
 		"name": "KEKME",
@@ -239,7 +240,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "PXN*VORTAC*332.37/12.03",
+		"updated": "PXN*VORTAC*332.37/12.03"
 	},
 	{
 		"name": "KEMLE",
@@ -248,7 +249,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "KENDL",
@@ -257,7 +258,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "RBL*VORTAC*324.40/22.45",
+		"updated": "RBL*VORTAC*324.40/22.45"
 	},
 	{
 		"name": "KENIW",
@@ -266,7 +267,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SNS*VORTAC*314.00/8.00",
+		"updated": "SNS*VORTAC*314.00/8.00"
 	},
 	{
 		"name": "KENNO",
@@ -275,7 +276,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/24/2014",
+		"updated": "11/24/2014"
 	},
 	{
 		"name": "KEONE",
@@ -284,7 +285,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "03/14/2011",
+		"updated": "03/14/2011"
 	},
 	{
 		"name": "KEPLR",
@@ -293,7 +294,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/21/2016",
+		"updated": "11/21/2016"
 	},
 	{
 		"name": "KERNE",
@@ -302,7 +303,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "WP",
-		"updated": "06/16/1999",
+		"updated": "06/16/1999"
 	},
 	{
 		"name": "KERRY",
@@ -311,7 +312,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "03/14/2011",
+		"updated": "03/14/2011"
 	},
 	{
 		"name": "KETBE",
@@ -320,7 +321,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "MW",
-		"updated": "05/11/2005",
+		"updated": "05/11/2005"
 	},
 	{
 		"name": "KEVDE",
@@ -329,7 +330,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "PRB*VORTAC*352.00/3.69",
+		"updated": "PRB*VORTAC*352.00/3.69"
 	},
 	{
 		"name": "KICHI",
@@ -338,7 +339,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "09/19/2014",
+		"updated": "09/19/2014"
 	},
 	{
 		"name": "KIELY",
@@ -347,7 +348,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/13/2015",
+		"updated": "01/13/2015"
 	},
 	{
 		"name": "KIGHT",
@@ -356,7 +357,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "BSR*VORTAC*228.00/25.00",
+		"updated": "BSR*VORTAC*228.00/25.00"
 	},
 	{
 		"name": "KINGS",
@@ -365,7 +366,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SWR*VOR/DME*059.48/16.21",
+		"updated": "SWR*VOR/DME*059.48/16.21"
 	},
 	{
 		"name": "KIOTE",
@@ -374,7 +375,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "NLC*TACAN*062.00/68.00",
+		"updated": "NLC*TACAN*062.00/68.00"
 	},
 	{
 		"name": "KIPSE",
@@ -383,7 +384,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/02/2007",
+		"updated": "07/02/2007"
 	},
 	{
 		"name": "KIRVE",
@@ -392,7 +393,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/27/2015",
+		"updated": "01/27/2015"
 	},
 	{
 		"name": "KISME",
@@ -401,7 +402,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "09/12/1995",
+		"updated": "09/12/1995"
 	},
 	{
 		"name": "KITBY",
@@ -410,7 +411,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/13/2016",
+		"updated": "06/13/2016"
 	},
 	{
 		"name": "KITSS",
@@ -419,7 +420,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "12/04/1989",
+		"updated": "12/04/1989"
 	},
 	{
 		"name": "KIYJE",
@@ -428,7 +429,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "KIZEM",
@@ -437,7 +438,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/18/2010",
+		"updated": "06/18/2010"
 	},
 	{
 		"name": "KLARK",
@@ -446,7 +447,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/04/2010",
+		"updated": "06/04/2010"
 	},
 	{
 		"name": "KLAUS",
@@ -455,7 +456,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/21/2016",
+		"updated": "11/21/2016"
 	},
 	{
 		"name": "KLEMM",
@@ -464,7 +465,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/07/2017",
+		"updated": "07/07/2017"
 	},
 	{
 		"name": "KLIDE",
@@ -473,7 +474,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SJC*LD*125.82/16.71",
+		"updated": "SJC*LD*125.82/16.71"
 	},
 	{
 		"name": "KLOCK",
@@ -482,7 +483,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "04/04/2012",
+		"updated": "04/04/2012"
 	},
 	{
 		"name": "KLOGE",
@@ -491,7 +492,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SGD*VORTAC*314.61",
+		"updated": "SGD*VORTAC*314.61"
 	},
 	{
 		"name": "KNETH",
@@ -500,7 +501,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "04/29/2010",
+		"updated": "04/29/2010"
 	},
 	{
 		"name": "KNGRY",
@@ -509,7 +510,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/17/2015",
+		"updated": "02/17/2015"
 	},
 	{
 		"name": "KNOLS",
@@ -518,7 +519,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "HYP*VOR/DME*067.00/29.42",
+		"updated": "HYP*VOR/DME*067.00/29.42"
 	},
 	{
 		"name": "KNOSP",
@@ -527,7 +528,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/13/2016",
+		"updated": "06/13/2016"
 	},
 	{
 		"name": "KNOWS",
@@ -536,7 +537,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "KO33E",
@@ -545,7 +546,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO36A",
@@ -554,7 +555,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KO36C",
@@ -563,7 +564,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO36E",
@@ -572,7 +573,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO36G",
@@ -581,7 +582,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO39A",
@@ -590,7 +591,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KO39C",
@@ -599,7 +600,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO39E",
@@ -608,7 +609,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO39G",
@@ -617,7 +618,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO42A",
@@ -626,7 +627,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KO42C",
@@ -635,7 +636,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO42E",
@@ -644,7 +645,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO42G",
@@ -653,7 +654,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO45A",
@@ -662,7 +663,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KO45C",
@@ -671,7 +672,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO45E",
@@ -680,7 +681,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO45G",
@@ -689,7 +690,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO45I",
@@ -698,7 +699,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO48A",
@@ -707,7 +708,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KO48C",
@@ -716,7 +717,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO48E",
@@ -725,7 +726,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO48G",
@@ -734,7 +735,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO48I",
@@ -743,7 +744,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO51A",
@@ -752,7 +753,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KO51C",
@@ -761,7 +762,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO51E",
@@ -770,7 +771,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO51G",
@@ -779,7 +780,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO51I",
@@ -788,7 +789,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO54A",
@@ -797,7 +798,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KO54C",
@@ -806,7 +807,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO54E",
@@ -815,7 +816,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO54G",
@@ -824,7 +825,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO54I",
@@ -833,7 +834,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO57A",
@@ -842,7 +843,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KO57C",
@@ -851,7 +852,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO57E",
@@ -860,7 +861,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO57G",
@@ -869,7 +870,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO57I",
@@ -878,7 +879,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO60A",
@@ -887,7 +888,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KO60C",
@@ -896,7 +897,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO60E",
@@ -905,7 +906,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO60G",
@@ -914,7 +915,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO60I",
@@ -923,7 +924,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO63A",
@@ -932,7 +933,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "03/05/2005",
+		"updated": "03/05/2005"
 	},
 	{
 		"name": "KO63E",
@@ -941,7 +942,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO63G",
@@ -950,7 +951,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO66E",
@@ -959,7 +960,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KO66G",
@@ -968,7 +969,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KOBDE",
@@ -977,7 +978,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MW",
-		"updated": "11/19/2007",
+		"updated": "11/19/2007"
 	},
 	{
 		"name": "KOLGE",
@@ -986,7 +987,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "04/04/2012",
+		"updated": "04/04/2012"
 	},
 	{
 		"name": "KOMGY",
@@ -995,7 +996,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "KOONY",
@@ -1004,7 +1005,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "KORDY",
@@ -1013,7 +1014,7 @@
 		"state": "GUAM",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "GSN*LD*SW CRS/7.34",
+		"updated": "GSN*LD*SW CRS/7.34"
 	},
 	{
 		"name": "KOZRY",
@@ -1022,7 +1023,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/28/2003",
+		"updated": "08/28/2003"
 	},
 	{
 		"name": "KRAPZ",
@@ -1031,7 +1032,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/20/2010",
+		"updated": "08/20/2010"
 	},
 	{
 		"name": "KRASY",
@@ -1040,7 +1041,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "05/25/1993",
+		"updated": "05/25/1993"
 	},
 	{
 		"name": "KRAZY",
@@ -1049,7 +1050,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/21/2006",
+		"updated": "06/21/2006"
 	},
 	{
 		"name": "KREAM",
@@ -1058,7 +1059,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "FRA*VORTAC*227.73",
+		"updated": "FRA*VORTAC*227.73"
 	},
 	{
 		"name": "KREST",
@@ -1067,7 +1068,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "RDD*VOR/DME*355.00/12.00",
+		"updated": "RDD*VOR/DME*355.00/12.00"
 	},
 	{
 		"name": "KRLOS",
@@ -1076,7 +1077,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "09/25/2014",
+		"updated": "09/25/2014"
 	},
 	{
 		"name": "KRONK",
@@ -1085,7 +1086,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "11/05/1997",
+		"updated": "11/05/1997"
 	},
 	{
 		"name": "KTINA",
@@ -1094,7 +1095,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/24/2014",
+		"updated": "11/24/2014"
 	},
 	{
 		"name": "KUBSE",
@@ -1103,7 +1104,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MW",
-		"updated": "03/03/2010",
+		"updated": "03/03/2010"
 	},
 	{
 		"name": "KUCEF",
@@ -1112,7 +1113,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "KUHEK",
@@ -1121,7 +1122,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/27/2003",
+		"updated": "08/27/2003"
 	},
 	{
 		"name": "KULVY",
@@ -1130,7 +1131,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/28/2003",
+		"updated": "08/28/2003"
 	},
 	{
 		"name": "KUPLE",
@@ -1139,7 +1140,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "10/29/2007",
+		"updated": "10/29/2007"
 	},
 	{
 		"name": "KURTT",
@@ -1148,7 +1149,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "04/29/1987",
+		"updated": "04/29/1987"
 	},
 	{
 		"name": "KUWAF",
@@ -1157,7 +1158,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "KUWXU",
@@ -1166,7 +1167,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/04/2017",
+		"updated": "08/04/2017"
 	},
 	{
 		"name": "KUYEB",
@@ -1175,7 +1176,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "03/07/2003",
+		"updated": "03/07/2003"
 	},
 	{
 		"name": "KUZIE",
@@ -1184,7 +1185,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "MCC*VOR/DME*153.00/12.00",
+		"updated": "MCC*VOR/DME*153.00/12.00"
 	},
 	{
 		"name": "KYILE",
@@ -1193,7 +1194,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/04/2017",
+		"updated": "08/04/2017"
 	},
 	{
 		"name": "KYLLA",
@@ -1202,7 +1203,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "OAL*VORTAC*245.52/76.60",
+		"updated": "OAL*VORTAC*245.52/76.60"
 	},
 	{
 		"name": "KYNNG",
@@ -1211,7 +1212,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "09/25/2014",
+		"updated": "09/25/2014"
 	},
 	{
 		"name": "KYWEE",
@@ -1220,5 +1221,6 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "WP",
-		"updated": "06/27/2007",
-	},
+		"updated": "06/27/2007"
+	}
+]

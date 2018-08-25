@@ -1,3 +1,4 @@
+[
 	{
 		"name": "JACKD",
 		"latitude": "40-53-18.36 N",
@@ -5,7 +6,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "EKO*DD*062.60/15.01",
+		"updated": "EKO*DD*062.60/15.01"
 	},
 	{
 		"name": "JACKS",
@@ -14,7 +15,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BYI*VOR/DME*217.00",
+		"updated": "BYI*VOR/DME*217.00"
 	},
 	{
 		"name": "JADDE",
@@ -23,7 +24,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/13/2014",
+		"updated": "01/13/2014"
 	},
 	{
 		"name": "JADPU",
@@ -32,7 +33,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "MR",
-		"updated": "TQQ*VORTAC*321.75/18.00",
+		"updated": "TQQ*VORTAC*321.75/18.00"
 	},
 	{
 		"name": "JADUP",
@@ -41,7 +42,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "02/03/2004",
+		"updated": "02/03/2004"
 	},
 	{
 		"name": "JADUR",
@@ -50,7 +51,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "EVW*LD*NE CRS/3.07",
+		"updated": "EVW*LD*NE CRS/3.07"
 	},
 	{
 		"name": "JAGAB",
@@ -59,7 +60,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/05/2004",
+		"updated": "04/05/2004"
 	},
 	{
 		"name": "JAGAK",
@@ -68,7 +69,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/06/2015",
+		"updated": "11/06/2015"
 	},
 	{
 		"name": "JAGEL",
@@ -77,7 +78,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/26/2004",
+		"updated": "07/26/2004"
 	},
 	{
 		"name": "JAGIL",
@@ -86,7 +87,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "JAC*VOR/DME*167.00/16.00",
+		"updated": "JAC*VOR/DME*167.00/16.00"
 	},
 	{
 		"name": "JAILR",
@@ -95,7 +96,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "JAJAY",
@@ -104,7 +105,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/21/2014",
+		"updated": "09/21/2014"
 	},
 	{
 		"name": "JAKBA",
@@ -113,7 +114,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/11/2012",
+		"updated": "09/11/2012"
 	},
 	{
 		"name": "JALIK",
@@ -122,7 +123,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BYI*VOR/DME*053.62/19.00",
+		"updated": "BYI*VOR/DME*053.62/19.00"
 	},
 	{
 		"name": "JALPA",
@@ -131,7 +132,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/12/2017",
+		"updated": "07/12/2017"
 	},
 	{
 		"name": "JALUL",
@@ -140,7 +141,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "02/27/2010",
+		"updated": "02/27/2010"
 	},
 	{
 		"name": "JAMEP",
@@ -149,7 +150,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/24/2017",
+		"updated": "08/24/2017"
 	},
 	{
 		"name": "JAMID",
@@ -158,7 +159,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "02/03/2004",
+		"updated": "02/03/2004"
 	},
 	{
 		"name": "JAMKI",
@@ -167,7 +168,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "ELY*VOR/DME*343.00/16.00",
+		"updated": "ELY*VOR/DME*343.00/16.00"
 	},
 	{
 		"name": "JAMMN",
@@ -176,7 +177,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "TCH*VORTAC*178.74/50.00",
+		"updated": "TCH*VORTAC*178.74/50.00"
 	},
 	{
 		"name": "JAMOP",
@@ -185,7 +186,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/31/2011",
+		"updated": "10/31/2011"
 	},
 	{
 		"name": "JANAV",
@@ -194,7 +195,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "MR",
-		"updated": "TQQ*VORTAC*/7.15",
+		"updated": "TQQ*VORTAC*/7.15"
 	},
 	{
 		"name": "JANIN",
@@ -203,7 +204,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "PIH*VOR/DME*268.97/15.00",
+		"updated": "PIH*VOR/DME*268.97/15.00"
 	},
 	{
 		"name": "JANOK",
@@ -212,7 +213,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "JANON",
@@ -221,7 +222,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/08/2011",
+		"updated": "06/08/2011"
 	},
 	{
 		"name": "JAPER",
@@ -230,7 +231,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "HIA*VOR/DME*085.00/51.00",
+		"updated": "HIA*VOR/DME*085.00/51.00"
 	},
 	{
 		"name": "JARBI",
@@ -239,7 +240,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/18/2007",
+		"updated": "09/18/2007"
 	},
 	{
 		"name": "JASIS",
@@ -248,7 +249,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "ELY*VOR/DME*359.00/12.48",
+		"updated": "ELY*VOR/DME*359.00/12.48"
 	},
 	{
 		"name": "JASKI",
@@ -257,7 +258,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "12/20/2007",
+		"updated": "12/20/2007"
 	},
 	{
 		"name": "JASRU",
@@ -266,7 +267,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/15/2016",
+		"updated": "03/15/2016"
 	},
 	{
 		"name": "JATTS",
@@ -275,7 +276,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "IDA*VOR/DME*233.00",
+		"updated": "IDA*VOR/DME*233.00"
 	},
 	{
 		"name": "JAURN",
@@ -284,7 +285,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "TCH*VORTAC*160.85/22.22",
+		"updated": "TCH*VORTAC*160.85/22.22"
 	},
 	{
 		"name": "JAXOD",
@@ -293,7 +294,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/15/2016",
+		"updated": "03/15/2016"
 	},
 	{
 		"name": "JAYCC",
@@ -302,7 +303,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/11/2017",
+		"updated": "09/11/2017"
 	},
 	{
 		"name": "JAYKE",
@@ -311,7 +312,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "GTF*VORTAC*091.23/11.00",
+		"updated": "GTF*VORTAC*091.23/11.00"
 	},
 	{
 		"name": "JEBEG",
@@ -320,7 +321,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BQU*VOR/DME*137.00/36.00",
+		"updated": "BQU*VOR/DME*137.00/36.00"
 	},
 	{
 		"name": "JEBOB",
@@ -329,7 +330,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "GTF*VORTAC*315.08/24.00",
+		"updated": "GTF*VORTAC*315.08/24.00"
 	},
 	{
 		"name": "JEBSI",
@@ -338,7 +339,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/13/2009",
+		"updated": "04/13/2009"
 	},
 	{
 		"name": "JEDBU",
@@ -347,7 +348,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/24/2009",
+		"updated": "03/24/2009"
 	},
 	{
 		"name": "JEDUX",
@@ -356,7 +357,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/09/2010",
+		"updated": "08/09/2010"
 	},
 	{
 		"name": "JEENY",
@@ -365,7 +366,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "DBS*VORTAC*135.00",
+		"updated": "DBS*VORTAC*135.00"
 	},
 	{
 		"name": "JEFUB",
@@ -374,7 +375,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/03/2016",
+		"updated": "10/03/2016"
 	},
 	{
 		"name": "JEGAP",
@@ -383,7 +384,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/01/2008",
+		"updated": "08/01/2008"
 	},
 	{
 		"name": "JEKOK",
@@ -392,7 +393,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/21/2017",
+		"updated": "04/21/2017"
 	},
 	{
 		"name": "JEKUG",
@@ -401,7 +402,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/03/2015",
+		"updated": "03/03/2015"
 	},
 	{
 		"name": "JELEG",
@@ -410,7 +411,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MSO*VOR/DME*/17.49",
+		"updated": "MSO*VOR/DME*/17.49"
 	},
 	{
 		"name": "JELOD",
@@ -419,7 +420,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/15/2006",
+		"updated": "08/15/2006"
 	},
 	{
 		"name": "JEMKU",
@@ -428,7 +429,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "OGD*VORTAC*152.70/10.00",
+		"updated": "OGD*VORTAC*152.70/10.00"
 	},
 	{
 		"name": "JENKI",
@@ -437,7 +438,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MSO*VOR/DME*167.01/34.00",
+		"updated": "MSO*VOR/DME*167.01/34.00"
 	},
 	{
 		"name": "JEPAL",
@@ -446,7 +447,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/03/2009",
+		"updated": "11/03/2009"
 	},
 	{
 		"name": "JEPAR",
@@ -455,7 +456,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "MR",
-		"updated": "TQQ*VORTAC*321.75/14.00",
+		"updated": "TQQ*VORTAC*321.75/14.00"
 	},
 	{
 		"name": "JEPIL",
@@ -464,7 +465,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "EHK*VOR/DME*278.22/10.71",
+		"updated": "EHK*VOR/DME*278.22/10.71"
 	},
 	{
 		"name": "JEPSN",
@@ -473,7 +474,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MSO*VOR/DME*159.00/26.50",
+		"updated": "MSO*VOR/DME*159.00/26.50"
 	},
 	{
 		"name": "JERLU",
@@ -482,7 +483,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "MR",
-		"updated": "MUO*TACAN*115.00/1.10",
+		"updated": "MUO*TACAN*115.00/1.10"
 	},
 	{
 		"name": "JEROT",
@@ -491,7 +492,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BYI*VOR/DME*274.00/27.58",
+		"updated": "BYI*VOR/DME*274.00/27.58"
 	},
 	{
 		"name": "JESGO",
@@ -500,7 +501,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "MR",
-		"updated": "HIF*TACAN*311.00/2.10",
+		"updated": "HIF*TACAN*311.00/2.10"
 	},
 	{
 		"name": "JESKA",
@@ -509,7 +510,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/21/2008",
+		"updated": "07/21/2008"
 	},
 	{
 		"name": "JESKI",
@@ -518,7 +519,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "PUC*LD*187.35/6.68",
+		"updated": "PUC*LD*187.35/6.68"
 	},
 	{
 		"name": "JESSY",
@@ -527,7 +528,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MLP*VOR/DME*078.09",
+		"updated": "MLP*VOR/DME*078.09"
 	},
 	{
 		"name": "JESTO",
@@ -536,7 +537,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/31/2011",
+		"updated": "08/31/2011"
 	},
 	{
 		"name": "JESUG",
@@ -545,7 +546,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/09/2010",
+		"updated": "08/09/2010"
 	},
 	{
 		"name": "JETLI",
@@ -554,7 +555,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "PVU*VOR/DME*285.00/14.00",
+		"updated": "PVU*VOR/DME*285.00/14.00"
 	},
 	{
 		"name": "JEVAM",
@@ -563,7 +564,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "HLN*VORTAC*175.46/15.00",
+		"updated": "HLN*VORTAC*175.46/15.00"
 	},
 	{
 		"name": "JEVEP",
@@ -572,7 +573,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/27/2011",
+		"updated": "01/27/2011"
 	},
 	{
 		"name": "JEVIM",
@@ -581,7 +582,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "12/06/2006",
+		"updated": "12/06/2006"
 	},
 	{
 		"name": "JEXOM",
@@ -590,7 +591,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/17/2009",
+		"updated": "07/17/2009"
 	},
 	{
 		"name": "JEXUT",
@@ -599,7 +600,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/23/2009",
+		"updated": "03/23/2009"
 	},
 	{
 		"name": "JFFRS",
@@ -608,7 +609,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "12/19/2013",
+		"updated": "12/19/2013"
 	},
 	{
 		"name": "JIBES",
@@ -617,7 +618,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/18/2002",
+		"updated": "11/18/2002"
 	},
 	{
 		"name": "JICCU",
@@ -626,7 +627,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "05/15/2001",
+		"updated": "05/15/2001"
 	},
 	{
 		"name": "JIDEM",
@@ -635,7 +636,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/09/2010",
+		"updated": "08/09/2010"
 	},
 	{
 		"name": "JIGAX",
@@ -644,7 +645,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/26/2007",
+		"updated": "01/26/2007"
 	},
 	{
 		"name": "JIGVY",
@@ -653,7 +654,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/28/2011",
+		"updated": "11/28/2011"
 	},
 	{
 		"name": "JIKBO",
@@ -662,7 +663,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/06/2013",
+		"updated": "11/06/2013"
 	},
 	{
 		"name": "JIMMI",
@@ -671,7 +672,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BOI*VORTAC*278.14/11.98",
+		"updated": "BOI*VORTAC*278.14/11.98"
 	},
 	{
 		"name": "JINTO",
@@ -680,7 +681,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/03/2009",
+		"updated": "11/03/2009"
 	},
 	{
 		"name": "JINUG",
@@ -689,7 +690,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "LHO*VOR/DME*350.00/18.90",
+		"updated": "LHO*VOR/DME*350.00/18.90"
 	},
 	{
 		"name": "JIPOS",
@@ -698,7 +699,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "02/17/2006",
+		"updated": "02/17/2006"
 	},
 	{
 		"name": "JIRBA",
@@ -707,7 +708,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "02/23/2016",
+		"updated": "02/23/2016"
 	},
 	{
 		"name": "JIRBU",
@@ -716,7 +717,7 @@
 		"state": "OREGON",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/12/2008",
+		"updated": "06/12/2008"
 	},
 	{
 		"name": "JIROS",
@@ -725,7 +726,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MSO*VOR/DME*242.67/25.00",
+		"updated": "MSO*VOR/DME*242.67/25.00"
 	},
 	{
 		"name": "JISUP",
@@ -734,7 +735,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/09/2005",
+		"updated": "08/09/2005"
 	},
 	{
 		"name": "JITAG",
@@ -743,7 +744,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "GGW*VOR/DME*151.75/20.00",
+		"updated": "GGW*VOR/DME*151.75/20.00"
 	},
 	{
 		"name": "JITIP",
@@ -752,7 +753,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "RLY*VOR/DME*112.06/31.00",
+		"updated": "RLY*VOR/DME*112.06/31.00"
 	},
 	{
 		"name": "JITJU",
@@ -761,7 +762,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "JIVOX",
@@ -770,7 +771,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/15/2015",
+		"updated": "04/15/2015"
 	},
 	{
 		"name": "JMPYR",
@@ -779,7 +780,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/13/2014",
+		"updated": "01/13/2014"
 	},
 	{
 		"name": "JOBRO",
@@ -788,7 +789,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/26/2004",
+		"updated": "07/26/2004"
 	},
 	{
 		"name": "JODIX",
@@ -797,7 +798,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/05/2014",
+		"updated": "08/05/2014"
 	},
 	{
 		"name": "JOGAD",
@@ -806,7 +807,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/24/2009",
+		"updated": "04/24/2009"
 	},
 	{
 		"name": "JOGOX",
@@ -815,7 +816,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/30/2007",
+		"updated": "01/30/2007"
 	},
 	{
 		"name": "JOGUN",
@@ -824,7 +825,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/05/2004",
+		"updated": "04/05/2004"
 	},
 	{
 		"name": "JOGUT",
@@ -833,7 +834,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/01/2012",
+		"updated": "11/01/2012"
 	},
 	{
 		"name": "JOLBU",
@@ -842,7 +843,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/06/2015",
+		"updated": "11/06/2015"
 	},
 	{
 		"name": "JOLEK",
@@ -851,7 +852,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "FCA*VOR/DME*221.47/14.25",
+		"updated": "FCA*VOR/DME*221.47/14.25"
 	},
 	{
 		"name": "JOLTI",
@@ -860,7 +861,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "AAD*LD*102.16/13.06",
+		"updated": "AAD*LD*102.16/13.06"
 	},
 	{
 		"name": "JOMVA",
@@ -869,7 +870,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "05/01/2013",
+		"updated": "05/01/2013"
 	},
 	{
 		"name": "JONEK",
@@ -878,7 +879,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "TVY*LD*346.12/6.72",
+		"updated": "TVY*LD*346.12/6.72"
 	},
 	{
 		"name": "JONOK",
@@ -887,7 +888,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/28/2012",
+		"updated": "09/28/2012"
 	},
 	{
 		"name": "JOPER",
@@ -896,7 +897,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "05/08/2002",
+		"updated": "05/08/2002"
 	},
 	{
 		"name": "JORAK",
@@ -905,7 +906,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "OCS*VOR/DME*265.47/6.00",
+		"updated": "OCS*VOR/DME*265.47/6.00"
 	},
 	{
 		"name": "JOSIF",
@@ -914,7 +915,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "TCH*VORTAC*295.74/15.56",
+		"updated": "TCH*VORTAC*295.74/15.56"
 	},
 	{
 		"name": "JOTBO",
@@ -923,7 +924,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/06/2016",
+		"updated": "06/06/2016"
 	},
 	{
 		"name": "JOTUN",
@@ -932,7 +933,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/30/2007",
+		"updated": "01/30/2007"
 	},
 	{
 		"name": "JOVEN",
@@ -941,7 +942,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/21/2014",
+		"updated": "09/21/2014"
 	},
 	{
 		"name": "JOVIX",
@@ -950,7 +951,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "HLN*VORTAC*085.99/15.00",
+		"updated": "HLN*VORTAC*085.99/15.00"
 	},
 	{
 		"name": "JOXIT",
@@ -959,7 +960,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BZN*VOR/DME*186.20/22.30",
+		"updated": "BZN*VOR/DME*186.20/22.30"
 	},
 	{
 		"name": "JOXNI",
@@ -968,7 +969,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/22/2010",
+		"updated": "04/22/2010"
 	},
 	{
 		"name": "JSICA",
@@ -977,7 +978,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/04/2010",
+		"updated": "06/04/2010"
 	},
 	{
 		"name": "JUBEN",
@@ -986,7 +987,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/05/2014",
+		"updated": "08/05/2014"
 	},
 	{
 		"name": "JUBTI",
@@ -995,7 +996,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "HLN*VORTAC*085.99/4.00",
+		"updated": "HLN*VORTAC*085.99/4.00"
 	},
 	{
 		"name": "JUGAP",
@@ -1004,7 +1005,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "LWT*VOR/DME*180.00",
+		"updated": "LWT*VOR/DME*180.00"
 	},
 	{
 		"name": "JUGIV",
@@ -1013,7 +1014,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/21/2014",
+		"updated": "09/21/2014"
 	},
 	{
 		"name": "JUGOX",
@@ -1022,7 +1023,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "UUH*LD*163.95/1.43",
+		"updated": "UUH*LD*163.95/1.43"
 	},
 	{
 		"name": "JULIK",
@@ -1031,7 +1032,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "DTA*VORTAC*170.00/9.00",
+		"updated": "DTA*VORTAC*170.00/9.00"
 	},
 	{
 		"name": "JULVI",
@@ -1040,7 +1041,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/15/2015",
+		"updated": "04/15/2015"
 	},
 	{
 		"name": "JUMIN",
@@ -1049,7 +1050,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/05/2014",
+		"updated": "03/05/2014"
 	},
 	{
 		"name": "JUMIS",
@@ -1058,7 +1059,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/17/2009",
+		"updated": "07/17/2009"
 	},
 	{
 		"name": "JUNEG",
@@ -1067,7 +1068,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/05/2017",
+		"updated": "07/05/2017"
 	},
 	{
 		"name": "JUNEK",
@@ -1076,7 +1077,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "MR",
-		"updated": "MUO*TACAN*124.00/6.00",
+		"updated": "MUO*TACAN*124.00/6.00"
 	},
 	{
 		"name": "JUNGA",
@@ -1085,7 +1086,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/21/2013",
+		"updated": "08/21/2013"
 	},
 	{
 		"name": "JUNIV",
@@ -1094,7 +1095,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/17/2012",
+		"updated": "07/17/2012"
 	},
 	{
 		"name": "JUNKA",
@@ -1103,7 +1104,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "LKT*VOR/DME*029.44/48.45",
+		"updated": "LKT*VOR/DME*029.44/48.45"
 	},
 	{
 		"name": "JUNOL",
@@ -1112,7 +1113,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/06/2016",
+		"updated": "06/06/2016"
 	},
 	{
 		"name": "JUNRU",
@@ -1121,7 +1122,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/24/2009",
+		"updated": "04/24/2009"
 	},
 	{
 		"name": "JURAL",
@@ -1130,7 +1131,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "JUREP",
@@ -1139,7 +1140,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/17/2017",
+		"updated": "10/17/2017"
 	},
 	{
 		"name": "JURGA",
@@ -1148,7 +1149,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/08/2014",
+		"updated": "10/08/2014"
 	},
 	{
 		"name": "JUSIR",
@@ -1157,7 +1158,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/05/2016",
+		"updated": "10/05/2016"
 	},
 	{
 		"name": "JUTEB",
@@ -1166,7 +1167,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/08/2014",
+		"updated": "10/08/2014"
 	},
 	{
 		"name": "JUTIM",
@@ -1175,7 +1176,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/17/2017",
+		"updated": "10/17/2017"
 	},
 	{
 		"name": "JUVGO",
@@ -1184,5 +1185,6 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "HLN*VORTAC*087.55/22.00",
-	},
+		"updated": "HLN*VORTAC*087.55/22.00"
+	}
+]

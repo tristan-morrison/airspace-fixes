@@ -1,3 +1,4 @@
+[
 	{
 		"name": "WAANE",
 		"latitude": "46-51-18.62 N",
@@ -5,7 +6,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MSO*VOR/DME*243.00/13.00",
+		"updated": "MSO*VOR/DME*243.00/13.00"
 	},
 	{
 		"name": "WAATS",
@@ -14,7 +15,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BVL*VORTAC*078.00/56.00",
+		"updated": "BVL*VORTAC*078.00/56.00"
 	},
 	{
 		"name": "WABNU",
@@ -23,7 +24,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/01/2008",
+		"updated": "08/01/2008"
 	},
 	{
 		"name": "WABUD",
@@ -32,7 +33,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "LKT*VOR/DME*140.81/33.79",
+		"updated": "LKT*VOR/DME*140.81/33.79"
 	},
 	{
 		"name": "WADOK",
@@ -41,7 +42,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "DTA*VORTAC*348.00/15.00",
+		"updated": "DTA*VORTAC*348.00/15.00"
 	},
 	{
 		"name": "WADPO",
@@ -50,7 +51,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/01/2017",
+		"updated": "09/01/2017"
 	},
 	{
 		"name": "WAGAN",
@@ -59,7 +60,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/15/2011",
+		"updated": "06/15/2011"
 	},
 	{
 		"name": "WAGEX",
@@ -68,7 +69,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/21/2014",
+		"updated": "11/21/2014"
 	},
 	{
 		"name": "WAGUG",
@@ -77,7 +78,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/26/2017",
+		"updated": "09/26/2017"
 	},
 	{
 		"name": "WAHNZ",
@@ -86,7 +87,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/28/2017",
+		"updated": "04/28/2017"
 	},
 	{
 		"name": "WAIDE",
@@ -95,7 +96,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "DBS*VORTAC*008.46/49.64",
+		"updated": "DBS*VORTAC*008.46/49.64"
 	},
 	{
 		"name": "WAKIX",
@@ -104,7 +105,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "CPN*VOR/DME*297.98/35.00",
+		"updated": "CPN*VOR/DME*297.98/35.00"
 	},
 	{
 		"name": "WAKUX",
@@ -113,7 +114,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "DLN*VOR/DME*005.25/6.00",
+		"updated": "DLN*VOR/DME*005.25/6.00"
 	},
 	{
 		"name": "WALIL",
@@ -122,7 +123,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "TWF*VORTAC*313.99/11.00",
+		"updated": "TWF*VORTAC*313.99/11.00"
 	},
 	{
 		"name": "WALIV",
@@ -131,7 +132,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "ISN*VOR/DME*125.15/3.47",
+		"updated": "ISN*VOR/DME*125.15/3.47"
 	},
 	{
 		"name": "WAMAS",
@@ -140,7 +141,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MSO*VOR/DME*285.00/10.00",
+		"updated": "MSO*VOR/DME*285.00/10.00"
 	},
 	{
 		"name": "WAMIS",
@@ -149,7 +150,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/17/2009",
+		"updated": "07/17/2009"
 	},
 	{
 		"name": "WAPSU",
@@ -158,7 +159,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/16/2012",
+		"updated": "07/16/2012"
 	},
 	{
 		"name": "WARPU",
@@ -167,7 +168,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/14/2006",
+		"updated": "08/14/2006"
 	},
 	{
 		"name": "WARRM",
@@ -176,7 +177,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/28/2015",
+		"updated": "10/28/2015"
 	},
 	{
 		"name": "WASIV",
@@ -185,7 +186,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/06/2015",
+		"updated": "11/06/2015"
 	},
 	{
 		"name": "WASLI",
@@ -194,7 +195,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/31/2011",
+		"updated": "08/31/2011"
 	},
 	{
 		"name": "WATBU",
@@ -203,7 +204,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/11/2013",
+		"updated": "01/11/2013"
 	},
 	{
 		"name": "WATUM",
@@ -212,7 +213,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "RKS*LD*090.22/4.93",
+		"updated": "RKS*LD*090.22/4.93"
 	},
 	{
 		"name": "WAUTS",
@@ -221,7 +222,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "HLN*VORTAC*073.00/20.64",
+		"updated": "HLN*VORTAC*073.00/20.64"
 	},
 	{
 		"name": "WAVIT",
@@ -230,7 +231,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "PVU*LD*313.79/7.08",
+		"updated": "PVU*LD*313.79/7.08"
 	},
 	{
 		"name": "WAVUV",
@@ -239,7 +240,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/06/2015",
+		"updated": "11/06/2015"
 	},
 	{
 		"name": "WAXIV",
@@ -248,7 +249,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/11/2013",
+		"updated": "03/11/2013"
 	},
 	{
 		"name": "WEBER",
@@ -257,7 +258,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MOY*LD*343.95/33.00",
+		"updated": "MOY*LD*343.95/33.00"
 	},
 	{
 		"name": "WEBVO",
@@ -266,7 +267,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "CTB*VOR/DME*072.86/35.41",
+		"updated": "CTB*VOR/DME*072.86/35.41"
 	},
 	{
 		"name": "WEDAK",
@@ -275,7 +276,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "LKT*VOR/DME*347.01/52.03",
+		"updated": "LKT*VOR/DME*347.01/52.03"
 	},
 	{
 		"name": "WEDAP",
@@ -284,7 +285,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/21/2014",
+		"updated": "09/21/2014"
 	},
 	{
 		"name": "WEDAR",
@@ -293,7 +294,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/15/2011",
+		"updated": "06/15/2011"
 	},
 	{
 		"name": "WEDEK",
@@ -302,7 +303,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/05/2014",
+		"updated": "08/05/2014"
 	},
 	{
 		"name": "WEEEL",
@@ -311,7 +312,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "UTJ*LD*163.95/1.76",
+		"updated": "UTJ*LD*163.95/1.76"
 	},
 	{
 		"name": "WEGEM",
@@ -320,7 +321,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "FBR*VOR/DME*064.23/20.00",
+		"updated": "FBR*VOR/DME*064.23/20.00"
 	},
 	{
 		"name": "WEGET",
@@ -329,7 +330,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "TCH*VORTAC*249.32",
+		"updated": "TCH*VORTAC*249.32"
 	},
 	{
 		"name": "WEGVU",
@@ -338,7 +339,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "04/27/2009",
+		"updated": "04/27/2009"
 	},
 	{
 		"name": "WEKPI",
@@ -347,7 +348,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/06/2010",
+		"updated": "08/06/2010"
 	},
 	{
 		"name": "WELDU",
@@ -356,7 +357,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BEY*LD*334.87/5.38",
+		"updated": "BEY*LD*334.87/5.38"
 	},
 	{
 		"name": "WELEN",
@@ -365,7 +366,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "PUC*VOR/DME*188.99/5.11",
+		"updated": "PUC*VOR/DME*188.99/5.11"
 	},
 	{
 		"name": "WELUR",
@@ -374,7 +375,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "CTB*VOR/DME*155.19/10.00",
+		"updated": "CTB*VOR/DME*155.19/10.00"
 	},
 	{
 		"name": "WEMET",
@@ -383,7 +384,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "05/15/2010",
+		"updated": "05/15/2010"
 	},
 	{
 		"name": "WEMKO",
@@ -392,7 +393,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "DBS*VORTAC*333.38/33.07",
+		"updated": "DBS*VORTAC*333.38/33.07"
 	},
 	{
 		"name": "WENKE",
@@ -401,7 +402,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/17/2009",
+		"updated": "07/17/2009"
 	},
 	{
 		"name": "WEPAP",
@@ -410,7 +411,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/15/2011",
+		"updated": "08/15/2011"
 	},
 	{
 		"name": "WEPIV",
@@ -419,7 +420,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "PUC*LD*187.35/1.70",
+		"updated": "PUC*LD*187.35/1.70"
 	},
 	{
 		"name": "WEPLI",
@@ -428,7 +429,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/08/2014",
+		"updated": "10/08/2014"
 	},
 	{
 		"name": "WESOP",
@@ -437,7 +438,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "12/04/2006",
+		"updated": "12/04/2006"
 	},
 	{
 		"name": "WETIG",
@@ -446,7 +447,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/18/2017",
+		"updated": "10/18/2017"
 	},
 	{
 		"name": "WIBGI",
@@ -455,7 +456,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/06/2015",
+		"updated": "11/06/2015"
 	},
 	{
 		"name": "WIBMU",
@@ -464,7 +465,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BIL*VORTAC*287.00/13.60",
+		"updated": "BIL*VORTAC*287.00/13.60"
 	},
 	{
 		"name": "WIBON",
@@ -473,7 +474,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BIL*LD*281.71/11.04",
+		"updated": "BIL*LD*281.71/11.04"
 	},
 	{
 		"name": "WIBTI",
@@ -482,7 +483,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/23/2017",
+		"updated": "01/23/2017"
 	},
 	{
 		"name": "WIDES",
@@ -491,7 +492,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/10/2001",
+		"updated": "01/10/2001"
 	},
 	{
 		"name": "WIDGA",
@@ -500,7 +501,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "12/06/2006",
+		"updated": "12/06/2006"
 	},
 	{
 		"name": "WIDOE",
@@ -509,7 +510,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "MR",
-		"updated": "HIF*TACAN*271.46/32.04",
+		"updated": "HIF*TACAN*271.46/32.04"
 	},
 	{
 		"name": "WIDOP",
@@ -518,7 +519,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "AAD*LD*102.16/8.05",
+		"updated": "AAD*LD*102.16/8.05"
 	},
 	{
 		"name": "WIDUG",
@@ -527,7 +528,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/25/2009",
+		"updated": "03/25/2009"
 	},
 	{
 		"name": "WIKIS",
@@ -536,7 +537,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/05/2014",
+		"updated": "08/05/2014"
 	},
 	{
 		"name": "WIKLO",
@@ -545,7 +546,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BAM*VORTAC*246.00/12.00",
+		"updated": "BAM*VORTAC*246.00/12.00"
 	},
 	{
 		"name": "WILID",
@@ -554,7 +555,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "MR",
-		"updated": "HIF*TACAN*318.00/23.00",
+		"updated": "HIF*TACAN*318.00/23.00"
 	},
 	{
 		"name": "WILSN",
@@ -563,7 +564,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/08/2010",
+		"updated": "04/08/2010"
 	},
 	{
 		"name": "WILTO",
@@ -572,7 +573,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "05/02/2018",
+		"updated": "05/02/2018"
 	},
 	{
 		"name": "WIMEG",
@@ -581,7 +582,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/28/2017",
+		"updated": "07/28/2017"
 	},
 	{
 		"name": "WINEN",
@@ -590,7 +591,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/26/2018",
+		"updated": "03/26/2018"
 	},
 	{
 		"name": "WINIX",
@@ -599,7 +600,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "WINQY",
@@ -608,7 +609,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "WP",
-		"updated": "08/16/2006",
+		"updated": "08/16/2006"
 	},
 	{
 		"name": "WIRIM",
@@ -617,7 +618,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/01/2012",
+		"updated": "10/01/2012"
 	},
 	{
 		"name": "WISEB",
@@ -626,7 +627,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "EHK*VOR/DME*016.50",
+		"updated": "EHK*VOR/DME*016.50"
 	},
 	{
 		"name": "WITUS",
@@ -635,7 +636,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/01/2012",
+		"updated": "10/01/2012"
 	},
 	{
 		"name": "WIZSI",
@@ -644,7 +645,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/26/2011",
+		"updated": "10/26/2011"
 	},
 	{
 		"name": "WKARA",
@@ -653,7 +654,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/18/2017",
+		"updated": "04/18/2017"
 	},
 	{
 		"name": "WLCOM",
@@ -662,7 +663,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/20/2017",
+		"updated": "03/20/2017"
 	},
 	{
 		"name": "WLLES",
@@ -671,7 +672,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/17/2011",
+		"updated": "03/17/2011"
 	},
 	{
 		"name": "WLLLO",
@@ -680,7 +681,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/20/2017",
+		"updated": "03/20/2017"
 	},
 	{
 		"name": "WNDEE",
@@ -689,7 +690,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/05/2014",
+		"updated": "03/05/2014"
 	},
 	{
 		"name": "WOBNO",
@@ -698,7 +699,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/05/2012",
+		"updated": "01/05/2012"
 	},
 	{
 		"name": "WODEN",
@@ -707,7 +708,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BYI*VOR/DME*213.10",
+		"updated": "BYI*VOR/DME*213.10"
 	},
 	{
 		"name": "WODIM",
@@ -716,7 +717,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "FCA*VOR/DME*287.57",
+		"updated": "FCA*VOR/DME*287.57"
 	},
 	{
 		"name": "WODNI",
@@ -725,7 +726,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "WODOS",
@@ -734,7 +735,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/01/2012",
+		"updated": "10/01/2012"
 	},
 	{
 		"name": "WOGAR",
@@ -743,7 +744,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/06/2016",
+		"updated": "06/06/2016"
 	},
 	{
 		"name": "WOJHO",
@@ -752,7 +753,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/13/2018",
+		"updated": "03/13/2018"
 	},
 	{
 		"name": "WOKAL",
@@ -761,7 +762,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "GGW*VOR/DME*313.00/4.00",
+		"updated": "GGW*VOR/DME*313.00/4.00"
 	},
 	{
 		"name": "WOKEN",
@@ -770,7 +771,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "HLN*VORTAC*336.47/22.71",
+		"updated": "HLN*VORTAC*336.47/22.71"
 	},
 	{
 		"name": "WOKIN",
@@ -779,7 +780,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "MR",
-		"updated": "OGD*VORTAC*/15.00",
+		"updated": "OGD*VORTAC*/15.00"
 	},
 	{
 		"name": "WOLAT",
@@ -788,7 +789,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "WOLEN",
@@ -797,7 +798,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/25/2006",
+		"updated": "07/25/2006"
 	},
 	{
 		"name": "WOLIV",
@@ -806,7 +807,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/26/2012",
+		"updated": "07/26/2012"
 	},
 	{
 		"name": "WOLLY",
@@ -815,7 +816,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/15/2011",
+		"updated": "06/15/2011"
 	},
 	{
 		"name": "WOLUN",
@@ -824,7 +825,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/06/2015",
+		"updated": "11/06/2015"
 	},
 	{
 		"name": "WOMET",
@@ -833,7 +834,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BZN*VOR/DME*186.20/11.14",
+		"updated": "BZN*VOR/DME*186.20/11.14"
 	},
 	{
 		"name": "WOMRU",
@@ -842,7 +843,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/22/2013",
+		"updated": "01/22/2013"
 	},
 	{
 		"name": "WONIT",
@@ -851,7 +852,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/30/2007",
+		"updated": "04/30/2007"
 	},
 	{
 		"name": "WOOOP",
@@ -860,7 +861,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/21/2017",
+		"updated": "04/21/2017"
 	},
 	{
 		"name": "WOPKU",
@@ -869,7 +870,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/01/2012",
+		"updated": "10/01/2012"
 	},
 	{
 		"name": "WORAT",
@@ -878,7 +879,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/22/2013",
+		"updated": "08/22/2013"
 	},
 	{
 		"name": "WOSAG",
@@ -887,7 +888,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "WOSEP",
@@ -896,7 +897,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/05/2014",
+		"updated": "08/05/2014"
 	},
 	{
 		"name": "WOSKO",
@@ -905,7 +906,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/09/2010",
+		"updated": "08/09/2010"
 	},
 	{
 		"name": "WOSLA",
@@ -914,7 +915,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "HLN*VORTAC*254.22/1.40",
+		"updated": "HLN*VORTAC*254.22/1.40"
 	},
 	{
 		"name": "WOTES",
@@ -923,7 +924,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "02/02/2009",
+		"updated": "02/02/2009"
 	},
 	{
 		"name": "WOTOP",
@@ -932,7 +933,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/21/2014",
+		"updated": "11/21/2014"
 	},
 	{
 		"name": "WUBIT",
@@ -941,7 +942,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/21/2014",
+		"updated": "09/21/2014"
 	},
 	{
 		"name": "WUKUK",
@@ -950,7 +951,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/06/2015",
+		"updated": "11/06/2015"
 	},
 	{
 		"name": "WUKUX",
@@ -959,7 +960,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/13/2012",
+		"updated": "07/13/2012"
 	},
 	{
 		"name": "WULAX",
@@ -968,7 +969,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/25/2007",
+		"updated": "01/25/2007"
 	},
 	{
 		"name": "WULEX",
@@ -977,7 +978,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/27/2009",
+		"updated": "04/27/2009"
 	},
 	{
 		"name": "WULFE",
@@ -986,7 +987,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "OGD*LD*SW CRS/5.95",
+		"updated": "OGD*LD*SW CRS/5.95"
 	},
 	{
 		"name": "WULMU",
@@ -995,7 +996,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "12/01/2016",
+		"updated": "12/01/2016"
 	},
 	{
 		"name": "WULOL",
@@ -1004,7 +1005,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "GTF*VORTAC*106.00/13.34",
+		"updated": "GTF*VORTAC*106.00/13.34"
 	},
 	{
 		"name": "WUNDI",
@@ -1013,7 +1014,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/21/2005",
+		"updated": "10/21/2005"
 	},
 	{
 		"name": "WUNIB",
@@ -1022,7 +1023,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "RIW*VOR/DME*281.01/2.20",
+		"updated": "RIW*VOR/DME*281.01/2.20"
 	},
 	{
 		"name": "WUPAS",
@@ -1031,7 +1032,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "MR",
-		"updated": "HIF*TACAN*311.00/4.00",
+		"updated": "HIF*TACAN*311.00/4.00"
 	},
 	{
 		"name": "WURAG",
@@ -1040,7 +1041,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "MR",
-		"updated": "BOI*VORTAC*252.00/12.00",
+		"updated": "BOI*VORTAC*252.00/12.00"
 	},
 	{
 		"name": "WURTH",
@@ -1049,7 +1050,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MSO*VOR/DME*159.00/16.00",
+		"updated": "MSO*VOR/DME*159.00/16.00"
 	},
 	{
 		"name": "WUSEP",
@@ -1058,7 +1059,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/29/2009",
+		"updated": "10/29/2009"
 	},
 	{
 		"name": "WUTBO",
@@ -1067,7 +1068,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/21/2014",
+		"updated": "09/21/2014"
 	},
 	{
 		"name": "WUTEK",
@@ -1076,7 +1077,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "03/18/2016",
+		"updated": "03/18/2016"
 	},
 	{
 		"name": "WUVOK",
@@ -1085,7 +1086,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/14/2008",
+		"updated": "08/14/2008"
 	},
 	{
 		"name": "WUXOT",
@@ -1094,7 +1095,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/19/2017",
+		"updated": "04/19/2017"
 	},
 	{
 		"name": "WYLED",
@@ -1103,7 +1104,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BIL*VORTAC*082.00/6.90",
+		"updated": "BIL*VORTAC*082.00/6.90"
 	},
 	{
 		"name": "WYMAN",
@@ -1112,5 +1113,6 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/03/2018",
-	},
+		"updated": "04/03/2018"
+	}
+]

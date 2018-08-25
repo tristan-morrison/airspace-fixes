@@ -1,3 +1,4 @@
+[
 	{
 		"name": "DAANG",
 		"latitude": "36-26-47.28 N",
@@ -5,7 +6,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "DABEY",
@@ -14,7 +15,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MHZ*VORTAC*/12.84",
+		"updated": "MHZ*VORTAC*/12.84"
 	},
 	{
 		"name": "DABFA",
@@ -23,7 +24,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/27/2011",
+		"updated": "09/27/2011"
 	},
 	{
 		"name": "DABIE",
@@ -32,7 +33,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "DACED",
@@ -41,7 +42,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/25/2004",
+		"updated": "05/25/2004"
 	},
 	{
 		"name": "DACNA",
@@ -50,7 +51,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "DAFFY",
@@ -59,7 +60,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "NMM*TACAN*008.32/15.00",
+		"updated": "NMM*TACAN*008.32/15.00"
 	},
 	{
 		"name": "DAGNY",
@@ -68,7 +69,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "DAKNE",
@@ -77,7 +78,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/03/2011",
+		"updated": "05/03/2011"
 	},
 	{
 		"name": "DALEC",
@@ -86,7 +87,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/10/2007",
+		"updated": "08/10/2007"
 	},
 	{
 		"name": "DALGE",
@@ -95,7 +96,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/31/2012",
+		"updated": "01/31/2012"
 	},
 	{
 		"name": "DANIL",
@@ -104,7 +105,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "PGO*VORTAC*060.95",
+		"updated": "PGO*VORTAC*060.95"
 	},
 	{
 		"name": "DANLS",
@@ -113,7 +114,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/17/2012",
+		"updated": "09/17/2012"
 	},
 	{
 		"name": "DANNZ",
@@ -122,7 +123,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LWR*LD*359.55/6.72",
+		"updated": "LWR*LD*359.55/6.72"
 	},
 	{
 		"name": "DAPLE",
@@ -131,7 +132,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*045.00/26.93",
+		"updated": "MEM*VORTAC*045.00/26.93"
 	},
 	{
 		"name": "DASAC",
@@ -140,7 +141,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MEM*VORTAC*045.00/13.17",
+		"updated": "MEM*VORTAC*045.00/13.17"
 	},
 	{
 		"name": "DASLE",
@@ -149,7 +150,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/05/2013",
+		"updated": "07/05/2013"
 	},
 	{
 		"name": "DASWY",
@@ -158,7 +159,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/12/2013",
+		"updated": "08/12/2013"
 	},
 	{
 		"name": "DATMY",
@@ -167,7 +168,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/15/2008",
+		"updated": "09/15/2008"
 	},
 	{
 		"name": "DAVCA",
@@ -176,7 +177,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/02/2011",
+		"updated": "11/02/2011"
 	},
 	{
 		"name": "DAVDE",
@@ -185,7 +186,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/21/2003",
+		"updated": "05/21/2003"
 	},
 	{
 		"name": "DAVLE",
@@ -194,7 +195,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/21/2004",
+		"updated": "09/21/2004"
 	},
 	{
 		"name": "DAVSN",
@@ -203,7 +204,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*185.00/37.00",
+		"updated": "CBM*VORTAC*185.00/37.00"
 	},
 	{
 		"name": "DAVVE",
@@ -212,7 +213,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*313.00/1.90",
+		"updated": "CBM*VORTAC*313.00/1.90"
 	},
 	{
 		"name": "DAWGG",
@@ -221,7 +222,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GQE*VOR/DME*291.00/16.64",
+		"updated": "GQE*VOR/DME*291.00/16.64"
 	},
 	{
 		"name": "DAZED",
@@ -230,7 +231,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DAK*VOR/DME*145.45/14.10",
+		"updated": "DAK*VOR/DME*145.45/14.10"
 	},
 	{
 		"name": "DAZEL",
@@ -239,7 +240,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "JBR*VOR/DME*018.57/6.43",
+		"updated": "JBR*VOR/DME*018.57/6.43"
 	},
 	{
 		"name": "DAZNI",
@@ -248,7 +249,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "DDART",
@@ -257,7 +258,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "CBM*VORTAC*189.00/26.00",
+		"updated": "CBM*VORTAC*189.00/26.00"
 	},
 	{
 		"name": "DEANY",
@@ -266,7 +267,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "RQZ*VORTAC*195.40/19.50",
+		"updated": "RQZ*VORTAC*195.40/19.50"
 	},
 	{
 		"name": "DEBAY",
@@ -275,7 +276,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "DCU*VOR/DME*062.33",
+		"updated": "DCU*VOR/DME*062.33"
 	},
 	{
 		"name": "DEBGE",
@@ -284,7 +285,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/17/2015",
+		"updated": "09/17/2015"
 	},
 	{
 		"name": "DECAV",
@@ -293,7 +294,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/02/2011",
+		"updated": "05/02/2011"
 	},
 	{
 		"name": "DEEPE",
@@ -302,7 +303,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/28/2017",
+		"updated": "03/28/2017"
 	},
 	{
 		"name": "DEEWY",
@@ -311,7 +312,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/27/2009",
+		"updated": "05/27/2009"
 	},
 	{
 		"name": "DEGYE",
@@ -320,7 +321,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/03/2015",
+		"updated": "09/03/2015"
 	},
 	{
 		"name": "DEKLE",
@@ -329,7 +330,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/18/2013",
+		"updated": "07/18/2013"
 	},
 	{
 		"name": "DELEE",
@@ -338,7 +339,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "OTB*VOR/DME*014.78/18.00",
+		"updated": "OTB*VOR/DME*014.78/18.00"
 	},
 	{
 		"name": "DEPEC",
@@ -347,7 +348,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/16/2006",
+		"updated": "02/16/2006"
 	},
 	{
 		"name": "DEPGE",
@@ -356,7 +357,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/07/2005",
+		"updated": "03/07/2005"
 	},
 	{
 		"name": "DEPST",
@@ -365,7 +366,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/05/2009",
+		"updated": "05/05/2009"
 	},
 	{
 		"name": "DESKE",
@@ -374,7 +375,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MHZ*VORTAC*326.90/31.00",
+		"updated": "MHZ*VORTAC*326.90/31.00"
 	},
 	{
 		"name": "DETGE",
@@ -383,7 +384,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/12/2017",
+		"updated": "01/12/2017"
 	},
 	{
 		"name": "DEVAC",
@@ -392,7 +393,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "RMG*VORTAC*283.00/118.18",
+		"updated": "RMG*VORTAC*283.00/118.18"
 	},
 	{
 		"name": "DEXIW",
@@ -401,7 +402,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/01/2016",
+		"updated": "08/01/2016"
 	},
 	{
 		"name": "DEYEV",
@@ -410,7 +411,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GLH*VOR/DME*040.33/19.00",
+		"updated": "GLH*VOR/DME*040.33/19.00"
 	},
 	{
 		"name": "DIBAY",
@@ -419,7 +420,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/08/2007",
+		"updated": "08/08/2007"
 	},
 	{
 		"name": "DICAT",
@@ -428,7 +429,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "SYI*VOR/DME*340.00/0.34",
+		"updated": "SYI*VOR/DME*340.00/0.34"
 	},
 	{
 		"name": "DICEB",
@@ -437,7 +438,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "03/24/2011",
+		"updated": "03/24/2011"
 	},
 	{
 		"name": "DIGLE",
@@ -446,7 +447,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/14/2012",
+		"updated": "06/14/2012"
 	},
 	{
 		"name": "DIKNS",
@@ -455,7 +456,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*LD*200.65/8.71",
+		"updated": "BNA*LD*200.65/8.71"
 	},
 	{
 		"name": "DILEY",
@@ -464,7 +465,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*VORTAC*135.85/22.00",
+		"updated": "BNA*VORTAC*135.85/22.00"
 	},
 	{
 		"name": "DILGE",
@@ -473,7 +474,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/14/2009",
+		"updated": "09/14/2009"
 	},
 	{
 		"name": "DILME",
@@ -482,7 +483,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HRO*VOR/DME*021.46",
+		"updated": "HRO*VOR/DME*021.46"
 	},
 	{
 		"name": "DINGE",
@@ -491,7 +492,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "DINKE",
@@ -500,7 +501,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/14/2012",
+		"updated": "06/14/2012"
 	},
 	{
 		"name": "DINNI",
@@ -509,7 +510,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "DIPJO",
@@ -518,7 +519,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "06/16/2011",
+		"updated": "06/16/2011"
 	},
 	{
 		"name": "DITZL",
@@ -527,7 +528,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/06/2011",
+		"updated": "05/06/2011"
 	},
 	{
 		"name": "DIVYA",
@@ -536,7 +537,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/03/2007",
+		"updated": "10/03/2007"
 	},
 	{
 		"name": "DIXLI",
@@ -545,7 +546,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "MSL*VORTAC*/3.10",
+		"updated": "MSL*VORTAC*/3.10"
 	},
 	{
 		"name": "DIXVU",
@@ -554,7 +555,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "IGB*VORTAC*191.49/15.03",
+		"updated": "IGB*VORTAC*191.49/15.03"
 	},
 	{
 		"name": "DIYAB",
@@ -563,7 +564,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/30/2013",
+		"updated": "09/30/2013"
 	},
 	{
 		"name": "DLONG",
@@ -572,7 +573,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/31/2012",
+		"updated": "01/31/2012"
 	},
 	{
 		"name": "DMACE",
@@ -581,7 +582,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "DMCOO",
@@ -590,7 +591,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "10/06/2000",
+		"updated": "10/06/2000"
 	},
 	{
 		"name": "DMEDQ",
@@ -599,7 +600,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "CN",
-		"updated": "08/14/2000",
+		"updated": "08/14/2000"
 	},
 	{
 		"name": "DOBBS",
@@ -608,7 +609,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BNA*LD*200.65/7.23",
+		"updated": "BNA*LD*200.65/7.23"
 	},
 	{
 		"name": "DOCAP",
@@ -617,7 +618,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "EVO*LE*180.54/13.21",
+		"updated": "EVO*LE*180.54/13.21"
 	},
 	{
 		"name": "DOCKS",
@@ -626,7 +627,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "HCH*VOR/DME*286.89/20.00",
+		"updated": "HCH*VOR/DME*286.89/20.00"
 	},
 	{
 		"name": "DOGAC",
@@ -635,7 +636,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/27/2004",
+		"updated": "07/27/2004"
 	},
 	{
 		"name": "DOGME",
@@ -644,7 +645,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/05/2012",
+		"updated": "12/05/2012"
 	},
 	{
 		"name": "DOHEP",
@@ -653,7 +654,7 @@
 		"state": "KENTUCKY",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "DOMIN",
@@ -662,7 +663,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "04/28/2008",
+		"updated": "04/28/2008"
 	},
 	{
 		"name": "DONGE",
@@ -671,7 +672,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/18/2007",
+		"updated": "09/18/2007"
 	},
 	{
 		"name": "DONSE",
@@ -680,7 +681,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/10/2007",
+		"updated": "08/10/2007"
 	},
 	{
 		"name": "DOOME",
@@ -689,7 +690,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/15/2015",
+		"updated": "12/15/2015"
 	},
 	{
 		"name": "DOOMS",
@@ -698,7 +699,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/16/2006",
+		"updated": "02/16/2006"
 	},
 	{
 		"name": "DOREY",
@@ -707,7 +708,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "ARG*VORTAC*057.87/26.24",
+		"updated": "ARG*VORTAC*057.87/26.24"
 	},
 	{
 		"name": "DOUUG",
@@ -716,7 +717,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/30/2013",
+		"updated": "09/30/2013"
 	},
 	{
 		"name": "DOVQA",
@@ -725,7 +726,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/30/2001",
+		"updated": "10/30/2001"
 	},
 	{
 		"name": "DOWDU",
@@ -734,7 +735,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "02/24/2014",
+		"updated": "02/24/2014"
 	},
 	{
 		"name": "DOXGU",
@@ -743,7 +744,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/02/2009",
+		"updated": "11/02/2009"
 	},
 	{
 		"name": "DOYAL",
@@ -752,7 +753,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/08/2007",
+		"updated": "08/08/2007"
 	},
 	{
 		"name": "DOZEN",
@@ -761,7 +762,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "TXK*VORTAC*008.00",
+		"updated": "TXK*VORTAC*008.00"
 	},
 	{
 		"name": "DOZVA",
@@ -770,7 +771,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/26/2010",
+		"updated": "01/26/2010"
 	},
 	{
 		"name": "DRAKK",
@@ -779,7 +780,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "BWG*VORTAC*175.03/70.90",
+		"updated": "BWG*VORTAC*175.03/70.90"
 	},
 	{
 		"name": "DRAND",
@@ -788,7 +789,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "DRANO",
@@ -797,7 +798,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "FSM*VORTAC*090.00/18.55",
+		"updated": "FSM*VORTAC*090.00/18.55"
 	},
 	{
 		"name": "DRAST",
@@ -806,7 +807,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LIT*VORTAC*089.28/37.26",
+		"updated": "LIT*VORTAC*089.28/37.26"
 	},
 	{
 		"name": "DRIPT",
@@ -815,7 +816,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "12/15/2015",
+		"updated": "12/15/2015"
 	},
 	{
 		"name": "DROSS",
@@ -824,7 +825,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/03/2009",
+		"updated": "09/03/2009"
 	},
 	{
 		"name": "DRURY",
@@ -833,7 +834,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/17/2012",
+		"updated": "09/17/2012"
 	},
 	{
 		"name": "DSOTO",
@@ -842,7 +843,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "MR",
-		"updated": "MEI*VORTAC*170.00/26.00",
+		"updated": "MEI*VORTAC*170.00/26.00"
 	},
 	{
 		"name": "DUCKZ",
@@ -851,7 +852,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/11/2012",
+		"updated": "01/11/2012"
 	},
 	{
 		"name": "DUELS",
@@ -860,7 +861,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "WP",
-		"updated": "MAW*VORTAC*307.80/12.90",
+		"updated": "MAW*VORTAC*307.80/12.90"
 	},
 	{
 		"name": "DUFDE",
@@ -869,7 +870,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "09/19/2012",
+		"updated": "09/19/2012"
 	},
 	{
 		"name": "DUGGE",
@@ -878,7 +879,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "10/03/2007",
+		"updated": "10/03/2007"
 	},
 	{
 		"name": "DUHAB",
@@ -887,7 +888,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/30/2012",
+		"updated": "11/30/2012"
 	},
 	{
 		"name": "DULLS",
@@ -896,7 +897,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "11/19/2015",
+		"updated": "11/19/2015"
 	},
 	{
 		"name": "DULNE",
@@ -905,7 +906,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2011",
+		"updated": "07/25/2011"
 	},
 	{
 		"name": "DUMPI",
@@ -914,7 +915,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "LIT*VORTAC*029.69/19.00",
+		"updated": "LIT*VORTAC*029.69/19.00"
 	},
 	{
 		"name": "DUNDS",
@@ -923,7 +924,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "MW",
-		"updated": "03/06/2007",
+		"updated": "03/06/2007"
 	},
 	{
 		"name": "DUNLE",
@@ -932,7 +933,7 @@
 		"state": "ARKANSAS",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "01/29/2002",
+		"updated": "01/29/2002"
 	},
 	{
 		"name": "DUPLE",
@@ -941,7 +942,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "08/20/2007",
+		"updated": "08/20/2007"
 	},
 	{
 		"name": "DUSDE",
@@ -950,7 +951,7 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2011",
+		"updated": "07/25/2011"
 	},
 	{
 		"name": "DUTCH",
@@ -959,7 +960,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "CGI*VOR/DME*286.63/6.33",
+		"updated": "CGI*VOR/DME*286.63/6.33"
 	},
 	{
 		"name": "DUUCK",
@@ -968,7 +969,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "07/25/2016",
+		"updated": "07/25/2016"
 	},
 	{
 		"name": "DUVBY",
@@ -977,7 +978,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZME",
 		"type": "RNAV",
-		"updated": "05/05/2009",
+		"updated": "05/05/2009"
 	},
 	{
 		"name": "DWSON",
@@ -986,5 +987,6 @@
 		"state": "TENNESSEE",
 		"artcc": "ZME",
 		"type": "RP",
-		"updated": "GQE*VOR/DME*077.12/23.98",
-	},
+		"updated": "GQE*VOR/DME*077.12/23.98"
+	}
+]

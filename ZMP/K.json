@@ -1,3 +1,4 @@
+[
 	{
 		"name": "KAATS",
 		"latitude": "43-56-45.24 N",
@@ -5,7 +6,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MHE*VOR/DME*285.69/26.48",
+		"updated": "MHE*VOR/DME*285.69/26.48"
 	},
 	{
 		"name": "KABEY",
@@ -14,7 +15,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/19/2003",
+		"updated": "12/19/2003"
 	},
 	{
 		"name": "KABGE",
@@ -23,7 +24,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/14/2009",
+		"updated": "10/14/2009"
 	},
 	{
 		"name": "KACER",
@@ -32,7 +33,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/20/2011",
+		"updated": "06/20/2011"
 	},
 	{
 		"name": "KACHU",
@@ -41,7 +42,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/16/2013",
+		"updated": "05/16/2013"
 	},
 	{
 		"name": "KADCO",
@@ -50,7 +51,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FOD*VORTAC*048.81/13.00",
+		"updated": "FOD*VORTAC*048.81/13.00"
 	},
 	{
 		"name": "KADPE",
@@ -59,7 +60,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/21/2013",
+		"updated": "03/21/2013"
 	},
 	{
 		"name": "KAGRE",
@@ -68,7 +69,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/31/2017",
+		"updated": "05/31/2017"
 	},
 	{
 		"name": "KAGRY",
@@ -77,7 +78,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/21/2011",
+		"updated": "06/21/2011"
 	},
 	{
 		"name": "KAGTE",
@@ -86,7 +87,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/19/2013",
+		"updated": "02/19/2013"
 	},
 	{
 		"name": "KAJQU",
@@ -95,7 +96,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/05/2018",
+		"updated": "02/05/2018"
 	},
 	{
 		"name": "KAKEW",
@@ -104,7 +105,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/15/2009",
+		"updated": "09/15/2009"
 	},
 	{
 		"name": "KAKRE",
@@ -113,7 +114,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/24/2014",
+		"updated": "03/24/2014"
 	},
 	{
 		"name": "KAKUH",
@@ -122,7 +123,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/29/2016",
+		"updated": "03/29/2016"
 	},
 	{
 		"name": "KAKVE",
@@ -131,7 +132,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BJI*LD*073.00/2.79",
+		"updated": "BJI*LD*073.00/2.79"
 	},
 	{
 		"name": "KALDE",
@@ -140,7 +141,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/27/2008",
+		"updated": "03/27/2008"
 	},
 	{
 		"name": "KALNE",
@@ -149,7 +150,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/16/2018",
+		"updated": "04/16/2018"
 	},
 	{
 		"name": "KALWE",
@@ -158,7 +159,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "KANAC",
@@ -167,7 +168,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*125.47/25.16",
+		"updated": "GEP*VORTAC*125.47/25.16"
 	},
 	{
 		"name": "KANDD",
@@ -176,7 +177,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/08/2009",
+		"updated": "12/08/2009"
 	},
 	{
 		"name": "KANTE",
@@ -185,7 +186,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "KAPCE",
@@ -194,7 +195,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/19/2009",
+		"updated": "06/19/2009"
 	},
 	{
 		"name": "KAPKE",
@@ -203,7 +204,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/21/2014",
+		"updated": "02/21/2014"
 	},
 	{
 		"name": "KAPNE",
@@ -212,7 +213,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RHI*VOR/DME*296.12",
+		"updated": "RHI*VOR/DME*296.12"
 	},
 	{
 		"name": "KAPOA",
@@ -221,7 +222,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/16/2014",
+		"updated": "04/16/2014"
 	},
 	{
 		"name": "KARAA",
@@ -230,7 +231,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RBA*VOR/DME*012.81/26.44",
+		"updated": "RBA*VOR/DME*012.81/26.44"
 	},
 	{
 		"name": "KARMA",
@@ -239,7 +240,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "LMN*VOR/DME*250.69/39.27",
+		"updated": "LMN*VOR/DME*250.69/39.27"
 	},
 	{
 		"name": "KASME",
@@ -248,7 +249,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "KASPR",
@@ -257,7 +258,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RST*VOR/DME*286.44",
+		"updated": "RST*VOR/DME*286.44"
 	},
 	{
 		"name": "KATAE",
@@ -266,7 +267,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OFF*TACAN*299.00/7.00",
+		"updated": "OFF*TACAN*299.00/7.00"
 	},
 	{
 		"name": "KATES",
@@ -275,7 +276,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ONL*VORTAC*076.04/85.00",
+		"updated": "ONL*VORTAC*076.04/85.00"
 	},
 	{
 		"name": "KATEY",
@@ -284,7 +285,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/18/2012",
+		"updated": "05/18/2012"
 	},
 	{
 		"name": "KATTO",
@@ -293,7 +294,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "TVF*VOR/DME*297.00/6.00",
+		"updated": "TVF*VOR/DME*297.00/6.00"
 	},
 	{
 		"name": "KAVPE",
@@ -302,7 +303,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/05/2007",
+		"updated": "06/05/2007"
 	},
 	{
 		"name": "KAYEK",
@@ -311,7 +312,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/31/2007",
+		"updated": "12/31/2007"
 	},
 	{
 		"name": "KAYEV",
@@ -320,7 +321,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/24/2011",
+		"updated": "10/24/2011"
 	},
 	{
 		"name": "KAYGE",
@@ -329,7 +330,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "LSE*VOR/DME*188.00/14.00",
+		"updated": "LSE*VOR/DME*188.00/14.00"
 	},
 	{
 		"name": "KAYQU",
@@ -338,7 +339,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "KBEEE",
@@ -347,7 +348,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/14/2015",
+		"updated": "01/14/2015"
 	},
 	{
 		"name": "KBREW",
@@ -356,7 +357,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*293.00/55.00",
+		"updated": "GEP*VORTAC*293.00/55.00"
 	},
 	{
 		"name": "KBULL",
@@ -365,7 +366,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/13/2015",
+		"updated": "01/13/2015"
 	},
 	{
 		"name": "KDCDK",
@@ -374,7 +375,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/07/2002",
+		"updated": "06/07/2002"
 	},
 	{
 		"name": "KDNKD",
@@ -383,7 +384,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/11/2002",
+		"updated": "06/11/2002"
 	},
 	{
 		"name": "KECER",
@@ -392,7 +393,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "HSI*VOR/DME*095.65/20.00",
+		"updated": "HSI*VOR/DME*095.65/20.00"
 	},
 	{
 		"name": "KEDTU",
@@ -401,7 +402,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/16/2014",
+		"updated": "04/16/2014"
 	},
 	{
 		"name": "KEEFS",
@@ -410,7 +411,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/24/2014",
+		"updated": "09/24/2014"
 	},
 	{
 		"name": "KEENO",
@@ -419,7 +420,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/01/2006",
+		"updated": "06/01/2006"
 	},
 	{
 		"name": "KEFGO",
@@ -428,7 +429,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MCW*VOR/DME*031.57/7.00",
+		"updated": "MCW*VOR/DME*031.57/7.00"
 	},
 	{
 		"name": "KEFIG",
@@ -437,7 +438,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MCW*VOR/DME*230.07/7.00",
+		"updated": "MCW*VOR/DME*230.07/7.00"
 	},
 	{
 		"name": "KEGEE",
@@ -446,7 +447,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/11/2015",
+		"updated": "03/11/2015"
 	},
 	{
 		"name": "KEKPE",
@@ -455,7 +456,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/26/2012",
+		"updated": "04/26/2012"
 	},
 	{
 		"name": "KEMGE",
@@ -464,7 +465,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/20/2003",
+		"updated": "08/20/2003"
 	},
 	{
 		"name": "KEMIK",
@@ -473,7 +474,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "KENAR",
@@ -482,7 +483,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*295.35/32.00",
+		"updated": "OVR*VORTAC*295.35/32.00"
 	},
 	{
 		"name": "KENIE",
@@ -491,7 +492,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FAR*VOR/DME*356.51/15.44",
+		"updated": "FAR*VOR/DME*356.51/15.44"
 	},
 	{
 		"name": "KENNT",
@@ -500,7 +501,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/28/2010",
+		"updated": "04/28/2010"
 	},
 	{
 		"name": "KENPA",
@@ -509,7 +510,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/19/2017",
+		"updated": "05/19/2017"
 	},
 	{
 		"name": "KENTE",
@@ -518,7 +519,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ORW*VOR/DME*106.56",
+		"updated": "ORW*VOR/DME*106.56"
 	},
 	{
 		"name": "KEPBE",
@@ -527,7 +528,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/09/2015",
+		"updated": "07/09/2015"
 	},
 	{
 		"name": "KESIW",
@@ -536,7 +537,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/19/2012",
+		"updated": "04/19/2012"
 	},
 	{
 		"name": "KESNE",
@@ -545,7 +546,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "MIB*TACAN*295.84/15.00",
+		"updated": "MIB*TACAN*295.84/15.00"
 	},
 	{
 		"name": "KETAM",
@@ -554,7 +555,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*177.87",
+		"updated": "GEP*VORTAC*177.87"
 	},
 	{
 		"name": "KETEY",
@@ -563,7 +564,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/13/2005",
+		"updated": "06/13/2005"
 	},
 	{
 		"name": "KEVEC",
@@ -572,7 +573,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/24/2007",
+		"updated": "10/24/2007"
 	},
 	{
 		"name": "KEVGY",
@@ -581,7 +582,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "04/01/2011",
+		"updated": "04/01/2011"
 	},
 	{
 		"name": "KEVHO",
@@ -590,7 +591,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/30/2011",
+		"updated": "12/30/2011"
 	},
 	{
 		"name": "KEVIN",
@@ -599,7 +600,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "MIB*TACAN*296.00/25.00",
+		"updated": "MIB*TACAN*296.00/25.00"
 	},
 	{
 		"name": "KEYBE",
@@ -608,7 +609,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/19/2007",
+		"updated": "07/19/2007"
 	},
 	{
 		"name": "KEYEN",
@@ -617,7 +618,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/11/2018",
+		"updated": "01/11/2018"
 	},
 	{
 		"name": "KEYPE",
@@ -626,7 +627,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/11/2003",
+		"updated": "07/11/2003"
 	},
 	{
 		"name": "KEYPR",
@@ -635,7 +636,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "KGEEE",
@@ -644,7 +645,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*178.00/84.00",
+		"updated": "GEP*VORTAC*178.00/84.00"
 	},
 	{
 		"name": "KIBYE",
@@ -653,7 +654,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RST*VOR/DME*339.49",
+		"updated": "RST*VOR/DME*339.49"
 	},
 	{
 		"name": "KICCI",
@@ -662,7 +663,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/06/2014",
+		"updated": "11/06/2014"
 	},
 	{
 		"name": "KIDKE",
@@ -671,7 +672,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/06/2012",
+		"updated": "09/06/2012"
 	},
 	{
 		"name": "KIDSE",
@@ -680,7 +681,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "RDR*TACAN*/1.30",
+		"updated": "RDR*TACAN*/1.30"
 	},
 	{
 		"name": "KIGCE",
@@ -689,7 +690,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/21/2013",
+		"updated": "03/21/2013"
 	},
 	{
 		"name": "KIJCU",
@@ -698,7 +699,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2010",
+		"updated": "05/30/2010"
 	},
 	{
 		"name": "KIKEC",
@@ -707,7 +708,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/15/2008",
+		"updated": "05/15/2008"
 	},
 	{
 		"name": "KIKKY",
@@ -716,7 +717,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FGT*VORTAC*044.00",
+		"updated": "FGT*VORTAC*044.00"
 	},
 	{
 		"name": "KILBY",
@@ -725,7 +726,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MTW*VOR/DME*295.05",
+		"updated": "MTW*VOR/DME*295.05"
 	},
 	{
 		"name": "KILEY",
@@ -734,7 +735,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FSD*VORTAC*138.78",
+		"updated": "FSD*VORTAC*138.78"
 	},
 	{
 		"name": "KILTY",
@@ -743,7 +744,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/02/2012",
+		"updated": "08/02/2012"
 	},
 	{
 		"name": "KILVE",
@@ -752,7 +753,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/22/2010",
+		"updated": "03/22/2010"
 	},
 	{
 		"name": "KIMQE",
@@ -761,7 +762,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2012",
+		"updated": "06/28/2012"
 	},
 	{
 		"name": "KINGZ",
@@ -770,7 +771,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DLH*VORTAC*181.97/35.35",
+		"updated": "DLH*VORTAC*181.97/35.35"
 	},
 	{
 		"name": "KINNO",
@@ -779,7 +780,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FAR*VOR/DME*180.00/10.00",
+		"updated": "FAR*VOR/DME*180.00/10.00"
 	},
 	{
 		"name": "KINNS",
@@ -788,7 +789,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "HKZ*LD*301.33/8.08",
+		"updated": "HKZ*LD*301.33/8.08"
 	},
 	{
 		"name": "KINPE",
@@ -797,7 +798,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/14/2009",
+		"updated": "10/14/2009"
 	},
 	{
 		"name": "KIRKR",
@@ -806,7 +807,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/15/2012",
+		"updated": "08/15/2012"
 	},
 	{
 		"name": "KIRPE",
@@ -815,7 +816,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/11/2007",
+		"updated": "05/11/2007"
 	},
 	{
 		"name": "KIRTS",
@@ -824,7 +825,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/04/2016",
+		"updated": "02/04/2016"
 	},
 	{
 		"name": "KITKY",
@@ -833,7 +834,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/19/2009",
+		"updated": "12/19/2009"
 	},
 	{
 		"name": "KITPE",
@@ -842,7 +843,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "KIVCO",
@@ -851,7 +852,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "KIYEB",
@@ -860,7 +861,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/27/2011",
+		"updated": "04/27/2011"
 	},
 	{
 		"name": "KIYNE",
@@ -869,7 +870,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2008",
+		"updated": "05/30/2008"
 	},
 	{
 		"name": "KIYRE",
@@ -878,7 +879,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "KJDPL",
@@ -887,7 +888,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/03/2002",
+		"updated": "06/03/2002"
 	},
 	{
 		"name": "KJDRS",
@@ -896,7 +897,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/12/2002",
+		"updated": "06/12/2002"
 	},
 	{
 		"name": "KJNGG",
@@ -905,7 +906,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/12/2002",
+		"updated": "06/12/2002"
 	},
 	{
 		"name": "KJSCR",
@@ -914,7 +915,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/12/2002",
+		"updated": "06/12/2002"
 	},
 	{
 		"name": "KJSTL",
@@ -923,7 +924,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/06/2002",
+		"updated": "06/06/2002"
 	},
 	{
 		"name": "KKAYY",
@@ -932,7 +933,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GRB*VORTAC*124.49/57.00",
+		"updated": "GRB*VORTAC*124.49/57.00"
 	},
 	{
 		"name": "KKILR",
@@ -941,7 +942,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/14/2015",
+		"updated": "01/14/2015"
 	},
 	{
 		"name": "KLAAY",
@@ -950,7 +951,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "IWD*VORTAC*/3.40",
+		"updated": "IWD*VORTAC*/3.40"
 	},
 	{
 		"name": "KLIIF",
@@ -959,7 +960,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "RDR*TACAN*263.00/7.00",
+		"updated": "RDR*TACAN*263.00/7.00"
 	},
 	{
 		"name": "KNOUT",
@@ -968,7 +969,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/29/2015",
+		"updated": "06/29/2015"
 	},
 	{
 		"name": "KOBME",
@@ -977,7 +978,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/02/2010",
+		"updated": "02/02/2010"
 	},
 	{
 		"name": "KODMY",
@@ -986,7 +987,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/14/2013",
+		"updated": "02/14/2013"
 	},
 	{
 		"name": "KODPE",
@@ -995,7 +996,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "KOFOJ",
@@ -1004,7 +1005,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/03/2000",
+		"updated": "10/03/2000"
 	},
 	{
 		"name": "KOGGE",
@@ -1013,7 +1014,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ANE*LD*E CRS/3.59",
+		"updated": "ANE*LD*E CRS/3.59"
 	},
 	{
 		"name": "KOHHL",
@@ -1022,7 +1023,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "KOJSY",
@@ -1031,7 +1032,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2010",
+		"updated": "05/30/2010"
 	},
 	{
 		"name": "KOKAW",
@@ -1040,7 +1041,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/29/2009",
+		"updated": "12/29/2009"
 	},
 	{
 		"name": "KOLOE",
@@ -1049,7 +1050,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SSM*VOR/DME*247.16/10.56",
+		"updated": "SSM*VOR/DME*247.16/10.56"
 	},
 	{
 		"name": "KOLRE",
@@ -1058,7 +1059,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/02/2010",
+		"updated": "04/02/2010"
 	},
 	{
 		"name": "KOMDE",
@@ -1067,7 +1068,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/07/2010",
+		"updated": "04/07/2010"
 	},
 	{
 		"name": "KONGZ",
@@ -1076,7 +1077,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/11/2017",
+		"updated": "09/11/2017"
 	},
 	{
 		"name": "KOOKY",
@@ -1085,7 +1086,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "AQZ*LD*SE CRS/6.49",
+		"updated": "AQZ*LD*SE CRS/6.49"
 	},
 	{
 		"name": "KOPFY",
@@ -1094,7 +1095,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "LNK*VORTAC*190.00",
+		"updated": "LNK*VORTAC*190.00"
 	},
 	{
 		"name": "KOPSY",
@@ -1103,7 +1104,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "TKO*VORTAC*065.34/9.00",
+		"updated": "TKO*VORTAC*065.34/9.00"
 	},
 	{
 		"name": "KORDS",
@@ -1112,7 +1113,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "IMT*VOR/DME*/5.40",
+		"updated": "IMT*VOR/DME*/5.40"
 	},
 	{
 		"name": "KOSHO",
@@ -1121,7 +1122,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/06/2014",
+		"updated": "11/06/2014"
 	},
 	{
 		"name": "KOTZA",
@@ -1130,7 +1131,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "TKO*VORTAC*240.84/9.00",
+		"updated": "TKO*VORTAC*240.84/9.00"
 	},
 	{
 		"name": "KOVJY",
@@ -1139,7 +1140,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "TKO*VORTAC*209.80/15.00",
+		"updated": "TKO*VORTAC*209.80/15.00"
 	},
 	{
 		"name": "KOVRE",
@@ -1148,7 +1149,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/20/2010",
+		"updated": "05/20/2010"
 	},
 	{
 		"name": "KOWKU",
@@ -1157,7 +1158,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/29/2010",
+		"updated": "03/29/2010"
 	},
 	{
 		"name": "KP03A",
@@ -1166,7 +1167,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP03C",
@@ -1175,7 +1176,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP03E",
@@ -1184,7 +1185,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP03G",
@@ -1193,7 +1194,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP03I",
@@ -1202,7 +1203,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP03K",
@@ -1211,7 +1212,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP03M",
@@ -1220,7 +1221,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP03O",
@@ -1229,7 +1230,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP03Q",
@@ -1238,7 +1239,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP03Y",
@@ -1247,7 +1248,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP06A",
@@ -1256,7 +1257,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP06C",
@@ -1265,7 +1266,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP06E",
@@ -1274,7 +1275,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP06G",
@@ -1283,7 +1284,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP06I",
@@ -1292,7 +1293,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP06K",
@@ -1301,7 +1302,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP06M",
@@ -1310,7 +1311,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP06O",
@@ -1319,7 +1320,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP06Q",
@@ -1328,7 +1329,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP06Y",
@@ -1337,7 +1338,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP09A",
@@ -1346,7 +1347,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP09C",
@@ -1355,7 +1356,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP09E",
@@ -1364,7 +1365,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP09G",
@@ -1373,7 +1374,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP09I",
@@ -1382,7 +1383,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP09K",
@@ -1391,7 +1392,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP09M",
@@ -1400,7 +1401,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP09O",
@@ -1409,7 +1410,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP09Y",
@@ -1418,7 +1419,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP12A",
@@ -1427,7 +1428,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP12C",
@@ -1436,7 +1437,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP12E",
@@ -1445,7 +1446,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP12G",
@@ -1454,7 +1455,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP12I",
@@ -1463,7 +1464,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP12K",
@@ -1472,7 +1473,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP12M",
@@ -1481,7 +1482,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP12Y",
@@ -1490,7 +1491,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP15A",
@@ -1499,7 +1500,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP15C",
@@ -1508,7 +1509,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP15E",
@@ -1517,7 +1518,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP15G",
@@ -1526,7 +1527,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP15I",
@@ -1535,7 +1536,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP15K",
@@ -1544,7 +1545,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP15M",
@@ -1553,7 +1554,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP15Y",
@@ -1562,7 +1563,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP18A",
@@ -1571,7 +1572,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP18C",
@@ -1580,7 +1581,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP18E",
@@ -1589,7 +1590,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP18G",
@@ -1598,7 +1599,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP18I",
@@ -1607,7 +1608,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP18K",
@@ -1616,7 +1617,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP18Y",
@@ -1625,7 +1626,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP21A",
@@ -1634,7 +1635,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP21C",
@@ -1643,7 +1644,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP21E",
@@ -1652,7 +1653,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP21G",
@@ -1661,7 +1662,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP21Y",
@@ -1670,7 +1671,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP60C",
@@ -1679,7 +1680,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP63C",
@@ -1688,7 +1689,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP63E",
@@ -1697,7 +1698,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP63G",
@@ -1706,7 +1707,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP66C",
@@ -1715,7 +1716,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP66E",
@@ -1724,7 +1725,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP66G",
@@ -1733,7 +1734,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP69C",
@@ -1742,7 +1743,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP69E",
@@ -1751,7 +1752,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP69G",
@@ -1760,7 +1761,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP72C",
@@ -1769,7 +1770,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP72E",
@@ -1778,7 +1779,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP72G",
@@ -1787,7 +1788,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP75C",
@@ -1796,7 +1797,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP75E",
@@ -1805,7 +1806,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP75G",
@@ -1814,7 +1815,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP78C",
@@ -1823,7 +1824,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP78E",
@@ -1832,7 +1833,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP78G",
@@ -1841,7 +1842,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP78I",
@@ -1850,7 +1851,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP81A",
@@ -1859,7 +1860,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP81C",
@@ -1868,7 +1869,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP81E",
@@ -1877,7 +1878,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP81G",
@@ -1886,7 +1887,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP81I",
@@ -1895,7 +1896,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP84A",
@@ -1904,7 +1905,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP84C",
@@ -1913,7 +1914,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP84E",
@@ -1922,7 +1923,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP84G",
@@ -1931,7 +1932,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP84I",
@@ -1940,7 +1941,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP84O",
@@ -1949,7 +1950,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP84Q",
@@ -1958,7 +1959,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP87A",
@@ -1967,7 +1968,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP87C",
@@ -1976,7 +1977,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP87E",
@@ -1985,7 +1986,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP87G",
@@ -1994,7 +1995,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP87I",
@@ -2003,7 +2004,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP87K",
@@ -2012,7 +2013,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP87M",
@@ -2021,7 +2022,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP87O",
@@ -2030,7 +2031,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP87Q",
@@ -2039,7 +2040,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP90A",
@@ -2048,7 +2049,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP90C",
@@ -2057,7 +2058,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP90E",
@@ -2066,7 +2067,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP90G",
@@ -2075,7 +2076,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP90I",
@@ -2084,7 +2085,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP90K",
@@ -2093,7 +2094,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP90M",
@@ -2102,7 +2103,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP90O",
@@ -2111,7 +2112,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP90Q",
@@ -2120,7 +2121,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KP90Y",
@@ -2129,7 +2130,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KRAMR",
@@ -2138,7 +2139,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/04/2013",
+		"updated": "11/04/2013"
 	},
 	{
 		"name": "KRANG",
@@ -2147,7 +2148,7 @@
 		"state": "",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "INL*VOR/DME*293.93",
+		"updated": "INL*VOR/DME*293.93"
 	},
 	{
 		"name": "KRAUS",
@@ -2156,7 +2157,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "JHW*VOR/DME*352.85/1.35",
+		"updated": "JHW*VOR/DME*352.85/1.35"
 	},
 	{
 		"name": "KRECH",
@@ -2165,7 +2166,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/04/2016",
+		"updated": "02/04/2016"
 	},
 	{
 		"name": "KRINK",
@@ -2174,7 +2175,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/03/2009",
+		"updated": "03/03/2009"
 	},
 	{
 		"name": "KRISP",
@@ -2183,7 +2184,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/14/2015",
+		"updated": "01/14/2015"
 	},
 	{
 		"name": "KRLSN",
@@ -2192,7 +2193,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/25/2016",
+		"updated": "11/25/2016"
 	},
 	{
 		"name": "KROIX",
@@ -2201,7 +2202,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/20/2016",
+		"updated": "11/20/2016"
 	},
 	{
 		"name": "KRSMS",
@@ -2210,7 +2211,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RHI*VOR/DME*300.50/28.25",
+		"updated": "RHI*VOR/DME*300.50/28.25"
 	},
 	{
 		"name": "KRSPY",
@@ -2219,7 +2220,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*306.79/114.75",
+		"updated": "BAE*VOR/DME*306.79/114.75"
 	},
 	{
 		"name": "KRUGG",
@@ -2228,7 +2229,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/27/2015",
+		"updated": "01/27/2015"
 	},
 	{
 		"name": "KRUGY",
@@ -2237,7 +2238,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "MW",
-		"updated": "09/10/2009",
+		"updated": "09/10/2009"
 	},
 	{
 		"name": "KSOTA",
@@ -2246,7 +2247,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RWF*VOR/DME*015.57",
+		"updated": "RWF*VOR/DME*015.57"
 	},
 	{
 		"name": "KUBKE",
@@ -2255,7 +2256,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/27/2001",
+		"updated": "08/27/2001"
 	},
 	{
 		"name": "KUBYE",
@@ -2264,7 +2265,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/22/2016",
+		"updated": "02/22/2016"
 	},
 	{
 		"name": "KUCCE",
@@ -2273,7 +2274,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2008",
+		"updated": "05/30/2008"
 	},
 	{
 		"name": "KUCEB",
@@ -2282,7 +2283,7 @@
 		"state": "",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/13/2011",
+		"updated": "06/13/2011"
 	},
 	{
 		"name": "KUCEK",
@@ -2291,7 +2292,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "KUCKE",
@@ -2300,7 +2301,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/01/2011",
+		"updated": "04/01/2011"
 	},
 	{
 		"name": "KUDDS",
@@ -2309,7 +2310,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/23/2011",
+		"updated": "05/23/2011"
 	},
 	{
 		"name": "KUDLE",
@@ -2318,7 +2319,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MTW*VOR/DME*177.00/0.46",
+		"updated": "MTW*VOR/DME*177.00/0.46"
 	},
 	{
 		"name": "KUKGE",
@@ -2327,7 +2328,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RWF*VOR/DME*102.96/7.00",
+		"updated": "RWF*VOR/DME*102.96/7.00"
 	},
 	{
 		"name": "KULAH",
@@ -2336,7 +2337,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ESC*LD*093.90/5.72",
+		"updated": "ESC*LD*093.90/5.72"
 	},
 	{
 		"name": "KULME",
@@ -2345,7 +2346,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/18/2008",
+		"updated": "03/18/2008"
 	},
 	{
 		"name": "KUMDE",
@@ -2354,7 +2355,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ELO*VOR/DME*194.09/10.00",
+		"updated": "ELO*VOR/DME*194.09/10.00"
 	},
 	{
 		"name": "KUMLY",
@@ -2363,7 +2364,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/09/2008",
+		"updated": "10/09/2008"
 	},
 	{
 		"name": "KUNKY",
@@ -2372,7 +2373,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/14/2010",
+		"updated": "05/14/2010"
 	},
 	{
 		"name": "KUNSE",
@@ -2381,7 +2382,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MOP*VOR/DME*004.00/7.00",
+		"updated": "MOP*VOR/DME*004.00/7.00"
 	},
 	{
 		"name": "KURRY",
@@ -2390,7 +2391,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIS*VOR/DME*259.99/6.00",
+		"updated": "BIS*VOR/DME*259.99/6.00"
 	},
 	{
 		"name": "KUUGL",
@@ -2399,7 +2400,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/10/2009",
+		"updated": "12/10/2009"
 	},
 	{
 		"name": "KUVEC",
@@ -2408,7 +2409,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/18/2004",
+		"updated": "10/18/2004"
 	},
 	{
 		"name": "KUWFY",
@@ -2417,7 +2418,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/27/2012",
+		"updated": "02/27/2012"
 	},
 	{
 		"name": "KUWUC",
@@ -2426,7 +2427,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "12/17/2012",
+		"updated": "12/17/2012"
 	},
 	{
 		"name": "KUYCE",
@@ -2435,7 +2436,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/13/2012",
+		"updated": "03/13/2012"
 	},
 	{
 		"name": "KUYEP",
@@ -2444,7 +2445,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/19/2006",
+		"updated": "07/19/2006"
 	},
 	{
 		"name": "KUZMO",
@@ -2453,7 +2454,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/21/2011",
+		"updated": "06/21/2011"
 	},
 	{
 		"name": "KYLEY",
@@ -2462,5 +2463,6 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/15/2012",
-	},
+		"updated": "08/15/2012"
+	}
+]

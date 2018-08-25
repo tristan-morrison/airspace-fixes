@@ -1,3 +1,4 @@
+[
 	{
 		"name": "SEATN",
 		"latitude": "50-42-12 N",
@@ -5,7 +6,7 @@
 		"state": "",
 		"artcc": "ZVR",
 		"type": "RP",
-		"updated": "10/06/2016",
+		"updated": "10/06/2016"
 	},
 	{
 		"name": "SILVR",
@@ -14,7 +15,7 @@
 		"state": "",
 		"artcc": "ZVR",
 		"type": "RP",
-		"updated": "YXC*VOR/DME*225.00/30.00",
+		"updated": "YXC*VOR/DME*225.00/30.00"
 	},
 	{
 		"name": "SIMLU",
@@ -23,5 +24,6 @@
 		"state": "",
 		"artcc": "ZVR",
 		"type": "RP",
-		"updated": "06/17/2014",
-	},
+		"updated": "06/17/2014"
+	}
+]

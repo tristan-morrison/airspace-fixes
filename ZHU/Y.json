@@ -1,3 +1,4 @@
+[
 	{
 		"name": "YABUB",
 		"latitude": "29-34-54 N",
@@ -5,7 +6,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TBD*VOR/DME*121.31/9.00",
+		"updated": "TBD*VOR/DME*121.31/9.00"
 	},
 	{
 		"name": "YABUP",
@@ -14,7 +15,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/01/2010",
+		"updated": "06/01/2010"
 	},
 	{
 		"name": "YADUK",
@@ -23,7 +24,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/18/2013",
+		"updated": "04/18/2013"
 	},
 	{
 		"name": "YADUS",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "YAGYA",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/28/2010",
+		"updated": "03/28/2010"
 	},
 	{
 		"name": "YAJRI",
@@ -50,7 +51,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/08/2012",
+		"updated": "08/08/2012"
 	},
 	{
 		"name": "YAKBY",
@@ -59,7 +60,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/27/2009",
+		"updated": "10/27/2009"
 	},
 	{
 		"name": "YAKUD",
@@ -68,7 +69,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/29/2009",
+		"updated": "01/29/2009"
 	},
 	{
 		"name": "YANGU",
@@ -77,7 +78,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "YARBO",
@@ -86,7 +87,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LBY*VORTAC*083.08/47.24",
+		"updated": "LBY*VORTAC*083.08/47.24"
 	},
 	{
 		"name": "YAWNS",
@@ -95,7 +96,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "ELA*VOR/DME*133.68",
+		"updated": "ELA*VOR/DME*133.68"
 	},
 	{
 		"name": "YAYUR",
@@ -104,7 +105,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/28/2010",
+		"updated": "03/28/2010"
 	},
 	{
 		"name": "YEBUD",
@@ -113,7 +114,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/13/2017",
+		"updated": "07/13/2017"
 	},
 	{
 		"name": "YEBUK",
@@ -122,7 +123,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/01/2010",
+		"updated": "06/01/2010"
 	},
 	{
 		"name": "YEBUP",
@@ -131,7 +132,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/04/2008",
+		"updated": "08/04/2008"
 	},
 	{
 		"name": "YEEHA",
@@ -140,7 +141,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/14/2014",
+		"updated": "03/14/2014"
 	},
 	{
 		"name": "YEHEC",
@@ -149,7 +150,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/19/2016",
+		"updated": "04/19/2016"
 	},
 	{
 		"name": "YEKLU",
@@ -158,7 +159,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/10/2012",
+		"updated": "04/10/2012"
 	},
 	{
 		"name": "YELUK",
@@ -167,7 +168,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/09/2011",
+		"updated": "05/09/2011"
 	},
 	{
 		"name": "YENNS",
@@ -176,7 +177,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "SAT*VORTAC*160.00/35.24",
+		"updated": "SAT*VORTAC*160.00/35.24"
 	},
 	{
 		"name": "YENTA",
@@ -185,7 +186,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "YEPBU",
@@ -194,7 +195,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/17/2007",
+		"updated": "07/17/2007"
 	},
 	{
 		"name": "YERRI",
@@ -203,7 +204,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "SAT*VORTAC*072.00/33.00",
+		"updated": "SAT*VORTAC*072.00/33.00"
 	},
 	{
 		"name": "YERUB",
@@ -212,7 +213,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "JFI*LD*196.48/2.73",
+		"updated": "JFI*LD*196.48/2.73"
 	},
 	{
 		"name": "YESHI",
@@ -221,7 +222,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "EFD*TACAN*343.00/6.40",
+		"updated": "EFD*TACAN*343.00/6.40"
 	},
 	{
 		"name": "YEVUK",
@@ -230,7 +231,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/12/2011",
+		"updated": "08/12/2011"
 	},
 	{
 		"name": "YEVUP",
@@ -239,7 +240,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/22/2011",
+		"updated": "03/22/2011"
 	},
 	{
 		"name": "YEYAW",
@@ -248,7 +249,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/23/2014",
+		"updated": "12/23/2014"
 	},
 	{
 		"name": "YEYUR",
@@ -257,7 +258,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/17/2007",
+		"updated": "10/17/2007"
 	},
 	{
 		"name": "YEYUS",
@@ -266,7 +267,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/15/2011",
+		"updated": "12/15/2011"
 	},
 	{
 		"name": "YIBUB",
@@ -275,7 +276,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/04/2005",
+		"updated": "08/04/2005"
 	},
 	{
 		"name": "YICKS",
@@ -284,7 +285,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "THX*VORTAC*105.87/9.00",
+		"updated": "THX*VORTAC*105.87/9.00"
 	},
 	{
 		"name": "YICUC",
@@ -293,7 +294,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/12/2010",
+		"updated": "08/12/2010"
 	},
 	{
 		"name": "YICUD",
@@ -302,7 +303,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/09/2011",
+		"updated": "05/09/2011"
 	},
 	{
 		"name": "YIGUK",
@@ -311,7 +312,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "YIKUG",
@@ -320,7 +321,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/20/2013",
+		"updated": "01/20/2013"
 	},
 	{
 		"name": "YIRUD",
@@ -329,7 +330,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/17/2011",
+		"updated": "03/17/2011"
 	},
 	{
 		"name": "YISBO",
@@ -338,7 +339,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/04/2013",
+		"updated": "06/04/2013"
 	},
 	{
 		"name": "YISUS",
@@ -347,7 +348,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/17/2007",
+		"updated": "10/17/2007"
 	},
 	{
 		"name": "YOBUR",
@@ -356,7 +357,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CLL*VORTAC*299.00/14.00",
+		"updated": "CLL*VORTAC*299.00/14.00"
 	},
 	{
 		"name": "YOCRE",
@@ -365,7 +366,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/26/2012",
+		"updated": "07/26/2012"
 	},
 	{
 		"name": "YOKEM",
@@ -374,7 +375,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/02/2010",
+		"updated": "06/02/2010"
 	},
 	{
 		"name": "YOKUG",
@@ -383,7 +384,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LLO*VORTAC*251.49/19.71",
+		"updated": "LLO*VORTAC*251.49/19.71"
 	},
 	{
 		"name": "YOLUG",
@@ -392,7 +393,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/29/2012",
+		"updated": "03/29/2012"
 	},
 	{
 		"name": "YOMEN",
@@ -401,7 +402,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "NGP*VORTAC*324.00/10.00",
+		"updated": "NGP*VORTAC*324.00/10.00"
 	},
 	{
 		"name": "YOMOM",
@@ -410,7 +411,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/07/2014",
+		"updated": "03/07/2014"
 	},
 	{
 		"name": "YONIS",
@@ -419,7 +420,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "BRO*VORTAC*257.54/8.38",
+		"updated": "BRO*VORTAC*257.54/8.38"
 	},
 	{
 		"name": "YORDU",
@@ -428,7 +429,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/27/2011",
+		"updated": "07/27/2011"
 	},
 	{
 		"name": "YORUP",
@@ -437,7 +438,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "MVC*VORTAC*211.70/14.25",
+		"updated": "MVC*VORTAC*211.70/14.25"
 	},
 	{
 		"name": "YOSLU",
@@ -446,7 +447,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/22/2014",
+		"updated": "04/22/2014"
 	},
 	{
 		"name": "YOTLU",
@@ -455,7 +456,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/14/2012",
+		"updated": "09/14/2012"
 	},
 	{
 		"name": "YOYTU",
@@ -464,7 +465,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/18/2013",
+		"updated": "04/18/2013"
 	},
 	{
 		"name": "YUBUS",
@@ -473,7 +474,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/04/2005",
+		"updated": "08/04/2005"
 	},
 	{
 		"name": "YUCUN",
@@ -482,7 +483,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "YUCUT",
@@ -491,7 +492,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/16/2012",
+		"updated": "11/16/2012"
 	},
 	{
 		"name": "YUGUB",
@@ -500,5 +501,6 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/23/2013",
-	},
+		"updated": "06/23/2013"
+	}
+]

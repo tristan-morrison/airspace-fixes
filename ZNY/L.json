@@ -1,3 +1,4 @@
+[
 	{
 		"name": "LAAYK",
 		"latitude": "41-28-32.64 N",
@@ -5,7 +6,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HUO*VOR/DME*286.92",
+		"updated": "HUO*VOR/DME*286.92"
 	},
 	{
 		"name": "LAAZE",
@@ -14,7 +15,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/26/2010",
+		"updated": "02/26/2010"
 	},
 	{
 		"name": "LACES",
@@ -23,7 +24,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/21/2011",
+		"updated": "04/21/2011"
 	},
 	{
 		"name": "LACIE",
@@ -32,7 +33,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LVZ*VORTAC*319.82/26.43",
+		"updated": "LVZ*VORTAC*319.82/26.43"
 	},
 	{
 		"name": "LACKS",
@@ -41,7 +42,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ACK*VOR/DME*147.00/113.00",
+		"updated": "ACK*VOR/DME*147.00/113.00"
 	},
 	{
 		"name": "LADBE",
@@ -50,7 +51,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MR",
-		"updated": "GXU*VORTAC*130.00/14.00",
+		"updated": "GXU*VORTAC*130.00/14.00"
 	},
 	{
 		"name": "LADYE",
@@ -59,7 +60,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/21/2016",
+		"updated": "04/21/2016"
 	},
 	{
 		"name": "LAFER",
@@ -68,7 +69,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "MW",
-		"updated": "THS*VORTAC*086.78/14.62",
+		"updated": "THS*VORTAC*086.78/14.62"
 	},
 	{
 		"name": "LAKIE",
@@ -77,7 +78,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/13/2012",
+		"updated": "04/13/2012"
 	},
 	{
 		"name": "LAMER",
@@ -86,7 +87,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/10/2008",
+		"updated": "04/10/2008"
 	},
 	{
 		"name": "LANNA",
@@ -95,7 +96,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SBJ*VOR/DME*273.99/13.15",
+		"updated": "SBJ*VOR/DME*273.99/13.15"
 	},
 	{
 		"name": "LARGE",
@@ -104,7 +105,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/25/2008",
+		"updated": "07/25/2008"
 	},
 	{
 		"name": "LARRI",
@@ -113,7 +114,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CYN*VORTAC*284.37/132.64",
+		"updated": "CYN*VORTAC*284.37/132.64"
 	},
 	{
 		"name": "LASBE",
@@ -122,7 +123,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/26/2002",
+		"updated": "09/26/2002"
 	},
 	{
 		"name": "LATLE",
@@ -131,7 +132,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CXY*LS*W CRS",
+		"updated": "CXY*LS*W CRS"
 	},
 	{
 		"name": "LATME",
@@ -140,7 +141,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/30/2012",
+		"updated": "05/30/2012"
 	},
 	{
 		"name": "LATTY",
@@ -149,7 +150,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LVZ*VORTAC*003.18",
+		"updated": "LVZ*VORTAC*003.18"
 	},
 	{
 		"name": "LAURN",
@@ -158,7 +159,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "RBV*VORTAC*049.24/27.08",
+		"updated": "RBV*VORTAC*049.24/27.08"
 	},
 	{
 		"name": "LAWNE",
@@ -167,7 +168,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/23/2013",
+		"updated": "12/23/2013"
 	},
 	{
 		"name": "LAYEG",
@@ -176,7 +177,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MR",
-		"updated": "GXU*VORTAC*061.00/2.00",
+		"updated": "GXU*VORTAC*061.00/2.00"
 	},
 	{
 		"name": "LAZEY",
@@ -185,7 +186,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "BDA*VOR/DME*079.75/177.58",
+		"updated": "BDA*VOR/DME*079.75/177.58"
 	},
 	{
 		"name": "LEAHA",
@@ -194,7 +195,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "04/10/2001",
+		"updated": "04/10/2001"
 	},
 	{
 		"name": "LEBBI",
@@ -203,7 +204,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "01/26/2012",
+		"updated": "01/26/2012"
 	},
 	{
 		"name": "LEBVE",
@@ -212,7 +213,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CYN*VORTAC*246.12/17.20",
+		"updated": "CYN*VORTAC*246.12/17.20"
 	},
 	{
 		"name": "LECOR",
@@ -221,7 +222,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HUO*VOR/DME*284.34",
+		"updated": "HUO*VOR/DME*284.34"
 	},
 	{
 		"name": "LEGGO",
@@ -230,7 +231,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SEG*VOR/DME*201.40/31.00",
+		"updated": "SEG*VOR/DME*201.40/31.00"
 	},
 	{
 		"name": "LELME",
@@ -239,7 +240,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/29/2009",
+		"updated": "07/29/2009"
 	},
 	{
 		"name": "LEMEE",
@@ -248,7 +249,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "THS*VORTAC*087.96/4.00",
+		"updated": "THS*VORTAC*087.96/4.00"
 	},
 	{
 		"name": "LEMOR",
@@ -257,7 +258,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HUO*VOR/DME*206.98/7.00",
+		"updated": "HUO*VOR/DME*206.98/7.00"
 	},
 	{
 		"name": "LENDY",
@@ -266,7 +267,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LGA*VOR/DME*315.01/14.46",
+		"updated": "LGA*VOR/DME*315.01/14.46"
 	},
 	{
 		"name": "LEOES",
@@ -275,7 +276,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "JFK*VOR/DME*139.00/65.00",
+		"updated": "JFK*VOR/DME*139.00/65.00"
 	},
 	{
 		"name": "LETON",
@@ -284,7 +285,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/08/2008",
+		"updated": "04/08/2008"
 	},
 	{
 		"name": "LEXAD",
@@ -293,7 +294,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/10/2008",
+		"updated": "04/10/2008"
 	},
 	{
 		"name": "LEXIM",
@@ -302,7 +303,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/09/2008",
+		"updated": "04/09/2008"
 	},
 	{
 		"name": "LFANO",
@@ -311,7 +312,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/19/2009",
+		"updated": "10/19/2009"
 	},
 	{
 		"name": "LICXA",
@@ -320,7 +321,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "MW",
-		"updated": "10/05/2007",
+		"updated": "10/05/2007"
 	},
 	{
 		"name": "LIIMY",
@@ -329,7 +330,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/10/2017",
+		"updated": "01/10/2017"
 	},
 	{
 		"name": "LINER",
@@ -338,7 +339,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SBJ*VOR/DME*130.25",
+		"updated": "SBJ*VOR/DME*130.25"
 	},
 	{
 		"name": "LINND",
@@ -347,7 +348,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "JFK*VOR/DME*139.00/120.00",
+		"updated": "JFK*VOR/DME*139.00/120.00"
 	},
 	{
 		"name": "LIRCH",
@@ -356,7 +357,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LRP*VOR/DME*248.07/34.00",
+		"updated": "LRP*VOR/DME*248.07/34.00"
 	},
 	{
 		"name": "LISAL",
@@ -365,7 +366,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "BDR*VOR/DME*053.92/0.33",
+		"updated": "BDR*VOR/DME*053.92/0.33"
 	},
 	{
 		"name": "LITBE",
@@ -374,7 +375,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/07/2006",
+		"updated": "03/07/2006"
 	},
 	{
 		"name": "LITTL",
@@ -383,7 +384,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/25/2009",
+		"updated": "08/25/2009"
 	},
 	{
 		"name": "LIVNE",
@@ -392,7 +393,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MR",
-		"updated": "NEL*NDB*061.00",
+		"updated": "NEL*NDB*061.00"
 	},
 	{
 		"name": "LIXCA",
@@ -401,7 +402,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/10/2009",
+		"updated": "07/10/2009"
 	},
 	{
 		"name": "LIZZI",
@@ -410,7 +411,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SBJ*VOR/DME*295.05/19.24",
+		"updated": "SBJ*VOR/DME*295.05/19.24"
 	},
 	{
 		"name": "LNHOM",
@@ -419,7 +420,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/20/2008",
+		"updated": "05/20/2008"
 	},
 	{
 		"name": "LOCID",
@@ -428,7 +429,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/13/2013",
+		"updated": "05/13/2013"
 	},
 	{
 		"name": "LOCKI",
@@ -437,7 +438,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "JFK*VOR/DME*294.78/23.50",
+		"updated": "JFK*VOR/DME*294.78/23.50"
 	},
 	{
 		"name": "LOKOE",
@@ -446,7 +447,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*245.36",
+		"updated": "DPK*VOR/DME*245.36"
 	},
 	{
 		"name": "LOMON",
@@ -455,7 +456,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HAR*VORTAC*281.19/19.00",
+		"updated": "HAR*VORTAC*281.19/19.00"
 	},
 	{
 		"name": "LOMPI",
@@ -464,7 +465,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/08/2008",
+		"updated": "04/08/2008"
 	},
 	{
 		"name": "LOPEZ",
@@ -473,7 +474,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LVZ*VORTAC*319.82/15.99",
+		"updated": "LVZ*VORTAC*319.82/15.99"
 	},
 	{
 		"name": "LORRS",
@@ -482,7 +483,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "IWY*LD*NE CRS/6.93",
+		"updated": "IWY*LD*NE CRS/6.93"
 	},
 	{
 		"name": "LOTCI",
@@ -491,7 +492,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/18/2006",
+		"updated": "08/18/2006"
 	},
 	{
 		"name": "LOVIC",
@@ -500,7 +501,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/01/2008",
+		"updated": "10/01/2008"
 	},
 	{
 		"name": "LOVIW",
@@ -509,7 +510,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/25/2010",
+		"updated": "03/25/2010"
 	},
 	{
 		"name": "LOYEY",
@@ -518,7 +519,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "LOZER",
@@ -527,7 +528,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/29/2015",
+		"updated": "12/29/2015"
 	},
 	{
 		"name": "LSIER",
@@ -536,7 +537,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/19/2009",
+		"updated": "10/19/2009"
 	},
 	{
 		"name": "LUCKS",
@@ -545,7 +546,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "PSB*VORTAC*175.31",
+		"updated": "PSB*VORTAC*175.31"
 	},
 	{
 		"name": "LUFKO",
@@ -554,7 +555,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "STW*VOR/DME*234.00",
+		"updated": "STW*VOR/DME*234.00"
 	},
 	{
 		"name": "LUIGI",
@@ -563,7 +564,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "VCN*VOR/DME*047.00/40.00",
+		"updated": "VCN*VOR/DME*047.00/40.00"
 	},
 	{
 		"name": "LUNKR",
@@ -572,7 +573,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/02/2014",
+		"updated": "06/02/2014"
 	},
 	{
 		"name": "LYART",
@@ -581,7 +582,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/03/2003",
+		"updated": "03/03/2003"
 	},
 	{
 		"name": "LYNUS",
@@ -590,7 +591,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SIE*VORTAC*131.00/120.00",
+		"updated": "SIE*VORTAC*131.00/120.00"
 	},
 	{
 		"name": "LYTEL",
@@ -599,7 +600,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "MIP*VORTAC*107.53/36.54",
+		"updated": "MIP*VORTAC*107.53/36.54"
 	},
 	{
 		"name": "LYTTA",
@@ -608,5 +609,6 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/25/2015",
-	},
+		"updated": "06/25/2015"
+	}
+]

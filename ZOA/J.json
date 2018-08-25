@@ -1,3 +1,4 @@
+[
 	{
 		"name": "JAAKE",
 		"latitude": "37-29-37.09 N",
@@ -5,7 +6,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "10/29/2007",
+		"updated": "10/29/2007"
 	},
 	{
 		"name": "JABEE",
@@ -14,7 +15,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "JABGU",
@@ -23,7 +24,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "RBL*VORTAC*328.89/5.80",
+		"updated": "RBL*VORTAC*328.89/5.80"
 	},
 	{
 		"name": "JABIM",
@@ -32,7 +33,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "OAL*VORTAC*250.44/39.50",
+		"updated": "OAL*VORTAC*250.44/39.50"
 	},
 	{
 		"name": "JABON",
@@ -41,7 +42,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "SUU*TACAN*/11.60",
+		"updated": "SUU*TACAN*/11.60"
 	},
 	{
 		"name": "JACII",
@@ -50,7 +51,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "04/04/2012",
+		"updated": "04/04/2012"
 	},
 	{
 		"name": "JAGOM",
@@ -59,7 +60,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/06/2011",
+		"updated": "07/06/2011"
 	},
 	{
 		"name": "JAGWA",
@@ -68,7 +69,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/15/2002",
+		"updated": "11/15/2002"
 	},
 	{
 		"name": "JAKEF",
@@ -77,7 +78,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "03/07/2003",
+		"updated": "03/07/2003"
 	},
 	{
 		"name": "JALIG",
@@ -86,7 +87,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/06/2010",
+		"updated": "01/06/2010"
 	},
 	{
 		"name": "JALTU",
@@ -95,7 +96,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/28/2015",
+		"updated": "01/28/2015"
 	},
 	{
 		"name": "JAMAR",
@@ -104,7 +105,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "JAMAV",
@@ -113,7 +114,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/01/2009",
+		"updated": "07/01/2009"
 	},
 	{
 		"name": "JAMIM",
@@ -122,7 +123,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/24/2014",
+		"updated": "11/24/2014"
 	},
 	{
 		"name": "JAMIN",
@@ -131,7 +132,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "04/21/2017",
+		"updated": "04/21/2017"
 	},
 	{
 		"name": "JANIS",
@@ -140,7 +141,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "CZQ*VORTAC*230.00/44.00",
+		"updated": "CZQ*VORTAC*230.00/44.00"
 	},
 	{
 		"name": "JANYY",
@@ -149,7 +150,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/17/2014",
+		"updated": "06/17/2014"
 	},
 	{
 		"name": "JAPSO",
@@ -158,7 +159,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "09/28/2015",
+		"updated": "09/28/2015"
 	},
 	{
 		"name": "JARAY",
@@ -167,7 +168,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "JARLA",
@@ -176,7 +177,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/02/2016",
+		"updated": "06/02/2016"
 	},
 	{
 		"name": "JARNU",
@@ -185,7 +186,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SMF*LD*347.75/7.26",
+		"updated": "SMF*LD*347.75/7.26"
 	},
 	{
 		"name": "JARUT",
@@ -194,7 +195,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/02/2007",
+		"updated": "07/02/2007"
 	},
 	{
 		"name": "JASAT",
@@ -203,7 +204,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/06/2002",
+		"updated": "06/06/2002"
 	},
 	{
 		"name": "JATEM",
@@ -212,7 +213,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "PXN*VORTAC*332.37/19.03",
+		"updated": "PXN*VORTAC*332.37/19.03"
 	},
 	{
 		"name": "JATIP",
@@ -221,7 +222,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/11/2007",
+		"updated": "01/11/2007"
 	},
 	{
 		"name": "JATPI",
@@ -230,7 +231,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/14/2010",
+		"updated": "06/14/2010"
 	},
 	{
 		"name": "JATPO",
@@ -239,7 +240,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SGD*VORTAC*230.00/4.00",
+		"updated": "SGD*VORTAC*230.00/4.00"
 	},
 	{
 		"name": "JAYKK",
@@ -248,7 +249,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "JAYPE",
@@ -257,7 +258,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "JEBAD",
@@ -266,7 +267,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "12/23/2014",
+		"updated": "12/23/2014"
 	},
 	{
 		"name": "JEBED",
@@ -275,7 +276,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "MW",
-		"updated": "07/05/2009",
+		"updated": "07/05/2009"
 	},
 	{
 		"name": "JEBMI",
@@ -284,7 +285,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "FMG*VORTAC*274.24",
+		"updated": "FMG*VORTAC*274.24"
 	},
 	{
 		"name": "JECAJ",
@@ -293,7 +294,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "CN",
-		"updated": "12/21/1999",
+		"updated": "12/21/1999"
 	},
 	{
 		"name": "JECCO",
@@ -302,7 +303,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/06/2009",
+		"updated": "07/06/2009"
 	},
 	{
 		"name": "JEDAK",
@@ -311,7 +312,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "SUU*TACAN*022.00/7.00",
+		"updated": "SUU*TACAN*022.00/7.00"
 	},
 	{
 		"name": "JEDHI",
@@ -320,7 +321,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "CN",
-		"updated": "12/21/1999",
+		"updated": "12/21/1999"
 	},
 	{
 		"name": "JEDOK",
@@ -329,7 +330,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/20/2015",
+		"updated": "01/20/2015"
 	},
 	{
 		"name": "JEFNY",
@@ -338,7 +339,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/18/2010",
+		"updated": "06/18/2010"
 	},
 	{
 		"name": "JEGSA",
@@ -347,7 +348,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/27/2015",
+		"updated": "01/27/2015"
 	},
 	{
 		"name": "JEHFY",
@@ -356,7 +357,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "CN",
-		"updated": "12/21/1999",
+		"updated": "12/21/1999"
 	},
 	{
 		"name": "JEJMA",
@@ -365,7 +366,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SNS*VORTAC*011.00/8.00",
+		"updated": "SNS*VORTAC*011.00/8.00"
 	},
 	{
 		"name": "JEJZE",
@@ -374,7 +375,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SNS*VORTAC*264.00/8.00",
+		"updated": "SNS*VORTAC*264.00/8.00"
 	},
 	{
 		"name": "JEKAX",
@@ -383,7 +384,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "MHR*LD*036.72/4.21",
+		"updated": "MHR*LD*036.72/4.21"
 	},
 	{
 		"name": "JEKIR",
@@ -392,7 +393,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "NLC*TACAN*085.98/13.00",
+		"updated": "NLC*TACAN*085.98/13.00"
 	},
 	{
 		"name": "JELNU",
@@ -401,7 +402,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "MW",
-		"updated": "08/25/2009",
+		"updated": "08/25/2009"
 	},
 	{
 		"name": "JENBU",
@@ -410,7 +411,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "WP",
-		"updated": "09/13/2010",
+		"updated": "09/13/2010"
 	},
 	{
 		"name": "JENED",
@@ -419,7 +420,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "JENEG",
@@ -428,7 +429,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "03/29/2017",
+		"updated": "03/29/2017"
 	},
 	{
 		"name": "JENES",
@@ -437,7 +438,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SJC*LD*125.82/11.60",
+		"updated": "SJC*LD*125.82/11.60"
 	},
 	{
 		"name": "JENGU",
@@ -446,7 +447,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "MW",
-		"updated": "11/17/2014",
+		"updated": "11/17/2014"
 	},
 	{
 		"name": "JENNI",
@@ -455,7 +456,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "JENSA",
@@ -464,7 +465,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "03/08/2011",
+		"updated": "03/08/2011"
 	},
 	{
 		"name": "JENYE",
@@ -473,7 +474,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/13/2016",
+		"updated": "06/13/2016"
 	},
 	{
 		"name": "JEPAG",
@@ -482,7 +483,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "09/11/2013",
+		"updated": "09/11/2013"
 	},
 	{
 		"name": "JEPCE",
@@ -491,7 +492,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "JEPVO",
@@ -500,7 +501,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "STS*VOR/DME*325.98/4.78",
+		"updated": "STS*VOR/DME*325.98/4.78"
 	},
 	{
 		"name": "JERBU",
@@ -509,7 +510,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "12/02/2010",
+		"updated": "12/02/2010"
 	},
 	{
 		"name": "JERGA",
@@ -518,7 +519,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "HZN*VORTAC*230.23/25.53",
+		"updated": "HZN*VORTAC*230.23/25.53"
 	},
 	{
 		"name": "JESEN",
@@ -527,7 +528,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/14/2016",
+		"updated": "06/14/2016"
 	},
 	{
 		"name": "JESTE",
@@ -536,7 +537,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/20/2012",
+		"updated": "11/20/2012"
 	},
 	{
 		"name": "JETET",
@@ -545,7 +546,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "04/05/2018",
+		"updated": "04/05/2018"
 	},
 	{
 		"name": "JEVGU",
@@ -554,7 +555,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MW",
-		"updated": "11/19/2007",
+		"updated": "11/19/2007"
 	},
 	{
 		"name": "JEVXY",
@@ -563,7 +564,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "WP",
-		"updated": "08/14/2006",
+		"updated": "08/14/2006"
 	},
 	{
 		"name": "JEYCU",
@@ -572,7 +573,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "CN",
-		"updated": "07/10/2002",
+		"updated": "07/10/2002"
 	},
 	{
 		"name": "JEZYY",
@@ -581,7 +582,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "CN",
-		"updated": "07/10/2002",
+		"updated": "07/10/2002"
 	},
 	{
 		"name": "JFREE",
@@ -590,7 +591,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/24/2014",
+		"updated": "11/24/2014"
 	},
 	{
 		"name": "JIBAN",
@@ -599,7 +600,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "OSI*VOR/DME*045.55",
+		"updated": "OSI*VOR/DME*045.55"
 	},
 	{
 		"name": "JIDSU",
@@ -608,7 +609,7 @@
 		"state": "N MARIANA ISLANDS",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "GSN*LD*245.80/2.88",
+		"updated": "GSN*LD*245.80/2.88"
 	},
 	{
 		"name": "JIGAN",
@@ -617,7 +618,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "NLC*TACAN*041.00/15.00",
+		"updated": "NLC*TACAN*041.00/15.00"
 	},
 	{
 		"name": "JIGDO",
@@ -626,7 +627,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MW",
-		"updated": "11/19/2007",
+		"updated": "11/19/2007"
 	},
 	{
 		"name": "JIKDE",
@@ -635,7 +636,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "CN",
-		"updated": "07/10/2002",
+		"updated": "07/10/2002"
 	},
 	{
 		"name": "JIKPE",
@@ -644,7 +645,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/18/2010",
+		"updated": "06/18/2010"
 	},
 	{
 		"name": "JILNA",
@@ -653,7 +654,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "JIMIV",
@@ -662,7 +663,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/13/2007",
+		"updated": "02/13/2007"
 	},
 	{
 		"name": "JIMOS",
@@ -671,7 +672,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "04/20/2011",
+		"updated": "04/20/2011"
 	},
 	{
 		"name": "JIMPA",
@@ -680,7 +681,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "FMG*VORTAC*166.76/33.53",
+		"updated": "FMG*VORTAC*166.76/33.53"
 	},
 	{
 		"name": "JINDI",
@@ -689,7 +690,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "04/15/2008",
+		"updated": "04/15/2008"
 	},
 	{
 		"name": "JINES",
@@ -698,7 +699,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/14/2016",
+		"updated": "11/14/2016"
 	},
 	{
 		"name": "JINGO",
@@ -707,7 +708,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "CIC*VOR/DME*204.61",
+		"updated": "CIC*VOR/DME*204.61"
 	},
 	{
 		"name": "JINTU",
@@ -716,7 +717,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "FMG*VORTAC*239.00/5.00",
+		"updated": "FMG*VORTAC*239.00/5.00"
 	},
 	{
 		"name": "JIPOM",
@@ -725,7 +726,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/13/2007",
+		"updated": "02/13/2007"
 	},
 	{
 		"name": "JIPUR",
@@ -734,7 +735,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/28/2016",
+		"updated": "01/28/2016"
 	},
 	{
 		"name": "JIRAG",
@@ -743,7 +744,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "10/03/2008",
+		"updated": "10/03/2008"
 	},
 	{
 		"name": "JIROB",
@@ -752,7 +753,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "09/16/2016",
+		"updated": "09/16/2016"
 	},
 	{
 		"name": "JISAV",
@@ -761,7 +762,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/20/2007",
+		"updated": "07/20/2007"
 	},
 	{
 		"name": "JITMU",
@@ -770,7 +771,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/03/2013",
+		"updated": "07/03/2013"
 	},
 	{
 		"name": "JIVGI",
@@ -779,7 +780,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "09/26/2003",
+		"updated": "09/26/2003"
 	},
 	{
 		"name": "JIVLI",
@@ -788,7 +789,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "JIVOR",
@@ -797,7 +798,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "JIXAL",
@@ -806,7 +807,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "JIXEV",
@@ -815,7 +816,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "PXN*VORTAC*044.17/5.00",
+		"updated": "PXN*VORTAC*044.17/5.00"
 	},
 	{
 		"name": "JLENE",
@@ -824,7 +825,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "03/10/2010",
+		"updated": "03/10/2010"
 	},
 	{
 		"name": "JOANS",
@@ -833,7 +834,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "CCR*VOR/DME*004.27/8.13",
+		"updated": "CCR*VOR/DME*004.27/8.13"
 	},
 	{
 		"name": "JOBAS",
@@ -842,7 +843,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "FMG*VORTAC*067.00/37.00",
+		"updated": "FMG*VORTAC*067.00/37.00"
 	},
 	{
 		"name": "JOBEN",
@@ -851,7 +852,7 @@
 		"state": "WAKE ISLAND",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "AWK*VORTAC*266.00/0.80",
+		"updated": "AWK*VORTAC*266.00/0.80"
 	},
 	{
 		"name": "JOBET",
@@ -860,7 +861,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "MW",
-		"updated": "11/18/2008",
+		"updated": "11/18/2008"
 	},
 	{
 		"name": "JOBSS",
@@ -869,7 +870,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/18/2007",
+		"updated": "07/18/2007"
 	},
 	{
 		"name": "JOBUD",
@@ -878,7 +879,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "MDK*LD*347.76/2.99",
+		"updated": "MDK*LD*347.76/2.99"
 	},
 	{
 		"name": "JOBUS",
@@ -887,7 +888,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "10/05/2012",
+		"updated": "10/05/2012"
 	},
 	{
 		"name": "JODEP",
@@ -896,7 +897,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "09/04/2003",
+		"updated": "09/04/2003"
 	},
 	{
 		"name": "JOFAY",
@@ -905,7 +906,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "04/27/2017",
+		"updated": "04/27/2017"
 	},
 	{
 		"name": "JOKBU",
@@ -914,7 +915,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/06/2010",
+		"updated": "01/06/2010"
 	},
 	{
 		"name": "JOKUV",
@@ -923,7 +924,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "03/26/2015",
+		"updated": "03/26/2015"
 	},
 	{
 		"name": "JOLMA",
@@ -932,7 +933,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "05/04/2009",
+		"updated": "05/04/2009"
 	},
 	{
 		"name": "JONEG",
@@ -941,7 +942,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "04/26/2018",
+		"updated": "04/26/2018"
 	},
 	{
 		"name": "JONNE",
@@ -950,7 +951,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/07/2015",
+		"updated": "01/07/2015"
 	},
 	{
 		"name": "JONUG",
@@ -959,7 +960,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "BAB*TACAN*326.34/12.00",
+		"updated": "BAB*TACAN*326.34/12.00"
 	},
 	{
 		"name": "JOPKO",
@@ -968,7 +969,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "JORAM",
@@ -977,7 +978,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "MW",
-		"updated": "11/25/2008",
+		"updated": "11/25/2008"
 	},
 	{
 		"name": "JORAT",
@@ -986,7 +987,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MW",
-		"updated": "10/09/2009",
+		"updated": "10/09/2009"
 	},
 	{
 		"name": "JORPA",
@@ -995,7 +996,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SJC*VOR/DME*345.05",
+		"updated": "SJC*VOR/DME*345.05"
 	},
 	{
 		"name": "JOSBA",
@@ -1004,7 +1005,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/13/2007",
+		"updated": "02/13/2007"
 	},
 	{
 		"name": "JOSBI",
@@ -1013,7 +1014,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/13/2007",
+		"updated": "02/13/2007"
 	},
 	{
 		"name": "JOSHH",
@@ -1022,7 +1023,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "ILA*VORTAC*052.40",
+		"updated": "ILA*VORTAC*052.40"
 	},
 	{
 		"name": "JOSLU",
@@ -1031,7 +1032,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/13/2007",
+		"updated": "02/13/2007"
 	},
 	{
 		"name": "JOSUF",
@@ -1040,7 +1041,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/23/2018",
+		"updated": "01/23/2018"
 	},
 	{
 		"name": "JOSUX",
@@ -1049,7 +1050,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "05/30/2008",
+		"updated": "05/30/2008"
 	},
 	{
 		"name": "JOTKU",
@@ -1058,7 +1059,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "SUU*TACAN*028.25/9.00",
+		"updated": "SUU*TACAN*028.25/9.00"
 	},
 	{
 		"name": "JOTVA",
@@ -1067,7 +1068,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/13/2007",
+		"updated": "02/13/2007"
 	},
 	{
 		"name": "JOVDA",
@@ -1076,7 +1077,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "NUQ*TACAN*140.75/10.83",
+		"updated": "NUQ*TACAN*140.75/10.83"
 	},
 	{
 		"name": "JOXUB",
@@ -1085,7 +1086,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "12/08/2008",
+		"updated": "12/08/2008"
 	},
 	{
 		"name": "JUDMI",
@@ -1094,7 +1095,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/28/2017",
+		"updated": "07/28/2017"
 	},
 	{
 		"name": "JUDPU",
@@ -1103,7 +1104,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "05/25/2011",
+		"updated": "05/25/2011"
 	},
 	{
 		"name": "JUGTU",
@@ -1112,7 +1113,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "RBL*VORTAC*148.46/10.00",
+		"updated": "RBL*VORTAC*148.46/10.00"
 	},
 	{
 		"name": "JUJGE",
@@ -1121,7 +1122,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SLV*LD*305.81/2.96",
+		"updated": "SLV*LD*305.81/2.96"
 	},
 	{
 		"name": "JUKNU",
@@ -1130,7 +1131,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/13/2008",
+		"updated": "08/13/2008"
 	},
 	{
 		"name": "JULOS",
@@ -1139,7 +1140,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/27/2013",
+		"updated": "06/27/2013"
 	},
 	{
 		"name": "JULTI",
@@ -1148,7 +1149,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "CZQ*VORTAC*127.22/10.60",
+		"updated": "CZQ*VORTAC*127.22/10.60"
 	},
 	{
 		"name": "JULUD",
@@ -1157,7 +1158,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "NUQ*TACAN*/10.82",
+		"updated": "NUQ*TACAN*/10.82"
 	},
 	{
 		"name": "JULUK",
@@ -1166,7 +1167,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "03/24/2015",
+		"updated": "03/24/2015"
 	},
 	{
 		"name": "JUMDA",
@@ -1175,7 +1176,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/14/2006",
+		"updated": "08/14/2006"
 	},
 	{
 		"name": "JUMLA",
@@ -1184,7 +1185,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "MW",
-		"updated": "04/29/2010",
+		"updated": "04/29/2010"
 	},
 	{
 		"name": "JUNBO",
@@ -1193,7 +1194,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "JUNEJ",
@@ -1202,7 +1203,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/15/2002",
+		"updated": "11/15/2002"
 	},
 	{
 		"name": "JUNUV",
@@ -1211,7 +1212,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SGD*VORTAC*049.99/3.75",
+		"updated": "SGD*VORTAC*049.99/3.75"
 	},
 	{
 		"name": "JUNUX",
@@ -1220,7 +1221,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "05/21/2009",
+		"updated": "05/21/2009"
 	},
 	{
 		"name": "JUPAP",
@@ -1229,7 +1230,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "09/11/2013",
+		"updated": "09/11/2013"
 	},
 	{
 		"name": "JUPET",
@@ -1238,7 +1239,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "JUPNA",
@@ -1247,7 +1248,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "JURES",
@@ -1256,7 +1257,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/28/2015",
+		"updated": "01/28/2015"
 	},
 	{
 		"name": "JUSOM",
@@ -1265,7 +1266,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "LVK*LD*074.58/9.30",
+		"updated": "LVK*LD*074.58/9.30"
 	},
 	{
 		"name": "JUTBA",
@@ -1274,7 +1275,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/20/2010",
+		"updated": "07/20/2010"
 	},
 	{
 		"name": "JUTIN",
@@ -1283,7 +1284,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "JUTIT",
@@ -1292,7 +1293,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "AHC*VOR/DME*087.63/0.91",
+		"updated": "AHC*VOR/DME*087.63/0.91"
 	},
 	{
 		"name": "JUZPI",
@@ -1301,7 +1302,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "JWELL",
@@ -1310,5 +1311,6 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/28/2006",
-	},
+		"updated": "06/28/2006"
+	}
+]

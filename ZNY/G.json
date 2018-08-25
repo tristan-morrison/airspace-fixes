@@ -1,3 +1,4 @@
+[
 	{
 		"name": "GAALO",
 		"latitude": "40-40-9.45 N",
@@ -5,7 +6,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/10/2017",
+		"updated": "07/10/2017"
 	},
 	{
 		"name": "GAAPP",
@@ -14,7 +15,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "HAR*VORTAC*039.00/16.00",
+		"updated": "HAR*VORTAC*039.00/16.00"
 	},
 	{
 		"name": "GAKEC",
@@ -23,7 +24,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MW",
-		"updated": "08/12/2009",
+		"updated": "08/12/2009"
 	},
 	{
 		"name": "GALVN",
@@ -32,7 +33,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/19/2009",
+		"updated": "10/19/2009"
 	},
 	{
 		"name": "GALWY",
@@ -41,7 +42,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/02/2008",
+		"updated": "05/02/2008"
 	},
 	{
 		"name": "GAMBY",
@@ -50,7 +51,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*221.00/53.76",
+		"updated": "DPK*VOR/DME*221.00/53.76"
 	},
 	{
 		"name": "GANRE",
@@ -59,7 +60,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/04/2016",
+		"updated": "01/04/2016"
 	},
 	{
 		"name": "GATHR",
@@ -68,7 +69,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "EMI*VORTAC*325.17",
+		"updated": "EMI*VORTAC*325.17"
 	},
 	{
 		"name": "GAYEL",
@@ -77,7 +78,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*320.00/60.36",
+		"updated": "DPK*VOR/DME*320.00/60.36"
 	},
 	{
 		"name": "GBINS",
@@ -86,7 +87,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/10/2017",
+		"updated": "01/10/2017"
 	},
 	{
 		"name": "GEBLE",
@@ -95,7 +96,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "05/13/2013",
+		"updated": "05/13/2013"
 	},
 	{
 		"name": "GECAL",
@@ -104,7 +105,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/10/2017",
+		"updated": "01/10/2017"
 	},
 	{
 		"name": "GECEC",
@@ -113,7 +114,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RNAV",
-		"updated": "08/16/2012",
+		"updated": "08/16/2012"
 	},
 	{
 		"name": "GECVE",
@@ -122,7 +123,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/15/2011",
+		"updated": "07/15/2011"
 	},
 	{
 		"name": "GEDIC",
@@ -131,7 +132,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "CCC*VOR/DME*214.56/50.47",
+		"updated": "CCC*VOR/DME*214.56/50.47"
 	},
 	{
 		"name": "GEDSE",
@@ -140,7 +141,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/19/2006",
+		"updated": "08/19/2006"
 	},
 	{
 		"name": "GEEKS",
@@ -149,7 +150,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/25/2015",
+		"updated": "06/25/2015"
 	},
 	{
 		"name": "GEENE",
@@ -158,7 +159,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/23/2018",
+		"updated": "03/23/2018"
 	},
 	{
 		"name": "GEERI",
@@ -167,7 +168,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LRP*VOR/DME*189.74/10.20",
+		"updated": "LRP*VOR/DME*189.74/10.20"
 	},
 	{
 		"name": "GEFWI",
@@ -176,7 +177,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "GEHRG",
@@ -185,7 +186,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/20/2016",
+		"updated": "10/20/2016"
 	},
 	{
 		"name": "GEKDE",
@@ -194,7 +195,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "09/01/2016",
+		"updated": "09/01/2016"
 	},
 	{
 		"name": "GEMGE",
@@ -203,7 +204,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MW",
-		"updated": "09/06/2017",
+		"updated": "09/06/2017"
 	},
 	{
 		"name": "GEMTE",
@@ -212,7 +213,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "MR",
-		"updated": "NEL*TACAN*160.00/6.00",
+		"updated": "NEL*TACAN*160.00/6.00"
 	},
 	{
 		"name": "GENNA",
@@ -221,7 +222,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "03/26/2002",
+		"updated": "03/26/2002"
 	},
 	{
 		"name": "GEPGE",
@@ -230,7 +231,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "11/04/2009",
+		"updated": "11/04/2009"
 	},
 	{
 		"name": "GESMY",
@@ -239,7 +240,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/17/2014",
+		"updated": "04/17/2014"
 	},
 	{
 		"name": "GETPE",
@@ -248,7 +249,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "GETRO",
@@ -257,7 +258,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "11/13/1978",
+		"updated": "11/13/1978"
 	},
 	{
 		"name": "GEZSY",
@@ -266,7 +267,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "GIBTE",
@@ -275,7 +276,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/07/2006",
+		"updated": "03/07/2006"
 	},
 	{
 		"name": "GIMEE",
@@ -284,7 +285,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "JFK*VOR/DME*318.92",
+		"updated": "JFK*VOR/DME*318.92"
 	},
 	{
 		"name": "GISGE",
@@ -293,7 +294,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/02/2003",
+		"updated": "07/02/2003"
 	},
 	{
 		"name": "GLAAS",
@@ -302,7 +303,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/22/2014",
+		"updated": "12/22/2014"
 	},
 	{
 		"name": "GLDMN",
@@ -311,7 +312,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/04/2010",
+		"updated": "02/04/2010"
 	},
 	{
 		"name": "GLENA",
@@ -320,7 +321,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "03/26/2002",
+		"updated": "03/26/2002"
 	},
 	{
 		"name": "GLINN",
@@ -329,7 +330,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "JFK*VOR/DME*150.00/50.00",
+		"updated": "JFK*VOR/DME*150.00/50.00"
 	},
 	{
 		"name": "GLOBS",
@@ -338,7 +339,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LRP*VOR/DME*009.00",
+		"updated": "LRP*VOR/DME*009.00"
 	},
 	{
 		"name": "GLOMO",
@@ -347,7 +348,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "PTW*VORTAC*231.18/28.83",
+		"updated": "PTW*VORTAC*231.18/28.83"
 	},
 	{
 		"name": "GODLY",
@@ -356,7 +357,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/31/2015",
+		"updated": "08/31/2015"
 	},
 	{
 		"name": "GOKYI",
@@ -365,7 +366,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/25/2010",
+		"updated": "03/25/2010"
 	},
 	{
 		"name": "GOLDE",
@@ -374,7 +375,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZDC",
 		"type": "RP",
-		"updated": "CYN*VORTAC*349.59",
+		"updated": "CYN*VORTAC*349.59"
 	},
 	{
 		"name": "GOLFF",
@@ -383,7 +384,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/13/2012",
+		"updated": "04/13/2012"
 	},
 	{
 		"name": "GOLSN",
@@ -392,7 +393,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/02/2009",
+		"updated": "02/02/2009"
 	},
 	{
 		"name": "GONVE",
@@ -401,7 +402,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/25/2015",
+		"updated": "06/25/2015"
 	},
 	{
 		"name": "GOOGL",
@@ -410,7 +411,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "ETX*VOR/DME*160.37",
+		"updated": "ETX*VOR/DME*160.37"
 	},
 	{
 		"name": "GOOSY",
@@ -419,7 +420,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "RBV*VORTAC*090.39/25.65",
+		"updated": "RBV*VORTAC*090.39/25.65"
 	},
 	{
 		"name": "GORDI",
@@ -428,7 +429,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "01/10/2017",
+		"updated": "01/10/2017"
 	},
 	{
 		"name": "GORTT",
@@ -437,7 +438,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/20/2012",
+		"updated": "04/20/2012"
 	},
 	{
 		"name": "GOUGH",
@@ -446,7 +447,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "10/19/2009",
+		"updated": "10/19/2009"
 	},
 	{
 		"name": "GOVET",
@@ -455,7 +456,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "PTA*VOR/DME*330.91/94.80",
+		"updated": "PTA*VOR/DME*330.91/94.80"
 	},
 	{
 		"name": "GOWZO",
@@ -464,7 +465,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "06/18/2008",
+		"updated": "06/18/2008"
 	},
 	{
 		"name": "GOZLE",
@@ -473,7 +474,7 @@
 		"state": "MARYLAND",
 		"artcc": "ZNY",
 		"type": "WP",
-		"updated": "06/01/1995",
+		"updated": "06/01/1995"
 	},
 	{
 		"name": "GPOLE",
@@ -482,7 +483,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "JFK*VOR/DME*060.00/14.98",
+		"updated": "JFK*VOR/DME*060.00/14.98"
 	},
 	{
 		"name": "GRAMN",
@@ -491,7 +492,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/01/2008",
+		"updated": "08/01/2008"
 	},
 	{
 		"name": "GRAMO",
@@ -500,7 +501,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "THS*VORTAC*094.76/53.95",
+		"updated": "THS*VORTAC*094.76/53.95"
 	},
 	{
 		"name": "GRAPT",
@@ -509,7 +510,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "03/23/2018",
+		"updated": "03/23/2018"
 	},
 	{
 		"name": "GRATX",
@@ -518,7 +519,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "04/08/2008",
+		"updated": "04/08/2008"
 	},
 	{
 		"name": "GREKO",
@@ -527,7 +528,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*293.13",
+		"updated": "DPK*VOR/DME*293.13"
 	},
 	{
 		"name": "GRENE",
@@ -536,7 +537,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "LGA*VOR/DME*/11.10",
+		"updated": "LGA*VOR/DME*/11.10"
 	},
 	{
 		"name": "GRITY",
@@ -545,7 +546,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "RBV*VORTAC*037.97",
+		"updated": "RBV*VORTAC*037.97"
 	},
 	{
 		"name": "GROOM",
@@ -554,7 +555,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SBJ*VOR/DME*239.55/17.83",
+		"updated": "SBJ*VOR/DME*239.55/17.83"
 	},
 	{
 		"name": "GUESS",
@@ -563,7 +564,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "COL*VOR/DME*216.09",
+		"updated": "COL*VOR/DME*216.09"
 	},
 	{
 		"name": "GUICE",
@@ -572,7 +573,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "08/25/2009",
+		"updated": "08/25/2009"
 	},
 	{
 		"name": "GUYED",
@@ -581,7 +582,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SFK*VOR/DME*106.00",
+		"updated": "SFK*VOR/DME*106.00"
 	},
 	{
 		"name": "GUZTI",
@@ -590,7 +591,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "GYNTS",
@@ -599,5 +600,6 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZNY",
 		"type": "RP",
-		"updated": "SBJ*VOR/DME*309.93",
-	},
+		"updated": "SBJ*VOR/DME*309.93"
+	}
+]

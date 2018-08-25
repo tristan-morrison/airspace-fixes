@@ -1,3 +1,4 @@
+[
 	{
 		"name": "TAAIL",
 		"latitude": "42-51-4.38 N",
@@ -5,7 +6,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/01/2014",
+		"updated": "04/01/2014"
 	},
 	{
 		"name": "TAAYZ",
@@ -14,7 +15,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "TABGE",
@@ -23,7 +24,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "TABMY",
@@ -32,7 +33,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2016",
+		"updated": "05/24/2016"
 	},
 	{
 		"name": "TABTE",
@@ -41,7 +42,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/22/2009",
+		"updated": "06/22/2009"
 	},
 	{
 		"name": "TACON",
@@ -50,7 +51,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/15/2004",
+		"updated": "01/15/2004"
 	},
 	{
 		"name": "TACTT",
@@ -59,7 +60,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/18/2013",
+		"updated": "07/18/2013"
 	},
 	{
 		"name": "TAFFS",
@@ -68,7 +69,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*154.24",
+		"updated": "OBK*VOR/DME*154.24"
 	},
 	{
 		"name": "TAFME",
@@ -77,7 +78,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "TAGGU",
@@ -86,7 +87,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/27/2007",
+		"updated": "06/27/2007"
 	},
 	{
 		"name": "TAGPE",
@@ -95,7 +96,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/26/2016",
+		"updated": "09/26/2016"
 	},
 	{
 		"name": "TAGVE",
@@ -104,7 +105,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*084.29",
+		"updated": "DPA*VOR/DME*084.29"
 	},
 	{
 		"name": "TALGE",
@@ -113,7 +114,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/22/2009",
+		"updated": "06/22/2009"
 	},
 	{
 		"name": "TALOR",
@@ -122,7 +123,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*135.00",
+		"updated": "BAE*VOR/DME*135.00"
 	},
 	{
 		"name": "TALSE",
@@ -131,7 +132,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "TAMPE",
@@ -140,7 +141,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "TAMUW",
@@ -149,7 +150,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/24/2016",
+		"updated": "05/24/2016"
 	},
 	{
 		"name": "TANCI",
@@ -158,7 +159,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/28/2009",
+		"updated": "06/28/2009"
 	},
 	{
 		"name": "TANOC",
@@ -167,7 +168,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "TARPE",
@@ -176,7 +177,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RBS*VOR/DME*210.40/24.10",
+		"updated": "RBS*VOR/DME*210.40/24.10"
 	},
 	{
 		"name": "TASUE",
@@ -185,7 +186,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/25/2002",
+		"updated": "09/25/2002"
 	},
 	{
 		"name": "TATNE",
@@ -194,7 +195,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/05/2012",
+		"updated": "01/05/2012"
 	},
 	{
 		"name": "TAVNE",
@@ -203,7 +204,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JVL*VOR/DME*340.70/8.00",
+		"updated": "JVL*VOR/DME*340.70/8.00"
 	},
 	{
 		"name": "TAVOC",
@@ -212,7 +213,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/05/2010",
+		"updated": "04/05/2010"
 	},
 	{
 		"name": "TAYOD",
@@ -221,7 +222,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DBQ*VORTAC*318.18/2.58",
+		"updated": "DBQ*VORTAC*318.18/2.58"
 	},
 	{
 		"name": "TAYOR",
@@ -230,7 +231,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/05/2010",
+		"updated": "04/05/2010"
 	},
 	{
 		"name": "TAZCE",
@@ -239,7 +240,7 @@
 		"state": "INDIANA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "FWA*VORTAC*022.21/26.00",
+		"updated": "FWA*VORTAC*022.21/26.00"
 	},
 	{
 		"name": "TEARY",
@@ -248,7 +249,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "MR",
-		"updated": "VOK*TACAN*097.00/30.00",
+		"updated": "VOK*TACAN*097.00/30.00"
 	},
 	{
 		"name": "TECTU",
@@ -257,7 +258,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/12/2009",
+		"updated": "05/12/2009"
 	},
 	{
 		"name": "TECYO",
@@ -266,7 +267,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/14/2013",
+		"updated": "06/14/2013"
 	},
 	{
 		"name": "TEDDY",
@@ -275,7 +276,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RFD*VOR/DME*063.50",
+		"updated": "RFD*VOR/DME*063.50"
 	},
 	{
 		"name": "TEDOY",
@@ -284,7 +285,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/22/2008",
+		"updated": "12/22/2008"
 	},
 	{
 		"name": "TEEOO",
@@ -293,7 +294,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "TEGGU",
@@ -302,7 +303,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/05/2010",
+		"updated": "04/05/2010"
 	},
 	{
 		"name": "TEHRA",
@@ -311,7 +312,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/02/2003",
+		"updated": "01/02/2003"
 	},
 	{
 		"name": "TEJEY",
@@ -320,7 +321,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/18/2016",
+		"updated": "05/18/2016"
 	},
 	{
 		"name": "TELEY",
@@ -329,7 +330,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MZZ*VOR/DME*012.00",
+		"updated": "MZZ*VOR/DME*012.00"
 	},
 	{
 		"name": "TESTY",
@@ -338,7 +339,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MZZ*VOR/DME*213.50/3.00",
+		"updated": "MZZ*VOR/DME*213.50/3.00"
 	},
 	{
 		"name": "TEVEE",
@@ -347,7 +348,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/16/2002",
+		"updated": "09/16/2002"
 	},
 	{
 		"name": "TEVUE",
@@ -356,7 +357,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/10/2008",
+		"updated": "10/10/2008"
 	},
 	{
 		"name": "THEBO",
@@ -365,7 +366,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "LNR*VOR/DME*133.92/28.19",
+		"updated": "LNR*VOR/DME*133.92/28.19"
 	},
 	{
 		"name": "THEME",
@@ -374,7 +375,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BMI*VOR/DME*150.46/13.89",
+		"updated": "BMI*VOR/DME*150.46/13.89"
 	},
 	{
 		"name": "THORR",
@@ -383,7 +384,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DPA*VOR/DME*065.14",
+		"updated": "DPA*VOR/DME*065.14"
 	},
 	{
 		"name": "TICUY",
@@ -392,7 +393,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/29/2008",
+		"updated": "07/29/2008"
 	},
 	{
 		"name": "TIGBE",
@@ -401,7 +402,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/10/2002",
+		"updated": "10/10/2002"
 	},
 	{
 		"name": "TINLY",
@@ -410,7 +411,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/02/2013",
+		"updated": "05/02/2013"
 	},
 	{
 		"name": "TIRCU",
@@ -419,7 +420,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/05/2016",
+		"updated": "05/05/2016"
 	},
 	{
 		"name": "TIREW",
@@ -428,7 +429,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/28/2009",
+		"updated": "06/28/2009"
 	},
 	{
 		"name": "TIRRO",
@@ -437,7 +438,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RFD*VOR/DME*044.90",
+		"updated": "RFD*VOR/DME*044.90"
 	},
 	{
 		"name": "TISON",
@@ -446,7 +447,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OSH*VORTAC*/5.00",
+		"updated": "OSH*VORTAC*/5.00"
 	},
 	{
 		"name": "TIWRO",
@@ -455,7 +456,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/12/2000",
+		"updated": "04/12/2000"
 	},
 	{
 		"name": "TNMAN",
@@ -464,7 +465,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "VIO*VOR/DME*355.02/15.99",
+		"updated": "VIO*VOR/DME*355.02/15.99"
 	},
 	{
 		"name": "TOBBY",
@@ -473,7 +474,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JOT*VOR/DME*302.23",
+		"updated": "JOT*VOR/DME*302.23"
 	},
 	{
 		"name": "TOCKY",
@@ -482,7 +483,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MZV*VOR/DME*316.89",
+		"updated": "MZV*VOR/DME*316.89"
 	},
 	{
 		"name": "TODDY",
@@ -491,7 +492,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RFD*VOR/DME*054.91",
+		"updated": "RFD*VOR/DME*054.91"
 	},
 	{
 		"name": "TOGOC",
@@ -500,7 +501,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "EON*VORTAC*064.50",
+		"updated": "EON*VORTAC*064.50"
 	},
 	{
 		"name": "TOKOC",
@@ -509,7 +510,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/31/2005",
+		"updated": "05/31/2005"
 	},
 	{
 		"name": "TOLCA",
@@ -518,7 +519,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "TOLVE",
@@ -527,7 +528,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/07/2009",
+		"updated": "04/07/2009"
 	},
 	{
 		"name": "TONAL",
@@ -536,7 +537,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OKK*VORTAC*312.00/12.00",
+		"updated": "OKK*VORTAC*312.00/12.00"
 	},
 	{
 		"name": "TONGE",
@@ -545,7 +546,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/25/2012",
+		"updated": "04/25/2012"
 	},
 	{
 		"name": "TONIC",
@@ -554,7 +555,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/06/2018",
+		"updated": "02/06/2018"
 	},
 	{
 		"name": "TONIE",
@@ -563,7 +564,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "TONUE",
@@ -572,7 +573,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/20/2006",
+		"updated": "11/20/2006"
 	},
 	{
 		"name": "TORDE",
@@ -581,7 +582,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "09/22/2009",
+		"updated": "09/22/2009"
 	},
 	{
 		"name": "TORIO",
@@ -590,7 +591,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*VORTAC*246.98/88.68",
+		"updated": "FWA*VORTAC*246.98/88.68"
 	},
 	{
 		"name": "TORRU",
@@ -599,7 +600,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/04/2009",
+		"updated": "11/04/2009"
 	},
 	{
 		"name": "TOSLE",
@@ -608,7 +609,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/16/2002",
+		"updated": "04/16/2002"
 	},
 	{
 		"name": "TOVYU",
@@ -617,7 +618,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/20/2009",
+		"updated": "01/20/2009"
 	},
 	{
 		"name": "TOWNE",
@@ -626,7 +627,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/20/2015",
+		"updated": "08/20/2015"
 	},
 	{
 		"name": "TOYED",
@@ -635,7 +636,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/29/2017",
+		"updated": "06/29/2017"
 	},
 	{
 		"name": "TOYUL",
@@ -644,7 +645,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/02/2013",
+		"updated": "05/02/2013"
 	},
 	{
 		"name": "TRAMM",
@@ -653,7 +654,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/05/2016",
+		"updated": "05/05/2016"
 	},
 	{
 		"name": "TRAYC",
@@ -662,7 +663,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/14/2015",
+		"updated": "04/14/2015"
 	},
 	{
 		"name": "TREKI",
@@ -671,7 +672,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/26/2009",
+		"updated": "10/26/2009"
 	},
 	{
 		"name": "TREYY",
@@ -680,7 +681,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "10/08/2015",
+		"updated": "10/08/2015"
 	},
 	{
 		"name": "TRIAD",
@@ -689,7 +690,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/17/2016",
+		"updated": "05/17/2016"
 	},
 	{
 		"name": "TRICE",
@@ -698,7 +699,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "MR",
-		"updated": "MSN*VORTAC*181.00/30.00",
+		"updated": "MSN*VORTAC*181.00/30.00"
 	},
 	{
 		"name": "TRICH",
@@ -707,7 +708,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/19/2015",
+		"updated": "08/19/2015"
 	},
 	{
 		"name": "TRIDE",
@@ -716,7 +717,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "RFD*VOR/DME*179.00/45.52",
+		"updated": "RFD*VOR/DME*179.00/45.52"
 	},
 	{
 		"name": "TROLR",
@@ -725,7 +726,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/19/2002",
+		"updated": "11/19/2002"
 	},
 	{
 		"name": "TROLY",
@@ -734,7 +735,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/02/2013",
+		"updated": "05/02/2013"
 	},
 	{
 		"name": "TROST",
@@ -743,7 +744,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DBQ*VORTAC*111.92/21.47",
+		"updated": "DBQ*VORTAC*111.92/21.47"
 	},
 	{
 		"name": "TRTLL",
@@ -752,7 +753,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "TRUDO",
@@ -761,7 +762,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "BAE*VOR/DME*191.00/26.64",
+		"updated": "BAE*VOR/DME*191.00/26.64"
 	},
 	{
 		"name": "TRUFA",
@@ -770,7 +771,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "MKG*VORTAC*076.12/29.90",
+		"updated": "MKG*VORTAC*076.12/29.90"
 	},
 	{
 		"name": "TRUFL",
@@ -779,7 +780,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*184.65",
+		"updated": "OBK*VOR/DME*184.65"
 	},
 	{
 		"name": "TRVIS",
@@ -788,7 +789,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DLL*VORTAC*185.88/14.06",
+		"updated": "DLL*VORTAC*185.88/14.06"
 	},
 	{
 		"name": "TRYXI",
@@ -797,7 +798,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "OBK*VOR/DME*225.69",
+		"updated": "OBK*VOR/DME*225.69"
 	},
 	{
 		"name": "TUBEZ",
@@ -806,7 +807,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "TUBVE",
@@ -815,7 +816,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "TUCOC",
@@ -824,7 +825,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/28/2009",
+		"updated": "07/28/2009"
 	},
 	{
 		"name": "TUCUT",
@@ -833,7 +834,7 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "FWA*VORTAC*228.00/6.50",
+		"updated": "FWA*VORTAC*228.00/6.50"
 	},
 	{
 		"name": "TUGBE",
@@ -842,7 +843,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "12/28/2004",
+		"updated": "12/28/2004"
 	},
 	{
 		"name": "TUGBY",
@@ -851,7 +852,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "DJK*LD*S CRS/12.82",
+		"updated": "DJK*LD*S CRS/12.82"
 	},
 	{
 		"name": "TUGUY",
@@ -860,7 +861,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/01/2010",
+		"updated": "04/01/2010"
 	},
 	{
 		"name": "TUJJE",
@@ -869,7 +870,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "AZO*VOR/DME*167.00/2.23",
+		"updated": "AZO*VOR/DME*167.00/2.23"
 	},
 	{
 		"name": "TULYU",
@@ -878,7 +879,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "TUNGG",
@@ -887,7 +888,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "PIA*LS*128.52",
+		"updated": "PIA*LS*128.52"
 	},
 	{
 		"name": "TUNUC",
@@ -896,7 +897,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "06/20/2011",
+		"updated": "06/20/2011"
 	},
 	{
 		"name": "TURRK",
@@ -905,7 +906,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JQH*LE*S CRS/2.94",
+		"updated": "JQH*LE*S CRS/2.94"
 	},
 	{
 		"name": "TURRU",
@@ -914,7 +915,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "02/17/2010",
+		"updated": "02/17/2010"
 	},
 	{
 		"name": "TUSME",
@@ -923,7 +924,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/19/2012",
+		"updated": "01/19/2012"
 	},
 	{
 		"name": "TUWAJ",
@@ -932,7 +933,7 @@
 		"state": "IOWA",
 		"artcc": "ZAU",
 		"type": "RP",
-		"updated": "JWJ*VOR/DME*137.60/2.01",
+		"updated": "JWJ*VOR/DME*137.60/2.01"
 	},
 	{
 		"name": "TUYOB",
@@ -941,7 +942,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "TUYOV",
@@ -950,7 +951,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "07/29/2008",
+		"updated": "07/29/2008"
 	},
 	{
 		"name": "TWEEN",
@@ -959,7 +960,7 @@
 		"state": "ILLINOIS",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "05/16/2013",
+		"updated": "05/16/2013"
 	},
 	{
 		"name": "TYLRR",
@@ -968,7 +969,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "04/15/2011",
+		"updated": "04/15/2011"
 	},
 	{
 		"name": "TYROS",
@@ -977,5 +978,6 @@
 		"state": "INDIANA",
 		"artcc": "ZAU",
 		"type": "RNAV",
-		"updated": "11/18/2015",
-	},
+		"updated": "11/18/2015"
+	}
+]

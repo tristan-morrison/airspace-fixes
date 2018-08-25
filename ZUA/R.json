@@ -1,3 +1,4 @@
+[
 	{
 		"name": "RASPE",
 		"latitude": "13-28-3.08 N",
@@ -5,5 +6,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RNAV",
-		"updated": "03/20/2003",
-	},
+		"updated": "03/20/2003"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "LINNG",
 		"latitude": "43-18-10 N",
@@ -5,5 +6,6 @@
 		"state": "",
 		"artcc": "ZYZ",
 		"type": "RP",
-		"updated": "YYZ*VOR/DME*160.33/24.51",
-	},
+		"updated": "YYZ*VOR/DME*160.33/24.51"
+	}
+]

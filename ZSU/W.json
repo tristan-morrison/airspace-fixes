@@ -1,3 +1,4 @@
+[
 	{
 		"name": "WALNA",
 		"latitude": "18-38-43.68 N",
@@ -5,7 +6,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*003.77/12.00",
+		"updated": "SJU*VORTAC*003.77/12.00"
 	},
 	{
 		"name": "WATRS",
@@ -14,7 +15,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "PTA*VOR/DME*058.34/201.41",
+		"updated": "PTA*VOR/DME*058.34/201.41"
 	},
 	{
 		"name": "WESEN",
@@ -23,7 +24,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*258.71/12.00",
+		"updated": "SJU*VORTAC*258.71/12.00"
 	},
 	{
 		"name": "WEXET",
@@ -32,7 +33,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "11/24/2008",
+		"updated": "11/24/2008"
 	},
 	{
 		"name": "WEXIG",
@@ -41,7 +42,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "04/14/2011",
+		"updated": "04/14/2011"
 	},
 	{
 		"name": "WIGUM",
@@ -50,7 +51,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "MAZ*VOR/DME*123.51",
+		"updated": "MAZ*VOR/DME*123.51"
 	},
 	{
 		"name": "WITRA",
@@ -59,7 +60,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "WLFRD",
@@ -68,5 +69,6 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "01/21/2015",
-	},
+		"updated": "01/21/2015"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "SRADE",
 		"latitude": "46-39-29.38 N",
@@ -5,5 +6,6 @@
 		"state": "MICHIGAN",
 		"artcc": "ZYZ",
 		"type": "RP",
-		"updated": "SSM*VOR/DME*304.00/30.00",
-	},
+		"updated": "SSM*VOR/DME*304.00/30.00"
+	}
+]

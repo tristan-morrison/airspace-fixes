@@ -1,3 +1,4 @@
+[
 	{
 		"name": "ACUYU",
 		"latitude": "13-35-32.01 N",
@@ -5,7 +6,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UAM*TACAN*/0.50",
+		"updated": "UAM*TACAN*/0.50"
 	},
 	{
 		"name": "ADEDE",
@@ -14,7 +15,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*244.75/1.99",
+		"updated": "UNZ*VORTAC*244.75/1.99"
 	},
 	{
 		"name": "ADTIN",
@@ -23,7 +24,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UAM*TACAN*240.00/17.00",
+		"updated": "UAM*TACAN*240.00/17.00"
 	},
 	{
 		"name": "ARKEE",
@@ -32,7 +33,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UAM*TACAN*320.00/17.00",
+		"updated": "UAM*TACAN*320.00/17.00"
 	},
 	{
 		"name": "ASADE",
@@ -41,5 +42,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*169.00/40.00",
-	},
+		"updated": "UNZ*VORTAC*169.00/40.00"
+	}
+]

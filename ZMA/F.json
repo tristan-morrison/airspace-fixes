@@ -1,3 +1,4 @@
+[
 	{
 		"name": "FAMIN",
 		"latitude": "25-35-8.25 N",
@@ -5,7 +6,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "LBV*VORTAC*157.00/80.10",
+		"updated": "LBV*VORTAC*157.00/80.10"
 	},
 	{
 		"name": "FANED",
@@ -14,7 +15,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "MCF*TACAN*/0.60",
+		"updated": "MCF*TACAN*/0.60"
 	},
 	{
 		"name": "FAPTO",
@@ -23,7 +24,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/16/2009",
+		"updated": "07/16/2009"
 	},
 	{
 		"name": "FARBI",
@@ -32,7 +33,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/29/2015",
+		"updated": "07/29/2015"
 	},
 	{
 		"name": "FARMN",
@@ -41,7 +42,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/07/2008",
+		"updated": "04/07/2008"
 	},
 	{
 		"name": "FATAD",
@@ -50,7 +51,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/22/2009",
+		"updated": "06/22/2009"
 	},
 	{
 		"name": "FATHR",
@@ -59,7 +60,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZBV*VORTAC*349.00/99.33",
+		"updated": "ZBV*VORTAC*349.00/99.33"
 	},
 	{
 		"name": "FATKU",
@@ -68,7 +69,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/18/2012",
+		"updated": "06/18/2012"
 	},
 	{
 		"name": "FATUB",
@@ -77,7 +78,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "FAVIS",
@@ -86,7 +87,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "MCF*TACAN*053.00/0.70",
+		"updated": "MCF*TACAN*053.00/0.70"
 	},
 	{
 		"name": "FAVOS",
@@ -95,7 +96,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "COF*TACAN*017.00/4.50",
+		"updated": "COF*TACAN*017.00/4.50"
 	},
 	{
 		"name": "FAXAN",
@@ -104,7 +105,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "FAXID",
@@ -113,7 +114,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/23/2007",
+		"updated": "07/23/2007"
 	},
 	{
 		"name": "FDLEE",
@@ -122,7 +123,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/07/2008",
+		"updated": "04/07/2008"
 	},
 	{
 		"name": "FEBOK",
@@ -131,7 +132,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/19/2011",
+		"updated": "07/19/2011"
 	},
 	{
 		"name": "FEMSO",
@@ -140,7 +141,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ROY*LE*W CRS/1.58",
+		"updated": "ROY*LE*W CRS/1.58"
 	},
 	{
 		"name": "FENIR",
@@ -149,7 +150,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/04/2006",
+		"updated": "08/04/2006"
 	},
 	{
 		"name": "FESAK",
@@ -158,7 +159,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "12/29/2009",
+		"updated": "12/29/2009"
 	},
 	{
 		"name": "FESHA",
@@ -167,7 +168,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "CER*LD*185.48/10.64",
+		"updated": "CER*LD*185.48/10.64"
 	},
 	{
 		"name": "FEVSI",
@@ -176,7 +177,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "09/28/2009",
+		"updated": "09/28/2009"
 	},
 	{
 		"name": "FEYFO",
@@ -185,7 +186,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/07/2006",
+		"updated": "08/07/2006"
 	},
 	{
 		"name": "FFAIR",
@@ -194,7 +195,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "01/06/2009",
+		"updated": "01/06/2009"
 	},
 	{
 		"name": "FIBOP",
@@ -203,7 +204,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "MLB*VOR/DME*272.41/6.37",
+		"updated": "MLB*VOR/DME*272.41/6.37"
 	},
 	{
 		"name": "FIDKU",
@@ -212,7 +213,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "10/07/2014",
+		"updated": "10/07/2014"
 	},
 	{
 		"name": "FIFMU",
@@ -221,7 +222,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/03/2012",
+		"updated": "08/03/2012"
 	},
 	{
 		"name": "FIGDA",
@@ -230,7 +231,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "COF*TACAN*206.39/12.00",
+		"updated": "COF*TACAN*206.39/12.00"
 	},
 	{
 		"name": "FIGOX",
@@ -239,7 +240,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "CYY*VOR/DME*151.23/6.10",
+		"updated": "CYY*VOR/DME*151.23/6.10"
 	},
 	{
 		"name": "FIKNI",
@@ -248,7 +249,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "12/10/2010",
+		"updated": "12/10/2010"
 	},
 	{
 		"name": "FILBE",
@@ -257,7 +258,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "OMN*VORTAC*147.36/42.66",
+		"updated": "OMN*VORTAC*147.36/42.66"
 	},
 	{
 		"name": "FILOP",
@@ -266,7 +267,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/07/2014",
+		"updated": "07/07/2014"
 	},
 	{
 		"name": "FINLO",
@@ -275,7 +276,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "02/15/2010",
+		"updated": "02/15/2010"
 	},
 	{
 		"name": "FINNS",
@@ -284,7 +285,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "11/10/2009",
+		"updated": "11/10/2009"
 	},
 	{
 		"name": "FIREK",
@@ -293,7 +294,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "COF*TACAN*017.00/10.50",
+		"updated": "COF*TACAN*017.00/10.50"
 	},
 	{
 		"name": "FISEL",
@@ -302,7 +303,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "VKZ*VOR/DME*026.91/41.08",
+		"updated": "VKZ*VOR/DME*026.91/41.08"
 	},
 	{
 		"name": "FISHS",
@@ -311,7 +312,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "NQX*TACAN*111.00/40.00",
+		"updated": "NQX*TACAN*111.00/40.00"
 	},
 	{
 		"name": "FISLI",
@@ -320,7 +321,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "MW",
-		"updated": "02/12/2016",
+		"updated": "02/12/2016"
 	},
 	{
 		"name": "FITEM",
@@ -329,7 +330,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "DDO*LD*185.47/10.80",
+		"updated": "DDO*LD*185.47/10.80"
 	},
 	{
 		"name": "FITOL",
@@ -338,7 +339,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "09/14/2009",
+		"updated": "09/14/2009"
 	},
 	{
 		"name": "FITPA",
@@ -347,7 +348,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "FIVDO",
@@ -356,7 +357,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "11/21/2010",
+		"updated": "11/21/2010"
 	},
 	{
 		"name": "FIVER",
@@ -365,7 +366,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "RSW*VORTAC*308.77/11.00",
+		"updated": "RSW*VORTAC*308.77/11.00"
 	},
 	{
 		"name": "FIVMA",
@@ -374,7 +375,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "COF*TACAN*/4.85",
+		"updated": "COF*TACAN*/4.85"
 	},
 	{
 		"name": "FLABS",
@@ -383,7 +384,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/17/2017",
+		"updated": "04/17/2017"
 	},
 	{
 		"name": "FLATE",
@@ -392,7 +393,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "HST*TACAN*/6.50",
+		"updated": "HST*TACAN*/6.50"
 	},
 	{
 		"name": "FLINY",
@@ -401,7 +402,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZFP*VOR/DME*084.31/44.00",
+		"updated": "ZFP*VOR/DME*084.31/44.00"
 	},
 	{
 		"name": "FLIPR",
@@ -410,7 +411,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "FLOZY",
@@ -419,7 +420,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "OJP*LD*185.46/14.22",
+		"updated": "OJP*LD*185.46/14.22"
 	},
 	{
 		"name": "FLYEN",
@@ -428,7 +429,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "LAL*LD*273.85/6.32",
+		"updated": "LAL*LD*273.85/6.32"
 	},
 	{
 		"name": "FOBUK",
@@ -437,7 +438,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "DDO*LD*185.47/13.95",
+		"updated": "DDO*LD*185.47/13.95"
 	},
 	{
 		"name": "FODBI",
@@ -446,7 +447,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "FODIM",
@@ -455,7 +456,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "COF*TACAN*017.00/13.50",
+		"updated": "COF*TACAN*017.00/13.50"
 	},
 	{
 		"name": "FOGSO",
@@ -464,7 +465,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "DHP*VORTAC*248.30/23.33",
+		"updated": "DHP*VORTAC*248.30/23.33"
 	},
 	{
 		"name": "FOJSO",
@@ -473,7 +474,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/03/2012",
+		"updated": "08/03/2012"
 	},
 	{
 		"name": "FOLLE",
@@ -482,7 +483,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "GTK*VORTAC*351.06/85.12",
+		"updated": "GTK*VORTAC*351.06/85.12"
 	},
 	{
 		"name": "FOMGU",
@@ -491,7 +492,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "01/04/2012",
+		"updated": "01/04/2012"
 	},
 	{
 		"name": "FOMID",
@@ -500,7 +501,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "11/10/2009",
+		"updated": "11/10/2009"
 	},
 	{
 		"name": "FOOTY",
@@ -509,7 +510,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "HST*TACAN*236.00/6.40",
+		"updated": "HST*TACAN*236.00/6.40"
 	},
 	{
 		"name": "FORKK",
@@ -518,7 +519,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/04/2006",
+		"updated": "08/04/2006"
 	},
 	{
 		"name": "FORNI",
@@ -527,7 +528,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "MLB*VOR/DME*347.76/39.90",
+		"updated": "MLB*VOR/DME*347.76/39.90"
 	},
 	{
 		"name": "FORNL",
@@ -536,7 +537,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PHK*VOR/DME*051.65",
+		"updated": "PHK*VOR/DME*051.65"
 	},
 	{
 		"name": "FOROM",
@@ -545,7 +546,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "MCF*TACAN*220.00/2.20",
+		"updated": "MCF*TACAN*220.00/2.20"
 	},
 	{
 		"name": "FORRA",
@@ -554,7 +555,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "EYW*VORTAC*098.00/4.20",
+		"updated": "EYW*VORTAC*098.00/4.20"
 	},
 	{
 		"name": "FORRK",
@@ -563,7 +564,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/07/2008",
+		"updated": "04/07/2008"
 	},
 	{
 		"name": "FORST",
@@ -572,7 +573,7 @@
 		"state": "",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "04/07/2008",
+		"updated": "04/07/2008"
 	},
 	{
 		"name": "FORSU",
@@ -581,7 +582,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "08/11/2010",
+		"updated": "08/11/2010"
 	},
 	{
 		"name": "FORTB",
@@ -590,7 +591,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "PHK*VOR/DME*330.00/43.00",
+		"updated": "PHK*VOR/DME*330.00/43.00"
 	},
 	{
 		"name": "FORTL",
@@ -599,7 +600,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "LBV*VORTAC*175.12",
+		"updated": "LBV*VORTAC*175.12"
 	},
 	{
 		"name": "FOSAR",
@@ -608,7 +609,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "MCF*TACAN*/13.00",
+		"updated": "MCF*TACAN*/13.00"
 	},
 	{
 		"name": "FOSEL",
@@ -617,7 +618,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "12/30/2008",
+		"updated": "12/30/2008"
 	},
 	{
 		"name": "FOVTA",
@@ -626,7 +627,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "05/19/2011",
+		"updated": "05/19/2011"
 	},
 	{
 		"name": "FOWEE",
@@ -635,7 +636,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "ZBV*VORTAC*177.09/46.22",
+		"updated": "ZBV*VORTAC*177.09/46.22"
 	},
 	{
 		"name": "FRAAT",
@@ -644,7 +645,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "FROGG",
@@ -653,7 +654,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "HST*TACAN*154.00/12.00",
+		"updated": "HST*TACAN*154.00/12.00"
 	},
 	{
 		"name": "FRRDY",
@@ -662,7 +663,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "DHP*VORTAC*334.55/13.69",
+		"updated": "DHP*VORTAC*334.55/13.69"
 	},
 	{
 		"name": "FRUGL",
@@ -671,7 +672,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "SRQ*VOR/DME*/5.80",
+		"updated": "SRQ*VOR/DME*/5.80"
 	},
 	{
 		"name": "FRWAY",
@@ -680,7 +681,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "12/19/2009",
+		"updated": "12/19/2009"
 	},
 	{
 		"name": "FRZBE",
@@ -689,7 +690,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "07/15/2008",
+		"updated": "07/15/2008"
 	},
 	{
 		"name": "FUNDI",
@@ -698,7 +699,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZMA",
 		"type": "RNAV",
-		"updated": "09/09/2016",
+		"updated": "09/09/2016"
 	},
 	{
 		"name": "FUPGE",
@@ -707,7 +708,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "RP",
-		"updated": "LBV*VORTAC*333.51/39.75",
+		"updated": "LBV*VORTAC*333.51/39.75"
 	},
 	{
 		"name": "FUSZY",
@@ -716,5 +717,6 @@
 		"state": "FLORIDA",
 		"artcc": "ZMA",
 		"type": "MR",
-		"updated": "HST*TACAN*295.00/12.00",
-	},
+		"updated": "HST*TACAN*295.00/12.00"
+	}
+]

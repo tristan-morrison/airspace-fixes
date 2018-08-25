@@ -1,3 +1,4 @@
+[
 	{
 		"name": "UBGUY",
 		"latitude": "47-8-55.96 N",
@@ -5,7 +6,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/31/2011",
+		"updated": "01/31/2011"
 	},
 	{
 		"name": "UBIYO",
@@ -14,7 +15,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/06/2016",
+		"updated": "10/06/2016"
 	},
 	{
 		"name": "UCAKI",
@@ -23,7 +24,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/02/2012",
+		"updated": "06/02/2012"
 	},
 	{
 		"name": "UCIBA",
@@ -32,7 +33,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "DSD*VORTAC*071.16/6.11",
+		"updated": "DSD*VORTAC*071.16/6.11"
 	},
 	{
 		"name": "UCONA",
@@ -41,7 +42,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "TCM*VORTAC*328.00/10.00",
+		"updated": "TCM*VORTAC*328.00/10.00"
 	},
 	{
 		"name": "UDAGE",
@@ -50,7 +51,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/15/2010",
+		"updated": "04/15/2010"
 	},
 	{
 		"name": "UDECU",
@@ -59,7 +60,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "MWH*VOR/DME*238.96/17.88",
+		"updated": "MWH*VOR/DME*238.96/17.88"
 	},
 	{
 		"name": "UDEYI",
@@ -68,7 +69,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/04/2009",
+		"updated": "08/04/2009"
 	},
 	{
 		"name": "UDLEN",
@@ -77,7 +78,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/25/2016",
+		"updated": "10/25/2016"
 	},
 	{
 		"name": "UDXOH",
@@ -86,7 +87,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "01/31/2011",
+		"updated": "01/31/2011"
 	},
 	{
 		"name": "UFMOP",
@@ -95,7 +96,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "TUC*LD*164.34/0.33",
+		"updated": "TUC*LD*164.34/0.33"
 	},
 	{
 		"name": "UGUHI",
@@ -104,7 +105,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "09/27/2010",
+		"updated": "09/27/2010"
 	},
 	{
 		"name": "UGUYE",
@@ -113,7 +114,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/06/2007",
+		"updated": "09/06/2007"
 	},
 	{
 		"name": "UGVIF",
@@ -122,7 +123,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/11/2013",
+		"updated": "03/11/2013"
 	},
 	{
 		"name": "UHGEF",
@@ -131,7 +132,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/01/2017",
+		"updated": "12/01/2017"
 	},
 	{
 		"name": "UHNEF",
@@ -140,7 +141,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "OED*VORTAC*137.99/10.00",
+		"updated": "OED*VORTAC*137.99/10.00"
 	},
 	{
 		"name": "UHUFY",
@@ -149,7 +150,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/08/2017",
+		"updated": "12/08/2017"
 	},
 	{
 		"name": "UJOKU",
@@ -158,7 +159,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "02/16/2006",
+		"updated": "02/16/2006"
 	},
 	{
 		"name": "UJVEF",
@@ -167,7 +168,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "09/27/2010",
+		"updated": "09/27/2010"
 	},
 	{
 		"name": "UKIAH",
@@ -176,7 +177,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PDT*VORTAC*185.00",
+		"updated": "PDT*VORTAC*185.00"
 	},
 	{
 		"name": "UKIYI",
@@ -185,7 +186,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "11/21/2011",
+		"updated": "11/21/2011"
 	},
 	{
 		"name": "UKMEZ",
@@ -194,7 +195,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/31/2011",
+		"updated": "01/31/2011"
 	},
 	{
 		"name": "UKREK",
@@ -203,7 +204,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/25/2016",
+		"updated": "10/25/2016"
 	},
 	{
 		"name": "UKROW",
@@ -212,7 +213,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/16/2011",
+		"updated": "03/16/2011"
 	},
 	{
 		"name": "ULAMY",
@@ -221,7 +222,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ACV*LD*135.75/6.06",
+		"updated": "ACV*LD*135.75/6.06"
 	},
 	{
 		"name": "ULESS",
@@ -230,7 +231,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "HQM*VORTAC*049.05/30.00",
+		"updated": "HQM*VORTAC*049.05/30.00"
 	},
 	{
 		"name": "ULINN",
@@ -239,7 +240,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "WP",
-		"updated": "11/25/1998",
+		"updated": "11/25/1998"
 	},
 	{
 		"name": "ULKAW",
@@ -248,7 +249,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ONP*VORTAC*349.51/33.50",
+		"updated": "ONP*VORTAC*349.51/33.50"
 	},
 	{
 		"name": "UMWIQ",
@@ -257,7 +258,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/21/2013",
+		"updated": "03/21/2013"
 	},
 	{
 		"name": "UNECE",
@@ -266,7 +267,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "UBG*VOR/DME*144.41/4.47",
+		"updated": "UBG*VOR/DME*144.41/4.47"
 	},
 	{
 		"name": "UNITT",
@@ -275,7 +276,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/21/2014",
+		"updated": "09/21/2014"
 	},
 	{
 		"name": "UNIYA",
@@ -284,7 +285,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "02/12/2014",
+		"updated": "02/12/2014"
 	},
 	{
 		"name": "UNIYE",
@@ -293,7 +294,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "UNUNE",
@@ -302,7 +303,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "05/15/2014",
+		"updated": "05/15/2014"
 	},
 	{
 		"name": "UPBOB",
@@ -311,7 +312,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "MWH*VOR/DME*129.51/20.00",
+		"updated": "MWH*VOR/DME*129.51/20.00"
 	},
 	{
 		"name": "UPEFI",
@@ -320,7 +321,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/06/2013",
+		"updated": "12/06/2013"
 	},
 	{
 		"name": "UPEKE",
@@ -329,7 +330,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/16/2015",
+		"updated": "11/16/2015"
 	},
 	{
 		"name": "UPONE",
@@ -338,7 +339,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "OED*VORTAC*333.26/8.80",
+		"updated": "OED*VORTAC*333.26/8.80"
 	},
 	{
 		"name": "UPPER",
@@ -347,7 +348,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "LMT*VORTAC*314.41/13.00",
+		"updated": "LMT*VORTAC*314.41/13.00"
 	},
 	{
 		"name": "URBIA",
@@ -356,7 +357,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "DSD*VORTAC*143.46/15.00",
+		"updated": "DSD*VORTAC*143.46/15.00"
 	},
 	{
 		"name": "UREAL",
@@ -365,7 +366,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "MW",
-		"updated": "03/31/2017",
+		"updated": "03/31/2017"
 	},
 	{
 		"name": "URHAZ",
@@ -374,7 +375,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/25/2015",
+		"updated": "06/25/2015"
 	},
 	{
 		"name": "URMIK",
@@ -383,7 +384,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/17/2017",
+		"updated": "08/17/2017"
 	},
 	{
 		"name": "USAFA",
@@ -392,7 +393,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "LMT*VORTAC*141.90/20.00",
+		"updated": "LMT*VORTAC*141.90/20.00"
 	},
 	{
 		"name": "USDAW",
@@ -401,7 +402,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/31/2017",
+		"updated": "10/31/2017"
 	},
 	{
 		"name": "USENY",
@@ -410,7 +411,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PSC*VOR/DME*126.52/14.00",
+		"updated": "PSC*VOR/DME*126.52/14.00"
 	},
 	{
 		"name": "USOWE",
@@ -419,7 +420,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/13/2006",
+		"updated": "04/13/2006"
 	},
 	{
 		"name": "USUXY",
@@ -428,7 +429,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/01/2009",
+		"updated": "04/01/2009"
 	},
 	{
 		"name": "UTSIJ",
@@ -437,7 +438,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "01/31/2011",
+		"updated": "01/31/2011"
 	},
 	{
 		"name": "UVBOH",
@@ -446,7 +447,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/01/2017",
+		"updated": "12/01/2017"
 	},
 	{
 		"name": "UXALE",
@@ -455,7 +456,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/03/2010",
+		"updated": "03/03/2010"
 	},
 	{
 		"name": "UXICY",
@@ -464,7 +465,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "UYFOR",
@@ -473,7 +474,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/05/2012",
+		"updated": "01/05/2012"
 	},
 	{
 		"name": "UYINA",
@@ -482,7 +483,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/30/2016",
+		"updated": "09/30/2016"
 	},
 	{
 		"name": "UZEHE",
@@ -491,5 +492,6 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "OED*VORTAC*333.25/15.00",
-	},
+		"updated": "OED*VORTAC*333.25/15.00"
+	}
+]

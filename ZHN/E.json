@@ -1,3 +1,4 @@
+[
 	{
 		"name": "EBBER",
 		"latitude": "21-42-48.36 N",
@@ -5,7 +6,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "ITO*VORTAC*030.03/158.64",
+		"updated": "ITO*VORTAC*030.03/158.64"
 	},
 	{
 		"name": "EDSEL",
@@ -14,7 +15,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "01/22/1982",
+		"updated": "01/22/1982"
 	},
 	{
 		"name": "EELIC",
@@ -23,7 +24,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "ITO*VORTAC*088.00/97.85",
+		"updated": "ITO*VORTAC*088.00/97.85"
 	},
 	{
 		"name": "EGIPT",
@@ -32,7 +33,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "KOA*LD*353.82/6.38",
+		"updated": "KOA*LD*353.82/6.38"
 	},
 	{
 		"name": "EHEUU",
@@ -41,7 +42,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "02/14/2012",
+		"updated": "02/14/2012"
 	},
 	{
 		"name": "EHIKU",
@@ -50,7 +51,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "MUE*VOR/DME*233.75/5.24",
+		"updated": "MUE*VOR/DME*233.75/5.24"
 	},
 	{
 		"name": "EKAGE",
@@ -59,7 +60,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/09/2002",
+		"updated": "07/09/2002"
 	},
 	{
 		"name": "EKJAY",
@@ -68,7 +69,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "02/22/2017",
+		"updated": "02/22/2017"
 	},
 	{
 		"name": "EKUZY",
@@ -77,7 +78,7 @@
 		"state": "MIDWAY ATOLL",
 		"artcc": "ZHN",
 		"type": "WP",
-		"updated": "11/02/2001",
+		"updated": "11/02/2001"
 	},
 	{
 		"name": "ELAYN",
@@ -86,7 +87,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "HNL*VORTAC*245.00/45.00",
+		"updated": "HNL*VORTAC*245.00/45.00"
 	},
 	{
 		"name": "ELKUC",
@@ -95,7 +96,7 @@
 		"state": "",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "TKK*NDB/DME*234.41/4.01",
+		"updated": "TKK*NDB/DME*234.41/4.01"
 	},
 	{
 		"name": "EREBE",
@@ -104,7 +105,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/09/2002",
+		"updated": "07/09/2002"
 	},
 	{
 		"name": "ERLNN",
@@ -113,7 +114,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "02/14/2012",
+		"updated": "02/14/2012"
 	},
 	{
 		"name": "ERTTS",
@@ -122,7 +123,7 @@
 		"state": "GUAM",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*020.00/46.00",
+		"updated": "UNZ*VORTAC*020.00/46.00"
 	},
 	{
 		"name": "ESOVY",
@@ -131,7 +132,7 @@
 		"state": "MIDWAY ATOLL",
 		"artcc": "ZHN",
 		"type": "WP",
-		"updated": "11/02/2001",
+		"updated": "11/02/2001"
 	},
 	{
 		"name": "ETTER",
@@ -140,7 +141,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZHN",
 		"type": "MW",
-		"updated": "02/18/1999",
+		"updated": "02/18/1999"
 	},
 	{
 		"name": "EVEVE",
@@ -149,7 +150,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "05/10/2002",
+		"updated": "05/10/2002"
 	},
 	{
 		"name": "EVUTY",
@@ -158,7 +159,7 @@
 		"state": "",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "03/06/2017",
+		"updated": "03/06/2017"
 	},
 	{
 		"name": "EWABE",
@@ -167,7 +168,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "HNL*LD*258.99/8.07",
+		"updated": "HNL*LD*258.99/8.07"
 	},
 	{
 		"name": "EYEPO",
@@ -176,5 +177,6 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "LNY*LD*213.04/4.85",
-	},
+		"updated": "LNY*LD*213.04/4.85"
+	}
+]

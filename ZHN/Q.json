@@ -1,3 +1,4 @@
+[
 	{
 		"name": "QEJXO",
 		"latitude": "20-4-22.02 N",
@@ -5,5 +6,6 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "CN",
-		"updated": "07/20/2011",
-	},
+		"updated": "07/20/2011"
+	}
+]

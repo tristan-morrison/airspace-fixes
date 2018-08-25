@@ -1,3 +1,4 @@
+[
 	{
 		"name": "HADIG",
 		"latitude": "21-18-23.25 N",
@@ -5,7 +6,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "05/10/2002",
+		"updated": "05/10/2002"
 	},
 	{
 		"name": "HAGLL",
@@ -14,7 +15,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "ITO*VORTAC*099.99/7.00",
+		"updated": "ITO*VORTAC*099.99/7.00"
 	},
 	{
 		"name": "HAIKU",
@@ -23,7 +24,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "05/26/2011",
+		"updated": "05/26/2011"
 	},
 	{
 		"name": "HAKRI",
@@ -32,7 +33,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "ITO*VORTAC*067.00/29.50",
+		"updated": "ITO*VORTAC*067.00/29.50"
 	},
 	{
 		"name": "HALEU",
@@ -41,7 +42,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/12/2005",
+		"updated": "07/12/2005"
 	},
 	{
 		"name": "HAPAI",
@@ -50,7 +51,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "LNY*VORTAC*340.31",
+		"updated": "LNY*VORTAC*340.31"
 	},
 	{
 		"name": "HARPE",
@@ -59,7 +60,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "MKK*VORTAC*306.00/38.00",
+		"updated": "MKK*VORTAC*306.00/38.00"
 	},
 	{
 		"name": "HARPO",
@@ -68,7 +69,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "VYI*NDB*184.96",
+		"updated": "VYI*NDB*184.96"
 	},
 	{
 		"name": "HASOG",
@@ -77,7 +78,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "HAUNA",
@@ -86,7 +87,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "HNL*VORTAC*125.31/17.70",
+		"updated": "HNL*VORTAC*125.31/17.70"
 	},
 	{
 		"name": "HAVBI",
@@ -95,7 +96,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "LNY*VORTAC*290.24/10.00",
+		"updated": "LNY*VORTAC*290.24/10.00"
 	},
 	{
 		"name": "HAVNU",
@@ -104,7 +105,7 @@
 		"state": "",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "PNI*NDB/DME*072.00/30.00",
+		"updated": "PNI*NDB/DME*072.00/30.00"
 	},
 	{
 		"name": "HEDAT",
@@ -113,7 +114,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "12/04/2008",
+		"updated": "12/04/2008"
 	},
 	{
 		"name": "HEFTI",
@@ -122,7 +123,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "UPP*VORTAC*256.68/22.84",
+		"updated": "UPP*VORTAC*256.68/22.84"
 	},
 	{
 		"name": "HEFTL",
@@ -131,7 +132,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "EPC*DD*SE CRS/5.40",
+		"updated": "EPC*DD*SE CRS/5.40"
 	},
 	{
 		"name": "HELUX",
@@ -140,7 +141,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "MKK*VORTAC*306.00/44.76",
+		"updated": "MKK*VORTAC*306.00/44.76"
 	},
 	{
 		"name": "HEROV",
@@ -149,7 +150,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "MR",
-		"updated": "SOK*VORTAC*080.61/36.80",
+		"updated": "SOK*VORTAC*080.61/36.80"
 	},
 	{
 		"name": "HERTI",
@@ -158,7 +159,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "MR",
-		"updated": "NGF*TACAN*011.65/0.50",
+		"updated": "NGF*TACAN*011.65/0.50"
 	},
 	{
 		"name": "HIKAG",
@@ -167,7 +168,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "12/27/2013",
+		"updated": "12/27/2013"
 	},
 	{
 		"name": "HINUN",
@@ -176,7 +177,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "04/07/2016",
+		"updated": "04/07/2016"
 	},
 	{
 		"name": "HIRCH",
@@ -185,7 +186,7 @@
 		"state": "N MARIANA ISLANDS",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*035.00/100.00",
+		"updated": "UNZ*VORTAC*035.00/100.00"
 	},
 	{
 		"name": "HIRUP",
@@ -194,7 +195,7 @@
 		"state": "",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "TKK*NDB/DME*234.41/8.00",
+		"updated": "TKK*NDB/DME*234.41/8.00"
 	},
 	{
 		"name": "HNAPI",
@@ -203,7 +204,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "04/13/2010",
+		"updated": "04/13/2010"
 	},
 	{
 		"name": "HODAY",
@@ -212,7 +213,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "ITO*VORTAC*088.00/45.00",
+		"updated": "ITO*VORTAC*088.00/45.00"
 	},
 	{
 		"name": "HOKLA",
@@ -221,7 +222,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "OGG*VORTAC*198.39",
+		"updated": "OGG*VORTAC*198.39"
 	},
 	{
 		"name": "HOLNI",
@@ -230,7 +231,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "MR",
-		"updated": "NGF*TACAN*026.00/9.50",
+		"updated": "NGF*TACAN*026.00/9.50"
 	},
 	{
 		"name": "HOMAI",
@@ -239,7 +240,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "05/26/2011",
+		"updated": "05/26/2011"
 	},
 	{
 		"name": "HOPPY",
@@ -248,7 +249,7 @@
 		"state": "GUAM",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*068.00/100.00",
+		"updated": "UNZ*VORTAC*068.00/100.00"
 	},
 	{
 		"name": "HOSAX",
@@ -257,7 +258,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "MR",
-		"updated": "NBS*TACAN*165.00/25.00",
+		"updated": "NBS*TACAN*165.00/25.00"
 	},
 	{
 		"name": "HOXLY",
@@ -266,7 +267,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "KOA*LD*173.82/4.86",
+		"updated": "KOA*LD*173.82/4.86"
 	},
 	{
 		"name": "HPKNS",
@@ -275,7 +276,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "HNL*VORTAC*253.95/13.40",
+		"updated": "HNL*VORTAC*253.95/13.40"
 	},
 	{
 		"name": "HUKLA",
@@ -284,7 +285,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/22/2002",
+		"updated": "07/22/2002"
 	},
 	{
 		"name": "HUNPU",
@@ -293,7 +294,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "MW",
-		"updated": "05/07/2010",
+		"updated": "05/07/2010"
 	},
 	{
 		"name": "HUPUK",
@@ -302,7 +303,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "SOK*VORTAC*110.61/24.00",
+		"updated": "SOK*VORTAC*110.61/24.00"
 	},
 	{
 		"name": "HUXOR",
@@ -311,5 +312,6 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "05/10/2002",
-	},
+		"updated": "05/10/2002"
+	}
+]

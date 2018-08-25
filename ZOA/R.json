@@ -1,3 +1,4 @@
+[
 	{
 		"name": "RACFE",
 		"latitude": "38-26-25.21 N",
@@ -5,7 +6,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "RADNE",
@@ -14,7 +15,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/06/2009",
+		"updated": "07/06/2009"
 	},
 	{
 		"name": "RADRE",
@@ -23,7 +24,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "04/14/2014",
+		"updated": "04/14/2014"
 	},
 	{
 		"name": "RAGDE",
@@ -32,7 +33,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/11/2008",
+		"updated": "02/11/2008"
 	},
 	{
 		"name": "RAGGS",
@@ -41,7 +42,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "OAK*VOR/DME*347.00",
+		"updated": "OAK*VOR/DME*347.00"
 	},
 	{
 		"name": "RAGTE",
@@ -50,7 +51,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MW",
-		"updated": "07/21/2011",
+		"updated": "07/21/2011"
 	},
 	{
 		"name": "RAIDR",
@@ -59,7 +60,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/19/2014",
+		"updated": "08/19/2014"
 	},
 	{
 		"name": "RAILE",
@@ -68,7 +69,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "ILA*VORTAC*057.23/28.06",
+		"updated": "ILA*VORTAC*057.23/28.06"
 	},
 	{
 		"name": "RAINS",
@@ -77,7 +78,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "OAK*VOR/DME*218.84/59.10",
+		"updated": "OAK*VOR/DME*218.84/59.10"
 	},
 	{
 		"name": "RAKPE",
@@ -86,7 +87,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/05/2012",
+		"updated": "06/05/2012"
 	},
 	{
 		"name": "RALEY",
@@ -95,7 +96,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/24/2014",
+		"updated": "11/24/2014"
 	},
 	{
 		"name": "RAMIZ",
@@ -104,7 +105,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/11/2008",
+		"updated": "02/11/2008"
 	},
 	{
 		"name": "RAMND",
@@ -113,7 +114,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "09/10/2009",
+		"updated": "09/10/2009"
 	},
 	{
 		"name": "RAMRE",
@@ -122,7 +123,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "FMG*VORTAC*166.57/30.00",
+		"updated": "FMG*VORTAC*166.57/30.00"
 	},
 	{
 		"name": "RANCK",
@@ -131,7 +132,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "ROM*VOR*306.00",
+		"updated": "ROM*VOR*306.00"
 	},
 	{
 		"name": "RANGO",
@@ -140,7 +141,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "ILA*VORTAC*057.23/44.32",
+		"updated": "ILA*VORTAC*057.23/44.32"
 	},
 	{
 		"name": "RAROC",
@@ -149,7 +150,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "FMG*VORTAC*313.71/29.05",
+		"updated": "FMG*VORTAC*313.71/29.05"
 	},
 	{
 		"name": "RATBE",
@@ -158,7 +159,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "03/24/2015",
+		"updated": "03/24/2015"
 	},
 	{
 		"name": "RAYOR",
@@ -167,7 +168,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/11/2008",
+		"updated": "02/11/2008"
 	},
 	{
 		"name": "RAZRR",
@@ -176,7 +177,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/17/2015",
+		"updated": "02/17/2015"
 	},
 	{
 		"name": "RBBRY",
@@ -185,7 +186,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "RBLEW",
@@ -194,7 +195,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "04/21/2017",
+		"updated": "04/21/2017"
 	},
 	{
 		"name": "RBRTS",
@@ -203,7 +204,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "BIH*VOR/DME*296.84",
+		"updated": "BIH*VOR/DME*296.84"
 	},
 	{
 		"name": "RBUCL",
@@ -212,7 +213,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "12/16/2014",
+		"updated": "12/16/2014"
 	},
 	{
 		"name": "RDEYE",
@@ -221,7 +222,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/19/2003",
+		"updated": "11/19/2003"
 	},
 	{
 		"name": "REBAS",
@@ -230,7 +231,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SGD*VORTAC*165.00/14.31",
+		"updated": "SGD*VORTAC*165.00/14.31"
 	},
 	{
 		"name": "REBRG",
@@ -239,7 +240,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "FRA*VORTAC*163.80/67.30",
+		"updated": "FRA*VORTAC*163.80/67.30"
 	},
 	{
 		"name": "RECOT",
@@ -248,7 +249,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "MOD*VOR/DME*027.12/6.00",
+		"updated": "MOD*VOR/DME*027.12/6.00"
 	},
 	{
 		"name": "REDOO",
@@ -257,7 +258,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "ENI*VORTAC*284.67/195.55",
+		"updated": "ENI*VORTAC*284.67/195.55"
 	},
 	{
 		"name": "REDWD",
@@ -266,7 +267,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "08/27/2003",
+		"updated": "08/27/2003"
 	},
 	{
 		"name": "REEDD",
@@ -275,7 +276,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "NLC*TACAN*050.00/25.00",
+		"updated": "NLC*TACAN*050.00/25.00"
 	},
 	{
 		"name": "REEDE",
@@ -284,7 +285,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "WP",
-		"updated": "11/05/1997",
+		"updated": "11/05/1997"
 	},
 	{
 		"name": "REJOY",
@@ -293,7 +294,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "CCR*VOR/DME*043.64/14.89",
+		"updated": "CCR*VOR/DME*043.64/14.89"
 	},
 	{
 		"name": "REMTY",
@@ -302,7 +303,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "FMG*VORTAC*313.71/20.00",
+		"updated": "FMG*VORTAC*313.71/20.00"
 	},
 	{
 		"name": "RENOC",
@@ -311,7 +312,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "AHC*VOR/DME*087.63/20.10",
+		"updated": "AHC*VOR/DME*087.63/20.10"
 	},
 	{
 		"name": "REPUE",
@@ -320,7 +321,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/02/2016",
+		"updated": "06/02/2016"
 	},
 	{
 		"name": "RERAE",
@@ -329,7 +330,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/10/2010",
+		"updated": "08/10/2010"
 	},
 	{
 		"name": "RESEE",
@@ -338,7 +339,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "03/14/2011",
+		"updated": "03/14/2011"
 	},
 	{
 		"name": "RETBE",
@@ -347,7 +348,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/13/2007",
+		"updated": "02/13/2007"
 	},
 	{
 		"name": "RETOP",
@@ -356,7 +357,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "HYP*VOR/DME*251.97/9.07",
+		"updated": "HYP*VOR/DME*251.97/9.07"
 	},
 	{
 		"name": "RETSO",
@@ -365,7 +366,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "NUQ*TACAN*190.00/17.00",
+		"updated": "NUQ*TACAN*190.00/17.00"
 	},
 	{
 		"name": "REWJU",
@@ -374,7 +375,7 @@
 		"state": "N MARIANA ISLANDS",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/05/2012",
+		"updated": "01/05/2012"
 	},
 	{
 		"name": "REYOR",
@@ -383,7 +384,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "03/22/2006",
+		"updated": "03/22/2006"
 	},
 	{
 		"name": "RGOOD",
@@ -392,7 +393,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/21/2015",
+		"updated": "08/21/2015"
 	},
 	{
 		"name": "RHIDE",
@@ -401,7 +402,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "NFL*TACAN*117.00/30.00",
+		"updated": "NFL*TACAN*117.00/30.00"
 	},
 	{
 		"name": "RICEE",
@@ -410,7 +411,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "09/17/2014",
+		"updated": "09/17/2014"
 	},
 	{
 		"name": "RICHH",
@@ -419,7 +420,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "WP",
-		"updated": "05/14/1997",
+		"updated": "05/14/1997"
 	},
 	{
 		"name": "RICHY",
@@ -428,7 +429,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SWR*VOR/DME*117.00/16.02",
+		"updated": "SWR*VOR/DME*117.00/16.02"
 	},
 	{
 		"name": "RICOD",
@@ -437,7 +438,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/09/2004",
+		"updated": "11/09/2004"
 	},
 	{
 		"name": "RIDLL",
@@ -446,7 +447,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/27/2007",
+		"updated": "06/27/2007"
 	},
 	{
 		"name": "RIDOH",
@@ -455,7 +456,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "03/02/2010",
+		"updated": "03/02/2010"
 	},
 	{
 		"name": "RIEKE",
@@ -464,7 +465,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DJB*VOR/DME*310.83/17.00",
+		"updated": "DJB*VOR/DME*310.83/17.00"
 	},
 	{
 		"name": "RIGDE",
@@ -473,7 +474,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SNS*VORTAC*261.80/17.98",
+		"updated": "SNS*VORTAC*261.80/17.98"
 	},
 	{
 		"name": "RIJTU",
@@ -482,7 +483,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "RNO*LD*S CRS/3.00",
+		"updated": "RNO*LD*S CRS/3.00"
 	},
 	{
 		"name": "RIKPE",
@@ -491,7 +492,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/14/2016",
+		"updated": "11/14/2016"
 	},
 	{
 		"name": "RILRE",
@@ -500,7 +501,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "12/08/2008",
+		"updated": "12/08/2008"
 	},
 	{
 		"name": "RIPIE",
@@ -509,7 +510,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "12/30/2015",
+		"updated": "12/30/2015"
 	},
 	{
 		"name": "RIROC",
@@ -518,7 +519,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "NUQ*TACAN*/14.28",
+		"updated": "NUQ*TACAN*/14.28"
 	},
 	{
 		"name": "RISBA",
@@ -527,7 +528,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/27/2007",
+		"updated": "06/27/2007"
 	},
 	{
 		"name": "RISHE",
@@ -536,7 +537,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "HWD*LE*107.86/4.84",
+		"updated": "HWD*LE*107.86/4.84"
 	},
 	{
 		"name": "RISPE",
@@ -545,7 +546,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "RISTI",
@@ -554,7 +555,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SAC*VORTAC*162.00/50.00",
+		"updated": "SAC*VORTAC*162.00/50.00"
 	},
 	{
 		"name": "RIWSO",
@@ -563,7 +564,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "10/05/2012",
+		"updated": "10/05/2012"
 	},
 	{
 		"name": "ROANA",
@@ -572,7 +573,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/13/2015",
+		"updated": "01/13/2015"
 	},
 	{
 		"name": "ROARS",
@@ -581,7 +582,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "RNO*LD*344.12/20.86",
+		"updated": "RNO*LD*344.12/20.86"
 	},
 	{
 		"name": "ROBIE",
@@ -590,7 +591,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "AVE*VOR/DME*276.02/54.15",
+		"updated": "AVE*VOR/DME*276.02/54.15"
 	},
 	{
 		"name": "ROBME",
@@ -599,7 +600,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MW",
-		"updated": "04/17/2014",
+		"updated": "04/17/2014"
 	},
 	{
 		"name": "ROCOC",
@@ -608,7 +609,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/17/2017",
+		"updated": "11/17/2017"
 	},
 	{
 		"name": "ROCOS",
@@ -617,7 +618,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "10/29/2007",
+		"updated": "10/29/2007"
 	},
 	{
 		"name": "RODNE",
@@ -626,7 +627,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "MTB*LE*E CRS/12.84",
+		"updated": "MTB*LE*E CRS/12.84"
 	},
 	{
 		"name": "ROGGE",
@@ -635,7 +636,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SFO*VOR/DME*011.43/6.07",
+		"updated": "SFO*VOR/DME*011.43/6.07"
 	},
 	{
 		"name": "ROKME",
@@ -644,7 +645,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SFO*LD*103.81/14.95",
+		"updated": "SFO*LD*103.81/14.95"
 	},
 	{
 		"name": "ROMMO",
@@ -653,7 +654,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "NUQ*TACAN*140.00/30.00",
+		"updated": "NUQ*TACAN*140.00/30.00"
 	},
 	{
 		"name": "RONHU",
@@ -662,7 +663,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/28/2014",
+		"updated": "08/28/2014"
 	},
 	{
 		"name": "ROOSE",
@@ -671,7 +672,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SGD*VORTAC*076.36",
+		"updated": "SGD*VORTAC*076.36"
 	},
 	{
 		"name": "ROOTH",
@@ -680,7 +681,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/14/2008",
+		"updated": "08/14/2008"
 	},
 	{
 		"name": "ROSTE",
@@ -689,7 +690,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "01/28/2015",
+		"updated": "01/28/2015"
 	},
 	{
 		"name": "ROUKE",
@@ -698,7 +699,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "WP",
-		"updated": "02/19/1998",
+		"updated": "02/19/1998"
 	},
 	{
 		"name": "ROVUE",
@@ -707,7 +708,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/20/2012",
+		"updated": "11/20/2012"
 	},
 	{
 		"name": "ROWLY",
@@ -716,7 +717,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/24/2014",
+		"updated": "11/24/2014"
 	},
 	{
 		"name": "ROWWN",
@@ -725,7 +726,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "04/21/2017",
+		"updated": "04/21/2017"
 	},
 	{
 		"name": "ROXJO",
@@ -734,7 +735,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "ROXXY",
@@ -743,7 +744,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "SUU*TACAN*339.00/6.00",
+		"updated": "SUU*TACAN*339.00/6.00"
 	},
 	{
 		"name": "ROYDO",
@@ -752,7 +753,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/07/2008",
+		"updated": "08/07/2008"
 	},
 	{
 		"name": "ROYOD",
@@ -761,7 +762,7 @@
 		"state": "",
 		"artcc": "ZOA",
 		"type": "MW",
-		"updated": "11/12/2008",
+		"updated": "11/12/2008"
 	},
 	{
 		"name": "ROZZY",
@@ -770,7 +771,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "ILA*VORTAC*100.00/41.30",
+		"updated": "ILA*VORTAC*100.00/41.30"
 	},
 	{
 		"name": "RPARK",
@@ -779,7 +780,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "03/09/2018",
+		"updated": "03/09/2018"
 	},
 	{
 		"name": "RUCOC",
@@ -788,7 +789,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "CN",
-		"updated": "04/27/2006",
+		"updated": "04/27/2006"
 	},
 	{
 		"name": "RUDEE",
@@ -797,7 +798,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/11/2008",
+		"updated": "02/11/2008"
 	},
 	{
 		"name": "RUDNY",
@@ -806,7 +807,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SNS*VORTAC*083.00/13.72",
+		"updated": "SNS*VORTAC*083.00/13.72"
 	},
 	{
 		"name": "RUGUE",
@@ -815,7 +816,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "06/13/2016",
+		"updated": "06/13/2016"
 	},
 	{
 		"name": "RUKDE",
@@ -824,7 +825,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "05/04/2009",
+		"updated": "05/04/2009"
 	},
 	{
 		"name": "RULTE",
@@ -833,7 +834,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "02/13/2007",
+		"updated": "02/13/2007"
 	},
 	{
 		"name": "RULTT",
@@ -842,7 +843,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/20/2010",
+		"updated": "08/20/2010"
 	},
 	{
 		"name": "RUMPS",
@@ -851,7 +852,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "07/06/2006",
+		"updated": "07/06/2006"
 	},
 	{
 		"name": "RUMSY",
@@ -860,7 +861,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "ILA*VORTAC*209.68/17.34",
+		"updated": "ILA*VORTAC*209.68/17.34"
 	},
 	{
 		"name": "RURSE",
@@ -869,7 +870,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "NUQ*TACAN*140.75/14.29",
+		"updated": "NUQ*TACAN*140.75/14.29"
 	},
 	{
 		"name": "RUSME",
@@ -878,7 +879,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "09/22/2014",
+		"updated": "09/22/2014"
 	},
 	{
 		"name": "RUTUS",
@@ -887,7 +888,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "09/20/1995",
+		"updated": "09/20/1995"
 	},
 	{
 		"name": "RUXEE",
@@ -896,7 +897,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "MR",
-		"updated": "SUU*TACAN*/14.60",
+		"updated": "SUU*TACAN*/14.60"
 	},
 	{
 		"name": "RVRCT",
@@ -905,7 +906,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "11/24/2014",
+		"updated": "11/24/2014"
 	},
 	{
 		"name": "RYANN",
@@ -914,7 +915,7 @@
 		"state": "NEVADA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "HZN*VORTAC*200.82",
+		"updated": "HZN*VORTAC*200.82"
 	},
 	{
 		"name": "RYMAR",
@@ -923,7 +924,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RP",
-		"updated": "SGD*VORTAC*082.00",
+		"updated": "SGD*VORTAC*082.00"
 	},
 	{
 		"name": "RYPAX",
@@ -932,5 +933,6 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZOA",
 		"type": "RNAV",
-		"updated": "08/28/2014",
-	},
+		"updated": "08/28/2014"
+	}
+]

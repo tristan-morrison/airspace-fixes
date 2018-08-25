@@ -1,3 +1,4 @@
+[
 	{
 		"name": "SAAND",
 		"latitude": "46-10-4.54 N",
@@ -5,7 +6,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/28/2013",
+		"updated": "03/28/2013"
 	},
 	{
 		"name": "SABPO",
@@ -14,7 +15,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/30/2013",
+		"updated": "01/30/2013"
 	},
 	{
 		"name": "SAGIN",
@@ -23,7 +24,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "EUG*VORTAC*152.04/16.00",
+		"updated": "EUG*VORTAC*152.04/16.00"
 	},
 	{
 		"name": "SAKKO",
@@ -32,7 +33,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "DSD*VORTAC*092.42/24.04",
+		"updated": "DSD*VORTAC*092.42/24.04"
 	},
 	{
 		"name": "SAKME",
@@ -41,7 +42,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "SAMIE",
@@ -50,7 +51,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "OED*VORTAC*316.44/10.99",
+		"updated": "OED*VORTAC*316.44/10.99"
 	},
 	{
 		"name": "SANDR",
@@ -59,7 +60,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "OLM*VORTAC*283.00",
+		"updated": "OLM*VORTAC*283.00"
 	},
 	{
 		"name": "SANKR",
@@ -68,7 +69,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/28/2010",
+		"updated": "07/28/2010"
 	},
 	{
 		"name": "SAULS",
@@ -77,7 +78,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "05/13/2016",
+		"updated": "05/13/2016"
 	},
 	{
 		"name": "SAUVI",
@@ -86,7 +87,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PDX*LD*W CRS/11.05",
+		"updated": "PDX*LD*W CRS/11.05"
 	},
 	{
 		"name": "SAVOY",
@@ -95,7 +96,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PAE*VOR/DME*036.58",
+		"updated": "PAE*VOR/DME*036.58"
 	},
 	{
 		"name": "SAWGU",
@@ -104,7 +105,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "FOT*VORTAC*035.51",
+		"updated": "FOT*VORTAC*035.51"
 	},
 	{
 		"name": "SAWJE",
@@ -113,7 +114,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "02/02/2012",
+		"updated": "02/02/2012"
 	},
 	{
 		"name": "SAYOS",
@@ -122,7 +123,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PDT*VORTAC*/7.09",
+		"updated": "PDT*VORTAC*/7.09"
 	},
 	{
 		"name": "SCALN",
@@ -131,7 +132,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "LMT*VORTAC*105.00/15.00",
+		"updated": "LMT*VORTAC*105.00/15.00"
 	},
 	{
 		"name": "SCAPO",
@@ -140,7 +141,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "UBG*VOR/DME*334.00/24.03",
+		"updated": "UBG*VOR/DME*334.00/24.03"
 	},
 	{
 		"name": "SCENN",
@@ -149,7 +150,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "SEA*VORTAC*226.72",
+		"updated": "SEA*VORTAC*226.72"
 	},
 	{
 		"name": "SCIOS",
@@ -158,7 +159,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "CVO*VOR/DME*030.99",
+		"updated": "CVO*VOR/DME*030.99"
 	},
 	{
 		"name": "SCOOT",
@@ -167,7 +168,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "OLM*VORTAC*176.00/5.00",
+		"updated": "OLM*VORTAC*176.00/5.00"
 	},
 	{
 		"name": "SCOTY",
@@ -176,7 +177,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "OTH*VOR/DME*028.85/15.00",
+		"updated": "OTH*VOR/DME*028.85/15.00"
 	},
 	{
 		"name": "SCUPY",
@@ -185,7 +186,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/24/2017",
+		"updated": "04/24/2017"
 	},
 	{
 		"name": "SEAME",
@@ -194,7 +195,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/11/2013",
+		"updated": "03/11/2013"
 	},
 	{
 		"name": "SEBTY",
@@ -203,7 +204,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/10/2016",
+		"updated": "03/10/2016"
 	},
 	{
 		"name": "SECOG",
@@ -212,7 +213,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "HUH*VORTAC*008.34/3.41",
+		"updated": "HUH*VORTAC*008.34/3.41"
 	},
 	{
 		"name": "SEGAW",
@@ -221,7 +222,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "02/04/2013",
+		"updated": "02/04/2013"
 	},
 	{
 		"name": "SEGHA",
@@ -230,7 +231,7 @@
 		"state": "IDAHO",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/15/2010",
+		"updated": "04/15/2010"
 	},
 	{
 		"name": "SEGIV",
@@ -239,7 +240,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/25/2016",
+		"updated": "10/25/2016"
 	},
 	{
 		"name": "SEGVE",
@@ -248,7 +249,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "FOT*VORTAC*340.76/8.30",
+		"updated": "FOT*VORTAC*340.76/8.30"
 	},
 	{
 		"name": "SELAH",
@@ -257,7 +258,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ELN*VOR/DME*170.00/19.78",
+		"updated": "ELN*VOR/DME*170.00/19.78"
 	},
 	{
 		"name": "SERDY",
@@ -266,7 +267,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "05/27/2009",
+		"updated": "05/27/2009"
 	},
 	{
 		"name": "SERTE",
@@ -275,7 +276,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "OED*VORTAC*144.73/21.00",
+		"updated": "OED*VORTAC*144.73/21.00"
 	},
 	{
 		"name": "SEVER",
@@ -284,7 +285,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "MQG*VOR/DME*246.46/26.83",
+		"updated": "MQG*VOR/DME*246.46/26.83"
 	},
 	{
 		"name": "SEVLY",
@@ -293,7 +294,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ACV*VOR/DME*250.00/10.58",
+		"updated": "ACV*VOR/DME*250.00/10.58"
 	},
 	{
 		"name": "SEYOK",
@@ -302,7 +303,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/02/2010",
+		"updated": "08/02/2010"
 	},
 	{
 		"name": "SHADE",
@@ -311,7 +312,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "SEA*VORTAC*177.38/30.37",
+		"updated": "SEA*VORTAC*177.38/30.37"
 	},
 	{
 		"name": "SHAFR",
@@ -320,7 +321,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/31/2013",
+		"updated": "12/31/2013"
 	},
 	{
 		"name": "SHARI",
@@ -329,7 +330,7 @@
 		"state": "OFFSHORE PACIFIC",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "02/25/2000",
+		"updated": "02/25/2000"
 	},
 	{
 		"name": "SHEDD",
@@ -338,7 +339,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "EUG*VORTAC*355.19/22.07",
+		"updated": "EUG*VORTAC*355.19/22.07"
 	},
 	{
 		"name": "SHIPZ",
@@ -347,7 +348,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/18/2015",
+		"updated": "08/18/2015"
 	},
 	{
 		"name": "SHUKA",
@@ -356,7 +357,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "YVR*VOR/DME*089.25/42.93",
+		"updated": "YVR*VOR/DME*089.25/42.93"
 	},
 	{
 		"name": "SHUKS",
@@ -365,7 +366,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/06/2009",
+		"updated": "07/06/2009"
 	},
 	{
 		"name": "SHYNE",
@@ -374,7 +375,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/28/2013",
+		"updated": "08/28/2013"
 	},
 	{
 		"name": "SIBSY",
@@ -383,7 +384,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "SIDTO",
@@ -392,7 +393,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/29/2004",
+		"updated": "07/29/2004"
 	},
 	{
 		"name": "SIGYO",
@@ -401,7 +402,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "GEG*LD*029.51/6.76",
+		"updated": "GEG*LD*029.51/6.76"
 	},
 	{
 		"name": "SIKZY",
@@ -410,7 +411,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/25/2015",
+		"updated": "06/25/2015"
 	},
 	{
 		"name": "SIMCO",
@@ -419,7 +420,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "LTJ*VOR/DME*351.99",
+		"updated": "LTJ*VOR/DME*351.99"
 	},
 	{
 		"name": "SINGG",
@@ -428,7 +429,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/26/2017",
+		"updated": "12/26/2017"
 	},
 	{
 		"name": "SINOE",
@@ -437,7 +438,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/25/2013",
+		"updated": "06/25/2013"
 	},
 	{
 		"name": "SITOC",
@@ -446,7 +447,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "BKE*VOR/DME*301.16/19.63",
+		"updated": "BKE*VOR/DME*301.16/19.63"
 	},
 	{
 		"name": "SIXMO",
@@ -455,7 +456,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/18/2015",
+		"updated": "08/18/2015"
 	},
 	{
 		"name": "SIXTH",
@@ -464,7 +465,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/27/2017",
+		"updated": "11/27/2017"
 	},
 	{
 		"name": "SKYKO",
@@ -473,7 +474,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "SEA*VORTAC*041.56",
+		"updated": "SEA*VORTAC*041.56"
 	},
 	{
 		"name": "SLAAK",
@@ -482,7 +483,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "LMT*VORTAC*125.00/15.00",
+		"updated": "LMT*VORTAC*125.00/15.00"
 	},
 	{
 		"name": "SLAMM",
@@ -491,7 +492,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "CEC*VORTAC*301.69/4.92",
+		"updated": "CEC*VORTAC*301.69/4.92"
 	},
 	{
 		"name": "SMIGE",
@@ -500,7 +501,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/30/2009",
+		"updated": "06/30/2009"
 	},
 	{
 		"name": "SMITT",
@@ -509,7 +510,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PSC*VOR/DME*020.37/16.68",
+		"updated": "PSC*VOR/DME*020.37/16.68"
 	},
 	{
 		"name": "SNOKY",
@@ -518,7 +519,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "DSD*VORTAC*247.22/16.00",
+		"updated": "DSD*VORTAC*247.22/16.00"
 	},
 	{
 		"name": "SOAPE",
@@ -527,7 +528,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "MWH*VOR/DME*320.03/5.20",
+		"updated": "MWH*VOR/DME*320.03/5.20"
 	},
 	{
 		"name": "SOBEE",
@@ -536,7 +537,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "NUW*TACAN*317.35",
+		"updated": "NUW*TACAN*317.35"
 	},
 	{
 		"name": "SOCLO",
@@ -545,7 +546,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "02/01/2013",
+		"updated": "02/01/2013"
 	},
 	{
 		"name": "SODDA",
@@ -554,7 +555,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "SODME",
@@ -563,7 +564,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PUW*VOR/DME*026.53/3.70",
+		"updated": "PUW*VOR/DME*026.53/3.70"
 	},
 	{
 		"name": "SODOE",
@@ -572,7 +573,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "SEA*VORTAC*340.73/6.15",
+		"updated": "SEA*VORTAC*340.73/6.15"
 	},
 	{
 		"name": "SOERN",
@@ -581,7 +582,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/28/2013",
+		"updated": "08/28/2013"
 	},
 	{
 		"name": "SOFFE",
@@ -590,7 +591,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/24/2017",
+		"updated": "04/24/2017"
 	},
 	{
 		"name": "SOLJR",
@@ -599,7 +600,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/15/2013",
+		"updated": "07/15/2013"
 	},
 	{
 		"name": "SONDR",
@@ -608,7 +609,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/15/2013",
+		"updated": "01/15/2013"
 	},
 	{
 		"name": "SOOZN",
@@ -617,7 +618,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/20/2015",
+		"updated": "04/20/2015"
 	},
 	{
 		"name": "SOTEE",
@@ -626,7 +627,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "BFI*LD*315.20/4.73",
+		"updated": "BFI*LD*315.20/4.73"
 	},
 	{
 		"name": "SOUPY",
@@ -635,7 +636,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "HQM*VORTAC*068.89/30.00",
+		"updated": "HQM*VORTAC*068.89/30.00"
 	},
 	{
 		"name": "SOVOC",
@@ -644,7 +645,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "SOZKY",
@@ -653,7 +654,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "OTH*VOR/DME*096.07/12.00",
+		"updated": "OTH*VOR/DME*096.07/12.00"
 	},
 	{
 		"name": "SPAAN",
@@ -662,7 +663,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "TCM*VORTAC*/5.83",
+		"updated": "TCM*VORTAC*/5.83"
 	},
 	{
 		"name": "SPHER",
@@ -671,7 +672,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "WP",
-		"updated": "11/25/1998",
+		"updated": "11/25/1998"
 	},
 	{
 		"name": "SPNSR",
@@ -680,7 +681,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/28/2013",
+		"updated": "08/28/2013"
 	},
 	{
 		"name": "SPRAG",
@@ -689,7 +690,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "LKV*VORTAC*254.00",
+		"updated": "LKV*VORTAC*254.00"
 	},
 	{
 		"name": "SQRIT",
@@ -698,7 +699,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "TCM*VORTAC*267.00/13.00",
+		"updated": "TCM*VORTAC*267.00/13.00"
 	},
 	{
 		"name": "SQUIM",
@@ -707,7 +708,7 @@
 		"state": "",
 		"artcc": "ZSE",
 		"type": "WP",
-		"updated": "10/06/2016",
+		"updated": "10/06/2016"
 	},
 	{
 		"name": "SRCUS",
@@ -716,7 +717,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "LMT*VORTAC*/4.39",
+		"updated": "LMT*VORTAC*/4.39"
 	},
 	{
 		"name": "SSAIL",
@@ -725,7 +726,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/23/2015",
+		"updated": "04/23/2015"
 	},
 	{
 		"name": "SSDEE",
@@ -734,7 +735,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/15/2013",
+		"updated": "01/15/2013"
 	},
 	{
 		"name": "SSHAM",
@@ -743,7 +744,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/15/2014",
+		"updated": "11/15/2014"
 	},
 	{
 		"name": "SSSUN",
@@ -752,7 +753,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/28/2013",
+		"updated": "08/28/2013"
 	},
 	{
 		"name": "STAID",
@@ -761,7 +762,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PSC*VOR/DME*270.34/11.70",
+		"updated": "PSC*VOR/DME*270.34/11.70"
 	},
 	{
 		"name": "STAZY",
@@ -770,7 +771,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/26/2009",
+		"updated": "03/26/2009"
 	},
 	{
 		"name": "STEIL",
@@ -779,7 +780,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "TCM*VORTAC*257.00/10.00",
+		"updated": "TCM*VORTAC*257.00/10.00"
 	},
 	{
 		"name": "STEVS",
@@ -788,7 +789,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/05/2012",
+		"updated": "04/05/2012"
 	},
 	{
 		"name": "STILA",
@@ -797,7 +798,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/04/2016",
+		"updated": "11/04/2016"
 	},
 	{
 		"name": "STILY",
@@ -806,7 +807,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "NUW*TACAN*103.00",
+		"updated": "NUW*TACAN*103.00"
 	},
 	{
 		"name": "STORM",
@@ -815,7 +816,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/16/2011",
+		"updated": "03/16/2011"
 	},
 	{
 		"name": "SUBDY",
@@ -824,7 +825,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "MWH*VOR/DME*054.23/22.10",
+		"updated": "MWH*VOR/DME*054.23/22.10"
 	},
 	{
 		"name": "SUGSE",
@@ -833,7 +834,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/31/2011",
+		"updated": "01/31/2011"
 	},
 	{
 		"name": "SUHRO",
@@ -842,7 +843,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/02/2008",
+		"updated": "12/02/2008"
 	},
 	{
 		"name": "SULTN",
@@ -851,7 +852,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "SEA*VORTAC*031.84/30.03",
+		"updated": "SEA*VORTAC*031.84/30.03"
 	},
 	{
 		"name": "SUMMA",
@@ -860,7 +861,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "SEA*VORTAC*145.84/50.81",
+		"updated": "SEA*VORTAC*145.84/50.81"
 	},
 	{
 		"name": "SUNBE",
@@ -869,7 +870,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/23/2008",
+		"updated": "10/23/2008"
 	},
 	{
 		"name": "SUNED",
@@ -878,7 +879,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PSC*VOR/DME*257.72",
+		"updated": "PSC*VOR/DME*257.72"
 	},
 	{
 		"name": "SUNSN",
@@ -887,7 +888,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/24/2017",
+		"updated": "04/24/2017"
 	},
 	{
 		"name": "SUPOC",
@@ -896,7 +897,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "05/01/2017",
+		"updated": "05/01/2017"
 	},
 	{
 		"name": "SURDE",
@@ -905,7 +906,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "10/30/2013",
+		"updated": "10/30/2013"
 	},
 	{
 		"name": "SUXCI",
@@ -914,7 +915,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/27/2010",
+		"updated": "09/27/2010"
 	},
 	{
 		"name": "SUYRU",
@@ -923,7 +924,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/27/2010",
+		"updated": "09/27/2010"
 	},
 	{
 		"name": "SWANY",
@@ -932,5 +933,6 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "LTJ*VOR/DME*341.22",
-	},
+		"updated": "LTJ*VOR/DME*341.22"
+	}
+]

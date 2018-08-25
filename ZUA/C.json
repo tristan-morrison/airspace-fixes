@@ -1,3 +1,4 @@
+[
 	{
 		"name": "CADUK",
 		"latitude": "13-43-26.83 N",
@@ -5,7 +6,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RNAV",
-		"updated": "08/03/2006",
+		"updated": "08/03/2006"
 	},
 	{
 		"name": "CCOOK",
@@ -14,7 +15,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UNZ*VORTAC*054.00/12.90",
+		"updated": "UNZ*VORTAC*054.00/12.90"
 	},
 	{
 		"name": "CEGMU",
@@ -23,7 +24,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "AWD*LD*242.96/7.12",
+		"updated": "AWD*LD*242.96/7.12"
 	},
 	{
 		"name": "CENOR",
@@ -32,7 +33,7 @@
 		"state": "N MARIANA ISLANDS",
 		"artcc": "ZUA",
 		"type": "RNAV",
-		"updated": "08/06/2009",
+		"updated": "08/06/2009"
 	},
 	{
 		"name": "CEPOS",
@@ -41,7 +42,7 @@
 		"state": "N MARIANA ISLANDS",
 		"artcc": "ZUA",
 		"type": "RNAV",
-		"updated": "12/13/2011",
+		"updated": "12/13/2011"
 	},
 	{
 		"name": "CETAS",
@@ -50,7 +51,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*332.00/9.00",
+		"updated": "UNZ*VORTAC*332.00/9.00"
 	},
 	{
 		"name": "CIBOL",
@@ -59,7 +60,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RNAV",
-		"updated": "08/03/2006",
+		"updated": "08/03/2006"
 	},
 	{
 		"name": "COLMA",
@@ -68,7 +69,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UAM*TACAN*240.00/6.60",
+		"updated": "UAM*TACAN*240.00/6.60"
 	},
 	{
 		"name": "COVHI",
@@ -77,7 +78,7 @@
 		"state": "N MARIANA ISLANDS",
 		"artcc": "ZUA",
 		"type": "RNAV",
-		"updated": "08/06/2009",
+		"updated": "08/06/2009"
 	},
 	{
 		"name": "CREET",
@@ -86,7 +87,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UNZ*VORTAC*054.25/19.70",
+		"updated": "UNZ*VORTAC*054.25/19.70"
 	},
 	{
 		"name": "CUDID",
@@ -95,5 +96,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*241.83/1.50",
-	},
+		"updated": "UNZ*VORTAC*241.83/1.50"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "TANZY",
 		"latitude": "17-40-7.6 N",
@@ -5,7 +6,7 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "COY*VOR/DME*112.89/17.53",
+		"updated": "COY*VOR/DME*112.89/17.53"
 	},
 	{
 		"name": "TARGT",
@@ -14,7 +15,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "BQN*VORTAC*265.00/7.00",
+		"updated": "BQN*VORTAC*265.00/7.00"
 	},
 	{
 		"name": "TAYOG",
@@ -23,7 +24,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "06/27/2017",
+		"updated": "06/27/2017"
 	},
 	{
 		"name": "TBURN",
@@ -32,7 +33,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "TEJOS",
@@ -41,7 +42,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "01/21/2015",
+		"updated": "01/21/2015"
 	},
 	{
 		"name": "THANK",
@@ -50,7 +51,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "DDP*NDB*017.41",
+		"updated": "DDP*NDB*017.41"
 	},
 	{
 		"name": "TIKAL",
@@ -59,7 +60,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "PJM*VOR/DME*164.90/37.88",
+		"updated": "PJM*VOR/DME*164.90/37.88"
 	},
 	{
 		"name": "TILDI",
@@ -68,7 +69,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "04/08/2008",
+		"updated": "04/08/2008"
 	},
 	{
 		"name": "TNNER",
@@ -77,7 +78,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*277.49/12.00",
+		"updated": "SJU*VORTAC*277.49/12.00"
 	},
 	{
 		"name": "TOREY",
@@ -86,7 +87,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "TOURO",
@@ -95,7 +96,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*097.00/30.00",
+		"updated": "SJU*VORTAC*097.00/30.00"
 	},
 	{
 		"name": "TROCO",
@@ -104,7 +105,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "07/31/2010",
+		"updated": "07/31/2010"
 	},
 	{
 		"name": "TUKRE",
@@ -113,7 +114,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "06/06/2002",
+		"updated": "06/06/2002"
 	},
 	{
 		"name": "TUUNA",
@@ -122,5 +123,6 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "BQN*VORTAC*123.69",
-	},
+		"updated": "BQN*VORTAC*123.69"
+	}
+]

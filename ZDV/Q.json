@@ -1,3 +1,4 @@
+[
 	{
 		"name": "QIFZY",
 		"latitude": "42-1-28.43 N",
@@ -5,7 +6,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "QUAIL",
@@ -14,7 +15,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "FQF*VORTAC*127.00/34.55",
+		"updated": "FQF*VORTAC*127.00/34.55"
 	},
 	{
 		"name": "QUIET",
@@ -23,7 +24,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "JNC*VOR/DME*047.57",
+		"updated": "JNC*VOR/DME*047.57"
 	},
 	{
 		"name": "QWIKE",
@@ -32,7 +33,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "QWILT",
@@ -41,5 +42,6 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "MCK*VOR/DME*256.28/18.47",
-	},
+		"updated": "MCK*VOR/DME*256.28/18.47"
+	}
+]

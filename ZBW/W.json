@@ -1,3 +1,4 @@
+[
 	{
 		"name": "WAATR",
 		"latitude": "42-27-28.16 N",
@@ -5,7 +6,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/28/2014",
+		"updated": "09/28/2014"
 	},
 	{
 		"name": "WACHU",
@@ -14,7 +15,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/04/2016",
+		"updated": "04/04/2016"
 	},
 	{
 		"name": "WACKY",
@@ -23,7 +24,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PVD*VOR/DME*234.00/29.99",
+		"updated": "PVD*VOR/DME*234.00/29.99"
 	},
 	{
 		"name": "WACOR",
@@ -32,7 +33,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "SYR*VORTAC*294.00/7.00",
+		"updated": "SYR*VORTAC*294.00/7.00"
 	},
 	{
 		"name": "WADMO",
@@ -41,7 +42,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/16/2013",
+		"updated": "01/16/2013"
 	},
 	{
 		"name": "WADNI",
@@ -50,7 +51,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/18/2013",
+		"updated": "01/18/2013"
 	},
 	{
 		"name": "WAGEK",
@@ -59,7 +60,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/19/2016",
+		"updated": "12/19/2016"
 	},
 	{
 		"name": "WAGEM",
@@ -68,7 +69,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/18/2010",
+		"updated": "10/18/2010"
 	},
 	{
 		"name": "WAGIP",
@@ -77,7 +78,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/09/2008",
+		"updated": "12/09/2008"
 	},
 	{
 		"name": "WAIFS",
@@ -86,7 +87,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "AUG*VOR/DME*088.00/38.00",
+		"updated": "AUG*VOR/DME*088.00/38.00"
 	},
 	{
 		"name": "WAINS",
@@ -95,7 +96,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/25/2015",
+		"updated": "08/25/2015"
 	},
 	{
 		"name": "WAIVS",
@@ -104,7 +105,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MVY*VOR/DME*114.50/28.90",
+		"updated": "MVY*VOR/DME*114.50/28.90"
 	},
 	{
 		"name": "WAKBI",
@@ -113,7 +114,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/21/2011",
+		"updated": "06/21/2011"
 	},
 	{
 		"name": "WAKVO",
@@ -122,7 +123,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BAF*VORTAC*028.00/3.48",
+		"updated": "BAF*VORTAC*028.00/3.48"
 	},
 	{
 		"name": "WALAL",
@@ -131,7 +132,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/18/2010",
+		"updated": "06/18/2010"
 	},
 	{
 		"name": "WALIX",
@@ -140,7 +141,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/13/2011",
+		"updated": "01/13/2011"
 	},
 	{
 		"name": "WALLU",
@@ -149,7 +150,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "WALTU",
@@ -158,7 +159,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/03/2009",
+		"updated": "02/03/2009"
 	},
 	{
 		"name": "WAMSA",
@@ -167,7 +168,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CAM*VOR/DME*292.66/23.30",
+		"updated": "CAM*VOR/DME*292.66/23.30"
 	},
 	{
 		"name": "WANDI",
@@ -176,7 +177,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/05/2012",
+		"updated": "04/05/2012"
 	},
 	{
 		"name": "WANKA",
@@ -185,7 +186,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "MW",
-		"updated": "07/15/2014",
+		"updated": "07/15/2014"
 	},
 	{
 		"name": "WANLA",
@@ -194,7 +195,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/24/2011",
+		"updated": "10/24/2011"
 	},
 	{
 		"name": "WANTS",
@@ -203,7 +204,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MHT*VOR/DME*210.00/10.00",
+		"updated": "MHT*VOR/DME*210.00/10.00"
 	},
 	{
 		"name": "WANTU",
@@ -212,7 +213,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/02/2002",
+		"updated": "07/02/2002"
 	},
 	{
 		"name": "WANUX",
@@ -221,7 +222,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MPV*LD*347.68/6.67",
+		"updated": "MPV*LD*347.68/6.67"
 	},
 	{
 		"name": "WAPIG",
@@ -230,7 +231,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "YJN*VOR/DME*169.06/20.95",
+		"updated": "YJN*VOR/DME*169.06/20.95"
 	},
 	{
 		"name": "WAPOG",
@@ -239,7 +240,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "ORW*VOR/DME*167.39",
+		"updated": "ORW*VOR/DME*167.39"
 	},
 	{
 		"name": "WARDS",
@@ -248,7 +249,7 @@
 		"state": "",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BTV*VOR/DME*014.45/37.08",
+		"updated": "BTV*VOR/DME*014.45/37.08"
 	},
 	{
 		"name": "WAREN",
@@ -257,7 +258,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "GFL*VORTAC*269.03/14.49",
+		"updated": "GFL*VORTAC*269.03/14.49"
 	},
 	{
 		"name": "WARIC",
@@ -266,7 +267,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "GDM*VOR/DME*298.00/20.65",
+		"updated": "GDM*VOR/DME*298.00/20.65"
 	},
 	{
 		"name": "WARIP",
@@ -275,7 +276,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "FMH*TACAN*240.00/7.00",
+		"updated": "FMH*TACAN*240.00/7.00"
 	},
 	{
 		"name": "WARUV",
@@ -284,7 +285,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CAM*VOR/DME*230.93",
+		"updated": "CAM*VOR/DME*230.93"
 	},
 	{
 		"name": "WASPO",
@@ -293,7 +294,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/26/2002",
+		"updated": "11/26/2002"
 	},
 	{
 		"name": "WATAN",
@@ -302,7 +303,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/24/2011",
+		"updated": "06/24/2011"
 	},
 	{
 		"name": "WATIP",
@@ -311,7 +312,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "VOE*LD*145.83/2.20",
+		"updated": "VOE*LD*145.83/2.20"
 	},
 	{
 		"name": "WATIR",
@@ -320,7 +321,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PVD*VOR/DME*186.25/9.92",
+		"updated": "PVD*VOR/DME*186.25/9.92"
 	},
 	{
 		"name": "WAVBO",
@@ -329,7 +330,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/09/2007",
+		"updated": "11/09/2007"
 	},
 	{
 		"name": "WAVEP",
@@ -338,7 +339,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/06/2009",
+		"updated": "11/06/2009"
 	},
 	{
 		"name": "WAVON",
@@ -347,7 +348,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/13/2007",
+		"updated": "03/13/2007"
 	},
 	{
 		"name": "WAWIK",
@@ -356,7 +357,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/06/2012",
+		"updated": "04/06/2012"
 	},
 	{
 		"name": "WAXEN",
@@ -365,7 +366,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MHT*VOR/DME*145.00/26.42",
+		"updated": "MHT*VOR/DME*145.00/26.42"
 	},
 	{
 		"name": "WAYGO",
@@ -374,7 +375,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/22/2014",
+		"updated": "09/22/2014"
 	},
 	{
 		"name": "WAYZU",
@@ -383,7 +384,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "WEARD",
@@ -392,7 +393,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "HUO*VOR/DME*019.05/21.35",
+		"updated": "HUO*VOR/DME*019.05/21.35"
 	},
 	{
 		"name": "WEBDI",
@@ -401,7 +402,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/03/2011",
+		"updated": "06/03/2011"
 	},
 	{
 		"name": "WEBIN",
@@ -410,7 +411,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "WEENG",
@@ -419,7 +420,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/02/2007",
+		"updated": "04/02/2007"
 	},
 	{
 		"name": "WEEPY",
@@ -428,7 +429,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "UCA*VORTAC*315.00/34.98",
+		"updated": "UCA*VORTAC*315.00/34.98"
 	},
 	{
 		"name": "WEETS",
@@ -437,7 +438,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DNY*VOR/DME*130.28/39.03",
+		"updated": "DNY*VOR/DME*130.28/39.03"
 	},
 	{
 		"name": "WEEZE",
@@ -446,7 +447,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BOS*VOR/DME*060.00/41.06",
+		"updated": "BOS*VOR/DME*060.00/41.06"
 	},
 	{
 		"name": "WEGIR",
@@ -455,7 +456,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/31/2015",
+		"updated": "08/31/2015"
 	},
 	{
 		"name": "WEGOT",
@@ -464,7 +465,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MAD*VOR/DME*031.33/14.31",
+		"updated": "MAD*VOR/DME*031.33/14.31"
 	},
 	{
 		"name": "WEIGH",
@@ -473,7 +474,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BTV*VOR/DME*202.49/22.36",
+		"updated": "BTV*VOR/DME*202.49/22.36"
 	},
 	{
 		"name": "WEJTI",
@@ -482,7 +483,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "02/09/2010",
+		"updated": "02/09/2010"
 	},
 	{
 		"name": "WEKOR",
@@ -491,7 +492,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "WELSO",
@@ -500,7 +501,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/16/2013",
+		"updated": "01/16/2013"
 	},
 	{
 		"name": "WELUG",
@@ -509,7 +510,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/09/2016",
+		"updated": "06/09/2016"
 	},
 	{
 		"name": "WENGA",
@@ -518,7 +519,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/19/2011",
+		"updated": "04/19/2011"
 	},
 	{
 		"name": "WENKI",
@@ -527,7 +528,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/11/2011",
+		"updated": "03/11/2011"
 	},
 	{
 		"name": "WEPKO",
@@ -536,7 +537,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/16/2013",
+		"updated": "01/16/2013"
 	},
 	{
 		"name": "WEPSO",
@@ -545,7 +546,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/19/2011",
+		"updated": "05/19/2011"
 	},
 	{
 		"name": "WERID",
@@ -554,7 +555,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MVY*VOR/DME*230.00/13.00",
+		"updated": "MVY*VOR/DME*230.00/13.00"
 	},
 	{
 		"name": "WERKI",
@@ -563,7 +564,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/17/2004",
+		"updated": "08/17/2004"
 	},
 	{
 		"name": "WESIE",
@@ -572,7 +573,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BAF*VORTAC*024.77/6.39",
+		"updated": "BAF*VORTAC*024.77/6.39"
 	},
 	{
 		"name": "WESOV",
@@ -581,7 +582,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/23/2014",
+		"updated": "10/23/2014"
 	},
 	{
 		"name": "WESPA",
@@ -590,7 +591,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/06/2009",
+		"updated": "11/06/2009"
 	},
 	{
 		"name": "WESTO",
@@ -599,7 +600,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BDR*VOR/DME*103.00/8.66",
+		"updated": "BDR*VOR/DME*103.00/8.66"
 	},
 	{
 		"name": "WESTS",
@@ -608,7 +609,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "ALB*LD*011.17/1.43",
+		"updated": "ALB*LD*011.17/1.43"
 	},
 	{
 		"name": "WETID",
@@ -617,7 +618,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/27/2017",
+		"updated": "01/27/2017"
 	},
 	{
 		"name": "WETMU",
@@ -626,7 +627,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "GDM*VOR/DME*293.86/3.50",
+		"updated": "GDM*VOR/DME*293.86/3.50"
 	},
 	{
 		"name": "WETOX",
@@ -635,7 +636,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/21/2008",
+		"updated": "10/21/2008"
 	},
 	{
 		"name": "WEVON",
@@ -644,7 +645,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "RUT*LD*013.52/1.39",
+		"updated": "RUT*LD*013.52/1.39"
 	},
 	{
 		"name": "WEVOP",
@@ -653,7 +654,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/08/2009",
+		"updated": "07/08/2009"
 	},
 	{
 		"name": "WEXIR",
@@ -662,7 +663,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CMK*VOR/DME*323.58",
+		"updated": "CMK*VOR/DME*323.58"
 	},
 	{
 		"name": "WEXNO",
@@ -671,7 +672,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/30/2015",
+		"updated": "11/30/2015"
 	},
 	{
 		"name": "WHALE",
@@ -680,7 +681,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "ACK*VOR/DME*082.00/146.62",
+		"updated": "ACK*VOR/DME*082.00/146.62"
 	},
 	{
 		"name": "WHAME",
@@ -689,7 +690,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/27/2010",
+		"updated": "12/27/2010"
 	},
 	{
 		"name": "WHATE",
@@ -698,7 +699,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BAF*VORTAC*007.00/16.57",
+		"updated": "BAF*VORTAC*007.00/16.57"
 	},
 	{
 		"name": "WHIPS",
@@ -707,7 +708,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CQX*NDB*294.25",
+		"updated": "CQX*NDB*294.25"
 	},
 	{
 		"name": "WHISL",
@@ -716,7 +717,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/22/2018",
+		"updated": "02/22/2018"
 	},
 	{
 		"name": "WHYBE",
@@ -725,7 +726,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PUT*VOR/DME*060.72/26.17",
+		"updated": "PUT*VOR/DME*060.72/26.17"
 	},
 	{
 		"name": "WHYOO",
@@ -734,7 +735,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/01/2012",
+		"updated": "06/01/2012"
 	},
 	{
 		"name": "WIBAK",
@@ -743,7 +744,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/16/2013",
+		"updated": "01/16/2013"
 	},
 	{
 		"name": "WIBAS",
@@ -752,7 +753,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/14/2013",
+		"updated": "11/14/2013"
 	},
 	{
 		"name": "WIDKA",
@@ -761,7 +762,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "WIDLA",
@@ -770,7 +771,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/01/2009",
+		"updated": "10/01/2009"
 	},
 	{
 		"name": "WIDON",
@@ -779,7 +780,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "EWB*LD*234.45/2.98",
+		"updated": "EWB*LD*234.45/2.98"
 	},
 	{
 		"name": "WIDUP",
@@ -788,7 +789,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/01/2011",
+		"updated": "11/01/2011"
 	},
 	{
 		"name": "WIELD",
@@ -797,7 +798,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/16/2009",
+		"updated": "06/16/2009"
 	},
 	{
 		"name": "WIFFY",
@@ -806,7 +807,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "SYR*VORTAC*279.24/15.18",
+		"updated": "SYR*VORTAC*279.24/15.18"
 	},
 	{
 		"name": "WIGAN",
@@ -815,7 +816,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DNY*VOR/DME*106.87",
+		"updated": "DNY*VOR/DME*106.87"
 	},
 	{
 		"name": "WIGTU",
@@ -824,7 +825,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BJA*TACAN*149.51/10.03",
+		"updated": "BJA*TACAN*149.51/10.03"
 	},
 	{
 		"name": "WIKID",
@@ -833,7 +834,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CTR*VOR/DME*027.81",
+		"updated": "CTR*VOR/DME*027.81"
 	},
 	{
 		"name": "WIKIT",
@@ -842,7 +843,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "WILAK",
@@ -851,7 +852,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*109.45",
+		"updated": "DPK*VOR/DME*109.45"
 	},
 	{
 		"name": "WILAL",
@@ -860,7 +861,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "AUG*VOR/DME*010.46/21.10",
+		"updated": "AUG*VOR/DME*010.46/21.10"
 	},
 	{
 		"name": "WILET",
@@ -869,7 +870,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "RKA*VOR/DME*292.12",
+		"updated": "RKA*VOR/DME*292.12"
 	},
 	{
 		"name": "WILIM",
@@ -878,7 +879,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/04/2005",
+		"updated": "02/04/2005"
 	},
 	{
 		"name": "WILNO",
@@ -887,7 +888,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "LEB*VOR/DME*229.34",
+		"updated": "LEB*VOR/DME*229.34"
 	},
 	{
 		"name": "WILRD",
@@ -896,7 +897,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "ART*VORTAC*045.00/22.20",
+		"updated": "ART*VORTAC*045.00/22.20"
 	},
 	{
 		"name": "WIMAK",
@@ -905,7 +906,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/25/2017",
+		"updated": "04/25/2017"
 	},
 	{
 		"name": "WIMPY",
@@ -914,7 +915,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BOS*VOR/DME*082.14/18.26",
+		"updated": "BOS*VOR/DME*082.14/18.26"
 	},
 	{
 		"name": "WINDZ",
@@ -923,7 +924,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/23/2006",
+		"updated": "10/23/2006"
 	},
 	{
 		"name": "WINID",
@@ -932,7 +933,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/16/2013",
+		"updated": "01/16/2013"
 	},
 	{
 		"name": "WINIR",
@@ -941,7 +942,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/16/2013",
+		"updated": "01/16/2013"
 	},
 	{
 		"name": "WINLA",
@@ -950,7 +951,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BTV*VOR/DME*202.49/6.35",
+		"updated": "BTV*VOR/DME*202.49/6.35"
 	},
 	{
 		"name": "WINNI",
@@ -959,7 +960,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BOS*VOR/DME*218.70/15.62",
+		"updated": "BOS*VOR/DME*218.70/15.62"
 	},
 	{
 		"name": "WINPO",
@@ -968,7 +969,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/25/2007",
+		"updated": "05/25/2007"
 	},
 	{
 		"name": "WINTA",
@@ -977,7 +978,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/04/2016",
+		"updated": "04/04/2016"
 	},
 	{
 		"name": "WINVI",
@@ -986,7 +987,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/13/2008",
+		"updated": "06/13/2008"
 	},
 	{
 		"name": "WIPNO",
@@ -995,7 +996,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/19/2011",
+		"updated": "05/19/2011"
 	},
 	{
 		"name": "WIPOR",
@@ -1004,7 +1005,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "HFD*VOR/DME*099.72",
+		"updated": "HFD*VOR/DME*099.72"
 	},
 	{
 		"name": "WIRAX",
@@ -1013,7 +1014,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/30/2016",
+		"updated": "12/30/2016"
 	},
 	{
 		"name": "WIREG",
@@ -1022,7 +1023,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "WIROR",
@@ -1031,7 +1032,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/03/2014",
+		"updated": "11/03/2014"
 	},
 	{
 		"name": "WIRUB",
@@ -1040,7 +1041,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/27/2010",
+		"updated": "07/27/2010"
 	},
 	{
 		"name": "WISAS",
@@ -1049,7 +1050,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "MR",
-		"updated": "CEF*VORTAC*040.00/0.80",
+		"updated": "CEF*VORTAC*040.00/0.80"
 	},
 	{
 		"name": "WISIG",
@@ -1058,7 +1059,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "WISPI",
@@ -1067,7 +1068,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/17/2007",
+		"updated": "07/17/2007"
 	},
 	{
 		"name": "WISUG",
@@ -1076,7 +1077,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "WITCH",
@@ -1085,7 +1086,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MHT*VOR/DME*132.00",
+		"updated": "MHT*VOR/DME*132.00"
 	},
 	{
 		"name": "WITED",
@@ -1094,7 +1095,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "MR",
-		"updated": "GTB*LD*028.99/17.00",
+		"updated": "GTB*LD*028.99/17.00"
 	},
 	{
 		"name": "WITNY",
@@ -1103,7 +1104,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PUT*VOR/DME*301.92",
+		"updated": "PUT*VOR/DME*301.92"
 	},
 	{
 		"name": "WITTE",
@@ -1112,7 +1113,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/23/2010",
+		"updated": "04/23/2010"
 	},
 	{
 		"name": "WIVPA",
@@ -1121,7 +1122,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "ARJ*LD*047.17/1.48",
+		"updated": "ARJ*LD*047.17/1.48"
 	},
 	{
 		"name": "WIXEL",
@@ -1130,7 +1131,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/11/2012",
+		"updated": "05/11/2012"
 	},
 	{
 		"name": "WIXIV",
@@ -1139,7 +1140,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/11/2014",
+		"updated": "09/11/2014"
 	},
 	{
 		"name": "WIXOR",
@@ -1148,7 +1149,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/24/2007",
+		"updated": "04/24/2007"
 	},
 	{
 		"name": "WOBDI",
@@ -1157,7 +1158,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "MW",
-		"updated": "02/13/2017",
+		"updated": "02/13/2017"
 	},
 	{
 		"name": "WOBLY",
@@ -1166,7 +1167,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CAM*VOR/DME*219.82",
+		"updated": "CAM*VOR/DME*219.82"
 	},
 	{
 		"name": "WOBMU",
@@ -1175,7 +1176,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MHT*VOR/DME*166.83",
+		"updated": "MHT*VOR/DME*166.83"
 	},
 	{
 		"name": "WOBRI",
@@ -1184,7 +1185,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "LEB*VOR/DME*247.77/5.25",
+		"updated": "LEB*VOR/DME*247.77/5.25"
 	},
 	{
 		"name": "WOBUR",
@@ -1193,7 +1194,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "LWM*VOR/DME*206.17",
+		"updated": "LWM*VOR/DME*206.17"
 	},
 	{
 		"name": "WOBVU",
@@ -1202,7 +1203,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/13/2015",
+		"updated": "05/13/2015"
 	},
 	{
 		"name": "WODDE",
@@ -1211,7 +1212,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "LWM*VOR/DME*074.16",
+		"updated": "LWM*VOR/DME*074.16"
 	},
 	{
 		"name": "WODEG",
@@ -1220,7 +1221,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "MW",
-		"updated": "06/28/2009",
+		"updated": "06/28/2009"
 	},
 	{
 		"name": "WODGI",
@@ -1229,7 +1230,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/17/2012",
+		"updated": "01/17/2012"
 	},
 	{
 		"name": "WODIT",
@@ -1238,7 +1239,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/13/2008",
+		"updated": "08/13/2008"
 	},
 	{
 		"name": "WODOV",
@@ -1247,7 +1248,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BJA*TACAN*320.66/19.73",
+		"updated": "BJA*TACAN*320.66/19.73"
 	},
 	{
 		"name": "WODUL",
@@ -1256,7 +1257,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/06/2007",
+		"updated": "08/06/2007"
 	},
 	{
 		"name": "WOGOK",
@@ -1265,7 +1266,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "WOLAD",
@@ -1274,7 +1275,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/07/2017",
+		"updated": "04/07/2017"
 	},
 	{
 		"name": "WOLLS",
@@ -1283,7 +1284,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/02/2018",
+		"updated": "01/02/2018"
 	},
 	{
 		"name": "WOLOL",
@@ -1292,7 +1293,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/24/2007",
+		"updated": "05/24/2007"
 	},
 	{
 		"name": "WOLVO",
@@ -1301,7 +1302,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/19/2001",
+		"updated": "12/19/2001"
 	},
 	{
 		"name": "WOMAL",
@@ -1310,7 +1311,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DXR*LE*266.73/2.98",
+		"updated": "DXR*LE*266.73/2.98"
 	},
 	{
 		"name": "WOMEK",
@@ -1319,7 +1320,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "LFV*VOR/DME*274.95",
+		"updated": "LFV*VOR/DME*274.95"
 	},
 	{
 		"name": "WOMUL",
@@ -1328,7 +1329,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/28/2002",
+		"updated": "01/28/2002"
 	},
 	{
 		"name": "WONGI",
@@ -1337,7 +1338,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/22/2008",
+		"updated": "10/22/2008"
 	},
 	{
 		"name": "WONPO",
@@ -1346,7 +1347,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/01/2017",
+		"updated": "05/01/2017"
 	},
 	{
 		"name": "WONUL",
@@ -1355,7 +1356,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "LEB*VOR/DME*247.77/9.00",
+		"updated": "LEB*VOR/DME*247.77/9.00"
 	},
 	{
 		"name": "WOONS",
@@ -1364,7 +1365,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PUT*VOR/DME*105.00/15.09",
+		"updated": "PUT*VOR/DME*105.00/15.09"
 	},
 	{
 		"name": "WOPEP",
@@ -1373,7 +1374,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "MR",
-		"updated": "BGR*VORTAC*154.89/6.28",
+		"updated": "BGR*VORTAC*154.89/6.28"
 	},
 	{
 		"name": "WOPRA",
@@ -1382,7 +1383,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/24/2004",
+		"updated": "08/24/2004"
 	},
 	{
 		"name": "WORIA",
@@ -1391,7 +1392,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/23/2014",
+		"updated": "09/23/2014"
 	},
 	{
 		"name": "WORLD",
@@ -1400,7 +1401,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "HUO*VOR/DME*006.00/34.66",
+		"updated": "HUO*VOR/DME*006.00/34.66"
 	},
 	{
 		"name": "WORMY",
@@ -1409,7 +1410,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*029.39",
+		"updated": "DPK*VOR/DME*029.39"
 	},
 	{
 		"name": "WOROS",
@@ -1418,7 +1419,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/19/2016",
+		"updated": "07/19/2016"
 	},
 	{
 		"name": "WORRN",
@@ -1427,7 +1428,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/14/2017",
+		"updated": "02/14/2017"
 	},
 	{
 		"name": "WOSAD",
@@ -1436,7 +1437,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/12/2011",
+		"updated": "01/12/2011"
 	},
 	{
 		"name": "WOSEM",
@@ -1445,7 +1446,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/06/2009",
+		"updated": "04/06/2009"
 	},
 	{
 		"name": "WOTAM",
@@ -1454,7 +1455,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/02/2005",
+		"updated": "06/02/2005"
 	},
 	{
 		"name": "WOTBU",
@@ -1463,7 +1464,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/06/2009",
+		"updated": "11/06/2009"
 	},
 	{
 		"name": "WOVAR",
@@ -1472,7 +1473,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "WRAPT",
@@ -1481,7 +1482,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MLT*VOR/DME*284.48/35.37",
+		"updated": "MLT*VOR/DME*284.48/35.37"
 	},
 	{
 		"name": "WREAD",
@@ -1490,7 +1491,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/16/2007",
+		"updated": "03/16/2007"
 	},
 	{
 		"name": "WUBAT",
@@ -1499,7 +1500,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/22/2008",
+		"updated": "12/22/2008"
 	},
 	{
 		"name": "WUBEP",
@@ -1508,7 +1509,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/23/2007",
+		"updated": "05/23/2007"
 	},
 	{
 		"name": "WUBEX",
@@ -1517,7 +1518,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CAM*VOR/DME*160.13/6.00",
+		"updated": "CAM*VOR/DME*160.13/6.00"
 	},
 	{
 		"name": "WUBIM",
@@ -1526,7 +1527,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/19/2008",
+		"updated": "12/19/2008"
 	},
 	{
 		"name": "WUBUM",
@@ -1535,7 +1536,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/06/2009",
+		"updated": "11/06/2009"
 	},
 	{
 		"name": "WUDDE",
@@ -1544,7 +1545,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/21/2010",
+		"updated": "06/21/2010"
 	},
 	{
 		"name": "WUGAV",
@@ -1553,7 +1554,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BML*VOR/DME*191.73/2.20",
+		"updated": "BML*VOR/DME*191.73/2.20"
 	},
 	{
 		"name": "WUGES",
@@ -1562,7 +1563,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BGR*VORTAC*250.97/10.75",
+		"updated": "BGR*VORTAC*250.97/10.75"
 	},
 	{
 		"name": "WUGLA",
@@ -1571,7 +1572,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/02/2014",
+		"updated": "10/02/2014"
 	},
 	{
 		"name": "WUGNI",
@@ -1580,7 +1581,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/02/2014",
+		"updated": "10/02/2014"
 	},
 	{
 		"name": "WUJFE",
@@ -1589,7 +1590,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/16/2009",
+		"updated": "06/16/2009"
 	},
 	{
 		"name": "WUKBA",
@@ -1598,7 +1599,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/27/2016",
+		"updated": "01/27/2016"
 	},
 	{
 		"name": "WULEB",
@@ -1607,7 +1608,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/25/2015",
+		"updated": "03/25/2015"
 	},
 	{
 		"name": "WULET",
@@ -1616,7 +1617,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/14/2012",
+		"updated": "05/14/2012"
 	},
 	{
 		"name": "WULGA",
@@ -1625,7 +1626,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/01/2015",
+		"updated": "12/01/2015"
 	},
 	{
 		"name": "WULUG",
@@ -1634,7 +1635,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/19/2012",
+		"updated": "06/19/2012"
 	},
 	{
 		"name": "WUMOG",
@@ -1643,7 +1644,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/22/2013",
+		"updated": "01/22/2013"
 	},
 	{
 		"name": "WUMSO",
@@ -1652,7 +1653,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "SYR*VORTAC*010.31",
+		"updated": "SYR*VORTAC*010.31"
 	},
 	{
 		"name": "WUMUB",
@@ -1661,7 +1662,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/22/2008",
+		"updated": "12/22/2008"
 	},
 	{
 		"name": "WUMUP",
@@ -1670,7 +1671,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/28/2017",
+		"updated": "08/28/2017"
 	},
 	{
 		"name": "WUNKU",
@@ -1679,7 +1680,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/06/2009",
+		"updated": "11/06/2009"
 	},
 	{
 		"name": "WUPKO",
@@ -1688,7 +1689,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/12/2011",
+		"updated": "04/12/2011"
 	},
 	{
 		"name": "WUPUP",
@@ -1697,7 +1698,7 @@
 		"state": "",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/03/2016",
+		"updated": "05/03/2016"
 	},
 	{
 		"name": "WUPVA",
@@ -1706,7 +1707,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/06/2009",
+		"updated": "11/06/2009"
 	},
 	{
 		"name": "WURIP",
@@ -1715,7 +1716,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/05/2004",
+		"updated": "10/05/2004"
 	},
 	{
 		"name": "WURIV",
@@ -1724,7 +1725,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/19/2011",
+		"updated": "05/19/2011"
 	},
 	{
 		"name": "WURLA",
@@ -1733,7 +1734,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "WUROS",
@@ -1742,7 +1743,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/17/2012",
+		"updated": "05/17/2012"
 	},
 	{
 		"name": "WURTS",
@@ -1751,7 +1752,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "GGT*VORTAC*046.90",
+		"updated": "GGT*VORTAC*046.90"
 	},
 	{
 		"name": "WUSEK",
@@ -1760,7 +1761,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/18/2010",
+		"updated": "10/18/2010"
 	},
 	{
 		"name": "WUSTI",
@@ -1769,7 +1770,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/10/2015",
+		"updated": "03/10/2015"
 	},
 	{
 		"name": "WUSUP",
@@ -1778,7 +1779,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/18/2013",
+		"updated": "01/18/2013"
 	},
 	{
 		"name": "WUTEG",
@@ -1787,7 +1788,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/23/2014",
+		"updated": "10/23/2014"
 	},
 	{
 		"name": "WUTIT",
@@ -1796,7 +1797,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/09/2010",
+		"updated": "02/09/2010"
 	},
 	{
 		"name": "WUTPI",
@@ -1805,7 +1806,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/10/2015",
+		"updated": "03/10/2015"
 	},
 	{
 		"name": "WUVES",
@@ -1814,7 +1815,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/14/2012",
+		"updated": "09/14/2012"
 	},
 	{
 		"name": "WYANE",
@@ -1823,7 +1824,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "LWM*VOR/DME*164.07",
+		"updated": "LWM*VOR/DME*164.07"
 	},
 	{
 		"name": "WYLIE",
@@ -1832,7 +1833,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BML*VOR/DME*178.00",
+		"updated": "BML*VOR/DME*178.00"
 	},
 	{
 		"name": "WYLOR",
@@ -1841,7 +1842,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MHT*VOR/DME*257.80/6.70",
+		"updated": "MHT*VOR/DME*257.80/6.70"
 	},
 	{
 		"name": "WYLYY",
@@ -1850,7 +1851,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/04/2001",
+		"updated": "09/04/2001"
 	},
 	{
 		"name": "WYMTH",
@@ -1859,5 +1860,6 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/15/2013",
-	},
+		"updated": "01/15/2013"
+	}
+]

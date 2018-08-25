@@ -1,3 +1,4 @@
+[
 	{
 		"name": "RAAKK",
 		"latitude": "42-23-59 N",
@@ -5,7 +6,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "RACHL",
@@ -14,7 +15,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "09/21/2007",
+		"updated": "09/21/2007"
 	},
 	{
 		"name": "RACOO",
@@ -23,7 +24,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MMJ*DME*/9.05",
+		"updated": "MMJ*DME*/9.05"
 	},
 	{
 		"name": "RADPE",
@@ -32,7 +33,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "RAMIQ",
@@ -41,7 +42,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/08/2017",
+		"updated": "08/08/2017"
 	},
 	{
 		"name": "RAMMY",
@@ -50,7 +51,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "FNT*VORTAC*192.00/5.00",
+		"updated": "FNT*VORTAC*192.00/5.00"
 	},
 	{
 		"name": "RANDE",
@@ -59,7 +60,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "EKN*VORTAC*324.84",
+		"updated": "EKN*VORTAC*324.84"
 	},
 	{
 		"name": "RANDL",
@@ -68,7 +69,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "LFD*VOR/DME*130.54/30.89",
+		"updated": "LFD*VOR/DME*130.54/30.89"
 	},
 	{
 		"name": "RAWLS",
@@ -77,7 +78,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DJB*VOR/DME*/5.81",
+		"updated": "DJB*VOR/DME*/5.81"
 	},
 	{
 		"name": "RAYOL",
@@ -86,7 +87,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/21/2016",
+		"updated": "04/21/2016"
 	},
 	{
 		"name": "RAZES",
@@ -95,7 +96,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/21/2017",
+		"updated": "02/21/2017"
 	},
 	{
 		"name": "RAZIM",
@@ -104,7 +105,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DXO*VOR/DME*238.56/24.00",
+		"updated": "DXO*VOR/DME*238.56/24.00"
 	},
 	{
 		"name": "RCADE",
@@ -113,7 +114,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "YQG*VOR/DME*030.00/28.31",
+		"updated": "YQG*VOR/DME*030.00/28.31"
 	},
 	{
 		"name": "READS",
@@ -122,7 +123,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MFD*VORTAC*100.89/20.70",
+		"updated": "MFD*VORTAC*100.89/20.70"
 	},
 	{
 		"name": "REBUT",
@@ -131,7 +132,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "FBC*VORTAC*073.39/21.00",
+		"updated": "FBC*VORTAC*073.39/21.00"
 	},
 	{
 		"name": "RECEY",
@@ -140,7 +141,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "THS*VORTAC*296.37/17.00",
+		"updated": "THS*VORTAC*296.37/17.00"
 	},
 	{
 		"name": "REELS",
@@ -149,7 +150,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "FBC*VORTAC*072.99/33.23",
+		"updated": "FBC*VORTAC*072.99/33.23"
 	},
 	{
 		"name": "REESE",
@@ -158,7 +159,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "FNT*VORTAC*006.50",
+		"updated": "FNT*VORTAC*006.50"
 	},
 	{
 		"name": "REFZU",
@@ -167,7 +168,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "YNG*VORTAC*276.87/10.00",
+		"updated": "YNG*VORTAC*276.87/10.00"
 	},
 	{
 		"name": "REGGA",
@@ -176,7 +177,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/02/2012",
+		"updated": "08/02/2012"
 	},
 	{
 		"name": "REGGE",
@@ -185,7 +186,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "HJT*LD*215.68/9.04",
+		"updated": "HJT*LD*215.68/9.04"
 	},
 	{
 		"name": "REGSE",
@@ -194,7 +195,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/20/2012",
+		"updated": "04/20/2012"
 	},
 	{
 		"name": "REICH",
@@ -203,7 +204,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "YNG*VORTAC*/29.91",
+		"updated": "YNG*VORTAC*/29.91"
 	},
 	{
 		"name": "REJWI",
@@ -212,7 +213,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "REKBE",
@@ -221,7 +222,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/02/2014",
+		"updated": "10/02/2014"
 	},
 	{
 		"name": "REMLE",
@@ -230,7 +231,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/22/2015",
+		"updated": "10/22/2015"
 	},
 	{
 		"name": "RENPE",
@@ -239,7 +240,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "12/22/2006",
+		"updated": "12/22/2006"
 	},
 	{
 		"name": "REPIJ",
@@ -248,7 +249,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "REPTE",
@@ -257,7 +258,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/24/2012",
+		"updated": "07/24/2012"
 	},
 	{
 		"name": "RETKY",
@@ -266,7 +267,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "RETOR",
@@ -275,7 +276,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "LAN*VORTAC*246.99/14.23",
+		"updated": "LAN*VORTAC*246.99/14.23"
 	},
 	{
 		"name": "REXXY",
@@ -284,7 +285,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "RHIME",
@@ -293,7 +294,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/27/2018",
+		"updated": "03/27/2018"
 	},
 	{
 		"name": "RHNDA",
@@ -302,7 +303,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/06/2018",
+		"updated": "03/06/2018"
 	},
 	{
 		"name": "RIBME",
@@ -311,7 +312,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "HUU*LD*215.71/7.10",
+		"updated": "HUU*LD*215.71/7.10"
 	},
 	{
 		"name": "RICKO",
@@ -320,7 +321,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "RICON",
@@ -329,7 +330,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "AEF*LE*SW CRS/5.69",
+		"updated": "AEF*LE*SW CRS/5.69"
 	},
 	{
 		"name": "RICPO",
@@ -338,7 +339,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DXO*VOR/DME*094.70/30.00",
+		"updated": "DXO*VOR/DME*094.70/30.00"
 	},
 	{
 		"name": "RIEKE",
@@ -347,7 +348,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DJB*VOR/DME*310.83/17.00",
+		"updated": "DJB*VOR/DME*310.83/17.00"
 	},
 	{
 		"name": "RIGSE",
@@ -356,7 +357,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/13/2012",
+		"updated": "03/13/2012"
 	},
 	{
 		"name": "RIKKE",
@@ -365,7 +366,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DXO*VOR/DME*069.83/31.00",
+		"updated": "DXO*VOR/DME*069.83/31.00"
 	},
 	{
 		"name": "RIPEE",
@@ -374,7 +375,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/15/2008",
+		"updated": "04/15/2008"
 	},
 	{
 		"name": "RIPPY",
@@ -383,7 +384,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/28/2018",
+		"updated": "03/28/2018"
 	},
 	{
 		"name": "RISEE",
@@ -392,7 +393,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "MOP*VOR/DME*178.38/16.00",
+		"updated": "MOP*VOR/DME*178.38/16.00"
 	},
 	{
 		"name": "RITCH",
@@ -401,7 +402,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "ELZ*VORTAC*054.46/46.67",
+		"updated": "ELZ*VORTAC*054.46/46.67"
 	},
 	{
 		"name": "RITEE",
@@ -410,7 +411,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/01/2012",
+		"updated": "06/01/2012"
 	},
 	{
 		"name": "RITON",
@@ -419,7 +420,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "RITRO",
@@ -428,7 +429,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "FBC*VORTAC*104.00/15.00",
+		"updated": "FBC*VORTAC*104.00/15.00"
 	},
 	{
 		"name": "RITZS",
@@ -437,7 +438,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "BSV*VOR/DME*322.41/21.23",
+		"updated": "BSV*VOR/DME*322.41/21.23"
 	},
 	{
 		"name": "RIVIT",
@@ -446,7 +447,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/07/2013",
+		"updated": "03/07/2013"
 	},
 	{
 		"name": "RIVRZ",
@@ -455,7 +456,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/28/2009",
+		"updated": "10/28/2009"
 	},
 	{
 		"name": "RIYOG",
@@ -464,7 +465,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "LFD*VOR/DME*328.18/13.95",
+		"updated": "LFD*VOR/DME*328.18/13.95"
 	},
 	{
 		"name": "RIYOS",
@@ -473,7 +474,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/21/2009",
+		"updated": "01/21/2009"
 	},
 	{
 		"name": "RIZXU",
@@ -482,7 +483,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/07/2013",
+		"updated": "08/07/2013"
 	},
 	{
 		"name": "RMONZ",
@@ -491,7 +492,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "CLE*LD*237.94/11.68",
+		"updated": "CLE*LD*237.94/11.68"
 	},
 	{
 		"name": "RNDLL",
@@ -500,7 +501,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "ROBBI",
@@ -509,7 +510,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "EJR*LD*035.71/15.37",
+		"updated": "EJR*LD*035.71/15.37"
 	},
 	{
 		"name": "ROBPO",
@@ -518,7 +519,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/23/2012",
+		"updated": "08/23/2012"
 	},
 	{
 		"name": "ROCIN",
@@ -527,7 +528,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/02/2015",
+		"updated": "03/02/2015"
 	},
 	{
 		"name": "ROHNN",
@@ -536,7 +537,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/06/2018",
+		"updated": "02/06/2018"
 	},
 	{
 		"name": "ROKKZ",
@@ -545,7 +546,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/19/2018",
+		"updated": "04/19/2018"
 	},
 	{
 		"name": "ROKNN",
@@ -554,7 +555,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "ROLLN",
@@ -563,7 +564,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "ROLRR",
@@ -572,7 +573,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/04/2016",
+		"updated": "10/04/2016"
 	},
 	{
 		"name": "ROLSE",
@@ -581,7 +582,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/01/2012",
+		"updated": "06/01/2012"
 	},
 	{
 		"name": "RONAE",
@@ -590,7 +591,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2010",
+		"updated": "03/29/2010"
 	},
 	{
 		"name": "ROOAD",
@@ -599,7 +600,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "ROOKS",
@@ -608,7 +609,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "CRL*VOR/DME*079.96/8.00",
+		"updated": "CRL*VOR/DME*079.96/8.00"
 	},
 	{
 		"name": "ROOSA",
@@ -617,7 +618,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/28/2009",
+		"updated": "10/28/2009"
 	},
 	{
 		"name": "ROPPE",
@@ -626,7 +627,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/12/2010",
+		"updated": "05/12/2010"
 	},
 	{
 		"name": "ROSLE",
@@ -635,7 +636,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "ROTER",
@@ -644,7 +645,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DQN*VOR/DME*359.83/69.92",
+		"updated": "DQN*VOR/DME*359.83/69.92"
 	},
 	{
 		"name": "ROUGE",
@@ -653,7 +654,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DWC*LD*035.71/7.47",
+		"updated": "DWC*LD*035.71/7.47"
 	},
 	{
 		"name": "ROUST",
@@ -662,7 +663,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/05/2016",
+		"updated": "05/05/2016"
 	},
 	{
 		"name": "ROYYS",
@@ -671,7 +672,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "ROYYY",
@@ -680,7 +681,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "ROZWL",
@@ -689,7 +690,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/31/2014",
+		"updated": "07/31/2014"
 	},
 	{
 		"name": "RPTER",
@@ -698,7 +699,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/31/2017",
+		"updated": "07/31/2017"
 	},
 	{
 		"name": "RRALF",
@@ -707,7 +708,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/28/2018",
+		"updated": "03/28/2018"
 	},
 	{
 		"name": "RRONS",
@@ -716,7 +717,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "RROZE",
@@ -725,7 +726,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/17/2018",
+		"updated": "04/17/2018"
 	},
 	{
 		"name": "RUBIC",
@@ -734,7 +735,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/26/2010",
+		"updated": "04/26/2010"
 	},
 	{
 		"name": "RUBOW",
@@ -743,7 +744,7 @@
 		"state": "WEST VIRGINIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/21/2003",
+		"updated": "05/21/2003"
 	},
 	{
 		"name": "RUBYY",
@@ -752,7 +753,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/27/2013",
+		"updated": "08/27/2013"
 	},
 	{
 		"name": "RUCOB",
@@ -761,7 +762,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "ALA*LD*218.21/14.34",
+		"updated": "ALA*LD*218.21/14.34"
 	},
 	{
 		"name": "RUDDE",
@@ -770,7 +771,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/16/2017",
+		"updated": "03/16/2017"
 	},
 	{
 		"name": "RUDDS",
@@ -779,7 +780,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/05/2016",
+		"updated": "05/05/2016"
 	},
 	{
 		"name": "RUGKI",
@@ -788,7 +789,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "RUHSH",
@@ -797,7 +798,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "CLE*LD*237.94/17.86",
+		"updated": "CLE*LD*237.94/17.86"
 	},
 	{
 		"name": "RUJVU",
@@ -806,7 +807,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/04/2008",
+		"updated": "06/04/2008"
 	},
 	{
 		"name": "RUKLE",
@@ -815,7 +816,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "01/18/2018",
+		"updated": "01/18/2018"
 	},
 	{
 		"name": "RULAE",
@@ -824,7 +825,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "07/20/2012",
+		"updated": "07/20/2012"
 	},
 	{
 		"name": "RUMBE",
@@ -833,7 +834,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/09/2002",
+		"updated": "04/09/2002"
 	},
 	{
 		"name": "RUPKE",
@@ -842,7 +843,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "06/01/2012",
+		"updated": "06/01/2012"
 	},
 	{
 		"name": "RURLE",
@@ -851,7 +852,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/02/2015",
+		"updated": "03/02/2015"
 	},
 	{
 		"name": "RUVRE",
@@ -860,7 +861,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/11/2011",
+		"updated": "03/11/2011"
 	},
 	{
 		"name": "RUZZL",
@@ -869,7 +870,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "DXO*VOR/DME*238.57/33.22",
+		"updated": "DXO*VOR/DME*238.57/33.22"
 	},
 	{
 		"name": "RVENA",
@@ -878,7 +879,7 @@
 		"state": "OHIO",
 		"artcc": "ZOB",
 		"type": "MR",
-		"updated": "YNG*VORTAC*248.00/16.00",
+		"updated": "YNG*VORTAC*248.00/16.00"
 	},
 	{
 		"name": "RYCHL",
@@ -887,7 +888,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2010",
+		"updated": "03/29/2010"
 	},
 	{
 		"name": "RYEDR",
@@ -896,5 +897,6 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "04/17/2018",
-	},
+		"updated": "04/17/2018"
+	}
+]

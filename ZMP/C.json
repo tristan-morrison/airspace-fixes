@@ -1,3 +1,4 @@
+[
 	{
 		"name": "CABKA",
 		"latitude": "46-22-48.04 N",
@@ -5,7 +6,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/31/2005",
+		"updated": "10/31/2005"
 	},
 	{
 		"name": "CABKU",
@@ -14,7 +15,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PIR*VORTAC*242.22/14.00",
+		"updated": "PIR*VORTAC*242.22/14.00"
 	},
 	{
 		"name": "CABOX",
@@ -23,7 +24,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/29/2016",
+		"updated": "11/29/2016"
 	},
 	{
 		"name": "CABTU",
@@ -32,7 +33,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/24/2011",
+		"updated": "05/24/2011"
 	},
 	{
 		"name": "CABUD",
@@ -41,7 +42,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/07/2008",
+		"updated": "04/07/2008"
 	},
 	{
 		"name": "CABUR",
@@ -50,7 +51,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/24/2011",
+		"updated": "05/24/2011"
 	},
 	{
 		"name": "CACNO",
@@ -59,7 +60,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "01/24/1996",
+		"updated": "01/24/1996"
 	},
 	{
 		"name": "CADAD",
@@ -68,7 +69,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/09/2009",
+		"updated": "03/09/2009"
 	},
 	{
 		"name": "CADAK",
@@ -77,7 +78,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/22/2016",
+		"updated": "02/22/2016"
 	},
 	{
 		"name": "CADAR",
@@ -86,7 +87,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BJI*LD*073.00/14.44",
+		"updated": "BJI*LD*073.00/14.44"
 	},
 	{
 		"name": "CADDI",
@@ -95,7 +96,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "RDR*TACAN*359.00/35.00",
+		"updated": "RDR*TACAN*359.00/35.00"
 	},
 	{
 		"name": "CADGI",
@@ -104,7 +105,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/15/2008",
+		"updated": "12/15/2008"
 	},
 	{
 		"name": "CADJU",
@@ -113,7 +114,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/04/2016",
+		"updated": "02/04/2016"
 	},
 	{
 		"name": "CADLO",
@@ -122,7 +123,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/22/2016",
+		"updated": "02/22/2016"
 	},
 	{
 		"name": "CAFDE",
@@ -131,7 +132,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/20/2017",
+		"updated": "09/20/2017"
 	},
 	{
 		"name": "CAGAL",
@@ -140,7 +141,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/21/2004",
+		"updated": "09/21/2004"
 	},
 	{
 		"name": "CAGNA",
@@ -149,7 +150,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/23/2012",
+		"updated": "05/23/2012"
 	},
 	{
 		"name": "CAGNI",
@@ -158,7 +159,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "JMS*VOR/DME*309.58/5.76",
+		"updated": "JMS*VOR/DME*309.58/5.76"
 	},
 	{
 		"name": "CAGNO",
@@ -167,7 +168,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/24/2016",
+		"updated": "02/24/2016"
 	},
 	{
 		"name": "CAGOB",
@@ -176,7 +177,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/29/2015",
+		"updated": "06/29/2015"
 	},
 	{
 		"name": "CAGOD",
@@ -185,7 +186,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/28/2009",
+		"updated": "09/28/2009"
 	},
 	{
 		"name": "CAGOS",
@@ -194,7 +195,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/24/2004",
+		"updated": "08/24/2004"
 	},
 	{
 		"name": "CAGTA",
@@ -203,7 +204,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/30/2016",
+		"updated": "09/30/2016"
 	},
 	{
 		"name": "CAGUR",
@@ -212,7 +213,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "YKN*VOR/DME*/5.78",
+		"updated": "YKN*VOR/DME*/5.78"
 	},
 	{
 		"name": "CAGUX",
@@ -221,7 +222,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "HON*VORTAC*046.68/17.00",
+		"updated": "HON*VORTAC*046.68/17.00"
 	},
 	{
 		"name": "CAKAY",
@@ -230,7 +231,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/07/2008",
+		"updated": "07/07/2008"
 	},
 	{
 		"name": "CAKDU",
@@ -239,7 +240,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/30/2016",
+		"updated": "09/30/2016"
 	},
 	{
 		"name": "CAKEV",
@@ -248,7 +249,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/03/2008",
+		"updated": "07/03/2008"
 	},
 	{
 		"name": "CAKFI",
@@ -257,7 +258,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/17/2007",
+		"updated": "07/17/2007"
 	},
 	{
 		"name": "CAKIV",
@@ -266,7 +267,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/18/2002",
+		"updated": "01/18/2002"
 	},
 	{
 		"name": "CAKRU",
@@ -275,7 +276,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/14/2009",
+		"updated": "09/14/2009"
 	},
 	{
 		"name": "CAKTA",
@@ -284,7 +285,7 @@
 		"state": "",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/13/2011",
+		"updated": "06/13/2011"
 	},
 	{
 		"name": "CAKUD",
@@ -293,7 +294,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/13/2017",
+		"updated": "04/13/2017"
 	},
 	{
 		"name": "CAKUK",
@@ -302,7 +303,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/18/2015",
+		"updated": "08/18/2015"
 	},
 	{
 		"name": "CALAG",
@@ -311,7 +312,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ATY*VORTAC*288.21/25.00",
+		"updated": "ATY*VORTAC*288.21/25.00"
 	},
 	{
 		"name": "CALIX",
@@ -320,7 +321,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "APN*VORTAC*270.00/25.00",
+		"updated": "APN*VORTAC*270.00/25.00"
 	},
 	{
 		"name": "CALLN",
@@ -329,7 +330,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SCB*VOR/DME*147.17/6.06",
+		"updated": "SCB*VOR/DME*147.17/6.06"
 	},
 	{
 		"name": "CALMS",
@@ -338,7 +339,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RST*VOR/DME*051.48",
+		"updated": "RST*VOR/DME*051.48"
 	},
 	{
 		"name": "CALOG",
@@ -347,7 +348,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DPR*VOR/DME*070.65/39.00",
+		"updated": "DPR*VOR/DME*070.65/39.00"
 	},
 	{
 		"name": "CALOT",
@@ -356,7 +357,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/20/2007",
+		"updated": "07/20/2007"
 	},
 	{
 		"name": "CALPI",
@@ -365,7 +366,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/23/2008",
+		"updated": "10/23/2008"
 	},
 	{
 		"name": "CALUL",
@@ -374,7 +375,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/30/2016",
+		"updated": "09/30/2016"
 	},
 	{
 		"name": "CALUM",
@@ -383,7 +384,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/12/2013",
+		"updated": "06/12/2013"
 	},
 	{
 		"name": "CALUR",
@@ -392,7 +393,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/13/2001",
+		"updated": "12/13/2001"
 	},
 	{
 		"name": "CALYN",
@@ -401,7 +402,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "EGQ*NDB*319.33",
+		"updated": "EGQ*NDB*319.33"
 	},
 	{
 		"name": "CAMAG",
@@ -410,7 +411,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/22/2016",
+		"updated": "11/22/2016"
 	},
 	{
 		"name": "CAMEM",
@@ -419,7 +420,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/16/2017",
+		"updated": "10/16/2017"
 	},
 	{
 		"name": "CAMOD",
@@ -428,7 +429,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "CAMOG",
@@ -437,7 +438,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/25/2007",
+		"updated": "06/25/2007"
 	},
 	{
 		"name": "CAMPG",
@@ -446,7 +447,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DVL*VOR/DME*209.81/4.00",
+		"updated": "DVL*VOR/DME*209.81/4.00"
 	},
 	{
 		"name": "CAMPY",
@@ -455,7 +456,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MTW*VOR/DME*/12.30",
+		"updated": "MTW*VOR/DME*/12.30"
 	},
 	{
 		"name": "CANAK",
@@ -464,7 +465,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/16/2014",
+		"updated": "10/16/2014"
 	},
 	{
 		"name": "CANDD",
@@ -473,7 +474,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/09/2016",
+		"updated": "11/09/2016"
 	},
 	{
 		"name": "CANEB",
@@ -482,7 +483,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RST*VOR/DME*025.14/6.30",
+		"updated": "RST*VOR/DME*025.14/6.30"
 	},
 	{
 		"name": "CANIO",
@@ -491,7 +492,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*331.73/30.67",
+		"updated": "OVR*VORTAC*331.73/30.67"
 	},
 	{
 		"name": "CANLI",
@@ -500,7 +501,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "RDR*TACAN*/6.01",
+		"updated": "RDR*TACAN*/6.01"
 	},
 	{
 		"name": "CAPLO",
@@ -509,7 +510,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/14/2009",
+		"updated": "04/14/2009"
 	},
 	{
 		"name": "CARAX",
@@ -518,7 +519,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2008",
+		"updated": "05/30/2008"
 	},
 	{
 		"name": "CAREV",
@@ -527,7 +528,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "CAREW",
@@ -536,7 +537,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DVL*VOR/DME*269.11/25.00",
+		"updated": "DVL*VOR/DME*269.11/25.00"
 	},
 	{
 		"name": "CARGA",
@@ -545,7 +546,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MOP*VOR/DME*355.70",
+		"updated": "MOP*VOR/DME*355.70"
 	},
 	{
 		"name": "CARIT",
@@ -554,7 +555,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RWF*VOR/DME*263.43/46.19",
+		"updated": "RWF*VOR/DME*263.43/46.19"
 	},
 	{
 		"name": "CARSY",
@@ -563,7 +564,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OFK*VOR/DME*/6.35",
+		"updated": "OFK*VOR/DME*/6.35"
 	},
 	{
 		"name": "CARUV",
@@ -572,7 +573,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BDE*VOR/DME*275.00",
+		"updated": "BDE*VOR/DME*275.00"
 	},
 	{
 		"name": "CASDI",
@@ -581,7 +582,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/29/2014",
+		"updated": "09/29/2014"
 	},
 	{
 		"name": "CASMU",
@@ -590,7 +591,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "CASNS",
@@ -599,7 +600,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/11/2005",
+		"updated": "07/11/2005"
 	},
 	{
 		"name": "CASVU",
@@ -608,7 +609,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FSD*VORTAC*146.46/20.00",
+		"updated": "FSD*VORTAC*146.46/20.00"
 	},
 	{
 		"name": "CATAP",
@@ -617,7 +618,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/01/2011",
+		"updated": "03/01/2011"
 	},
 	{
 		"name": "CATID",
@@ -626,7 +627,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FSD*VORTAC*109.84/29.78",
+		"updated": "FSD*VORTAC*109.84/29.78"
 	},
 	{
 		"name": "CATPI",
@@ -635,7 +636,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "CATSA",
@@ -644,7 +645,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/26/2014",
+		"updated": "09/26/2014"
 	},
 	{
 		"name": "CATUX",
@@ -653,7 +654,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/07/2008",
+		"updated": "04/07/2008"
 	},
 	{
 		"name": "CATVA",
@@ -662,7 +663,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/01/2010",
+		"updated": "06/01/2010"
 	},
 	{
 		"name": "CAVIP",
@@ -671,7 +672,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/10/2014",
+		"updated": "09/10/2014"
 	},
 	{
 		"name": "CAVKA",
@@ -680,7 +681,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/26/2012",
+		"updated": "06/26/2012"
 	},
 	{
 		"name": "CAVOR",
@@ -689,7 +690,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "HON*LD*SE CRS/4.97",
+		"updated": "HON*LD*SE CRS/4.97"
 	},
 	{
 		"name": "CAVPI",
@@ -698,7 +699,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/05/2018",
+		"updated": "02/05/2018"
 	},
 	{
 		"name": "CAVSU",
@@ -707,7 +708,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/22/2006",
+		"updated": "03/22/2006"
 	},
 	{
 		"name": "CAVUX",
@@ -716,7 +717,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "EAU*LD*043.98/3.29",
+		"updated": "EAU*LD*043.98/3.29"
 	},
 	{
 		"name": "CAWVI",
@@ -725,7 +726,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "12/21/1995",
+		"updated": "12/21/1995"
 	},
 	{
 		"name": "CAXOL",
@@ -734,7 +735,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "JMS*VOR/DME*259.57/13.00",
+		"updated": "JMS*VOR/DME*259.57/13.00"
 	},
 	{
 		"name": "CAXOT",
@@ -743,7 +744,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/02/2008",
+		"updated": "01/02/2008"
 	},
 	{
 		"name": "CAYAN",
@@ -752,7 +753,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RHI*VOR/DME*076.57/18.01",
+		"updated": "RHI*VOR/DME*076.57/18.01"
 	},
 	{
 		"name": "CCJAY",
@@ -761,7 +762,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PJL*LD*301.33/20.33",
+		"updated": "PJL*LD*301.33/20.33"
 	},
 	{
 		"name": "CCREL",
@@ -770,7 +771,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/04/2013",
+		"updated": "11/04/2013"
 	},
 	{
 		"name": "CDSCC",
@@ -779,7 +780,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/03/2002",
+		"updated": "06/03/2002"
 	},
 	{
 		"name": "CEBOS",
@@ -788,7 +789,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/10/2015",
+		"updated": "03/10/2015"
 	},
 	{
 		"name": "CEBOT",
@@ -797,7 +798,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/10/2015",
+		"updated": "03/10/2015"
 	},
 	{
 		"name": "CECIL",
@@ -806,7 +807,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MNM*VOR/DME*240.00",
+		"updated": "MNM*VOR/DME*240.00"
 	},
 	{
 		"name": "CECYA",
@@ -815,7 +816,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/29/2013",
+		"updated": "04/29/2013"
 	},
 	{
 		"name": "CEDAG",
@@ -824,7 +825,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/01/2013",
+		"updated": "07/01/2013"
 	},
 	{
 		"name": "CEDIP",
@@ -833,7 +834,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DSM*VORTAC*321.44",
+		"updated": "DSM*VORTAC*321.44"
 	},
 	{
 		"name": "CEDIR",
@@ -842,7 +843,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "CEDOS",
@@ -851,7 +852,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/05/2007",
+		"updated": "12/05/2007"
 	},
 	{
 		"name": "CEDPA",
@@ -860,7 +861,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/29/2010",
+		"updated": "03/29/2010"
 	},
 	{
 		"name": "CEGIT",
@@ -869,7 +870,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/07/2008",
+		"updated": "07/07/2008"
 	},
 	{
 		"name": "CEGLA",
@@ -878,7 +879,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/11/2003",
+		"updated": "03/11/2003"
 	},
 	{
 		"name": "CEGOP",
@@ -887,7 +888,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/08/2008",
+		"updated": "05/08/2008"
 	},
 	{
 		"name": "CEGSI",
@@ -896,7 +897,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MBL*VOR/DME*077.47",
+		"updated": "MBL*VOR/DME*077.47"
 	},
 	{
 		"name": "CEGTU",
@@ -905,7 +906,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/05/2011",
+		"updated": "08/05/2011"
 	},
 	{
 		"name": "CEGUL",
@@ -914,7 +915,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MML*VOR/DME*310.00/3.00",
+		"updated": "MML*VOR/DME*310.00/3.00"
 	},
 	{
 		"name": "CEGUY",
@@ -923,7 +924,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/24/2008",
+		"updated": "04/24/2008"
 	},
 	{
 		"name": "CEKAC",
@@ -932,7 +933,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/21/2004",
+		"updated": "09/21/2004"
 	},
 	{
 		"name": "CEKDA",
@@ -941,7 +942,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DLH*VORTAC*115.52/45.00",
+		"updated": "DLH*VORTAC*115.52/45.00"
 	},
 	{
 		"name": "CEKEG",
@@ -950,7 +951,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SUX*VORTAC*037.35/10.00",
+		"updated": "SUX*VORTAC*037.35/10.00"
 	},
 	{
 		"name": "CEKLO",
@@ -959,7 +960,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/17/2008",
+		"updated": "03/17/2008"
 	},
 	{
 		"name": "CEKSA",
@@ -968,7 +969,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/20/2011",
+		"updated": "06/20/2011"
 	},
 	{
 		"name": "CEKUS",
@@ -977,7 +978,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/26/2011",
+		"updated": "04/26/2011"
 	},
 	{
 		"name": "CELIS",
@@ -986,7 +987,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PKD*VOR/DME*358.64/30.00",
+		"updated": "PKD*VOR/DME*358.64/30.00"
 	},
 	{
 		"name": "CELKU",
@@ -995,7 +996,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "CELNA",
@@ -1004,7 +1005,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/25/2009",
+		"updated": "08/25/2009"
 	},
 	{
 		"name": "CELTA",
@@ -1013,7 +1014,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/16/2009",
+		"updated": "06/16/2009"
 	},
 	{
 		"name": "CELUN",
@@ -1022,7 +1023,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/24/2008",
+		"updated": "04/24/2008"
 	},
 	{
 		"name": "CEMAT",
@@ -1031,7 +1032,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MIB*TACAN*021.01/7.00",
+		"updated": "MIB*TACAN*021.01/7.00"
 	},
 	{
 		"name": "CEMOB",
@@ -1040,7 +1041,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MBL*VOR/DME*056.51/12.00",
+		"updated": "MBL*VOR/DME*056.51/12.00"
 	},
 	{
 		"name": "CEMPU",
@@ -1049,7 +1050,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/19/2003",
+		"updated": "12/19/2003"
 	},
 	{
 		"name": "CEMSE",
@@ -1058,7 +1059,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/18/2008",
+		"updated": "03/18/2008"
 	},
 	{
 		"name": "CENEB",
@@ -1067,7 +1068,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/23/2004",
+		"updated": "09/23/2004"
 	},
 	{
 		"name": "CENLI",
@@ -1076,7 +1077,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/29/2011",
+		"updated": "03/29/2011"
 	},
 	{
 		"name": "CENOS",
@@ -1085,7 +1086,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "CENTR",
@@ -1094,7 +1095,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIS*VOR/DME*294.64/25.00",
+		"updated": "BIS*VOR/DME*294.64/25.00"
 	},
 	{
 		"name": "CEPKA",
@@ -1103,7 +1104,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/14/2013",
+		"updated": "03/14/2013"
 	},
 	{
 		"name": "CEPMU",
@@ -1112,7 +1113,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/27/2009",
+		"updated": "10/27/2009"
 	},
 	{
 		"name": "CEPOL",
@@ -1121,7 +1122,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/17/2013",
+		"updated": "12/17/2013"
 	},
 	{
 		"name": "CEPUT",
@@ -1130,7 +1131,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PPY*LD*358.21/7.03",
+		"updated": "PPY*LD*358.21/7.03"
 	},
 	{
 		"name": "CERAK",
@@ -1139,7 +1140,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/28/2012",
+		"updated": "03/28/2012"
 	},
 	{
 		"name": "CERCA",
@@ -1148,7 +1149,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/19/2007",
+		"updated": "11/19/2007"
 	},
 	{
 		"name": "CERHI",
@@ -1157,7 +1158,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/06/2009",
+		"updated": "10/06/2009"
 	},
 	{
 		"name": "CERIB",
@@ -1166,7 +1167,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/19/2009",
+		"updated": "08/19/2009"
 	},
 	{
 		"name": "CERPI",
@@ -1175,7 +1176,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/15/2008",
+		"updated": "12/15/2008"
 	},
 	{
 		"name": "CESAY",
@@ -1184,7 +1185,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/10/2003",
+		"updated": "07/10/2003"
 	},
 	{
 		"name": "CESNA",
@@ -1193,7 +1194,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/20/2014",
+		"updated": "09/20/2014"
 	},
 	{
 		"name": "CESOT",
@@ -1202,7 +1203,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "CESSI",
@@ -1211,7 +1212,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RHI*VOR/DME*330.88/20.79",
+		"updated": "RHI*VOR/DME*330.88/20.79"
 	},
 	{
 		"name": "CESYA",
@@ -1220,7 +1221,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/15/2004",
+		"updated": "11/15/2004"
 	},
 	{
 		"name": "CESZI",
@@ -1229,7 +1230,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/12/2011",
+		"updated": "09/12/2011"
 	},
 	{
 		"name": "CETBO",
@@ -1238,7 +1239,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/30/2012",
+		"updated": "11/30/2012"
 	},
 	{
 		"name": "CETOT",
@@ -1247,7 +1248,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/21/2013",
+		"updated": "03/21/2013"
 	},
 	{
 		"name": "CETRI",
@@ -1256,7 +1257,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/08/2008",
+		"updated": "05/08/2008"
 	},
 	{
 		"name": "CETUB",
@@ -1265,7 +1266,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "LMN*VOR/DME*286.60/39.00",
+		"updated": "LMN*VOR/DME*286.60/39.00"
 	},
 	{
 		"name": "CETVI",
@@ -1274,7 +1275,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/04/2015",
+		"updated": "11/04/2015"
 	},
 	{
 		"name": "CEVEP",
@@ -1283,7 +1284,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/24/2014",
+		"updated": "03/24/2014"
 	},
 	{
 		"name": "CEVER",
@@ -1292,7 +1293,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/23/2009",
+		"updated": "06/23/2009"
 	},
 	{
 		"name": "CEVLU",
@@ -1301,7 +1302,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "IWD*VORTAC*280.44/20.00",
+		"updated": "IWD*VORTAC*280.44/20.00"
 	},
 	{
 		"name": "CEVOX",
@@ -1310,7 +1311,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/03/2010",
+		"updated": "09/03/2010"
 	},
 	{
 		"name": "CEVYA",
@@ -1319,7 +1320,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/14/2010",
+		"updated": "05/14/2010"
 	},
 	{
 		"name": "CEWDA",
@@ -1328,7 +1329,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/13/2015",
+		"updated": "01/13/2015"
 	},
 	{
 		"name": "CEXOG",
@@ -1337,7 +1338,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/04/2010",
+		"updated": "04/04/2010"
 	},
 	{
 		"name": "CEXUP",
@@ -1346,7 +1347,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/19/2009",
+		"updated": "12/19/2009"
 	},
 	{
 		"name": "CEXUV",
@@ -1355,7 +1356,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/16/2010",
+		"updated": "11/16/2010"
 	},
 	{
 		"name": "CEYDA",
@@ -1364,7 +1365,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/19/2007",
+		"updated": "07/19/2007"
 	},
 	{
 		"name": "CEYMU",
@@ -1373,7 +1374,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "04/08/2002",
+		"updated": "04/08/2002"
 	},
 	{
 		"name": "CEYNA",
@@ -1382,7 +1383,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/27/2008",
+		"updated": "02/27/2008"
 	},
 	{
 		"name": "CFBJG",
@@ -1391,7 +1392,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "07/09/2015",
+		"updated": "07/09/2015"
 	},
 	{
 		"name": "CFBJM",
@@ -1400,7 +1401,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "CFBJV",
@@ -1409,7 +1410,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "CFBJW",
@@ -1418,7 +1419,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "CFBKC",
@@ -1427,7 +1428,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "11/15/2012",
+		"updated": "11/15/2012"
 	},
 	{
 		"name": "CFBKJ",
@@ -1436,7 +1437,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "03/21/2013",
+		"updated": "03/21/2013"
 	},
 	{
 		"name": "CFBKK",
@@ -1445,7 +1446,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "03/21/2013",
+		"updated": "03/21/2013"
 	},
 	{
 		"name": "CFBKL",
@@ -1454,7 +1455,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/07/2013",
+		"updated": "06/07/2013"
 	},
 	{
 		"name": "CFBQB",
@@ -1463,7 +1464,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "CFBQC",
@@ -1472,7 +1473,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "CFBQD",
@@ -1481,7 +1482,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "CFBQF",
@@ -1490,7 +1491,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "CFBQG",
@@ -1499,7 +1500,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "CFBQH",
@@ -1508,7 +1509,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "CFBQJ",
@@ -1517,7 +1518,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "CFBQK",
@@ -1526,7 +1527,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "CFBQM",
@@ -1535,7 +1536,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "CFBQN",
@@ -1544,7 +1545,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "CFBQP",
@@ -1553,7 +1554,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "CFBQQ",
@@ -1562,7 +1563,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "CFBSJ",
@@ -1571,7 +1572,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "09/19/2013",
+		"updated": "09/19/2013"
 	},
 	{
 		"name": "CFBSL",
@@ -1580,7 +1581,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "CFBTW",
@@ -1589,7 +1590,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "11/04/2013",
+		"updated": "11/04/2013"
 	},
 	{
 		"name": "CFBTX",
@@ -1598,7 +1599,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "01/22/2015",
+		"updated": "01/22/2015"
 	},
 	{
 		"name": "CFBWS",
@@ -1607,7 +1608,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "02/17/2016",
+		"updated": "02/17/2016"
 	},
 	{
 		"name": "CFBXF",
@@ -1616,7 +1617,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "CFBXM",
@@ -1625,7 +1626,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/13/2013",
+		"updated": "08/13/2013"
 	},
 	{
 		"name": "CFBXS",
@@ -1634,7 +1635,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "05/08/2014",
+		"updated": "05/08/2014"
 	},
 	{
 		"name": "CFBZM",
@@ -1643,7 +1644,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "02/04/2015",
+		"updated": "02/04/2015"
 	},
 	{
 		"name": "CFCHN",
@@ -1652,7 +1653,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "01/27/2015",
+		"updated": "01/27/2015"
 	},
 	{
 		"name": "CFCJD",
@@ -1661,7 +1662,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "02/20/2018",
+		"updated": "02/20/2018"
 	},
 	{
 		"name": "CFCJR",
@@ -1670,7 +1671,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "11/07/2017",
+		"updated": "11/07/2017"
 	},
 	{
 		"name": "CFDSX",
@@ -1679,7 +1680,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "11/07/2017",
+		"updated": "11/07/2017"
 	},
 	{
 		"name": "CFFSJ",
@@ -1688,7 +1689,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/03/2017",
+		"updated": "08/03/2017"
 	},
 	{
 		"name": "CFFWW",
@@ -1697,7 +1698,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "05/23/2016",
+		"updated": "05/23/2016"
 	},
 	{
 		"name": "CFMBB",
@@ -1706,7 +1707,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "03/24/2015",
+		"updated": "03/24/2015"
 	},
 	{
 		"name": "CFMDC",
@@ -1715,7 +1716,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "11/25/2016",
+		"updated": "11/25/2016"
 	},
 	{
 		"name": "CFMDF",
@@ -1724,7 +1725,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "11/25/2016",
+		"updated": "11/25/2016"
 	},
 	{
 		"name": "CFMDG",
@@ -1733,7 +1734,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "11/25/2016",
+		"updated": "11/25/2016"
 	},
 	{
 		"name": "CFMDH",
@@ -1742,7 +1743,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "11/25/2016",
+		"updated": "11/25/2016"
 	},
 	{
 		"name": "CFMDJ",
@@ -1751,7 +1752,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "03/24/2015",
+		"updated": "03/24/2015"
 	},
 	{
 		"name": "CFMDK",
@@ -1760,7 +1761,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "03/23/2015",
+		"updated": "03/23/2015"
 	},
 	{
 		"name": "CFMDL",
@@ -1769,7 +1770,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "03/23/2015",
+		"updated": "03/23/2015"
 	},
 	{
 		"name": "CFPGS",
@@ -1778,7 +1779,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "CFPJX",
@@ -1787,7 +1788,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "03/16/2017",
+		"updated": "03/16/2017"
 	},
 	{
 		"name": "CFPTQ",
@@ -1796,7 +1797,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "08/16/2013",
+		"updated": "08/16/2013"
 	},
 	{
 		"name": "CFTZP",
@@ -1805,7 +1806,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "04/20/2018",
+		"updated": "04/20/2018"
 	},
 	{
 		"name": "CFVBM",
@@ -1814,7 +1815,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "11/02/2015",
+		"updated": "11/02/2015"
 	},
 	{
 		"name": "CFVCT",
@@ -1823,7 +1824,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "04/19/2018",
+		"updated": "04/19/2018"
 	},
 	{
 		"name": "CFVFD",
@@ -1832,7 +1833,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "01/27/2015",
+		"updated": "01/27/2015"
 	},
 	{
 		"name": "CFVLJ",
@@ -1841,7 +1842,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "05/23/2016",
+		"updated": "05/23/2016"
 	},
 	{
 		"name": "CFVPH",
@@ -1850,7 +1851,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "11/23/2015",
+		"updated": "11/23/2015"
 	},
 	{
 		"name": "CFVPV",
@@ -1859,7 +1860,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "11/17/2016",
+		"updated": "11/17/2016"
 	},
 	{
 		"name": "CHAAD",
@@ -1868,7 +1869,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "CHACE",
@@ -1877,7 +1878,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIS*VOR/DME*028.78/41.00",
+		"updated": "BIS*VOR/DME*028.78/41.00"
 	},
 	{
 		"name": "CHAFE",
@@ -1886,7 +1887,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FAR*VOR/DME*269.81/22.47",
+		"updated": "FAR*VOR/DME*269.81/22.47"
 	},
 	{
 		"name": "CHAFY",
@@ -1895,7 +1896,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "DLH*VORTAC*180.00/25.00",
+		"updated": "DLH*VORTAC*180.00/25.00"
 	},
 	{
 		"name": "CHALS",
@@ -1904,7 +1905,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/17/2012",
+		"updated": "12/17/2012"
 	},
 	{
 		"name": "CHANS",
@@ -1913,7 +1914,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PIR*VORTAC*076.39/32.00",
+		"updated": "PIR*VORTAC*076.39/32.00"
 	},
 	{
 		"name": "CHARG",
@@ -1922,7 +1923,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/28/2013",
+		"updated": "02/28/2013"
 	},
 	{
 		"name": "CHAZU",
@@ -1931,7 +1932,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "CHEKK",
@@ -1940,7 +1941,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/27/2009",
+		"updated": "03/27/2009"
 	},
 	{
 		"name": "CHERL",
@@ -1949,7 +1950,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DLH*VORTAC*017.00/15.00",
+		"updated": "DLH*VORTAC*017.00/15.00"
 	},
 	{
 		"name": "CHERR",
@@ -1958,7 +1959,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/26/2014",
+		"updated": "09/26/2014"
 	},
 	{
 		"name": "CHETZ",
@@ -1967,7 +1968,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FCM*VOR/DME*037.13",
+		"updated": "FCM*VOR/DME*037.13"
 	},
 	{
 		"name": "CHEWY",
@@ -1976,7 +1977,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OLU*VOR/DME*/12.00",
+		"updated": "OLU*VOR/DME*/12.00"
 	},
 	{
 		"name": "CHING",
@@ -1985,7 +1986,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OSH*VORTAC*065.00",
+		"updated": "OSH*VORTAC*065.00"
 	},
 	{
 		"name": "CHRIS",
@@ -1994,7 +1995,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OLU*VOR/DME*309.20/2.70",
+		"updated": "OLU*VOR/DME*309.20/2.70"
 	},
 	{
 		"name": "CHRLZ",
@@ -2003,7 +2004,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BKX*LD*295.51/7.02",
+		"updated": "BKX*LD*295.51/7.02"
 	},
 	{
 		"name": "CHRMR",
@@ -2012,7 +2013,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/23/2015",
+		"updated": "03/23/2015"
 	},
 	{
 		"name": "CHUKK",
@@ -2021,7 +2022,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/17/2016",
+		"updated": "02/17/2016"
 	},
 	{
 		"name": "CHUKL",
@@ -2030,7 +2031,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GLR*VOR/DME*334.24",
+		"updated": "GLR*VOR/DME*334.24"
 	},
 	{
 		"name": "CHURP",
@@ -2039,7 +2040,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OSH*VORTAC*336.98/46.63",
+		"updated": "OSH*VORTAC*336.98/46.63"
 	},
 	{
 		"name": "CHUUI",
@@ -2048,7 +2049,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "CHYMP",
@@ -2057,7 +2058,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MSP*VOR/DME*251.00/7.50",
+		"updated": "MSP*VOR/DME*251.00/7.50"
 	},
 	{
 		"name": "CIBAR",
@@ -2066,7 +2067,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2008",
+		"updated": "05/30/2008"
 	},
 	{
 		"name": "CIBAY",
@@ -2075,7 +2076,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "AEL*VOR/DME*343.00/11.00",
+		"updated": "AEL*VOR/DME*343.00/11.00"
 	},
 	{
 		"name": "CIBDE",
@@ -2084,7 +2085,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/11/2009",
+		"updated": "07/11/2009"
 	},
 	{
 		"name": "CIBNA",
@@ -2093,7 +2094,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DLH*VORTAC*287.79/30.00",
+		"updated": "DLH*VORTAC*287.79/30.00"
 	},
 	{
 		"name": "CIBPA",
@@ -2102,7 +2103,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "CMX*VOR/DME*171.09/14.00",
+		"updated": "CMX*VOR/DME*171.09/14.00"
 	},
 	{
 		"name": "CIBSA",
@@ -2111,7 +2112,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/07/2009",
+		"updated": "07/07/2009"
 	},
 	{
 		"name": "CIBVI",
@@ -2120,7 +2121,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/27/2009",
+		"updated": "10/27/2009"
 	},
 	{
 		"name": "CIBVO",
@@ -2129,7 +2130,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/10/2013",
+		"updated": "06/10/2013"
 	},
 	{
 		"name": "CICAY",
@@ -2138,7 +2139,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/28/2004",
+		"updated": "12/28/2004"
 	},
 	{
 		"name": "CIDAM",
@@ -2147,7 +2148,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/17/2013",
+		"updated": "12/17/2013"
 	},
 	{
 		"name": "CIDEB",
@@ -2156,7 +2157,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/15/2010",
+		"updated": "02/15/2010"
 	},
 	{
 		"name": "CIDIM",
@@ -2165,7 +2166,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/10/2009",
+		"updated": "03/10/2009"
 	},
 	{
 		"name": "CIDRE",
@@ -2174,7 +2175,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/11/2008",
+		"updated": "02/11/2008"
 	},
 	{
 		"name": "CIDVA",
@@ -2183,7 +2184,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/04/2010",
+		"updated": "02/04/2010"
 	},
 	{
 		"name": "CIGEN",
@@ -2192,7 +2193,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/19/2006",
+		"updated": "01/19/2006"
 	},
 	{
 		"name": "CIGIM",
@@ -2201,7 +2202,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "CIGNA",
@@ -2210,7 +2211,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "RDR*TACAN*/5.84",
+		"updated": "RDR*TACAN*/5.84"
 	},
 	{
 		"name": "CIGOD",
@@ -2219,7 +2220,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/28/2004",
+		"updated": "12/28/2004"
 	},
 	{
 		"name": "CIGOL",
@@ -2228,7 +2229,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2008",
+		"updated": "05/30/2008"
 	},
 	{
 		"name": "CIJOT",
@@ -2237,7 +2238,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "INN*LD*121.35/2.27",
+		"updated": "INN*LD*121.35/2.27"
 	},
 	{
 		"name": "CIKEG",
@@ -2246,7 +2247,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "CIKOK",
@@ -2255,7 +2256,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/12/2008",
+		"updated": "02/12/2008"
 	},
 	{
 		"name": "CILSO",
@@ -2264,7 +2265,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "AEL*VOR/DME*162.00/2.10",
+		"updated": "AEL*VOR/DME*162.00/2.10"
 	},
 	{
 		"name": "CILSU",
@@ -2273,7 +2274,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/30/2012",
+		"updated": "08/30/2012"
 	},
 	{
 		"name": "CIMAK",
@@ -2282,7 +2283,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "OFF*TACAN*133.00/4.00",
+		"updated": "OFF*TACAN*133.00/4.00"
 	},
 	{
 		"name": "CINCH",
@@ -2291,7 +2292,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FFM*VOR/DME*248.16",
+		"updated": "FFM*VOR/DME*248.16"
 	},
 	{
 		"name": "CINCI",
@@ -2300,7 +2301,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*050.48/26.33",
+		"updated": "GEP*VORTAC*050.48/26.33"
 	},
 	{
 		"name": "CINEX",
@@ -2309,7 +2310,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RHI*VOR/DME*300.50/15.98",
+		"updated": "RHI*VOR/DME*300.50/15.98"
 	},
 	{
 		"name": "CINGO",
@@ -2318,7 +2319,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BDE*VOR/DME*115.83/11.00",
+		"updated": "BDE*VOR/DME*115.83/11.00"
 	},
 	{
 		"name": "CINOP",
@@ -2327,7 +2328,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "IMT*VOR/DME*299.83/35.52",
+		"updated": "IMT*VOR/DME*299.83/35.52"
 	},
 	{
 		"name": "CINUK",
@@ -2336,7 +2337,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "EVM*VOR/DME*/2.61",
+		"updated": "EVM*VOR/DME*/2.61"
 	},
 	{
 		"name": "CINUX",
@@ -2345,7 +2346,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/02/2010",
+		"updated": "02/02/2010"
 	},
 	{
 		"name": "CIPAR",
@@ -2354,7 +2355,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "CIPGO",
@@ -2363,7 +2364,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/12/2010",
+		"updated": "04/12/2010"
 	},
 	{
 		"name": "CIPMI",
@@ -2372,7 +2373,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "CMX*VOR/DME*243.05/14.00",
+		"updated": "CMX*VOR/DME*243.05/14.00"
 	},
 	{
 		"name": "CIPOS",
@@ -2381,7 +2382,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/21/2009",
+		"updated": "01/21/2009"
 	},
 	{
 		"name": "CIRAP",
@@ -2390,7 +2391,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/23/2018",
+		"updated": "01/23/2018"
 	},
 	{
 		"name": "CIREK",
@@ -2399,7 +2400,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FCM*VOR/DME*279.94/13.00",
+		"updated": "FCM*VOR/DME*279.94/13.00"
 	},
 	{
 		"name": "CIREN",
@@ -2408,7 +2409,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/15/2010",
+		"updated": "02/15/2010"
 	},
 	{
 		"name": "CIRLA",
@@ -2417,7 +2418,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "MW",
-		"updated": "LKI*TACAN*185.00/10.00",
+		"updated": "LKI*TACAN*185.00/10.00"
 	},
 	{
 		"name": "CIRLU",
@@ -2426,7 +2427,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/17/2005",
+		"updated": "05/17/2005"
 	},
 	{
 		"name": "CIRTI",
@@ -2435,7 +2436,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2009",
+		"updated": "06/28/2009"
 	},
 	{
 		"name": "CIRUS",
@@ -2444,7 +2445,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/29/2006",
+		"updated": "09/29/2006"
 	},
 	{
 		"name": "CISAC",
@@ -2453,7 +2454,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SUX*VORTAC*037.35/48.31",
+		"updated": "SUX*VORTAC*037.35/48.31"
 	},
 	{
 		"name": "CISGI",
@@ -2462,7 +2463,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/11/2010",
+		"updated": "06/11/2010"
 	},
 	{
 		"name": "CISOD",
@@ -2471,7 +2472,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "CISOS",
@@ -2480,7 +2481,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/08/2010",
+		"updated": "04/08/2010"
 	},
 	{
 		"name": "CISOT",
@@ -2489,7 +2490,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/17/2005",
+		"updated": "05/17/2005"
 	},
 	{
 		"name": "CISOX",
@@ -2498,7 +2499,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/14/2013",
+		"updated": "06/14/2013"
 	},
 	{
 		"name": "CISPI",
@@ -2507,7 +2508,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FGT*VORTAC*264.99/4.30",
+		"updated": "FGT*VORTAC*264.99/4.30"
 	},
 	{
 		"name": "CITID",
@@ -2516,7 +2517,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "CITOT",
@@ -2525,7 +2526,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "CIVCA",
@@ -2534,7 +2535,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "CIVID",
@@ -2543,7 +2544,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/02/2009",
+		"updated": "10/02/2009"
 	},
 	{
 		"name": "CIVIM",
@@ -2552,7 +2553,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/03/2011",
+		"updated": "05/03/2011"
 	},
 	{
 		"name": "CIVIV",
@@ -2561,7 +2562,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*229.61/8.53",
+		"updated": "OVR*VORTAC*229.61/8.53"
 	},
 	{
 		"name": "CIVLU",
@@ -2570,7 +2571,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "INL*VOR/DME*071.22/14.00",
+		"updated": "INL*VOR/DME*071.22/14.00"
 	},
 	{
 		"name": "CIVMI",
@@ -2579,7 +2580,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "CIVOL",
@@ -2588,7 +2589,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*351.77/38.63",
+		"updated": "GEP*VORTAC*351.77/38.63"
 	},
 	{
 		"name": "CIVTU",
@@ -2597,7 +2598,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/02/2010",
+		"updated": "02/02/2010"
 	},
 	{
 		"name": "CIVUD",
@@ -2606,7 +2607,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/24/2011",
+		"updated": "10/24/2011"
 	},
 	{
 		"name": "CIWYY",
@@ -2615,7 +2616,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/06/2009",
+		"updated": "10/06/2009"
 	},
 	{
 		"name": "CLANN",
@@ -2624,7 +2625,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/06/2011",
+		"updated": "07/06/2011"
 	},
 	{
 		"name": "CLAPS",
@@ -2633,7 +2634,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RWF*VOR/DME*339.87",
+		"updated": "RWF*VOR/DME*339.87"
 	},
 	{
 		"name": "CLIDE",
@@ -2642,7 +2643,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/13/2017",
+		"updated": "04/13/2017"
 	},
 	{
 		"name": "CLIKR",
@@ -2651,7 +2652,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "CLINS",
@@ -2660,7 +2661,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OSH*VORTAC*076.00/25.33",
+		"updated": "OSH*VORTAC*076.00/25.33"
 	},
 	{
 		"name": "CLIPH",
@@ -2669,7 +2670,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/08/2010",
+		"updated": "04/08/2010"
 	},
 	{
 		"name": "CLIVE",
@@ -2678,7 +2679,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "VGU*LD*311.34/6.77",
+		"updated": "VGU*LD*311.34/6.77"
 	},
 	{
 		"name": "CLOAK",
@@ -2687,7 +2688,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*105.00/19.00",
+		"updated": "OVR*VORTAC*105.00/19.00"
 	},
 	{
 		"name": "CLOAT",
@@ -2696,7 +2697,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "LNK*VORTAC*196.00/15.00",
+		"updated": "LNK*VORTAC*196.00/15.00"
 	},
 	{
 		"name": "CLONE",
@@ -2705,7 +2706,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "LNK*VORTAC*316.48",
+		"updated": "LNK*VORTAC*316.48"
 	},
 	{
 		"name": "CMAAC",
@@ -2714,7 +2715,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/09/2016",
+		"updated": "11/09/2016"
 	},
 	{
 		"name": "CMARO",
@@ -2723,7 +2724,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/20/2016",
+		"updated": "11/20/2016"
 	},
 	{
 		"name": "CMMOE",
@@ -2732,7 +2733,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "COBCA",
@@ -2741,7 +2742,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "COBED",
@@ -2750,7 +2751,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OLU*VOR/DME*216.64/12.00",
+		"updated": "OLU*VOR/DME*216.64/12.00"
 	},
 	{
 		"name": "COBIB",
@@ -2759,7 +2760,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/26/2012",
+		"updated": "03/26/2012"
 	},
 	{
 		"name": "COBIT",
@@ -2768,7 +2769,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*268.67",
+		"updated": "OVR*VORTAC*268.67"
 	},
 	{
 		"name": "COBOS",
@@ -2777,7 +2778,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "AEL*VOR/DME*162.00/0.48",
+		"updated": "AEL*VOR/DME*162.00/0.48"
 	},
 	{
 		"name": "COCOA",
@@ -2786,7 +2787,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/16/2018",
+		"updated": "04/16/2018"
 	},
 	{
 		"name": "CODDE",
@@ -2795,7 +2796,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "CODIL",
@@ -2804,7 +2805,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/14/2012",
+		"updated": "11/14/2012"
 	},
 	{
 		"name": "CODKI",
@@ -2813,7 +2814,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "CODTO",
@@ -2822,7 +2823,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/28/2013",
+		"updated": "05/28/2013"
 	},
 	{
 		"name": "COGAC",
@@ -2831,7 +2832,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/31/2005",
+		"updated": "05/31/2005"
 	},
 	{
 		"name": "COGIV",
@@ -2840,7 +2841,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/12/2013",
+		"updated": "06/12/2013"
 	},
 	{
 		"name": "COHGI",
@@ -2849,7 +2850,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/11/2012",
+		"updated": "09/11/2012"
 	},
 	{
 		"name": "COINS",
@@ -2858,7 +2859,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/04/2012",
+		"updated": "12/04/2012"
 	},
 	{
 		"name": "COJXO",
@@ -2867,7 +2868,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/09/2017",
+		"updated": "03/09/2017"
 	},
 	{
 		"name": "COKET",
@@ -2876,7 +2877,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/08/2008",
+		"updated": "05/08/2008"
 	},
 	{
 		"name": "COKOS",
@@ -2885,7 +2886,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/15/2004",
+		"updated": "11/15/2004"
 	},
 	{
 		"name": "COKVO",
@@ -2894,7 +2895,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/27/2017",
+		"updated": "03/27/2017"
 	},
 	{
 		"name": "COLAL",
@@ -2903,7 +2904,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/19/2002",
+		"updated": "11/19/2002"
 	},
 	{
 		"name": "COLCA",
@@ -2912,7 +2913,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/23/2005",
+		"updated": "08/23/2005"
 	},
 	{
 		"name": "COLDD",
@@ -2921,7 +2922,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "COLFX",
@@ -2930,7 +2931,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/27/2010",
+		"updated": "04/27/2010"
 	},
 	{
 		"name": "COLGO",
@@ -2939,7 +2940,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/14/2009",
+		"updated": "09/14/2009"
 	},
 	{
 		"name": "COLIB",
@@ -2948,7 +2949,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "OFF*TACAN*133.00/1.00",
+		"updated": "OFF*TACAN*133.00/1.00"
 	},
 	{
 		"name": "COLLS",
@@ -2957,7 +2958,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/08/2013",
+		"updated": "01/08/2013"
 	},
 	{
 		"name": "COLOG",
@@ -2966,7 +2967,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/08/2011",
+		"updated": "05/08/2011"
 	},
 	{
 		"name": "COLPU",
@@ -2975,7 +2976,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/03/2010",
+		"updated": "09/03/2010"
 	},
 	{
 		"name": "COLTU",
@@ -2984,7 +2985,7 @@
 		"state": "",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ROX*VOR/DME*312.37/23.49",
+		"updated": "ROX*VOR/DME*312.37/23.49"
 	},
 	{
 		"name": "COLUMBUS",
@@ -2993,7 +2994,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OLU*VOR/DME*/3.35",
+		"updated": "OLU*VOR/DME*/3.35"
 	},
 	{
 		"name": "COMDA",
@@ -3002,7 +3003,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/20/2010",
+		"updated": "05/20/2010"
 	},
 	{
 		"name": "COMIN",
@@ -3011,7 +3012,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/02/2009",
+		"updated": "03/02/2009"
 	},
 	{
 		"name": "COMOS",
@@ -3020,7 +3021,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RWF*VOR/DME*053.88/19.00",
+		"updated": "RWF*VOR/DME*053.88/19.00"
 	},
 	{
 		"name": "COMTS",
@@ -3029,7 +3030,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GRB*VORTAC*268.75/22.56",
+		"updated": "GRB*VORTAC*268.75/22.56"
 	},
 	{
 		"name": "COMUL",
@@ -3038,7 +3039,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/26/2011",
+		"updated": "04/26/2011"
 	},
 	{
 		"name": "COMVA",
@@ -3047,7 +3048,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MBL*VOR/DME*011.11/21.17",
+		"updated": "MBL*VOR/DME*011.11/21.17"
 	},
 	{
 		"name": "CONEI",
@@ -3056,7 +3057,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/24/2017",
+		"updated": "04/24/2017"
 	},
 	{
 		"name": "CONIA",
@@ -3065,7 +3066,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/16/2015",
+		"updated": "01/16/2015"
 	},
 	{
 		"name": "CONIG",
@@ -3074,7 +3075,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/19/2007",
+		"updated": "11/19/2007"
 	},
 	{
 		"name": "COOCH",
@@ -3083,7 +3084,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "LNK*VORTAC*005.00/29.00",
+		"updated": "LNK*VORTAC*005.00/29.00"
 	},
 	{
 		"name": "COOOK",
@@ -3092,7 +3093,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DIK*VORTAC*296.33/8.33",
+		"updated": "DIK*VORTAC*296.33/8.33"
 	},
 	{
 		"name": "COPDO",
@@ -3101,7 +3102,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "COPKA",
@@ -3110,7 +3111,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/08/2008",
+		"updated": "08/08/2008"
 	},
 	{
 		"name": "COPLU",
@@ -3119,7 +3120,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/21/2011",
+		"updated": "12/21/2011"
 	},
 	{
 		"name": "COPNO",
@@ -3128,7 +3129,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "COPTI",
@@ -3137,7 +3138,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/19/2009",
+		"updated": "06/19/2009"
 	},
 	{
 		"name": "COPUV",
@@ -3146,7 +3147,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/23/2007",
+		"updated": "01/23/2007"
 	},
 	{
 		"name": "COPYE",
@@ -3155,7 +3156,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SOY*NDB*127.24",
+		"updated": "SOY*NDB*127.24"
 	},
 	{
 		"name": "CORAE",
@@ -3164,7 +3165,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/07/2008",
+		"updated": "04/07/2008"
 	},
 	{
 		"name": "CORDY",
@@ -3173,7 +3174,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RST*VOR/DME*328.81/22.80",
+		"updated": "RST*VOR/DME*328.81/22.80"
 	},
 	{
 		"name": "CORNO",
@@ -3182,7 +3183,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/29/2005",
+		"updated": "06/29/2005"
 	},
 	{
 		"name": "CORWN",
@@ -3191,7 +3192,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/10/2014",
+		"updated": "07/10/2014"
 	},
 	{
 		"name": "COSBO",
@@ -3200,7 +3201,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/10/2009",
+		"updated": "03/10/2009"
 	},
 	{
 		"name": "COSED",
@@ -3209,7 +3210,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/29/2016",
+		"updated": "11/29/2016"
 	},
 	{
 		"name": "COSPU",
@@ -3218,7 +3219,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/10/2008",
+		"updated": "10/10/2008"
 	},
 	{
 		"name": "COSRU",
@@ -3227,7 +3228,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/20/2014",
+		"updated": "02/20/2014"
 	},
 	{
 		"name": "COSUT",
@@ -3236,7 +3237,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "COSVO",
@@ -3245,7 +3246,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PKD*VOR/DME*031.74",
+		"updated": "PKD*VOR/DME*031.74"
 	},
 	{
 		"name": "COTEX",
@@ -3254,7 +3255,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "04/24/2008",
+		"updated": "04/24/2008"
 	},
 	{
 		"name": "COTGO",
@@ -3263,7 +3264,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "OFF*TACAN*299.00/1.70",
+		"updated": "OFF*TACAN*299.00/1.70"
 	},
 	{
 		"name": "COTMO",
@@ -3272,7 +3273,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "IWD*VORTAC*093.26/21.92",
+		"updated": "IWD*VORTAC*093.26/21.92"
 	},
 	{
 		"name": "COTOV",
@@ -3281,7 +3282,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "COTPO",
@@ -3290,7 +3291,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "COTTG",
@@ -3299,7 +3300,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/23/2015",
+		"updated": "03/23/2015"
 	},
 	{
 		"name": "COTTU",
@@ -3308,7 +3309,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2008",
+		"updated": "05/30/2008"
 	},
 	{
 		"name": "COTUN",
@@ -3317,7 +3318,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "COULT",
@@ -3326,7 +3327,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*119.00/61.00",
+		"updated": "GEP*VORTAC*119.00/61.00"
 	},
 	{
 		"name": "COVIL",
@@ -3335,7 +3336,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2011",
+		"updated": "06/28/2011"
 	},
 	{
 		"name": "COVIV",
@@ -3344,7 +3345,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/21/2013",
+		"updated": "03/21/2013"
 	},
 	{
 		"name": "COVLA",
@@ -3353,7 +3354,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "COVPA",
@@ -3362,7 +3363,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/18/2012",
+		"updated": "05/18/2012"
 	},
 	{
 		"name": "COVUP",
@@ -3371,7 +3372,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/28/2009",
+		"updated": "12/28/2009"
 	},
 	{
 		"name": "COVUT",
@@ -3380,7 +3381,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RBA*VOR/DME*325.70",
+		"updated": "RBA*VOR/DME*325.70"
 	},
 	{
 		"name": "COWAY",
@@ -3389,7 +3390,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/19/2015",
+		"updated": "10/19/2015"
 	},
 	{
 		"name": "COXET",
@@ -3398,7 +3399,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/22/2010",
+		"updated": "03/22/2010"
 	},
 	{
 		"name": "COXUD",
@@ -3407,7 +3408,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OLU*VOR/DME*135.07/22.50",
+		"updated": "OLU*VOR/DME*135.07/22.50"
 	},
 	{
 		"name": "COYAD",
@@ -3416,7 +3417,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/02/2009",
+		"updated": "10/02/2009"
 	},
 	{
 		"name": "COZFO",
@@ -3425,7 +3426,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FRM*VOR/DME*220.65/10.00",
+		"updated": "FRM*VOR/DME*220.65/10.00"
 	},
 	{
 		"name": "COZZZ",
@@ -3434,7 +3435,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "CRAAG",
@@ -3443,7 +3444,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "CRAZE",
@@ -3452,7 +3453,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "IMT*VOR/DME*184.69",
+		"updated": "IMT*VOR/DME*184.69"
 	},
 	{
 		"name": "CREEC",
@@ -3461,7 +3462,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/19/2013",
+		"updated": "02/19/2013"
 	},
 	{
 		"name": "CROII",
@@ -3470,7 +3471,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*110.00/23.00",
+		"updated": "GEP*VORTAC*110.00/23.00"
 	},
 	{
 		"name": "CRPET",
@@ -3479,7 +3480,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "CRRZY",
@@ -3488,7 +3489,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "CRUMS",
@@ -3497,7 +3498,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "AUW*VORTAC*055.00",
+		"updated": "AUW*VORTAC*055.00"
 	},
 	{
 		"name": "CUBEX",
@@ -3506,7 +3507,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OTG*VOR/DME*233.67/32.67",
+		"updated": "OTG*VOR/DME*233.67/32.67"
 	},
 	{
 		"name": "CUBKO",
@@ -3515,7 +3516,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "TVC*VOR/DME*316.65/20.91",
+		"updated": "TVC*VOR/DME*316.65/20.91"
 	},
 	{
 		"name": "CUCAC",
@@ -3524,7 +3525,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BRD*VORTAC*304.75/21.12",
+		"updated": "BRD*VORTAC*304.75/21.12"
 	},
 	{
 		"name": "CUCAT",
@@ -3533,7 +3534,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/21/2009",
+		"updated": "01/21/2009"
 	},
 	{
 		"name": "CUCAY",
@@ -3542,7 +3543,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/29/2011",
+		"updated": "03/29/2011"
 	},
 	{
 		"name": "CUCGA",
@@ -3551,7 +3552,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "CUCPA",
@@ -3560,7 +3561,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2013",
+		"updated": "06/28/2013"
 	},
 	{
 		"name": "CUDET",
@@ -3569,7 +3570,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OTG*VOR/DME*056.02/10.85",
+		"updated": "OTG*VOR/DME*056.02/10.85"
 	},
 	{
 		"name": "CUDGA",
@@ -3578,7 +3579,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/19/2006",
+		"updated": "07/19/2006"
 	},
 	{
 		"name": "CUDRI",
@@ -3587,7 +3588,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MOT*VORTAC*257.68/13.00",
+		"updated": "MOT*VORTAC*257.68/13.00"
 	},
 	{
 		"name": "CUEBE",
@@ -3596,7 +3597,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIE*VOR*169.52",
+		"updated": "BIE*VOR*169.52"
 	},
 	{
 		"name": "CUGOD",
@@ -3605,7 +3606,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "APN*VORTAC*194.00/15.00",
+		"updated": "APN*VORTAC*194.00/15.00"
 	},
 	{
 		"name": "CUGUG",
@@ -3614,7 +3615,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/26/2012",
+		"updated": "06/26/2012"
 	},
 	{
 		"name": "CUGUX",
@@ -3623,7 +3624,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ONL*VORTAC*083.32/20.00",
+		"updated": "ONL*VORTAC*083.32/20.00"
 	},
 	{
 		"name": "CUITE",
@@ -3632,7 +3633,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SSM*VOR/DME*198.11",
+		"updated": "SSM*VOR/DME*198.11"
 	},
 	{
 		"name": "CUJZU",
@@ -3641,7 +3642,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/08/2002",
+		"updated": "04/08/2002"
 	},
 	{
 		"name": "CUKCA",
@@ -3650,7 +3651,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/26/2015",
+		"updated": "03/26/2015"
 	},
 	{
 		"name": "CUKMA",
@@ -3659,7 +3660,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/05/2008",
+		"updated": "03/05/2008"
 	},
 	{
 		"name": "CUKMO",
@@ -3668,7 +3669,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OTG*VOR/DME*/12.00",
+		"updated": "OTG*VOR/DME*/12.00"
 	},
 	{
 		"name": "CUKOB",
@@ -3677,7 +3678,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/22/2016",
+		"updated": "11/22/2016"
 	},
 	{
 		"name": "CUKUP",
@@ -3686,7 +3687,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/21/2009",
+		"updated": "01/21/2009"
 	},
 	{
 		"name": "CUKVU",
@@ -3695,7 +3696,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "CULBI",
@@ -3704,7 +3705,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/28/2015",
+		"updated": "07/28/2015"
 	},
 	{
 		"name": "CULIV",
@@ -3713,7 +3714,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/05/2016",
+		"updated": "08/05/2016"
 	},
 	{
 		"name": "CULOG",
@@ -3722,7 +3723,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "AUW*VORTAC*310.49/19.00",
+		"updated": "AUW*VORTAC*310.49/19.00"
 	},
 	{
 		"name": "CULUB",
@@ -3731,7 +3732,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/13/2012",
+		"updated": "03/13/2012"
 	},
 	{
 		"name": "CULUX",
@@ -3740,7 +3741,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "OFF*TACAN*/0.90",
+		"updated": "OFF*TACAN*/0.90"
 	},
 	{
 		"name": "CUMAM",
@@ -3749,7 +3750,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/27/2017",
+		"updated": "03/27/2017"
 	},
 	{
 		"name": "CUMEK",
@@ -3758,7 +3759,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/08/2011",
+		"updated": "02/08/2011"
 	},
 	{
 		"name": "CUMRO",
@@ -3767,7 +3768,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "CUNGI",
@@ -3776,7 +3777,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/27/2011",
+		"updated": "04/27/2011"
 	},
 	{
 		"name": "CUNKU",
@@ -3785,7 +3786,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/30/2011",
+		"updated": "12/30/2011"
 	},
 	{
 		"name": "CUNOS",
@@ -3794,7 +3795,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/24/2011",
+		"updated": "10/24/2011"
 	},
 	{
 		"name": "CUNUN",
@@ -3803,7 +3804,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/30/2011",
+		"updated": "06/30/2011"
 	},
 	{
 		"name": "CUNYE",
@@ -3812,7 +3813,7 @@
 		"state": "OHIO",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/19/2017",
+		"updated": "07/19/2017"
 	},
 	{
 		"name": "CUPLO",
@@ -3821,7 +3822,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "CUPOD",
@@ -3830,7 +3831,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/22/2003",
+		"updated": "01/22/2003"
 	},
 	{
 		"name": "CUPSA",
@@ -3839,7 +3840,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/01/2013",
+		"updated": "03/01/2013"
 	},
 	{
 		"name": "CURAN",
@@ -3848,7 +3849,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "MIB*TACAN*302.00/20.00",
+		"updated": "MIB*TACAN*302.00/20.00"
 	},
 	{
 		"name": "CURIR",
@@ -3857,7 +3858,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ONL*VORTAC*039.20/25.00",
+		"updated": "ONL*VORTAC*039.20/25.00"
 	},
 	{
 		"name": "CURLU",
@@ -3866,7 +3867,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/28/2004",
+		"updated": "12/28/2004"
 	},
 	{
 		"name": "CURNS",
@@ -3875,7 +3876,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/13/2016",
+		"updated": "04/13/2016"
 	},
 	{
 		"name": "CUROR",
@@ -3884,7 +3885,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "CUSAC",
@@ -3893,7 +3894,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*110.09",
+		"updated": "GEP*VORTAC*110.09"
 	},
 	{
 		"name": "CUSAS",
@@ -3902,7 +3903,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RHI*VOR/DME*021.29/25.00",
+		"updated": "RHI*VOR/DME*021.29/25.00"
 	},
 	{
 		"name": "CUSET",
@@ -3911,7 +3912,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/30/2011",
+		"updated": "03/30/2011"
 	},
 	{
 		"name": "CUSHO",
@@ -3920,7 +3921,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SUX*VORTAC*070.25/25.00",
+		"updated": "SUX*VORTAC*070.25/25.00"
 	},
 	{
 		"name": "CUSIR",
@@ -3929,7 +3930,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/06/2010",
+		"updated": "07/06/2010"
 	},
 	{
 		"name": "CUSKI",
@@ -3938,7 +3939,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/12/2010",
+		"updated": "04/12/2010"
 	},
 	{
 		"name": "CUSUP",
@@ -3947,7 +3948,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/07/2008",
+		"updated": "07/07/2008"
 	},
 	{
 		"name": "CUTBO",
@@ -3956,7 +3957,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/07/2006",
+		"updated": "03/07/2006"
 	},
 	{
 		"name": "CUTTL",
@@ -3965,7 +3966,7 @@
 		"state": "",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "INL*VOR/DME*025.82/20.00",
+		"updated": "INL*VOR/DME*025.82/20.00"
 	},
 	{
 		"name": "CUTUP",
@@ -3974,7 +3975,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PLN*VORTAC*082.17/3.50",
+		"updated": "PLN*VORTAC*082.17/3.50"
 	},
 	{
 		"name": "CUVEM",
@@ -3983,7 +3984,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "CUVLA",
@@ -3992,7 +3993,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SPW*VOR/DME*105.00/5.98",
+		"updated": "SPW*VOR/DME*105.00/5.98"
 	},
 	{
 		"name": "CUVPO",
@@ -4001,7 +4002,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/14/2009",
+		"updated": "10/14/2009"
 	},
 	{
 		"name": "CUXER",
@@ -4010,7 +4011,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/07/2008",
+		"updated": "02/07/2008"
 	},
 	{
 		"name": "CUXIG",
@@ -4019,7 +4020,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/13/2011",
+		"updated": "06/13/2011"
 	},
 	{
 		"name": "CUXUG",
@@ -4028,7 +4029,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/07/2013",
+		"updated": "06/07/2013"
 	},
 	{
 		"name": "CUXUR",
@@ -4037,7 +4038,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/02/2007",
+		"updated": "05/02/2007"
 	},
 	{
 		"name": "CUYAK",
@@ -4046,7 +4047,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/14/2011",
+		"updated": "07/14/2011"
 	},
 	{
 		"name": "CUYDA",
@@ -4055,7 +4056,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "CYETT",
@@ -4064,7 +4065,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/29/2015",
+		"updated": "10/29/2015"
 	},
 	{
 		"name": "CYMOL",
@@ -4073,5 +4074,6 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/01/2014",
-	},
+		"updated": "08/01/2014"
+	}
+]

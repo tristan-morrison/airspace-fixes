@@ -1,3 +1,4 @@
+[
 	{
 		"name": "TABIR",
 		"latitude": "28-25-11.44 N",
@@ -5,7 +6,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "PIE*VORTAC*330.18/35.00",
+		"updated": "PIE*VORTAC*330.18/35.00"
 	},
 	{
 		"name": "TACOT",
@@ -14,7 +15,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "DIZ*LD*005.47/17.06",
+		"updated": "DIZ*LD*005.47/17.06"
 	},
 	{
 		"name": "TACUR",
@@ -23,7 +24,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "04/05/2004",
+		"updated": "04/05/2004"
 	},
 	{
 		"name": "TADVE",
@@ -32,7 +33,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/11/2017",
+		"updated": "07/11/2017"
 	},
 	{
 		"name": "TAKKY",
@@ -41,7 +42,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OZR*VOR/DME*055.00",
+		"updated": "OZR*VOR/DME*055.00"
 	},
 	{
 		"name": "TALZA",
@@ -50,7 +51,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OCF*VORTAC*/14.00",
+		"updated": "OCF*VORTAC*/14.00"
 	},
 	{
 		"name": "TAMEE",
@@ -59,7 +60,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "CEW*VORTAC*143.33",
+		"updated": "CEW*VORTAC*143.33"
 	},
 	{
 		"name": "TASCH",
@@ -68,7 +69,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/26/2013",
+		"updated": "08/26/2013"
 	},
 	{
 		"name": "TASTY",
@@ -77,7 +78,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "05/06/2016",
+		"updated": "05/06/2016"
 	},
 	{
 		"name": "TATGE",
@@ -86,7 +87,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/12/2006",
+		"updated": "10/12/2006"
 	},
 	{
 		"name": "TATYU",
@@ -95,7 +96,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "TAWKE",
@@ -104,7 +105,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "09/15/2009",
+		"updated": "09/15/2009"
 	},
 	{
 		"name": "TAYLA",
@@ -113,7 +114,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "GNV*VORTAC*057.09/9.45",
+		"updated": "GNV*VORTAC*057.09/9.45"
 	},
 	{
 		"name": "TAZAN",
@@ -122,7 +123,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "02/27/2013",
+		"updated": "02/27/2013"
 	},
 	{
 		"name": "TBACK",
@@ -131,7 +132,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "11/20/2003",
+		"updated": "11/20/2003"
 	},
 	{
 		"name": "TBEAU",
@@ -140,7 +141,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/11/2012",
+		"updated": "08/11/2012"
 	},
 	{
 		"name": "TEASY",
@@ -149,7 +150,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "03/04/2010",
+		"updated": "03/04/2010"
 	},
 	{
 		"name": "TEBOW",
@@ -158,7 +159,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "09/17/2014",
+		"updated": "09/17/2014"
 	},
 	{
 		"name": "TEEGN",
@@ -167,7 +168,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "11/21/2010",
+		"updated": "11/21/2010"
 	},
 	{
 		"name": "TEEZY",
@@ -176,7 +177,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/06/2011",
+		"updated": "06/06/2011"
 	},
 	{
 		"name": "TEKAY",
@@ -185,7 +186,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "DWG*TACAN*180.00/25.00",
+		"updated": "DWG*TACAN*180.00/25.00"
 	},
 	{
 		"name": "TELOE",
@@ -194,7 +195,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/14/2005",
+		"updated": "07/14/2005"
 	},
 	{
 		"name": "TENNI",
@@ -203,7 +204,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "FLO*VORTAC*331.60",
+		"updated": "FLO*VORTAC*331.60"
 	},
 	{
 		"name": "TENUY",
@@ -212,7 +213,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "11/01/2013",
+		"updated": "11/01/2013"
 	},
 	{
 		"name": "TEPEE",
@@ -221,7 +222,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "PIE*VORTAC*076.77",
+		"updated": "PIE*VORTAC*076.77"
 	},
 	{
 		"name": "TEPID",
@@ -230,7 +231,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/11/2017",
+		"updated": "10/11/2017"
 	},
 	{
 		"name": "TEPTE",
@@ -239,7 +240,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/08/2010",
+		"updated": "08/08/2010"
 	},
 	{
 		"name": "TERBE",
@@ -248,7 +249,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "05/26/2009",
+		"updated": "05/26/2009"
 	},
 	{
 		"name": "TERES",
@@ -257,7 +258,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OTK*VOR/DME*229.57",
+		"updated": "OTK*VOR/DME*229.57"
 	},
 	{
 		"name": "TERLY",
@@ -266,7 +267,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "SAV*VORTAC*059.51/45.00",
+		"updated": "SAV*VORTAC*059.51/45.00"
 	},
 	{
 		"name": "TERZE",
@@ -275,7 +276,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/05/2007",
+		"updated": "07/05/2007"
 	},
 	{
 		"name": "TESNE",
@@ -284,7 +285,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "HRT*TACAN*/7.00",
+		"updated": "HRT*TACAN*/7.00"
 	},
 	{
 		"name": "TETOO",
@@ -293,7 +294,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "VAD*TACAN*310.00/35.00",
+		"updated": "VAD*TACAN*310.00/35.00"
 	},
 	{
 		"name": "TEWUN",
@@ -302,7 +303,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OTK*VOR/DME*270.00/37.00",
+		"updated": "OTK*VOR/DME*270.00/37.00"
 	},
 	{
 		"name": "TEXXS",
@@ -311,7 +312,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "DWG*TACAN*120.92/12.00",
+		"updated": "DWG*TACAN*120.92/12.00"
 	},
 	{
 		"name": "THEOX",
@@ -320,7 +321,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/17/2017",
+		"updated": "08/17/2017"
 	},
 	{
 		"name": "THHUD",
@@ -329,7 +330,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/22/2017",
+		"updated": "08/22/2017"
 	},
 	{
 		"name": "TIARA",
@@ -338,7 +339,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CTF*VOR/DME*155.45/6.50",
+		"updated": "CTF*VOR/DME*155.45/6.50"
 	},
 	{
 		"name": "TIBOC",
@@ -347,7 +348,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/12/2005",
+		"updated": "07/12/2005"
 	},
 	{
 		"name": "TIDOE",
@@ -356,7 +357,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "DWG*TACAN*293.00/14.00",
+		"updated": "DWG*TACAN*293.00/14.00"
 	},
 	{
 		"name": "TIDTO",
@@ -365,7 +366,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "CN",
-		"updated": "07/03/2003",
+		"updated": "07/03/2003"
 	},
 	{
 		"name": "TIGAE",
@@ -374,7 +375,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OMN*VORTAC*215.74",
+		"updated": "OMN*VORTAC*215.74"
 	},
 	{
 		"name": "TIGEE",
@@ -383,7 +384,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "02/07/2013",
+		"updated": "02/07/2013"
 	},
 	{
 		"name": "TIGLE",
@@ -392,7 +393,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/20/2012",
+		"updated": "06/20/2012"
 	},
 	{
 		"name": "TIKIE",
@@ -401,7 +402,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/12/2007",
+		"updated": "07/12/2007"
 	},
 	{
 		"name": "TIKRY",
@@ -410,7 +411,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CRG*VORTAC*005.90",
+		"updated": "CRG*VORTAC*005.90"
 	},
 	{
 		"name": "TIKUY",
@@ -419,7 +420,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "OMN*VORTAC*184.00/26.00",
+		"updated": "OMN*VORTAC*184.00/26.00"
 	},
 	{
 		"name": "TILEE",
@@ -428,7 +429,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/14/2005",
+		"updated": "07/14/2005"
 	},
 	{
 		"name": "TILLS",
@@ -437,7 +438,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "SAV*VORTAC*000.82/20.00",
+		"updated": "SAV*VORTAC*000.82/20.00"
 	},
 	{
 		"name": "TIMIE",
@@ -446,7 +447,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "01/22/2009",
+		"updated": "01/22/2009"
 	},
 	{
 		"name": "TIMPE",
@@ -455,7 +456,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "GNV*VORTAC*053.35/3.00",
+		"updated": "GNV*VORTAC*053.35/3.00"
 	},
 	{
 		"name": "TINBE",
@@ -464,7 +465,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "NGS*TACAN*188.00/12.00",
+		"updated": "NGS*TACAN*188.00/12.00"
 	},
 	{
 		"name": "TIPGE",
@@ -473,7 +474,7 @@
 		"state": "NORTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "09/05/2014",
+		"updated": "09/05/2014"
 	},
 	{
 		"name": "TIPOE",
@@ -482,7 +483,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/13/2012",
+		"updated": "06/13/2012"
 	},
 	{
 		"name": "TIYOB",
@@ -491,7 +492,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "04/19/2012",
+		"updated": "04/19/2012"
 	},
 	{
 		"name": "TIYUN",
@@ -500,7 +501,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/12/2014",
+		"updated": "06/12/2014"
 	},
 	{
 		"name": "TIZRO",
@@ -509,7 +510,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "TNPIN",
@@ -518,7 +519,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "04/01/2009",
+		"updated": "04/01/2009"
 	},
 	{
 		"name": "TOCOB",
@@ -527,7 +528,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "03/26/2011",
+		"updated": "03/26/2011"
 	},
 	{
 		"name": "TOCOP",
@@ -536,7 +537,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "02/27/2012",
+		"updated": "02/27/2012"
 	},
 	{
 		"name": "TOGKU",
@@ -545,7 +546,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "CN",
-		"updated": "07/03/2003",
+		"updated": "07/03/2003"
 	},
 	{
 		"name": "TOHCI",
@@ -554,7 +555,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/20/2010",
+		"updated": "08/20/2010"
 	},
 	{
 		"name": "TOKUC",
@@ -563,7 +564,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/12/2008",
+		"updated": "06/12/2008"
 	},
 	{
 		"name": "TOLBY",
@@ -572,7 +573,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "11/21/2008",
+		"updated": "11/21/2008"
 	},
 	{
 		"name": "TOLEE",
@@ -581,7 +582,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/24/2011",
+		"updated": "10/24/2011"
 	},
 	{
 		"name": "TOLLS",
@@ -590,7 +591,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "SSC*TACAN*360.00/14.00",
+		"updated": "SSC*TACAN*360.00/14.00"
 	},
 	{
 		"name": "TOMDY",
@@ -599,7 +600,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "SSI*VORTAC*174.51/7.00",
+		"updated": "SSI*VORTAC*174.51/7.00"
 	},
 	{
 		"name": "TOMMA",
@@ -608,7 +609,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "VPS*LD*119.68",
+		"updated": "VPS*LD*119.68"
 	},
 	{
 		"name": "TONOW",
@@ -617,7 +618,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "CN",
-		"updated": "07/03/2003",
+		"updated": "07/03/2003"
 	},
 	{
 		"name": "TOPVE",
@@ -626,7 +627,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "07/08/2016",
+		"updated": "07/08/2016"
 	},
 	{
 		"name": "TOROE",
@@ -635,7 +636,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "NPA*TACAN*073.00/1.40",
+		"updated": "NPA*TACAN*073.00/1.40"
 	},
 	{
 		"name": "TORRY",
@@ -644,7 +645,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CRG*VORTAC*090.00/137.40",
+		"updated": "CRG*VORTAC*090.00/137.40"
 	},
 	{
 		"name": "TOSCU",
@@ -653,7 +654,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "04/27/2010",
+		"updated": "04/27/2010"
 	},
 	{
 		"name": "TOSEA",
@@ -662,7 +663,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "05/26/2009",
+		"updated": "05/26/2009"
 	},
 	{
 		"name": "TOSKE",
@@ -671,7 +672,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "PAM*TACAN*331.00/21.00",
+		"updated": "PAM*TACAN*331.00/21.00"
 	},
 	{
 		"name": "TOTWY",
@@ -680,7 +681,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "11/01/2010",
+		"updated": "11/01/2010"
 	},
 	{
 		"name": "TOWEY",
@@ -689,7 +690,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CTF*VOR/DME*093.00",
+		"updated": "CTF*VOR/DME*093.00"
 	},
 	{
 		"name": "TOWWE",
@@ -698,7 +699,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "PAM*TACAN*146.00/15.00",
+		"updated": "PAM*TACAN*146.00/15.00"
 	},
 	{
 		"name": "TRANK",
@@ -707,7 +708,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/16/2017",
+		"updated": "08/16/2017"
 	},
 	{
 		"name": "TRAPR",
@@ -716,7 +717,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "11/21/2010",
+		"updated": "11/21/2010"
 	},
 	{
 		"name": "TRAUT",
@@ -725,7 +726,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "DWG*TACAN*/16.38",
+		"updated": "DWG*TACAN*/16.38"
 	},
 	{
 		"name": "TREAL",
@@ -734,7 +735,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CAE*VORTAC*204.50/51.01",
+		"updated": "CAE*VORTAC*204.50/51.01"
 	},
 	{
 		"name": "TROCK",
@@ -743,7 +744,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "FLO*VORTAC*043.45/19.50",
+		"updated": "FLO*VORTAC*043.45/19.50"
 	},
 	{
 		"name": "TROJN",
@@ -752,7 +753,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "NSE*TACAN*307.00/12.00",
+		"updated": "NSE*TACAN*307.00/12.00"
 	},
 	{
 		"name": "TROUT",
@@ -761,7 +762,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "05/07/1985",
+		"updated": "05/07/1985"
 	},
 	{
 		"name": "TROWT",
@@ -770,7 +771,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "PAM*TACAN*147.00/52.00",
+		"updated": "PAM*TACAN*147.00/52.00"
 	},
 	{
 		"name": "TRTLS",
@@ -779,7 +780,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "TRUET",
@@ -788,7 +789,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "DBN*VORTAC*146.64/20.00",
+		"updated": "DBN*VORTAC*146.64/20.00"
 	},
 	{
 		"name": "TRUEX",
@@ -797,7 +798,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "04/09/2014",
+		"updated": "04/09/2014"
 	},
 	{
 		"name": "TTIGR",
@@ -806,7 +807,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/24/2007",
+		"updated": "10/24/2007"
 	},
 	{
 		"name": "TTREE",
@@ -815,7 +816,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "VAD*TACAN*310.00/19.00",
+		"updated": "VAD*TACAN*310.00/19.00"
 	},
 	{
 		"name": "TTUNA",
@@ -824,7 +825,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "05/01/2008",
+		"updated": "05/01/2008"
 	},
 	{
 		"name": "TUCCR",
@@ -833,7 +834,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CRG*VORTAC*267.63",
+		"updated": "CRG*VORTAC*267.63"
 	},
 	{
 		"name": "TUCHO",
@@ -842,7 +843,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/29/2008",
+		"updated": "10/29/2008"
 	},
 	{
 		"name": "TUCKE",
@@ -851,7 +852,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/02/2008",
+		"updated": "07/02/2008"
 	},
 	{
 		"name": "TUFER",
@@ -860,7 +861,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "DWG*TACAN*180.00/12.00",
+		"updated": "DWG*TACAN*180.00/12.00"
 	},
 	{
 		"name": "TUFFE",
@@ -869,7 +870,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "TFE*LD*005.45/8.63",
+		"updated": "TFE*LD*005.45/8.63"
 	},
 	{
 		"name": "TUKSE",
@@ -878,7 +879,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "05/31/2005",
+		"updated": "05/31/2005"
 	},
 	{
 		"name": "TUMPY",
@@ -887,7 +888,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "PIE*VORTAC*045.00/21.00",
+		"updated": "PIE*VORTAC*045.00/21.00"
 	},
 	{
 		"name": "TUMSE",
@@ -896,7 +897,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "08/10/2010",
+		"updated": "08/10/2010"
 	},
 	{
 		"name": "TUMVY",
@@ -905,7 +906,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "03/23/2007",
+		"updated": "03/23/2007"
 	},
 	{
 		"name": "TUNJU",
@@ -914,7 +915,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "01/26/2009",
+		"updated": "01/26/2009"
 	},
 	{
 		"name": "TUPGE",
@@ -923,7 +924,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/15/2009",
+		"updated": "07/15/2009"
 	},
 	{
 		"name": "TUPPS",
@@ -932,7 +933,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "OZR*VOR/DME*065.95/11.23",
+		"updated": "OZR*VOR/DME*065.95/11.23"
 	},
 	{
 		"name": "TURLE",
@@ -941,7 +942,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "GNV*VORTAC*057.09/13.42",
+		"updated": "GNV*VORTAC*057.09/13.42"
 	},
 	{
 		"name": "TUSKS",
@@ -950,7 +951,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "02/24/2016",
+		"updated": "02/24/2016"
 	},
 	{
 		"name": "TUSNE",
@@ -959,7 +960,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MR",
-		"updated": "DWG*TACAN*/23.00",
+		"updated": "DWG*TACAN*/23.00"
 	},
 	{
 		"name": "TWETY",
@@ -968,7 +969,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/24/2007",
+		"updated": "10/24/2007"
 	},
 	{
 		"name": "TWNNZ",
@@ -977,7 +978,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "ORL*VORTAC*034.87",
+		"updated": "ORL*VORTAC*034.87"
 	},
 	{
 		"name": "TWONA",
@@ -986,7 +987,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "10/24/2007",
+		"updated": "10/24/2007"
 	},
 	{
 		"name": "TXNBX",
@@ -995,7 +996,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "12/21/2016",
+		"updated": "12/21/2016"
 	},
 	{
 		"name": "TYBEE",
@@ -1004,7 +1005,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CRG*VORTAC*023.00/95.61",
+		"updated": "CRG*VORTAC*023.00/95.61"
 	},
 	{
 		"name": "TYBOX",
@@ -1013,7 +1014,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "04/19/2012",
+		"updated": "04/19/2012"
 	},
 	{
 		"name": "TYDOE",
@@ -1022,7 +1023,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RP",
-		"updated": "CAE*VORTAC*204.50/67.08",
+		"updated": "CAE*VORTAC*204.50/67.08"
 	},
 	{
 		"name": "TYLOR",
@@ -1031,7 +1032,7 @@
 		"state": "SOUTH CAROLINA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "TYLUR",
@@ -1040,7 +1041,7 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "MW",
-		"updated": "04/02/2007",
+		"updated": "04/02/2007"
 	},
 	{
 		"name": "TYNES",
@@ -1049,7 +1050,7 @@
 		"state": "GEORGIA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "06/28/2017",
+		"updated": "06/28/2017"
 	},
 	{
 		"name": "TYPAL",
@@ -1058,5 +1059,6 @@
 		"state": "FLORIDA",
 		"artcc": "ZJX",
 		"type": "RNAV",
-		"updated": "02/27/2015",
-	},
+		"updated": "02/27/2015"
+	}
+]

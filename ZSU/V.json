@@ -1,3 +1,4 @@
+[
 	{
 		"name": "VARNA",
 		"latitude": "18-19-2.2 N",
@@ -5,7 +6,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "BQN*VORTAC*113.27",
+		"updated": "BQN*VORTAC*113.27"
 	},
 	{
 		"name": "VCNTE",
@@ -14,7 +15,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "01/21/2015",
+		"updated": "01/21/2015"
 	},
 	{
 		"name": "VECUG",
@@ -23,7 +24,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*258.00/12.00",
+		"updated": "SJU*VORTAC*258.00/12.00"
 	},
 	{
 		"name": "VEDAS",
@@ -32,7 +33,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "COY*VOR/DME*292.43/51.90",
+		"updated": "COY*VOR/DME*292.43/51.90"
 	},
 	{
 		"name": "VERMO",
@@ -41,7 +42,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "BQN*VORTAC*037.36",
+		"updated": "BQN*VORTAC*037.36"
 	},
 	{
 		"name": "VORCE",
@@ -50,5 +51,6 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "07/09/2009",
-	},
+		"updated": "07/09/2009"
+	}
+]

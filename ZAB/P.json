@@ -1,3 +1,4 @@
+[
 	{
 		"name": "PAAAR",
 		"latitude": "33-4-14.36 N",
@@ -5,7 +6,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "PADPE",
@@ -14,7 +15,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/27/2006",
+		"updated": "09/27/2006"
 	},
 	{
 		"name": "PAFEL",
@@ -23,7 +24,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SJN*VORTAC*283.00/7.00",
+		"updated": "SJN*VORTAC*283.00/7.00"
 	},
 	{
 		"name": "PAHNN",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/24/2017",
+		"updated": "08/24/2017"
 	},
 	{
 		"name": "PAMPE",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/01/2010",
+		"updated": "12/01/2010"
 	},
 	{
 		"name": "PANDE",
@@ -50,7 +51,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PNH*VORTAC*216.91/7.44",
+		"updated": "PNH*VORTAC*216.91/7.44"
 	},
 	{
 		"name": "PANTD",
@@ -59,7 +60,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/16/2009",
+		"updated": "03/16/2009"
 	},
 	{
 		"name": "PAPBI",
@@ -68,7 +69,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/18/2011",
+		"updated": "07/18/2011"
 	},
 	{
 		"name": "PARCS",
@@ -77,7 +78,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*VORTAC*303.04/5.06",
+		"updated": "TUS*VORTAC*303.04/5.06"
 	},
 	{
 		"name": "PARIE",
@@ -86,7 +87,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "PARKZ",
@@ -95,7 +96,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/13/2014",
+		"updated": "02/13/2014"
 	},
 	{
 		"name": "PASEO",
@@ -104,7 +105,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/25/2012",
+		"updated": "11/25/2012"
 	},
 	{
 		"name": "PASNY",
@@ -113,7 +114,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "PAYNE",
@@ -122,7 +123,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "BWS*VOR/DME*217.55/4.42",
+		"updated": "BWS*VOR/DME*217.55/4.42"
 	},
 	{
 		"name": "PAYNT",
@@ -131,7 +132,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "BXK*VORTAC*171.40",
+		"updated": "BXK*VORTAC*171.40"
 	},
 	{
 		"name": "PAYSO",
@@ -140,7 +141,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*034.44/80.56",
+		"updated": "PXR*VORTAC*034.44/80.56"
 	},
 	{
 		"name": "PEAKS",
@@ -149,7 +150,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*054.40/30.48",
+		"updated": "PXR*VORTAC*054.40/30.48"
 	},
 	{
 		"name": "PEATE",
@@ -158,7 +159,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*034.00/9.50",
+		"updated": "HMN*TACAN*034.00/9.50"
 	},
 	{
 		"name": "PEBCY",
@@ -167,7 +168,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/02/2012",
+		"updated": "04/02/2012"
 	},
 	{
 		"name": "PECOS",
@@ -176,7 +177,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CVS*TACAN*245.00/60.00",
+		"updated": "CVS*TACAN*245.00/60.00"
 	},
 	{
 		"name": "PEDRA",
@@ -185,7 +186,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ABQ*VORTAC*332.00/29.00",
+		"updated": "ABQ*VORTAC*332.00/29.00"
 	},
 	{
 		"name": "PEDVE",
@@ -194,7 +195,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/28/2016",
+		"updated": "04/28/2016"
 	},
 	{
 		"name": "PELCI",
@@ -203,7 +204,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TCC*VORTAC*233.19/18.00",
+		"updated": "TCC*VORTAC*233.19/18.00"
 	},
 	{
 		"name": "PELVE",
@@ -212,7 +213,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/03/2004",
+		"updated": "02/03/2004"
 	},
 	{
 		"name": "PENSL",
@@ -221,7 +222,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/12/2007",
+		"updated": "07/12/2007"
 	},
 	{
 		"name": "PEPTE",
@@ -230,7 +231,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "PERKY",
@@ -239,7 +240,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "BXK*VORTAC*077.40/17.65",
+		"updated": "BXK*VORTAC*077.40/17.65"
 	},
 	{
 		"name": "PERRO",
@@ -248,7 +249,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DUG*VORTAC*256.08/27.71",
+		"updated": "DUG*VORTAC*256.08/27.71"
 	},
 	{
 		"name": "PETRS",
@@ -257,7 +258,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/13/2009",
+		"updated": "01/13/2009"
 	},
 	{
 		"name": "PEVDE",
@@ -266,7 +267,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/19/2011",
+		"updated": "10/19/2011"
 	},
 	{
 		"name": "PEVYU",
@@ -275,7 +276,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/13/2014",
+		"updated": "02/13/2014"
 	},
 	{
 		"name": "PEZIB",
@@ -284,7 +285,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/28/2013",
+		"updated": "10/28/2013"
 	},
 	{
 		"name": "PGSKN",
@@ -293,7 +294,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/01/2010",
+		"updated": "12/01/2010"
 	},
 	{
 		"name": "PHASE",
@@ -302,7 +303,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/11/2014",
+		"updated": "08/11/2014"
 	},
 	{
 		"name": "PIBIE",
@@ -311,7 +312,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MW",
-		"updated": "07/26/2011",
+		"updated": "07/26/2011"
 	},
 	{
 		"name": "PICAH",
@@ -320,7 +321,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "GBN*VORTAC*095.69/50.97",
+		"updated": "GBN*VORTAC*095.69/50.97"
 	},
 	{
 		"name": "PICHR",
@@ -329,7 +330,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*034.44/55.00",
+		"updated": "PXR*VORTAC*034.44/55.00"
 	},
 	{
 		"name": "PICLI",
@@ -338,7 +339,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*VORTAC*308.06/44.46",
+		"updated": "TUS*VORTAC*308.06/44.46"
 	},
 	{
 		"name": "PICNN",
@@ -347,7 +348,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "PIERS",
@@ -356,7 +357,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "EWM*VORTAC*079.00/9.80",
+		"updated": "EWM*VORTAC*079.00/9.80"
 	},
 	{
 		"name": "PIETA",
@@ -365,7 +366,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/19/2016",
+		"updated": "04/19/2016"
 	},
 	{
 		"name": "PILLA",
@@ -374,7 +375,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/25/2012",
+		"updated": "11/25/2012"
 	},
 	{
 		"name": "PIMMA",
@@ -383,7 +384,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*VORTAC*308.06/20.00",
+		"updated": "TUS*VORTAC*308.06/20.00"
 	},
 	{
 		"name": "PINDA",
@@ -392,7 +393,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ABQ*VORTAC*085.00/93.00",
+		"updated": "ABQ*VORTAC*085.00/93.00"
 	},
 	{
 		"name": "PINNG",
@@ -401,7 +402,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "PIVOC",
@@ -410,7 +411,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/31/2008",
+		"updated": "03/31/2008"
 	},
 	{
 		"name": "PLATS",
@@ -419,7 +420,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/23/2011",
+		"updated": "02/23/2011"
 	},
 	{
 		"name": "PLNET",
@@ -428,7 +429,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/25/2012",
+		"updated": "11/25/2012"
 	},
 	{
 		"name": "PLNZE",
@@ -437,7 +438,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/18/2017",
+		"updated": "08/18/2017"
 	},
 	{
 		"name": "PLODD",
@@ -446,7 +447,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/20/2004",
+		"updated": "07/20/2004"
 	},
 	{
 		"name": "PNYON",
@@ -455,7 +456,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/06/2014",
+		"updated": "03/06/2014"
 	},
 	{
 		"name": "POAKE",
@@ -464,7 +465,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SAF*VORTAC*353.83/22.00",
+		"updated": "SAF*VORTAC*353.83/22.00"
 	},
 	{
 		"name": "POBUE",
@@ -473,7 +474,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/26/2011",
+		"updated": "01/26/2011"
 	},
 	{
 		"name": "POCCK",
@@ -482,7 +483,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/12/2014",
+		"updated": "08/12/2014"
 	},
 	{
 		"name": "POCIB",
@@ -491,7 +492,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*VORTAC*303.05/8.46",
+		"updated": "TUS*VORTAC*303.05/8.46"
 	},
 	{
 		"name": "PODRY",
@@ -500,7 +501,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/19/2014",
+		"updated": "09/19/2014"
 	},
 	{
 		"name": "POMBE",
@@ -509,7 +510,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/18/2011",
+		"updated": "07/18/2011"
 	},
 	{
 		"name": "PONUE",
@@ -518,7 +519,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/05/2003",
+		"updated": "08/05/2003"
 	},
 	{
 		"name": "POPKE",
@@ -527,7 +528,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*162.58/15.00",
+		"updated": "PXR*VORTAC*162.58/15.00"
 	},
 	{
 		"name": "PORCU",
@@ -536,7 +537,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PNH*VORTAC*246.50/30.00",
+		"updated": "PNH*VORTAC*246.50/30.00"
 	},
 	{
 		"name": "POSLE",
@@ -545,7 +546,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "DMA*TACAN*/7.24",
+		"updated": "DMA*TACAN*/7.24"
 	},
 	{
 		"name": "POTER",
@@ -554,7 +555,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*185.35/32.81",
+		"updated": "PXR*VORTAC*185.35/32.81"
 	},
 	{
 		"name": "POURS",
@@ -563,7 +564,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*351.01/38.00",
+		"updated": "PXR*VORTAC*351.01/38.00"
 	},
 	{
 		"name": "POYOH",
@@ -572,7 +573,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "PREVE",
@@ -581,7 +582,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/18/2017",
+		"updated": "08/18/2017"
 	},
 	{
 		"name": "PRIMY",
@@ -590,7 +591,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/04/2001",
+		"updated": "09/04/2001"
 	},
 	{
 		"name": "PRISO",
@@ -599,7 +600,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "EWM*VORTAC*079.05",
+		"updated": "EWM*VORTAC*079.05"
 	},
 	{
 		"name": "PRRES",
@@ -608,7 +609,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/03/2012",
+		"updated": "04/03/2012"
 	},
 	{
 		"name": "PRUNN",
@@ -617,7 +618,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CWJ*LD*078.08/7.66",
+		"updated": "CWJ*LD*078.08/7.66"
 	},
 	{
 		"name": "PUDRE",
@@ -626,7 +627,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/01/2001",
+		"updated": "11/01/2001"
 	},
 	{
 		"name": "PUGDE",
@@ -635,7 +636,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/18/2011",
+		"updated": "07/18/2011"
 	},
 	{
 		"name": "PUKRE",
@@ -644,7 +645,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/01/2010",
+		"updated": "12/01/2010"
 	},
 	{
 		"name": "PUKTE",
@@ -653,7 +654,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/18/2017",
+		"updated": "08/18/2017"
 	},
 	{
 		"name": "PULBE",
@@ -662,7 +663,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/13/2015",
+		"updated": "05/13/2015"
 	},
 	{
 		"name": "PUNNT",
@@ -671,7 +672,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/28/2011",
+		"updated": "10/28/2011"
 	},
 	{
 		"name": "PURCH",
@@ -680,7 +681,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PHX*LD*W CRS/3.43",
+		"updated": "PHX*LD*W CRS/3.43"
 	},
 	{
 		"name": "PUROO",
@@ -689,7 +690,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "DRK*VORTAC*356.81/8.56",
+		"updated": "DRK*VORTAC*356.81/8.56"
 	},
 	{
 		"name": "PUSCH",
@@ -698,7 +699,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*VORTAC*352.68",
+		"updated": "TUS*VORTAC*352.68"
 	},
 	{
 		"name": "PYPPE",
@@ -707,7 +708,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/30/2018",
+		"updated": "03/30/2018"
 	},
 	{
 		"name": "PYRIT",
@@ -716,5 +717,6 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ZUN*VORTAC*251.47/67.20",
-	},
+		"updated": "ZUN*VORTAC*251.47/67.20"
+	}
+]

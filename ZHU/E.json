@@ -1,3 +1,4 @@
+[
 	{
 		"name": "EAKES",
 		"latitude": "30-33-18 N",
@@ -5,7 +6,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/30/2011",
+		"updated": "07/30/2011"
 	},
 	{
 		"name": "EATIT",
@@ -14,7 +15,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TNV*VOR/DME*203.94/52.00",
+		"updated": "TNV*VOR/DME*203.94/52.00"
 	},
 	{
 		"name": "EBERE",
@@ -23,7 +24,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/20/2007",
+		"updated": "07/20/2007"
 	},
 	{
 		"name": "EBOCU",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "EFD*TACAN*195.00/15.00",
+		"updated": "EFD*TACAN*195.00/15.00"
 	},
 	{
 		"name": "EBOKE",
@@ -41,7 +42,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/02/2009",
+		"updated": "06/02/2009"
 	},
 	{
 		"name": "EBOPY",
@@ -50,7 +51,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/12/2009",
+		"updated": "07/12/2009"
 	},
 	{
 		"name": "EBUKY",
@@ -59,7 +60,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/27/2009",
+		"updated": "10/27/2009"
 	},
 	{
 		"name": "EBYAJ",
@@ -68,7 +69,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/14/2010",
+		"updated": "02/14/2010"
 	},
 	{
 		"name": "ECAGA",
@@ -77,7 +78,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "AEX*VORTAC*110.47/24.14",
+		"updated": "AEX*VORTAC*110.47/24.14"
 	},
 	{
 		"name": "ECEPA",
@@ -86,7 +87,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/10/2018",
+		"updated": "04/10/2018"
 	},
 	{
 		"name": "ECETE",
@@ -95,7 +96,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/23/2017",
+		"updated": "01/23/2017"
 	},
 	{
 		"name": "ECHOE",
@@ -104,7 +105,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PSX*VORTAC*059.88/33.00",
+		"updated": "PSX*VORTAC*059.88/33.00"
 	},
 	{
 		"name": "ECUVE",
@@ -113,7 +114,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/05/2015",
+		"updated": "11/05/2015"
 	},
 	{
 		"name": "EDAYA",
@@ -122,7 +123,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/20/2011",
+		"updated": "06/20/2011"
 	},
 	{
 		"name": "EDCUT",
@@ -131,7 +132,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/11/1998",
+		"updated": "08/11/1998"
 	},
 	{
 		"name": "EDEDY",
@@ -140,7 +141,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "EFD*TACAN*151.00/18.00",
+		"updated": "EFD*TACAN*151.00/18.00"
 	},
 	{
 		"name": "EDEEE",
@@ -149,7 +150,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/07/2014",
+		"updated": "03/07/2014"
 	},
 	{
 		"name": "EDERY",
@@ -158,7 +159,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/17/2004",
+		"updated": "02/17/2004"
 	},
 	{
 		"name": "EDGUW",
@@ -167,7 +168,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/02/2009",
+		"updated": "10/02/2009"
 	},
 	{
 		"name": "EDIVE",
@@ -176,7 +177,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/22/2011",
+		"updated": "06/22/2011"
 	},
 	{
 		"name": "EDJAT",
@@ -185,7 +186,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/12/2016",
+		"updated": "07/12/2016"
 	},
 	{
 		"name": "EDTED",
@@ -194,7 +195,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/12/2001",
+		"updated": "02/12/2001"
 	},
 	{
 		"name": "EDUYA",
@@ -203,7 +204,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/19/2012",
+		"updated": "07/19/2012"
 	},
 	{
 		"name": "EELKK",
@@ -212,7 +213,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/21/2014",
+		"updated": "03/21/2014"
 	},
 	{
 		"name": "EELPO",
@@ -221,7 +222,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HUB*VOR/DME*321.26",
+		"updated": "HUB*VOR/DME*321.26"
 	},
 	{
 		"name": "EEVAH",
@@ -230,7 +231,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/25/2014",
+		"updated": "03/25/2014"
 	},
 	{
 		"name": "EEVEE",
@@ -239,7 +240,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/15/2014",
+		"updated": "12/15/2014"
 	},
 	{
 		"name": "EFMEW",
@@ -248,7 +249,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/16/2009",
+		"updated": "06/16/2009"
 	},
 	{
 		"name": "EFNIF",
@@ -257,7 +258,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/22/2011",
+		"updated": "08/22/2011"
 	},
 	{
 		"name": "EFRUJ",
@@ -266,7 +267,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/07/2009",
+		"updated": "07/07/2009"
 	},
 	{
 		"name": "EFVEP",
@@ -275,7 +276,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/15/2010",
+		"updated": "07/15/2010"
 	},
 	{
 		"name": "EGARE",
@@ -284,7 +285,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "07/09/2015",
+		"updated": "07/09/2015"
 	},
 	{
 		"name": "EGEWA",
@@ -293,7 +294,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "CN",
-		"updated": "11/01/1999",
+		"updated": "11/01/1999"
 	},
 	{
 		"name": "EGISE",
@@ -302,7 +303,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/20/2012",
+		"updated": "03/20/2012"
 	},
 	{
 		"name": "EGJIP",
@@ -311,7 +312,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "CN",
-		"updated": "11/01/1999",
+		"updated": "11/01/1999"
 	},
 	{
 		"name": "EGPEW",
@@ -320,7 +321,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "MCB*VORTAC*233.00/8.30",
+		"updated": "MCB*VORTAC*233.00/8.30"
 	},
 	{
 		"name": "EGULZ",
@@ -329,7 +330,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/11/2014",
+		"updated": "03/11/2014"
 	},
 	{
 		"name": "EHHIR",
@@ -338,7 +339,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/03/2000",
+		"updated": "10/03/2000"
 	},
 	{
 		"name": "EHUKY",
@@ -347,7 +348,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "CN",
-		"updated": "11/01/1999",
+		"updated": "11/01/1999"
 	},
 	{
 		"name": "EHWAM",
@@ -356,7 +357,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/05/2016",
+		"updated": "07/05/2016"
 	},
 	{
 		"name": "EISEN",
@@ -365,7 +366,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/05/2015",
+		"updated": "11/05/2015"
 	},
 	{
 		"name": "EJUCA",
@@ -374,7 +375,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "EFD*TACAN*182.00/20.00",
+		"updated": "EFD*TACAN*182.00/20.00"
 	},
 	{
 		"name": "EJUXO",
@@ -383,7 +384,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CRP*VORTAC*286.99/18.37",
+		"updated": "CRP*VORTAC*286.99/18.37"
 	},
 	{
 		"name": "EKIFO",
@@ -392,7 +393,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/10/2012",
+		"updated": "08/10/2012"
 	},
 	{
 		"name": "EKIVY",
@@ -401,7 +402,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/27/2007",
+		"updated": "12/27/2007"
 	},
 	{
 		"name": "EKKOP",
@@ -410,7 +411,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/27/2007",
+		"updated": "12/27/2007"
 	},
 	{
 		"name": "EKORE",
@@ -419,7 +420,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "09/05/2013",
+		"updated": "09/05/2013"
 	},
 	{
 		"name": "EKXES",
@@ -428,7 +429,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/28/2010",
+		"updated": "03/28/2010"
 	},
 	{
 		"name": "ELAAN",
@@ -437,7 +438,7 @@
 		"state": "OFFSHORE GULF",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/01/2009",
+		"updated": "01/01/2009"
 	},
 	{
 		"name": "ELAME",
@@ -446,7 +447,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/28/2007",
+		"updated": "12/28/2007"
 	},
 	{
 		"name": "ELAYE",
@@ -455,7 +456,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/16/2003",
+		"updated": "09/16/2003"
 	},
 	{
 		"name": "ELDAS",
@@ -464,7 +465,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "SAT*VORTAC*271.00/18.00",
+		"updated": "SAT*VORTAC*271.00/18.00"
 	},
 	{
 		"name": "ELELY",
@@ -473,7 +474,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/23/2012",
+		"updated": "07/23/2012"
 	},
 	{
 		"name": "ELFIY",
@@ -482,7 +483,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "ELICO",
@@ -491,7 +492,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "ELIZA",
@@ -500,7 +501,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "MFE*VOR/DME*312.28/21.85",
+		"updated": "MFE*VOR/DME*312.28/21.85"
 	},
 	{
 		"name": "ELKAY",
@@ -509,7 +510,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "THX*VORTAC*333.83/54.95",
+		"updated": "THX*VORTAC*333.83/54.95"
 	},
 	{
 		"name": "ELKOS",
@@ -518,7 +519,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LRD*VORTAC*132.00/15.00",
+		"updated": "LRD*VORTAC*132.00/15.00"
 	},
 	{
 		"name": "ELLBJ",
@@ -527,7 +528,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CWK*VORTAC*223.36",
+		"updated": "CWK*VORTAC*223.36"
 	},
 	{
 		"name": "ELMAR",
@@ -536,7 +537,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/11/2012",
+		"updated": "04/11/2012"
 	},
 	{
 		"name": "ELMMS",
@@ -545,7 +546,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/28/2016",
+		"updated": "06/28/2016"
 	},
 	{
 		"name": "ELOCO",
@@ -554,7 +555,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/07/2014",
+		"updated": "03/07/2014"
 	},
 	{
 		"name": "ELOEL",
@@ -563,7 +564,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/10/2015",
+		"updated": "01/10/2015"
 	},
 	{
 		"name": "ELORA",
@@ -572,7 +573,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "IAH*VORTAC*240.10/18.96",
+		"updated": "IAH*VORTAC*240.10/18.96"
 	},
 	{
 		"name": "ELOTY",
@@ -581,7 +582,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "TBD*VOR/DME*087.73/8.86",
+		"updated": "TBD*VOR/DME*087.73/8.86"
 	},
 	{
 		"name": "ELREN",
@@ -590,7 +591,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HUB*LD*220.95/8.71",
+		"updated": "HUB*LD*220.95/8.71"
 	},
 	{
 		"name": "ELSIE",
@@ -599,7 +600,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "GPT*VORTAC*128.00/11.44",
+		"updated": "GPT*VORTAC*128.00/11.44"
 	},
 	{
 		"name": "ELUKE",
@@ -608,7 +609,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "MW",
-		"updated": "02/10/2016",
+		"updated": "02/10/2016"
 	},
 	{
 		"name": "EMARR",
@@ -617,7 +618,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/09/2014",
+		"updated": "03/09/2014"
 	},
 	{
 		"name": "EMBOW",
@@ -626,7 +627,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "SSF*VOR*096.93",
+		"updated": "SSF*VOR*096.93"
 	},
 	{
 		"name": "EMDIS",
@@ -635,7 +636,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "KSY*TACAN*262.00/12.00",
+		"updated": "KSY*TACAN*262.00/12.00"
 	},
 	{
 		"name": "EMEGY",
@@ -644,7 +645,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/06/2012",
+		"updated": "04/06/2012"
 	},
 	{
 		"name": "EMELA",
@@ -653,7 +654,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "KSY*TACAN*230.00/12.00",
+		"updated": "KSY*TACAN*230.00/12.00"
 	},
 	{
 		"name": "EMGEE",
@@ -662,7 +663,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "05/07/2015",
+		"updated": "05/07/2015"
 	},
 	{
 		"name": "EMLIW",
@@ -671,7 +672,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/28/2012",
+		"updated": "09/28/2012"
 	},
 	{
 		"name": "EMOPE",
@@ -680,7 +681,7 @@
 		"state": "MISSISSIPPI",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/18/2013",
+		"updated": "06/18/2013"
 	},
 	{
 		"name": "EMPOD",
@@ -689,7 +690,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "KSY*TACAN*212.00/12.00",
+		"updated": "KSY*TACAN*212.00/12.00"
 	},
 	{
 		"name": "EMULE",
@@ -698,7 +699,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/18/2012",
+		"updated": "07/18/2012"
 	},
 	{
 		"name": "ENERE",
@@ -707,7 +708,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/15/2015",
+		"updated": "07/15/2015"
 	},
 	{
 		"name": "ENFUD",
@@ -716,7 +717,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "ENGLS",
@@ -725,7 +726,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/16/2004",
+		"updated": "01/16/2004"
 	},
 	{
 		"name": "ENJOY",
@@ -734,7 +735,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LFK*VORTAC*065.60",
+		"updated": "LFK*VORTAC*065.60"
 	},
 	{
 		"name": "ENMOJ",
@@ -743,7 +744,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "12/26/2013",
+		"updated": "12/26/2013"
 	},
 	{
 		"name": "ENODE",
@@ -752,7 +753,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "ENYAC",
@@ -761,7 +762,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "DLF*VORTAC*298.07/1.30",
+		"updated": "DLF*VORTAC*298.07/1.30"
 	},
 	{
 		"name": "EPOYO",
@@ -770,7 +771,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/27/2004",
+		"updated": "10/27/2004"
 	},
 	{
 		"name": "ERIPE",
@@ -779,7 +780,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "MR",
-		"updated": "KSY*TACAN*297.00/12.00",
+		"updated": "KSY*TACAN*297.00/12.00"
 	},
 	{
 		"name": "ERNON",
@@ -788,7 +789,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "GCV*VORTAC*064.28/21.94",
+		"updated": "GCV*VORTAC*064.28/21.94"
 	},
 	{
 		"name": "ERXIW",
@@ -797,7 +798,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LRD*LD*177.55/1.68",
+		"updated": "LRD*LD*177.55/1.68"
 	},
 	{
 		"name": "ESAAY",
@@ -806,7 +807,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "VUH*VOR/DME*301.37",
+		"updated": "VUH*VOR/DME*301.37"
 	},
 	{
 		"name": "ESAYA",
@@ -815,7 +816,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "HRL*VOR/DME*008.00/5.30",
+		"updated": "HRL*VOR/DME*008.00/5.30"
 	},
 	{
 		"name": "ESDEF",
@@ -824,7 +825,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "CWK*VORTAC*014.00/17.64",
+		"updated": "CWK*VORTAC*014.00/17.64"
 	},
 	{
 		"name": "ESEME",
@@ -833,7 +834,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "ESF*LD*089.87/7.02",
+		"updated": "ESF*LD*089.87/7.02"
 	},
 	{
 		"name": "ESIJO",
@@ -842,7 +843,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/14/2000",
+		"updated": "03/14/2000"
 	},
 	{
 		"name": "ESJUJ",
@@ -851,7 +852,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/22/2007",
+		"updated": "06/22/2007"
 	},
 	{
 		"name": "ESPEY",
@@ -860,7 +861,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "WP",
-		"updated": "08/11/1998",
+		"updated": "08/11/1998"
 	},
 	{
 		"name": "ESSEN",
@@ -869,7 +870,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/27/2018",
+		"updated": "04/27/2018"
 	},
 	{
 		"name": "ESUYO",
@@ -878,7 +879,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/20/2013",
+		"updated": "01/20/2013"
 	},
 	{
 		"name": "ESWUL",
@@ -887,7 +888,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "ETEYO",
@@ -896,7 +897,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/20/2011",
+		"updated": "06/20/2011"
 	},
 	{
 		"name": "ETICA",
@@ -905,7 +906,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/03/2003",
+		"updated": "09/03/2003"
 	},
 	{
 		"name": "ETIKY",
@@ -914,7 +915,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/04/2013",
+		"updated": "06/04/2013"
 	},
 	{
 		"name": "ETIME",
@@ -923,7 +924,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "EFD*TACAN*116.00/11.00",
+		"updated": "EFD*TACAN*116.00/11.00"
 	},
 	{
 		"name": "ETOSE",
@@ -932,7 +933,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "NEW*LD*357.26/1.74",
+		"updated": "NEW*LD*357.26/1.74"
 	},
 	{
 		"name": "ETUYA",
@@ -941,7 +942,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/04/2013",
+		"updated": "06/04/2013"
 	},
 	{
 		"name": "EVUMY",
@@ -950,7 +951,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/20/2006",
+		"updated": "11/20/2006"
 	},
 	{
 		"name": "EVUZI",
@@ -959,7 +960,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "07/26/2012",
+		"updated": "07/26/2012"
 	},
 	{
 		"name": "EWETO",
@@ -968,7 +969,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "09/27/2012",
+		"updated": "09/27/2012"
 	},
 	{
 		"name": "EWETU",
@@ -977,7 +978,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "01/05/2017",
+		"updated": "01/05/2017"
 	},
 	{
 		"name": "EWOFY",
@@ -986,7 +987,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "EXIKE",
@@ -995,7 +996,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "EXISE",
@@ -1004,7 +1005,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/24/2017",
+		"updated": "10/24/2017"
 	},
 	{
 		"name": "EXWOB",
@@ -1013,7 +1014,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/27/2009",
+		"updated": "10/27/2009"
 	},
 	{
 		"name": "EYEDU",
@@ -1022,7 +1023,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "10/10/2008",
+		"updated": "10/10/2008"
 	},
 	{
 		"name": "EYEDY",
@@ -1031,7 +1032,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/20/2012",
+		"updated": "06/20/2012"
 	},
 	{
 		"name": "EYEKI",
@@ -1040,7 +1041,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "RQR*VOR/DME*320.86/22.50",
+		"updated": "RQR*VOR/DME*320.86/22.50"
 	},
 	{
 		"name": "EYEKO",
@@ -1049,7 +1050,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "08/04/2005",
+		"updated": "08/04/2005"
 	},
 	{
 		"name": "EYIPA",
@@ -1058,7 +1059,7 @@
 		"state": "ALABAMA",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "03/24/2011",
+		"updated": "03/24/2011"
 	},
 	{
 		"name": "EYOVE",
@@ -1067,7 +1068,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "11/05/2015",
+		"updated": "11/05/2015"
 	},
 	{
 		"name": "EYUBE",
@@ -1076,7 +1077,7 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RNAV",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "EYUGU",
@@ -1085,7 +1086,7 @@
 		"state": "LOUISIANA",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "LLA*VOR/DME*085.57/25.00",
+		"updated": "LLA*VOR/DME*085.57/25.00"
 	},
 	{
 		"name": "EZAFU",
@@ -1094,5 +1095,6 @@
 		"state": "TEXAS",
 		"artcc": "ZHU",
 		"type": "RP",
-		"updated": "PSX*VORTAC*060.00/17.00",
-	},
+		"updated": "PSX*VORTAC*060.00/17.00"
+	}
+]

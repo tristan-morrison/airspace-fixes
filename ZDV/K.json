@@ -1,3 +1,4 @@
+[
 	{
 		"name": "KAASE",
 		"latitude": "40-22-2.25 N",
@@ -5,7 +6,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "KAASH",
@@ -14,7 +15,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/02/2014",
+		"updated": "07/02/2014"
 	},
 	{
 		"name": "KABFU",
@@ -23,7 +24,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/04/2006",
+		"updated": "08/04/2006"
 	},
 	{
 		"name": "KABPE",
@@ -32,7 +33,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/23/2008",
+		"updated": "12/23/2008"
 	},
 	{
 		"name": "KACTI",
@@ -41,7 +42,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BFF*VORTAC*294.00/44.91",
+		"updated": "BFF*VORTAC*294.00/44.91"
 	},
 	{
 		"name": "KAGHU",
@@ -50,7 +51,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/01/2016",
+		"updated": "04/01/2016"
 	},
 	{
 		"name": "KAILE",
@@ -59,7 +60,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "KAINN",
@@ -68,7 +69,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/08/2010",
+		"updated": "11/08/2010"
 	},
 	{
 		"name": "KALHR",
@@ -77,7 +78,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DXU*LD*172.51/21.90",
+		"updated": "DXU*LD*172.51/21.90"
 	},
 	{
 		"name": "KALME",
@@ -86,7 +87,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "KAMAT",
@@ -95,7 +96,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "11/03/1993",
+		"updated": "11/03/1993"
 	},
 	{
 		"name": "KANDO",
@@ -104,7 +105,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "TXC*VORTAC*273.78",
+		"updated": "TXC*VORTAC*273.78"
 	},
 	{
 		"name": "KANON",
@@ -113,7 +114,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*267.21/74.00",
+		"updated": "PUB*VORTAC*267.21/74.00"
 	},
 	{
 		"name": "KARAS",
@@ -122,7 +123,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RAP*VORTAC*275.03/59.00",
+		"updated": "RAP*VORTAC*275.03/59.00"
 	},
 	{
 		"name": "KAREC",
@@ -131,7 +132,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "KARNS",
@@ -140,7 +141,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CUZ*VOR/DME*135.86/9.03",
+		"updated": "CUZ*VOR/DME*135.86/9.03"
 	},
 	{
 		"name": "KARVE",
@@ -149,7 +150,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/19/2012",
+		"updated": "03/19/2012"
 	},
 	{
 		"name": "KASEC",
@@ -158,7 +159,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/09/2015",
+		"updated": "11/09/2015"
 	},
 	{
 		"name": "KATLN",
@@ -167,7 +168,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LBF*VOR/DME*247.14/30.00",
+		"updated": "LBF*VOR/DME*247.14/30.00"
 	},
 	{
 		"name": "KATTT",
@@ -176,7 +177,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "BKF*TACAN*147.97/28.00",
+		"updated": "BKF*TACAN*147.97/28.00"
 	},
 	{
 		"name": "KAYGG",
@@ -185,7 +186,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "KAYOO",
@@ -194,7 +195,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "KD36Q",
@@ -203,7 +204,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD39Q",
@@ -212,7 +213,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD39S",
@@ -221,7 +222,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD42Q",
@@ -230,7 +231,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD42S",
@@ -239,7 +240,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD42U",
@@ -248,7 +249,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD45Q",
@@ -257,7 +258,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD45S",
@@ -266,7 +267,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD45U",
@@ -275,7 +276,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD45W",
@@ -284,7 +285,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD48Q",
@@ -293,7 +294,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD48S",
@@ -302,7 +303,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD48U",
@@ -311,7 +312,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD48W",
@@ -320,7 +321,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD48Y",
@@ -329,7 +330,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD51S",
@@ -338,7 +339,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD51U",
@@ -347,7 +348,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD51W",
@@ -356,7 +357,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD51Y",
@@ -365,7 +366,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD54A",
@@ -374,7 +375,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD54S",
@@ -383,7 +384,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD54U",
@@ -392,7 +393,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD54W",
@@ -401,7 +402,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD54Y",
@@ -410,7 +411,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD57A",
@@ -419,7 +420,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD57Q",
@@ -428,7 +429,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD57S",
@@ -437,7 +438,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD57U",
@@ -446,7 +447,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD57W",
@@ -455,7 +456,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD57Y",
@@ -464,7 +465,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD60A",
@@ -473,7 +474,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD60S",
@@ -482,7 +483,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD60U",
@@ -491,7 +492,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD60W",
@@ -500,7 +501,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD60Y",
@@ -509,7 +510,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD63A",
@@ -518,7 +519,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD63S",
@@ -527,7 +528,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD63U",
@@ -536,7 +537,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD63W",
@@ -545,7 +546,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD63Y",
@@ -554,7 +555,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD66A",
@@ -563,7 +564,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD66S",
@@ -572,7 +573,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD66U",
@@ -581,7 +582,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD66W",
@@ -590,7 +591,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD66Y",
@@ -599,7 +600,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD69A",
@@ -608,7 +609,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD69S",
@@ -617,7 +618,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD69U",
@@ -626,7 +627,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD69W",
@@ -635,7 +636,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD69Y",
@@ -644,7 +645,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD72A",
@@ -653,7 +654,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD72U",
@@ -662,7 +663,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD72W",
@@ -671,7 +672,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD72Y",
@@ -680,7 +681,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD75A",
@@ -689,7 +690,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD75U",
@@ -698,7 +699,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD75W",
@@ -707,7 +708,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD75Y",
@@ -716,7 +717,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD78A",
@@ -725,7 +726,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD78U",
@@ -734,7 +735,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD78W",
@@ -743,7 +744,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD78Y",
@@ -752,7 +753,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD81U",
@@ -761,7 +762,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD81W",
@@ -770,7 +771,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD81Y",
@@ -779,7 +780,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD84U",
@@ -788,7 +789,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD84W",
@@ -797,7 +798,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD84Y",
@@ -806,7 +807,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD87U",
@@ -815,7 +816,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD87W",
@@ -824,7 +825,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD87Y",
@@ -833,7 +834,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD90U",
@@ -842,7 +843,7 @@
 		"state": "MONTANA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KD90W",
@@ -851,7 +852,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "NRS",
-		"updated": "04/06/2004",
+		"updated": "04/06/2004"
 	},
 	{
 		"name": "KEBLR",
@@ -860,7 +861,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "KEBYE",
@@ -869,7 +870,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/06/2011",
+		"updated": "07/06/2011"
 	},
 	{
 		"name": "KEDPE",
@@ -878,7 +879,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/25/2012",
+		"updated": "04/25/2012"
 	},
 	{
 		"name": "KEEZR",
@@ -887,7 +888,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HBU*VOR/DME*260.62/9.28",
+		"updated": "HBU*VOR/DME*260.62/9.28"
 	},
 	{
 		"name": "KEKXU",
@@ -896,7 +897,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/21/2008",
+		"updated": "07/21/2008"
 	},
 	{
 		"name": "KELYG",
@@ -905,7 +906,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/22/2012",
+		"updated": "03/22/2012"
 	},
 	{
 		"name": "KEMJO",
@@ -914,7 +915,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "KEOTA",
@@ -923,7 +924,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/29/2012",
+		"updated": "06/29/2012"
 	},
 	{
 		"name": "KESSE",
@@ -932,7 +933,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SNY*VOR/DME*077.89/20.00",
+		"updated": "SNY*VOR/DME*077.89/20.00"
 	},
 	{
 		"name": "KETDE",
@@ -941,7 +942,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/23/2007",
+		"updated": "03/23/2007"
 	},
 	{
 		"name": "KETEC",
@@ -950,7 +951,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/12/2005",
+		"updated": "07/12/2005"
 	},
 	{
 		"name": "KETNE",
@@ -959,7 +960,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/08/2009",
+		"updated": "06/08/2009"
 	},
 	{
 		"name": "KETTH",
@@ -968,7 +969,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/11/2017",
+		"updated": "12/11/2017"
 	},
 	{
 		"name": "KEVYE",
@@ -977,7 +978,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "KHEDA",
@@ -986,7 +987,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/10/2017",
+		"updated": "08/10/2017"
 	},
 	{
 		"name": "KIBEY",
@@ -995,7 +996,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/13/2009",
+		"updated": "07/13/2009"
 	},
 	{
 		"name": "KICER",
@@ -1004,7 +1005,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ASE*LE*327.63/10.90",
+		"updated": "ASE*LE*327.63/10.90"
 	},
 	{
 		"name": "KIDNG",
@@ -1013,7 +1014,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "KIISS",
@@ -1022,7 +1023,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/17/2014",
+		"updated": "07/17/2014"
 	},
 	{
 		"name": "KIKME",
@@ -1031,7 +1032,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LTT*LD*352.51/7.97",
+		"updated": "LTT*LD*352.51/7.97"
 	},
 	{
 		"name": "KILEA",
@@ -1040,7 +1041,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/22/2015",
+		"updated": "01/22/2015"
 	},
 	{
 		"name": "KILRE",
@@ -1049,7 +1050,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/29/2004",
+		"updated": "07/29/2004"
 	},
 	{
 		"name": "KIMBL",
@@ -1058,7 +1059,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RLG*VOR/DME*197.94/13.79",
+		"updated": "RLG*VOR/DME*197.94/13.79"
 	},
 	{
 		"name": "KIMMR",
@@ -1067,7 +1068,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/23/2018",
+		"updated": "03/23/2018"
 	},
 	{
 		"name": "KINGO",
@@ -1076,7 +1077,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAA*VOR/DME*237.74/46.63",
+		"updated": "LAA*VOR/DME*237.74/46.63"
 	},
 	{
 		"name": "KIPEY",
@@ -1085,7 +1086,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/25/2016",
+		"updated": "03/25/2016"
 	},
 	{
 		"name": "KIPPR",
@@ -1094,7 +1095,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "KIPPY",
@@ -1103,7 +1104,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DVV*VORTAC*124.99/72.00",
+		"updated": "DVV*VORTAC*124.99/72.00"
 	},
 	{
 		"name": "KIQER",
@@ -1112,7 +1113,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/18/2017",
+		"updated": "01/18/2017"
 	},
 	{
 		"name": "KIRLE",
@@ -1121,7 +1122,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*322.00/21.47",
+		"updated": "DBL*VOR/DME*322.00/21.47"
 	},
 	{
 		"name": "KIVSE",
@@ -1130,7 +1131,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/14/2008",
+		"updated": "08/14/2008"
 	},
 	{
 		"name": "KKIMM",
@@ -1139,7 +1140,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "KLASH",
@@ -1148,7 +1149,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CKW*VOR/DME*091.02/39.00",
+		"updated": "CKW*VOR/DME*091.02/39.00"
 	},
 	{
 		"name": "KLENX",
@@ -1157,7 +1158,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAR*VOR/DME*297.00/8.00",
+		"updated": "LAR*VOR/DME*297.00/8.00"
 	},
 	{
 		"name": "KLING",
@@ -1166,7 +1167,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/26/2012",
+		"updated": "03/26/2012"
 	},
 	{
 		"name": "KMBEL",
@@ -1175,7 +1176,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "KNNOX",
@@ -1184,7 +1185,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/17/2014",
+		"updated": "11/17/2014"
 	},
 	{
 		"name": "KNOSA",
@@ -1193,7 +1194,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "KNOXE",
@@ -1202,7 +1203,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "KNOXS",
@@ -1211,7 +1212,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DDY*VOR/DME*/29.00",
+		"updated": "DDY*VOR/DME*/29.00"
 	},
 	{
 		"name": "KOALT",
@@ -1220,7 +1221,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CYS*VORTAC*170.16",
+		"updated": "CYS*VORTAC*170.16"
 	},
 	{
 		"name": "KOBSE",
@@ -1229,7 +1230,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/29/2007",
+		"updated": "10/29/2007"
 	},
 	{
 		"name": "KOCYE",
@@ -1238,7 +1239,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RAP*VORTAC*275.03/77.70",
+		"updated": "RAP*VORTAC*275.03/77.70"
 	},
 	{
 		"name": "KODEE",
@@ -1247,7 +1248,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/11/2013",
+		"updated": "06/11/2013"
 	},
 	{
 		"name": "KODYS",
@@ -1256,7 +1257,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/16/2010",
+		"updated": "05/16/2010"
 	},
 	{
 		"name": "KOGTE",
@@ -1265,7 +1266,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/12/2006",
+		"updated": "04/12/2006"
 	},
 	{
 		"name": "KOHOE",
@@ -1274,7 +1275,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/23/2012",
+		"updated": "09/23/2012"
 	},
 	{
 		"name": "KOKOO",
@@ -1283,7 +1284,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "KOORN",
@@ -1292,7 +1293,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/24/2012",
+		"updated": "09/24/2012"
 	},
 	{
 		"name": "KOWTO",
@@ -1301,7 +1302,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAA*VOR/DME*205.96/21.67",
+		"updated": "LAA*VOR/DME*205.96/21.67"
 	},
 	{
 		"name": "KRLNA",
@@ -1310,7 +1311,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/23/2012",
+		"updated": "11/23/2012"
 	},
 	{
 		"name": "KROHL",
@@ -1319,7 +1320,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/03/2017",
+		"updated": "02/03/2017"
 	},
 	{
 		"name": "KROMM",
@@ -1328,7 +1329,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*333.79/17.30",
+		"updated": "GLL*VOR/DME*333.79/17.30"
 	},
 	{
 		"name": "KROWZ",
@@ -1337,7 +1338,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*241.10",
+		"updated": "ALS*VORTAC*241.10"
 	},
 	{
 		"name": "KUBRE",
@@ -1346,7 +1347,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "KUDGE",
@@ -1355,7 +1356,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "RCA*TACAN*316.00/7.20",
+		"updated": "RCA*TACAN*316.00/7.20"
 	},
 	{
 		"name": "KUGLN",
@@ -1364,7 +1365,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/25/2012",
+		"updated": "03/25/2012"
 	},
 	{
 		"name": "KUKMY",
@@ -1373,7 +1374,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/18/2017",
+		"updated": "01/18/2017"
 	},
 	{
 		"name": "KURIQ",
@@ -1382,7 +1383,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLD*VORTAC*237.79",
+		"updated": "GLD*VORTAC*237.79"
 	},
 	{
 		"name": "KURSE",
@@ -1391,7 +1392,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/06/2002",
+		"updated": "11/06/2002"
 	},
 	{
 		"name": "KUSAC",
@@ -1400,7 +1401,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/01/2016",
+		"updated": "04/01/2016"
 	},
 	{
 		"name": "KUSKY",
@@ -1409,7 +1410,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/16/2006",
+		"updated": "02/16/2006"
 	},
 	{
 		"name": "KUTRE",
@@ -1418,7 +1419,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "KUURT",
@@ -1427,7 +1428,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LTT*LD*352.51/11.83",
+		"updated": "LTT*LD*352.51/11.83"
 	},
 	{
 		"name": "KUVSE",
@@ -1436,7 +1437,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/19/2002",
+		"updated": "11/19/2002"
 	},
 	{
 		"name": "KUVZU",
@@ -1445,7 +1446,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "KUYEL",
@@ -1454,7 +1455,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/20/2012",
+		"updated": "11/20/2012"
 	},
 	{
 		"name": "KVERN",
@@ -1463,7 +1464,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/01/2015",
+		"updated": "12/01/2015"
 	},
 	{
 		"name": "KWIKK",
@@ -1472,7 +1473,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/03/2014",
+		"updated": "07/03/2014"
 	},
 	{
 		"name": "KYACK",
@@ -1481,5 +1482,6 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ASE*LE*330.63/7.30",
-	},
+		"updated": "ASE*LE*330.63/7.30"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "AAMMM",
 		"latitude": "36-10-25.9 N",
@@ -5,7 +6,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "11/02/2016",
+		"updated": "11/02/2016"
 	},
 	{
 		"name": "AARCI",
@@ -14,7 +15,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/26/2018",
+		"updated": "02/26/2018"
 	},
 	{
 		"name": "AASPN",
@@ -23,7 +24,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/23/2016",
+		"updated": "12/23/2016"
 	},
 	{
 		"name": "AAYJY",
@@ -32,7 +33,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/02/2017",
+		"updated": "03/02/2017"
 	},
 	{
 		"name": "ACELL",
@@ -41,7 +42,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "ELB*VOR/DME*322.62",
+		"updated": "ELB*VOR/DME*322.62"
 	},
 	{
 		"name": "AAMMM",
@@ -50,7 +51,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "11/02/2016",
+		"updated": "11/02/2016"
 	},
 	{
 		"name": "AARCI",
@@ -59,7 +60,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/26/2018",
+		"updated": "02/26/2018"
 	},
 	{
 		"name": "AASPN",
@@ -68,7 +69,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/23/2016",
+		"updated": "12/23/2016"
 	},
 	{
 		"name": "AAYJY",
@@ -77,7 +78,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/02/2017",
+		"updated": "03/02/2017"
 	},
 	{
 		"name": "ACELL",
@@ -86,7 +87,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "ELB*VOR/DME*322.62",
+		"updated": "ELB*VOR/DME*322.62"
 	},
 	{
 		"name": "ACEPA",
@@ -95,7 +96,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "05/15/2006",
+		"updated": "05/15/2006"
 	},
 	{
 		"name": "ACINS",
@@ -104,7 +105,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "HDF*VOR*353.00",
+		"updated": "HDF*VOR*353.00"
 	},
 	{
 		"name": "ACLAM",
@@ -113,7 +114,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "MMM*VORTAC*180.00",
+		"updated": "MMM*VORTAC*180.00"
 	},
 	{
 		"name": "ACOSU",
@@ -122,7 +123,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "BLD*VORTAC*348.37/34.40",
+		"updated": "BLD*VORTAC*348.37/34.40"
 	},
 	{
 		"name": "ACRAT",
@@ -131,7 +132,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "VTU*VOR/DME*014.99",
+		"updated": "VTU*VOR/DME*014.99"
 	},
 	{
 		"name": "ACSIN",
@@ -140,7 +141,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "05/24/2011",
+		"updated": "05/24/2011"
 	},
 	{
 		"name": "ADAMM",
@@ -149,7 +150,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "POM*VORTAC*186.99/3.96",
+		"updated": "POM*VORTAC*186.99/3.96"
 	},
 	{
 		"name": "ADDEL",
@@ -158,7 +159,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "05/05/2011",
+		"updated": "05/05/2011"
 	},
 	{
 		"name": "ADIRE",
@@ -167,7 +168,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/08/2009",
+		"updated": "09/08/2009"
 	},
 	{
 		"name": "ADORE",
@@ -176,7 +177,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/23/2016",
+		"updated": "12/23/2016"
 	},
 	{
 		"name": "ADRYN",
@@ -185,7 +186,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/13/2017",
+		"updated": "02/13/2017"
 	},
 	{
 		"name": "ADUDE",
@@ -194,7 +195,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "JLI*VORTAC*070.00/21.00",
+		"updated": "JLI*VORTAC*070.00/21.00"
 	},
 	{
 		"name": "ADUNE",
@@ -203,7 +204,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "07/10/2002",
+		"updated": "07/10/2002"
 	},
 	{
 		"name": "ADUXE",
@@ -212,7 +213,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "11/06/2002",
+		"updated": "11/06/2002"
 	},
 	{
 		"name": "AERRO",
@@ -221,7 +222,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "PSP*VORTAC*298.90/40.67",
+		"updated": "PSP*VORTAC*298.90/40.67"
 	},
 	{
 		"name": "AFOXY",
@@ -230,7 +231,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "GVO*VORTAC*306.81/5.82",
+		"updated": "GVO*VORTAC*306.81/5.82"
 	},
 	{
 		"name": "AGGID",
@@ -239,7 +240,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "EED*VORTAC*334.59/16.00",
+		"updated": "EED*VORTAC*334.59/16.00"
 	},
 	{
 		"name": "AGIYU",
@@ -248,7 +249,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/13/2009",
+		"updated": "02/13/2009"
 	},
 	{
 		"name": "AGNUT",
@@ -257,7 +258,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "LAS*VORTAC*119.14",
+		"updated": "LAS*VORTAC*119.14"
 	},
 	{
 		"name": "AGRUF",
@@ -266,7 +267,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "07/10/2002",
+		"updated": "07/10/2002"
 	},
 	{
 		"name": "AGZIF",
@@ -275,7 +276,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "07/10/2002",
+		"updated": "07/10/2002"
 	},
 	{
 		"name": "AHEIM",
@@ -284,7 +285,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "POM*VORTAC*187.00/16.67",
+		"updated": "POM*VORTAC*187.00/16.67"
 	},
 	{
 		"name": "AHGAW",
@@ -293,7 +294,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "IGM*VOR/DME*010.00/8.00",
+		"updated": "IGM*VOR/DME*010.00/8.00"
 	},
 	{
 		"name": "AHIYI",
@@ -302,7 +303,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "10/18/2006",
+		"updated": "10/18/2006"
 	},
 	{
 		"name": "AHLEX",
@@ -311,7 +312,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "PSP*VORTAC*260.32/13.00",
+		"updated": "PSP*VORTAC*260.32/13.00"
 	},
 	{
 		"name": "AHOWW",
@@ -320,7 +321,7 @@
 		"state": "UTAH",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/19/2016",
+		"updated": "01/19/2016"
 	},
 	{
 		"name": "AHWOV",
@@ -329,7 +330,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "07/10/2002",
+		"updated": "07/10/2002"
 	},
 	{
 		"name": "AJADE",
@@ -338,7 +339,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "10/03/2016",
+		"updated": "10/03/2016"
 	},
 	{
 		"name": "AJAJE",
@@ -347,7 +348,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "07/10/2002",
+		"updated": "07/10/2002"
 	},
 	{
 		"name": "AJIYO",
@@ -356,7 +357,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "07/10/2002",
+		"updated": "07/10/2002"
 	},
 	{
 		"name": "AJPOG",
@@ -365,7 +366,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "11/22/2002",
+		"updated": "11/22/2002"
 	},
 	{
 		"name": "AJWUM",
@@ -374,7 +375,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "12/21/1999",
+		"updated": "12/21/1999"
 	},
 	{
 		"name": "AKANY",
@@ -383,7 +384,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "12/21/1999",
+		"updated": "12/21/1999"
 	},
 	{
 		"name": "AKDMY",
@@ -392,7 +393,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "RZS*VORTAC*095.86/45.64",
+		"updated": "RZS*VORTAC*095.86/45.64"
 	},
 	{
 		"name": "AKEGE",
@@ -401,7 +402,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/09/2002",
+		"updated": "04/09/2002"
 	},
 	{
 		"name": "AKIPE",
@@ -410,7 +411,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/09/2002",
+		"updated": "04/09/2002"
 	},
 	{
 		"name": "AKOME",
@@ -419,7 +420,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "RIV*TACAN*138.00/15.00",
+		"updated": "RIV*TACAN*138.00/15.00"
 	},
 	{
 		"name": "AKTAQ",
@@ -428,7 +429,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/12/2004",
+		"updated": "04/12/2004"
 	},
 	{
 		"name": "ALBAS",
@@ -437,7 +438,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "LAX*VORTAC*123.33/26.70",
+		"updated": "LAX*VORTAC*123.33/26.70"
 	},
 	{
 		"name": "ALISN",
@@ -446,7 +447,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "UWU*LD*250.99/4.64",
+		"updated": "UWU*LD*250.99/4.64"
 	},
 	{
 		"name": "ALMST",
@@ -455,7 +456,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/01/2017",
+		"updated": "03/01/2017"
 	},
 	{
 		"name": "ALRAY",
@@ -464,7 +465,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "IGM*VOR/DME*010.00/3.73",
+		"updated": "IGM*VOR/DME*010.00/3.73"
 	},
 	{
 		"name": "ALUND",
@@ -473,7 +474,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "LAS*VORTAC*082.41/1.70",
+		"updated": "LAS*VORTAC*082.41/1.70"
 	},
 	{
 		"name": "ALYSN",
@@ -482,7 +483,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/23/2016",
+		"updated": "12/23/2016"
 	},
 	{
 		"name": "AMANE",
@@ -491,7 +492,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "EDW*VORTAC*183.54",
+		"updated": "EDW*VORTAC*183.54"
 	},
 	{
 		"name": "AMANY",
@@ -500,7 +501,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/09/2016",
+		"updated": "09/09/2016"
 	},
 	{
 		"name": "AMELE",
@@ -509,7 +510,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "08/07/2014",
+		"updated": "08/07/2014"
 	},
 	{
 		"name": "AMERE",
@@ -518,7 +519,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "GCN*VOR/DME*239.00/12.00",
+		"updated": "GCN*VOR/DME*239.00/12.00"
 	},
 	{
 		"name": "AMFIB",
@@ -527,7 +528,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "NFG*TACAN*212.00/8.00",
+		"updated": "NFG*TACAN*212.00/8.00"
 	},
 	{
 		"name": "AMMOR",
@@ -536,7 +537,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/23/2016",
+		"updated": "12/23/2016"
 	},
 	{
 		"name": "AMONT",
@@ -545,7 +546,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "LHS*VORTAC*328.70/31.27",
+		"updated": "LHS*VORTAC*328.70/31.27"
 	},
 	{
 		"name": "AMTRA",
@@ -554,7 +555,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "LAX*VORTAC*046.00/17.32",
+		"updated": "LAX*VORTAC*046.00/17.32"
 	},
 	{
 		"name": "AMUWY",
@@ -563,7 +564,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "10/25/2002",
+		"updated": "10/25/2002"
 	},
 	{
 		"name": "ANCAP",
@@ -572,7 +573,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "RZS*VORTAC*142.04",
+		"updated": "RZS*VORTAC*142.04"
 	},
 	{
 		"name": "ANDYY",
@@ -581,7 +582,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "WP",
-		"updated": "07/09/2001",
+		"updated": "07/09/2001"
 	},
 	{
 		"name": "ANIBY",
@@ -590,7 +591,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "05/18/2009",
+		"updated": "05/18/2009"
 	},
 	{
 		"name": "ANJLL",
@@ -599,7 +600,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/23/2016",
+		"updated": "12/23/2016"
 	},
 	{
 		"name": "ANOCI",
@@ -608,7 +609,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "10/25/2002",
+		"updated": "10/25/2002"
 	},
 	{
 		"name": "ANOTE",
@@ -617,7 +618,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "OCN*VORTAC*075.00/28.31",
+		"updated": "OCN*VORTAC*075.00/28.31"
 	},
 	{
 		"name": "ANTLP",
@@ -626,7 +627,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/23/2016",
+		"updated": "12/23/2016"
 	},
 	{
 		"name": "APATE",
@@ -635,7 +636,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/28/2009",
+		"updated": "04/28/2009"
 	},
 	{
 		"name": "APCUD",
@@ -644,7 +645,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "10/25/2013",
+		"updated": "10/25/2013"
 	},
 	{
 		"name": "APHIS",
@@ -653,7 +654,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "06/30/2014",
+		"updated": "06/30/2014"
 	},
 	{
 		"name": "APIPE",
@@ -662,7 +663,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "05/05/2008",
+		"updated": "05/05/2008"
 	},
 	{
 		"name": "APLES",
@@ -671,7 +672,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "VCV*VOR/DME*088.87/12.23",
+		"updated": "VCV*VOR/DME*088.87/12.23"
 	},
 	{
 		"name": "APOCY",
@@ -680,7 +681,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "10/25/2002",
+		"updated": "10/25/2002"
 	},
 	{
 		"name": "APURE",
@@ -689,7 +690,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "11/13/2017",
+		"updated": "11/13/2017"
 	},
 	{
 		"name": "AQSOC",
@@ -698,7 +699,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/17/2009",
+		"updated": "04/17/2009"
 	},
 	{
 		"name": "ARAZI",
@@ -707,7 +708,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "BZA*VORTAC*254.80/5.00",
+		"updated": "BZA*VORTAC*254.80/5.00"
 	},
 	{
 		"name": "ARBIE",
@@ -716,7 +717,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "OSS*LD*071.00/3.68",
+		"updated": "OSS*LD*071.00/3.68"
 	},
 	{
 		"name": "ARCOE",
@@ -725,7 +726,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "LSV*TACAN*358.00/30.00",
+		"updated": "LSV*TACAN*358.00/30.00"
 	},
 	{
 		"name": "ARCUS",
@@ -734,7 +735,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/30/2016",
+		"updated": "12/30/2016"
 	},
 	{
 		"name": "AREAE",
@@ -743,7 +744,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/30/2016",
+		"updated": "12/30/2016"
 	},
 	{
 		"name": "AREAF",
@@ -752,7 +753,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/22/2016",
+		"updated": "01/22/2016"
 	},
 	{
 		"name": "ARENT",
@@ -761,7 +762,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "10/26/2010",
+		"updated": "10/26/2010"
 	},
 	{
 		"name": "ARGUS",
@@ -770,7 +771,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "IPL*VORTAC*074.31/10.00",
+		"updated": "IPL*VORTAC*074.31/10.00"
 	},
 	{
 		"name": "ARHEY",
@@ -779,7 +780,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "EED*VORTAC*138.89/10.00",
+		"updated": "EED*VORTAC*138.89/10.00"
 	},
 	{
 		"name": "ARIII",
@@ -788,7 +789,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/30/2016",
+		"updated": "12/30/2016"
 	},
 	{
 		"name": "ARKOE",
@@ -797,7 +798,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "OCN*VORTAC*021.00",
+		"updated": "OCN*VORTAC*021.00"
 	},
 	{
 		"name": "ARMBR",
@@ -806,7 +807,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/20/2016",
+		"updated": "09/20/2016"
 	},
 	{
 		"name": "ARNEE",
@@ -815,7 +816,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "SLI*VORTAC*070.00",
+		"updated": "SLI*VORTAC*070.00"
 	},
 	{
 		"name": "ARNES",
@@ -824,7 +825,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "LAX*VORTAC*068.00/33.42",
+		"updated": "LAX*VORTAC*068.00/33.42"
 	},
 	{
 		"name": "AROWW",
@@ -833,7 +834,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/26/2018",
+		"updated": "02/26/2018"
 	},
 	{
 		"name": "ARRAN",
@@ -842,7 +843,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "PDZ*VORTAC*029.90/25.45",
+		"updated": "PDZ*VORTAC*029.90/25.45"
 	},
 	{
 		"name": "ARRDY",
@@ -851,7 +852,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/26/2018",
+		"updated": "02/26/2018"
 	},
 	{
 		"name": "ARRMY",
@@ -860,7 +861,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/23/2016",
+		"updated": "12/23/2016"
 	},
 	{
 		"name": "ARRVD",
@@ -869,7 +870,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "PDZ*VORTAC*069.00/40.00",
+		"updated": "PDZ*VORTAC*069.00/40.00"
 	},
 	{
 		"name": "ARRYA",
@@ -878,7 +879,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/23/2017",
+		"updated": "02/23/2017"
 	},
 	{
 		"name": "ARVDD",
@@ -887,7 +888,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "10/31/2016",
+		"updated": "10/31/2016"
 	},
 	{
 		"name": "ARVIN",
@@ -896,7 +897,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "EHF*VORTAC*123.00/16.99",
+		"updated": "EHF*VORTAC*123.00/16.99"
 	},
 	{
 		"name": "ASIPY",
@@ -905,7 +906,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "ASIXY",
@@ -914,7 +915,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "10/06/2008",
+		"updated": "10/06/2008"
 	},
 	{
 		"name": "ASIYO",
@@ -923,7 +924,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/02/2003",
+		"updated": "01/02/2003"
 	},
 	{
 		"name": "ASTRN",
@@ -932,7 +933,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/09/2012",
+		"updated": "03/09/2012"
 	},
 	{
 		"name": "ASUTA",
@@ -941,7 +942,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "10/03/2016",
+		"updated": "10/03/2016"
 	},
 	{
 		"name": "ASUYU",
@@ -950,7 +951,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/14/2003",
+		"updated": "04/14/2003"
 	},
 	{
 		"name": "ATALF",
@@ -959,7 +960,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "BLD*VORTAC*344.00/23.74",
+		"updated": "BLD*VORTAC*344.00/23.74"
 	},
 	{
 		"name": "ATLAF",
@@ -968,7 +969,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "MR",
-		"updated": "VBG*TACAN*303.00/13.00",
+		"updated": "VBG*TACAN*303.00/13.00"
 	},
 	{
 		"name": "ATLIS",
@@ -977,7 +978,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/14/2003",
+		"updated": "04/14/2003"
 	},
 	{
 		"name": "AVARE",
@@ -986,7 +987,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/02/2009",
+		"updated": "01/02/2009"
 	},
 	{
 		"name": "AVATR",
@@ -995,7 +996,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "12/23/2016",
+		"updated": "12/23/2016"
 	},
 	{
 		"name": "AVERS",
@@ -1004,7 +1005,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "LAS*VORTAC*026.97/80.97",
+		"updated": "LAS*VORTAC*026.97/80.97"
 	},
 	{
 		"name": "AVILA",
@@ -1013,7 +1014,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "FLW*VOR/DME*258.89",
+		"updated": "FLW*VOR/DME*258.89"
 	},
 	{
 		"name": "AVOLS",
@@ -1022,7 +1023,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RP",
-		"updated": "SXC*VORTAC*083.80/9.06",
+		"updated": "SXC*VORTAC*083.80/9.06"
 	},
 	{
 		"name": "AVONE",
@@ -1031,7 +1032,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "11/25/2002",
+		"updated": "11/25/2002"
 	},
 	{
 		"name": "AVRRY",
@@ -1040,7 +1041,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "01/05/2017",
+		"updated": "01/05/2017"
 	},
 	{
 		"name": "AWIZO",
@@ -1049,7 +1050,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZLA",
 		"type": "CN",
-		"updated": "12/04/2014",
+		"updated": "12/04/2014"
 	},
 	{
 		"name": "AXONE",
@@ -1058,7 +1059,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "10/07/2015",
+		"updated": "10/07/2015"
 	},
 	{
 		"name": "AXOYO",
@@ -1067,7 +1068,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "05/05/2008",
+		"updated": "05/05/2008"
 	},
 	{
 		"name": "AYITU",
@@ -1076,7 +1077,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "03/29/2017",
+		"updated": "03/29/2017"
 	},
 	{
 		"name": "AYKAY",
@@ -1085,7 +1086,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "02/14/2017",
+		"updated": "02/14/2017"
 	},
 	{
 		"name": "AYODA",
@@ -1094,7 +1095,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/17/2009",
+		"updated": "04/17/2009"
 	},
 	{
 		"name": "AYYYY",
@@ -1103,7 +1104,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "04/05/2018",
+		"updated": "04/05/2018"
 	},
 	{
 		"name": "AZKBN",
@@ -1112,7 +1113,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "08/30/2016",
+		"updated": "08/30/2016"
 	},
 	{
 		"name": "AZTEK",
@@ -1121,5 +1122,6 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZLA",
 		"type": "RNAV",
-		"updated": "09/11/2016",
-	},
+		"updated": "09/11/2016"
+	}
+]

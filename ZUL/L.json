@@ -1,3 +1,4 @@
+[
 	{
 		"name": "LEPOS",
 		"latitude": "43-35-1 N",
@@ -5,7 +6,7 @@
 		"state": "",
 		"artcc": "ZUL",
 		"type": "RNAV",
-		"updated": "09/23/2014",
+		"updated": "09/23/2014"
 	},
 	{
 		"name": "LIAND",
@@ -14,5 +15,6 @@
 		"state": "",
 		"artcc": "ZUL",
 		"type": "RP",
-		"updated": "YSC*VOR/DME*218.00/16.00",
-	},
+		"updated": "YSC*VOR/DME*218.00/16.00"
+	}
+]

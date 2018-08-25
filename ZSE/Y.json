@@ -1,3 +1,4 @@
+[
 	{
 		"name": "YAANO",
 		"latitude": "48-53-37.7 N",
@@ -5,7 +6,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/21/2011",
+		"updated": "03/21/2011"
 	},
 	{
 		"name": "YABLU",
@@ -14,7 +15,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "YKM*VORTAC*187.27/17.00",
+		"updated": "YKM*VORTAC*187.27/17.00"
 	},
 	{
 		"name": "YACUS",
@@ -23,7 +24,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "CEC*VORTAC*/0.60",
+		"updated": "CEC*VORTAC*/0.60"
 	},
 	{
 		"name": "YAGER",
@@ -32,7 +33,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "ACV*VOR/DME*135.92/28.54",
+		"updated": "ACV*VOR/DME*135.92/28.54"
 	},
 	{
 		"name": "YALLO",
@@ -41,7 +42,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/15/2005",
+		"updated": "12/15/2005"
 	},
 	{
 		"name": "YANEX",
@@ -50,7 +51,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "LMT*VORTAC*052.03/20.00",
+		"updated": "LMT*VORTAC*052.03/20.00"
 	},
 	{
 		"name": "YANNO",
@@ -59,7 +60,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "YAPEC",
@@ -68,7 +69,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/03/2010",
+		"updated": "03/03/2010"
 	},
 	{
 		"name": "YAQER",
@@ -77,7 +78,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/02/2008",
+		"updated": "12/02/2008"
 	},
 	{
 		"name": "YAVUR",
@@ -86,7 +87,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PAE*VOR/DME*340.00/9.00",
+		"updated": "PAE*VOR/DME*340.00/9.00"
 	},
 	{
 		"name": "YAVUV",
@@ -95,7 +96,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "01/31/2011",
+		"updated": "01/31/2011"
 	},
 	{
 		"name": "YAXOF",
@@ -104,7 +105,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "SNQ*LD*N CRS/13.70",
+		"updated": "SNQ*LD*N CRS/13.70"
 	},
 	{
 		"name": "YAYKU",
@@ -113,7 +114,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/17/2011",
+		"updated": "06/17/2011"
 	},
 	{
 		"name": "YAYUB",
@@ -122,7 +123,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "YELUG",
@@ -131,7 +132,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/31/2011",
+		"updated": "01/31/2011"
 	},
 	{
 		"name": "YENTL",
@@ -140,7 +141,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/23/2015",
+		"updated": "04/23/2015"
 	},
 	{
 		"name": "YEPCU",
@@ -149,7 +150,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "YERPU",
@@ -158,7 +159,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/04/2009",
+		"updated": "08/04/2009"
 	},
 	{
 		"name": "YERUD",
@@ -167,7 +168,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/31/2011",
+		"updated": "01/31/2011"
 	},
 	{
 		"name": "YETII",
@@ -176,7 +177,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "NUW*TACAN*203.00/30.00",
+		"updated": "NUW*TACAN*203.00/30.00"
 	},
 	{
 		"name": "YEYUD",
@@ -185,7 +186,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/01/2017",
+		"updated": "12/01/2017"
 	},
 	{
 		"name": "YIBPU",
@@ -194,7 +195,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "CBU*TACAN*286.00/2.20",
+		"updated": "CBU*TACAN*286.00/2.20"
 	},
 	{
 		"name": "YICBU",
@@ -203,7 +204,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "OTH*VOR/DME*301.00/8.00",
+		"updated": "OTH*VOR/DME*301.00/8.00"
 	},
 	{
 		"name": "YICUB",
@@ -212,7 +213,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "GEG*VORTAC*232.48/20.00",
+		"updated": "GEG*VORTAC*232.48/20.00"
 	},
 	{
 		"name": "YIDTU",
@@ -221,7 +222,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "01/31/2011",
+		"updated": "01/31/2011"
 	},
 	{
 		"name": "YIDUG",
@@ -230,7 +231,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/27/2010",
+		"updated": "09/27/2010"
 	},
 	{
 		"name": "YIGUN",
@@ -239,7 +240,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "YIGUS",
@@ -248,7 +249,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/25/2015",
+		"updated": "06/25/2015"
 	},
 	{
 		"name": "YINUL",
@@ -257,7 +258,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "YINUP",
@@ -266,7 +267,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "JMJ*LD*103.03/3.60",
+		"updated": "JMJ*LD*103.03/3.60"
 	},
 	{
 		"name": "YIPUG",
@@ -275,7 +276,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "MFR*LD*142.77/11.00",
+		"updated": "MFR*LD*142.77/11.00"
 	},
 	{
 		"name": "YIPYU",
@@ -284,7 +285,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "GPO*LE*029.02/14.30",
+		"updated": "GPO*LE*029.02/14.30"
 	},
 	{
 		"name": "YIRSU",
@@ -293,7 +294,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "YISUL",
@@ -302,7 +303,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/17/2015",
+		"updated": "08/17/2015"
 	},
 	{
 		"name": "YIVUD",
@@ -311,7 +312,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "11/21/2011",
+		"updated": "11/21/2011"
 	},
 	{
 		"name": "YIYKU",
@@ -320,7 +321,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "YIYSU",
@@ -329,7 +330,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "OLM*VORTAC*/11.31",
+		"updated": "OLM*VORTAC*/11.31"
 	},
 	{
 		"name": "YIYUG",
@@ -338,7 +339,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "YIZED",
@@ -347,7 +348,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/16/2014",
+		"updated": "09/16/2014"
 	},
 	{
 		"name": "YOBUN",
@@ -356,7 +357,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "CEC*VORTAC*181.00/11.00",
+		"updated": "CEC*VORTAC*181.00/11.00"
 	},
 	{
 		"name": "YOCKU",
@@ -365,7 +366,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/30/2013",
+		"updated": "01/30/2013"
 	},
 	{
 		"name": "YOCUG",
@@ -374,7 +375,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "02/12/2014",
+		"updated": "02/12/2014"
 	},
 	{
 		"name": "YOCUY",
@@ -383,7 +384,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "09/16/2014",
+		"updated": "09/16/2014"
 	},
 	{
 		"name": "YOGRU",
@@ -392,7 +393,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "CEC*VORTAC*165.75/0.41",
+		"updated": "CEC*VORTAC*165.75/0.41"
 	},
 	{
 		"name": "YOLDU",
@@ -401,7 +402,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "YONKU",
@@ -410,7 +411,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/27/2014",
+		"updated": "06/27/2014"
 	},
 	{
 		"name": "YORKY",
@@ -419,7 +420,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/20/2015",
+		"updated": "04/20/2015"
 	},
 	{
 		"name": "YORUC",
@@ -428,7 +429,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "01/28/2013",
+		"updated": "01/28/2013"
 	},
 	{
 		"name": "YOTUN",
@@ -437,7 +438,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/27/2007",
+		"updated": "03/27/2007"
 	},
 	{
 		"name": "YOYOS",
@@ -446,7 +447,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "MWH*VOR/DME*051.41/6.09",
+		"updated": "MWH*VOR/DME*051.41/6.09"
 	},
 	{
 		"name": "YOYUG",
@@ -455,7 +456,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "EAT*VOR/DME*285.00/19.00",
+		"updated": "EAT*VOR/DME*285.00/19.00"
 	},
 	{
 		"name": "YOYUT",
@@ -464,7 +465,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "YOYVU",
@@ -473,7 +474,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "12/01/2017",
+		"updated": "12/01/2017"
 	},
 	{
 		"name": "YUBBU",
@@ -482,7 +483,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/06/2016",
+		"updated": "10/06/2016"
 	},
 	{
 		"name": "YUBUB",
@@ -491,7 +492,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "RDM*LD*046.37/16.72",
+		"updated": "RDM*LD*046.37/16.72"
 	},
 	{
 		"name": "YUCSU",
@@ -500,7 +501,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "TOU*VORTAC*080.71/29.63",
+		"updated": "TOU*VORTAC*080.71/29.63"
 	},
 	{
 		"name": "YUDUB",
@@ -509,7 +510,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "04/23/2012",
+		"updated": "04/23/2012"
 	},
 	{
 		"name": "YUKUS",
@@ -518,7 +519,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "11/02/2017",
+		"updated": "11/02/2017"
 	},
 	{
 		"name": "YUMIE",
@@ -527,7 +528,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "08/16/2016",
+		"updated": "08/16/2016"
 	},
 	{
 		"name": "YUNNU",
@@ -536,7 +537,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "05/15/2014",
+		"updated": "05/15/2014"
 	},
 	{
 		"name": "YUNUV",
@@ -545,7 +546,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "05/11/2012",
+		"updated": "05/11/2012"
 	},
 	{
 		"name": "YUPUS",
@@ -554,7 +555,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/08/2010",
+		"updated": "06/08/2010"
 	},
 	{
 		"name": "YUPVU",
@@ -563,7 +564,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "OTH*VOR/DME*348.81/10.00",
+		"updated": "OTH*VOR/DME*348.81/10.00"
 	},
 	{
 		"name": "YURLU",
@@ -572,7 +573,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/06/2016",
+		"updated": "10/06/2016"
 	},
 	{
 		"name": "YUXBU",
@@ -581,7 +582,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/26/2009",
+		"updated": "03/26/2009"
 	},
 	{
 		"name": "YUZPI",
@@ -590,7 +591,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/26/2009",
+		"updated": "03/26/2009"
 	},
 	{
 		"name": "YYYAA",
@@ -599,7 +600,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "YYYBB",
@@ -608,7 +609,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "06/04/2012",
+		"updated": "06/04/2012"
 	},
 	{
 		"name": "YYYCC",
@@ -617,5 +618,6 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "06/04/2012",
-	},
+		"updated": "06/04/2012"
+	}
+]

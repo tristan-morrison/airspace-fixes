@@ -1,3 +1,4 @@
+[
 	{
 		"name": "XCUTE",
 		"latitude": "48-0-41.89 N",
@@ -5,7 +6,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "06/25/2013",
+		"updated": "06/25/2013"
 	},
 	{
 		"name": "XELOW",
@@ -14,7 +15,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "03/21/2011",
+		"updated": "03/21/2011"
 	},
 	{
 		"name": "XIQCU",
@@ -23,7 +24,7 @@
 		"state": "OREGON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "09/27/2010",
+		"updated": "09/27/2010"
 	},
 	{
 		"name": "XIWVA",
@@ -32,7 +33,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "CN",
-		"updated": "05/02/2010",
+		"updated": "05/02/2010"
 	},
 	{
 		"name": "XORPE",
@@ -41,7 +42,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "MR",
-		"updated": "CBU*TACAN*286.00/5.00",
+		"updated": "CBU*TACAN*286.00/5.00"
 	},
 	{
 		"name": "XUBRA",
@@ -50,7 +51,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "10/25/2016",
+		"updated": "10/25/2016"
 	},
 	{
 		"name": "XUKRE",
@@ -59,7 +60,7 @@
 		"state": "WASHINGTON",
 		"artcc": "ZSE",
 		"type": "RP",
-		"updated": "PAE*VOR/DME*340.00/0.07",
+		"updated": "PAE*VOR/DME*340.00/0.07"
 	},
 	{
 		"name": "XUNXO",
@@ -68,7 +69,7 @@
 		"state": "CALIFORNIA",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "07/06/2009",
+		"updated": "07/06/2009"
 	},
 	{
 		"name": "XUSLY",
@@ -77,5 +78,6 @@
 		"state": "HAWAII",
 		"artcc": "ZSE",
 		"type": "RNAV",
-		"updated": "02/23/2017",
-	},
+		"updated": "02/23/2017"
+	}
+]

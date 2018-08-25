@@ -1,3 +1,4 @@
+[
 	{
 		"name": "TABLE",
 		"latitude": "41-15-10.51 N",
@@ -5,7 +6,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "OBH*VORTAC*259.96/110.00",
+		"updated": "OBH*VORTAC*259.96/110.00"
 	},
 	{
 		"name": "TACUD",
@@ -14,7 +15,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/16/2008",
+		"updated": "07/16/2008"
 	},
 	{
 		"name": "TACUK",
@@ -23,7 +24,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*108.00/3.30",
+		"updated": "CHE*VOR/DME*108.00/3.30"
 	},
 	{
 		"name": "TADUY",
@@ -32,7 +33,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "TAGKO",
@@ -41,7 +42,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "TAHIB",
@@ -50,7 +51,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/10/2014",
+		"updated": "10/10/2014"
 	},
 	{
 		"name": "TAIIL",
@@ -59,7 +60,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "TAILR",
@@ -68,7 +69,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "FQF*VORTAC*301.59",
+		"updated": "FQF*VORTAC*301.59"
 	},
 	{
 		"name": "TAKSE",
@@ -77,7 +78,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "TALJE",
@@ -86,7 +87,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/25/2000",
+		"updated": "07/25/2000"
 	},
 	{
 		"name": "TANRE",
@@ -95,7 +96,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/17/2006",
+		"updated": "02/17/2006"
 	},
 	{
 		"name": "TANZU",
@@ -104,7 +105,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "TARGS",
@@ -113,7 +114,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "RCA*TACAN*343.50/15.00",
+		"updated": "RCA*TACAN*343.50/15.00"
 	},
 	{
 		"name": "TARIE",
@@ -122,7 +123,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/16/2012",
+		"updated": "03/16/2012"
 	},
 	{
 		"name": "TATCO",
@@ -131,7 +132,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RAP*VORTAC*105.00/11.00",
+		"updated": "RAP*VORTAC*105.00/11.00"
 	},
 	{
 		"name": "TATKE",
@@ -140,7 +141,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CIM*VORTAC*357.95/34.05",
+		"updated": "CIM*VORTAC*357.95/34.05"
 	},
 	{
 		"name": "TATTR",
@@ -149,7 +150,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HCT*VORTAC*265.67/50.00",
+		"updated": "HCT*VORTAC*265.67/50.00"
 	},
 	{
 		"name": "TAULB",
@@ -158,7 +159,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/17/2014",
+		"updated": "11/17/2014"
 	},
 	{
 		"name": "TAVRN",
@@ -167,7 +168,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "TAYLR",
@@ -176,7 +177,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HBU*VOR/DME*021.01/25.00",
+		"updated": "HBU*VOR/DME*021.01/25.00"
 	},
 	{
 		"name": "TAYOT",
@@ -185,7 +186,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/29/2012",
+		"updated": "11/29/2012"
 	},
 	{
 		"name": "TEBIE",
@@ -194,7 +195,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/04/2005",
+		"updated": "04/04/2005"
 	},
 	{
 		"name": "TECOB",
@@ -203,7 +204,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/21/2018",
+		"updated": "02/21/2018"
 	},
 	{
 		"name": "TEDUE",
@@ -212,7 +213,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/04/2015",
+		"updated": "09/04/2015"
 	},
 	{
 		"name": "TEEBO",
@@ -221,7 +222,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "TEHEV",
@@ -230,7 +231,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*281.78",
+		"updated": "PUB*VORTAC*281.78"
 	},
 	{
 		"name": "TEHHY",
@@ -239,7 +240,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "TEHRU",
@@ -248,7 +249,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*133.50",
+		"updated": "DBL*VOR/DME*133.50"
 	},
 	{
 		"name": "TEKAE",
@@ -257,7 +258,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAA*VOR/DME*237.74/25.52",
+		"updated": "LAA*VOR/DME*237.74/25.52"
 	},
 	{
 		"name": "TEKGU",
@@ -266,7 +267,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RIL*VOR/DME*249.90/19.00",
+		"updated": "RIL*VOR/DME*249.90/19.00"
 	},
 	{
 		"name": "TEKMY",
@@ -275,7 +276,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DEN*VOR/DME*076.00/107.00",
+		"updated": "DEN*VOR/DME*076.00/107.00"
 	},
 	{
 		"name": "TELCU",
@@ -284,7 +285,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/11/2006",
+		"updated": "09/11/2006"
 	},
 	{
 		"name": "TELLR",
@@ -293,7 +294,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "TELSE",
@@ -302,7 +303,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/07/2003",
+		"updated": "10/07/2003"
 	},
 	{
 		"name": "TELSY",
@@ -311,7 +312,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "TEPTY",
@@ -320,7 +321,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/23/2007",
+		"updated": "03/23/2007"
 	},
 	{
 		"name": "TEROE",
@@ -329,7 +330,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/08/2010",
+		"updated": "11/08/2010"
 	},
 	{
 		"name": "TERRO",
@@ -338,7 +339,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*112.26",
+		"updated": "DBL*VOR/DME*112.26"
 	},
 	{
 		"name": "TESKY",
@@ -347,7 +348,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/16/2010",
+		"updated": "08/16/2010"
 	},
 	{
 		"name": "TESSY",
@@ -356,7 +357,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "JNC*VOR/DME*341.22/26.23",
+		"updated": "JNC*VOR/DME*341.22/26.23"
 	},
 	{
 		"name": "TETOY",
@@ -365,7 +366,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/18/2015",
+		"updated": "11/18/2015"
 	},
 	{
 		"name": "TEVRE",
@@ -374,7 +375,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/06/2018",
+		"updated": "04/06/2018"
 	},
 	{
 		"name": "TEXCO",
@@ -383,7 +384,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "THHEE",
@@ -392,7 +393,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/11/2017",
+		"updated": "12/11/2017"
 	},
 	{
 		"name": "THOAR",
@@ -401,7 +402,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/03/2017",
+		"updated": "02/03/2017"
 	},
 	{
 		"name": "THRUU",
@@ -410,7 +411,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "TIGHT",
@@ -419,7 +420,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "TIKET",
@@ -428,7 +429,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ASE*LE*330.63/11.33",
+		"updated": "ASE*LE*330.63/11.33"
 	},
 	{
 		"name": "TIKLR",
@@ -437,7 +438,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "TILLI",
@@ -446,7 +447,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*113.78/27.90",
+		"updated": "CHE*VOR/DME*113.78/27.90"
 	},
 	{
 		"name": "TIPOC",
@@ -455,7 +456,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/08/2009",
+		"updated": "06/08/2009"
 	},
 	{
 		"name": "TIRUE",
@@ -464,7 +465,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/16/2009",
+		"updated": "03/16/2009"
 	},
 	{
 		"name": "TLRID",
@@ -473,7 +474,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "TOADD",
@@ -482,7 +483,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/20/2016",
+		"updated": "01/20/2016"
 	},
 	{
 		"name": "TOBPU",
@@ -491,7 +492,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/08/2010",
+		"updated": "11/08/2010"
 	},
 	{
 		"name": "TOCUT",
@@ -500,7 +501,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*301.38/10.00",
+		"updated": "ALS*VORTAC*301.38/10.00"
 	},
 	{
 		"name": "TODDE",
@@ -509,7 +510,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*085.51/38.49",
+		"updated": "PUB*VORTAC*085.51/38.49"
 	},
 	{
 		"name": "TODVE",
@@ -518,7 +519,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/24/2008",
+		"updated": "07/24/2008"
 	},
 	{
 		"name": "TOJAM",
@@ -527,7 +528,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CHE*VOR/DME*197.00/32.31",
+		"updated": "CHE*VOR/DME*197.00/32.31"
 	},
 	{
 		"name": "TOKKU",
@@ -536,7 +537,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LBF*VOR/DME*104.83",
+		"updated": "LBF*VOR/DME*104.83"
 	},
 	{
 		"name": "TOMSN",
@@ -545,7 +546,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*245.00",
+		"updated": "GLL*VOR/DME*245.00"
 	},
 	{
 		"name": "TONAE",
@@ -554,7 +555,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/13/2008",
+		"updated": "08/13/2008"
 	},
 	{
 		"name": "TOOKE",
@@ -563,7 +564,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CZI*VOR/DME*076.00",
+		"updated": "CZI*VOR/DME*076.00"
 	},
 	{
 		"name": "TORLE",
@@ -572,7 +573,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/11/2013",
+		"updated": "06/11/2013"
 	},
 	{
 		"name": "TOSOE",
@@ -581,7 +582,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/16/2008",
+		"updated": "04/16/2008"
 	},
 	{
 		"name": "TOTTT",
@@ -590,7 +591,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "TRAIN",
@@ -599,7 +600,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "TRPEL",
@@ -608,7 +609,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "PUB*VORTAC*221.75/29.00",
+		"updated": "PUB*VORTAC*221.75/29.00"
 	},
 	{
 		"name": "TRTTL",
@@ -617,7 +618,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/15/2012",
+		"updated": "02/15/2012"
 	},
 	{
 		"name": "TRUEL",
@@ -626,7 +627,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*296.63/23.93",
+		"updated": "DBL*VOR/DME*296.63/23.93"
 	},
 	{
 		"name": "TRUMA",
@@ -635,7 +636,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CKW*VOR/DME*091.02/25.00",
+		"updated": "CKW*VOR/DME*091.02/25.00"
 	},
 	{
 		"name": "TRUNK",
@@ -644,7 +645,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "MCK*LD*NW CRS/12.61",
+		"updated": "MCK*LD*NW CRS/12.61"
 	},
 	{
 		"name": "TRYAL",
@@ -653,7 +654,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/06/2002",
+		"updated": "11/06/2002"
 	},
 	{
 		"name": "TSHNR",
@@ -662,7 +663,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "TUCFY",
@@ -671,7 +672,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLD*VORTAC*231.98",
+		"updated": "GLD*VORTAC*231.98"
 	},
 	{
 		"name": "TUCKK",
@@ -680,7 +681,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "TUGGL",
@@ -689,7 +690,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/25/2012",
+		"updated": "03/25/2012"
 	},
 	{
 		"name": "TUKWY",
@@ -698,7 +699,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/20/2012",
+		"updated": "11/20/2012"
 	},
 	{
 		"name": "TULLL",
@@ -707,7 +708,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/06/2012",
+		"updated": "09/06/2012"
 	},
 	{
 		"name": "TUMBL",
@@ -716,7 +717,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SNY*VOR/DME*201.81/48.51",
+		"updated": "SNY*VOR/DME*201.81/48.51"
 	},
 	{
 		"name": "TUNEE",
@@ -725,7 +726,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/21/2016",
+		"updated": "07/21/2016"
 	},
 	{
 		"name": "TUNNN",
@@ -734,7 +735,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "TUNTE",
@@ -743,7 +744,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LPI*LD*N CRS/2.85",
+		"updated": "LPI*LD*N CRS/2.85"
 	},
 	{
 		"name": "TURBN",
@@ -752,7 +753,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "TURLY",
@@ -761,7 +762,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RSK*VORTAC*072.00/16.00",
+		"updated": "RSK*VORTAC*072.00/16.00"
 	},
 	{
 		"name": "TUSKK",
@@ -770,7 +771,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/06/2011",
+		"updated": "07/06/2011"
 	},
 	{
 		"name": "TUSPE",
@@ -779,7 +780,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/20/2010",
+		"updated": "09/20/2010"
 	},
 	{
 		"name": "TUTGE",
@@ -788,7 +789,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "MR",
-		"updated": "RCA*TACAN*316.00/1.90",
+		"updated": "RCA*TACAN*316.00/1.90"
 	},
 	{
 		"name": "TUTTY",
@@ -797,7 +798,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/19/2016",
+		"updated": "07/19/2016"
 	},
 	{
 		"name": "TUULO",
@@ -806,7 +807,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "TUYPI",
@@ -815,7 +816,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*002.00/40.00",
+		"updated": "ALS*VORTAC*002.00/40.00"
 	},
 	{
 		"name": "TUYUY",
@@ -824,7 +825,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/14/2007",
+		"updated": "03/14/2007"
 	},
 	{
 		"name": "TUZDO",
@@ -833,7 +834,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*002.00/30.00",
+		"updated": "ALS*VORTAC*002.00/30.00"
 	},
 	{
 		"name": "TWEDT",
@@ -842,7 +843,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "TWNSN",
@@ -851,7 +852,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/16/2012",
+		"updated": "10/16/2012"
 	},
 	{
 		"name": "TWWIN",
@@ -860,5 +861,6 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
-	},
+		"updated": "11/24/2012"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "PRADA",
 		"latitude": "49-25-31 N",
@@ -5,5 +6,6 @@
 		"state": "",
 		"artcc": "ZWG",
 		"type": "RP",
-		"updated": "VBI*VORTAC*264.00",
-	},
+		"updated": "VBI*VORTAC*264.00"
+	}
+]

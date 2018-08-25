@@ -1,3 +1,4 @@
+[
 	{
 		"name": "LAAKE",
 		"latitude": "44-35-11.74 N",
@@ -5,7 +6,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FOW*VOR/DME*023.35",
+		"updated": "FOW*VOR/DME*023.35"
 	},
 	{
 		"name": "LAAUU",
@@ -14,7 +15,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/31/2017",
+		"updated": "05/31/2017"
 	},
 	{
 		"name": "LACIY",
@@ -23,7 +24,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "AUW*VORTAC*310.49/28.07",
+		"updated": "AUW*VORTAC*310.49/28.07"
 	},
 	{
 		"name": "LADIE",
@@ -32,7 +33,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "VCN*VOR/DME*236.42",
+		"updated": "VCN*VOR/DME*236.42"
 	},
 	{
 		"name": "LADIN",
@@ -41,7 +42,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GLR*VOR/DME*213.17/43.02",
+		"updated": "GLR*VOR/DME*213.17/43.02"
 	},
 	{
 		"name": "LAKRE",
@@ -50,7 +51,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "LALGE",
@@ -59,7 +60,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/09/2011",
+		"updated": "05/09/2011"
 	},
 	{
 		"name": "LALJE",
@@ -68,7 +69,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/30/2008",
+		"updated": "07/30/2008"
 	},
 	{
 		"name": "LALRE",
@@ -77,7 +78,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/17/2012",
+		"updated": "09/17/2012"
 	},
 	{
 		"name": "LAMPY",
@@ -86,7 +87,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DLH*VORTAC*159.86/51.05",
+		"updated": "DLH*VORTAC*159.86/51.05"
 	},
 	{
 		"name": "LANIY",
@@ -95,7 +96,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ODI*VORTAC*045.42",
+		"updated": "ODI*VORTAC*045.42"
 	},
 	{
 		"name": "LANTK",
@@ -104,7 +105,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*044.65/34.27",
+		"updated": "OVR*VORTAC*044.65/34.27"
 	},
 	{
 		"name": "LAREW",
@@ -113,7 +114,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "BRD*LS*050.54",
+		"updated": "BRD*LS*050.54"
 	},
 	{
 		"name": "LARIY",
@@ -122,7 +123,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/03/2011",
+		"updated": "05/03/2011"
 	},
 	{
 		"name": "LASIY",
@@ -131,7 +132,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/25/2005",
+		"updated": "02/25/2005"
 	},
 	{
 		"name": "LASNY",
@@ -140,7 +141,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "HIB*VOR/DME*241.80",
+		"updated": "HIB*VOR/DME*241.80"
 	},
 	{
 		"name": "LATJI",
@@ -149,7 +150,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/20/2017",
+		"updated": "11/20/2017"
 	},
 	{
 		"name": "LAVGE",
@@ -158,7 +159,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/27/2009",
+		"updated": "10/27/2009"
 	},
 	{
 		"name": "LAYEB",
@@ -167,7 +168,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "LAYID",
@@ -176,7 +177,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/05/2012",
+		"updated": "04/05/2012"
 	},
 	{
 		"name": "LAYIP",
@@ -185,7 +186,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/04/2014",
+		"updated": "02/04/2014"
 	},
 	{
 		"name": "LAYLI",
@@ -194,7 +195,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/13/2005",
+		"updated": "06/13/2005"
 	},
 	{
 		"name": "LAYVU",
@@ -203,7 +204,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "EAU*VORTAC*025.62/47.52",
+		"updated": "EAU*VORTAC*025.62/47.52"
 	},
 	{
 		"name": "LAZNU",
@@ -212,7 +213,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DLH*VORTAC*094.93/8.00",
+		"updated": "DLH*VORTAC*094.93/8.00"
 	},
 	{
 		"name": "LAZYY",
@@ -221,7 +222,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/13/2015",
+		"updated": "01/13/2015"
 	},
 	{
 		"name": "LDASH",
@@ -230,7 +231,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*138.07",
+		"updated": "GEP*VORTAC*138.07"
 	},
 	{
 		"name": "LEATO",
@@ -239,7 +240,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/17/2014",
+		"updated": "09/17/2014"
 	},
 	{
 		"name": "LEAVS",
@@ -248,7 +249,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/15/2012",
+		"updated": "08/15/2012"
 	},
 	{
 		"name": "LEBIC",
@@ -257,7 +258,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/28/2004",
+		"updated": "12/28/2004"
 	},
 	{
 		"name": "LEBYI",
@@ -266,7 +267,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*244.59/26.00",
+		"updated": "OVR*VORTAC*244.59/26.00"
 	},
 	{
 		"name": "LECIP",
@@ -275,7 +276,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/10/2014",
+		"updated": "03/10/2014"
 	},
 	{
 		"name": "LECPU",
@@ -284,7 +285,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/11/2010",
+		"updated": "06/11/2010"
 	},
 	{
 		"name": "LEDRZ",
@@ -293,7 +294,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/25/2016",
+		"updated": "11/25/2016"
 	},
 	{
 		"name": "LEENA",
@@ -302,7 +303,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "05/11/2001",
+		"updated": "05/11/2001"
 	},
 	{
 		"name": "LEERY",
@@ -311,7 +312,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/22/2011",
+		"updated": "03/22/2011"
 	},
 	{
 		"name": "LEFSA",
@@ -320,7 +321,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/29/2018",
+		"updated": "03/29/2018"
 	},
 	{
 		"name": "LEFTY",
@@ -329,7 +330,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RST*VOR/DME*099.40/31.85",
+		"updated": "RST*VOR/DME*099.40/31.85"
 	},
 	{
 		"name": "LEGOR",
@@ -338,7 +339,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "APN*VORTAC*175.00/15.00",
+		"updated": "APN*VORTAC*175.00/15.00"
 	},
 	{
 		"name": "LEGRY",
@@ -347,7 +348,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/17/2005",
+		"updated": "05/17/2005"
 	},
 	{
 		"name": "LEINY",
@@ -356,7 +357,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/16/2007",
+		"updated": "03/16/2007"
 	},
 	{
 		"name": "LEKBE",
@@ -365,7 +366,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DIK*VORTAC*003.00/7.00",
+		"updated": "DIK*VORTAC*003.00/7.00"
 	},
 	{
 		"name": "LEKUH",
@@ -374,7 +375,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/09/2017",
+		"updated": "03/09/2017"
 	},
 	{
 		"name": "LELVE",
@@ -383,7 +384,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "LEMAY",
@@ -392,7 +393,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "OFF*TACAN*299.00/30.00",
+		"updated": "OFF*TACAN*299.00/30.00"
 	},
 	{
 		"name": "LEMDE",
@@ -401,7 +402,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "LENCK",
@@ -410,7 +411,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*039.80/30.49",
+		"updated": "GEP*VORTAC*039.80/30.49"
 	},
 	{
 		"name": "LENIY",
@@ -419,7 +420,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "EAR*VOR*095.26",
+		"updated": "EAR*VOR*095.26"
 	},
 	{
 		"name": "LENTS",
@@ -428,7 +429,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "ROX*VOR/DME*092.22/20.88",
+		"updated": "ROX*VOR/DME*092.22/20.88"
 	},
 	{
 		"name": "LEPAC",
@@ -437,7 +438,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/19/2009",
+		"updated": "08/19/2009"
 	},
 	{
 		"name": "LEPRE",
@@ -446,7 +447,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/02/2012",
+		"updated": "08/02/2012"
 	},
 	{
 		"name": "LERPE",
@@ -455,7 +456,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/17/2011",
+		"updated": "05/17/2011"
 	},
 	{
 		"name": "LERVE",
@@ -464,7 +465,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/10/2002",
+		"updated": "06/10/2002"
 	},
 	{
 		"name": "LESFI",
@@ -473,7 +474,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FOD*VORTAC*254.00/14.00",
+		"updated": "FOD*VORTAC*254.00/14.00"
 	},
 	{
 		"name": "LETPY",
@@ -482,7 +483,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/21/2009",
+		"updated": "01/21/2009"
 	},
 	{
 		"name": "LEVRE",
@@ -491,7 +492,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OTG*VOR/DME*013.59/12.00",
+		"updated": "OTG*VOR/DME*013.59/12.00"
 	},
 	{
 		"name": "LEXNU",
@@ -500,7 +501,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/13/2012",
+		"updated": "02/13/2012"
 	},
 	{
 		"name": "LEYID",
@@ -509,7 +510,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/19/2009",
+		"updated": "06/19/2009"
 	},
 	{
 		"name": "LEYIL",
@@ -518,7 +519,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/13/2015",
+		"updated": "07/13/2015"
 	},
 	{
 		"name": "LEYIN",
@@ -527,7 +528,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FSD*VORTAC*045.98/10.53",
+		"updated": "FSD*VORTAC*045.98/10.53"
 	},
 	{
 		"name": "LEYUF",
@@ -536,7 +537,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "LEYVI",
@@ -545,7 +546,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "IDJ*VOR/DME*305.78/1.15",
+		"updated": "IDJ*VOR/DME*305.78/1.15"
 	},
 	{
 		"name": "LGHRN",
@@ -554,7 +555,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/20/2015",
+		"updated": "08/20/2015"
 	},
 	{
 		"name": "LICIS",
@@ -563,7 +564,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/28/2007",
+		"updated": "12/28/2007"
 	},
 	{
 		"name": "LIDSY",
@@ -572,7 +573,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/28/2013",
+		"updated": "02/28/2013"
 	},
 	{
 		"name": "LILTS",
@@ -581,7 +582,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/30/2015",
+		"updated": "03/30/2015"
 	},
 	{
 		"name": "LINDE",
@@ -590,7 +591,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*058.00/72.83",
+		"updated": "OVR*VORTAC*058.00/72.83"
 	},
 	{
 		"name": "LINDO",
@@ -599,7 +600,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MHE*VOR/DME*/6.14",
+		"updated": "MHE*VOR/DME*/6.14"
 	},
 	{
 		"name": "LINDR",
@@ -608,7 +609,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*351.77/61.03",
+		"updated": "GEP*VORTAC*351.77/61.03"
 	},
 	{
 		"name": "LINGY",
@@ -617,7 +618,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/13/2014",
+		"updated": "03/13/2014"
 	},
 	{
 		"name": "LINRE",
@@ -626,7 +627,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/22/2010",
+		"updated": "03/22/2010"
 	},
 	{
 		"name": "LINTN",
@@ -635,7 +636,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIS*VOR/DME*159.34/25.00",
+		"updated": "BIS*VOR/DME*159.34/25.00"
 	},
 	{
 		"name": "LIVVA",
@@ -644,7 +645,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PIR*VORTAC*039.63/34.00",
+		"updated": "PIR*VORTAC*039.63/34.00"
 	},
 	{
 		"name": "LIYIK",
@@ -653,7 +654,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RST*VOR/DME*213.07/15.00",
+		"updated": "RST*VOR/DME*213.07/15.00"
 	},
 	{
 		"name": "LKLND",
@@ -662,7 +663,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/14/2015",
+		"updated": "01/14/2015"
 	},
 	{
 		"name": "LKOTA",
@@ -671,7 +672,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/06/2012",
+		"updated": "09/06/2012"
 	},
 	{
 		"name": "LMFRY",
@@ -680,7 +681,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*119.00/80.00",
+		"updated": "GEP*VORTAC*119.00/80.00"
 	},
 	{
 		"name": "LMMBO",
@@ -689,7 +690,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/25/2009",
+		"updated": "08/25/2009"
 	},
 	{
 		"name": "LNDEN",
@@ -698,7 +699,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/11/2017",
+		"updated": "09/11/2017"
 	},
 	{
 		"name": "LOBOY",
@@ -707,7 +708,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GRI*VOR/DME*103.21/9.96",
+		"updated": "GRI*VOR/DME*103.21/9.96"
 	},
 	{
 		"name": "LOCEC",
@@ -716,7 +717,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/24/2013",
+		"updated": "05/24/2013"
 	},
 	{
 		"name": "LODVY",
@@ -725,7 +726,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/09/2007",
+		"updated": "08/09/2007"
 	},
 	{
 		"name": "LOEGO",
@@ -734,7 +735,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "LOESS",
@@ -743,7 +744,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/15/2012",
+		"updated": "08/15/2012"
 	},
 	{
 		"name": "LOGIF",
@@ -752,7 +753,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MNM*VOR/DME*035.69/12.00",
+		"updated": "MNM*VOR/DME*035.69/12.00"
 	},
 	{
 		"name": "LOGOQ",
@@ -761,7 +762,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/31/2010",
+		"updated": "03/31/2010"
 	},
 	{
 		"name": "LOINS",
@@ -770,7 +771,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "TNU*VOR/DME*295.84/15.00",
+		"updated": "TNU*VOR/DME*295.84/15.00"
 	},
 	{
 		"name": "LOOKR",
@@ -779,7 +780,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "OFF*TACAN*133.00/25.00",
+		"updated": "OFF*TACAN*133.00/25.00"
 	},
 	{
 		"name": "LOOMS",
@@ -788,7 +789,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "IMT*VOR/DME*/2.95",
+		"updated": "IMT*VOR/DME*/2.95"
 	},
 	{
 		"name": "LOOON",
@@ -797,7 +798,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MSP*VOR/DME*074.90/22.97",
+		"updated": "MSP*VOR/DME*074.90/22.97"
 	},
 	{
 		"name": "LOPJA",
@@ -806,7 +807,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MNM*VOR/DME*290.22/12.00",
+		"updated": "MNM*VOR/DME*290.22/12.00"
 	},
 	{
 		"name": "LOPOW",
@@ -815,7 +816,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MVE*VOR/DME*053.98",
+		"updated": "MVE*VOR/DME*053.98"
 	},
 	{
 		"name": "LORAH",
@@ -824,7 +825,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BMA*LD*169.53/8.10",
+		"updated": "BMA*LD*169.53/8.10"
 	},
 	{
 		"name": "LORDY",
@@ -833,7 +834,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*266.01/14.94",
+		"updated": "GEP*VORTAC*266.01/14.94"
 	},
 	{
 		"name": "LORIW",
@@ -842,7 +843,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PLN*VORTAC*219.39/20.00",
+		"updated": "PLN*VORTAC*219.39/20.00"
 	},
 	{
 		"name": "LOSSI",
@@ -851,7 +852,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/01/2007",
+		"updated": "08/01/2007"
 	},
 	{
 		"name": "LOTIH",
@@ -860,7 +861,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FCM*VOR/DME*215.01/0.49",
+		"updated": "FCM*VOR/DME*215.01/0.49"
 	},
 	{
 		"name": "LOVVI",
@@ -869,7 +870,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/19/2003",
+		"updated": "12/19/2003"
 	},
 	{
 		"name": "LOWOB",
@@ -878,7 +879,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/08/2009",
+		"updated": "07/08/2009"
 	},
 	{
 		"name": "LOYIT",
@@ -887,7 +888,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/27/2012",
+		"updated": "06/27/2012"
 	},
 	{
 		"name": "LOYIV",
@@ -896,7 +897,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2008",
+		"updated": "05/30/2008"
 	},
 	{
 		"name": "LUBEQ",
@@ -905,7 +906,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "01/24/1996",
+		"updated": "01/24/1996"
 	},
 	{
 		"name": "LUCCY",
@@ -914,7 +915,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "LUDMA",
@@ -923,7 +924,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/07/2009",
+		"updated": "07/07/2009"
 	},
 	{
 		"name": "LUFGI",
@@ -932,7 +933,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/17/2005",
+		"updated": "05/17/2005"
 	},
 	{
 		"name": "LUGBE",
@@ -941,7 +942,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FOD*VORTAC*062.99/7.00",
+		"updated": "FOD*VORTAC*062.99/7.00"
 	},
 	{
 		"name": "LUGDE",
@@ -950,7 +951,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SUX*VORTAC*346.00/19.00",
+		"updated": "SUX*VORTAC*346.00/19.00"
 	},
 	{
 		"name": "LUGTE",
@@ -959,7 +960,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "LUKCO",
@@ -968,7 +969,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "02/24/2000",
+		"updated": "02/24/2000"
 	},
 	{
 		"name": "LULSE",
@@ -977,7 +978,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "LULUS",
@@ -986,7 +987,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/30/2011",
+		"updated": "03/30/2011"
 	},
 	{
 		"name": "LUMSE",
@@ -995,7 +996,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/08/2008",
+		"updated": "12/08/2008"
 	},
 	{
 		"name": "LURJA",
@@ -1004,7 +1005,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "LUTNT",
@@ -1013,7 +1014,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/31/2017",
+		"updated": "07/31/2017"
 	},
 	{
 		"name": "LUWJE",
@@ -1022,7 +1023,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/02/2010",
+		"updated": "02/02/2010"
 	},
 	{
 		"name": "LUYEP",
@@ -1031,7 +1032,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/29/2017",
+		"updated": "06/29/2017"
 	},
 	{
 		"name": "LUYIB",
@@ -1040,7 +1041,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "11/18/2008",
+		"updated": "11/18/2008"
 	},
 	{
 		"name": "LUZOL",
@@ -1049,7 +1050,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/14/2003",
+		"updated": "01/14/2003"
 	},
 	{
 		"name": "LYDIA",
@@ -1058,7 +1059,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*182.00/32.57",
+		"updated": "GEP*VORTAC*182.00/32.57"
 	},
 	{
 		"name": "LYMAN",
@@ -1067,7 +1068,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*071.57/41.78",
+		"updated": "OVR*VORTAC*071.57/41.78"
 	},
 	{
 		"name": "LYNKS",
@@ -1076,7 +1077,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*178.00/62.00",
+		"updated": "GEP*VORTAC*178.00/62.00"
 	},
 	{
 		"name": "LYYON",
@@ -1085,5 +1086,6 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/16/2009",
-	},
+		"updated": "06/16/2009"
+	}
+]

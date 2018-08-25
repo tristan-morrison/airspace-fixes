@@ -1,3 +1,4 @@
+[
 	{
 		"name": "GALDE",
 		"latitude": "33-10-38.03 N",
@@ -5,7 +6,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/03/2004",
+		"updated": "02/03/2004"
 	},
 	{
 		"name": "GALKE",
@@ -14,7 +15,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/06/2001",
+		"updated": "04/06/2001"
 	},
 	{
 		"name": "GATEZ",
@@ -23,7 +24,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "DMA*TACAN*288.00/12.00",
+		"updated": "DMA*TACAN*288.00/12.00"
 	},
 	{
 		"name": "GATWA",
@@ -32,7 +33,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*095.07/18.62",
+		"updated": "PXR*VORTAC*095.07/18.62"
 	},
 	{
 		"name": "GAVET",
@@ -41,7 +42,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*VORTAC*123.04/2.00",
+		"updated": "TUS*VORTAC*123.04/2.00"
 	},
 	{
 		"name": "GAVLY",
@@ -50,7 +51,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/25/2005",
+		"updated": "02/25/2005"
 	},
 	{
 		"name": "GDALE",
@@ -59,7 +60,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/15/2002",
+		"updated": "02/15/2002"
 	},
 	{
 		"name": "GEBEC",
@@ -68,7 +69,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CNM*VORTAC*145.00/13.00",
+		"updated": "CNM*VORTAC*145.00/13.00"
 	},
 	{
 		"name": "GEDEY",
@@ -77,7 +78,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/02/2012",
+		"updated": "04/02/2012"
 	},
 	{
 		"name": "GEDZU",
@@ -86,7 +87,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/05/2010",
+		"updated": "05/05/2010"
 	},
 	{
 		"name": "GEELA",
@@ -95,7 +96,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/28/2011",
+		"updated": "10/28/2011"
 	},
 	{
 		"name": "GEENO",
@@ -104,7 +105,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "GEGTE",
@@ -113,7 +114,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/29/2009",
+		"updated": "12/29/2009"
 	},
 	{
 		"name": "GEJRI",
@@ -122,7 +123,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/28/2011",
+		"updated": "10/28/2011"
 	},
 	{
 		"name": "GELTS",
@@ -131,7 +132,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*002.70/6.00",
+		"updated": "PXR*VORTAC*002.70/6.00"
 	},
 	{
 		"name": "GEPCE",
@@ -140,7 +141,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "ARH*TACAN*261.48/8.00",
+		"updated": "ARH*TACAN*261.48/8.00"
 	},
 	{
 		"name": "GERNL",
@@ -149,7 +150,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "GETXU",
@@ -158,7 +159,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/31/2009",
+		"updated": "12/31/2009"
 	},
 	{
 		"name": "GIBSO",
@@ -167,7 +168,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/23/2011",
+		"updated": "02/23/2011"
 	},
 	{
 		"name": "GICEC",
@@ -176,7 +177,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "GICGE",
@@ -185,7 +186,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*143.44/31.03",
+		"updated": "PXR*VORTAC*143.44/31.03"
 	},
 	{
 		"name": "GIFEN",
@@ -194,7 +195,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "EWM*VORTAC*130.78/10.75",
+		"updated": "EWM*VORTAC*130.78/10.75"
 	},
 	{
 		"name": "GIGEC",
@@ -203,7 +204,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/05/2005",
+		"updated": "04/05/2005"
 	},
 	{
 		"name": "GIKDY",
@@ -212,7 +213,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "08/27/2001",
+		"updated": "08/27/2001"
 	},
 	{
 		"name": "GILAA",
@@ -221,7 +222,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*070.00/54.66",
+		"updated": "PXR*VORTAC*070.00/54.66"
 	},
 	{
 		"name": "GINEC",
@@ -230,7 +231,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/16/2010",
+		"updated": "08/16/2010"
 	},
 	{
 		"name": "GINGR",
@@ -239,7 +240,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "INK*VORTAC*286.00/132.96",
+		"updated": "INK*VORTAC*286.00/132.96"
 	},
 	{
 		"name": "GINKE",
@@ -248,7 +249,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*321.00/30.00",
+		"updated": "PXR*VORTAC*321.00/30.00"
 	},
 	{
 		"name": "GIPSE",
@@ -257,7 +258,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "RJG*LD*078.03/9.29",
+		"updated": "RJG*LD*078.03/9.29"
 	},
 	{
 		"name": "GIREY",
@@ -266,7 +267,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/18/2007",
+		"updated": "01/18/2007"
 	},
 	{
 		"name": "GIZZA",
@@ -275,7 +276,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "IWA*VORTAC*121.81/38.75",
+		"updated": "IWA*VORTAC*121.81/38.75"
 	},
 	{
 		"name": "GLINA",
@@ -284,7 +285,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "OTO*VOR*168.23",
+		"updated": "OTO*VOR*168.23"
 	},
 	{
 		"name": "GLOWW",
@@ -293,7 +294,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/05/2017",
+		"updated": "09/05/2017"
 	},
 	{
 		"name": "GNITE",
@@ -302,7 +303,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/05/2017",
+		"updated": "09/05/2017"
 	},
 	{
 		"name": "GOALY",
@@ -311,7 +312,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/11/2014",
+		"updated": "08/11/2014"
 	},
 	{
 		"name": "GOBFO",
@@ -320,7 +321,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "GODLE",
@@ -329,7 +330,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/02/2014",
+		"updated": "04/02/2014"
 	},
 	{
 		"name": "GOFBI",
@@ -338,7 +339,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "GOLDR",
@@ -347,7 +348,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/11/2014",
+		"updated": "08/11/2014"
 	},
 	{
 		"name": "GOONI",
@@ -356,7 +357,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "BGD*VORTAC*147.00",
+		"updated": "BGD*VORTAC*147.00"
 	},
 	{
 		"name": "GOPSE",
@@ -365,7 +366,7 @@
 		"state": "OKLAHOMA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/28/2010",
+		"updated": "03/28/2010"
 	},
 	{
 		"name": "GOSPO",
@@ -374,7 +375,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SVC*VOR/DME*078.33/16.32",
+		"updated": "SVC*VOR/DME*078.33/16.32"
 	},
 	{
 		"name": "GOVTE",
@@ -383,7 +384,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/18/2014",
+		"updated": "04/18/2014"
 	},
 	{
 		"name": "GOYEB",
@@ -392,7 +393,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/17/2011",
+		"updated": "10/17/2011"
 	},
 	{
 		"name": "GRDNR",
@@ -401,7 +402,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/17/2007",
+		"updated": "01/17/2007"
 	},
 	{
 		"name": "GREBE",
@@ -410,7 +411,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SSO*VORTAC*031.07/79.57",
+		"updated": "SSO*VORTAC*031.07/79.57"
 	},
 	{
 		"name": "GRINE",
@@ -419,7 +420,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*054.40/26.30",
+		"updated": "PXR*VORTAC*054.40/26.30"
 	},
 	{
 		"name": "GRINT",
@@ -428,7 +429,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ZUN*VORTAC*348.55",
+		"updated": "ZUN*VORTAC*348.55"
 	},
 	{
 		"name": "GRNNT",
@@ -437,7 +438,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/05/2005",
+		"updated": "08/05/2005"
 	},
 	{
 		"name": "GRREN",
@@ -446,7 +447,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "GRYHM",
@@ -455,7 +456,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/13/2009",
+		"updated": "05/13/2009"
 	},
 	{
 		"name": "GRZZZ",
@@ -464,7 +465,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "GUADO",
@@ -473,7 +474,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CNM*VORTAC*243.00",
+		"updated": "CNM*VORTAC*243.00"
 	},
 	{
 		"name": "GUCCY",
@@ -482,7 +483,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/06/2014",
+		"updated": "02/06/2014"
 	},
 	{
 		"name": "GUMMO",
@@ -491,7 +492,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "INW*VORTAC*180.43/46.00",
+		"updated": "INW*VORTAC*180.43/46.00"
 	},
 	{
 		"name": "GUVCE",
@@ -500,7 +501,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/24/2007",
+		"updated": "01/24/2007"
 	},
 	{
 		"name": "GUVNE",
@@ -509,7 +510,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/22/2011",
+		"updated": "12/22/2011"
 	},
 	{
 		"name": "GYANT",
@@ -518,7 +519,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/23/2012",
+		"updated": "04/23/2012"
 	},
 	{
 		"name": "GZELL",
@@ -527,5 +528,6 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SPT*LD*259.43/5.27",
-	},
+		"updated": "SPT*LD*259.43/5.27"
+	}
+]

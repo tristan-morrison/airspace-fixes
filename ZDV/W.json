@@ -1,3 +1,4 @@
+[
 	{
 		"name": "WAAYY",
 		"latitude": "39-44-40.76 N",
@@ -5,7 +6,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/11/2017",
+		"updated": "12/11/2017"
 	},
 	{
 		"name": "WADAB",
@@ -14,7 +15,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/22/2015",
+		"updated": "01/22/2015"
 	},
 	{
 		"name": "WADAK",
@@ -23,7 +24,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/08/2010",
+		"updated": "11/08/2010"
 	},
 	{
 		"name": "WADDU",
@@ -32,7 +33,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/16/2010",
+		"updated": "08/16/2010"
 	},
 	{
 		"name": "WAGOK",
@@ -41,7 +42,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/07/2012",
+		"updated": "08/07/2012"
 	},
 	{
 		"name": "WAHUU",
@@ -50,7 +51,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "WAJHU",
@@ -59,7 +60,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/29/2013",
+		"updated": "10/29/2013"
 	},
 	{
 		"name": "WAKOR",
@@ -68,7 +69,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/14/2009",
+		"updated": "01/14/2009"
 	},
 	{
 		"name": "WAKPA",
@@ -77,7 +78,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/03/2007",
+		"updated": "01/03/2007"
 	},
 	{
 		"name": "WALRU",
@@ -86,7 +87,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAR*VOR/DME*222.28/36.00",
+		"updated": "LAR*VOR/DME*222.28/36.00"
 	},
 	{
 		"name": "WAMAK",
@@ -95,7 +96,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2011",
+		"updated": "09/22/2011"
 	},
 	{
 		"name": "WAMBL",
@@ -104,7 +105,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RLG*VOR/DME*184.00/17.30",
+		"updated": "RLG*VOR/DME*184.00/17.30"
 	},
 	{
 		"name": "WAPAP",
@@ -113,7 +114,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DDY*VOR/DME*048.46/24.88",
+		"updated": "DDY*VOR/DME*048.46/24.88"
 	},
 	{
 		"name": "WAPRE",
@@ -122,7 +123,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ALS*VORTAC*219.00/20.00",
+		"updated": "ALS*VORTAC*219.00/20.00"
 	},
 	{
 		"name": "WARIS",
@@ -131,7 +132,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RAP*VORTAC*326.00/22.90",
+		"updated": "RAP*VORTAC*326.00/22.90"
 	},
 	{
 		"name": "WASEO",
@@ -140,7 +141,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/22/2014",
+		"updated": "04/22/2014"
 	},
 	{
 		"name": "WASEP",
@@ -149,7 +150,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/22/2014",
+		"updated": "04/22/2014"
 	},
 	{
 		"name": "WASHI",
@@ -158,7 +159,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ESJ*LD*E CRS/9.36",
+		"updated": "ESJ*LD*E CRS/9.36"
 	},
 	{
 		"name": "WASKL",
@@ -167,7 +168,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/25/2012",
+		"updated": "09/25/2012"
 	},
 	{
 		"name": "WASLO",
@@ -176,7 +177,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/30/2002",
+		"updated": "01/30/2002"
 	},
 	{
 		"name": "WASPI",
@@ -185,7 +186,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/14/2008",
+		"updated": "08/14/2008"
 	},
 	{
 		"name": "WAVDI",
@@ -194,7 +195,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*136.23/17.45",
+		"updated": "GLL*VOR/DME*136.23/17.45"
 	},
 	{
 		"name": "WAVGI",
@@ -203,7 +204,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DRO*VOR/DME*205.03/3.26",
+		"updated": "DRO*VOR/DME*205.03/3.26"
 	},
 	{
 		"name": "WAVNO",
@@ -212,7 +213,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/23/2005",
+		"updated": "08/23/2005"
 	},
 	{
 		"name": "WAXER",
@@ -221,7 +222,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HIN*NDB*317.00",
+		"updated": "HIN*NDB*317.00"
 	},
 	{
 		"name": "WAXOX",
@@ -230,7 +231,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/01/2013",
+		"updated": "11/01/2013"
 	},
 	{
 		"name": "WAZEE",
@@ -239,7 +240,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "WEEDS",
@@ -248,7 +249,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DEN*VOR/DME*100.00/130.00",
+		"updated": "DEN*VOR/DME*100.00/130.00"
 	},
 	{
 		"name": "WEEEE",
@@ -257,7 +258,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/11/2017",
+		"updated": "12/11/2017"
 	},
 	{
 		"name": "WEEMN",
@@ -266,7 +267,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/16/2011",
+		"updated": "03/16/2011"
 	},
 	{
 		"name": "WEEZR",
@@ -275,7 +276,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "WEGBA",
@@ -284,7 +285,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAR*VOR/DME*273.26/10.00",
+		"updated": "LAR*VOR/DME*273.26/10.00"
 	},
 	{
 		"name": "WEGUK",
@@ -293,7 +294,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/20/2009",
+		"updated": "03/20/2009"
 	},
 	{
 		"name": "WEHAL",
@@ -302,7 +303,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "ESJ*LD*E CRS/15.29",
+		"updated": "ESJ*LD*E CRS/15.29"
 	},
 	{
 		"name": "WEKES",
@@ -311,7 +312,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "WELDS",
@@ -320,7 +321,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*177.21/17.45",
+		"updated": "GLL*VOR/DME*177.21/17.45"
 	},
 	{
 		"name": "WELUL",
@@ -329,7 +330,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/10/2013",
+		"updated": "01/10/2013"
 	},
 	{
 		"name": "WENDT",
@@ -338,7 +339,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HBU*VOR/DME*352.50/13.00",
+		"updated": "HBU*VOR/DME*352.50/13.00"
 	},
 	{
 		"name": "WEPNS",
@@ -347,7 +348,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "WEPRU",
@@ -356,7 +357,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/29/2012",
+		"updated": "11/29/2012"
 	},
 	{
 		"name": "WERNR",
@@ -365,7 +366,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/08/2012",
+		"updated": "08/08/2012"
 	},
 	{
 		"name": "WESAR",
@@ -374,7 +375,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*209.12/3.00",
+		"updated": "GLL*VOR/DME*209.12/3.00"
 	},
 	{
 		"name": "WETON",
@@ -383,7 +384,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "CZI*VOR/DME*030.00",
+		"updated": "CZI*VOR/DME*030.00"
 	},
 	{
 		"name": "WETVI",
@@ -392,7 +393,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2011",
+		"updated": "09/22/2011"
 	},
 	{
 		"name": "WEVOM",
@@ -401,7 +402,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/04/2011",
+		"updated": "04/04/2011"
 	},
 	{
 		"name": "WEXNU",
@@ -410,7 +411,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/05/2012",
+		"updated": "01/05/2012"
 	},
 	{
 		"name": "WEYYI",
@@ -419,7 +420,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAA*VOR/DME*298.50/8.30",
+		"updated": "LAA*VOR/DME*298.50/8.30"
 	},
 	{
 		"name": "WHARF",
@@ -428,7 +429,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "TST*VOR/DME*206.49/37.91",
+		"updated": "TST*VOR/DME*206.49/37.91"
 	},
 	{
 		"name": "WIBEX",
@@ -437,7 +438,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/20/2010",
+		"updated": "09/20/2010"
 	},
 	{
 		"name": "WIBSO",
@@ -446,7 +447,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/10/2017",
+		"updated": "08/10/2017"
 	},
 	{
 		"name": "WIDIG",
@@ -455,7 +456,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "HBU*VOR/DME*050.00/4.00",
+		"updated": "HBU*VOR/DME*050.00/4.00"
 	},
 	{
 		"name": "WIDMI",
@@ -464,7 +465,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/04/2012",
+		"updated": "08/04/2012"
 	},
 	{
 		"name": "WIDOD",
@@ -473,7 +474,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/20/2009",
+		"updated": "03/20/2009"
 	},
 	{
 		"name": "WIDRU",
@@ -482,7 +483,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "MTJ*VOR/DME*/8.65",
+		"updated": "MTJ*VOR/DME*/8.65"
 	},
 	{
 		"name": "WIGOB",
@@ -491,7 +492,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/01/2014",
+		"updated": "04/01/2014"
 	},
 	{
 		"name": "WIKAR",
@@ -500,7 +501,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/24/2008",
+		"updated": "07/24/2008"
 	},
 	{
 		"name": "WILDA",
@@ -509,7 +510,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RAP*VORTAC*237.69/53.41",
+		"updated": "RAP*VORTAC*237.69/53.41"
 	},
 	{
 		"name": "WILDE",
@@ -518,7 +519,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RSK*VORTAC*252.35/17.00",
+		"updated": "RSK*VORTAC*252.35/17.00"
 	},
 	{
 		"name": "WILVA",
@@ -527,7 +528,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLD*VORTAC*140.39/39.42",
+		"updated": "GLD*VORTAC*140.39/39.42"
 	},
 	{
 		"name": "WIMAX",
@@ -536,7 +537,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "CN",
-		"updated": "03/24/2011",
+		"updated": "03/24/2011"
 	},
 	{
 		"name": "WIMBO",
@@ -545,7 +546,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "WP",
-		"updated": "05/23/2011",
+		"updated": "05/23/2011"
 	},
 	{
 		"name": "WINDL",
@@ -554,7 +555,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "WINDO",
@@ -563,7 +564,7 @@
 		"state": "UTAH",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "MTU*VOR/DME*122.11/39.92",
+		"updated": "MTU*VOR/DME*122.11/39.92"
 	},
 	{
 		"name": "WINEM",
@@ -572,7 +573,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/22/2005",
+		"updated": "12/22/2005"
 	},
 	{
 		"name": "WINTR",
@@ -581,7 +582,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "FQF*VORTAC*311.41",
+		"updated": "FQF*VORTAC*311.41"
 	},
 	{
 		"name": "WIPDO",
@@ -590,7 +591,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/04/2012",
+		"updated": "04/04/2012"
 	},
 	{
 		"name": "WIPUN",
@@ -599,7 +600,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "WIRRA",
@@ -608,7 +609,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "MCK*VOR/DME*056.96",
+		"updated": "MCK*VOR/DME*056.96"
 	},
 	{
 		"name": "WISAB",
@@ -617,7 +618,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "BJC*VOR/DME*344.79/14.84",
+		"updated": "BJC*VOR/DME*344.79/14.84"
 	},
 	{
 		"name": "WISER",
@@ -626,7 +627,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*300.65/22.04",
+		"updated": "GLL*VOR/DME*300.65/22.04"
 	},
 	{
 		"name": "WISKY",
@@ -635,7 +636,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/03/2017",
+		"updated": "02/03/2017"
 	},
 	{
 		"name": "WITNE",
@@ -644,7 +645,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GLL*VOR/DME*136.23",
+		"updated": "GLL*VOR/DME*136.23"
 	},
 	{
 		"name": "WITUB",
@@ -653,7 +654,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/13/2013",
+		"updated": "05/13/2013"
 	},
 	{
 		"name": "WITVO",
@@ -662,7 +663,7 @@
 		"state": "KANSAS",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/27/2016",
+		"updated": "09/27/2016"
 	},
 	{
 		"name": "WIVGO",
@@ -671,7 +672,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/08/2013",
+		"updated": "08/08/2013"
 	},
 	{
 		"name": "WIVID",
@@ -680,7 +681,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/11/2006",
+		"updated": "09/11/2006"
 	},
 	{
 		"name": "WIVOD",
@@ -689,7 +690,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/07/2013",
+		"updated": "05/07/2013"
 	},
 	{
 		"name": "WIVOP",
@@ -698,7 +699,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "WIXAR",
@@ -707,7 +708,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/14/2010",
+		"updated": "06/14/2010"
 	},
 	{
 		"name": "WIZGE",
@@ -716,7 +717,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAA*VOR/DME*063.29/10.34",
+		"updated": "LAA*VOR/DME*063.29/10.34"
 	},
 	{
 		"name": "WNDED",
@@ -725,7 +726,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/16/2011",
+		"updated": "03/16/2011"
 	},
 	{
 		"name": "WODAV",
@@ -734,7 +735,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "WODSO",
@@ -743,7 +744,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "12/13/2011",
+		"updated": "12/13/2011"
 	},
 	{
 		"name": "WOGIN",
@@ -752,7 +753,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DXU*LD*352.51/5.01",
+		"updated": "DXU*LD*352.51/5.01"
 	},
 	{
 		"name": "WOGRI",
@@ -761,7 +762,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/06/2011",
+		"updated": "07/06/2011"
 	},
 	{
 		"name": "WOHCI",
@@ -770,7 +771,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DRO*VOR/DME*272.00/22.82",
+		"updated": "DRO*VOR/DME*272.00/22.82"
 	},
 	{
 		"name": "WOKEX",
@@ -779,7 +780,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/01/2011",
+		"updated": "07/01/2011"
 	},
 	{
 		"name": "WOKPA",
@@ -788,7 +789,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "EKR*VOR/DME*179.40/44.18",
+		"updated": "EKR*VOR/DME*179.40/44.18"
 	},
 	{
 		"name": "WOKSU",
@@ -797,7 +798,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "05/03/2002",
+		"updated": "05/03/2002"
 	},
 	{
 		"name": "WOKUV",
@@ -806,7 +807,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DBL*VOR/DME*064.27/4.00",
+		"updated": "DBL*VOR/DME*064.27/4.00"
 	},
 	{
 		"name": "WOLFM",
@@ -815,7 +816,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/03/2017",
+		"updated": "02/03/2017"
 	},
 	{
 		"name": "WOLLF",
@@ -824,7 +825,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/16/2014",
+		"updated": "07/16/2014"
 	},
 	{
 		"name": "WOLTS",
@@ -833,7 +834,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "DVV*VORTAC*314.00/11.72",
+		"updated": "DVV*VORTAC*314.00/11.72"
 	},
 	{
 		"name": "WOMIV",
@@ -842,7 +843,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "02/12/2014",
+		"updated": "02/12/2014"
 	},
 	{
 		"name": "WOOKY",
@@ -851,7 +852,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "09/22/2012",
+		"updated": "09/22/2012"
 	},
 	{
 		"name": "WOPGU",
@@ -860,7 +861,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/05/2009",
+		"updated": "06/05/2009"
 	},
 	{
 		"name": "WOSIK",
@@ -869,7 +870,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "WOSUR",
@@ -878,7 +879,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "LAA*VOR/DME*262.58/14.50",
+		"updated": "LAA*VOR/DME*262.58/14.50"
 	},
 	{
 		"name": "WOTEP",
@@ -887,7 +888,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/26/2012",
+		"updated": "04/26/2012"
 	},
 	{
 		"name": "WOTMU",
@@ -896,7 +897,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "10/29/2007",
+		"updated": "10/29/2007"
 	},
 	{
 		"name": "WOVID",
@@ -905,7 +906,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/03/2011",
+		"updated": "06/03/2011"
 	},
 	{
 		"name": "WRIPS",
@@ -914,7 +915,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
+		"updated": "11/24/2012"
 	},
 	{
 		"name": "WUBGI",
@@ -923,7 +924,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "08/26/2013",
+		"updated": "08/26/2013"
 	},
 	{
 		"name": "WUBNO",
@@ -932,7 +933,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "SNY*VOR/DME*201.81/10.00",
+		"updated": "SNY*VOR/DME*201.81/10.00"
 	},
 	{
 		"name": "WUDIR",
@@ -941,7 +942,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RSK*VORTAC*243.19/69.00",
+		"updated": "RSK*VORTAC*243.19/69.00"
 	},
 	{
 		"name": "WUKLI",
@@ -950,7 +951,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "RIL*LD*078.46/13.54",
+		"updated": "RIL*LD*078.46/13.54"
 	},
 	{
 		"name": "WULKU",
@@ -959,7 +960,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "WULRA",
@@ -968,7 +969,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "01/22/2013",
+		"updated": "01/22/2013"
 	},
 	{
 		"name": "WUNKI",
@@ -977,7 +978,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "06/05/2012",
+		"updated": "06/05/2012"
 	},
 	{
 		"name": "WURNI",
@@ -986,7 +987,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "07/05/2011",
+		"updated": "07/05/2011"
 	},
 	{
 		"name": "WURTC",
@@ -995,7 +996,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "03/21/2016",
+		"updated": "03/21/2016"
 	},
 	{
 		"name": "WUVIR",
@@ -1004,7 +1005,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/20/2012",
+		"updated": "11/20/2012"
 	},
 	{
 		"name": "WUVUT",
@@ -1013,7 +1014,7 @@
 		"state": "WYOMING",
 		"artcc": "ZDV",
 		"type": "RP",
-		"updated": "GCC*VOR/DME*108.23/13.52",
+		"updated": "GCC*VOR/DME*108.23/13.52"
 	},
 	{
 		"name": "WUXEK",
@@ -1022,7 +1023,7 @@
 		"state": "COLORADO",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "04/06/2018",
+		"updated": "04/06/2018"
 	},
 	{
 		"name": "WYNDM",
@@ -1031,5 +1032,6 @@
 		"state": "NEBRASKA",
 		"artcc": "ZDV",
 		"type": "RNAV",
-		"updated": "11/24/2012",
-	},
+		"updated": "11/24/2012"
+	}
+]

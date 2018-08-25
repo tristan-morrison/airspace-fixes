@@ -1,3 +1,4 @@
+[
 	{
 		"name": "AGBUT",
 		"latitude": "44-44-52.8 N",
@@ -5,7 +6,7 @@
 		"state": "",
 		"artcc": "ZYZ",
 		"type": "RNAV",
-		"updated": "06/13/2017",
+		"updated": "06/13/2017"
 	},
 	{
 		"name": "AGDOX",
@@ -14,7 +15,7 @@
 		"state": "",
 		"artcc": "ZYZ",
 		"type": "RNAV",
-		"updated": "11/09/2016",
+		"updated": "11/09/2016"
 	},
 	{
 		"name": "ALVID",
@@ -23,7 +24,7 @@
 		"state": "",
 		"artcc": "ZYZ",
 		"type": "RNAV",
-		"updated": "09/26/2014",
+		"updated": "09/26/2014"
 	},
 	{
 		"name": "APNEL",
@@ -32,7 +33,7 @@
 		"state": "",
 		"artcc": "ZYZ",
 		"type": "RP",
-		"updated": "YVV*VOR/DME*315.63/60.00",
+		"updated": "YVV*VOR/DME*315.63/60.00"
 	},
 	{
 		"name": "AVALE",
@@ -41,7 +42,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZYZ",
 		"type": "RP",
-		"updated": "SSM*VOR/DME*304.00/39.00",
+		"updated": "SSM*VOR/DME*304.00/39.00"
 	},
 	{
 		"name": "AXOBU",
@@ -50,5 +51,6 @@
 		"state": "",
 		"artcc": "ZYZ",
 		"type": "RNAV",
-		"updated": "11/09/2016",
-	},
+		"updated": "11/09/2016"
+	}
+]

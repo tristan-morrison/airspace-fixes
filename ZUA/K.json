@@ -1,3 +1,4 @@
+[
 	{
 		"name": "KATNE",
 		"latitude": "13-34-34.98 N",
@@ -5,5 +6,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UAM*TACAN*/2.50",
-	},
+		"updated": "UAM*TACAN*/2.50"
+	}
+]

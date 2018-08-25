@@ -1,3 +1,4 @@
+[
 	{
 		"name": "JAAKS",
 		"latitude": "33-15-28.93 N",
@@ -5,7 +6,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*030.00/31.00",
+		"updated": "HMN*TACAN*030.00/31.00"
 	},
 	{
 		"name": "JADAP",
@@ -14,7 +15,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/14/2011",
+		"updated": "04/14/2011"
 	},
 	{
 		"name": "JADIL",
@@ -23,7 +24,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TCC*VORTAC*075.51/18.00",
+		"updated": "TCC*VORTAC*075.51/18.00"
 	},
 	{
 		"name": "JADKI",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/30/2010",
+		"updated": "11/30/2010"
 	},
 	{
 		"name": "JAFBY",
@@ -41,7 +42,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/05/2005",
+		"updated": "04/05/2005"
 	},
 	{
 		"name": "JAGAL",
@@ -50,7 +51,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CWJ*LD*078.08/11.06",
+		"updated": "CWJ*LD*078.08/11.06"
 	},
 	{
 		"name": "JAGSA",
@@ -59,7 +60,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/08/2004",
+		"updated": "09/08/2004"
 	},
 	{
 		"name": "JAKAR",
@@ -68,7 +69,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "FLG*VOR/DME*179.00/33.39",
+		"updated": "FLG*VOR/DME*179.00/33.39"
 	},
 	{
 		"name": "JAKKO",
@@ -77,7 +78,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/05/2017",
+		"updated": "09/05/2017"
 	},
 	{
 		"name": "JAKKY",
@@ -86,7 +87,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PIO*VOR/DME*023.33/26.35",
+		"updated": "PIO*VOR/DME*023.33/26.35"
 	},
 	{
 		"name": "JALEB",
@@ -95,7 +96,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CNM*VORTAC*223.50/13.00",
+		"updated": "CNM*VORTAC*223.50/13.00"
 	},
 	{
 		"name": "JAMBI",
@@ -104,7 +105,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CVS*TACAN*218.00/3.00",
+		"updated": "CVS*TACAN*218.00/3.00"
 	},
 	{
 		"name": "JAMEE",
@@ -113,7 +114,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*357.00/27.00",
+		"updated": "HMN*TACAN*357.00/27.00"
 	},
 	{
 		"name": "JAMIL",
@@ -122,7 +123,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SYQ*LD*258.08/11.32",
+		"updated": "SYQ*LD*258.08/11.32"
 	},
 	{
 		"name": "JANUK",
@@ -131,7 +132,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/01/2001",
+		"updated": "11/01/2001"
 	},
 	{
 		"name": "JAPOD",
@@ -140,7 +141,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/14/2014",
+		"updated": "02/14/2014"
 	},
 	{
 		"name": "JAROD",
@@ -149,7 +150,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*149.89/16.90",
+		"updated": "PXR*VORTAC*149.89/16.90"
 	},
 	{
 		"name": "JARPA",
@@ -158,7 +159,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/11/2014",
+		"updated": "08/11/2014"
 	},
 	{
 		"name": "JARPI",
@@ -167,7 +168,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CVS*TACAN*032.00/6.00",
+		"updated": "CVS*TACAN*032.00/6.00"
 	},
 	{
 		"name": "JASMI",
@@ -176,7 +177,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/14/2011",
+		"updated": "04/14/2011"
 	},
 	{
 		"name": "JASUR",
@@ -185,7 +186,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/26/2011",
+		"updated": "01/26/2011"
 	},
 	{
 		"name": "JATLA",
@@ -194,7 +195,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CVS*TACAN*/5.67",
+		"updated": "CVS*TACAN*/5.67"
 	},
 	{
 		"name": "JAWXY",
@@ -203,7 +204,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "JAXAR",
@@ -212,7 +213,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/25/2005",
+		"updated": "04/25/2005"
 	},
 	{
 		"name": "JAXIG",
@@ -221,7 +222,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/01/2012",
+		"updated": "06/01/2012"
 	},
 	{
 		"name": "JAXIV",
@@ -230,7 +231,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/30/2010",
+		"updated": "11/30/2010"
 	},
 	{
 		"name": "JBEAZ",
@@ -239,7 +240,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/05/2017",
+		"updated": "09/05/2017"
 	},
 	{
 		"name": "JBIRD",
@@ -248,7 +249,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "IWA*VORTAC*121.58/15.00",
+		"updated": "IWA*VORTAC*121.58/15.00"
 	},
 	{
 		"name": "JCOBS",
@@ -257,7 +258,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*351.00/52.00",
+		"updated": "PXR*VORTAC*351.00/52.00"
 	},
 	{
 		"name": "JCOXX",
@@ -266,7 +267,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/14/2014",
+		"updated": "02/14/2014"
 	},
 	{
 		"name": "JEBES",
@@ -275,7 +276,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CVS*TACAN*/5.97",
+		"updated": "CVS*TACAN*/5.97"
 	},
 	{
 		"name": "JEBSU",
@@ -284,7 +285,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/19/2014",
+		"updated": "02/19/2014"
 	},
 	{
 		"name": "JEGEK",
@@ -293,7 +294,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/12/2007",
+		"updated": "07/12/2007"
 	},
 	{
 		"name": "JEKIM",
@@ -302,7 +303,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/25/2005",
+		"updated": "02/25/2005"
 	},
 	{
 		"name": "JEKIX",
@@ -311,7 +312,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "LUF*TACAN*/12.00",
+		"updated": "LUF*TACAN*/12.00"
 	},
 	{
 		"name": "JEKRA",
@@ -320,7 +321,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*341.99/0.76",
+		"updated": "HMN*TACAN*341.99/0.76"
 	},
 	{
 		"name": "JEKTO",
@@ -329,7 +330,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/01/2006",
+		"updated": "08/01/2006"
 	},
 	{
 		"name": "JEKUD",
@@ -338,7 +339,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "DMA*TACAN*305.97/25.00",
+		"updated": "DMA*TACAN*305.97/25.00"
 	},
 	{
 		"name": "JELAT",
@@ -347,7 +348,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/13/2004",
+		"updated": "09/13/2004"
 	},
 	{
 		"name": "JELIG",
@@ -356,7 +357,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/16/2010",
+		"updated": "08/16/2010"
 	},
 	{
 		"name": "JELIL",
@@ -365,7 +366,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MW",
-		"updated": "02/14/2010",
+		"updated": "02/14/2010"
 	},
 	{
 		"name": "JEMAK",
@@ -374,7 +375,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/25/2005",
+		"updated": "02/25/2005"
 	},
 	{
 		"name": "JEMEZ",
@@ -383,7 +384,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "JEMTO",
@@ -392,7 +393,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*338.30/15.00",
+		"updated": "HMN*TACAN*338.30/15.00"
 	},
 	{
 		"name": "JENOM",
@@ -401,7 +402,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "INK*VORTAC*314.91/105.72",
+		"updated": "INK*VORTAC*314.91/105.72"
 	},
 	{
 		"name": "JEPES",
@@ -410,7 +411,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/04/2009",
+		"updated": "02/04/2009"
 	},
 	{
 		"name": "JEPET",
@@ -419,7 +420,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/16/2017",
+		"updated": "10/16/2017"
 	},
 	{
 		"name": "JEREV",
@@ -428,7 +429,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*034.00/8.00",
+		"updated": "HMN*TACAN*034.00/8.00"
 	},
 	{
 		"name": "JERGI",
@@ -437,7 +438,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/05/2005",
+		"updated": "04/05/2005"
 	},
 	{
 		"name": "JESSE",
@@ -446,7 +447,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ZUN*VORTAC*242.00/91.35",
+		"updated": "ZUN*VORTAC*242.00/91.35"
 	},
 	{
 		"name": "JETEK",
@@ -455,7 +456,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/31/2016",
+		"updated": "10/31/2016"
 	},
 	{
 		"name": "JETIM",
@@ -464,7 +465,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/21/2017",
+		"updated": "08/21/2017"
 	},
 	{
 		"name": "JETOG",
@@ -473,7 +474,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/02/2014",
+		"updated": "04/02/2014"
 	},
 	{
 		"name": "JETOK",
@@ -482,7 +483,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "JETOS",
@@ -491,7 +492,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/21/2014",
+		"updated": "03/21/2014"
 	},
 	{
 		"name": "JEVKU",
@@ -500,7 +501,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "LUF*TACAN*030.00/1.40",
+		"updated": "LUF*TACAN*030.00/1.40"
 	},
 	{
 		"name": "JEVOS",
@@ -509,7 +510,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/14/2014",
+		"updated": "02/14/2014"
 	},
 	{
 		"name": "JIDEN",
@@ -518,7 +519,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ELP*VORTAC*245.04/3.80",
+		"updated": "ELP*VORTAC*245.04/3.80"
 	},
 	{
 		"name": "JIDRA",
@@ -527,7 +528,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MW",
-		"updated": "02/26/2010",
+		"updated": "02/26/2010"
 	},
 	{
 		"name": "JILAB",
@@ -536,7 +537,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SPT*LD*259.43/8.27",
+		"updated": "SPT*LD*259.43/8.27"
 	},
 	{
 		"name": "JILKI",
@@ -545,7 +546,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/07/2010",
+		"updated": "06/07/2010"
 	},
 	{
 		"name": "JILPY",
@@ -554,7 +555,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PNH*VORTAC*176.00/11.00",
+		"updated": "PNH*VORTAC*176.00/11.00"
 	},
 	{
 		"name": "JILUG",
@@ -563,7 +564,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/20/2004",
+		"updated": "09/20/2004"
 	},
 	{
 		"name": "JIMBA",
@@ -572,7 +573,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/19/2011",
+		"updated": "12/19/2011"
 	},
 	{
 		"name": "JIMUN",
@@ -581,7 +582,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/14/2009",
+		"updated": "05/14/2009"
 	},
 	{
 		"name": "JINEV",
@@ -590,7 +591,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "LUF*TACAN*209.00/5.40",
+		"updated": "LUF*TACAN*209.00/5.40"
 	},
 	{
 		"name": "JINOL",
@@ -599,7 +600,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/22/2018",
+		"updated": "02/22/2018"
 	},
 	{
 		"name": "JIPON",
@@ -608,7 +609,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*143.44/21.55",
+		"updated": "PXR*VORTAC*143.44/21.55"
 	},
 	{
 		"name": "JIPSY",
@@ -617,7 +618,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*VORTAC*270.00",
+		"updated": "TUS*VORTAC*270.00"
 	},
 	{
 		"name": "JIPVI",
@@ -626,7 +627,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*/8.00",
+		"updated": "HMN*TACAN*/8.00"
 	},
 	{
 		"name": "JIROK",
@@ -635,7 +636,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "BXK*VORTAC*205.11/45.89",
+		"updated": "BXK*VORTAC*205.11/45.89"
 	},
 	{
 		"name": "JIRTU",
@@ -644,7 +645,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "PNH*VORTAC*216.86/7.40",
+		"updated": "PNH*VORTAC*216.86/7.40"
 	},
 	{
 		"name": "JISAM",
@@ -653,7 +654,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/31/2008",
+		"updated": "03/31/2008"
 	},
 	{
 		"name": "JIXEB",
@@ -662,7 +663,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/05/2011",
+		"updated": "01/05/2011"
 	},
 	{
 		"name": "JKPOT",
@@ -671,7 +672,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/11/2014",
+		"updated": "08/11/2014"
 	},
 	{
 		"name": "JLPNO",
@@ -680,7 +681,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/19/2012",
+		"updated": "11/19/2012"
 	},
 	{
 		"name": "JMUZE",
@@ -689,7 +690,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/21/2014",
+		"updated": "03/21/2014"
 	},
 	{
 		"name": "JNIPR",
@@ -698,7 +699,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/11/2014",
+		"updated": "08/11/2014"
 	},
 	{
 		"name": "JOBAM",
@@ -707,7 +708,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*320.00/12.00",
+		"updated": "HMN*TACAN*320.00/12.00"
 	},
 	{
 		"name": "JODEY",
@@ -716,7 +717,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "IWA*VORTAC*055.00/45.00",
+		"updated": "IWA*VORTAC*055.00/45.00"
 	},
 	{
 		"name": "JODPI",
@@ -725,7 +726,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PNH*VORTAC*055.00/29.29",
+		"updated": "PNH*VORTAC*055.00/29.29"
 	},
 	{
 		"name": "JOFRE",
@@ -734,7 +735,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CME*VORTAC*336.00/67.00",
+		"updated": "CME*VORTAC*336.00/67.00"
 	},
 	{
 		"name": "JOGHY",
@@ -743,7 +744,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/28/2010",
+		"updated": "04/28/2010"
 	},
 	{
 		"name": "JOGPO",
@@ -752,7 +753,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CME*VORTAC*307.72/17.00",
+		"updated": "CME*VORTAC*307.72/17.00"
 	},
 	{
 		"name": "JOKDI",
@@ -761,7 +762,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/26/2011",
+		"updated": "08/26/2011"
 	},
 	{
 		"name": "JOKIM",
@@ -770,7 +771,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*VORTAC*081.28/29.52",
+		"updated": "TUS*VORTAC*081.28/29.52"
 	},
 	{
 		"name": "JOKLO",
@@ -779,7 +780,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/21/2014",
+		"updated": "03/21/2014"
 	},
 	{
 		"name": "JOKTO",
@@ -788,7 +789,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/28/2013",
+		"updated": "10/28/2013"
 	},
 	{
 		"name": "JOKVI",
@@ -797,7 +798,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "LUF*TACAN*030.00/12.00",
+		"updated": "LUF*TACAN*030.00/12.00"
 	},
 	{
 		"name": "JOLAV",
@@ -806,7 +807,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TFD*VORTAC*340.00/12.00",
+		"updated": "TFD*VORTAC*340.00/12.00"
 	},
 	{
 		"name": "JOLKU",
@@ -815,7 +816,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/22/2017",
+		"updated": "12/22/2017"
 	},
 	{
 		"name": "JOMMY",
@@ -824,7 +825,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DUG*VORTAC*320.00/4.00",
+		"updated": "DUG*VORTAC*320.00/4.00"
 	},
 	{
 		"name": "JOMUB",
@@ -833,7 +834,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/14/2014",
+		"updated": "02/14/2014"
 	},
 	{
 		"name": "JONHH",
@@ -842,7 +843,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*321.00/25.00",
+		"updated": "PXR*VORTAC*321.00/25.00"
 	},
 	{
 		"name": "JONIN",
@@ -851,7 +852,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/31/2009",
+		"updated": "12/31/2009"
 	},
 	{
 		"name": "JOPNI",
@@ -860,7 +861,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/30/2010",
+		"updated": "11/30/2010"
 	},
 	{
 		"name": "JOPNU",
@@ -869,7 +870,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "CVS*TACAN*/5.56",
+		"updated": "CVS*TACAN*/5.56"
 	},
 	{
 		"name": "JORTO",
@@ -878,7 +879,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DUG*VORTAC*286.38/31.25",
+		"updated": "DUG*VORTAC*286.38/31.25"
 	},
 	{
 		"name": "JOSPO",
@@ -887,7 +888,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "LRU*LD*127.01/7.42",
+		"updated": "LRU*LD*127.01/7.42"
 	},
 	{
 		"name": "JOSUE",
@@ -896,7 +897,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/02/2014",
+		"updated": "04/02/2014"
 	},
 	{
 		"name": "JOSUR",
@@ -905,7 +906,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "DMA*TACAN*/11.00",
+		"updated": "DMA*TACAN*/11.00"
 	},
 	{
 		"name": "JOXEP",
@@ -914,7 +915,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "BGD*VORTAC*193.46/10.00",
+		"updated": "BGD*VORTAC*193.46/10.00"
 	},
 	{
 		"name": "JRRRY",
@@ -923,7 +924,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/14/2009",
+		"updated": "05/14/2009"
 	},
 	{
 		"name": "JSSUA",
@@ -932,7 +933,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/12/2014",
+		"updated": "08/12/2014"
 	},
 	{
 		"name": "JUDAR",
@@ -941,7 +942,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MW",
-		"updated": "02/14/2010",
+		"updated": "02/14/2010"
 	},
 	{
 		"name": "JUDEN",
@@ -950,7 +951,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/16/2010",
+		"updated": "08/16/2010"
 	},
 	{
 		"name": "JUDTH",
@@ -959,7 +960,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "BXK*VORTAC*215.00/57.87",
+		"updated": "BXK*VORTAC*215.00/57.87"
 	},
 	{
 		"name": "JULBO",
@@ -968,7 +969,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "HMN*TACAN*002.00/17.00",
+		"updated": "HMN*TACAN*002.00/17.00"
 	},
 	{
 		"name": "JULOL",
@@ -977,7 +978,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/11/2013",
+		"updated": "07/11/2013"
 	},
 	{
 		"name": "JULUR",
@@ -986,7 +987,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/14/2010",
+		"updated": "02/14/2010"
 	},
 	{
 		"name": "JUMPY",
@@ -995,7 +996,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DRK*VORTAC*096.81/15.87",
+		"updated": "DRK*VORTAC*096.81/15.87"
 	},
 	{
 		"name": "JUNVE",
@@ -1004,7 +1005,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "BGD*VORTAC*193.46/22.62",
+		"updated": "BGD*VORTAC*193.46/22.62"
 	},
 	{
 		"name": "JUPIN",
@@ -1013,7 +1014,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/04/2010",
+		"updated": "05/04/2010"
 	},
 	{
 		"name": "JUPTR",
@@ -1022,7 +1023,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/04/2011",
+		"updated": "07/04/2011"
 	},
 	{
 		"name": "JUPVA",
@@ -1031,7 +1032,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "LUF*TACAN*206.00/6.00",
+		"updated": "LUF*TACAN*206.00/6.00"
 	},
 	{
 		"name": "JURAZ",
@@ -1040,7 +1041,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "JURBI",
@@ -1049,7 +1050,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "CME*VORTAC*360.00/11.00",
+		"updated": "CME*VORTAC*360.00/11.00"
 	},
 	{
 		"name": "JURED",
@@ -1058,7 +1059,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*083.66",
+		"updated": "PXR*VORTAC*083.66"
 	},
 	{
 		"name": "JURUX",
@@ -1067,7 +1068,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/05/2010",
+		"updated": "03/05/2010"
 	},
 	{
 		"name": "JUSIB",
@@ -1076,7 +1077,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/10/2016",
+		"updated": "08/10/2016"
 	},
 	{
 		"name": "JUSKU",
@@ -1085,7 +1086,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/06/2005",
+		"updated": "04/06/2005"
 	},
 	{
 		"name": "JUSTN",
@@ -1094,7 +1095,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "DRK*VORTAC*290.36/26.00",
+		"updated": "DRK*VORTAC*290.36/26.00"
 	},
 	{
 		"name": "JUTAK",
@@ -1103,7 +1104,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/22/2018",
+		"updated": "02/22/2018"
 	},
 	{
 		"name": "JUTEP",
@@ -1112,7 +1113,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/16/2010",
+		"updated": "08/16/2010"
 	},
 	{
 		"name": "JUWSO",
@@ -1121,7 +1122,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DRK*VORTAC*061.02/22.00",
+		"updated": "DRK*VORTAC*061.02/22.00"
 	},
 	{
 		"name": "JUXUK",
@@ -1130,5 +1131,6 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "LUF*TACAN*212.00/1.80",
-	},
+		"updated": "LUF*TACAN*212.00/1.80"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "IKOVY",
 		"latitude": "13-24-21.27 N",
@@ -5,7 +6,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "GUM*LD*SW CRS/12.12",
+		"updated": "GUM*LD*SW CRS/12.12"
 	},
 	{
 		"name": "INIME",
@@ -14,7 +15,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UAM*TACAN*/0.50",
+		"updated": "UAM*TACAN*/0.50"
 	},
 	{
 		"name": "ITUME",
@@ -23,5 +24,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "MR",
-		"updated": "UAM*TACAN*246.00/2.50",
-	},
+		"updated": "UAM*TACAN*246.00/2.50"
+	}
+]

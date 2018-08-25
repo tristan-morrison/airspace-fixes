@@ -1,3 +1,4 @@
+[
 	{
 		"name": "VAANE",
 		"latitude": "45-18-12.53 N",
@@ -5,7 +6,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/25/2016",
+		"updated": "01/25/2016"
 	},
 	{
 		"name": "VACSU",
@@ -14,7 +15,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "06/15/2012",
+		"updated": "06/15/2012"
 	},
 	{
 		"name": "VACUA",
@@ -23,7 +24,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "09/01/2017",
+		"updated": "09/01/2017"
 	},
 	{
 		"name": "VAILL",
@@ -32,7 +33,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "SAK*NDB*172.97",
+		"updated": "SAK*NDB*172.97"
 	},
 	{
 		"name": "VALCU",
@@ -41,7 +42,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "02/16/2006",
+		"updated": "02/16/2006"
 	},
 	{
 		"name": "VATCU",
@@ -50,7 +51,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/29/2009",
+		"updated": "10/29/2009"
 	},
 	{
 		"name": "VAVUC",
@@ -59,7 +60,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "04/27/2009",
+		"updated": "04/27/2009"
 	},
 	{
 		"name": "VELDE",
@@ -68,7 +69,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MLF*VORTAC*153.86/26.99",
+		"updated": "MLF*VORTAC*153.86/26.99"
 	},
 	{
 		"name": "VELUY",
@@ -77,7 +78,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/05/2014",
+		"updated": "08/05/2014"
 	},
 	{
 		"name": "VENNM",
@@ -86,7 +87,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "MR",
-		"updated": "OGD*VORTAC*260.00/50.00",
+		"updated": "OGD*VORTAC*260.00/50.00"
 	},
 	{
 		"name": "VERNE",
@@ -95,7 +96,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "DTA*VORTAC*348.00/53.24",
+		"updated": "DTA*VORTAC*348.00/53.24"
 	},
 	{
 		"name": "VIANT",
@@ -104,7 +105,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "ELY*VOR/DME*359.00/16.00",
+		"updated": "ELY*VOR/DME*359.00/16.00"
 	},
 	{
 		"name": "VICTO",
@@ -113,7 +114,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "MSO*VOR/DME*159.00/19.99",
+		"updated": "MSO*VOR/DME*159.00/19.99"
 	},
 	{
 		"name": "VICTR",
@@ -122,7 +123,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "INA*VOR/DME*325.99/12.00",
+		"updated": "INA*VOR/DME*325.99/12.00"
 	},
 	{
 		"name": "VICUP",
@@ -131,7 +132,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/05/2016",
+		"updated": "10/05/2016"
 	},
 	{
 		"name": "VIPUC",
@@ -140,7 +141,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "05/01/2017",
+		"updated": "05/01/2017"
 	},
 	{
 		"name": "VISVE",
@@ -149,7 +150,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/19/2010",
+		"updated": "08/19/2010"
 	},
 	{
 		"name": "VITHE",
@@ -158,7 +159,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "10/08/2014",
+		"updated": "10/08/2014"
 	},
 	{
 		"name": "VLBRG",
@@ -167,7 +168,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "07/17/2015",
+		"updated": "07/17/2015"
 	},
 	{
 		"name": "VOCSU",
@@ -176,7 +177,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "HLN*VORTAC*228.00/13.00",
+		"updated": "HLN*VORTAC*228.00/13.00"
 	},
 	{
 		"name": "VODOU",
@@ -185,7 +186,7 @@
 		"state": "NEVADA",
 		"artcc": "ZLC",
 		"type": "RP",
-		"updated": "BQU*VOR/DME*028.59",
+		"updated": "BQU*VOR/DME*028.59"
 	},
 	{
 		"name": "VOGCU",
@@ -194,7 +195,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "04/27/2009",
+		"updated": "04/27/2009"
 	},
 	{
 		"name": "VOGUY",
@@ -203,7 +204,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "02/01/2007",
+		"updated": "02/01/2007"
 	},
 	{
 		"name": "VOTMY",
@@ -212,7 +213,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "08/09/2010",
+		"updated": "08/09/2010"
 	},
 	{
 		"name": "VPAIR",
@@ -221,7 +222,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPBEE",
@@ -230,7 +231,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPBRN",
@@ -239,7 +240,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPCAP",
@@ -248,7 +249,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPCHS",
@@ -257,7 +258,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPCOP",
@@ -266,7 +267,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPCVI",
@@ -275,7 +276,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPCWY",
@@ -284,7 +285,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPCYN",
@@ -293,7 +294,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPFPC",
@@ -302,7 +303,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPFPK",
@@ -311,7 +312,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "04/10/2008",
+		"updated": "04/10/2008"
 	},
 	{
 		"name": "VPGFS",
@@ -320,7 +321,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "07/31/2008",
+		"updated": "07/31/2008"
 	},
 	{
 		"name": "VPHVE",
@@ -329,7 +330,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPJRT",
@@ -338,7 +339,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPKSL",
@@ -347,7 +348,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPLGN",
@@ -356,7 +357,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPMDH",
@@ -365,7 +366,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "07/03/2014",
+		"updated": "07/03/2014"
 	},
 	{
 		"name": "VPMMT",
@@ -374,7 +375,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPMSH",
@@ -383,7 +384,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPNSL",
@@ -392,7 +393,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPNTP",
@@ -401,7 +402,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPOGE",
@@ -410,7 +411,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPOPS",
@@ -419,7 +420,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPPEN",
@@ -428,7 +429,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPPPT",
@@ -437,7 +438,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPPTM",
@@ -446,7 +447,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPPVO",
@@ -455,7 +456,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPRWY",
@@ -464,7 +465,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPSLC",
@@ -473,7 +474,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPTIP",
@@ -482,7 +483,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPUOU",
@@ -491,7 +492,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPWBR",
@@ -500,7 +501,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPWBT",
@@ -509,7 +510,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VPZOO",
@@ -518,7 +519,7 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "VFR",
-		"updated": "01/16/2002",
+		"updated": "01/16/2002"
 	},
 	{
 		"name": "VUBBU",
@@ -527,7 +528,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/04/2015",
+		"updated": "11/04/2015"
 	},
 	{
 		"name": "VUCUY",
@@ -536,7 +537,7 @@
 		"state": "MONTANA",
 		"artcc": "ZLC",
 		"type": "CN",
-		"updated": "04/27/2009",
+		"updated": "04/27/2009"
 	},
 	{
 		"name": "VUGUY",
@@ -545,7 +546,7 @@
 		"state": "WYOMING",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "12/06/2006",
+		"updated": "12/06/2006"
 	},
 	{
 		"name": "VUNCU",
@@ -554,7 +555,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "11/04/2015",
+		"updated": "11/04/2015"
 	},
 	{
 		"name": "VUPCU",
@@ -563,7 +564,7 @@
 		"state": "IDAHO",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "08/22/2013",
+		"updated": "08/22/2013"
 	},
 	{
 		"name": "VUTAW",
@@ -572,5 +573,6 @@
 		"state": "UTAH",
 		"artcc": "ZLC",
 		"type": "RNAV",
-		"updated": "01/31/2001",
-	},
+		"updated": "01/31/2001"
+	}
+]

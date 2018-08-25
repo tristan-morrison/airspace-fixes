@@ -1,3 +1,4 @@
+[
 	{
 		"name": "EBDOT",
 		"latitude": "45-5-25.2273 N",
@@ -5,5 +6,6 @@
 		"state": "",
 		"artcc": "ZUL",
 		"type": "RNAV",
-		"updated": "04/08/2013",
-	},
+		"updated": "04/08/2013"
+	}
+]

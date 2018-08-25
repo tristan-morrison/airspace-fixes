@@ -1,3 +1,4 @@
+[
 	{
 		"name": "QADIF",
 		"latitude": "41-15-27.9 N",
@@ -5,7 +6,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "YNG*VORTAC*121.00/10.00",
+		"updated": "YNG*VORTAC*121.00/10.00"
 	},
 	{
 		"name": "QAJJU",
@@ -14,7 +15,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/01/2011",
+		"updated": "03/01/2011"
 	},
 	{
 		"name": "QEBZA",
@@ -23,7 +24,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "05/05/2011",
+		"updated": "05/05/2011"
 	},
 	{
 		"name": "QUARM",
@@ -32,7 +33,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "08/25/2011",
+		"updated": "08/25/2011"
 	},
 	{
 		"name": "QUARY",
@@ -41,7 +42,7 @@
 		"state": "PENNSYLVANIA",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "IHD*VORTAC*002.00/16.00",
+		"updated": "IHD*VORTAC*002.00/16.00"
 	},
 	{
 		"name": "QUBEE",
@@ -50,7 +51,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "JXN*VOR/DME*033.55/30.84",
+		"updated": "JXN*VOR/DME*033.55/30.84"
 	},
 	{
 		"name": "QUINS",
@@ -59,7 +60,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RP",
-		"updated": "LFD*VOR/DME*244.02/9.00",
+		"updated": "LFD*VOR/DME*244.02/9.00"
 	},
 	{
 		"name": "QWERI",
@@ -68,7 +69,7 @@
 		"state": "",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "10/06/2016",
+		"updated": "10/06/2016"
 	},
 	{
 		"name": "QWYNN",
@@ -77,5 +78,6 @@
 		"state": "MICHIGAN",
 		"artcc": "ZOB",
 		"type": "RNAV",
-		"updated": "03/29/2018",
-	},
+		"updated": "03/29/2018"
+	}
+]

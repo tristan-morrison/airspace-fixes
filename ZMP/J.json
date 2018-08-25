@@ -1,3 +1,4 @@
+[
 	{
 		"name": "JABMO",
 		"latitude": "41-15-6.66 N",
@@ -5,7 +6,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "OFF*TACAN*303.46/13.00",
+		"updated": "OFF*TACAN*303.46/13.00"
 	},
 	{
 		"name": "JABVU",
@@ -14,7 +15,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIS*VOR/DME*/6.11",
+		"updated": "BIS*VOR/DME*/6.11"
 	},
 	{
 		"name": "JACKO",
@@ -23,7 +24,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "INN*LD*SE CRS/6.84",
+		"updated": "INN*LD*SE CRS/6.84"
 	},
 	{
 		"name": "JADAN",
@@ -32,7 +33,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BI*NDB*000.00",
+		"updated": "BI*NDB*000.00"
 	},
 	{
 		"name": "JADDU",
@@ -41,7 +42,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/17/2008",
+		"updated": "11/17/2008"
 	},
 	{
 		"name": "JADGA",
@@ -50,7 +51,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "JADIB",
@@ -59,7 +60,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/27/2008",
+		"updated": "03/27/2008"
 	},
 	{
 		"name": "JADIP",
@@ -68,7 +69,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/28/2004",
+		"updated": "12/28/2004"
 	},
 	{
 		"name": "JADIX",
@@ -77,7 +78,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "JADKU",
@@ -86,7 +87,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/26/2011",
+		"updated": "04/26/2011"
 	},
 	{
 		"name": "JAEDN",
@@ -95,7 +96,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MSP*VOR/DME*251.02/21.89",
+		"updated": "MSP*VOR/DME*251.02/21.89"
 	},
 	{
 		"name": "JAFYU",
@@ -104,7 +105,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "HON*VORTAC*303.65/8.00",
+		"updated": "HON*VORTAC*303.65/8.00"
 	},
 	{
 		"name": "JAGBI",
@@ -113,7 +114,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/08/2006",
+		"updated": "06/08/2006"
 	},
 	{
 		"name": "JAGBU",
@@ -122,7 +123,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/19/2013",
+		"updated": "02/19/2013"
 	},
 	{
 		"name": "JAGED",
@@ -131,7 +132,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/22/2009",
+		"updated": "03/22/2009"
 	},
 	{
 		"name": "JAGEK",
@@ -140,7 +141,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "JAGOG",
@@ -149,7 +150,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/19/2012",
+		"updated": "04/19/2012"
 	},
 	{
 		"name": "JAGOW",
@@ -158,7 +159,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MCW*VOR/DME*357.93/25.26",
+		"updated": "MCW*VOR/DME*357.93/25.26"
 	},
 	{
 		"name": "JAGSO",
@@ -167,7 +168,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PIR*VORTAC*151.12/17.00",
+		"updated": "PIR*VORTAC*151.12/17.00"
 	},
 	{
 		"name": "JAKDI",
@@ -176,7 +177,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "YKN*VOR/DME*053.44/12.10",
+		"updated": "YKN*VOR/DME*053.44/12.10"
 	},
 	{
 		"name": "JAKEP",
@@ -185,7 +186,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/22/2006",
+		"updated": "03/22/2006"
 	},
 	{
 		"name": "JAKET",
@@ -194,7 +195,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/20/2012",
+		"updated": "03/20/2012"
 	},
 	{
 		"name": "JAKEY",
@@ -203,7 +204,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/03/2003",
+		"updated": "02/03/2003"
 	},
 	{
 		"name": "JAKKI",
@@ -212,7 +213,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "JAKLI",
@@ -221,7 +222,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/20/2012",
+		"updated": "03/20/2012"
 	},
 	{
 		"name": "JAKOK",
@@ -230,7 +231,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/03/2008",
+		"updated": "07/03/2008"
 	},
 	{
 		"name": "JAKPA",
@@ -239,7 +240,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/17/2003",
+		"updated": "03/17/2003"
 	},
 	{
 		"name": "JAKTI",
@@ -248,7 +249,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/04/2010",
+		"updated": "02/04/2010"
 	},
 	{
 		"name": "JAKVI",
@@ -257,7 +258,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/12/2008",
+		"updated": "08/12/2008"
 	},
 	{
 		"name": "JALAB",
@@ -266,7 +267,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "JALAP",
@@ -275,7 +276,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/10/2013",
+		"updated": "05/10/2013"
 	},
 	{
 		"name": "JALER",
@@ -284,7 +285,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/30/2012",
+		"updated": "08/30/2012"
 	},
 	{
 		"name": "JALET",
@@ -293,7 +294,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/02/2012",
+		"updated": "08/02/2012"
 	},
 	{
 		"name": "JALEV",
@@ -302,7 +303,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/27/2009",
+		"updated": "10/27/2009"
 	},
 	{
 		"name": "JALIS",
@@ -311,7 +312,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/01/2012",
+		"updated": "11/01/2012"
 	},
 	{
 		"name": "JALKU",
@@ -320,7 +321,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/06/2009",
+		"updated": "05/06/2009"
 	},
 	{
 		"name": "JALPI",
@@ -329,7 +330,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/15/2004",
+		"updated": "11/15/2004"
 	},
 	{
 		"name": "JALTI",
@@ -338,7 +339,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/19/2003",
+		"updated": "12/19/2003"
 	},
 	{
 		"name": "JALUN",
@@ -347,7 +348,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/18/2002",
+		"updated": "01/18/2002"
 	},
 	{
 		"name": "JAMAC",
@@ -356,7 +357,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/14/2009",
+		"updated": "09/14/2009"
 	},
 	{
 		"name": "JAMAG",
@@ -365,7 +366,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/17/2014",
+		"updated": "01/17/2014"
 	},
 	{
 		"name": "JAMEZ",
@@ -374,7 +375,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BMA*LD*169.53/21.37",
+		"updated": "BMA*LD*169.53/21.37"
 	},
 	{
 		"name": "JAMRU",
@@ -383,7 +384,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/04/2015",
+		"updated": "11/04/2015"
 	},
 	{
 		"name": "JAMTU",
@@ -392,7 +393,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "JANAR",
@@ -401,7 +402,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/21/2005",
+		"updated": "04/21/2005"
 	},
 	{
 		"name": "JANEV",
@@ -410,7 +411,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/24/2009",
+		"updated": "12/24/2009"
 	},
 	{
 		"name": "JANIK",
@@ -419,7 +420,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/24/2007",
+		"updated": "10/24/2007"
 	},
 	{
 		"name": "JANIL",
@@ -428,7 +429,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/28/2004",
+		"updated": "12/28/2004"
 	},
 	{
 		"name": "JANUP",
@@ -437,7 +438,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MBL*VOR/DME*/12.00",
+		"updated": "MBL*VOR/DME*/12.00"
 	},
 	{
 		"name": "JAPDO",
@@ -446,7 +447,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/24/2013",
+		"updated": "05/24/2013"
 	},
 	{
 		"name": "JAPID",
@@ -455,7 +456,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/11/2013",
+		"updated": "04/11/2013"
 	},
 	{
 		"name": "JAPKA",
@@ -464,7 +465,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/30/2011",
+		"updated": "03/30/2011"
 	},
 	{
 		"name": "JAPNU",
@@ -473,7 +474,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/19/2003",
+		"updated": "12/19/2003"
 	},
 	{
 		"name": "JAPSA",
@@ -482,7 +483,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "JAY*VOR/DME*350.50/7.29",
+		"updated": "JAY*VOR/DME*350.50/7.29"
 	},
 	{
 		"name": "JAQKU",
@@ -491,7 +492,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/22/2008",
+		"updated": "12/22/2008"
 	},
 	{
 		"name": "JARNS",
@@ -500,7 +501,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/14/2010",
+		"updated": "05/14/2010"
 	},
 	{
 		"name": "JASAK",
@@ -509,7 +510,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "EAU*LD*223.96/5.43",
+		"updated": "EAU*LD*223.96/5.43"
 	},
 	{
 		"name": "JASET",
@@ -518,7 +519,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/19/2002",
+		"updated": "06/19/2002"
 	},
 	{
 		"name": "JASNI",
@@ -527,7 +528,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/04/2010",
+		"updated": "05/04/2010"
 	},
 	{
 		"name": "JASUD",
@@ -536,7 +537,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MCW*VOR/DME*075.34/15.00",
+		"updated": "MCW*VOR/DME*075.34/15.00"
 	},
 	{
 		"name": "JASVA",
@@ -545,7 +546,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/23/2005",
+		"updated": "08/23/2005"
 	},
 	{
 		"name": "JATIN",
@@ -554,7 +555,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OVR*VORTAC*268.89",
+		"updated": "OVR*VORTAC*268.89"
 	},
 	{
 		"name": "JATRA",
@@ -563,7 +564,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PLN*VORTAC*294.66/5.95",
+		"updated": "PLN*VORTAC*294.66/5.95"
 	},
 	{
 		"name": "JATTY",
@@ -572,7 +573,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/22/2016",
+		"updated": "02/22/2016"
 	},
 	{
 		"name": "JAVAM",
@@ -581,7 +582,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GRB*VORTAC*115.00/29.44",
+		"updated": "GRB*VORTAC*115.00/29.44"
 	},
 	{
 		"name": "JAVEP",
@@ -590,7 +591,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/21/2009",
+		"updated": "01/21/2009"
 	},
 	{
 		"name": "JAVOD",
@@ -599,7 +600,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/29/2010",
+		"updated": "03/29/2010"
 	},
 	{
 		"name": "JAVUT",
@@ -608,7 +609,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/21/2013",
+		"updated": "03/21/2013"
 	},
 	{
 		"name": "JAXIL",
@@ -617,7 +618,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/19/2009",
+		"updated": "06/19/2009"
 	},
 	{
 		"name": "JAXWU",
@@ -626,7 +627,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/13/2012",
+		"updated": "02/13/2012"
 	},
 	{
 		"name": "JAYME",
@@ -635,7 +636,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RHI*VOR/DME*021.38/14.00",
+		"updated": "RHI*VOR/DME*021.38/14.00"
 	},
 	{
 		"name": "JAYZU",
@@ -644,7 +645,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "JEBAR",
@@ -653,7 +654,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/30/2011",
+		"updated": "03/30/2011"
 	},
 	{
 		"name": "JEBER",
@@ -662,7 +663,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/21/2007",
+		"updated": "07/21/2007"
 	},
 	{
 		"name": "JEBIR",
@@ -671,7 +672,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/30/2011",
+		"updated": "03/30/2011"
 	},
 	{
 		"name": "JEBTO",
@@ -680,7 +681,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/18/2008",
+		"updated": "03/18/2008"
 	},
 	{
 		"name": "JEDED",
@@ -689,7 +690,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2006",
+		"updated": "02/09/2006"
 	},
 	{
 		"name": "JEDEN",
@@ -698,7 +699,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FCM*VOR/DME*057.67",
+		"updated": "FCM*VOR/DME*057.67"
 	},
 	{
 		"name": "JEDET",
@@ -707,7 +708,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MSP*VOR/DME*138.00/34.00",
+		"updated": "MSP*VOR/DME*138.00/34.00"
 	},
 	{
 		"name": "JEDUG",
@@ -716,7 +717,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/28/2012",
+		"updated": "03/28/2012"
 	},
 	{
 		"name": "JEFWY",
@@ -725,7 +726,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/08/2010",
+		"updated": "04/08/2010"
 	},
 	{
 		"name": "JEGLI",
@@ -734,7 +735,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/30/2009",
+		"updated": "12/30/2009"
 	},
 	{
 		"name": "JEGOB",
@@ -743,7 +744,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/16/2008",
+		"updated": "10/16/2008"
 	},
 	{
 		"name": "JEGOL",
@@ -752,7 +753,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2010",
+		"updated": "05/30/2010"
 	},
 	{
 		"name": "JEGRU",
@@ -761,7 +762,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/03/2010",
+		"updated": "08/03/2010"
 	},
 	{
 		"name": "JEGUP",
@@ -770,7 +771,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "GFK*VOR/DME*097.23/8.44",
+		"updated": "GFK*VOR/DME*097.23/8.44"
 	},
 	{
 		"name": "JEJAW",
@@ -779,7 +780,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/09/2018",
+		"updated": "02/09/2018"
 	},
 	{
 		"name": "JEKAN",
@@ -788,7 +789,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIS*VOR/DME*278.00/17.00",
+		"updated": "BIS*VOR/DME*278.00/17.00"
 	},
 	{
 		"name": "JEKRU",
@@ -797,7 +798,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/04/2011",
+		"updated": "10/04/2011"
 	},
 	{
 		"name": "JEKUK",
@@ -806,7 +807,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "JELAM",
@@ -815,7 +816,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "JELAR",
@@ -824,7 +825,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/02/2005",
+		"updated": "05/02/2005"
 	},
 	{
 		"name": "JELDI",
@@ -833,7 +834,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/21/2009",
+		"updated": "01/21/2009"
 	},
 	{
 		"name": "JELET",
@@ -842,7 +843,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/10/2003",
+		"updated": "07/10/2003"
 	},
 	{
 		"name": "JELKU",
@@ -851,7 +852,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/29/2012",
+		"updated": "11/29/2012"
 	},
 	{
 		"name": "JELMU",
@@ -860,7 +861,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2010",
+		"updated": "05/30/2010"
 	},
 	{
 		"name": "JELOG",
@@ -869,7 +870,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2013",
+		"updated": "05/30/2013"
 	},
 	{
 		"name": "JELOR",
@@ -878,7 +879,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ASX*LE*S CRS/10.62",
+		"updated": "ASX*LE*S CRS/10.62"
 	},
 	{
 		"name": "JELRO",
@@ -887,7 +888,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DIK*VORTAC*169.42/63.00",
+		"updated": "DIK*VORTAC*169.42/63.00"
 	},
 	{
 		"name": "JELUR",
@@ -896,7 +897,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/19/2007",
+		"updated": "07/19/2007"
 	},
 	{
 		"name": "JEMGU",
@@ -905,7 +906,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "JEMVI",
@@ -914,7 +915,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "LNK*VORTAC*177.78",
+		"updated": "LNK*VORTAC*177.78"
 	},
 	{
 		"name": "JENGI",
@@ -923,7 +924,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/19/2002",
+		"updated": "06/19/2002"
 	},
 	{
 		"name": "JENOT",
@@ -932,7 +933,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/15/2009",
+		"updated": "09/15/2009"
 	},
 	{
 		"name": "JENTU",
@@ -941,7 +942,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/03/2012",
+		"updated": "12/03/2012"
 	},
 	{
 		"name": "JENUN",
@@ -950,7 +951,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/23/2013",
+		"updated": "05/23/2013"
 	},
 	{
 		"name": "JEPOT",
@@ -959,7 +960,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MBL*VOR/DME*/4.79",
+		"updated": "MBL*VOR/DME*/4.79"
 	},
 	{
 		"name": "JEQMU",
@@ -968,7 +969,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/22/2007",
+		"updated": "08/22/2007"
 	},
 	{
 		"name": "JERAS",
@@ -977,7 +978,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*286.00/14.50",
+		"updated": "GEP*VORTAC*286.00/14.50"
 	},
 	{
 		"name": "JERMN",
@@ -986,7 +987,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/20/2016",
+		"updated": "11/20/2016"
 	},
 	{
 		"name": "JERRO",
@@ -995,7 +996,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/28/2009",
+		"updated": "04/28/2009"
 	},
 	{
 		"name": "JESGA",
@@ -1004,7 +1005,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/10/2012",
+		"updated": "09/10/2012"
 	},
 	{
 		"name": "JESUR",
@@ -1013,7 +1014,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "JESVA",
@@ -1022,7 +1023,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/16/2013",
+		"updated": "12/16/2013"
 	},
 	{
 		"name": "JETGO",
@@ -1031,7 +1032,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/22/2016",
+		"updated": "11/22/2016"
 	},
 	{
 		"name": "JETOM",
@@ -1040,7 +1041,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/22/2003",
+		"updated": "01/22/2003"
 	},
 	{
 		"name": "JEVBI",
@@ -1049,7 +1050,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GRB*VORTAC*319.77/29.95",
+		"updated": "GRB*VORTAC*319.77/29.95"
 	},
 	{
 		"name": "JEVEM",
@@ -1058,7 +1059,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/04/2010",
+		"updated": "09/04/2010"
 	},
 	{
 		"name": "JEVIP",
@@ -1067,7 +1068,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/12/2014",
+		"updated": "03/12/2014"
 	},
 	{
 		"name": "JEVLO",
@@ -1076,7 +1077,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/18/2010",
+		"updated": "06/18/2010"
 	},
 	{
 		"name": "JEVUP",
@@ -1085,7 +1086,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/14/2009",
+		"updated": "10/14/2009"
 	},
 	{
 		"name": "JEXEG",
@@ -1094,7 +1095,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "04/01/2011",
+		"updated": "04/01/2011"
 	},
 	{
 		"name": "JEXES",
@@ -1103,7 +1104,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/24/2017",
+		"updated": "08/24/2017"
 	},
 	{
 		"name": "JEXIR",
@@ -1112,7 +1113,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MOX*VOR/DME*135.10/2.17",
+		"updated": "MOX*VOR/DME*135.10/2.17"
 	},
 	{
 		"name": "JEXIV",
@@ -1121,7 +1122,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "JEYZO",
@@ -1130,7 +1131,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "JGKGR",
@@ -1139,7 +1140,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/03/2002",
+		"updated": "06/03/2002"
 	},
 	{
 		"name": "JGKPL",
@@ -1148,7 +1149,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/03/2002",
+		"updated": "06/03/2002"
 	},
 	{
 		"name": "JGPTT",
@@ -1157,7 +1158,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/03/2002",
+		"updated": "06/03/2002"
 	},
 	{
 		"name": "JGRLN",
@@ -1166,7 +1167,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/03/2002",
+		"updated": "06/03/2002"
 	},
 	{
 		"name": "JGTSC",
@@ -1175,7 +1176,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "06/03/2002",
+		"updated": "06/03/2002"
 	},
 	{
 		"name": "JIBAM",
@@ -1184,7 +1185,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/28/2009",
+		"updated": "12/28/2009"
 	},
 	{
 		"name": "JIBDU",
@@ -1193,7 +1194,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "INL*VOR/DME*176.31/12.00",
+		"updated": "INL*VOR/DME*176.31/12.00"
 	},
 	{
 		"name": "JIBEG",
@@ -1202,7 +1203,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "JIBID",
@@ -1211,7 +1212,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/01/2010",
+		"updated": "12/01/2010"
 	},
 	{
 		"name": "JIBLU",
@@ -1220,7 +1221,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/29/2005",
+		"updated": "06/29/2005"
 	},
 	{
 		"name": "JIBPO",
@@ -1229,7 +1230,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "JIBQE",
@@ -1238,7 +1239,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/22/2010",
+		"updated": "04/22/2010"
 	},
 	{
 		"name": "JIBRA",
@@ -1247,7 +1248,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/18/2017",
+		"updated": "01/18/2017"
 	},
 	{
 		"name": "JIBSU",
@@ -1256,7 +1257,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/21/2009",
+		"updated": "12/21/2009"
 	},
 	{
 		"name": "JIBTU",
@@ -1265,7 +1266,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/02/2009",
+		"updated": "10/02/2009"
 	},
 	{
 		"name": "JIBYA",
@@ -1274,7 +1275,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/20/2010",
+		"updated": "05/20/2010"
 	},
 	{
 		"name": "JIDAP",
@@ -1283,7 +1284,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/17/2010",
+		"updated": "11/17/2010"
 	},
 	{
 		"name": "JIDEX",
@@ -1292,7 +1293,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/13/2017",
+		"updated": "04/13/2017"
 	},
 	{
 		"name": "JIDOT",
@@ -1301,7 +1302,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/11/2015",
+		"updated": "03/11/2015"
 	},
 	{
 		"name": "JIDSI",
@@ -1310,7 +1311,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/27/2017",
+		"updated": "03/27/2017"
 	},
 	{
 		"name": "JIDUM",
@@ -1319,7 +1320,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/19/2011",
+		"updated": "10/19/2011"
 	},
 	{
 		"name": "JIGNA",
@@ -1328,7 +1329,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/19/2007",
+		"updated": "11/19/2007"
 	},
 	{
 		"name": "JIGVO",
@@ -1337,7 +1338,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/21/2007",
+		"updated": "07/21/2007"
 	},
 	{
 		"name": "JIKAV",
@@ -1346,7 +1347,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/27/2001",
+		"updated": "08/27/2001"
 	},
 	{
 		"name": "JIKED",
@@ -1355,7 +1356,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/10/2015",
+		"updated": "03/10/2015"
 	},
 	{
 		"name": "JIKJE",
@@ -1364,7 +1365,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "JIKNU",
@@ -1373,7 +1374,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ONL*VORTAC*218.02/15.00",
+		"updated": "ONL*VORTAC*218.02/15.00"
 	},
 	{
 		"name": "JIKPO",
@@ -1382,7 +1383,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/04/2010",
+		"updated": "09/04/2010"
 	},
 	{
 		"name": "JIKRO",
@@ -1391,7 +1392,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/27/2007",
+		"updated": "04/27/2007"
 	},
 	{
 		"name": "JILDA",
@@ -1400,7 +1401,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/19/2018",
+		"updated": "04/19/2018"
 	},
 	{
 		"name": "JILEL",
@@ -1409,7 +1410,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/09/2009",
+		"updated": "07/09/2009"
 	},
 	{
 		"name": "JILIN",
@@ -1418,7 +1419,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/27/2008",
+		"updated": "02/27/2008"
 	},
 	{
 		"name": "JILRO",
@@ -1427,7 +1428,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FSD*VORTAC*159.95/26.57",
+		"updated": "FSD*VORTAC*159.95/26.57"
 	},
 	{
 		"name": "JILTO",
@@ -1436,7 +1437,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/26/2012",
+		"updated": "03/26/2012"
 	},
 	{
 		"name": "JILUL",
@@ -1445,7 +1446,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/21/2013",
+		"updated": "03/21/2013"
 	},
 	{
 		"name": "JILUN",
@@ -1454,7 +1455,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/06/2012",
+		"updated": "11/06/2012"
 	},
 	{
 		"name": "JIMED",
@@ -1463,7 +1464,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/15/2012",
+		"updated": "11/15/2012"
 	},
 	{
 		"name": "JIMKI",
@@ -1472,7 +1473,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/08/2010",
+		"updated": "04/08/2010"
 	},
 	{
 		"name": "JIMOB",
@@ -1481,7 +1482,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RHI*VOR/DME*101.00/8.00",
+		"updated": "RHI*VOR/DME*101.00/8.00"
 	},
 	{
 		"name": "JIMOD",
@@ -1490,7 +1491,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/10/2014",
+		"updated": "07/10/2014"
 	},
 	{
 		"name": "JIMRO",
@@ -1499,7 +1500,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/27/2014",
+		"updated": "03/27/2014"
 	},
 	{
 		"name": "JIMSI",
@@ -1508,7 +1509,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/12/2008",
+		"updated": "11/12/2008"
 	},
 	{
 		"name": "JINCO",
@@ -1517,7 +1518,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/28/2013",
+		"updated": "02/28/2013"
 	},
 	{
 		"name": "JINEM",
@@ -1526,7 +1527,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/23/2012",
+		"updated": "03/23/2012"
 	},
 	{
 		"name": "JINPU",
@@ -1535,7 +1536,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/15/2008",
+		"updated": "05/15/2008"
 	},
 	{
 		"name": "JINWU",
@@ -1544,7 +1545,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/31/2006",
+		"updated": "07/31/2006"
 	},
 	{
 		"name": "JIPEV",
@@ -1553,7 +1554,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/01/2011",
+		"updated": "04/01/2011"
 	},
 	{
 		"name": "JIPIP",
@@ -1562,7 +1563,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/23/2011",
+		"updated": "05/23/2011"
 	},
 	{
 		"name": "JIPKO",
@@ -1571,7 +1572,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "LER*LD*159.65/20.54",
+		"updated": "LER*LD*159.65/20.54"
 	},
 	{
 		"name": "JIPTU",
@@ -1580,7 +1581,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/20/2011",
+		"updated": "06/20/2011"
 	},
 	{
 		"name": "JIRMA",
@@ -1589,7 +1590,7 @@
 		"state": "",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/13/2012",
+		"updated": "09/13/2012"
 	},
 	{
 		"name": "JIROM",
@@ -1598,7 +1599,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/13/2015",
+		"updated": "07/13/2015"
 	},
 	{
 		"name": "JISBO",
@@ -1607,7 +1608,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "JISMU",
@@ -1616,7 +1617,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "YKN*VOR/DME*165.00/12.10",
+		"updated": "YKN*VOR/DME*165.00/12.10"
 	},
 	{
 		"name": "JISUS",
@@ -1625,7 +1626,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/13/2013",
+		"updated": "08/13/2013"
 	},
 	{
 		"name": "JITED",
@@ -1634,7 +1635,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/17/2010",
+		"updated": "11/17/2010"
 	},
 	{
 		"name": "JITIG",
@@ -1643,7 +1644,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/15/2012",
+		"updated": "08/15/2012"
 	},
 	{
 		"name": "JIVEV",
@@ -1652,7 +1653,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "JIVID",
@@ -1661,7 +1662,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/12/2012",
+		"updated": "04/12/2012"
 	},
 	{
 		"name": "JIXER",
@@ -1670,7 +1671,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/29/2015",
+		"updated": "06/29/2015"
 	},
 	{
 		"name": "JIXIR",
@@ -1679,7 +1680,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GFK*VOR/DME*116.59/14.40",
+		"updated": "GFK*VOR/DME*116.59/14.40"
 	},
 	{
 		"name": "JIXIX",
@@ -1688,7 +1689,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/11/2013",
+		"updated": "03/11/2013"
 	},
 	{
 		"name": "JIXMO",
@@ -1697,7 +1698,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/28/2009",
+		"updated": "04/28/2009"
 	},
 	{
 		"name": "JIXUN",
@@ -1706,7 +1707,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/03/2010",
+		"updated": "08/03/2010"
 	},
 	{
 		"name": "JIYIB",
@@ -1715,7 +1716,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/05/2010",
+		"updated": "06/05/2010"
 	},
 	{
 		"name": "JJENI",
@@ -1724,7 +1725,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/12/2015",
+		"updated": "01/12/2015"
 	},
 	{
 		"name": "JKALL",
@@ -1733,7 +1734,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/18/2010",
+		"updated": "08/18/2010"
 	},
 	{
 		"name": "JMBON",
@@ -1742,7 +1743,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/12/2016",
+		"updated": "04/12/2016"
 	},
 	{
 		"name": "JMKNG",
@@ -1751,7 +1752,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/02/2009",
+		"updated": "02/02/2009"
 	},
 	{
 		"name": "JOBNA",
@@ -1760,7 +1761,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/12/2013",
+		"updated": "07/12/2013"
 	},
 	{
 		"name": "JOBOD",
@@ -1769,7 +1770,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DPR*VOR/DME*070.65/33.58",
+		"updated": "DPR*VOR/DME*070.65/33.58"
 	},
 	{
 		"name": "JOCEY",
@@ -1778,7 +1779,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "TKO*VORTAC*022.37/12.00",
+		"updated": "TKO*VORTAC*022.37/12.00"
 	},
 	{
 		"name": "JOCKA",
@@ -1787,7 +1788,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/11/2009",
+		"updated": "12/11/2009"
 	},
 	{
 		"name": "JOCOR",
@@ -1796,7 +1797,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GFK*VOR/DME*160.18/20.00",
+		"updated": "GFK*VOR/DME*160.18/20.00"
 	},
 	{
 		"name": "JODEE",
@@ -1805,7 +1806,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/27/2018",
+		"updated": "02/27/2018"
 	},
 	{
 		"name": "JODEM",
@@ -1814,7 +1815,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/29/2014",
+		"updated": "09/29/2014"
 	},
 	{
 		"name": "JODKU",
@@ -1823,7 +1824,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/04/2010",
+		"updated": "09/04/2010"
 	},
 	{
 		"name": "JODMA",
@@ -1832,7 +1833,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/10/2015",
+		"updated": "09/10/2015"
 	},
 	{
 		"name": "JODSO",
@@ -1841,7 +1842,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "JOESY",
@@ -1850,7 +1851,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FSD*VORTAC*074.09",
+		"updated": "FSD*VORTAC*074.09"
 	},
 	{
 		"name": "JOEYS",
@@ -1859,7 +1860,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/21/2015",
+		"updated": "08/21/2015"
 	},
 	{
 		"name": "JOGAN",
@@ -1868,7 +1869,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "LNK*VORTAC*185.02/13.98",
+		"updated": "LNK*VORTAC*185.02/13.98"
 	},
 	{
 		"name": "JOGDU",
@@ -1877,7 +1878,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/14/2009",
+		"updated": "10/14/2009"
 	},
 	{
 		"name": "JOGOL",
@@ -1886,7 +1887,7 @@
 		"state": "MISSOURI",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/19/2009",
+		"updated": "12/19/2009"
 	},
 	{
 		"name": "JOGPI",
@@ -1895,7 +1896,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/20/2011",
+		"updated": "01/20/2011"
 	},
 	{
 		"name": "JOGTO",
@@ -1904,7 +1905,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/19/2005",
+		"updated": "08/19/2005"
 	},
 	{
 		"name": "JOKOS",
@@ -1913,7 +1914,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/21/2014",
+		"updated": "04/21/2014"
 	},
 	{
 		"name": "JOKPO",
@@ -1922,7 +1923,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "MIB*TACAN*109.00/4.00",
+		"updated": "MIB*TACAN*109.00/4.00"
 	},
 	{
 		"name": "JOKRR",
@@ -1931,7 +1932,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/15/2012",
+		"updated": "08/15/2012"
 	},
 	{
 		"name": "JOLBA",
@@ -1940,7 +1941,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/01/2017",
+		"updated": "11/01/2017"
 	},
 	{
 		"name": "JOLBO",
@@ -1949,7 +1950,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "MIB*TACAN*109.00/7.00",
+		"updated": "MIB*TACAN*109.00/7.00"
 	},
 	{
 		"name": "JOLDA",
@@ -1958,7 +1959,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/21/2015",
+		"updated": "08/21/2015"
 	},
 	{
 		"name": "JOLGO",
@@ -1967,7 +1968,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "EAR*VOR*157.85",
+		"updated": "EAR*VOR*157.85"
 	},
 	{
 		"name": "JOLID",
@@ -1976,7 +1977,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/10/2015",
+		"updated": "03/10/2015"
 	},
 	{
 		"name": "JOLIT",
@@ -1985,7 +1986,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/21/2013",
+		"updated": "06/21/2013"
 	},
 	{
 		"name": "JOLNA",
@@ -1994,7 +1995,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/02/2005",
+		"updated": "05/02/2005"
 	},
 	{
 		"name": "JOLUX",
@@ -2003,7 +2004,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/03/2014",
+		"updated": "12/03/2014"
 	},
 	{
 		"name": "JOLVO",
@@ -2012,7 +2013,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/10/2015",
+		"updated": "03/10/2015"
 	},
 	{
 		"name": "JOMDO",
@@ -2021,7 +2022,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2013",
+		"updated": "06/28/2013"
 	},
 	{
 		"name": "JOMIB",
@@ -2030,7 +2031,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "MIB*TACAN*114.36/25.00",
+		"updated": "MIB*TACAN*114.36/25.00"
 	},
 	{
 		"name": "JOMID",
@@ -2039,7 +2040,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MOP*VOR/DME*355.70/20.59",
+		"updated": "MOP*VOR/DME*355.70/20.59"
 	},
 	{
 		"name": "JOMSI",
@@ -2048,7 +2049,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/24/2009",
+		"updated": "09/24/2009"
 	},
 	{
 		"name": "JONEV",
@@ -2057,7 +2058,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/13/2011",
+		"updated": "04/13/2011"
 	},
 	{
 		"name": "JONIE",
@@ -2066,7 +2067,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/17/2008",
+		"updated": "01/17/2008"
 	},
 	{
 		"name": "JONIS",
@@ -2075,7 +2076,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PHS*LD*170.00/6.66",
+		"updated": "PHS*LD*170.00/6.66"
 	},
 	{
 		"name": "JONNA",
@@ -2084,7 +2085,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*210.01",
+		"updated": "GEP*VORTAC*210.01"
 	},
 	{
 		"name": "JONRO",
@@ -2093,7 +2094,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ODI*VORTAC*035.92",
+		"updated": "ODI*VORTAC*035.92"
 	},
 	{
 		"name": "JONRU",
@@ -2102,7 +2103,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/29/2016",
+		"updated": "11/29/2016"
 	},
 	{
 		"name": "JONZY",
@@ -2111,7 +2112,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/30/2016",
+		"updated": "11/30/2016"
 	},
 	{
 		"name": "JOPAK",
@@ -2120,7 +2121,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/19/2006",
+		"updated": "01/19/2006"
 	},
 	{
 		"name": "JOPDA",
@@ -2129,7 +2130,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/24/2013",
+		"updated": "05/24/2013"
 	},
 	{
 		"name": "JOPEP",
@@ -2138,7 +2139,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/21/2011",
+		"updated": "06/21/2011"
 	},
 	{
 		"name": "JOPIX",
@@ -2147,7 +2148,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/16/2017",
+		"updated": "05/16/2017"
 	},
 	{
 		"name": "JOPKA",
@@ -2156,7 +2157,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/06/2013",
+		"updated": "05/06/2013"
 	},
 	{
 		"name": "JOPOM",
@@ -2165,7 +2166,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/11/2008",
+		"updated": "02/11/2008"
 	},
 	{
 		"name": "JOPOR",
@@ -2174,7 +2175,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/30/2011",
+		"updated": "03/30/2011"
 	},
 	{
 		"name": "JOPSU",
@@ -2183,7 +2184,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/25/2013",
+		"updated": "06/25/2013"
 	},
 	{
 		"name": "JOPWO",
@@ -2192,7 +2193,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/07/2010",
+		"updated": "04/07/2010"
 	},
 	{
 		"name": "JORDY",
@@ -2201,7 +2202,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DSM*VORTAC*001.02/39.31",
+		"updated": "DSM*VORTAC*001.02/39.31"
 	},
 	{
 		"name": "JORIB",
@@ -2210,7 +2211,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/29/2014",
+		"updated": "09/29/2014"
 	},
 	{
 		"name": "JORNI",
@@ -2219,7 +2220,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/06/2013",
+		"updated": "09/06/2013"
 	},
 	{
 		"name": "JORTU",
@@ -2228,7 +2229,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/17/2011",
+		"updated": "05/17/2011"
 	},
 	{
 		"name": "JORVO",
@@ -2237,7 +2238,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/10/2013",
+		"updated": "07/10/2013"
 	},
 	{
 		"name": "JOSAM",
@@ -2246,7 +2247,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/16/2008",
+		"updated": "10/16/2008"
 	},
 	{
 		"name": "JOSAR",
@@ -2255,7 +2256,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/24/2017",
+		"updated": "08/24/2017"
 	},
 	{
 		"name": "JOSEB",
@@ -2264,7 +2265,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/16/2017",
+		"updated": "05/16/2017"
 	},
 	{
 		"name": "JOSVU",
@@ -2273,7 +2274,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/26/2017",
+		"updated": "05/26/2017"
 	},
 	{
 		"name": "JOTEB",
@@ -2282,7 +2283,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "LNK*VORTAC*137.00/10.00",
+		"updated": "LNK*VORTAC*137.00/10.00"
 	},
 	{
 		"name": "JOTUV",
@@ -2291,7 +2292,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "CMX*LD*NW CRS/0.49",
+		"updated": "CMX*LD*NW CRS/0.49"
 	},
 	{
 		"name": "JOUST",
@@ -2300,7 +2301,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "LNK*VORTAC*347.00/29.01",
+		"updated": "LNK*VORTAC*347.00/29.01"
 	},
 	{
 		"name": "JOVDU",
@@ -2309,7 +2310,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/04/2009",
+		"updated": "01/04/2009"
 	},
 	{
 		"name": "JOVIK",
@@ -2318,7 +2319,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/16/2015",
+		"updated": "03/16/2015"
 	},
 	{
 		"name": "JOVIN",
@@ -2327,7 +2328,7 @@
 		"state": "",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BDE*VOR/DME*309.34",
+		"updated": "BDE*VOR/DME*309.34"
 	},
 	{
 		"name": "JOVIR",
@@ -2336,7 +2337,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RWF*VOR/DME*283.35/7.00",
+		"updated": "RWF*VOR/DME*283.35/7.00"
 	},
 	{
 		"name": "JOVNO",
@@ -2345,7 +2346,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/13/2014",
+		"updated": "03/13/2014"
 	},
 	{
 		"name": "JOVSI",
@@ -2354,7 +2355,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2013",
+		"updated": "06/28/2013"
 	},
 	{
 		"name": "JOWZI",
@@ -2363,7 +2364,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "JUBIK",
@@ -2372,7 +2373,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/24/2004",
+		"updated": "05/24/2004"
 	},
 	{
 		"name": "JUDAD",
@@ -2381,7 +2382,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/08/2008",
+		"updated": "07/08/2008"
 	},
 	{
 		"name": "JUDAL",
@@ -2390,7 +2391,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ANE*LD*088.70/16.66",
+		"updated": "ANE*LD*088.70/16.66"
 	},
 	{
 		"name": "JUDAQ",
@@ -2399,7 +2400,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/09/2015",
+		"updated": "07/09/2015"
 	},
 	{
 		"name": "JUDBI",
@@ -2408,7 +2409,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "APN*VORTAC*355.00/1.00",
+		"updated": "APN*VORTAC*355.00/1.00"
 	},
 	{
 		"name": "JUDDD",
@@ -2417,7 +2418,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/08/2010",
+		"updated": "04/08/2010"
 	},
 	{
 		"name": "JUDEV",
@@ -2426,7 +2427,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/03/2009",
+		"updated": "04/03/2009"
 	},
 	{
 		"name": "JUDGU",
@@ -2435,7 +2436,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/03/2010",
+		"updated": "08/03/2010"
 	},
 	{
 		"name": "JUDIN",
@@ -2444,7 +2445,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/19/2006",
+		"updated": "01/19/2006"
 	},
 	{
 		"name": "JUDOD",
@@ -2453,7 +2454,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/21/2011",
+		"updated": "12/21/2011"
 	},
 	{
 		"name": "JUGAN",
@@ -2462,7 +2463,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/20/2010",
+		"updated": "12/20/2010"
 	},
 	{
 		"name": "JUGEV",
@@ -2471,7 +2472,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/11/2009",
+		"updated": "07/11/2009"
 	},
 	{
 		"name": "JUGIN",
@@ -2480,7 +2481,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/21/2011",
+		"updated": "01/21/2011"
 	},
 	{
 		"name": "JUGMA",
@@ -2489,7 +2490,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "LKI*TACAN*267.00/3.00",
+		"updated": "LKI*TACAN*267.00/3.00"
 	},
 	{
 		"name": "JUGTO",
@@ -2498,7 +2499,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MCW*VOR/DME*277.61/9.00",
+		"updated": "MCW*VOR/DME*277.61/9.00"
 	},
 	{
 		"name": "JUKAG",
@@ -2507,7 +2508,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/17/2016",
+		"updated": "02/17/2016"
 	},
 	{
 		"name": "JUKOB",
@@ -2516,7 +2517,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GRB*LD*241.91/0.49",
+		"updated": "GRB*LD*241.91/0.49"
 	},
 	{
 		"name": "JUKTA",
@@ -2525,7 +2526,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/10/2011",
+		"updated": "11/10/2011"
 	},
 	{
 		"name": "JULAM",
@@ -2534,7 +2535,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MIB*TACAN*109.00/1.70",
+		"updated": "MIB*TACAN*109.00/1.70"
 	},
 	{
 		"name": "JULBU",
@@ -2543,7 +2544,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "AEL*VOR/DME*353.01/0.36",
+		"updated": "AEL*VOR/DME*353.01/0.36"
 	},
 	{
 		"name": "JULEY",
@@ -2552,7 +2553,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FCM*VOR/DME*097.17/6.60",
+		"updated": "FCM*VOR/DME*097.17/6.60"
 	},
 	{
 		"name": "JULOM",
@@ -2561,7 +2562,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2008",
+		"updated": "05/30/2008"
 	},
 	{
 		"name": "JULRI",
@@ -2570,7 +2571,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/05/2010",
+		"updated": "12/05/2010"
 	},
 	{
 		"name": "JUMGU",
@@ -2579,7 +2580,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "BIS*VOR/DME*/9.99",
+		"updated": "BIS*VOR/DME*/9.99"
 	},
 	{
 		"name": "JUMPO",
@@ -2588,7 +2589,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/09/2015",
+		"updated": "09/09/2015"
 	},
 	{
 		"name": "JUMUS",
@@ -2597,7 +2598,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OLU*VOR/DME*150.44/2.00",
+		"updated": "OLU*VOR/DME*150.44/2.00"
 	},
 	{
 		"name": "JUNBU",
@@ -2606,7 +2607,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/05/2010",
+		"updated": "06/05/2010"
 	},
 	{
 		"name": "JUNEM",
@@ -2615,7 +2616,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/21/2009",
+		"updated": "01/21/2009"
 	},
 	{
 		"name": "JUNES",
@@ -2624,7 +2625,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MVE*VOR/DME*165.47/30.66",
+		"updated": "MVE*VOR/DME*165.47/30.66"
 	},
 	{
 		"name": "JUNIK",
@@ -2633,7 +2634,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2008",
+		"updated": "05/30/2008"
 	},
 	{
 		"name": "JUNSU",
@@ -2642,7 +2643,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/02/2014",
+		"updated": "04/02/2014"
 	},
 	{
 		"name": "JUNTU",
@@ -2651,7 +2652,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/01/2010",
+		"updated": "09/01/2010"
 	},
 	{
 		"name": "JUNUG",
@@ -2660,7 +2661,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/03/2014",
+		"updated": "12/03/2014"
 	},
 	{
 		"name": "JUNYR",
@@ -2669,7 +2670,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/16/2018",
+		"updated": "04/16/2018"
 	},
 	{
 		"name": "JUPAK",
@@ -2678,7 +2679,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/25/2005",
+		"updated": "07/25/2005"
 	},
 	{
 		"name": "JUPGA",
@@ -2687,7 +2688,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/10/2013",
+		"updated": "06/10/2013"
 	},
 	{
 		"name": "JUPIB",
@@ -2696,7 +2697,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/20/2014",
+		"updated": "02/20/2014"
 	},
 	{
 		"name": "JUPMO",
@@ -2705,7 +2706,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/27/2008",
+		"updated": "03/27/2008"
 	},
 	{
 		"name": "JUPUN",
@@ -2714,7 +2715,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PLN*VORTAC*130.67/13.59",
+		"updated": "PLN*VORTAC*130.67/13.59"
 	},
 	{
 		"name": "JURMI",
@@ -2723,7 +2724,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/29/2017",
+		"updated": "09/29/2017"
 	},
 	{
 		"name": "JURNY",
@@ -2732,7 +2733,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MSP*VOR/DME*208.36/20.00",
+		"updated": "MSP*VOR/DME*208.36/20.00"
 	},
 	{
 		"name": "JURSU",
@@ -2741,7 +2742,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/18/2018",
+		"updated": "04/18/2018"
 	},
 	{
 		"name": "JURUN",
@@ -2750,7 +2751,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/12/2012",
+		"updated": "09/12/2012"
 	},
 	{
 		"name": "JUSAM",
@@ -2759,7 +2760,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "LNK*VORTAC*320.80/12.00",
+		"updated": "LNK*VORTAC*320.80/12.00"
 	},
 	{
 		"name": "JUSAT",
@@ -2768,7 +2769,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2007",
+		"updated": "06/28/2007"
 	},
 	{
 		"name": "JUSDU",
@@ -2777,7 +2778,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "MIB*TACAN*305.00/7.00",
+		"updated": "MIB*TACAN*305.00/7.00"
 	},
 	{
 		"name": "JUSMI",
@@ -2786,7 +2787,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/30/2011",
+		"updated": "01/30/2011"
 	},
 	{
 		"name": "JUSOR",
@@ -2795,7 +2796,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/28/2015",
+		"updated": "04/28/2015"
 	},
 	{
 		"name": "JUTIL",
@@ -2804,7 +2805,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/14/2013",
+		"updated": "06/14/2013"
 	},
 	{
 		"name": "JUTUB",
@@ -2813,7 +2814,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/21/2006",
+		"updated": "07/21/2006"
 	},
 	{
 		"name": "JUVAG",
@@ -2822,7 +2823,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/27/2001",
+		"updated": "08/27/2001"
 	},
 	{
 		"name": "JUVCA",
@@ -2831,7 +2832,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/14/2013",
+		"updated": "02/14/2013"
 	},
 	{
 		"name": "JUVNU",
@@ -2840,7 +2841,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/19/2012",
+		"updated": "04/19/2012"
 	},
 	{
 		"name": "JUVOL",
@@ -2849,7 +2850,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/19/2007",
+		"updated": "07/19/2007"
 	},
 	{
 		"name": "JUVOP",
@@ -2858,7 +2859,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "STE*LD*030.64/12.53",
+		"updated": "STE*LD*030.64/12.53"
 	},
 	{
 		"name": "JUWMA",
@@ -2867,7 +2868,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/10/2012",
+		"updated": "04/10/2012"
 	},
 	{
 		"name": "JUXAL",
@@ -2876,7 +2877,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/03/2014",
+		"updated": "12/03/2014"
 	},
 	{
 		"name": "JUXIV",
@@ -2885,7 +2886,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/26/2013",
+		"updated": "07/26/2013"
 	},
 	{
 		"name": "JUXOP",
@@ -2894,7 +2895,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "UKN*VOR/DME*262.31/5.00",
+		"updated": "UKN*VOR/DME*262.31/5.00"
 	},
 	{
 		"name": "JUXUL",
@@ -2903,7 +2904,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/04/2014",
+		"updated": "02/04/2014"
 	},
 	{
 		"name": "JWLFD",
@@ -2912,5 +2913,6 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "CN",
-		"updated": "10/24/2011",
-	},
+		"updated": "10/24/2011"
+	}
+]

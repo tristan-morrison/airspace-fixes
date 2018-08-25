@@ -1,3 +1,4 @@
+[
 	{
 		"name": "OBALE",
 		"latitude": "13-23-29.96 N",
@@ -5,7 +6,7 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "UNZ*VORTAC*243.34/9.00",
+		"updated": "UNZ*VORTAC*243.34/9.00"
 	},
 	{
 		"name": "OPIHY",
@@ -14,5 +15,6 @@
 		"state": "GUAM",
 		"artcc": "ZUA",
 		"type": "RP",
-		"updated": "SN*NDB*065.76",
-	},
+		"updated": "SN*NDB*065.76"
+	}
+]

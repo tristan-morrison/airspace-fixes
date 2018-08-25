@@ -1,3 +1,4 @@
+[
 	{
 		"name": "NAAVE",
 		"latitude": "33-3-33.99 N",
@@ -5,7 +6,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/14/2009",
+		"updated": "05/14/2009"
 	},
 	{
 		"name": "NABOB",
@@ -14,7 +15,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "FLG*VOR/DME*146.00",
+		"updated": "FLG*VOR/DME*146.00"
 	},
 	{
 		"name": "NABPI",
@@ -23,7 +24,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/18/2011",
+		"updated": "07/18/2011"
 	},
 	{
 		"name": "NAIRB",
@@ -32,7 +33,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TUS*VORTAC*123.04/9.50",
+		"updated": "TUS*VORTAC*123.04/9.50"
 	},
 	{
 		"name": "NAMBE",
@@ -41,7 +42,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "SAF*VORTAC*353.83/15.00",
+		"updated": "SAF*VORTAC*353.83/15.00"
 	},
 	{
 		"name": "NAVOQ",
@@ -50,7 +51,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "01/13/2009",
+		"updated": "01/13/2009"
 	},
 	{
 		"name": "NAXUE",
@@ -59,7 +60,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TAS*VORTAC*173.92/27.00",
+		"updated": "TAS*VORTAC*173.92/27.00"
 	},
 	{
 		"name": "NEBNE",
@@ -68,7 +69,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "DMA*TACAN*310.00/7.30",
+		"updated": "DMA*TACAN*310.00/7.30"
 	},
 	{
 		"name": "NEEDL",
@@ -77,7 +78,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "IWA*VORTAC*082.00/55.00",
+		"updated": "IWA*VORTAC*082.00/55.00"
 	},
 	{
 		"name": "NEELE",
@@ -86,7 +87,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/23/2007",
+		"updated": "08/23/2007"
 	},
 	{
 		"name": "NEILL",
@@ -95,7 +96,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "TCC*VORTAC*093.00/100.00",
+		"updated": "TCC*VORTAC*093.00/100.00"
 	},
 	{
 		"name": "NELGE",
@@ -104,7 +105,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ABQ*VORTAC*023.00/23.42",
+		"updated": "ABQ*VORTAC*023.00/23.42"
 	},
 	{
 		"name": "NELON",
@@ -113,7 +114,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PIO*VOR/DME*039.79",
+		"updated": "PIO*VOR/DME*039.79"
 	},
 	{
 		"name": "NEPTN",
@@ -122,7 +123,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ZUN*VORTAC*242.00/52.00",
+		"updated": "ZUN*VORTAC*242.00/52.00"
 	},
 	{
 		"name": "NESNE",
@@ -131,7 +132,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/21/2004",
+		"updated": "07/21/2004"
 	},
 	{
 		"name": "NEVKE",
@@ -140,7 +141,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/27/2006",
+		"updated": "09/27/2006"
 	},
 	{
 		"name": "NEVUE",
@@ -149,7 +150,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/19/2011",
+		"updated": "12/19/2011"
 	},
 	{
 		"name": "NEVZI",
@@ -158,7 +159,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/18/2010",
+		"updated": "11/18/2010"
 	},
 	{
 		"name": "NIKEE",
@@ -167,7 +168,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "IVI*LD*SW CRS/6.80",
+		"updated": "IVI*LD*SW CRS/6.80"
 	},
 	{
 		"name": "NIMBY",
@@ -176,7 +177,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/09/2007",
+		"updated": "07/09/2007"
 	},
 	{
 		"name": "NINTE",
@@ -185,7 +186,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/21/2016",
+		"updated": "03/21/2016"
 	},
 	{
 		"name": "NIRIC",
@@ -194,7 +195,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/06/2005",
+		"updated": "04/06/2005"
 	},
 	{
 		"name": "NISIW",
@@ -203,7 +204,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "03/15/2001",
+		"updated": "03/15/2001"
 	},
 	{
 		"name": "NIVAE",
@@ -212,7 +213,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "10/28/2008",
+		"updated": "10/28/2008"
 	},
 	{
 		"name": "NOCHI",
@@ -221,7 +222,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "02/13/2014",
+		"updated": "02/13/2014"
 	},
 	{
 		"name": "NOCIG",
@@ -230,7 +231,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "EWM*VORTAC*145.28",
+		"updated": "EWM*VORTAC*145.28"
 	},
 	{
 		"name": "NODME",
@@ -239,7 +240,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ABQ*VORTAC*023.00/10.00",
+		"updated": "ABQ*VORTAC*023.00/10.00"
 	},
 	{
 		"name": "NOFLY",
@@ -248,7 +249,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "12/02/2013",
+		"updated": "12/02/2013"
 	},
 	{
 		"name": "NOLLS",
@@ -257,7 +258,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "BXK*VORTAC*175.00/39.00",
+		"updated": "BXK*VORTAC*175.00/39.00"
 	},
 	{
 		"name": "NONDE",
@@ -266,7 +267,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "09/04/2003",
+		"updated": "09/04/2003"
 	},
 	{
 		"name": "NORDY",
@@ -275,7 +276,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "LUF*TACAN*232.00/19.00",
+		"updated": "LUF*TACAN*232.00/19.00"
 	},
 	{
 		"name": "NOSEW",
@@ -284,7 +285,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "04/09/2012",
+		"updated": "04/09/2012"
 	},
 	{
 		"name": "NOYSE",
@@ -293,7 +294,7 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "11/09/2010",
+		"updated": "11/09/2010"
 	},
 	{
 		"name": "NUBIY",
@@ -302,7 +303,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "07/16/2012",
+		"updated": "07/16/2012"
 	},
 	{
 		"name": "NUBZU",
@@ -311,7 +312,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "06/19/2012",
+		"updated": "06/19/2012"
 	},
 	{
 		"name": "NUFTA",
@@ -320,7 +321,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DUG*VORTAC*256.08/22.71",
+		"updated": "DUG*VORTAC*256.08/22.71"
 	},
 	{
 		"name": "NUNCA",
@@ -329,7 +330,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "GUP*VORTAC*284.17/12.87",
+		"updated": "GUP*VORTAC*284.17/12.87"
 	},
 	{
 		"name": "NUQUH",
@@ -338,7 +339,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "ELP*VORTAC*081.48/15.00",
+		"updated": "ELP*VORTAC*081.48/15.00"
 	},
 	{
 		"name": "NUWIN",
@@ -347,5 +348,6 @@
 		"state": "NEW MEXICO",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "DMN*VORTAC*003.16/14.00",
-	},
+		"updated": "DMN*VORTAC*003.16/14.00"
+	}
+]

@@ -1,3 +1,4 @@
+[
 	{
 		"name": "HAANK",
 		"latitude": "43-46-26.42 N",
@@ -5,7 +6,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DVR*LD*006.97/9.62",
+		"updated": "DVR*LD*006.97/9.62"
 	},
 	{
 		"name": "HAARP",
@@ -14,7 +15,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*338.00",
+		"updated": "DPK*VOR/DME*338.00"
 	},
 	{
 		"name": "HABAG",
@@ -23,7 +24,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/07/2003",
+		"updated": "01/07/2003"
 	},
 	{
 		"name": "HABAX",
@@ -32,7 +33,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/30/2009",
+		"updated": "09/30/2009"
 	},
 	{
 		"name": "HABOK",
@@ -41,7 +42,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/16/2003",
+		"updated": "01/16/2003"
 	},
 	{
 		"name": "HABRU",
@@ -50,7 +51,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/15/2013",
+		"updated": "01/15/2013"
 	},
 	{
 		"name": "HADAS",
@@ -59,7 +60,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/03/2013",
+		"updated": "05/03/2013"
 	},
 	{
 		"name": "HADEV",
@@ -68,7 +69,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "HADGO",
@@ -77,7 +78,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/22/2018",
+		"updated": "02/22/2018"
 	},
 	{
 		"name": "HADOM",
@@ -86,7 +87,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/19/2016",
+		"updated": "12/19/2016"
 	},
 	{
 		"name": "HADUX",
@@ -95,7 +96,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "HFD*VOR/DME*024.86",
+		"updated": "HFD*VOR/DME*024.86"
 	},
 	{
 		"name": "HAGET",
@@ -104,7 +105,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MHT*VOR/DME*165.44",
+		"updated": "MHT*VOR/DME*165.44"
 	},
 	{
 		"name": "HAGIK",
@@ -113,7 +114,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/13/2012",
+		"updated": "04/13/2012"
 	},
 	{
 		"name": "HAGLO",
@@ -122,7 +123,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/15/2013",
+		"updated": "01/15/2013"
 	},
 	{
 		"name": "HAGTU",
@@ -131,7 +132,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PVD*VOR/DME*112.85",
+		"updated": "PVD*VOR/DME*112.85"
 	},
 	{
 		"name": "HAGWE",
@@ -140,7 +141,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "HAIZO",
@@ -149,7 +150,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/21/2008",
+		"updated": "10/21/2008"
 	},
 	{
 		"name": "HAKAM",
@@ -158,7 +159,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/07/2009",
+		"updated": "07/07/2009"
 	},
 	{
 		"name": "HALBO",
@@ -167,7 +168,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/27/2010",
+		"updated": "12/27/2010"
 	},
 	{
 		"name": "HALOO",
@@ -176,7 +177,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/12/2005",
+		"updated": "04/12/2005"
 	},
 	{
 		"name": "HAMLU",
@@ -185,7 +186,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/30/2009",
+		"updated": "09/30/2009"
 	},
 	{
 		"name": "HAMMM",
@@ -194,7 +195,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DVR*LD*006.97/12.14",
+		"updated": "DVR*LD*006.97/12.14"
 	},
 	{
 		"name": "HAMSO",
@@ -203,7 +204,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/19/2008",
+		"updated": "12/19/2008"
 	},
 	{
 		"name": "HANAA",
@@ -212,7 +213,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/13/2017",
+		"updated": "06/13/2017"
 	},
 	{
 		"name": "HANLY",
@@ -221,7 +222,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "HEU*NDB*218.11",
+		"updated": "HEU*NDB*218.11"
 	},
 	{
 		"name": "HAPAT",
@@ -230,7 +231,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "MW",
-		"updated": "07/15/2014",
+		"updated": "07/15/2014"
 	},
 	{
 		"name": "HAPIE",
@@ -239,7 +240,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "JFK*VOR/DME*124.00/39.00",
+		"updated": "JFK*VOR/DME*124.00/39.00"
 	},
 	{
 		"name": "HARBB",
@@ -248,7 +249,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BOS*VOR/DME*166.87",
+		"updated": "BOS*VOR/DME*166.87"
 	},
 	{
 		"name": "HARDA",
@@ -257,7 +258,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/02/2018",
+		"updated": "01/02/2018"
 	},
 	{
 		"name": "HAROY",
@@ -266,7 +267,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/23/2009",
+		"updated": "10/23/2009"
 	},
 	{
 		"name": "HARVA",
@@ -275,7 +276,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DNY*VOR/DME*222.46/15.00",
+		"updated": "DNY*VOR/DME*222.46/15.00"
 	},
 	{
 		"name": "HASVI",
@@ -284,7 +285,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/24/2008",
+		"updated": "10/24/2008"
 	},
 	{
 		"name": "HATAM",
@@ -293,7 +294,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/18/2010",
+		"updated": "10/18/2010"
 	},
 	{
 		"name": "HATEN",
@@ -302,7 +303,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PQI*VOR/DME*/7.53",
+		"updated": "PQI*VOR/DME*/7.53"
 	},
 	{
 		"name": "HATKI",
@@ -311,7 +312,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/06/2009",
+		"updated": "04/06/2009"
 	},
 	{
 		"name": "HATSO",
@@ -320,7 +321,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/29/2009",
+		"updated": "09/29/2009"
 	},
 	{
 		"name": "HAUKS",
@@ -329,7 +330,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/23/2014",
+		"updated": "09/23/2014"
 	},
 	{
 		"name": "HAUKY",
@@ -338,7 +339,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "ALB*LD*011.17/3.80",
+		"updated": "ALB*LD*011.17/3.80"
 	},
 	{
 		"name": "HAVAN",
@@ -347,7 +348,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MHT*VOR/DME*051.08",
+		"updated": "MHT*VOR/DME*051.08"
 	},
 	{
 		"name": "HAVRD",
@@ -356,7 +357,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/28/2006",
+		"updated": "09/28/2006"
 	},
 	{
 		"name": "HAXEM",
@@ -365,7 +366,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/07/2008",
+		"updated": "02/07/2008"
 	},
 	{
 		"name": "HAXUS",
@@ -374,7 +375,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/19/2008",
+		"updated": "12/19/2008"
 	},
 	{
 		"name": "HEADI",
@@ -383,7 +384,7 @@
 		"state": "NEW JERSEY",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/23/2017",
+		"updated": "02/23/2017"
 	},
 	{
 		"name": "HEARR",
@@ -392,7 +393,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/30/2009",
+		"updated": "08/30/2009"
 	},
 	{
 		"name": "HEBAL",
@@ -401,7 +402,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/01/2009",
+		"updated": "10/01/2009"
 	},
 	{
 		"name": "HEDGI",
@@ -410,7 +411,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/07/2009",
+		"updated": "07/07/2009"
 	},
 	{
 		"name": "HEDOG",
@@ -419,7 +420,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/03/2014",
+		"updated": "11/03/2014"
 	},
 	{
 		"name": "HEDUX",
@@ -428,7 +429,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/15/2003",
+		"updated": "04/15/2003"
 	},
 	{
 		"name": "HEFTY",
@@ -437,7 +438,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PVD*VOR/DME*345.00/12.42",
+		"updated": "PVD*VOR/DME*345.00/12.42"
 	},
 	{
 		"name": "HEKIR",
@@ -446,7 +447,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "EIF*LE*079.28/4.58",
+		"updated": "EIF*LE*079.28/4.58"
 	},
 	{
 		"name": "HEKPU",
@@ -455,7 +456,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/24/2008",
+		"updated": "10/24/2008"
 	},
 	{
 		"name": "HELNO",
@@ -464,7 +465,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/20/2003",
+		"updated": "11/20/2003"
 	},
 	{
 		"name": "HELON",
@@ -473,7 +474,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "IGN*VOR/DME*282.48/20.60",
+		"updated": "IGN*VOR/DME*282.48/20.60"
 	},
 	{
 		"name": "HELOS",
@@ -482,7 +483,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/21/2003",
+		"updated": "01/21/2003"
 	},
 	{
 		"name": "HENDI",
@@ -491,7 +492,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "SYR*VORTAC*004.91/41.00",
+		"updated": "SYR*VORTAC*004.91/41.00"
 	},
 	{
 		"name": "HENEY",
@@ -500,7 +501,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "WP",
-		"updated": "LWM*VOR/DME*044.38/13.42",
+		"updated": "LWM*VOR/DME*044.38/13.42"
 	},
 	{
 		"name": "HEPES",
@@ -509,7 +510,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/16/2003",
+		"updated": "01/16/2003"
 	},
 	{
 		"name": "HEPIT",
@@ -518,7 +519,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "FQV*LD*172.48/3.97",
+		"updated": "FQV*LD*172.48/3.97"
 	},
 	{
 		"name": "HEREK",
@@ -527,7 +528,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "HEREL",
@@ -536,7 +537,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/15/2013",
+		"updated": "01/15/2013"
 	},
 	{
 		"name": "HERIN",
@@ -545,7 +546,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "LFV*VOR/DME*105.75/100.47",
+		"updated": "LFV*VOR/DME*105.75/100.47"
 	},
 	{
 		"name": "HERKK",
@@ -554,7 +555,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "MR",
-		"updated": "CEF*VORTAC*/13.24",
+		"updated": "CEF*VORTAC*/13.24"
 	},
 	{
 		"name": "HERKU",
@@ -563,7 +564,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/19/2001",
+		"updated": "12/19/2001"
 	},
 	{
 		"name": "HERRO",
@@ -572,7 +573,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BTV*LD*325.81/6.20",
+		"updated": "BTV*LD*325.81/6.20"
 	},
 	{
 		"name": "HESIS",
@@ -581,7 +582,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/19/2009",
+		"updated": "05/19/2009"
 	},
 	{
 		"name": "HESKO",
@@ -590,7 +591,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/13/2013",
+		"updated": "05/13/2013"
 	},
 	{
 		"name": "HESMI",
@@ -599,7 +600,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/28/2002",
+		"updated": "01/28/2002"
 	},
 	{
 		"name": "HESOD",
@@ -608,7 +609,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/31/2015",
+		"updated": "08/31/2015"
 	},
 	{
 		"name": "HETEL",
@@ -617,7 +618,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/03/2013",
+		"updated": "05/03/2013"
 	},
 	{
 		"name": "HEVAB",
@@ -626,7 +627,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/14/2008",
+		"updated": "10/14/2008"
 	},
 	{
 		"name": "HEVKO",
@@ -635,7 +636,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/23/2010",
+		"updated": "04/23/2010"
 	},
 	{
 		"name": "HEVUR",
@@ -644,7 +645,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/08/2008",
+		"updated": "10/08/2008"
 	},
 	{
 		"name": "HEWMO",
@@ -653,7 +654,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/15/2013",
+		"updated": "01/15/2013"
 	},
 	{
 		"name": "HHEPP",
@@ -662,7 +663,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "HHIGH",
@@ -671,7 +672,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "HHOTT",
@@ -680,7 +681,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PUT*VOR/DME*211.87",
+		"updated": "PUT*VOR/DME*211.87"
 	},
 	{
 		"name": "HIBAG",
@@ -689,7 +690,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/23/2012",
+		"updated": "05/23/2012"
 	},
 	{
 		"name": "HIBBY",
@@ -698,7 +699,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/16/2008",
+		"updated": "06/16/2008"
 	},
 	{
 		"name": "HIDAL",
@@ -707,7 +708,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "IGN*VOR/DME*033.89/38.71",
+		"updated": "IGN*VOR/DME*033.89/38.71"
 	},
 	{
 		"name": "HIDIB",
@@ -716,7 +717,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/12/2011",
+		"updated": "01/12/2011"
 	},
 	{
 		"name": "HIDID",
@@ -725,7 +726,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/20/2011",
+		"updated": "01/20/2011"
 	},
 	{
 		"name": "HIDRI",
@@ -734,7 +735,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/13/2012",
+		"updated": "08/13/2012"
 	},
 	{
 		"name": "HIGAM",
@@ -743,7 +744,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/15/2003",
+		"updated": "05/15/2003"
 	},
 	{
 		"name": "HIGBO",
@@ -752,7 +753,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/24/2008",
+		"updated": "10/24/2008"
 	},
 	{
 		"name": "HIGES",
@@ -761,7 +762,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "HIGUS",
@@ -770,7 +771,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/15/2013",
+		"updated": "01/15/2013"
 	},
 	{
 		"name": "HIGUT",
@@ -779,7 +780,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/24/2007",
+		"updated": "05/24/2007"
 	},
 	{
 		"name": "HIGVI",
@@ -788,7 +789,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/15/2013",
+		"updated": "01/15/2013"
 	},
 	{
 		"name": "HIKOD",
@@ -797,7 +798,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "ENE*VOR/DME*313.56",
+		"updated": "ENE*VOR/DME*313.56"
 	},
 	{
 		"name": "HIKSO",
@@ -806,7 +807,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/26/2014",
+		"updated": "03/26/2014"
 	},
 	{
 		"name": "HILAB",
@@ -815,7 +816,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/07/2003",
+		"updated": "01/07/2003"
 	},
 	{
 		"name": "HILBI",
@@ -824,7 +825,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/11/2011",
+		"updated": "01/11/2011"
 	},
 	{
 		"name": "HILDA",
@@ -833,7 +834,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "MR",
-		"updated": "BAF*VORTAC*145.16",
+		"updated": "BAF*VORTAC*145.16"
 	},
 	{
 		"name": "HILRY",
@@ -842,7 +843,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZBW",
 		"type": "WP",
-		"updated": "03/26/2002",
+		"updated": "03/26/2002"
 	},
 	{
 		"name": "HIMUG",
@@ -851,7 +852,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "LWM*VOR/DME*154.27/6.67",
+		"updated": "LWM*VOR/DME*154.27/6.67"
 	},
 	{
 		"name": "HIMUT",
@@ -860,7 +861,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/03/2014",
+		"updated": "11/03/2014"
 	},
 	{
 		"name": "HINAP",
@@ -869,7 +870,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "HINED",
@@ -878,7 +879,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/23/2009",
+		"updated": "11/23/2009"
 	},
 	{
 		"name": "HINGZ",
@@ -887,7 +888,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "HINOT",
@@ -896,7 +897,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/04/2017",
+		"updated": "08/04/2017"
 	},
 	{
 		"name": "HINUD",
@@ -905,7 +906,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/28/2016",
+		"updated": "11/28/2016"
 	},
 	{
 		"name": "HIRER",
@@ -914,7 +915,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/21/2008",
+		"updated": "10/21/2008"
 	},
 	{
 		"name": "HIRIM",
@@ -923,7 +924,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/05/2013",
+		"updated": "02/05/2013"
 	},
 	{
 		"name": "HIRKA",
@@ -932,7 +933,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/07/2005",
+		"updated": "09/07/2005"
 	},
 	{
 		"name": "HIRMN",
@@ -941,7 +942,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/23/2014",
+		"updated": "10/23/2014"
 	},
 	{
 		"name": "HIRUS",
@@ -950,7 +951,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "HITVA",
@@ -959,7 +960,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/04/2009",
+		"updated": "11/04/2009"
 	},
 	{
 		"name": "HIVDI",
@@ -968,7 +969,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/06/2009",
+		"updated": "04/06/2009"
 	},
 	{
 		"name": "HIVRI",
@@ -977,7 +978,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/02/2007",
+		"updated": "04/02/2007"
 	},
 	{
 		"name": "HIVUX",
@@ -986,7 +987,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BJA*TACAN*149.51/5.29",
+		"updated": "BJA*TACAN*149.51/5.29"
 	},
 	{
 		"name": "HNDRK",
@@ -995,7 +996,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "SLK*VOR/DME*/3.76",
+		"updated": "SLK*VOR/DME*/3.76"
 	},
 	{
 		"name": "HNOVR",
@@ -1004,7 +1005,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/27/2014",
+		"updated": "09/27/2014"
 	},
 	{
 		"name": "HOBAM",
@@ -1013,7 +1014,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*320.00/18.00",
+		"updated": "DPK*VOR/DME*320.00/18.00"
 	},
 	{
 		"name": "HOBET",
@@ -1022,7 +1023,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/01/2011",
+		"updated": "08/01/2011"
 	},
 	{
 		"name": "HODSA",
@@ -1031,7 +1032,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/03/2010",
+		"updated": "09/03/2010"
 	},
 	{
 		"name": "HOFFI",
@@ -1040,7 +1041,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "JFK*VOR/DME*092.00/60.60",
+		"updated": "JFK*VOR/DME*092.00/60.60"
 	},
 	{
 		"name": "HOGDU",
@@ -1049,7 +1050,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/04/2009",
+		"updated": "11/04/2009"
 	},
 	{
 		"name": "HOGOK",
@@ -1058,7 +1059,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/20/2017",
+		"updated": "10/20/2017"
 	},
 	{
 		"name": "HOKAT",
@@ -1067,7 +1068,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/04/2009",
+		"updated": "11/04/2009"
 	},
 	{
 		"name": "HOKDU",
@@ -1076,7 +1077,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/27/2014",
+		"updated": "09/27/2014"
 	},
 	{
 		"name": "HOKEL",
@@ -1085,7 +1086,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/03/2011",
+		"updated": "06/03/2011"
 	},
 	{
 		"name": "HOKMI",
@@ -1094,7 +1095,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/15/2003",
+		"updated": "05/15/2003"
 	},
 	{
 		"name": "HOKVA",
@@ -1103,7 +1104,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/31/2015",
+		"updated": "08/31/2015"
 	},
 	{
 		"name": "HOKVU",
@@ -1112,7 +1113,7 @@
 		"state": "",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "04/16/2012",
+		"updated": "04/16/2012"
 	},
 	{
 		"name": "HOLVO",
@@ -1121,7 +1122,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/04/2009",
+		"updated": "11/04/2009"
 	},
 	{
 		"name": "HOLZZ",
@@ -1130,7 +1131,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/24/2012",
+		"updated": "07/24/2012"
 	},
 	{
 		"name": "HOMEY",
@@ -1139,7 +1140,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "HFD*VOR/DME*003.96",
+		"updated": "HFD*VOR/DME*003.96"
 	},
 	{
 		"name": "HOMGI",
@@ -1148,7 +1149,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/15/2013",
+		"updated": "01/15/2013"
 	},
 	{
 		"name": "HOMUN",
@@ -1157,7 +1158,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/21/2008",
+		"updated": "10/21/2008"
 	},
 	{
 		"name": "HOMUX",
@@ -1166,7 +1167,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/18/2013",
+		"updated": "01/18/2013"
 	},
 	{
 		"name": "HONIB",
@@ -1175,7 +1176,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "VOE*LD*145.83/12.80",
+		"updated": "VOE*LD*145.83/12.80"
 	},
 	{
 		"name": "HOPMU",
@@ -1184,7 +1185,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/11/2015",
+		"updated": "03/11/2015"
 	},
 	{
 		"name": "HOPTU",
@@ -1193,7 +1194,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PVD*VOR/DME*093.00/18.00",
+		"updated": "PVD*VOR/DME*093.00/18.00"
 	},
 	{
 		"name": "HOPUL",
@@ -1202,7 +1203,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "HORAX",
@@ -1211,7 +1212,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/08/2007",
+		"updated": "05/08/2007"
 	},
 	{
 		"name": "HOSAK",
@@ -1220,7 +1221,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/24/2007",
+		"updated": "04/24/2007"
 	},
 	{
 		"name": "HOSEP",
@@ -1229,7 +1230,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MLT*VOR/DME*218.91/37.22",
+		"updated": "MLT*VOR/DME*218.91/37.22"
 	},
 	{
 		"name": "HOSOS",
@@ -1238,7 +1239,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/27/2010",
+		"updated": "07/27/2010"
 	},
 	{
 		"name": "HOTMI",
@@ -1247,7 +1248,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/03/2014",
+		"updated": "11/03/2014"
 	},
 	{
 		"name": "HOTOM",
@@ -1256,7 +1257,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/22/2010",
+		"updated": "06/22/2010"
 	},
 	{
 		"name": "HOTSU",
@@ -1265,7 +1266,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/25/2010",
+		"updated": "04/25/2010"
 	},
 	{
 		"name": "HOVOB",
@@ -1274,7 +1275,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/18/2010",
+		"updated": "10/18/2010"
 	},
 	{
 		"name": "HOWDI",
@@ -1283,7 +1284,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "LWM*VOR/DME*222.97/14.50",
+		"updated": "LWM*VOR/DME*222.97/14.50"
 	},
 	{
 		"name": "HOXAL",
@@ -1292,7 +1293,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/03/2003",
+		"updated": "07/03/2003"
 	},
 	{
 		"name": "HOXEB",
@@ -1301,7 +1302,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/29/2016",
+		"updated": "04/29/2016"
 	},
 	{
 		"name": "HOXUB",
@@ -1310,7 +1311,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/30/2007",
+		"updated": "01/30/2007"
 	},
 	{
 		"name": "HOXUD",
@@ -1319,7 +1320,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/23/2011",
+		"updated": "06/23/2011"
 	},
 	{
 		"name": "HRALD",
@@ -1328,7 +1329,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/15/2013",
+		"updated": "01/15/2013"
 	},
 	{
 		"name": "HRRIS",
@@ -1337,7 +1338,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/04/2016",
+		"updated": "04/04/2016"
 	},
 	{
 		"name": "HSBRO",
@@ -1346,7 +1347,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "HSKEL",
@@ -1355,7 +1356,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/26/2012",
+		"updated": "06/26/2012"
 	},
 	{
 		"name": "HTOAD",
@@ -1364,7 +1365,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/22/2015",
+		"updated": "01/22/2015"
 	},
 	{
 		"name": "HUBIR",
@@ -1373,7 +1374,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/28/2011",
+		"updated": "10/28/2011"
 	},
 	{
 		"name": "HUBMA",
@@ -1382,7 +1383,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/25/2007",
+		"updated": "05/25/2007"
 	},
 	{
 		"name": "HUBTU",
@@ -1391,7 +1392,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZNY",
 		"type": "RNAV",
-		"updated": "12/30/2009",
+		"updated": "12/30/2009"
 	},
 	{
 		"name": "HUDAG",
@@ -1400,7 +1401,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/02/2014",
+		"updated": "10/02/2014"
 	},
 	{
 		"name": "HUDEN",
@@ -1409,7 +1410,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/23/2014",
+		"updated": "10/23/2014"
 	},
 	{
 		"name": "HUDOP",
@@ -1418,7 +1419,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "LFV*VOR/DME*245.66",
+		"updated": "LFV*VOR/DME*245.66"
 	},
 	{
 		"name": "HUDPO",
@@ -1427,7 +1428,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/02/2014",
+		"updated": "10/02/2014"
 	},
 	{
 		"name": "HUDRI",
@@ -1436,7 +1437,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/27/2010",
+		"updated": "07/27/2010"
 	},
 	{
 		"name": "HUFEE",
@@ -1445,7 +1446,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BOS*VOR/DME*108.52/4.26",
+		"updated": "BOS*VOR/DME*108.52/4.26"
 	},
 	{
 		"name": "HUGIV",
@@ -1454,7 +1455,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/11/2005",
+		"updated": "07/11/2005"
 	},
 	{
 		"name": "HULEM",
@@ -1463,7 +1464,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "12/18/2017",
+		"updated": "12/18/2017"
 	},
 	{
 		"name": "HUMAX",
@@ -1472,7 +1473,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/01/2003",
+		"updated": "08/01/2003"
 	},
 	{
 		"name": "HUMEP",
@@ -1481,7 +1482,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/06/2012",
+		"updated": "09/06/2012"
 	},
 	{
 		"name": "HUMIS",
@@ -1490,7 +1491,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/08/2007",
+		"updated": "11/08/2007"
 	},
 	{
 		"name": "HUMOM",
@@ -1499,7 +1500,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "OXC*LD*184.78/2.78",
+		"updated": "OXC*LD*184.78/2.78"
 	},
 	{
 		"name": "HUNED",
@@ -1508,7 +1509,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "WP",
-		"updated": "09/13/2010",
+		"updated": "09/13/2010"
 	},
 	{
 		"name": "HUNEE",
@@ -1517,7 +1518,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "HFD*VOR/DME*336.94",
+		"updated": "HFD*VOR/DME*336.94"
 	},
 	{
 		"name": "HUNUX",
@@ -1526,7 +1527,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/08/2007",
+		"updated": "11/08/2007"
 	},
 	{
 		"name": "HUPUM",
@@ -1535,7 +1536,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/01/2017",
+		"updated": "05/01/2017"
 	},
 	{
 		"name": "HURBE",
@@ -1544,7 +1545,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/14/2017",
+		"updated": "02/14/2017"
 	},
 	{
 		"name": "HURDS",
@@ -1553,7 +1554,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MPV*VOR/DME*036.73/54.75",
+		"updated": "MPV*VOR/DME*036.73/54.75"
 	},
 	{
 		"name": "HUREX",
@@ -1562,7 +1563,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PUT*VOR/DME*211.40/8.48",
+		"updated": "PUT*VOR/DME*211.40/8.48"
 	},
 	{
 		"name": "HURLY",
@@ -1571,7 +1572,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "GDM*VOR/DME*298.00/10.67",
+		"updated": "GDM*VOR/DME*298.00/10.67"
 	},
 	{
 		"name": "HURTI",
@@ -1580,7 +1581,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "FZY*LD*149.90/5.89",
+		"updated": "FZY*LD*149.90/5.89"
 	},
 	{
 		"name": "HURUN",
@@ -1589,7 +1590,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/24/2012",
+		"updated": "05/24/2012"
 	},
 	{
 		"name": "HUSAT",
@@ -1598,7 +1599,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/17/2015",
+		"updated": "09/17/2015"
 	},
 	{
 		"name": "HUSAV",
@@ -1607,7 +1608,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/14/2014",
+		"updated": "08/14/2014"
 	},
 	{
 		"name": "HUSKI",
@@ -1616,7 +1617,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CON*VOR/DME*352.43",
+		"updated": "CON*VOR/DME*352.43"
 	},
 	{
 		"name": "HUTCH",
@@ -1625,7 +1626,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "RKA*VOR/DME*331.35",
+		"updated": "RKA*VOR/DME*331.35"
 	},
 	{
 		"name": "HUTIN",
@@ -1634,7 +1635,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/23/2012",
+		"updated": "04/23/2012"
 	},
 	{
 		"name": "HUTRI",
@@ -1643,7 +1644,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/08/2007",
+		"updated": "11/08/2007"
 	},
 	{
 		"name": "HUTUB",
@@ -1652,7 +1653,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "05/15/2003",
+		"updated": "05/15/2003"
 	},
 	{
 		"name": "HUVIG",
@@ -1661,7 +1662,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/15/2013",
+		"updated": "01/15/2013"
 	},
 	{
 		"name": "HUVIR",
@@ -1670,7 +1671,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/04/2007",
+		"updated": "10/04/2007"
 	},
 	{
 		"name": "HUVUX",
@@ -1679,7 +1680,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/29/2011",
+		"updated": "06/29/2011"
 	},
 	{
 		"name": "HUXAX",
@@ -1688,7 +1689,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PTD*NDB*271.99",
+		"updated": "PTD*NDB*271.99"
 	},
 	{
 		"name": "HYLND",
@@ -1697,5 +1698,6 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PSM*VOR/DME*243.17/26.71",
-	},
+		"updated": "PSM*VOR/DME*243.17/26.71"
+	}
+]

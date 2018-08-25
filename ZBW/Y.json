@@ -1,3 +1,4 @@
+[
 	{
 		"name": "YAAKK",
 		"latitude": "43-34-51.48 N",
@@ -5,7 +6,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/23/2014",
+		"updated": "05/23/2014"
 	},
 	{
 		"name": "YAARD",
@@ -14,7 +15,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/16/2006",
+		"updated": "10/16/2006"
 	},
 	{
 		"name": "YADPU",
@@ -23,7 +24,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/17/2012",
+		"updated": "04/17/2012"
 	},
 	{
 		"name": "YAGUY",
@@ -32,7 +33,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "GDM*VOR/DME*293.86/9.90",
+		"updated": "GDM*VOR/DME*293.86/9.90"
 	},
 	{
 		"name": "YAHOO",
@@ -41,7 +42,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "ACK*VOR/DME*150.00/18.00",
+		"updated": "ACK*VOR/DME*150.00/18.00"
 	},
 	{
 		"name": "YAKUT",
@@ -50,7 +51,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "YALER",
@@ -59,7 +60,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MAD*VOR/DME*333.88",
+		"updated": "MAD*VOR/DME*333.88"
 	},
 	{
 		"name": "YANRU",
@@ -68,7 +69,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/14/2012",
+		"updated": "08/14/2012"
 	},
 	{
 		"name": "YARNN",
@@ -77,7 +78,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "YARUR",
@@ -86,7 +87,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/14/2014",
+		"updated": "08/14/2014"
 	},
 	{
 		"name": "YARUS",
@@ -95,7 +96,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/03/2009",
+		"updated": "02/03/2009"
 	},
 	{
 		"name": "YASUP",
@@ -104,7 +105,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/22/2008",
+		"updated": "10/22/2008"
 	},
 	{
 		"name": "YATUT",
@@ -113,7 +114,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/23/2014",
+		"updated": "10/23/2014"
 	},
 	{
 		"name": "YAVGU",
@@ -122,7 +123,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/15/2011",
+		"updated": "02/15/2011"
 	},
 	{
 		"name": "YAWKE",
@@ -131,7 +132,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/14/2017",
+		"updated": "02/14/2017"
 	},
 	{
 		"name": "YAYNU",
@@ -140,7 +141,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "YBERA",
@@ -149,7 +150,7 @@
 		"state": "RHODE ISLAND",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PVD*VOR/DME*234.00/6.67",
+		"updated": "PVD*VOR/DME*234.00/6.67"
 	},
 	{
 		"name": "YECKA",
@@ -158,7 +159,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CON*VOR/DME*037.00/16.13",
+		"updated": "CON*VOR/DME*037.00/16.13"
 	},
 	{
 		"name": "YECKU",
@@ -167,7 +168,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/11/2015",
+		"updated": "03/11/2015"
 	},
 	{
 		"name": "YEDUL",
@@ -176,7 +177,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "01/16/2013",
+		"updated": "01/16/2013"
 	},
 	{
 		"name": "YEFJI",
@@ -185,7 +186,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "UCA*VORTAC*331.20/21.00",
+		"updated": "UCA*VORTAC*331.20/21.00"
 	},
 	{
 		"name": "YEKUK",
@@ -194,7 +195,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BML*VOR/DME*030.00/2.30",
+		"updated": "BML*VOR/DME*030.00/2.30"
 	},
 	{
 		"name": "YELOW",
@@ -203,7 +204,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/22/2018",
+		"updated": "02/22/2018"
 	},
 	{
 		"name": "YERFO",
@@ -212,7 +213,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BTV*VOR/DME*036.00/1.10",
+		"updated": "BTV*VOR/DME*036.00/1.10"
 	},
 	{
 		"name": "YERNU",
@@ -221,7 +222,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "10/04/2016",
+		"updated": "10/04/2016"
 	},
 	{
 		"name": "YETGU",
@@ -230,7 +231,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/27/2011",
+		"updated": "06/27/2011"
 	},
 	{
 		"name": "YEYUV",
@@ -239,7 +240,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/23/2011",
+		"updated": "03/23/2011"
 	},
 	{
 		"name": "YIBUK",
@@ -248,7 +249,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/31/2015",
+		"updated": "08/31/2015"
 	},
 	{
 		"name": "YIDPU",
@@ -257,7 +258,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "GDM*VOR/DME*291.73/10.50",
+		"updated": "GDM*VOR/DME*291.73/10.50"
 	},
 	{
 		"name": "YIGUC",
@@ -266,7 +267,7 @@
 		"state": "",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/07/2010",
+		"updated": "07/07/2010"
 	},
 	{
 		"name": "YIKUP",
@@ -275,7 +276,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/18/2007",
+		"updated": "05/18/2007"
 	},
 	{
 		"name": "YIRUY",
@@ -284,7 +285,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/06/2009",
+		"updated": "11/06/2009"
 	},
 	{
 		"name": "YISUV",
@@ -293,7 +294,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BDR*VOR/DME*053.92/1.62",
+		"updated": "BDR*VOR/DME*053.92/1.62"
 	},
 	{
 		"name": "YISUY",
@@ -302,7 +303,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "07/27/2010",
+		"updated": "07/27/2010"
 	},
 	{
 		"name": "YISXI",
@@ -311,7 +312,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/10/2015",
+		"updated": "08/10/2015"
 	},
 	{
 		"name": "YIVUP",
@@ -320,7 +321,7 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "ACK*LD*061.02/2.75",
+		"updated": "ACK*LD*061.02/2.75"
 	},
 	{
 		"name": "YIXCO",
@@ -329,7 +330,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "JVH*LD*330.17/4.45",
+		"updated": "JVH*LD*330.17/4.45"
 	},
 	{
 		"name": "YIYIW",
@@ -338,7 +339,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/03/2010",
+		"updated": "08/03/2010"
 	},
 	{
 		"name": "YNOTT",
@@ -347,7 +348,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "WP",
-		"updated": "09/27/1991",
+		"updated": "09/27/1991"
 	},
 	{
 		"name": "YOBXU",
@@ -356,7 +357,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BJA*TACAN*320.66/11.53",
+		"updated": "BJA*TACAN*320.66/11.53"
 	},
 	{
 		"name": "YODAA",
@@ -365,7 +366,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "IGN*VOR/DME*302.09/10.00",
+		"updated": "IGN*VOR/DME*302.09/10.00"
 	},
 	{
 		"name": "YODEL",
@@ -374,7 +375,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MAD*VOR/DME*031.35/4.84",
+		"updated": "MAD*VOR/DME*031.35/4.84"
 	},
 	{
 		"name": "YODER",
@@ -383,7 +384,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "CCC*VOR/DME*056.65/29.91",
+		"updated": "CCC*VOR/DME*056.65/29.91"
 	},
 	{
 		"name": "YODGU",
@@ -392,7 +393,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "06/02/2005",
+		"updated": "06/02/2005"
 	},
 	{
 		"name": "YOKNZ",
@@ -401,7 +402,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PSM*VOR/DME*163.90/6.27",
+		"updated": "PSM*VOR/DME*163.90/6.27"
 	},
 	{
 		"name": "YOMAN",
@@ -410,7 +411,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*305.59",
+		"updated": "DPK*VOR/DME*305.59"
 	},
 	{
 		"name": "YOMON",
@@ -419,7 +420,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "05/23/2014",
+		"updated": "05/23/2014"
 	},
 	{
 		"name": "YORKE",
@@ -428,7 +429,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "08/27/2011",
+		"updated": "08/27/2011"
 	},
 	{
 		"name": "YORNO",
@@ -437,7 +438,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/09/2010",
+		"updated": "02/09/2010"
 	},
 	{
 		"name": "YORTU",
@@ -446,7 +447,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MSS*VORTAC*252.16/19.12",
+		"updated": "MSS*VORTAC*252.16/19.12"
 	},
 	{
 		"name": "YOSTT",
@@ -455,7 +456,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "AUG*VOR/DME*069.32/15.00",
+		"updated": "AUG*VOR/DME*069.32/15.00"
 	},
 	{
 		"name": "YOSUR",
@@ -464,7 +465,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "DPK*VOR/DME*133.90",
+		"updated": "DPK*VOR/DME*133.90"
 	},
 	{
 		"name": "YOUGO",
@@ -473,7 +474,7 @@
 		"state": "CONNECTICUT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "BDR*VOR/DME*029.99",
+		"updated": "BDR*VOR/DME*029.99"
 	},
 	{
 		"name": "YOULL",
@@ -482,7 +483,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "MHT*VOR/DME*190.54",
+		"updated": "MHT*VOR/DME*190.54"
 	},
 	{
 		"name": "YUDUK",
@@ -491,7 +492,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "11/23/2009",
+		"updated": "11/23/2009"
 	},
 	{
 		"name": "YUDUL",
@@ -500,7 +501,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/11/2015",
+		"updated": "03/11/2015"
 	},
 	{
 		"name": "YUGUR",
@@ -509,7 +510,7 @@
 		"state": "HAWAII",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "02/23/2017",
+		"updated": "02/23/2017"
 	},
 	{
 		"name": "YUKES",
@@ -518,7 +519,7 @@
 		"state": "NEW HAMPSHIRE",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "PSM*VOR/DME*020.00/11.76",
+		"updated": "PSM*VOR/DME*020.00/11.76"
 	},
 	{
 		"name": "YUKUD",
@@ -527,7 +528,7 @@
 		"state": "MAINE",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "09/30/2009",
+		"updated": "09/30/2009"
 	},
 	{
 		"name": "YUKUT",
@@ -536,7 +537,7 @@
 		"state": "VERMONT",
 		"artcc": "ZBW",
 		"type": "RP",
-		"updated": "RUT*LD*013.52/7.39",
+		"updated": "RUT*LD*013.52/7.39"
 	},
 	{
 		"name": "YUNUD",
@@ -545,7 +546,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "03/25/2015",
+		"updated": "03/25/2015"
 	},
 	{
 		"name": "YUQIG",
@@ -554,7 +555,7 @@
 		"state": "NEW YORK",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/12/2011",
+		"updated": "04/12/2011"
 	},
 	{
 		"name": "YUSUB",
@@ -563,7 +564,7 @@
 		"state": "",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/13/2012",
+		"updated": "04/13/2012"
 	},
 	{
 		"name": "YUWFY",
@@ -572,5 +573,6 @@
 		"state": "MASSACHUSETTS",
 		"artcc": "ZBW",
 		"type": "RNAV",
-		"updated": "04/13/2012",
-	},
+		"updated": "04/13/2012"
+	}
+]

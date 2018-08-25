@@ -1,3 +1,4 @@
+[
 	{
 		"name": "UJGEM",
 		"latitude": "19-32-23.57 N",
@@ -5,7 +6,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "UJIXO",
@@ -14,7 +15,7 @@
 		"state": "MIDWAY ATOLL",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "07/08/1997",
+		"updated": "07/08/1997"
 	},
 	{
 		"name": "UKJOJ",
@@ -23,7 +24,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "07/20/2011",
+		"updated": "07/20/2011"
 	},
 	{
 		"name": "UKOSY",
@@ -32,7 +33,7 @@
 		"state": "",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "03/06/2017",
+		"updated": "03/06/2017"
 	},
 	{
 		"name": "UNADY",
@@ -41,7 +42,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "05/26/2011",
+		"updated": "05/26/2011"
 	},
 	{
 		"name": "UPOYO",
@@ -50,7 +51,7 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RNAV",
-		"updated": "04/05/2016",
+		"updated": "04/05/2016"
 	},
 	{
 		"name": "UVIHU",
@@ -59,7 +60,7 @@
 		"state": "MIDWAY ATOLL",
 		"artcc": "ZHN",
 		"type": "WP",
-		"updated": "11/02/2001",
+		"updated": "11/02/2001"
 	},
 	{
 		"name": "UWEHE",
@@ -68,5 +69,6 @@
 		"state": "HAWAII",
 		"artcc": "ZHN",
 		"type": "RP",
-		"updated": "LIH*VORTAC*147.99/0.80",
-	},
+		"updated": "LIH*VORTAC*147.99/0.80"
+	}
+]

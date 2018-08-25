@@ -1,3 +1,4 @@
+[
 	{
 		"name": "NAASH",
 		"latitude": "46-1-30.47 N",
@@ -5,7 +6,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "SSM*VOR/DME*129.34",
+		"updated": "SSM*VOR/DME*129.34"
 	},
 	{
 		"name": "NABGE",
@@ -14,7 +15,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/30/2013",
+		"updated": "05/30/2013"
 	},
 	{
 		"name": "NACPI",
@@ -23,7 +24,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/28/2005",
+		"updated": "11/28/2005"
 	},
 	{
 		"name": "NALCO",
@@ -32,7 +33,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "HML*VORTAC*173.87/18.57",
+		"updated": "HML*VORTAC*173.87/18.57"
 	},
 	{
 		"name": "NALNE",
@@ -41,7 +42,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DIK*VORTAC*183.00/3.57",
+		"updated": "DIK*VORTAC*183.00/3.57"
 	},
 	{
 		"name": "NANCZ",
@@ -50,7 +51,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/16/2016",
+		"updated": "09/16/2016"
 	},
 	{
 		"name": "NANOH",
@@ -59,7 +60,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/14/2010",
+		"updated": "05/14/2010"
 	},
 	{
 		"name": "NARCO",
@@ -68,7 +69,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MSP*LD*121.36/6.88",
+		"updated": "MSP*LD*121.36/6.88"
 	},
 	{
 		"name": "NARPE",
@@ -77,7 +78,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/06/2010",
+		"updated": "07/06/2010"
 	},
 	{
 		"name": "NASNY",
@@ -86,7 +87,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/17/2008",
+		"updated": "11/17/2008"
 	},
 	{
 		"name": "NAVTE",
@@ -95,7 +96,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/27/2009",
+		"updated": "10/27/2009"
 	},
 	{
 		"name": "NAYGI",
@@ -104,7 +105,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/24/2009",
+		"updated": "03/24/2009"
 	},
 	{
 		"name": "NAYIG",
@@ -113,7 +114,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/30/2009",
+		"updated": "03/30/2009"
 	},
 	{
 		"name": "NAYIY",
@@ -122,7 +123,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/10/2013",
+		"updated": "06/10/2013"
 	},
 	{
 		"name": "NAYLI",
@@ -131,7 +132,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/12/2009",
+		"updated": "01/12/2009"
 	},
 	{
 		"name": "NAZMY",
@@ -140,7 +141,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/20/2011",
+		"updated": "06/20/2011"
 	},
 	{
 		"name": "NEADY",
@@ -149,7 +150,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FCM*VOR/DME*215.01/2.59",
+		"updated": "FCM*VOR/DME*215.01/2.59"
 	},
 	{
 		"name": "NEBBS",
@@ -158,7 +159,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "HIB*VOR/DME*231.00",
+		"updated": "HIB*VOR/DME*231.00"
 	},
 	{
 		"name": "NEBYI",
@@ -167,7 +168,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/03/2013",
+		"updated": "09/03/2013"
 	},
 	{
 		"name": "NECIG",
@@ -176,7 +177,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/22/2010",
+		"updated": "03/22/2010"
 	},
 	{
 		"name": "NEEPS",
@@ -185,7 +186,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/25/2016",
+		"updated": "02/25/2016"
 	},
 	{
 		"name": "NEGOY",
@@ -194,7 +195,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "NEISH",
@@ -203,7 +204,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FSD*VORTAC*146.46/10.00",
+		"updated": "FSD*VORTAC*146.46/10.00"
 	},
 	{
 		"name": "NEKIY",
@@ -212,7 +213,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/27/2012",
+		"updated": "03/27/2012"
 	},
 	{
 		"name": "NELIC",
@@ -221,7 +222,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FOD*VORTAC*293.54/38.19",
+		"updated": "FOD*VORTAC*293.54/38.19"
 	},
 	{
 		"name": "NEMAH",
@@ -230,7 +231,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FOD*VORTAC*253.62/38.00",
+		"updated": "FOD*VORTAC*253.62/38.00"
 	},
 	{
 		"name": "NENOE",
@@ -239,7 +240,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PIR*VORTAC*291.26/17.00",
+		"updated": "PIR*VORTAC*291.26/17.00"
 	},
 	{
 		"name": "NENSE",
@@ -248,7 +249,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GRB*VORTAC*084.66/29.71",
+		"updated": "GRB*VORTAC*084.66/29.71"
 	},
 	{
 		"name": "NEOKE",
@@ -257,7 +258,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/11/2008",
+		"updated": "02/11/2008"
 	},
 	{
 		"name": "NEPCO",
@@ -266,7 +267,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "11/15/2012",
+		"updated": "11/15/2012"
 	},
 	{
 		"name": "NEPFY",
@@ -275,7 +276,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/17/2005",
+		"updated": "05/17/2005"
 	},
 	{
 		"name": "NERDE",
@@ -284,7 +285,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DVL*VOR/DME*090.24/15.00",
+		"updated": "DVL*VOR/DME*090.24/15.00"
 	},
 	{
 		"name": "NEROE",
@@ -293,7 +294,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MTW*VOR/DME*041.00",
+		"updated": "MTW*VOR/DME*041.00"
 	},
 	{
 		"name": "NESIC",
@@ -302,7 +303,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/18/2012",
+		"updated": "05/18/2012"
 	},
 	{
 		"name": "NETIE",
@@ -311,7 +312,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "NEUSE",
@@ -320,7 +321,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/02/2010",
+		"updated": "02/02/2010"
 	},
 	{
 		"name": "NEVAD",
@@ -329,7 +330,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DSM*VORTAC*001.04/35.04",
+		"updated": "DSM*VORTAC*001.04/35.04"
 	},
 	{
 		"name": "NEVPE",
@@ -338,7 +339,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/30/2008",
+		"updated": "07/30/2008"
 	},
 	{
 		"name": "NEVVI",
@@ -347,7 +348,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/02/2012",
+		"updated": "08/02/2012"
 	},
 	{
 		"name": "NEWFE",
@@ -356,7 +357,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/14/2009",
+		"updated": "09/14/2009"
 	},
 	{
 		"name": "NEWRN",
@@ -365,7 +366,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "FSD*VORTAC*109.84/48.64",
+		"updated": "FSD*VORTAC*109.84/48.64"
 	},
 	{
 		"name": "NEWRY",
@@ -374,7 +375,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "RST*VOR/DME*259.73/29.36",
+		"updated": "RST*VOR/DME*259.73/29.36"
 	},
 	{
 		"name": "NEXRU",
@@ -383,7 +384,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DIK*VORTAC*169.42/19.63",
+		"updated": "DIK*VORTAC*169.42/19.63"
 	},
 	{
 		"name": "NEYIL",
@@ -392,7 +393,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/15/2012",
+		"updated": "11/15/2012"
 	},
 	{
 		"name": "NEYIY",
@@ -401,7 +402,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/02/2013",
+		"updated": "01/02/2013"
 	},
 	{
 		"name": "NICKE",
@@ -410,7 +411,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MOT*LD*SE CRS/6.44",
+		"updated": "MOT*LD*SE CRS/6.44"
 	},
 	{
 		"name": "NICKL",
@@ -419,7 +420,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GEP*VORTAC*103.00/70.00",
+		"updated": "GEP*VORTAC*103.00/70.00"
 	},
 	{
 		"name": "NICOT",
@@ -428,7 +429,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "OSH*VORTAC*044.00",
+		"updated": "OSH*VORTAC*044.00"
 	},
 	{
 		"name": "NIDLE",
@@ -437,7 +438,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/17/2011",
+		"updated": "05/17/2011"
 	},
 	{
 		"name": "NIGME",
@@ -446,7 +447,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/09/2012",
+		"updated": "08/09/2012"
 	},
 	{
 		"name": "NILIE",
@@ -455,7 +456,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/21/2011",
+		"updated": "06/21/2011"
 	},
 	{
 		"name": "NIMFI",
@@ -464,7 +465,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/30/2008",
+		"updated": "07/30/2008"
 	},
 	{
 		"name": "NIMMU",
@@ -473,7 +474,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/22/2007",
+		"updated": "01/22/2007"
 	},
 	{
 		"name": "NINDE",
@@ -482,7 +483,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/14/2011",
+		"updated": "02/14/2011"
 	},
 	{
 		"name": "NISCO",
@@ -491,7 +492,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/25/2009",
+		"updated": "08/25/2009"
 	},
 	{
 		"name": "NISDE",
@@ -500,7 +501,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/19/2013",
+		"updated": "02/19/2013"
 	},
 	{
 		"name": "NISIC",
@@ -509,7 +510,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/01/2012",
+		"updated": "08/01/2012"
 	},
 	{
 		"name": "NITVY",
@@ -518,7 +519,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "12/28/2006",
+		"updated": "12/28/2006"
 	},
 	{
 		"name": "NITZR",
@@ -527,7 +528,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/14/2015",
+		"updated": "01/14/2015"
 	},
 	{
 		"name": "NIVIY",
@@ -536,7 +537,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/30/2009",
+		"updated": "12/30/2009"
 	},
 	{
 		"name": "NIWRA",
@@ -545,7 +546,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/05/2015",
+		"updated": "05/05/2015"
 	},
 	{
 		"name": "NIYKU",
@@ -554,7 +555,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/04/2010",
+		"updated": "04/04/2010"
 	},
 	{
 		"name": "NNEWW",
@@ -563,7 +564,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/14/2015",
+		"updated": "01/14/2015"
 	},
 	{
 		"name": "NOBAC",
@@ -572,7 +573,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GRB*VORTAC*124.49/87.00",
+		"updated": "GRB*VORTAC*124.49/87.00"
 	},
 	{
 		"name": "NOCCI",
@@ -581,7 +582,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "ESC*LD*093.90/0.52",
+		"updated": "ESC*LD*093.90/0.52"
 	},
 	{
 		"name": "NOCHE",
@@ -590,7 +591,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/28/2016",
+		"updated": "06/28/2016"
 	},
 	{
 		"name": "NOCIK",
@@ -599,7 +600,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "12/28/2006",
+		"updated": "12/28/2006"
 	},
 	{
 		"name": "NOCSI",
@@ -608,7 +609,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/22/2006",
+		"updated": "11/22/2006"
 	},
 	{
 		"name": "NODKE",
@@ -617,7 +618,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/23/2012",
+		"updated": "03/23/2012"
 	},
 	{
 		"name": "NODPE",
@@ -626,7 +627,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "YKN*VOR/DME*135.13/2.08",
+		"updated": "YKN*VOR/DME*135.13/2.08"
 	},
 	{
 		"name": "NOFHY",
@@ -635,7 +636,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/31/2010",
+		"updated": "03/31/2010"
 	},
 	{
 		"name": "NOFLD",
@@ -644,7 +645,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "01/14/2015",
+		"updated": "01/14/2015"
 	},
 	{
 		"name": "NOGCI",
@@ -653,7 +654,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/19/2009",
+		"updated": "06/19/2009"
 	},
 	{
 		"name": "NOGRE",
@@ -662,7 +663,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "JMS*VOR/DME*310.20/12.00",
+		"updated": "JMS*VOR/DME*310.20/12.00"
 	},
 	{
 		"name": "NOJWE",
@@ -671,7 +672,7 @@
 		"state": "OHIO",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/19/2017",
+		"updated": "07/19/2017"
 	},
 	{
 		"name": "NOKKE",
@@ -680,7 +681,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/07/2008",
+		"updated": "04/07/2008"
 	},
 	{
 		"name": "NOLAW",
@@ -689,7 +690,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "MR",
-		"updated": "VOK*TACAN*330.00/25.00",
+		"updated": "VOK*TACAN*330.00/25.00"
 	},
 	{
 		"name": "NOLYI",
@@ -698,7 +699,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "05/11/2007",
+		"updated": "05/11/2007"
 	},
 	{
 		"name": "NOMKE",
@@ -707,7 +708,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/20/2003",
+		"updated": "08/20/2003"
 	},
 	{
 		"name": "NOMRE",
@@ -716,7 +717,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MOT*VORTAC*329.17/30.00",
+		"updated": "MOT*VORTAC*329.17/30.00"
 	},
 	{
 		"name": "NOODL",
@@ -725,7 +726,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "IMT*VOR/DME*/6.00",
+		"updated": "IMT*VOR/DME*/6.00"
 	},
 	{
 		"name": "NORIE",
@@ -734,7 +735,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/05/2008",
+		"updated": "03/05/2008"
 	},
 	{
 		"name": "NORWD",
@@ -743,7 +744,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "MSP*VOR/DME*251.02/30.00",
+		"updated": "MSP*VOR/DME*251.02/30.00"
 	},
 	{
 		"name": "NOSIK",
@@ -752,7 +753,7 @@
 		"state": "",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/08/2013",
+		"updated": "04/08/2013"
 	},
 	{
 		"name": "NOSLE",
@@ -761,7 +762,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/05/2008",
+		"updated": "03/05/2008"
 	},
 	{
 		"name": "NOSON",
@@ -770,7 +771,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DIK*LS*140.40",
+		"updated": "DIK*LS*140.40"
 	},
 	{
 		"name": "NOTAP",
@@ -779,7 +780,7 @@
 		"state": "",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "11/26/2014",
+		"updated": "11/26/2014"
 	},
 	{
 		"name": "NOVGE",
@@ -788,7 +789,7 @@
 		"state": "KANSAS",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "06/09/2014",
+		"updated": "06/09/2014"
 	},
 	{
 		"name": "NOVSY",
@@ -797,7 +798,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/05/2000",
+		"updated": "07/05/2000"
 	},
 	{
 		"name": "NOYIC",
@@ -806,7 +807,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "DLH*VORTAC*094.93/39.00",
+		"updated": "DLH*VORTAC*094.93/39.00"
 	},
 	{
 		"name": "NOYIP",
@@ -815,7 +816,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/03/2012",
+		"updated": "04/03/2012"
 	},
 	{
 		"name": "NOYIT",
@@ -824,7 +825,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/02/2009",
+		"updated": "10/02/2009"
 	},
 	{
 		"name": "NOYRI",
@@ -833,7 +834,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "04/27/2011",
+		"updated": "04/27/2011"
 	},
 	{
 		"name": "NUBKE",
@@ -842,7 +843,7 @@
 		"state": "MICHIGAN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/20/2014",
+		"updated": "02/20/2014"
 	},
 	{
 		"name": "NUCDI",
@@ -851,7 +852,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "GRI*VOR/DME*108.30/32.41",
+		"updated": "GRI*VOR/DME*108.30/32.41"
 	},
 	{
 		"name": "NUKIY",
@@ -860,7 +861,7 @@
 		"state": "NEBRASKA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/06/2012",
+		"updated": "09/06/2012"
 	},
 	{
 		"name": "NUMGE",
@@ -869,7 +870,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "NUNVE",
@@ -878,7 +879,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/14/2009",
+		"updated": "10/14/2009"
 	},
 	{
 		"name": "NUPIE",
@@ -887,7 +888,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RP",
-		"updated": "PIR*VORTAC*253.92/17.00",
+		"updated": "PIR*VORTAC*253.92/17.00"
 	},
 	{
 		"name": "NUPRE",
@@ -896,7 +897,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/05/2008",
+		"updated": "03/05/2008"
 	},
 	{
 		"name": "NUPZI",
@@ -905,7 +906,7 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "02/17/2016",
+		"updated": "02/17/2016"
 	},
 	{
 		"name": "NURKE",
@@ -914,7 +915,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/23/2004",
+		"updated": "09/23/2004"
 	},
 	{
 		"name": "NURNE",
@@ -923,7 +924,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/05/2008",
+		"updated": "03/05/2008"
 	},
 	{
 		"name": "NUSCI",
@@ -932,7 +933,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "07/21/2006",
+		"updated": "07/21/2006"
 	},
 	{
 		"name": "NUSLE",
@@ -941,7 +942,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/22/2006",
+		"updated": "03/22/2006"
 	},
 	{
 		"name": "NUTFO",
@@ -950,7 +951,7 @@
 		"state": "NORTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/17/2010",
+		"updated": "08/17/2010"
 	},
 	{
 		"name": "NUVLE",
@@ -959,7 +960,7 @@
 		"state": "WISCONSIN",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "03/11/2003",
+		"updated": "03/11/2003"
 	},
 	{
 		"name": "NUYBI",
@@ -968,7 +969,7 @@
 		"state": "MINNESOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "08/16/2017",
+		"updated": "08/16/2017"
 	},
 	{
 		"name": "NUYIG",
@@ -977,7 +978,7 @@
 		"state": "SOUTH DAKOTA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "09/03/2013",
+		"updated": "09/03/2013"
 	},
 	{
 		"name": "NUYIK",
@@ -986,5 +987,6 @@
 		"state": "IOWA",
 		"artcc": "ZMP",
 		"type": "RNAV",
-		"updated": "10/14/2009",
-	},
+		"updated": "10/14/2009"
+	}
+]

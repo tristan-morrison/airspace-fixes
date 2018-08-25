@@ -1,3 +1,4 @@
+[
 	{
 		"name": "QALIB",
 		"latitude": "33-26-26.95 N",
@@ -5,7 +6,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "WP",
-		"updated": "11/02/1998",
+		"updated": "11/02/1998"
 	},
 	{
 		"name": "QAQCE",
@@ -14,7 +15,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "CN",
-		"updated": "04/28/2011",
+		"updated": "04/28/2011"
 	},
 	{
 		"name": "QUAKY",
@@ -23,7 +24,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/12/2014",
+		"updated": "08/12/2014"
 	},
 	{
 		"name": "QUANA",
@@ -32,7 +33,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/18/2017",
+		"updated": "08/18/2017"
 	},
 	{
 		"name": "QUENY",
@@ -41,7 +42,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "08/08/2014",
+		"updated": "08/08/2014"
 	},
 	{
 		"name": "QUIKK",
@@ -50,7 +51,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "TUS*VORTAC*295.00/22.00",
+		"updated": "TUS*VORTAC*295.00/22.00"
 	},
 	{
 		"name": "QURTR",
@@ -59,7 +60,7 @@
 		"state": "TEXAS",
 		"artcc": "ZAB",
 		"type": "RNAV",
-		"updated": "05/13/2015",
+		"updated": "05/13/2015"
 	},
 	{
 		"name": "QURTZ",
@@ -68,7 +69,7 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "RP",
-		"updated": "PXR*VORTAC*070.00/60.00",
+		"updated": "PXR*VORTAC*070.00/60.00"
 	},
 	{
 		"name": "QWERK",
@@ -77,5 +78,6 @@
 		"state": "ARIZONA",
 		"artcc": "ZAB",
 		"type": "MR",
-		"updated": "IWA*VORTAC*080.00/5.00",
-	},
+		"updated": "IWA*VORTAC*080.00/5.00"
+	}
+]

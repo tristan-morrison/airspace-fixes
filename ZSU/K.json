@@ -1,3 +1,4 @@
+[
 	{
 		"name": "KATOK",
 		"latitude": "18-49-50.74 N",
@@ -5,7 +6,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "BQN*VORTAC*301.52/54.55",
+		"updated": "BQN*VORTAC*301.52/54.55"
 	},
 	{
 		"name": "KBEZA",
@@ -14,7 +15,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "04/28/2017",
+		"updated": "04/28/2017"
 	},
 	{
 		"name": "KIKER",
@@ -23,7 +24,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "DDP*NDB*173.12",
+		"updated": "DDP*NDB*173.12"
 	},
 	{
 		"name": "KINCH",
@@ -32,7 +33,7 @@
 		"state": "OFFSHORE ATLANTIC",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "08/20/2009",
+		"updated": "08/20/2009"
 	},
 	{
 		"name": "KMCHO",
@@ -41,7 +42,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "01/21/2015",
+		"updated": "01/21/2015"
 	},
 	{
 		"name": "KOTME",
@@ -50,7 +51,7 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "SJU*VORTAC*344.00/12.00",
+		"updated": "SJU*VORTAC*344.00/12.00"
 	},
 	{
 		"name": "KUTHO",
@@ -59,7 +60,7 @@
 		"state": "VIRGIN ISLANDS",
 		"artcc": "ZSU",
 		"type": "RP",
-		"updated": "TMN*LD*W CRS/12.53",
+		"updated": "TMN*LD*W CRS/12.53"
 	},
 	{
 		"name": "KYAAK",
@@ -68,5 +69,6 @@
 		"state": "PUERTO RICO",
 		"artcc": "ZSU",
 		"type": "RNAV",
-		"updated": "01/20/2015",
-	},
+		"updated": "01/20/2015"
+	}
+]
